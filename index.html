@@ -7,7 +7,7 @@
 <title>Maker Invention Browser</title>
 <meta name="description" content="Catch up on maker YouTubers: every invention, grouped across all of its videos, with timelines, release stats and links.">
 <style>
-:root{color-scheme:light;--bg:#f6f5f2;--card:#fff;--line:#e2e0d8;--text:#111;--text2:#55534e;--muted:#85837b;--accent:#d9480f;--chip:#efede7;--s1:#2a78d6;--s2:#1baf7a;--s1-ink:#164f99;--s2-ink:#0b6e4b}
+:root{color-scheme:light;--bg:#f6f5f2;--card:#fff;--line:#e2e0d8;--text:#111;--text2:#55534e;--muted:#85837b;--accent:#d9480f;--chip:#efede7;--pb-silver:#9aa1ab;--pb-gold:#c99a1e;--pb-diamond:#5bb8e6;--pb-ruby:#c0213f;--pb-red:#e4253b;--s1:#2a78d6;--s2:#1baf7a;--s1-ink:#164f99;--s2-ink:#0b6e4b}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}}
 :root[data-theme="dark"]{color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}
 *{box-sizing:border-box}
@@ -26,6 +26,28 @@ header h1 a{text-decoration:none}
 .who .lead{margin:0}
 .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;background:var(--chip);flex:none}
 body.makers-page #chips,body.makers-page #path{display:none}
+.sizef{margin-top:4px}
+.presets{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
+.presets button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px;font-size:13px;cursor:pointer;color:var(--text);display:inline-flex;gap:6px;align-items:baseline}
+.presets button span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+.presets button[aria-pressed="true"]{background:var(--text);border-color:var(--text);color:var(--bg);font-weight:600}
+.presets button[aria-pressed="true"] span{color:var(--bg);opacity:.75}
+.scale{position:relative;margin:8px 12px 0;touch-action:none;user-select:none}
+.scale .track{position:absolute;left:0;right:0;height:4px;border-radius:2px;background:var(--line)}
+.scale .sel{position:absolute;height:6px;border-radius:3px;background:var(--accent)}
+.scale .hdl{position:absolute;width:22px;height:22px;margin:-11px 0 0 -11px;border-radius:50%;background:var(--card);border:3px solid var(--accent);cursor:grab;padding:0;z-index:3;box-shadow:0 1px 4px rgba(0,0,0,.25)}
+.scale .hdl.drag{cursor:grabbing;transform:scale(1.15)}
+.scale .hdl:focus-visible{outline:2px solid var(--text);outline-offset:2px}
+.scale .sdot{position:absolute;width:11px;height:11px;margin-left:-5.5px;border-radius:50%;background:var(--s1);border:2px solid var(--card);z-index:2;transition:opacity .15s}
+.scale .sdot:hover{transform:scale(1.4)}
+.scale .sdot.out{opacity:.22}
+.scale .ms{position:absolute;top:0;border-left:1.5px dashed var(--line);z-index:1}
+.scale .pb{position:absolute;top:0;left:-10px;width:20px;height:14px;border-radius:4px;background:var(--c)}
+.scale .pb::after{content:"";position:absolute;left:8px;top:3.5px;border-left:6px solid #fff;border-top:3.5px solid transparent;border-bottom:3.5px solid transparent}
+.scale .ml{position:absolute;top:0;left:13px;font-size:11px;color:var(--text2);white-space:nowrap;line-height:14px}
+.scale .ms.flip .ml{left:auto;right:-10px;top:15px}
+.scale .tick{position:absolute;transform:translateX(-50%);font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+@media (max-width:560px){.scale .ml{display:none}.scale{margin:8px 8px 0}}
 .mline{font-size:13px;color:var(--text2);margin-top:-4px}
 .mline b{color:var(--text);font-weight:600}
 .mline .hl{color:var(--accent);font-weight:600}
@@ -445,7 +467,7 @@ function openMenu(open){
 }
 function chooseSort(k){
   openMenu(false); btn.focus();
-  if (onMakers()) { st.mSort = k; saveSt(); renderControls(); renderMakers(); return; }
+  if (onMakers()) { st.mSort = k; saveSt(); renderControls(); renderMakerGrid(); return; }
   st.sort = k; saveSt(); if (current) location.hash = home(); else update();
 }
 btn.onclick = () => openMenu(menu.hidden);
@@ -461,7 +483,7 @@ document.addEventListener("click", e => { if (!menu.hidden && !e.target.closest(
 $("chips").onclick = e => { const b = e.target.closest("[data-kind]"); if (!b) return; st.kind = b.dataset.kind; saveSt();
   if (current && !filtered().includes(current)) location.hash = home(); else update(); };
 $("q").oninput = e => {
-  if (onMakers()) { st.mq = e.target.value; saveSt(); renderMakers(); return; }
+  if (onMakers()) { st.mq = e.target.value; saveSt(); renderMakerGrid(); return; }
   st.q = e.target.value; saveSt(); if (current) location.hash = home(); else update();
 };
 
@@ -624,15 +646,89 @@ function card(x, pos){
 }
 
 // ---------- makers front page ----------
+// ---------- channel-size filter (log scale, YouTube Play Button bands) ----------
+const LG = v => Math.log10(Math.max(1, v));
+const SIZE_LO = Math.min(4, Math.floor(LG(Math.min(...CREATORS.map(c => c.subs || 1))))), SIZE_HI = Math.max(8, Math.ceil(LG(Math.max(...CREATORS.map(c => c.subs || 1)))));
+const SIZE_PRESETS = [["all", "All", SIZE_LO, SIZE_HI], ["tiny", "Tiny", SIZE_LO, 5], ["small", "Small", 5, 6], ["medium", "Medium", 6, 7], ["big", "Big", 7, SIZE_HI]];
+const MILESTONES = [[1e5, "Silver", "var(--pb-silver)"], [1e6, "Gold", "var(--pb-gold)"], [1e7, "Diamond", "var(--pb-diamond)"], [5e7, "Ruby", "var(--pb-ruby)"], [1e8, "Red Diamond", "var(--pb-red)"]];
+const inSize = c => { const v = LG(c.subs); return v >= st.sMin - 1e-9 && (v < st.sMax || st.sMax >= SIZE_HI); };
+const sizePct = v => (v - SIZE_LO) / (SIZE_HI - SIZE_LO) * 100;
+const sizeText = v => fmt(Math.round(10 ** v / (10 ** v >= 1e6 ? 1e4 : 1e2)) * (10 ** v >= 1e6 ? 1e4 : 1e2));
+function ensureSize(){ if (!(st.sMin >= SIZE_LO && st.sMax <= SIZE_HI && st.sMin < st.sMax)) { st.sMin = SIZE_LO; st.sMax = SIZE_HI; } }
+
 function renderMakers(){
   document.title = SITE;
-  const seen = getSeen();
   if (!MSORT[st.mSort]) st.mSort = "subs";
+  ensureSize();
+  // stack maker dots into rows so neighbours don't overlap
+  const rowsEnd = [], dots = [...CREATORS].sort((a, b) => a.subs - b.subs).map(c => {
+    const x = sizePct(LG(c.subs)); let r = rowsEnd.findIndex(e => x - e > 2.2); if (r < 0) { r = rowsEnd.length; rowsEnd.push(-99); } rowsEnd[r] = x; return { c, x, r };
+  });
+  const rows = Math.max(1, rowsEnd.length), dotTop = 30, trackTop = dotTop + rows * 13 + 10;
+  const ticks = []; for (let e = SIZE_LO; e <= SIZE_HI; e++) ticks.push(e);
+  main.innerHTML = `
+  <section class="wrap panel sizef" aria-label="Filter by channel size">
+    <div class="ph"><h3>Channel size</h3><span class="sub" id="sizeLabel"></span></div>
+    <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
+      const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
+      return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${fmt(10 ** a)}${b >= SIZE_HI ? "+" : "–" + fmt(10 ** b)} · `}${n}</span></button>`; }).join("")}</div>
+    <div class="scale" id="scale" style="height:${trackTop + 34}px">
+      ${MILESTONES.filter(([v]) => LG(v) <= SIZE_HI).map(([v, name, col]) => `<div class="ms${sizePct(LG(v)) > 97 ? " flip" : ""}" style="left:${sizePct(LG(v))}%;height:${trackTop}px" title="${name} Play Button: ${fmt(v)} subscribers"><span class="pb" style="--c:${col}"></span><span class="ml">${name}</span></div>`).join("")}
+      <div class="track" style="top:${trackTop}px"></div><div class="sel" id="sel" style="top:${trackTop - 1}px"></div>
+      ${dots.map(d => `<a class="sdot" href="#/${d.c.slug}" data-slug="${d.c.slug}" style="left:${d.x}%;top:${dotTop + d.r * 13}px" title="${esc(d.c.name)} · ${fmt(d.c.subs)} subscribers" aria-label="${esc(d.c.name)}, ${fmt(d.c.subs)} subscribers"></a>`).join("")}
+      <button class="hdl" id="hLo" role="slider" aria-label="Minimum subscribers" style="top:${trackTop + 2}px"></button>
+      <button class="hdl" id="hHi" role="slider" aria-label="Maximum subscribers" style="top:${trackTop + 2}px"></button>
+      ${ticks.map(e => `<span class="tick" style="left:${sizePct(e)}%;top:${trackTop + 14}px">${fmt(10 ** e)}</span>`).join("")}
+    </div>
+  </section>
+  <div id="makerGrid"></div>
+  <p class="wrap sub small" style="margin:18px auto 50px">Each maker's inventions are hand-curated from their full upload history and press coverage. Size bands follow YouTube's Play Button awards: Silver at 100K subscribers, Gold at 1M, Diamond at 10M.</p>`;
+  wireSize();
+  updateSizeUI();
+  renderMakerGrid();
+}
+function updateSizeUI(){
+  const lo = sizePct(st.sMin), hi = sizePct(st.sMax), sel = $("sel"); if (!sel) return;
+  sel.style.left = lo + "%"; sel.style.width = (hi - lo) + "%";
+  $("hLo").style.left = lo + "%"; $("hHi").style.left = hi + "%";
+  [["hLo", st.sMin], ["hHi", st.sMax]].forEach(([id, v]) => { const h = $(id); h.setAttribute("aria-valuemin", SIZE_LO); h.setAttribute("aria-valuemax", SIZE_HI); h.setAttribute("aria-valuenow", v.toFixed(2)); h.setAttribute("aria-valuetext", sizeText(v) + " subscribers"); h.title = sizeText(v); });
+  main.querySelectorAll(".sdot").forEach(d => d.classList.toggle("out", !inSize(CREATORS.find(c => c.slug === d.dataset.slug))));
+  const n = CREATORS.filter(inSize).length, all = st.sMin <= SIZE_LO && st.sMax >= SIZE_HI;
+  $("sizeLabel").textContent = all ? `All sizes · ${n} makers` : `${sizeText(st.sMin)} – ${st.sMax >= SIZE_HI ? "any" : sizeText(st.sMax)} subscribers · ${n} of ${CREATORS.length} makers`;
+  main.querySelectorAll("[data-preset]").forEach(b => { const p = SIZE_PRESETS.find(x => x[0] === b.dataset.preset); b.setAttribute("aria-pressed", Math.abs(p[2] - st.sMin) < 1e-6 && Math.abs(p[3] - st.sMax) < 1e-6); });
+}
+let gridRAF = 0;
+const queueGrid = () => { cancelAnimationFrame(gridRAF); gridRAF = requestAnimationFrame(renderMakerGrid); };
+function setSize(a, b){ st.sMin = Math.max(SIZE_LO, Math.min(a, b - 0.1)); st.sMax = Math.min(SIZE_HI, Math.max(b, st.sMin + 0.1)); saveSt(); updateSizeUI(); queueGrid(); }
+function wireSize(){
+  const scale = $("scale");
+  main.querySelectorAll("[data-preset]").forEach(b => b.onclick = () => { const p = SIZE_PRESETS.find(x => x[0] === b.dataset.preset); setSize(p[2], p[3]); });
+  const valAt = x => { const r = scale.getBoundingClientRect(); return SIZE_LO + Math.max(0, Math.min(1, (x - r.left) / r.width)) * (SIZE_HI - SIZE_LO); };
+  const snap = v => Math.abs(v - Math.round(v)) < 0.06 ? Math.round(v) : Math.round(v * 50) / 50;  // snap to Play Button decades
+  [["hLo", "min"], ["hHi", "max"]].forEach(([id, which]) => {
+    const h = $(id);
+    h.onpointerdown = e => { e.preventDefault(); h.setPointerCapture(e.pointerId); h.classList.add("drag");
+      h.onpointermove = ev => { const v = snap(valAt(ev.clientX)); which === "min" ? setSize(v, st.sMax) : setSize(st.sMin, v); };
+      h.onpointerup = h.onpointercancel = () => { h.onpointermove = null; h.classList.remove("drag"); }; };
+    h.onkeydown = e => {
+      const step = e.shiftKey || e.key.startsWith("Page") ? 1 : 0.1, d = { ArrowLeft: -step, ArrowDown: -step, PageDown: -step, ArrowRight: step, ArrowUp: step, PageUp: step }[e.key];
+      if (d != null) { e.preventDefault(); which === "min" ? setSize(st.sMin + d, st.sMax) : setSize(st.sMin, st.sMax + d); }
+      if (e.key === "Home") { e.preventDefault(); which === "min" ? setSize(SIZE_LO, st.sMax) : setSize(st.sMin, st.sMin + 0.1); }
+      if (e.key === "End") { e.preventDefault(); which === "min" ? setSize(st.sMax - 0.1, st.sMax) : setSize(st.sMin, SIZE_HI); }
+    };
+  });
+  // clicking the bare track moves the nearest handle there
+  scale.onpointerdown = e => { if (e.target.closest(".hdl,.sdot")) return; const v = snap(valAt(e.clientX));
+    Math.abs(v - st.sMin) < Math.abs(v - st.sMax) ? setSize(v, st.sMax) : setSize(st.sMin, v); };
+}
+function renderMakerGrid(){
+  const grid = $("makerGrid"); if (!grid) return;
+  const seen = getSeen();
   const t = st.mq.trim().toLowerCase();
   const matchInv = c => t ? c.inventions.filter(x => (x.name + " " + x.desc).toLowerCase().includes(t)) : [];
-  const shown = CREATORS.filter(c => !t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length).sort(MSORT[st.mSort].cmp);
+  const shown = CREATORS.filter(c => inSize(c) && (!t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length)).sort(MSORT[st.mSort].cmp);
   const ago = d => { const days = (Date.now() - ms(d)) / DAY; return days < 1 ? "today" : days < 2 ? "yesterday" : days < 14 ? Math.round(days) + " days ago" : days < 60 ? Math.round(days / 7) + " weeks ago" : days < 730 ? Math.round(days / 30.4) + " months ago" : Math.round(days / 365) + " years ago"; };
-  main.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers or inventions match “${esc(st.mq)}”.</p>`) + `<div class="wrap makers">${shown.map((c, ci) => {
+  grid.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers match${t ? ` “${esc(st.mq)}”` : ""} in this size range.</p>`) + `<div class="wrap makers">${shown.map((c, ci) => {
     const hits = matchInv(c);
     const top = (hits.length ? hits : [...c.inventions]).sort((a, b) => b.views - a.views).slice(0, 3);
     const viewed = c.inventions.filter(x => isSeen(seen, c, x)).length, pct = Math.round(viewed / c.inventions.length * 100);
@@ -650,8 +746,7 @@ function renderMakers(){
       <div class="mtop"><h4>${hits.length ? `${plural(hits.length, "matching invention")}` : "Biggest inventions"}</h4>${top.map(x => `<a href="#/${c.slug}/${x.slug}"><img src="${thumb(x.hero)}" alt="" loading="lazy"><span><b>${esc(x.name)}</b><span>${date(x.start)} · ${fmt(x.views)} views</span></span></a>`).join("")}</div>
       <div class="mfoot"><div class="prog"><div class="bar"><i style="width:${pct}%"></i></div><span>${viewed ? `You've viewed ${viewed} of ${c.inventions.length}` : "Not started yet"}</span></div>
         <a class="go" href="#/${c.slug}">Browse ${c.inventions.length} inventions →</a></div>
-    </article>`; }).join("")}</div>
-    <p class="wrap sub small" style="margin:18px auto 50px">Each maker's inventions are hand-curated from their full upload history and press coverage.</p>`;
+    </article>`; }).join("")}</div>`;
   drawMakerCharts();
 }
 function drawMakerCharts(){
@@ -817,7 +912,7 @@ function route(){
 let rzT, lastW = window.innerWidth;
 window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(() => {
   if (window.innerWidth === lastW) return; lastW = window.innerWidth;
-  if (page === "makers") drawMakerCharts();
+  if (page === "makers") renderMakers();
   else if (current) { renderPath(); renderProject.redraw?.(); } else { drawBars(cadence()); drawLengths(); updateHome(); }
 }, 150); });
 $("q").value = st.q;
