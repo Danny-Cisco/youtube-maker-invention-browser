@@ -125,6 +125,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 
 ```bash
 python3 build/build.py index.html $(cat build/makers.txt)
+node build/make_social.js   # refreshes the link-preview image and icons in assets/ (numbers on the card)
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), or draft one automatically with `build/auto_inventions.py`, and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.

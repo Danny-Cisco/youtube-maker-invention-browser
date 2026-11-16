@@ -5,8 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>YouTuber Invention Catalogue</title>
-<meta name="description" content="YouTuber Invention Catalogue: everything YouTube's makers have built, each invention grouped across all of its videos, with timelines, release stats and links.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg%20viewBox%3D%22-2%20-4%2044%2046%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cg%20stroke%3D%22%23ffb703%22%20stroke-width%3D%222.6%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M20-2.5v3.2M6.3%203.2l2.3%202.3M33.7%203.2l-2.3%202.3%22/%3E%3C/g%3E%3Cpath%20d%3D%22M20%204C13%204%208%209.3%208%2015.8c0%204%202%207.1%204.8%209.3%201.1.9%201.7%202%201.7%203.3v.9h11v-.9c0-1.3.6-2.4%201.7-3.3%202.8-2.2%204.8-5.3%204.8-9.3C32%209.3%2027%204%2020%204z%22%20fill%3D%22%23e62e25%22/%3E%3Cpath%20d%3D%22M17%2010.6l8.6%205.2-8.6%205.2z%22%20fill%3D%22%23fff%22%20stroke%3D%22%23fff%22%20stroke-width%3D%221.6%22%20stroke-linejoin%3D%22round%22/%3E%3Crect%20x%3D%2214.5%22%20y%3D%2231%22%20width%3D%2211%22%20height%3D%223%22%20rx%3D%221.5%22%20fill%3D%22%238a8780%22/%3E%3Crect%20x%3D%2216%22%20y%3D%2235.6%22%20width%3D%228%22%20height%3D%222.8%22%20rx%3D%221.4%22%20fill%3D%22%238a8780%22/%3E%3C/svg%3E">
+<meta name="description" content="Every invention from YouTube's makers, from Simone Giertz to Look Mum No Computer: each build grouped across all its videos, with timelines, stats and links.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta name="theme-color" content="#111110">
+<link rel="canonical" href="https://danny-cisco.github.io/youtube-maker-invention-browser/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="YouTuber Invention Catalogue">
+<meta property="og:title" content="YouTuber Invention Catalogue">
+<meta property="og:description" content="Every invention from YouTube's makers, from Simone Giertz to Look Mum No Computer: each build grouped across all its videos, with timelines, stats and links.">
+<meta property="og:url" content="https://danny-cisco.github.io/youtube-maker-invention-browser/">
+<meta property="og:image" content="https://danny-cisco.github.io/youtube-maker-invention-browser/assets/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="YouTuber Invention Catalogue: a light-bulb play-button logo over a field of dots, one for every invention">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="YouTuber Invention Catalogue">
+<meta name="twitter:description" content="Every invention from YouTube's makers, from Simone Giertz to Look Mum No Computer: each build grouped across all its videos, with timelines, stats and links.">
+<meta name="twitter:image" content="https://danny-cisco.github.io/youtube-maker-invention-browser/assets/og-image.jpg">
 <style>
 :root{color-scheme:light;--bg:#f6f5f2;--card:#fff;--line:#e2e0d8;--text:#111;--text2:#55534e;--muted:#85837b;--accent:#d9480f;--chip:#efede7;--pb-silver:#9aa1ab;--pb-gold:#c99a1e;--pb-diamond:#5bb8e6;--pb-ruby:#c0213f;--pb-red:#e4253b;--s1:#2a78d6;--s2:#1baf7a;--s1-ink:#164f99;--s2-ink:#0b6e4b}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}}
@@ -356,7 +374,7 @@ CREATORS.forEach(c => {
   c.lastUpload = c.uploads[c.uploads.length - 1].d;
 });
 const SITE = "YouTuber Invention Catalogue";
-const LOGO = `<svg viewBox="-2 -4 44 46" aria-hidden="true"><g stroke="#ffb703" stroke-width="2.6" stroke-linecap="round"><path d="M20-2.5v3.2M6.3 3.2l2.3 2.3M33.7 3.2l-2.3 2.3"/></g><path d="M20 4C13 4 8 9.3 8 15.8c0 4 2 7.1 4.8 9.3 1.1.9 1.7 2 1.7 3.3v.9h11v-.9c0-1.3.6-2.4 1.7-3.3 2.8-2.2 4.8-5.3 4.8-9.3C32 9.3 27 4 20 4z" fill="#e62e25"/><path d="M17 10.6l8.6 5.2-8.6 5.2z" fill="#fff" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/><rect x="14.5" y="31" width="11" height="3" rx="1.5" fill="#8a8780"/><rect x="16" y="35.6" width="8" height="2.8" rx="1.4" fill="#8a8780"/></svg>`;
+const LOGO = `<svg viewBox="-2 -4 44 46" aria-hidden="true"><g stroke="#e62e25" stroke-width="2.6" stroke-linecap="round"><path d="M20-2.5v3.2M6.3 3.2l2.3 2.3M33.7 3.2l-2.3 2.3M1.5 15.5h3.2M38.5 15.5h-3.2"/></g><path d="M20 4C13 4 8 9.3 8 15.8c0 4 2 7.1 4.8 9.3 1.1.9 1.7 2 1.7 3.3v.9h11v-.9c0-1.3.6-2.4 1.7-3.3 2.8-2.2 4.8-5.3 4.8-9.3C32 9.3 27 4 20 4z" fill="#e62e25"/><path d="M17 10.6l8.6 5.2-8.6 5.2z" fill="#fff" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/><rect x="14.5" y="31" width="11" height="3" rx="1.5" fill="#8a8780"/><rect x="16" y="35.6" width="8" height="2.8" rx="1.4" fill="#8a8780"/></svg>`;
 const fmtDur = s => { const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(x).padStart(2, "0"); };
 const fmtLen = s => s < 90 ? Math.round(s) + " s" : s < 3600 ? Math.round(s / 60) + " min" : Math.floor(s / 3600) + "h " + String(Math.round(s % 3600 / 60)).padStart(2, "0") + "m";
 // Share of this maker's long-form videos that are shorter than s
