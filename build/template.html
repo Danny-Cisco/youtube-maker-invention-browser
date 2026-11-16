@@ -371,6 +371,7 @@ const SORTS = [
   { k:"views",  label:"Views: highest first", cmp:(a,b) => b.views - a.views },
   { k:"viewsLo",label:"Views: lowest first",  cmp:(a,b) => a.views - b.views },
   { sep:true },
+  { k:"videos", label:"Videos: most first",    cmp:(a,b) => b.videos.length - a.videos.length || b.views - a.views },
   { k:"long",   label:"Long-form: most first", cmp:(a,b) => b.nLong - a.nLong || b.views - a.views },
   { k:"shorts", label:"Shorts: most first",    cmp:(a,b) => b.nShort - a.nShort || b.views - a.views },
   { sep:true },
