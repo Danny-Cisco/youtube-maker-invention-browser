@@ -9,6 +9,8 @@ Makers so far:
 | Simone Giertz | 76 | 260 |
 | Emily The Engineer | 44 | 83 |
 | Look Mum No Computer | 107 | 857 |
+| Stuff Made Here | 27 | 42 |
+| Michael Reeves | 37 | 57 |
 
 ## View it
 
@@ -39,9 +41,9 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc
+python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves
 ```
 
-To add a maker, fetch their videos to `data/<name>_videos.json`, write `data/<name>_inventions.py` (copy an existing one for the format), and add `data/<name>` to the build command.
+To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.
 
 For a maker whose `OTHER` is an explicit list (Emily), the build stops and lists any new uploads so they can be assigned. For a maker whose `OTHER` is `None` (Look Mum No Computer), unassigned uploads go to "Other uploads" automatically.

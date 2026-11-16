@@ -1,0 +1,531 @@
+{
+ "channel": {
+  "id": "UCtHaxi4GTYDpJgMSGy7AeSw",
+  "title": "Michael Reeves",
+  "handle": "@michaelreeves",
+  "description": "\ud83c\udf30",
+  "since": "2016-04-15",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nA1CW3Etd_zH2e9n5Fa2SgqXm173tL0rHCXaDY0wqRYwI=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "529522388",
+  "subscriberCount": "7840000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "56"
+ },
+ "videos": [
+  {
+   "id": "Q8zC3-ZQFJI",
+   "t": "The Robot That Shines a Laser in Your Eye",
+   "d": "2017-04-17",
+   "v": 5192870,
+   "s": 284,
+   "vertical": false,
+   "desc": "Super hot 1000 degree cataracts vs. my ability to see objects, watch until end to find out who wins (it's the laser).\n\nI had a lot of fun making this, if you want to shoot me a message, you can send it to michaelreeves808@gmail.com  I'll take a look and maybe make a Q&A type video out of them. \n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nGit Repository for this Project: https://bitbucket.org/mtreeves808/face-detection-laser-system\nMy Website: http://michaelreeves.us/\nMy Company Website: https://www.infibit.net/\nTwitter: @michaelreeves08\nFacebook: https://www.face"
+  },
+  {
+   "id": "wvYZ4DoYxMw",
+   "t": "What Just Happened, 4.5k Subs in 24 Hours",
+   "d": "2017-04-19",
+   "v": 891984,
+   "s": 127,
+   "vertical": false,
+   "desc": "This is just a quick video I felt the need to make after receiving great support on my previous one. I also wanted to do get a better understanding of what people want to see in the future.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nEmail: michaelreeves808@gmail.com\nTwitter: @michaelreeves08\nSnapchat: xxyolosnipesxx (really)\n\nMusic: Limes - Hooplah"
+  },
+  {
+   "id": "HgMQTvDcn_s",
+   "t": "Laser Robot In Depth | The Truth",
+   "d": "2017-04-24",
+   "v": 369643,
+   "s": 270,
+   "vertical": false,
+   "desc": "An in depth look at how the robot from my first video works. Also some news about the future of the channel.\n\nI really appreciate all the support. I don't really care what you do with my other vids, but it'd be great if you shared this one, I want to get the word out that we're starting up programming tutorials.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nFollow me on Twitter: @michaelreeves08\nMy Website: http://michaelreeves.us/\nMy Company Website: https://www.infibit.net/\n\nMusic Credit: saib. - in your arms. (I love this song)"
+  },
+  {
+   "id": "l1yTfNIZSYU",
+   "t": "C# Tutorial | Setting Up Visual Studio 2017",
+   "d": "2017-04-28",
+   "v": 1319065,
+   "s": 528,
+   "vertical": false,
+   "desc": "Download Visual Studio here: https://www.visualstudio.com/downloads/\n\nThis is the first in my series of C# tutorials. We go over setting up Visual Studio 2017, and some basic programming concepts.\n\nI hope everyone enjoys it. I would appreciate any feedback you have, I'm always reading the comments and trying to make my videos more educational/ entertaining.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nFollow me on Twitter: @michaelreeves08"
+  },
+  {
+   "id": "FID9sDXmCoQ",
+   "t": "C# Beginner Tutorial | Variables and Data Types",
+   "d": "2017-05-01",
+   "v": 466481,
+   "s": 801,
+   "vertical": false,
+   "desc": "We go over variables and simple data types. I would appreciate any feedback you have, I'm always reading the comments and trying to make my videos more educational/ entertaining.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nFollow me on Twitter: @michaelreeves08\n\nMusic Credit: saib. - Spike Spiegel"
+  },
+  {
+   "id": "ZpdvnHVIeyI",
+   "t": "DIY Laser Turret | Part 1 The Hardware",
+   "d": "2017-05-09",
+   "v": 1725431,
+   "s": 616,
+   "vertical": false,
+   "desc": "Amazon Parts Link: http://astore.amazon.com/mtrees-20\n\nPart 2 Coming soon, will show the software needed to make the turret move.\n\nMusic Credit: Saib - Act Right\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nFollow me on Twitter: @michaelreeves08"
+  },
+  {
+   "id": "WhtbyUMnalY",
+   "t": "The Annoying Machine | Channel Update",
+   "d": "2017-07-15",
+   "v": 1657980,
+   "s": 229,
+   "vertical": false,
+   "desc": "We're back. \n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nRuin My Life: http://annoy.michaelreeves.us/\nMy Site: https://michaelreeves.us/\nTwitter: https://twitter.com/michaelreeves08\n\nMusic: gfbeats - business casual: https://www.youtube.com/watch?v=jo4-FhqkNwQ"
+  },
+  {
+   "id": "EpEXk3Gt8p0",
+   "t": "AMA | Ft. The Annoying Machine | Full Length",
+   "d": "2017-07-18",
+   "v": 461805,
+   "s": 5396,
+   "vertical": false,
+   "desc": "Live Ask me anything on http://annoy.michaelreeves.us/\n\nMy site: https://michaelreeves.us/\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves"
+  },
+  {
+   "id": "frfmzbkgwbE",
+   "t": "Michael Reeves AMA",
+   "d": "2017-07-18",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": "Ask me anything on http://annoy.michaelreeves.us/\njk its league now"
+  },
+  {
+   "id": "OslFWEX2wTQ",
+   "t": "AMA Stream Highlights",
+   "d": "2017-07-19",
+   "v": 440880,
+   "s": 488,
+   "vertical": false,
+   "desc": "Stream Highlights from the 7/18/17 AMA\nThanks for coming everyone \ud83c\udf30\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nMy Site: https://michaelreeves.us/\nMy Twitter: @michaelreeves08\n\nMusic: lilbill - our day off together"
+  },
+  {
+   "id": "_P24em7Auq0",
+   "t": "DIY Laser Turret | Part 2 The Software",
+   "d": "2017-07-22",
+   "v": 976892,
+   "s": 930,
+   "vertical": false,
+   "desc": "I know I go a little fast in this tutorial, you don't really need to know what I'm saying, just that if you follow the instructions, it will work. Good luck!\n\nThis is a really fun project, I hope the wait was worth it.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\nArduino Studio: https://www.arduino.cc/en/Main/Software\nVisual Studio Setup Tutorial: https://www.youtube.com/watch?v=l1yTfNIZSYU\nProject Repository: https://bitbucket.org/mtreeves808/laserturret\n\nMy Personal Site: https://michaelreeves.us/\nTwitter: https://twitter.com/michaelreeves08\n\nMusic: jou beats. - "
+  },
+  {
+   "id": "VD-3gGnEhEQ",
+   "t": "The Subscriber Robot",
+   "d": "2017-08-09",
+   "v": 2672756,
+   "s": 281,
+   "vertical": false,
+   "desc": "Just showing that subscriber dedication\n\nMy Patreon Page: https://www.patreon.com/michaelreeves\n\nPersonal Site: https://michaelreeves.us/\nTwitter: https://twitter.com/michaelreeves08\n\nSong: Summer Salt - Sweet To Me"
+  },
+  {
+   "id": "19C-78OKoCU",
+   "t": "C# Beginner Tutorial | if Statements and User Input",
+   "d": "2017-08-17",
+   "v": 447263,
+   "s": 838,
+   "vertical": false,
+   "desc": "C# Tutorials are back my dudes\n\nMy Patreon: https://www.patreon.com/michaelreeves\nTwitter: https://twitter.com/michaelreeves08\nSite: https://michaelreeves.us/"
+  },
+  {
+   "id": "1DkoicM0zcI",
+   "t": "Avoiding Psychosis From Boredom (Vlog sort of)",
+   "d": "2017-08-27",
+   "v": 1454597,
+   "s": 293,
+   "vertical": false,
+   "desc": "I don't have much time to make videos because I'm moving in the next few days. So I made this to sate your need for stupid robotics/ programming content until I get settled in at my new place.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nSite: https://michaelreeves.us/\n\nMusic: Summer Salt - Driving To Hawaii"
+  },
+  {
+   "id": "7lz8RpDtrGw",
+   "t": "How To Lose Money on YouTube",
+   "d": "2017-08-29",
+   "v": 517319,
+   "s": 29,
+   "vertical": false,
+   "desc": "fuck.\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nSite: https://michaelreeves.us/\n\nMusic: \nSummer Salt - Driving To Hawaii\nSpongebob soundtrack -Tomfoolery (lol)"
+  },
+  {
+   "id": "Ufm3nYuHdhc",
+   "t": "3D Printing is Ruining My Life",
+   "d": "2017-10-08",
+   "v": 2095721,
+   "s": 405,
+   "vertical": false,
+   "desc": "Super hot 1000 degree plastic vs my ability to make a video. Also I love Idubbbz\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nMy Site: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSong: Vampire Weekend - Obvious Bicycle\n\n3D Printer Link: https://goo.gl/71u53B"
+  },
+  {
+   "id": "VTxPsfQ4KL4",
+   "t": "We Beat a Robot",
+   "d": "2017-10-13",
+   "v": 624688,
+   "s": 175,
+   "vertical": false,
+   "desc": "Not sure how that actually worked\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nMy Site: https://michaelreeves.us/\n\nSong: saib. - space cowboy"
+  },
+  {
+   "id": "MVIiDpf4gO0",
+   "t": "The Most Useful Robot EVER MADE",
+   "d": "2017-10-27",
+   "v": 4988406,
+   "s": 681,
+   "vertical": false,
+   "desc": "Sick robot fixes Halloween\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSong: Goodbye Moonmen - Dolphin Smiling (Rick and Morty Cover)"
+  },
+  {
+   "id": "O502R_LugE4",
+   "t": "I Freak Out Over a Copyright Claim",
+   "d": "2017-10-31",
+   "v": 2752353,
+   "s": 284,
+   "vertical": false,
+   "desc": "just wanted to throw out a quick video letting you guys know what's going on. We'll get back to normal videos, no worry\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSong: saib. - morning clouds"
+  },
+  {
+   "id": "zfYTu4T6krI",
+   "t": "Dangerously Powerful Confetti Cannons",
+   "d": "2017-11-07",
+   "v": 2443588,
+   "s": 258,
+   "vertical": false,
+   "desc": "I can't wait to make something stupid out of this\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSong: jump man 93 - bruh"
+  },
+  {
+   "id": "CQKAX6jio7s",
+   "t": "My Comment Section is Poison | Arduino and Ding Ding Winners",
+   "d": "2017-11-28",
+   "v": 1979243,
+   "s": 462,
+   "vertical": false,
+   "desc": "A quick video while my latest invention is taking longer than expected to film. Will be out soon tho\n\nConsider supporting me on Patreon: https://www.patreon.com/michaelreeves\n\nsend me dumb things: PO 283279 Honolulu HI, 96828\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSong: Cody G. - ukulele and chill"
+  },
+  {
+   "id": "eJZqlQ3xvAo",
+   "t": "I Built The Stupidest Gun In The World",
+   "d": "2017-12-04",
+   "v": 8892361,
+   "s": 641,
+   "vertical": false,
+   "desc": "If you're interested in learning more about Brilliant/ Support the channel, click here: https://brilliant.org/MichaelReeves/\nBig thanks to them for sponsoring this video, it lets me be totally free with what I do and say. It also helps me to produce more videos for you content gremlins.\n\nIf you want to directly contribute to the channel: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSongs:\nArvo to Me:  the annoying machine (https://soundcloud.com/arvotome"
+  },
+  {
+   "id": "V1hF1KvfQqo",
+   "t": "A Machine That Lets You Play With Cats",
+   "d": "2017-12-15",
+   "v": 2646257,
+   "s": 415,
+   "vertical": false,
+   "desc": "\ud83c\udf30\ud83c\udf30\ud83c\udf30 hope you like this or dont i dont car\n\nConsider Supporting The Channel on Patreon! : https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSongs: \nSummer_Salt_-_Candy_Wrappers\nThe Deli - 532PM"
+  },
+  {
+   "id": "y5ib1V1eobQ",
+   "t": "Ruining My Day With Voice Recognition | Hacking Alexa",
+   "d": "2018-01-02",
+   "v": 6569542,
+   "s": 454,
+   "vertical": false,
+   "desc": "If you're interested in learning more about Brilliant/ Support the channel, click here: https://brilliant.org/MichaelReeves/\nThanks again to them for the sponsorship, it makes producing these videos a lot quicker, and I get to say anything I want\n\nEveryone on Patreon is Awesome: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\nFacebook: https://www.facebook.com/Michael-Reeves-136764700412150/\n\nSongs:\nKero Kero Bonito - Flamingo\njinsang - hawaii"
+  },
+  {
+   "id": "f0j--Y6G4Fg",
+   "t": "Taser Machine Fixes My Swearing Problem",
+   "d": "2018-02-27",
+   "v": 6010819,
+   "s": 652,
+   "vertical": false,
+   "desc": "Check out Brilliant to support the channel!, click here: https://brilliant.org/MichaelReeves/\nBig thanks to Brilliant for the sponsorship, they let me say whatever I want and it's awesome.\n\nCheck out the video we did on William Osman's channel!:\nhttps://www.youtube.com/watch?v=4vl8-5udtII\n\nMy Life Blood:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs:\nsaib. - Ipanema"
+  },
+  {
+   "id": "W5Dpjvbi7ho",
+   "t": "Using a Hacked Bop-It to Fix Hawaii's Missile System",
+   "d": "2018-03-12",
+   "v": 8278323,
+   "s": 588,
+   "vertical": false,
+   "desc": "Stupid Filipino child makes fun of the state of Hawaii for 9 minutes.\n\nMy Patreon for the good memes: https://www.patreon.com/michaelreeves\n\nInstagram: michaelreeves808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs:\nmarlboro. - a great day\nOMORI - Pure Imagination\njou beats - brasil"
+  },
+  {
+   "id": "d5d02U5YYfk",
+   "t": "A Robot That Shoots Energy Drink at You When You Get Tired",
+   "d": "2018-04-21",
+   "v": 11605188,
+   "s": 586,
+   "vertical": false,
+   "desc": "Next video will be a robot that shoots Proactive at my face\n\nMy Patreon for the good memes: https://www.patreon.com/michaelreeves\n\nInstagram: michaelreeves808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nMusic:\nVsauce Theme\nSuper Mario World Game Over LoFi Hip Hop Remix\njump man 93 - bruh\nelijah who - first kiss"
+  },
+  {
+   "id": "5QYpD428hAQ",
+   "t": "Electrocuting My Muscles to Force me to Dab",
+   "d": "2018-05-30",
+   "v": 13106146,
+   "s": 865,
+   "vertical": false,
+   "desc": "Check out Brilliant to support the channel!, click here: https://brilliant.org/MichaelReeves/\nBig thanks to Brilliant for the sponsorship, it's a great place to learn online.\n\n\nBuy literally nothing at my merch shop because none of it's for sale! http://gofuckyourselfitsnotforsale.com/\n\n\nMy Patreon for the good memes: https://www.patreon.com/michaelreeves\n\nInstagram: michaelreeves808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs: \nelijah who - skateboard p\nPinkOmega - Trap Dumplings"
+  },
+  {
+   "id": "mPbtR4vorgY",
+   "t": "Using Mind Control to Drive a Car",
+   "d": "2018-06-23",
+   "v": 11185223,
+   "s": 767,
+   "vertical": false,
+   "desc": "Pretty interesting that you can use a $30 toy to read brain wave values. Even more interesting is that we were able to rig mind control  to a car. And most interesting is that no one called the police on us while we made this video.\n\n\nMy Patreon for the good memes: https://www.patreon.com/michaelreeves\n\n\nInstagram: michaelreeves808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs:\njou beats. - brasil."
+  },
+  {
+   "id": "Q8QlNuTUe4M",
+   "t": "Trigger Me Elmo | World's First Race Detecting Toy",
+   "d": "2018-07-21",
+   "v": 23150769,
+   "s": 999,
+   "vertical": false,
+   "desc": "Start protecting yourself on the web at  https://NordVPN.com/michaelreeves or use code michaelreeves and save 77%!\n\nanimatronic elmo might be the mist entertaining thing I've ever built\n\n\n\nMy Patreon so i can keep ostracizing my audience:\n https://www.patreon.com/michaelreeves\n\n\nInstagram: michaelreeves808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs:\nTank - Cowboy Bebop\nNice Boys - Temporex\nThe Deli - 532PM"
+  },
+  {
+   "id": "D75ZuaSR8nQ",
+   "t": "A Robot Shoots Me When I Get Shot in Fortnite",
+   "d": "2018-08-30",
+   "v": 11237292,
+   "s": 748,
+   "vertical": false,
+   "desc": "Instead of making me better at fortnite, I now just feel like never playing it again, which is a win in my book.\n\n\nMy Patreon for more garbage videos:\n https://www.patreon.com/michaelreeves\n\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: michaelreeves808\nWebsite: https://michaelreeves.us/\n\nSongs:\nelijah who - hitchuwithdawork"
+  },
+  {
+   "id": "bZDE6I5B9-E",
+   "t": "Hacking Drones With a Child's Toy",
+   "d": "2018-10-10",
+   "v": 7792678,
+   "s": 551,
+   "vertical": false,
+   "desc": "Join Honey for FREE at https://joinhoney.com/reeves\nHoney\u2019s 10 million members save an average of $28.61 a month on sites like Amazon, Newegg, Best Buy, GameStop, Walmart, Dominos, eBay, and more!\n\nSomehow managed to make this video about hacking a drone with a children's education toy. I just moved so it took a hot second, but do not fear there are more memes on the horizon\n\nMy Patreon so i can  keep making garbage videos:\nhttps://www.patreon.com/michaelreeves\n\nInstagram: mike_reeds808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSongs:\nandroid 52 - romance"
+  },
+  {
+   "id": "xoOyuTcRLOE",
+   "t": "Million Subscriber Celebration Robot",
+   "d": "2018-10-28",
+   "v": 4242314,
+   "s": 292,
+   "vertical": false,
+   "desc": "Glorious Ding-Ding Poster: http://godfuckingdamnitiguessitsforsale.com\n\nThis was a great excuse to build the 100% most annoying robot so far\n\n\nInstagram: mike_reeds808\nTwitter: https://twitter.com/michaelreeves08\nWebsite: https://michaelreeves.us/\n\nSong:\nengelwood - crystal dolphin"
+  },
+  {
+   "id": "Hu3p5ZR_i5s",
+   "t": "Head Hunting Drone Swarm",
+   "d": "2018-12-11",
+   "v": 9358231,
+   "s": 600,
+   "vertical": false,
+   "desc": "The first 1000 people to click this link will get 2 months of Skillshare for free: https://skl.sh/michaelreeves\nNot sure if I'm dehydrated or just naturally this stupid.\nEither way I thought a face detecting drone swarm was a good idea so at this point it doesn't matter.\n\nMy Patreon is a place:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/\n\nSongs:\npotsu - letting go\njump man 93 - bruh"
+  },
+  {
+   "id": "B1dWbiXnz_s",
+   "t": "Your Robot Ideas Are Stupid",
+   "d": "2019-01-26",
+   "v": 19298778,
+   "s": 455,
+   "vertical": false,
+   "desc": "The first 1000 people to click this link will get 2 months of Skillshare for free: https://skl.sh/michaelreeves\n\ndont take this too seriously but I'm dead serious but just jokes but im dead serious\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/\n\nSongs:\ngfbeats - business casual\njump man 93 - bruh"
+  },
+  {
+   "id": "c2gq4IwIc_s",
+   "t": "A Robot That Picks Tomatoes Out of Your Salad",
+   "d": "2019-03-06",
+   "v": 14962099,
+   "s": 697,
+   "vertical": false,
+   "desc": "Get Honey and start saving money today \u25b8 https://joinhoney.com/reeves\nIt\u2019s FREE, and it only takes 2 clicks to start saving at stores like Amazon, Newegg, and eBay.\n\nPretend I'm not completely losing my mind and look at this robot I built. Tomatoes are yucky, cruel jokes played by god on humanity, it picks tomatoes out of salad with a big metal spike.\n\nWill's Channel is Gross: https://www.youtube.com/williamosman\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/\n\nSongs:\nburbank "
+  },
+  {
+   "id": "B0eSPogdaHs",
+   "t": "If You Can't Drink Fast Enough This Cup Tazes You",
+   "d": "2019-04-13",
+   "v": 6971754,
+   "s": 646,
+   "vertical": false,
+   "desc": "Will be posting periodical updates on Dave's sanity level\n\nThanks so much to Max and Chad for letting me electrocute you\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/\n\nAnimation: https://www.youtube.com/channel/UC28dly7fFiPlISI-0AE-fbw\n\nSongs:\n90's flav - call me\nDragon Ball FighterZ OST - Hit Theme\nPersona 3 ost - During the test"
+  },
+  {
+   "id": "mvz3LRK263E",
+   "t": "The Roomba That Screams When it Bumps Into Stuff",
+   "d": "2019-05-04",
+   "v": 27656339,
+   "s": 659,
+   "vertical": false,
+   "desc": "The first 500 people to click the link will get 2 months of Skillshare for free https://skl.sh/michaelreeves3\n\nThanks to everyone who helped out with screaming!:\nhttps://www.youtube.com/iDubbbzTV\nhttps://www.youtube.com/maxmoefoePokemon\nhttps://www.twitch.tv/lilypichu\n\nScreaming Roombas are technology that mankind has dreamed about ever since we could look up at the stars, today I was able to bring that dream to life\n\nPatreon is a website: https://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: michaelreeves808\n\nSongs:\nBlue in Green - Rainy Streets\nAests "
+  },
+  {
+   "id": "KPQcy0dylrM",
+   "t": "Gas Powered Fishing Pole",
+   "d": "2019-06-03",
+   "v": 12977615,
+   "s": 693,
+   "vertical": false,
+   "desc": "Get Honey for FREE and start saving money today \u25b8 https://joinhoney.com/reeves\nIts 10 million members save an average of $28.61 on stores like Amazon, eBay, and G2A.\nThanks Honey for sponsoring today\u2019s video!\n\nI'm never going to go outside again\n\nMaya: https://twitter.com/mayatochondria\n\nPatreon is a website: https://www.patreon.com/michaelreeves\nTwitter: https://twitter.com/michaelreeves08\nInstagram: michaelreeves808\n\nSongs: \nengelwood - crystal dolphin"
+  },
+  {
+   "id": "pE39KdptM40",
+   "t": "Scream Powered Microwave",
+   "d": "2019-07-20",
+   "v": 10235049,
+   "s": 492,
+   "vertical": false,
+   "desc": "Go to https://NordVPN.com/MichaelReeves to get 75% off a 3 year plan and use code MICHAELREEVES to get an extra month for free!  Protect yourself online today!\n\nYour robot ideas are bad and you should feel bad\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/"
+  },
+  {
+   "id": "DvrkHAWj1Sk",
+   "t": "Tazer Camera Makes Me The Tallest Person in The Picture",
+   "d": "2019-09-04",
+   "v": 18248462,
+   "s": 770,
+   "vertical": false,
+   "desc": "Get Honey for FREE and start saving money today \u25b8 http://joinhoney.com/reeves\nIts 10 million members save an average of $28.61 on stores like AliExpress, Banggood & Best Buy.\nThanks Honey for sponsoring today\u2019s video!\n\nBe the tallest person in ANY picture with TAZER CAMERA! You can't buy it anywhere though, this thing is insanely dangerous\n\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\n\nTwitter: https://twitter.com/michaelreeves08\nInstagram: mike_reeds808\nWebsite: https://michaelreeves.us/\n\nSongs:\nsaib. - Act Right\nAso - Bossa Nova.[ft.Lamp]\njinsang - betrayal\njump man 93 - bruh"
+  },
+  {
+   "id": "hBP-NzOadL0",
+   "t": "I Let a Twitter Bot Decorate My Room",
+   "d": "2019-10-23",
+   "v": 20006434,
+   "s": 784,
+   "vertical": false,
+   "desc": "Thanks to Skillshare for sponsoring! Use this link to get a 2 month free trial of Skillshare Premium: https://skl.sh/michaelreeves4\n\nTwitter: https://twitter.com/michaelreeves08\n\nThanks to everyone for sending me a literal mountain of garbage. I'll remember this\n\n\nPatreon is a website:\nhttps://www.patreon.com/michaelreeves\nInstagram: michaelreeves808\nWebsite: https://michaelreeves.us/\n\nSongs:\nburbank - sorry i like you  (congrats on 10 mil)\njpn - bloom. []\njump man 93 - bruh"
+  },
+  {
+   "id": "9q3_8N4YZRI",
+   "t": "Tazer Tag",
+   "d": "2019-12-13",
+   "v": 15056518,
+   "s": 534,
+   "vertical": false,
+   "desc": "Go to https://buyraycon.com/reeves for 15% off your order! Brought to you by Raycon.\n\nIf anyone wants to rent the tazer vests for their kids birthday party dm me.\n\nThank you for letting me electrocute you OfflineTv\nAlso I joined OfflineTv: https://www.youtube.com/watch?v=GSgnFUPZOrI\n\nTwitter: https://twitter.com/michaelreeves08\nhttps://www.patreon.com/michaelreeves\nInstagram: michaelreeves808\nWebsite: https://michaelreeves.us/\n\nSongs:\nRITCHRD - YEA\nPinkOmega - Dumplings (Prod. Holder) [Instrumental]\njump man 93 - oldbandstuffs 1"
+  },
+  {
+   "id": "ZIxaGgTY8UM",
+   "t": "I Hate Your Robot Ideas",
+   "d": "2020-02-14",
+   "v": 19610859,
+   "s": 566,
+   "vertical": false,
+   "desc": "Get Honey for FREE and start saving money today \u25b8 https://joinhoney.com/reeves\nMy subscribers have already found over $240,000 in savings on stores like Banggood & Newegg.\nThanks Honey for sponsoring today\u2019s video!\n\nmaybe someday you'll run out of robot ideas\n\nTwitter: https://twitter.com/michaelreeves08\nhttps://www.patreon.com/michaelreeves\nInstagram: michaelreeves808\nWebsite: https://michaelreeves.us/\n\nSongs:\nRITCHRD - SEA\nCowboy Bebop OST 1 - Tank!"
+  },
+  {
+   "id": "A_BlNA7bBxo",
+   "t": "I Built A Surgery Robot",
+   "d": "2020-04-28",
+   "v": 26356782,
+   "s": 755,
+   "vertical": false,
+   "desc": "Go to https://buyraycon.com/reeves for 15% off your order! Brought to you by Raycon \n\nhmu if you need an outpatient\n\nLilyPichu: https://twitter.com/LilyPichu\nPokimane: https://twitter.com/pokimanelol\n\nTwitter: https://twitter.com/michaelreeves\nhttps://www.patreon.com/michaelreeves\nInstagram: michaelreeves808\n\nSongs:\ncomfy vibes - LilyPichu\nsaib. - Sunflowers\nCowboy Bebop OST 1 - Rush\nCowboy Bebop OST 1 - Too Good Too Bad"
+  },
+  {
+   "id": "hLDifD8nz7o",
+   "t": "If You Can't Find Waldo You Get Tazed",
+   "d": "2020-07-29",
+   "v": 9241858,
+   "s": 465,
+   "vertical": false,
+   "desc": "Get the best deals while shopping online \u25b8 http://joinhoney.com/reeves\nHoney is FREE and finds coupons with the click of a button. Thanks Honey for sponsoring!\n\nthat's it, that's the whole video\n\nTwitch: https://www.twitch.tv/michaelreeves\n\nthanks for getting tazed in my video:\n@LilyPichu\n@scarra\n@DisguisedToast\n@yvonnie\n\nand helping me film: @brodinplett\n\nSocials:\nhttps://twitter.com/michaelreeves\nInstagram: michaelreeves808\n\nSongs:\nRITCHRD - YEA"
+  },
+  {
+   "id": "zrrs9LGIfyQ",
+   "t": "Building A Laser Baby",
+   "d": "2020-09-02",
+   "v": 16583136,
+   "s": 575,
+   "vertical": false,
+   "desc": "Check out the Amazon Prime Video series The Boys here: https://amzn.to/3gNGX7C\nDownload the Baby Laser Tag game here:\nGoogle Play: https://play.google.com/store/apps/details?id=com.jam3.theboys&referrer=utm_source%3Dyoutube1\nApp Store: https://apps.apple.com/app/apple-store/id1512207410?pt=341682&ct=youtube1&mt=8\n\nhit me up if you need a baby delivered\n\nTwitch - https://www.twitch.tv/michaelreeves\nTwitter - https://twitter.com/michaelreeves\n\nSongs:\nMantra - Kaz Moon\nj^p^n - amend."
+  },
+  {
+   "id": "tqsy9Wtr1qE",
+   "t": "Teaching a Robot Dog to Pee Beer",
+   "d": "2021-04-09",
+   "v": 18710871,
+   "s": 966,
+   "vertical": false,
+   "desc": "Get Honey for FREE today \u25b8 http://joinhoney.com/reeves\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n\ncome get yall juice\n\nlilypichu came with me all the way to Boston to record a 10 second meme, thanks lily\n\nThanks Poki and Toast for helping w/ the dog\n\nSongs:\nFunky Galileo - https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl?si=621fb254df494e50\nFlamingosis - Sunset Park"
+  },
+  {
+   "id": "USKD3vPD6ZA",
+   "t": "I Gave My Goldfish $50,000 to Trade Stocks",
+   "d": "2022-03-31",
+   "v": 13742612,
+   "s": 919,
+   "vertical": false,
+   "desc": "Go to http://Public.com/reeves and you\u2019ll receive a free stock worth up to $300 once you open an account. \n*This is not investment advice. Offer valid for U.S. residents 18+ and subject to account approval. See Public.com/disclosures/\n\nI am not a qualified licensed investment advisor. Nothing in this video constitutes professional and/or financial advice. This video is for entertainment purposes only. Do not do what I did in this video.\n\nfredrick fish poster: https://www.pissbaby.store/products/723023-fredrick-vs-wsb-poster\n\nfish\n\nother places:\nhttps://twitter.com/michaelreeves\nhttps://www.ins"
+  },
+  {
+   "id": "fzJrH_DR6SY",
+   "t": "A Robot Teaches Me Boxing",
+   "d": "2023-01-13",
+   "v": 8654672,
+   "s": 898,
+   "vertical": false,
+   "desc": "Go to https://ExpressVPN.com/REEVES to get an extra 3 months free on a one-year package! Brought to you by ExpressVPN\n\nboxing\n\nalso did you guys see they have Mr. Beast in fortnite now \n\n\nother places:\nhttps://twitter.com/michaelreeves\nhttps://www.instagram.com/michaelreeves808/\n\nmusic:\ncomputer talk - austenyo"
+  },
+  {
+   "id": "vrk40pZ8Kc8",
+   "t": "a boring video",
+   "d": "2023-04-10",
+   "v": 9002691,
+   "s": 610,
+   "vertical": false,
+   "desc": "this is some stuff i do in between videos\n\nmusic:\nElija who - a random song they DM'd me a year ago (comic shop 92bpm)\nSummer Salt - Driving to Hawaii\nAllem Iversom - Downwards"
+  },
+  {
+   "id": "aHH2oYzJGnI",
+   "t": "fun fact",
+   "d": "2024-04-18",
+   "v": 26065161,
+   "s": 48,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hkHCnZ5GrNc",
+   "t": "I Built a Car out of Scooters",
+   "d": "2024-06-06",
+   "v": 10104333,
+   "s": 1050,
+   "vertical": false,
+   "desc": "Thanks to Odoo for sponsoring this video!\nhttps://www.odoo.com/r/UIO\n\nOpensauce tickets with coupon code: pissbaby\nhttps://opensauce.com/tickets/\n\nTommy:\nhttps://www.youtube.com/@tommyschaos\n\nsee you next year\n\nMusic:\nAge of war flash game soundtrack (banger)\nRiot Sessions - Magic - M\u00e9lonade"
+  },
+  {
+   "id": "LwOITqr_fz4",
+   "t": "A Bot that Scams People",
+   "d": "2025-02-06",
+   "v": 9228172,
+   "s": 917,
+   "vertical": false,
+   "desc": "Get 4 months extra on a 2 year plan here: https://nordvpn.com/reeves. It\u2019s risk free with Nord\u2019s 30\nday money-back guarantee!\n\n\nThank you voice actors: CDawgVA, Lilypichu, Sykkuno\n\nHawaiian Shirt: https://lilbeans.store/products/michael-reeves-x-lilypichu-hawaiian-shirt\n\nPatreon behind the scenes stuff: https://www.patreon.com/c/michaelreeves\n\n$34"
+  },
+  {
+   "id": "u0KPa34PoZA",
+   "t": "good boyfriend",
+   "d": "2025-06-28",
+   "v": 21305665,
+   "s": 71,
+   "vertical": true,
+   "desc": "this is my tutorial on how to solve conflict"
+  },
+  {
+   "id": "WP5_XJY_P0Q",
+   "t": "chatgpt has E-stroke",
+   "d": "2025-10-21",
+   "v": 32080637,
+   "s": 93,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "oA85M9JHsW0",
+   "t": "I Built a Dog Catapult",
+   "d": "2026-02-13",
+   "v": 5893568,
+   "s": 858,
+   "vertical": false,
+   "desc": "Check out Odoo for your business: https://www.odoo.com/r/9Ky no credit card required and get one app free for life!\n\n\nhe still barks at me\n\npatreon: https://www.patreon.com/c/michaelreeves\ntwitch: https://www.twitch.tv/michaelreeves\ninstagram: https://www.instagram.com/michaelreeves808/"
+  }
+ ]
+}

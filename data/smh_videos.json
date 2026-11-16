@@ -1,0 +1,396 @@
+{
+ "channel": {
+  "id": "UCj1VqrHhDte54oLgPG4xpuQ",
+  "title": "Stuff Made Here",
+  "handle": "@stuffmadehere",
+  "description": "I've been building things for as long as I can remember. It all started when my dad exposed me to plastic model building and soldering when I was around 4 years old. That set me on a path to building increasingly complex things and becoming an engineer. My goal is to do the same for as many people as possible by exposing them to the joy of engineering, fabricating and creating things out of nothin",
+  "since": "2020-03-04",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "354967741",
+  "subscriberCount": "4760000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "42"
+ },
+ "videos": [
+  {
+   "id": "WuY2-OrT9ig",
+   "t": "Bending Steel With Plastic Tools",
+   "d": "2020-03-04",
+   "v": 1495102,
+   "s": 1202,
+   "vertical": false,
+   "desc": "I've been wondering if 3D printed tools could possibly bend steel. It seemed possible unlikely. I designed and printed several tools which are used on a hydraulic press to bend and form steel sheet metal. This particular tool could be made by CNC machining the tools from metal but 3D printing it is much faster and easier.\n\nThese videos usually take a ton of work and a lot of money in tools and materials. I've made a patreon if you're interested in supporting the creation of these projects: https://www.patreon.com/stuffmadehere\n\nIf you're interested here's some of the tools that I use in this v"
+  },
+  {
+   "id": "BuC1IiZBY_o",
+   "t": "Making a particle filter that doesn't wear out for my plasma cutter",
+   "d": "2020-03-09",
+   "v": 2433780,
+   "s": 565,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nWhen I was designing the downdraft for my plasma cutter I was concerned that it might eject too much metal dust out of my shop and into my driveway. It turns out that I was right and as I've been cutting more I've noticed a real uptick in accumulated metal on the ground. To address this problem I built a filtering system designed to remove the bigger particles from the exhaust. Since I'm not concerned with smoke and really extremely fine vapor I was able to make a \"solid st"
+  },
+  {
+   "id": "c3LhK2SAusk",
+   "t": "This marker will change the way you work with sheet metal",
+   "d": "2020-03-18",
+   "v": 2638506,
+   "s": 838,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nPlasma cutting is incredibly useful. Paired with bending and welding it is often the fastest and cheapest way to build any kind of mechanical structure or enclosure. Results that might take a day on a 3D printer or on a CNC mill can be achieved in minutes on a plasma cutter. Not to mention the cost of sheet metal is a lot cheaper than 3D printer materials or billet for machining. I'm constantly making folded and welded structures with my plasma cutter and every time I have "
+  },
+  {
+   "id": "8cNeAOpR-Ws",
+   "t": "3D Printed Sheet Metal Forming (Part 2)",
+   "d": "2020-03-23",
+   "v": 4199813,
+   "s": 903,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nIn this video I show more techniques for 3D printed sheet metal press forming tools. I improve over my previous designs by making a tool with a moving action as well as fixing a major design flaw. I also demonstrate a more complicated forming operation with many features made in one pressing.\n\nThese videos usually take a ton of work and a lot of money in tools and materials. I've made a patreon if you're interested in supporting the creation of these projects: https://www.p"
+  },
+  {
+   "id": "1de6fO-9ZDU",
+   "t": "Fixing a little mess with a big mess",
+   "d": "2020-03-30",
+   "v": 3444209,
+   "s": 1179,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nSeveral years ago I built a CNC machine. It's been having some flood coolant system issues so I decided to cut out the heart of the coolant system and build it stronger. In this video I show how I did that.\n\nThese videos usually take a ton of work and a lot of money in tools and materials. I've made a patreon if you're interested in supporting the creation of these projects: https://www.patreon.com/stuffmadehere\n\nTools that I use in this video + recurring favorites:\nImport "
+  },
+  {
+   "id": "lPMg0dk1hFI",
+   "t": "This machine changes everything",
+   "d": "2020-04-09",
+   "v": 2139402,
+   "s": 1336,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nI recently acquired a Tormach 1100mx. I've started to outgrow my existing mills and have been looking for a VMC that was feature rich but that I could also get into my basement. I show the rigging process of getting it into my basement, assembly, and then machining a tool holder for it. Also includes some 3D printing and plasma cutting. Finally I take the tool breakage detection and rigid tapping features for a test drive.\n\nMy videos usually take 100+ hours of work and a lo"
+  },
+  {
+   "id": "vtN4tkvcBMA",
+   "t": "My curved basketball hoop always goes in",
+   "d": "2020-04-17",
+   "v": 9192903,
+   "s": 1267,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nI've wondered if it is possible to make a basketball hoop where the ball always goes in. Imagine throwing a ball and if it hits the backboard it somehow gets directed into the hoop. Thanks to physics it isn't quite possible to make ALL possible shots go in though you can make a hoop where the ball goes in a lot more often. In this video I show how I wrote a program to calculate the optical backboard then machined and fabricated it. It worked out better than I was expected s"
+  },
+  {
+   "id": "IcjgrB9vTec",
+   "t": "How I made steel toe crocs with wood",
+   "d": "2020-04-27",
+   "v": 9311769,
+   "s": 1455,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nI want steel toed crocs but I can't buy them. That's a crime against humanity that I want to rectify. In this video I show how I developed wooden tooling that with a bit of refinement could be used to mass produce steel toe crocs. \n\nThese videos usually take 100+ hours of work and a lot of money in tools and materials. I've made a patreon if you're interested in supporting the creation of these projects: https://www.patreon.com/stuffmadehere\n\nI use a 13\" iPad for all my tec"
+  },
+  {
+   "id": "FycDx69px8U",
+   "t": "The automatic hoop always goes in",
+   "d": "2020-05-11",
+   "v": 8903493,
+   "s": 1000,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nI wasn't totally satisfied with my previous basketball hoop so I made another try at the problem. This time with robots and computer vision! I designed and build this hoop from the ground up with the goal of tracking the ball and directing it into the hoop by tilting the backboard. It works pretty well. My old solid state hoop is old news. Long live our robot overlords. \n\nI wonder what V3 will look like...\n\nThese videos usually take 100+ hours of work and a lot of money in "
+  },
+  {
+   "id": "o5Cv9fvajrc",
+   "t": "My self correcting golf club makes me a better golfer",
+   "d": "2020-06-02",
+   "v": 5983660,
+   "s": 918,
+   "vertical": false,
+   "desc": "Support these projects on patreon: https://patreon.com/stuffmadehere\nCheck out the subreddit: https://tinyurl.com/smhere\n\nI wanted to see if I could make myself a better golfer by combining robotic engineering and golf. The result is a robotic club that senses your swing and corrects your shot for distance. It should be possible to correct for slice and hook with some hardware and software upgrades. It also has a cool mode where it can be any iron so no need to carry eleven clubs.\n\nAll hail our our robot overlords. I'm looking forward to gen 2 and doing more science on how good a robot really "
+  },
+  {
+   "id": "8Au47gnXs0w",
+   "t": "See in complete darkness with touch",
+   "d": "2020-06-20",
+   "v": 6111753,
+   "s": 853,
+   "vertical": false,
+   "desc": "Thanks SimpliSafe for sponsoring this video. SimpliSafe is award-winning home security that keeps your home safe around the clock. It's really reliable, easy to use, and there are no contracts. Check out SimpliSafe here: https://Simplisafe.com/StuffMadeHere\n\nI've made a patreon if you're interested in supporting the creation of these projects: https://www.patreon.com/stuffmadehere\n\nJoin the subreddit: https://tinyurl.com/smhere\n\n--------------------------------------------\n\nI got nerd sniped by a great comment in a previous video. The idea was to make some kind of device to let blind people pe"
+  },
+  {
+   "id": "7zBrbdU_y0s",
+   "t": "I made a hair cutting machine",
+   "d": "2020-07-14",
+   "v": 8036569,
+   "s": 797,
+   "vertical": false,
+   "desc": "My hair is getting too long so I decided to build a robot to cut it for me. To support future projects like this check out my patreon: http://patreon.com/stuffmadehere\nCheck out the SMH subreddit: https://tinyurl.com/smhere\n\nThe possibilities for this kind machine are endless with the most interesting things being haircuts that are too hard for human hair cutters to achieve. Imagine a mathematically perfect fade from one side of your head to another. Or imagine if I added a trimmer to this and cutting perfect lithopane pattern into your hair.  I consider this the first generation machine and h"
+  },
+  {
+   "id": "B3CsOx5U9Gs",
+   "t": "World's most powerful bat goes boom. Made on my new Tormach 24r",
+   "d": "2020-08-10",
+   "v": 8366371,
+   "s": 776,
+   "vertical": false,
+   "desc": "To support future projects like this check out my patreon: http://patreon.com/stuffmadehere\nGet merch + support the channel: https://stuffmadehere.shop/\n\nI made a baseball bat that (pretty much) always hits home runs. It uses explosive charges to put an enormous amount of power into your swing. In this video I show how I designed it and all the unexpected trials and tribulations of getting something like this to work. It turned out to be really hard but the end result is so much fun I can't complain. I don't think it's possible to use this bat and not grin. \n\n\nI built this with the new Tormach"
+  },
+  {
+   "id": "myO8fxhDRW0",
+   "t": "Moving hoop won't let you miss",
+   "d": "2020-09-09",
+   "v": 28287066,
+   "s": 823,
+   "vertical": false,
+   "desc": "Thanks to Keeps for sponsoring this video! Head to https://keeps.com/stuffmadehere to learn more and get 50% off your first order of hair loss treatment.\nGet merch + support the channel: https://stuffmadehere.shop/\n\n###\nThousands have told me that anyone can easily miss my first automatic basketball hoop by missing the hoop entirely. That is a really good point and something that I can't let stand. In this video I show you how I devoted several weeks of my life to realizing a basketball hoop that makes your shot go in even if you totally miss the hoop.... it was a lot of fun, and quite a bit m"
+  },
+  {
+   "id": "Puo6Vgcbxps",
+   "t": "Explosive Bat: crushing MLB records. Ft: Smarter Every Day",
+   "d": "2020-10-18",
+   "v": 18672545,
+   "s": 1471,
+   "vertical": false,
+   "desc": "Check out http://KiwiCo.com/stuffmadehere to get your first month's subscription 50% off!\nHere's the Smarter Every Day video: https://www.youtube.com/watch?v=6zHegXvEwdI\nGet merch + support the channel: https://stuffmadehere.shop/\n------\n\nPlease consider supporting these projects through my patreon: http://patreon.com/stuffmadehere Although very fun, these videos are very time consuming and expensive. \n\nThe previous explosive bat was cool, but it wasn't setting any records. I set out to design a bat that could beat Babe Ruth's home run record of 575 feet. The engineering was intense but the re"
+  },
+  {
+   "id": "X9zXcnSXNF0",
+   "t": "Making a robot to carve photos into pumpkins",
+   "d": "2020-10-27",
+   "v": 9773831,
+   "s": 966,
+   "vertical": false,
+   "desc": "Get your first audiobook and full access to the Plus Catalog for free when you try Audible for 30 days visit https://www.audible.com/stuffmadehere or text stuffmadehere to 500 500!\nClick here if you're interested in subscribing: http://tinyurl.com/sub2smh \nPlease consider supporting these projects through my patreon: http://patreon.com/stuffmadehere Although very fun, these videos are very time consuming and expensive.\n\nJoin the subreddit: https://tinyurl.com/smhere\n\n------\n\nI've been wondering if I could turn my haircut robot into a pumpkin carving robot. Cutting hair and carving pumpkins isn"
+  },
+  {
+   "id": "_7vPNcnYWQ4",
+   "t": "Making an unpickable lock. Calling locksmiths",
+   "d": "2020-11-26",
+   "v": 18154203,
+   "s": 790,
+   "vertical": false,
+   "desc": "Check out http://KiwiCo.com/StuffMadeHere to get 50% off your first month of any crate.\nGet merch + support the channel: https://stuffmadehere.shop/\n\nJoin the subreddit: https://tinyurl.com/smhere\n\n----\n\nHow hard could it be to make an unpickable lock? Turns out pretty flippin hard. After I recovering from the mental and physical turmoil of getting this thing made I called up a locksmith to see if they would be able to pick it. A fun time for all involved."
+  },
+  {
+   "id": "WQ8Xgp8ALFo",
+   "t": "Sometimes you have to test robots on yourself",
+   "d": "2020-12-22",
+   "v": 5423728,
+   "s": 1303,
+   "vertical": false,
+   "desc": "The first 1000 people to use this link will get a free trial of Skillshare Premium Membership: https://skl.sh/stuffmadehere12201\nPlease consider supporting these projects through my patreon: http://patreon.com/stuffmadehere Although very fun, these videos are very time consuming and expensive.\nI use a glowforge pro for rapid prototyping and it's great. You can $500 off a Glowforge pro here: http://glowforge.com/stuffmadehere \nJoin the subreddit: https://tinyurl.com/smhere\n\n-----------\n\nIt was time to take another pass on the hair cutting robot. The new robot is bigger, better, way more reliabl"
+  },
+  {
+   "id": "vsTTXYxydOE",
+   "t": "Automatic pool stick vs. strangers",
+   "d": "2021-02-16",
+   "v": 23763891,
+   "s": 1279,
+   "vertical": false,
+   "desc": "Get a Free 32GB Flash Drive and 32GB Micro SD Card: https://micro.center/dbfba\nCheck out the Micro Center Custom PC Builder: https://micro.center/4879a\nJoin the Micro Center Community: https://micro.center/15dd5\nGet merch + support the channel: https://stuffmadehere.shop/\n\nPlease consider supporting these projects through my patreon: http://patreon.com/stuffmadehere \nI use a glowforge pro for rapid prototyping and it's great. You can $500 off a Glowforge pro here: http://glowforge.com/stuffmadehere \nI built this with the new Tormach 1300 PL, check it out: https://tormach.com/machines/plasma-ta"
+  },
+  {
+   "id": "ix68oRfI5Gw",
+   "t": "Chainsaw + robotic arm = art?",
+   "d": "2021-04-04",
+   "v": 7693879,
+   "s": 1348,
+   "vertical": false,
+   "desc": "Check out https://Kiwico.com/StuffMadeHere for 50% off your first month of any crate!\nThe robot arm I used: https://hubs.ly/H0K42Hg0\nGet merch + support the channel: https://stuffmadehere.shop/\n\nJoin the subreddit: https://tinyurl.com/smhere\n\nWhen I was offered the opportunity to beta test an upcoming robotic arm from Tormach, I knew exactly what I wanted to do with it. CNC chainsaws baybeeeeee. Aside from being fundamentally awesome, it is a very interesting software problem. Since I didn't have to build the arm I was able to focus the project and the video on the software challenges of makin"
+  },
+  {
+   "id": "2A2NY29iQdI",
+   "t": "TWO Unpickable (?) Locks for Lock Picking Lawyer!",
+   "d": "2021-05-31",
+   "v": 14103477,
+   "s": 880,
+   "vertical": false,
+   "desc": "For 50% off your first month of any subscription crate from KiwiCo (available in 40 countries!) head to https://kiwico.com/stuffmadehere\nSee what the lock picking lawyer thinks: https://youtu.be/Ecy1FBdCRbQ\nBehind the scenes livestream on my second channel: https://youtu.be/8CWsA22H35Y\n\nApproximately 999,999,998 people have asked me to send my unpickable lock to the Lock Picking Lawyer. I decided to do you one better - I'm sending the Lock Picking Lawyer TWO unpickable locks with different designs. It will be interesting to see if he can pick them, if so, we'll fix those issues to make them ev"
+  },
+  {
+   "id": "SjJulcvTA7Y",
+   "t": "This is why I have 17,342 pounds of tools",
+   "d": "2021-06-29",
+   "v": 13004875,
+   "s": 2006,
+   "vertical": false,
+   "desc": "Visit https://micro.center/15f024 to enter your email address for a free pair of wireless Bluetooth headphones.\nJoin the MicroCenter Community: https://micro.center/516c8a \nCheck out the MicroCenter Custom PC Builder:  https://micro.center/051b1c\n\nGet merch + support the channel: https://stuffmadehere.shop/\n\n------------------------------\n\nWelcome to my shop. Today we'll be designing and building nine different ball bearing launching catapults. Why? Other than being a lot of fun, the catapults are the perfect vehicle to show you all of my major tools, how they work, and why I have them. I had "
+  },
+  {
+   "id": "1MkrNVic7pw",
+   "t": "Auto-aiming bow vs. FLYING targets",
+   "d": "2021-08-13",
+   "v": 15120101,
+   "s": 1056,
+   "vertical": false,
+   "desc": "You should work at Formlabs. Apply here: http://bit.ly/formlabs-jobs\n90% of this project was made on the Fuse 1: http://bit.ly/fuse-1-printer\nGet merch + support the channel: https://stuffmadehere.shop/\n\n------------\n\nGet optitrack cameras: http://optitrack.com\nThanks to the folks at Lifetime Archery for the use of their range: http://lifetimearchery.com\n\nI've been dreaming about making an automatic archery bow for a long time. I finally made it. I hope you like it!"
+  },
+  {
+   "id": "osUTMnDFV30",
+   "t": "My GIANT wall painting robot",
+   "d": "2021-10-30",
+   "v": 7821820,
+   "s": 1404,
+   "vertical": false,
+   "desc": "Check out https://KiwiCo.com/StuffMadeHere to get 50% off your first month of ANY crate!\nGet merch + support the channel: https://stuffmadehere.shop/\nHelp support these videos on patreon: http://patreon.com/stuffmadehere\n\n------------------------------\n\nI moved into a new shop with some massive blank walls. I thought I would break in the new space by building a robot to paint a huge mural for me. Hope you like it!\n\nChihuahua on cheeseburgers by William Hundley. More things on cheeseburgers: https://www.williamhundley.com/wcheeseburgers\n\nOther great things (your purchase helps support this chan"
+  },
+  {
+   "id": "Q1RaC7YJ7sk",
+   "t": "Explosive powered nut cracker vs. metal nuts",
+   "d": "2021-12-05",
+   "v": 10262942,
+   "s": 1291,
+   "vertical": false,
+   "desc": "Check out https://KiwiCo.com/StuffMadeHere and get 50% off your first month of any crate!\nGet merch, support the channel: https://stuffmadehere.shop\nHelp support these videos on patreon: https://patreon.com/stuffmadehere\n\n---------------------------\n\nI've been waiting for the crossover episode between my explosive bat and a nut cracker for over a year. It was totally worth the wait. Hope you enjoy it!"
+  },
+  {
+   "id": "gnwIiw3Rz3I",
+   "t": "Wrist rocket: worlds fastest disc launcher",
+   "d": "2022-03-01",
+   "v": 9842265,
+   "s": 1701,
+   "vertical": false,
+   "desc": "Visit http://brilliant.org/StuffMadeHere to get started learning STEM for free, and the first 200 people will get 20% off their annual premium subscription.\nGet merch, support these projects: https://stuffmadehere.shop\nHelp support these videos on patreon: https://patreon.com/stuffmadehere\n\n---------------------------\n\nI've had an idea for a super powerful disc golf gauntlet stuck in my head. I finally made it. It was hard."
+  },
+  {
+   "id": "xHWXZyfhQas",
+   "t": "I made a ball seeking hoop",
+   "d": "2022-06-05",
+   "v": 13076396,
+   "s": 1592,
+   "vertical": false,
+   "desc": "Visit https://KiwiCo.com/StuffMadeHere to save 50% off your first month of any crate!\nHelp support these videos on patreon: https://patreon.com/stuffmadehere\nGet merch, support these projects: https://stuffmadehere.shop\n\n---------------------------\n\nI've known this was the endgame for the robotic basketball hoop ever since I made the first one. It's time I actually did it."
+  },
+  {
+   "id": "Gu_1S77XkiM",
+   "t": "A simple human task that's insanely hard for a robot",
+   "d": "2022-08-01",
+   "v": 7193055,
+   "s": 1204,
+   "vertical": false,
+   "desc": "Visit http://brilliant.org/stuffmadehere to sign up for free. And also, the first 200 people will get 20% off their annual premium membership.\nHelp support these videos on patreon: https://patreon.com/stuffmadehere\n\nI thought this would be an easy project to knock off my list after putting myself through the wringer with the automatic basketball hoop. I was wrong. This project is really hard. BUT that also makes it really interesting!\n\nSome more details:\n- The 5000 piece puzzle is the gradient puzzle from the play group: https://www.playgroup.design/\n- More about telecentric lenses: https://en"
+  },
+  {
+   "id": "WsPHBD5NsS0",
+   "t": "Worlds hardest jigsaw vs. puzzle machine (all white)",
+   "d": "2022-12-01",
+   "v": 7534860,
+   "s": 1320,
+   "vertical": false,
+   "desc": "Keep exploring at https://brilliant.org/stuffmadehere. Get started for free, and hurry\u2014the first 200 people get 20% off an annual premium subscription.\nIf you're looking for a workstation check out Puget Systems. They rock: https://www.pugetsystems.com/\nHelp support these videos on patreon: https://patreon.com/stuffmadehere\n\nThis project was so hard it almost broke me. \n\nTopics discussed / used\nThresholding (image processing): https://en.wikipedia.org/wiki/Thresholding_(image_processing)\nMathematical morphology: https://en.wikipedia.org/wiki/Mathematical_morpholog\nLeast squares method: https:/"
+  },
+  {
+   "id": "cQO2XTP7QDw",
+   "t": "I sent robot forgeries to a handwriting expert",
+   "d": "2023-05-27",
+   "v": 11557537,
+   "s": 1419,
+   "vertical": false,
+   "desc": "Create a FREE Onshape account at: https://Onshape.pro/StuffMadeHere\nDownload the part files for this project: https://tinyurl.com/plotterparts\nIf you want to help support these projects: https://patreon.com/stuffmadehere\n\nSpecial thanks to Ron Morris for taking the time to analyze a bunch of writing samples that I sent him. I got in touch with him after getting his textbook to learn more about the subject: https://www.amazon.com/dp/0124096026\n\nThis robot uses a tormach ZA6 to tend the writing robot: https://tormach.com/machines/robots.html\nHeres the 3D printers we designed in onshape: https://"
+  },
+  {
+   "id": "wh8ij9NnLIQ",
+   "t": "Six questionably legal pencil sharpeners",
+   "d": "2023-10-11",
+   "v": 13406271,
+   "s": 1712,
+   "vertical": false,
+   "desc": "Head to https://brilliant.org/StuffMadeHere/ to start your free 30-day trial, and the first 200 people get 20% off an annual premium subscription!\nCreate a FREE Onshape account at: https://Onshape.pro/StuffMadeHere and get the free design files for the Pantolathe: https://tinyurl.com/pantolathe\n\nI hope you find this to be a neat example of different ways to solve the same problem."
+  },
+  {
+   "id": "9SRFbFreCkE",
+   "t": "I made these to do a ridiculously high dunk",
+   "d": "2024-01-01",
+   "v": 3987314,
+   "s": 1287,
+   "vertical": false,
+   "desc": "Head to https://brilliant.org/StuffMadeHere/ to start your free 30-day trial, and the first 200 people get 20% off an annual premium subscription!\nSupport these projects on Patreon, private discord, and directors commentaries: https://patreon.com/stuffmadehere\n\nTurned out to be way more dangerous, hard, and fun than I was expecting. I feel like I say that every time though\u2026"
+  },
+  {
+   "id": "t9rClZrbnrQ",
+   "t": "Precision guided launcher turns noobs into pros",
+   "d": "2024-05-02",
+   "v": 5098664,
+   "s": 1543,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nBe sure to subscribe to catch part 2 where I'll be adding computer controlled sights. https://tinyurl.com/sub2smh\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\n\nI decided to try my hand at disc golf again. This time with a completely different strategy."
+  },
+  {
+   "id": "YqywL9PkM2s",
+   "t": "After 100+ parts and 45 hours of practice, I did it",
+   "d": "2024-08-09",
+   "v": 4167927,
+   "s": 1081,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nBe sure to subscribe if you like this kind of stuff! https://tinyurl.com/sub2smh\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\n\nCurrent worlds smallest bike by Sergey Dashevsky: https://www.guinnessworldrecords.com/world-records/570841-smallest-rideable-bicycle\n\nI love bikes. I decided I wanted to make a very small bike. Shenanigans and self one-up-manship ensued."
+  },
+  {
+   "id": "aXfTgCCsRSg",
+   "t": "What if we made a camera that sees in reverse?",
+   "d": "2024-12-04",
+   "v": 5997556,
+   "s": 1383,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\nBe sure to subscribe if you like this kind of stuff! https://tinyurl.com/sub2smh\n\nSources used in video:\n- Thomas the tank image by http://www.hitnewsonline.com/, Fair use, https://en.wikipedia.org/w/index.php?curid=13878653\n- Bayer pattern by Cburnett, CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+   "id": "BO_YGcSzJdA",
+   "t": "I really thought this would fly well",
+   "d": "2025-03-04",
+   "v": 3555857,
+   "s": 1145,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\nBe sure to subscribe if you like this kind of stuff! https://tinyurl.com/sub2smh\n\nI had an idea for a very strange kinetically powered helicopter. An unfortunate design error made things go off the rails. Despite that, fun times were had by all. \n\nSources used in video:\nApollo 11: We Have a Lift-Off\u00a0By\u00a0https://soundcloud.com/nasa is licensed under a\u00a0\u00a0Creative Commons License https://creativecommons.org/lic"
+  },
+  {
+   "id": "dXIkUkwzTQU",
+   "t": "Baking brownies from the inside out",
+   "d": "2025-06-02",
+   "v": 7896561,
+   "s": 1401,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\nBe sure to subscribe if you like this kind of stuff! https://tinyurl.com/sub2smh\n\nEdgless brownies are one of those questions that has lived rent free in my head so I decided to just build it.\n\nSources used in video:\n- Plot of acoustic levitation: Cancino-Jaque E, Meneses-Diaz J, Vargas-Hern\u00e1ndez Y, Gaete-Garret\u00f3n L. On the dynamics of a big drop in acoustic levitation. Ultrason Sonochem. 2023 Dec;101:1067"
+  },
+  {
+   "id": "vJ43DjwLPGA",
+   "t": "Why is this task so difficult for machines?",
+   "d": "2025-08-30",
+   "v": 3331579,
+   "s": 1627,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ to learn for free and get 20% off an annual premium subscription!\nCheck out this year's IMI award winners at https://www.theimi.co/awards. Good way to discover interesting new stuff.\n\nHelp support these projects on Patreon: https://patreon.com/stuffmadehere\nSubscribe if you like this kind of stuff! https://tinyurl.com/sub2smh\n\nI've been complaining about cracking eggs for the better part of a decade. I decided to put my engineering where my mouth is and try to make a tool to do it better. The engineering got crazier than I expected."
+  },
+  {
+   "id": "JQB8aNKyeao",
+   "t": "Making an autocorrect mini golf club (part 1)",
+   "d": "2026-01-01",
+   "v": 2339127,
+   "s": 1617,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\nCreate a FREE Onshape account at: https://Onshape.pro/StuffMadeHere and get the free design files for the AutoClub: https://tinyurl.com/aimbotminigolf\n\nI've been thinking about this one for years, but have been putting it off because it seemed to have major challenges. Turns out my instincts were correct :)"
+  },
+  {
+   "id": "2OfjZ3ORJfc",
+   "t": "Robot golf vs holes that keep getting harder",
+   "d": "2026-04-15",
+   "v": 5504131,
+   "s": 1486,
+   "vertical": false,
+   "desc": "Check out https://brilliant.org/StuffMadeHere/ for a free 30-day trial and 20% off your annual premium subscription!\n\nSee how I designed and made the club: https://youtu.be/JQB8aNKyeao\n\nI decided to spend months giving my robotic club a massive software upgrade so that it can understand physics and solve challenging mini golf holes. \n\nSources:\nAckley function vis: https://en.wikipedia.org/wiki/Differential_evolution#/media/File:Ackley.gif\n3D Scanner video: https://www.revopoint3d.com/products/trackit-optical-tracking-3d-scanner"
+  },
+  {
+   "id": "RpslsMqPFWA",
+   "t": "I made an apple peel itself",
+   "d": "2026-08-05",
+   "v": 3924672,
+   "s": 1766,
+   "vertical": false,
+   "desc": "Go to https://brilliant.org/StuffMadeHere/ try the tutor for free and get 20% off your annual premium subscription!\n\nSAFETY NOTICE\n\nThis video depicts an experimental system involving high-pressure steam. Boilers and pressure vessels contain substantial stored energy and can cause severe injury or death if they fail or are operated improperly. Their construction and use may also be governed by engineering codes, inspection requirements, permits, and other regulations that vary by jurisdiction and application.\n\nThis video is a record of an experiment, not a construction guide. Do not copy, repr"
+  },
+  {
+   "id": "BuRyQYf03xA",
+   "t": "My dog won't stay out of mud so I made this...",
+   "d": "2026-11-01",
+   "v": 2255913,
+   "s": 1310,
+   "vertical": false,
+   "desc": "Pro engineers: Get 6 months of free Onshape Professional, the world's most customizable production CAD system: https://Onshape.pro/StuffMadeHere\nYou can check out the Tormach 15LX here: https://hubs.ly/Q04wyHfb0\nIf you're interested in a Form 1 Studio you can check it out here: https://formlabs.com/3d-printers/form-studio-1/\n\n-----------------------\n\nMy dog wont stop getting in the mud so I built this so me and my wife could wash her without getting mud shaken on us"
+  }
+ ]
+}
