@@ -544,9 +544,24 @@ function pickDeep(){
   recentPut("ma.recentSlides", out, recent, 120);
   return out;
 }
+function pickJunk(){
+  // The other two-thirds: for 14 random makers, one invention from below their top third (never a Most watched or Deep cuts candidate).
+  const recent = recentGet("ma.recentJunk"), skip = new Set(recent), out = [];
+  const famous = new Set([...ALL_INV].sort((a, b) => b.x.views - a.x.views).slice(0, 200).map(o => o.x));
+  for (const c of shuffled(CREATORS)) {
+    const sorted = [...c.inventions].sort((a, b) => b.views - a.views), bottom = sorted.slice(Math.max(3, Math.ceil(sorted.length / 3))).filter(x => !famous.has(x));
+    if (!bottom.length) continue;
+    const fresh = bottom.filter(x => !skip.has(c.slug + "/" + x.slug)), pool = fresh.length ? fresh : bottom;
+    out.push({ c, x: pool[Math.floor(Math.random() * pool.length)] });
+    if (out.length === 14) break;
+  }
+  recentPut("ma.recentJunk", out, recent, 200);
+  return out;
+}
 const ROWS = [
   { k: "top", title: "Most watched", sub: "Big hits from across the catalogue", pick: pickPopular, big: true, every: 4000 },
   { k: "deep", title: "Deep cuts", sub: "Lesser-known builds worth finding", pick: pickDeep, big: false, every: 5000 },
+  { k: "junk", title: "Junk Drawer", sub: "Rummage through each maker's least-watched builds", pick: pickJunk, big: false, every: 6000 },
 ];
 const car = {};
 function drawHero(fresh){
