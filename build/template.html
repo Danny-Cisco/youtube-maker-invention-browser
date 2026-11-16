@@ -4,8 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<title>Maker Invention Browser</title>
-<meta name="description" content="Catch up on maker YouTubers: every invention, grouped across all of its videos, with timelines, release stats and links.">
+<title>Inventory</title>
+<meta name="description" content="Inventory: everything YouTube's makers have built, each invention grouped across all of its videos, with timelines, release stats and links.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%2040%2040%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Crect%20width%3D%2240%22%20height%3D%2240%22%20rx%3D%2210%22%20fill%3D%22%23d9480f%22/%3E%3Cpolyline%20points%3D%229%2C29%2017%2C21%2023%2C25%2031%2C11%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-width%3D%223%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%3Ccircle%20cx%3D%229%22%20cy%3D%2229%22%20r%3D%223.2%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2217%22%20cy%3D%2221%22%20r%3D%223.2%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2223%22%20cy%3D%2225%22%20r%3D%223.2%22%20fill%3D%22%23fff%22/%3E%3Ccircle%20cx%3D%2231%22%20cy%3D%2211%22%20r%3D%224.2%22%20fill%3D%22%23fff%22/%3E%3C/svg%3E">
 <style>
 :root{color-scheme:light;--bg:#f6f5f2;--card:#fff;--line:#e2e0d8;--text:#111;--text2:#55534e;--muted:#85837b;--accent:#d9480f;--chip:#efede7;--pb-silver:#9aa1ab;--pb-gold:#c99a1e;--pb-diamond:#5bb8e6;--pb-ruby:#c0213f;--pb-red:#e4253b;--s1:#2a78d6;--s2:#1baf7a;--s1-ink:#164f99;--s2-ink:#0b6e4b}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}}
@@ -19,6 +20,28 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
 .eyebrow{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
 header{padding-top:40px;padding-bottom:18px}
 header h1 a{text-decoration:none}
+header.wrap{padding-top:22px}
+body.makers-page header.wrap{padding-top:36px}
+.brandrow{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px}
+.brand{display:flex;align-items:center;gap:14px;text-decoration:none}
+.brand svg{width:52px;height:52px;flex:none;filter:drop-shadow(0 2px 6px rgba(217,72,15,.25))}
+.brand b{display:block;font-size:44px;line-height:1;font-weight:800;letter-spacing:-.035em}
+.brand small{display:block;margin-top:6px;font-size:15px;color:var(--text2)}
+.brandrow .facts{margin:0 0 4px}
+.crumb .mini svg{width:18px;height:18px;vertical-align:-4px;margin-right:7px}
+.hero{position:relative;margin-top:22px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:0 6px;overflow:hidden}
+.hero svg{display:block;width:100%;overflow:visible}
+.hcap{position:absolute;left:16px;right:16px;top:10px;font-size:13px;color:var(--muted);pointer-events:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hcap b{color:var(--text);font-weight:600}
+.hero .ax text{fill:var(--muted);font-size:10px}
+.hero .gl{stroke:var(--line);stroke-dasharray:2 4}
+.hdots circle{fill:var(--text2);fill-opacity:.42;transition:fill-opacity .2s}
+.hdots circle.off{fill-opacity:.07!important}
+.tracing .hdots circle{fill-opacity:.12}
+.htrace polyline{fill:none;stroke:var(--accent);stroke-width:1.6;stroke-linejoin:round;stroke-opacity:.8}
+.htrace circle{fill:var(--accent);stroke:var(--card);stroke-width:1.2}
+.htrace circle.on{stroke-width:2.5}
+@media (max-width:600px){.hdots circle{fill-opacity:.26}.brand b{font-size:34px}.brand svg{width:42px;height:42px}.hcap{font-size:12px}}
 .crumb{display:inline-block;font-size:14px;color:var(--text2);text-decoration:none;margin-bottom:10px}
 .crumb:hover{color:var(--text)}
 .who{display:flex;gap:16px;align-items:center}
@@ -299,7 +322,8 @@ CREATORS.forEach(c => {
   c.totalViews = c.uploads.reduce((a, u) => a + u.v, 0);
   c.lastUpload = c.uploads[c.uploads.length - 1].d;
 });
-const SITE = "Maker Invention Browser";
+const SITE = "Inventory";
+const LOGO = `<svg viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="10" fill="#d9480f"/><polyline points="9,29 17,21 23,25 31,11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="9" cy="29" r="3.2" fill="#fff"/><circle cx="17" cy="21" r="3.2" fill="#fff"/><circle cx="23" cy="25" r="3.2" fill="#fff"/><circle cx="31" cy="11" r="4.2" fill="#fff"/></svg>`;
 const fmtDur = s => { const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(x).padStart(2, "0"); };
 const fmtLen = s => s < 90 ? Math.round(s) + " s" : s < 3600 ? Math.round(s / 60) + " min" : Math.floor(s / 3600) + "h " + String(Math.round(s % 3600 / 60)).padStart(2, "0") + "m";
 // Share of this maker's long-form videos that are shorter than s
@@ -427,18 +451,70 @@ function inventionPoints(curX){
   }));
 }
 
+
+// ---------- front-page hero: every invention on the site, date × views ----------
+let heroShown = null, heroTrace = null;
+function drawHero(){
+  const el = $("hero"); if (!el) return;
+  const W = el.clientWidth || 900, H = W < 600 ? 180 : 240, m = { l: 8, r: 8, t: 34, b: 24 };
+  const pts = []; CREATORS.forEach(c => c.inventions.forEach(x => pts.push({ c, x, t: ms(x.start), v: Math.max(1, x.views) })));
+  let t0 = Math.min(...pts.map(p => p.t)), t1 = Date.now(); const pad = (t1 - t0) * 0.015; t0 -= pad; t1 += pad;
+  const lo = Math.floor(Math.log10(Math.min(...pts.map(p => p.v)))), hi = Math.ceil(Math.log10(Math.max(...pts.map(p => p.v))));
+  const X = t => m.l + (t - t0) / (t1 - t0) * (W - m.l - m.r), Y = v => H - m.b - (Math.log10(v) - lo) / (hi - lo) * (H - m.t - m.b);
+  pts.forEach(p => { p.cx = X(p.t); p.cy = Y(p.v); });
+  let g = "";
+  for (const e of [3, 6, 8]) if (e > lo && e < hi) g += `<line class="gl" x1="${m.l}" x2="${W - m.r}" y1="${Y(10 ** e)}" y2="${Y(10 ** e)}"/><text x="${m.l + 2}" y="${Y(10 ** e) - 4}">${fmt(10 ** e)} views</text>`;
+  const y0 = new Date(t0).getUTCFullYear() + 1, y1 = new Date(t1).getUTCFullYear(), step = Math.max(1, Math.ceil((y1 - y0 + 1) / Math.floor(W / 64)));
+  for (let y = y0; y <= y1; y += step) { const xx = X(Date.UTC(y, 0, 1)); if (xx < W - 30) g += `<text x="${xx}" y="${H - 7}" text-anchor="middle">${y}</text>`; }
+  el.innerHTML = `<div class="hcap"><b>Every invention on the site</b> <span id="hlabel">${new Date(Math.min(...pts.map(p => p.t))).getUTCFullYear()}–${new Date().getUTCFullYear()} · higher means more views · hover a dot to trace that maker</span></div>
+    <svg viewBox="0 0 ${W} ${H}" height="${H}" role="img" aria-label="Every invention on the site by date and views"><g class="ax">${g}</g>
+    <g class="hdots">${pts.map((p, i) => `<circle data-i="${i}" cx="${p.cx.toFixed(1)}" cy="${p.cy.toFixed(1)}" r="${W < 600 ? 2.2 : 2.8}"/>`).join("")}</g><g class="htrace"></g></svg><div class="ptip"></div>`;
+  const svg = el.querySelector("svg"), tip = el.querySelector(".ptip"), dots = [...el.querySelectorAll(".hdots circle")], tr = el.querySelector(".htrace");
+  drawHero.pts = pts; drawHero.dots = dots; heroFilter(heroShown);
+  let lastType = "mouse", hot = null;
+  const near = ev => { const r = svg.getBoundingClientRect(), k = W / r.width, mx = (ev.clientX - r.left) * k, my = (ev.clientY - r.top) * k;
+    let best = null, bd = 16 * 16; for (const p of pts) { if (heroShown && !heroShown.has(p.c)) continue; const d = (p.cx - mx) ** 2 + (p.cy - my) ** 2; if (d < bd) { bd = d; best = p; } } return best; };
+  heroTrace = (c, p) => {
+    svg.classList.toggle("tracing", !!c);
+    if (!c) { tr.innerHTML = ""; tip.style.display = "none"; $("hlabel").hidden = false; return; }
+    const mine = pts.filter(q => q.c === c).sort((a, b) => a.t - b.t);
+    tr.innerHTML = `<polyline points="${mine.map(q => q.cx.toFixed(1) + "," + q.cy.toFixed(1)).join(" ")}"/>${mine.map(q => `<circle cx="${q.cx.toFixed(1)}" cy="${q.cy.toFixed(1)}" r="${q === p ? 6 : 3.6}"${q === p ? ' class="on"' : ""}/>`).join("")}`;
+    tip.innerHTML = p ? `<img src="${thumb(p.x.hero)}" alt=""><b>${esc(p.x.name)}</b>${esc(c.name)} · ${date(p.x.start)} · ${fmt(p.x.views)} views${lastType === "touch" ? `<br><span class="mut">Tap again to open</span>` : ""}`
+      : `<b>${esc(c.name)}</b>${plural(c.inventions.length, "invention")} since ${new Date(c.since).getFullYear()}`;
+    tip.style.display = "block";
+    const r = svg.getBoundingClientRect(), s = r.width / W, a = p || mine.reduce((m2, q) => q.v > m2.v ? q : m2, mine[0]);
+    tip.style.left = Math.max(0, Math.min(a.cx * s - tip.offsetWidth / 2, r.width - tip.offsetWidth)) + "px";
+    tip.style.top = (svg.offsetTop + (a.cy * s > tip.offsetHeight + 16 ? a.cy * s - tip.offsetHeight - 14 : a.cy * s + 16)) + "px";
+    $("hlabel").hidden = false;
+  };
+  svg.onpointermove = ev => { lastType = ev.pointerType; if (ev.pointerType !== "mouse") return; const p = near(ev); hot = p; svg.style.cursor = p ? "pointer" : ""; heroTrace(p && p.c, p); };
+  svg.onpointerleave = ev => { if (ev.pointerType === "mouse") { hot = null; heroTrace(null); } };
+  svg.onpointerdown = ev => { lastType = ev.pointerType; };
+  svg.onclick = ev => { const p = near(ev);
+    if (!p) { hot = null; heroTrace(null); return; }
+    if (lastType !== "mouse" && hot !== p) { hot = p; heroTrace(p.c, p); return; }
+    location.hash = `#/${p.c.slug}/${p.x.slug}`; };
+}
+// Fade out makers hidden by the size filter or search.
+function heroFilter(shown){
+  heroShown = shown; const d = drawHero.dots; if (!d) return;
+  d.forEach((el, i) => el.classList.toggle("off", !!shown && !shown.has(drawHero.pts[i].c)));
+}
+
 // ---------- shell ----------
 function renderHeader(){
   if (!C) {
     $("hdr").innerHTML = `
-      <div class="eyebrow">${SITE}</div>
-      <h1><a href="#/">Catch up on the makers</a></h1>
-      <p class="lead">Years of YouTube inventing, sorted into the things they actually built. Pick a maker to see every invention, when it was made, how it did, and every video, article and file about it.</p>
-      <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>`;
+      <div class="brandrow">
+        <a class="brand" href="#/">${LOGO}<span><b>${SITE}</b><small>What YouTube's makers actually built</small></span></a>
+        <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>
+      </div>
+      <div class="hero" id="hero"></div>`;
+    drawHero();
     return;
   }
   $("hdr").innerHTML = `
-    <a class="crumb" href="#/">← All makers</a>
+    <a class="crumb" href="#/"><span class="mini">${LOGO}</span>${SITE} <span aria-hidden="true">·</span> all makers</a>
     <div class="who"><img class="avatar" src="${esc(C.avatar)}" alt="" referrerpolicy="no-referrer"><div>
       <h1><a href="${home()}">${esc(C.name)}</a></h1>
       <p class="lead">${esc(C.tagline)}</p></div></div>
@@ -728,6 +804,11 @@ function renderMakerGrid(){
   const matchInv = c => t ? c.inventions.filter(x => (x.name + " " + x.desc).toLowerCase().includes(t)) : [];
   const shown = CREATORS.filter(c => inSize(c) && (!t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length)).sort(MSORT[st.mSort].cmp);
   const ago = d => { const days = (Date.now() - ms(d)) / DAY; return days < 1 ? "today" : days < 2 ? "yesterday" : days < 14 ? Math.round(days) + " days ago" : days < 60 ? Math.round(days / 7) + " weeks ago" : days < 730 ? Math.round(days / 30.4) + " months ago" : Math.round(days / 365) + " years ago"; };
+  heroFilter(new Set(shown));
+  // Hovering a maker card traces their inventions in the header chart.
+  grid.onmouseover = ev => { const a = ev.target.closest("article.maker"); const c = a && CREATORS.find(c => "#/" + c.slug === a.querySelector(".mhead").getAttribute("href"));
+    if (c && heroTrace && grid.dataset.tr !== c.slug) { grid.dataset.tr = c.slug; heroTrace(c, null); } };
+  grid.onmouseleave = () => { grid.dataset.tr = ""; heroTrace && heroTrace(null); };
   grid.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers match${t ? ` “${esc(st.mq)}”` : ""} in this size range.</p>`) + `<div class="wrap makers">${shown.map((c, ci) => {
     const hits = matchInv(c);
     const top = (hits.length ? hits : [...c.inventions]).sort((a, b) => b.views - a.views).slice(0, 3);
@@ -912,7 +993,7 @@ function route(){
 let rzT, lastW = window.innerWidth;
 window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(() => {
   if (window.innerWidth === lastW) return; lastW = window.innerWidth;
-  if (page === "makers") renderMakers();
+  if (page === "makers") { drawHero(); renderMakers(); }
   else if (current) { renderPath(); renderProject.redraw?.(); } else { drawBars(cadence()); drawLengths(); updateHome(); }
 }, 150); });
 $("q").value = st.q;

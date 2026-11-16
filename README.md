@@ -1,6 +1,6 @@
-# YouTube Maker Invention Browser
+# Inventory
 
-A site for catching up on maker YouTubers: every invention grouped across all of its videos, with a short description, embedded videos, press coverage and files, a timeline of the whole channel, release-schedule stats, and a build history for each project.
+Inventory (repo: youtube-maker-invention-browser) is a site for catching up on maker YouTubers: every invention grouped across all of its videos, with a short description, embedded videos, press coverage and files, a timeline of the whole channel, release-schedule stats, and a build history for each project.
 
 Makers so far:
 
