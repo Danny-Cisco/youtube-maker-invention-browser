@@ -471,10 +471,21 @@ function inventionPoints(curX){
 
 // ---------- front-page carousel: random inventions, eased slide-to-slide motion ----------
 let car = null;
+const shuffled = a => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 function pickSlides(){
-  // One invention per maker, drawn at random from each maker's five most-watched, so every slide is a good one.
-  const makers = [...CREATORS].sort(() => Math.random() - .5).slice(0, 14);
-  return makers.map(c => { const top = [...c.inventions].sort((a, b) => b.views - a.views).slice(0, 5); return { c, x: top[Math.floor(Math.random() * top.length)] }; });
+  // 14 makers at random, one invention each from that maker's top third by views (at least their top 3),
+  // skipping anything shown in the last few slideshows so each visit looks fresh.
+  let recent = []; try { recent = JSON.parse(localStorage.getItem("ma.recentSlides") || "[]"); } catch (e) {}
+  const skip = new Set(recent), out = [];
+  for (const c of shuffled(CREATORS)) {
+    const top = [...c.inventions].sort((a, b) => b.views - a.views).slice(0, Math.max(3, Math.ceil(c.inventions.length / 3)));
+    const fresh = top.filter(x => !skip.has(c.slug + "/" + x.slug));
+    const pool = fresh.length ? fresh : top;
+    out.push({ c, x: pool[Math.floor(Math.random() * pool.length)] });
+    if (out.length === 14) break;
+  }
+  try { localStorage.setItem("ma.recentSlides", JSON.stringify([...out.map(o => o.c.slug + "/" + o.x.slug), ...recent].slice(0, 120))); } catch (e) {}
+  return out;
 }
 function drawHero(fresh){
   const el = $("hero"); if (!el) return;
@@ -532,7 +543,7 @@ function renderHeader(){
         <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>
       </div>
       <div class="hero" id="hero"></div>`;
-    drawHero();
+    drawHero(true);
     return;
   }
   $("hdr").innerHTML = `
@@ -1015,6 +1026,8 @@ window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(()
 }, 150); });
 $("q").value = st.q;
 window.addEventListener("hashchange", route);
+// Browsers that restore the page from memory (Back button, reopened tab) get a fresh slideshow too.
+window.addEventListener("pageshow", ev => { if (ev.persisted && page === "makers") drawHero(true); });
 // The bar under the search only gets its dividing line once it is stuck to the top of the screen.
 const topbar = document.querySelector(".topbar");
 const markStuck = () => topbar.classList.toggle("stuck", topbar.getBoundingClientRect().top <= 0 && window.scrollY > 0);
