@@ -373,7 +373,6 @@ const SORTS = [
   { sep:true },
   { k:"long",   label:"Long-form: most first", cmp:(a,b) => b.nLong - a.nLong || b.views - a.views },
   { k:"shorts", label:"Shorts: most first",    cmp:(a,b) => b.nShort - a.nShort || b.views - a.views },
-  { k:"links",  label:"Coverage: most first", cmp:(a,b) => b.sources - a.sources || b.views - a.views },
   { sep:true },
   { k:"runLong", label:"Runtime: longest first", cmp:(a,b) => b.runtime - a.runtime },
   { k:"runShort",label:"Runtime: shortest first", cmp:(a,b) => a.runtime - b.runtime }
