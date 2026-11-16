@@ -51,14 +51,18 @@ body{overflow-x:clip}
 .cnav:hover{opacity:1}
 .cnav.prev{left:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .cnav.next{right:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
-.crow{margin-top:26px}
+.crow{margin-top:40px}
+.browse{margin-top:72px;padding-top:28px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.browse h2{margin:0;font-size:22px;letter-spacing:-.015em}
+.browse span{font-size:13px;color:var(--muted)}
+body.makers-page header.wrap{padding-bottom:4px}
 .rhead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
 .rhead h2{margin:0;font-size:22px;letter-spacing:-.015em}
 .rhead span{font-size:13px;color:var(--muted)}
 .rhead .rshuf{margin-left:auto}
 .rshuf{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
 .rshuf:hover{color:var(--text)}
-@media (max-width:600px){.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
+@media (max-width:600px){.rhead span,.browse span{order:3;width:100%;margin-top:-6px}.rhead h2,.browse h2{font-size:20px}.crow{margin-top:32px}.browse{margin-top:48px}.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
 @media (prefers-reduced-motion:reduce){.ctrack,.slide,.slide img.th{transition-duration:.01s!important}}
 .crumb{display:inline-block;font-size:14px;color:var(--text2);text-decoration:none;margin-bottom:10px}
 .crumb:hover{color:var(--text)}
@@ -67,7 +71,7 @@ body{overflow-x:clip}
 .who .lead{margin:0}
 .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;background:var(--chip);flex:none}
 body.makers-page #chips,body.makers-page #path{display:none}
-.sizef{margin-top:4px;margin-bottom:40px}
+.sizef{margin-top:12px;margin-bottom:48px;padding:22px 26px!important}
 .fh{display:flex;align-items:center;gap:8px}
 .ficon{width:18px;height:18px;fill:var(--accent);flex:none}
 .fhint{margin:3px 0 0;font-size:13px;color:var(--muted)}
@@ -96,8 +100,8 @@ body.makers-page #chips,body.makers-page #path{display:none}
 .mline{font-size:13px;color:var(--text2);margin-top:-4px}
 .mline b{color:var(--text);font-weight:600}
 .mline .hl{color:var(--accent);font-weight:600}
-.makers{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,500px),1fr));gap:18px;padding-top:6px}
-.maker{display:flex;flex-direction:column;gap:14px}
+.makers{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,500px),1fr));gap:28px;padding-top:6px;padding-bottom:64px}
+.maker{display:flex;flex-direction:column;gap:18px;padding:22px 24px!important}
 .mhead{display:flex;gap:14px;align-items:center;text-decoration:none;position:relative}
 .mnum{position:absolute;left:-6px;top:-6px;z-index:1;min-width:24px;height:24px;padding:0 6px;border-radius:12px;background:var(--text);color:var(--bg);font-size:12px;font-weight:700;display:grid;place-items:center;font-variant-numeric:tabular-nums}
 .mhead h2{font-size:22px;margin:0}
@@ -201,8 +205,16 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 /* toolbar */
 .topbar{position:sticky;top:0;z-index:10;background:var(--bg);border-bottom:1px solid transparent;transition:border-color .2s}
 .topbar.stuck{border-bottom-color:var(--line)}
-.bar{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;padding-top:12px;padding-bottom:12px}
-.bar input[type=search]{flex:1 1 220px;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.bar{display:flex;flex-wrap:wrap;gap:12px 16px;align-items:center;padding-top:16px;padding-bottom:16px}
+.ysearch{flex:1 1 260px;max-width:720px;min-width:0;display:flex;height:44px;margin:0}
+.ysearch input{flex:1;min-width:0;height:100%;background:var(--bg);border:1px solid var(--line);border-right:0;border-radius:999px 0 0 999px;padding:0 4px 0 20px;font-size:16px;outline:none}
+.ysearch input:focus{border-color:var(--s1);box-shadow:inset 0 1px 2px rgba(0,0,0,.25)}
+.ysearch input:focus+button{border-color:var(--s1)}
+.ysearch button{flex:none;width:64px;height:100%;display:grid;place-items:center;background:var(--chip);border:1px solid var(--line);border-radius:0 999px 999px 0;cursor:pointer}
+.ysearch button:hover{filter:brightness(1.1)}
+.ysearch svg{width:22px;height:22px;fill:none;stroke:var(--text);stroke-width:2;stroke-linecap:round}
+.bar .sort{margin-left:auto}
+.sortbtn{height:44px;border-radius:999px!important;padding:0 18px!important}
 .sort{position:relative}
 .sortbtn{display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);border-radius:10px;font-size:14px;padding:8px 12px;cursor:pointer;white-space:nowrap}
 .sortbtn:hover{border-color:var(--text2)}
@@ -306,7 +318,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 <header class="wrap" id="hdr"></header>
 <div class="topbar">
   <div class="bar wrap">
-    <input type="search" id="q" placeholder="Search inventions" aria-label="Search inventions">
+    <form class="ysearch" id="qform" role="search"><input type="search" id="q" placeholder="Search inventions" aria-label="Search inventions" autocomplete="off"><button type="submit" aria-label="Search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></button></form>
     <div class="sort">
       <button class="sortbtn" id="sortBtn" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortMenu"><span>Sort:</span> <b id="sortName"></b><i aria-hidden="true"></i></button>
       <ul class="menu" id="sortMenu" role="listbox" aria-label="Sort inventions" tabindex="-1" hidden></ul>
@@ -571,7 +583,8 @@ function renderHeader(){
         <a class="brand" href="#/">${LOGO}<span><b><em>YouTuber</em> Invention Catalogue</b><small>What YouTube's makers actually built</small></span></a>
         <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>
       </div>
-      <div class="hero" id="hero"></div>`;
+      <div class="hero" id="hero"></div>
+      <div class="browse"><h2>Browse all makers</h2><span>Search by maker or invention, sort, or filter by channel size</span></div>`;
     drawHero(true);
     return;
   }
@@ -1055,6 +1068,9 @@ window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(()
 }, 150); });
 $("q").value = st.q;
 window.addEventListener("hashchange", route);
+$("qform").addEventListener("submit", ev => { ev.preventDefault(); $("q").blur();
+  const target = $("makerGrid") || $("main"); const top = target.getBoundingClientRect().top + window.scrollY - topbar.offsetHeight - 12;
+  if (top > window.scrollY) window.scrollTo({ top, behavior: "smooth" }); });
 // Browsers that restore the page from memory (Back button, reopened tab) get a fresh slideshow too.
 window.addEventListener("pageshow", ev => { if (ev.persisted && page === "makers") drawHero(true); });
 // The bar under the search only gets its dividing line once it is stuck to the top of the screen.
