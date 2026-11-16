@@ -90,10 +90,11 @@ Founded in 2023 by William Osman. Names from press coverage; the official creato
 Found by mining @mentions in the 33,000+ video descriptions already fetched (who the makers on the site credit and collaborate with),
 plus Hacker News, There4.io, Hackster's Open Sauce 2025 picks and Circuit Digest. Stats from the YouTube Data API, November 2026.
 
-### Tiny (under 10K) — 13
+### Tiny (under 10K) — 14
 
 | Maker | Handle | Subs | Videos | Since | What they make | How found |
 |---|---|---|---|---|---|---|
+| Ellis Ware | @elliswhere | 3.0K | 12 | 2022 | Robotics and 3D-printed design builds | mentioned by 2 makers |
 | Tony Swatton | @thetonyswatton | 1.8K | 28 | 2025 | Master blacksmith making famous movie weapons | mentioned by a maker |
 | Darren Moser / Dr. Sci-Fi | @drscifi | 1.9K | 54 | 2006 | Sci-fi creations and robot woodworking | mentioned by a maker |
 | CTK_Creations | @ctk_creations7040 | 2.2K | 12 | 2021 | Iron Man and cosplay builds | Emily The Engineer's collaborator |
