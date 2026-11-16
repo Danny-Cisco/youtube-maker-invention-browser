@@ -15,6 +15,9 @@ Makers so far:
 | William Osman | 62 | 169 |
 | The Backyard Scientist | 47 | 191 |
 | Xyla Foxlin | 36 | 203 |
+| Colin Furze | 133 | 414 |
+| Laura Kampf | 42 | 556 |
+| James Bruton | 60 | 802 |
 
 ## View it
 
@@ -45,7 +48,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla
+python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.
