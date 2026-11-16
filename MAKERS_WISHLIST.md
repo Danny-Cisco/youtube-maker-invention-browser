@@ -177,3 +177,75 @@ plus Hacker News, There4.io, Hackster's Open Sauce 2025 picks and Circuit Digest
 ### Also found, but already Big (1M+)
 
 Tom Stanton, Peter Sripol, Plasma Channel, JLaser (Jake Laser), Frankly Built, Engineezy, Boylei Hobby Time, GreatScott!, The Action Lab, Matthew Beem.
+
+## Found through maker events
+
+Speakers and exhibitors from Open Sauce, Hackaday Supercon / Hackaday Europe, EMF Camp and the Chaos Communication Congress (36C3–38C3),
+matched to YouTube channels and checked by hand: real maker or engineering content, not a company, not a namesake. Subscriber counts as of
+November 2026. "Last" is the latest upload. MakeFest and Toronto Maker Festival are not covered yet (their exhibitor lists are names only).
+
+How they were found: Open Sauce's site links its featured creators' channels and lists every exhibitor with a bio; Hackaday's talks are on its
+YouTube channel with speaker names in the titles; EMF Camp publishes its schedule as data; media.ccc.de lists each Congress talk's speakers.
+Names were turned into channels by trying @handles built from the name, then filtering out strangers who share the name.
+
+### Tiny (under 10K)
+
+| Maker | Channel | Subs | Last | What they make | Where |
+|---|---|---|---|---|---|
+| Tylon | @tylon22 | 8.4K | 2026-10 | Odd engineering builds (robot dog grader, "wrong" utility knives) | Open Sauce creator |
+| Dovetail (Brian Yu) | @dvtls | 9.4K | 2026-08 | 3D-printed working piano | Open Sauce exhibitor |
+| Katie Steckles | @katiesteckles | 6.8K | 2026-11 | Maths builds, card-shuffling machine | EMF Camp |
+| Ken Shirriff | @kenshirriff | 5.7K | 2025-03 | Vintage computer and chip reverse engineering | Hackaday Supercon |
+| Science Shack | @scienceshack | 4.8K | 2026-06 | Microcontroller builds: "most stressful game", heartbeat sensor | Open Sauce exhibitor |
+| Sprite_tm (Jeroen Domburg) | @spritetm | 3.2K | – | Hardware hacks, retro PC from components | Hackaday Europe |
+| Woolybeetle | @woolybeetle1 | 2.9K | 2026-10 | Maker shorts (horse costume and friends) | Open Sauce creator |
+| Edwin Hwu | @edwinhwuhacks4science | 2.5K | – | Turning game consoles into lab instruments | Hackaday Europe |
+| Niklas Roy | @niklasroy | 2.5K | 2026-11 | Kinetic art: cardboard and trash clocks | Hackaday Europe |
+| Chris Gammell | @chrisgammell | 2.3K | 2025-12 | Electronics design | Hackaday Supercon |
+| Get Circuit Bent | @getcircuitbent | 1.8K | 2026-10 | Circuit bending, recapping old electronics | Open Sauce exhibitor |
+| Debra Ansell | @geekmomprojects | 1.6K | – | LED and PCB sculptures | Hackaday Supercon |
+| Voja Antonic | @vojaantonic | 1.5K | 2026-03 | Supercon badge designer, clocks | Hackaday Supercon |
+| Gears, Code and Fire | @gearscodeandfire | 1.4K | 2026-11 | Workshop gadgets, conversational robot | Open Sauce exhibitor |
+| Helen Leigh | @helenleigh | 1.4K | 2021-03 | Music hacking, soft circuits (purring tentacle) | EMF Camp, 36C3 |
+| Jenny List | @jennylist | 1.2K | 2026-07 | Radio and hardware (Hackaday writer) | EMF Camp |
+| Tony Goacher | @tonygoacher | 1.1K | 2026-04 | Self-syncing festival badges, trikes | EMF Camp |
+| Chris Lynas | @chrislynas | 1.1K | 2026-06 | Pen plotters and servo PCBs | EMF Camp |
+| Paul Gardner-Stephen | @paulgardnerstephen | 1.0K | 2026-10 | MEGA65 retro computer and phone | 36C3 |
+| Sam Machin | @sammachin | 0.9K | 2026-11 | EMF badge hacks, speech-to-matter | EMF Camp |
+| Mave Made | @mavemade | 0.6K | 2026-09 | Animatronic eyes and mechanisms | Open Sauce creator |
+| ElectroNuck | @electronuck | 0.6K | 2026-09 | Musical instruments from old keyboards and phones | Open Sauce exhibitor |
+| nerdy3d | @nerdy3d | 0.5K | 2026-10 | Mechanical sixth finger, repairs | Open Sauce exhibitor |
+| Devising Delight | @devisingdelight | 0.4K | 2026-10 | Custom inflatable creatures (Trogdor) | Open Sauce exhibitor |
+| Andy Piper | @andypiper | 0.4K | 2025-02 | Pen plotters | EMF Camp |
+| Frazer Merrick | @frazermerrick | 0.3K | 2026-11 | Eurorack and DIY synths | EMF Camp |
+| Grendel Studios | @grendelstudios | 0.2K | 2026-11 | Cosplay props with built-in effects | Open Sauce exhibitor |
+| Anthony Engineers | @anthonyengineers | 0.2K | 2026-07 | Underwater robot for cave exploration | Open Sauce exhibitor |
+
+### Small (10K–100K)
+
+| Maker | Channel | Subs | Last | What they make | Where |
+|---|---|---|---|---|---|
+| Low Byte Productions | @lowbyteproductions | 87K | – | Low-level hardware and firmware | Hackaday Supercon |
+| Chromalock | @chromalock | 78K | 2026-10 | Guitar pedals and audio electronics | Open Sauce creator |
+| CNLohr | @cnlohr | 75K | – | Embedded hacks, tiny microcontrollers doing big things | Hackaday Supercon |
+| Stephen Hawes | @stephen_hawes | 69K | 2026-06 | LumenPnP open-source pick-and-place machine | Hackaday Supercon, Open Sauce |
+| Atarabyte | @atarabyte | 59K | 2026-11 | PCB design and electronics | Open Sauce creator |
+| Perri Karyal | @perrikaryal | 44K | 2026-11 | Brain-controlled gaming and tech challenges | Open Sauce creator |
+| Attoparsec | @attoparsec | 36K | 2026-11 | Technical art, mechanical marvels, bike RV | Open Sauce exhibitor |
+| Graham Dunning | @grahamdunning | 28K | 2026-11 | Mechanical techno machine | EMF Camp |
+| Nate Scovill | @natescovill | 26K | 2026-09 | Rockets and engineering challenges | Open Sauce creator |
+| Mohit Bhoite | @mohitbhoite | 25K | 2025-11 | Free-form circuit sculptures | Hackaday Supercon |
+| Jiří Praus | @jiripraus | 24K | 2020-10 | LED sculptures (inactive) | Hackaday Supercon |
+| Shawn Hymel | @shawnhymel | 18K | 2026-08 | Embedded machine learning, robots | Hackaday Supercon |
+| Banished Builds | @banishedbuilds | 12K | 2026-11 | Working sci-fi and historical replica props | Open Sauce exhibitor |
+
+### Medium (100K–1M), not yet on the site
+
+Saveitforparts (@saveitforparts, 396K, satellite dishes and salvage builds), Carl Bugeja (@carlbugeja, 308K, PCB motors and tiny robots),
+Matt Denton (@mattdenton, 223K, hexapod robots, now vintage cars), Samy Kamkar (@samykamkar, 202K), Joe Grand (@joegrand, 454K, hardware hacking),
+mewtru (@mewtru, 200K, wearable electronics), Sean Hodgins (@seanhodgins, 173K), BigRig Creates (@bigrigcreates, 192K, real Pokédex),
+She Builds Robots (@shebuildsrobots, 118K), Chomp Shop (@chompshop, 110K, cardboard builds), Aaed Musa (@aaedmusa, 277K),
+Concept Bytes (@concept_bytes, 288K), Kiara's Workshop (@kiarasworkshop, 366K), Explosions&Fire (@explosionsandfire, 467K),
+Ivan Miranda (@ivanmirandawastaken, 538K), Marius Hornberger (@mariushornberger, 578K), Inheritance Machining (@inheritancemachining, 610K),
+Joel Creates (@joelcreates, 693K), Weisz (@weisz, 744K), BPS.space (@bpsspace, 899K), AlphaPhoenix (@alphaphoenixchannel, 725K).
+Already Big: Steve Mould (EMF Camp, 3.6M).
