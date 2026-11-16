@@ -62,7 +62,7 @@ body.makers-page header.wrap{padding-bottom:4px}
 .rhead .rshuf{margin-left:auto}
 .rshuf{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
 .rshuf:hover{color:var(--text)}
-@media (max-width:600px){.sizef .presets{display:none}.rhead span,.browse span{order:3;width:100%;margin-top:-6px}.rhead h2,.browse h2{font-size:20px}.crow{margin-top:32px}.browse{margin-top:48px}.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
+@media (max-width:600px){.rhead span,.browse span{order:3;width:100%;margin-top:-6px}.rhead h2,.browse h2{font-size:20px}.crow{margin-top:32px}.browse{margin-top:48px}.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
 @media (prefers-reduced-motion:reduce){.ctrack,.slide,.slide img.th{transition-duration:.01s!important}}
 .crumb{display:inline-block;font-size:14px;color:var(--text2);text-decoration:none;margin-bottom:10px}
 .crumb:hover{color:var(--text)}
@@ -70,12 +70,10 @@ body.makers-page header.wrap{padding-bottom:4px}
 .who h1{margin:0 0 4px}
 .who .lead{margin:0}
 .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;background:var(--chip);flex:none}
-body.makers-page #chips,body.makers-page #path{display:none}
+body.makers-page #path{display:none}
 .sizef{margin-top:12px;margin-bottom:48px;padding:22px 26px!important}
 .fh{display:flex;align-items:center;gap:8px}
 .ficon{width:18px;height:18px;fill:var(--accent);flex:none}
-.mob-only{display:none}
-@media (max-width:600px){.desk-only{display:none}.mob-only{display:inline}}
 .fhint{margin:3px 0 0;font-size:13px;color:var(--muted)}
 .sizef .ph{align-items:flex-start}
 .presets{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
@@ -232,9 +230,6 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 .menu li[aria-selected="true"]{font-weight:600}
 .menu li[aria-selected="true"]::after{content:"";width:12px;height:6px;border-left:2.5px solid var(--text);border-bottom:2.5px solid var(--text);transform:rotate(-45deg) translateY(-2px)}
 .menu .sep{height:1px;background:var(--line);margin:4px 8px;padding:0;pointer-events:none}
-.chips{display:flex;gap:6px;flex-wrap:wrap;width:100%}
-.chips button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px;font-size:13px;cursor:pointer;color:var(--text2)}
-.chips button[aria-pressed="true"]{background:var(--text);border-color:var(--text);color:var(--bg);font-weight:600}
 
 /* grid of project cards */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));grid-auto-rows:1fr;gap:18px;padding:20px 0}
@@ -325,7 +320,6 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
       <button class="sortbtn" id="sortBtn" aria-haspopup="listbox" aria-expanded="false" aria-controls="sortMenu"><span>Sort:</span> <b id="sortName"></b><i aria-hidden="true"></i></button>
       <ul class="menu" id="sortMenu" role="listbox" aria-label="Sort inventions" tabindex="-1" hidden></ul>
     </div>
-    <div class="chips" role="group" aria-label="Filter by type" id="chips"></div>
   </div>
   <nav class="path wrap" id="path" aria-label="Move between inventions" hidden></nav>
 </div>
@@ -405,6 +399,7 @@ const MAKER_SORTS = [
 const MSORT = Object.fromEntries(MAKER_SORTS.filter(o => !o.sep).map(o => [o.k, o]));
 const onMakers = () => !C;
 try { Object.assign(st, JSON.parse(sessionStorage.getItem("ma.list") || "{}")); } catch {}
+st.kind = "All";  // the type-filter pills were removed; never leave an old type filter switched on
 if (!SORT[st.sort]) st.sort = "views";
 const saveSt = () => { try { sessionStorage.setItem("ma.list", JSON.stringify(st)); } catch {} };
 function getSeen(){ try { return new Set(JSON.parse(localStorage.getItem("ma.seen") || "[]")); } catch { return new Set(); } }
@@ -604,7 +599,6 @@ function renderControls(){
     : `<li role="option" data-k="${o.k}" aria-selected="${o.k === curK}">${o.label}</li>`).join("");
   $("q").placeholder = onMakers() ? "Search makers and inventions" : "Search inventions";
   $("q").value = onMakers() ? st.mq : st.q;
-  $("chips").innerHTML = KINDS.map(k => `<button data-kind="${k}" aria-pressed="${st.kind === k}">${k}</button>`).join("");
 }
 const menu = $("sortMenu"), btn = $("sortBtn");
 const opts = () => [...menu.querySelectorAll("[role=option]")];
@@ -633,8 +627,6 @@ menu.onkeydown = e => {
   else if (e.key === "Escape" || e.key === "Tab") { openMenu(false); btn.focus(); }
 };
 document.addEventListener("click", e => { if (!menu.hidden && !e.target.closest(".sort")) openMenu(false); });
-$("chips").onclick = e => { const b = e.target.closest("[data-kind]"); if (!b) return; st.kind = b.dataset.kind; saveSt();
-  if (current && !filtered().includes(current)) location.hash = home(); else update(); };
 $("q").oninput = e => {
   if (onMakers()) { st.mq = e.target.value; saveSt(); renderMakerGrid(); return; }
   st.q = e.target.value; saveSt(); if (current) location.hash = home(); else update();
@@ -821,7 +813,7 @@ function renderMakers(){
   const ticks = []; for (let e = SIZE_LO; e <= SIZE_HI; e++) ticks.push(e);
   main.innerHTML = `
   <div class="wrap"><section class="panel sizef" aria-label="Filter by channel size">
-    <div class="ph"><div><h3 class="fh"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18l-7 8.5V19l-4 2v-7.5z"/></svg>Filter by channel size</h3><p class="fhint"><span class="desk-only">Pick a preset, or drag</span><span class="mob-only">Drag</span> the orange handles along the subscriber scale. Each dot is a maker.</p></div><span class="sub" id="sizeLabel"></span></div>
+    <div class="ph"><div><h3 class="fh"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18l-7 8.5V19l-4 2v-7.5z"/></svg>Filter by channel size</h3><p class="fhint">Pick a preset, or drag the orange handles along the subscriber scale. Each dot is a maker.</p></div><span class="sub" id="sizeLabel"></span></div>
     <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
       const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
       return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${a <= SIZE_LO ? "<" + fmt(10 ** b) : fmt(10 ** a) + (b >= SIZE_HI ? "+" : "–" + fmt(10 ** b))} · `}${n}</span></button>`; }).join("")}</div>
