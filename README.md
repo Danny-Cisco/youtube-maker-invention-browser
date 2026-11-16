@@ -11,6 +11,10 @@ Makers so far:
 | Look Mum No Computer | 107 | 857 |
 | Stuff Made Here | 27 | 42 |
 | Michael Reeves | 37 | 57 |
+| Allen Pan | 54 | 128 |
+| William Osman | 62 | 169 |
+| The Backyard Scientist | 47 | 191 |
+| Xyla Foxlin | 36 | 203 |
 
 ## View it
 
@@ -41,7 +45,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves
+python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.
