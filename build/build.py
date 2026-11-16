@@ -1,23 +1,51 @@
-import json, sys, os, importlib.util
-src, data, out = sys.argv[1:4]
-spec = importlib.util.spec_from_file_location("c", src); c = importlib.util.module_from_spec(spec); spec.loader.exec_module(c)
-d = json.load(open(data)); V = {v["id"]: v for v in d["videos"]}
-used = [i for inv in c.INVENTIONS for i in inv["videos"]] + c.OTHER
-missing = set(V) - set(used); unknown = set(used) - set(V); dup = {i for i in used if used.count(i) > 1}
-assert not missing and not unknown and not dup, (missing, unknown, dup)
-invs = []
-for inv in c.INVENTIONS:
-    vs = sorted((V[i] for i in inv["videos"]), key=lambda v: v["d"])
-    hero = max(vs, key=lambda v: (v["s"] > 70, v["v"]))
-    invs.append(dict(name=inv["name"], kind=inv["kind"], desc=inv["desc"], hero=hero["id"],
-        start=vs[0]["d"], views=sum(v["v"] for v in vs),
-        videos=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], short=v["s"] <= 70) for v in vs],
-        links=[dict(label=l, url=u) for l, u in inv.get("links", [])]))
-other = [dict(id=i, t=V[i]["t"], d=V[i]["d"]) for i in sorted(c.OTHER, key=lambda i: V[i]["d"])]
-payload = dict(creator=dict(name="Emily The Engineer", handle="@emilytheengineer", url="https://www.youtube.com/@emilytheengineer",
-    tagline="engineer by degree, unhinged by nature", subs=int(d["stats"]["subscriberCount"]), uploads=len(V),
-    since=min(v["d"] for v in V.values())), inventions=invs, other=other,
-    uploads=[dict(d=v["d"], short=v["s"] <= 70) for v in sorted(V.values(), key=lambda v: v["d"])])
-tpl = open(os.path.join(os.path.dirname(__file__), "template.html")).read()
+"""Build index.html from one or more makers.
+
+Usage:
+  python3 build/build.py index.html data/emily data/lmnc
+
+Each maker needs data/<name>_inventions.py (curated) and data/<name>_videos.json (from fetch_videos.py).
+The build stops if a curated video ID is unknown or used twice, or (when OTHER is a list) if an upload
+hasn't been assigned anywhere, so new uploads get noticed.
+"""
+import importlib.util, json, os, sys
+
+out, prefixes = sys.argv[1], sys.argv[2:]
+here = os.path.dirname(os.path.abspath(__file__))
+
+def load(prefix):
+    spec = importlib.util.spec_from_file_location("inv", prefix + "_inventions.py")
+    mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)
+    data = json.load(open(prefix + "_videos.json"))
+    V = {v["id"]: v for v in data["videos"]}
+    assigned = [i for inv in mod.INVENTIONS for i in inv["videos"]]
+    other = mod.OTHER if mod.OTHER is not None else [i for i in V if i not in set(assigned)]
+    used = assigned + list(other)
+    unknown = set(used) - set(V)
+    dup = {i for i in used if used.count(i) > 1}
+    missing = set(V) - set(used)
+    problems = []
+    if unknown: problems.append(f"unknown video IDs: {sorted(unknown)}")
+    if dup: problems.append(f"videos used twice: {sorted(dup)}")
+    if missing: problems.append("new uploads not assigned to an invention or OTHER:\n" + "\n".join(f"  {i}  {V[i]['d']}  {V[i]['t']}" for i in sorted(missing, key=lambda i: V[i]["d"])))
+    if problems: sys.exit(f"{prefix}: " + "\n".join(problems))
+    invs = []
+    for inv in mod.INVENTIONS:
+        vs = sorted((V[i] for i in inv["videos"]), key=lambda v: v["d"])
+        hero = max(vs, key=lambda v: (v["s"] > 70, v["v"]))
+        invs.append(dict(name=inv["name"], kind=inv["kind"], desc=inv["desc"], hero=hero["id"],
+            start=vs[0]["d"], views=sum(v["v"] for v in vs),
+            videos=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], short=v["s"] <= 70) for v in vs],
+            links=[dict(label=l, url=u) for l, u in inv.get("links", [])]))
+    ch, C = data["channel"], mod.CREATOR
+    creator = dict(slug=C["slug"], name=C["name"], person=C.get("person", ""), tagline=C["tagline"],
+        otherLabel=C.get("other_label", "Other uploads"), handle=ch["handle"], url="https://www.youtube.com/" + ch["handle"],
+        avatar=ch["avatar"], subs=int(data["stats"]["subscriberCount"]), uploadCount=len(V), since=min(v["d"] for v in V.values()),
+        inventions=invs,
+        other=[dict(id=i, t=V[i]["t"], d=V[i]["d"], short=V[i]["s"] <= 70) for i in sorted(other, key=lambda i: V[i]["d"])],
+        uploads=[dict(d=v["d"], short=v["s"] <= 70) for v in sorted(V.values(), key=lambda v: v["d"])])
+    print(f"{C['name']}: {len(invs)} inventions, {len(assigned)} videos in inventions, {len(other)} other uploads")
+    return creator
+
+payload = dict(creators=[load(p) for p in prefixes])
+tpl = open(os.path.join(here, "template.html")).read()
 open(out, "w").write(tpl.replace("/*DATA*/null", json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")))
-print(len(invs), "inventions,", len(other), "other uploads")

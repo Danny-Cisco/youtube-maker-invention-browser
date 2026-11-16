@@ -1,5 +1,9 @@
 # Curated inventions for Emily The Engineer. Video IDs come from the YouTube Data API pull (emily.json).
 # kind: Wearable | Machine | Prop | Experiment
+CREATOR = dict(slug="emily-the-engineer", name="Emily The Engineer", person="Emily",
+               tagline="3D-printed armor, giant printers and gloriously unhinged machines.",
+               other_label="Other uploads: tutorials, Q&As and updates")
+
 INVENTIONS = [
  dict(name="Iron Man Mark 7 Suit", kind="Wearable",
   desc="Her signature build: a wearable, fully 3D-printed Mark 7 suit with hinged knees, a flexible ab plate and a back brace, developed in public over 2020–21. It went viral on TikTok in early 2021, and later picked up a chrome finish, a flight-themed stunt with Colin Furze and a VR headset hidden in the helmet.",

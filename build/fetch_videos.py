@@ -1,7 +1,7 @@
 """Download a channel's full upload list (titles, dates, views, durations) via the YouTube Data API.
 
 Usage:
-  YOUTUBE_API_KEY=... python3 build/fetch_videos.py CHANNEL_ID data/NAME_videos.json
+  YOUTUBE_API_KEY=... python3 build/fetch_videos.py CHANNEL_ID_OR_@HANDLE data/NAME_videos.json
 The key is read from the environment and never written to disk.
 """
 import json, os, re, sys, urllib.parse, urllib.request
@@ -13,7 +13,7 @@ def yt(path, **q):
     q["key"] = KEY
     return json.load(urllib.request.urlopen("https://www.googleapis.com/youtube/v3/" + path + "?" + urllib.parse.urlencode(q)))
 
-ch = yt("channels", part="contentDetails,statistics", id=channel)["items"][0]
+ch = yt("channels", part="snippet,contentDetails,statistics", **({"forHandle": channel} if channel.startswith("@") else {"id": channel}))["items"][0]
 uploads, ids, tok = ch["contentDetails"]["relatedPlaylists"]["uploads"], [], None
 while True:
     q = dict(part="contentDetails", playlistId=uploads, maxResults=50, **({"pageToken": tok} if tok else {}))
@@ -29,5 +29,8 @@ for i in range(0, len(ids), 50):
         videos.append(dict(id=v["id"], t=v["snippet"]["title"], d=v["snippet"]["publishedAt"][:10],
                            v=int(v["statistics"].get("viewCount", 0)), s=secs, desc=v["snippet"]["description"][:600]))
 videos.sort(key=lambda x: x["d"])
-json.dump(dict(stats=ch["statistics"], videos=videos), open(out, "w"), indent=1)
+sn = ch["snippet"]
+channel_info = dict(id=ch["id"], title=sn["title"], handle=sn.get("customUrl", ""), description=sn.get("description", "")[:400],
+                    since=sn["publishedAt"][:10], avatar=sn["thumbnails"].get("high", sn["thumbnails"]["default"])["url"])
+json.dump(dict(channel=channel_info, stats=ch["statistics"], videos=videos), open(out, "w"), indent=1)
 print(f"{len(videos)} videos -> {out}")

@@ -1,8 +1,13 @@
 # YouTube Maker Invention Browser
 
-A portfolio site for catching up on maker YouTubers: every invention grouped across all of its videos, with a short description, embedded videos, press coverage and files, a timeline of the whole channel, release-schedule stats, and a build history for each project.
+A site for catching up on maker YouTubers: every invention grouped across all of its videos, with a short description, embedded videos, press coverage and files, a timeline of the whole channel, release-schedule stats, and a build history for each project.
 
-The first creator is **Emily The Engineer** (44 inventions from 83 uploads).
+Makers so far:
+
+| Maker | Inventions | Uploads |
+|---|---|---|
+| Emily The Engineer | 44 | 83 |
+| Look Mum No Computer | 107 | 857 |
 
 ## View it
 
@@ -20,20 +25,22 @@ then visit http://localhost:8000. YouTube only plays embedded videos on pages se
 
 | File | What it is |
 |---|---|
-| `data/emily_videos.json` | Every upload with title, date, views and duration, from the YouTube Data API |
-| `data/emily_inventions.py` | The curated part: which videos belong to which invention, descriptions, and article/file links |
+| `data/<maker>_videos.json` | Every upload with title, date, views and duration, from the YouTube Data API |
+| `data/<maker>_inventions.py` | The curated part: maker info, which videos belong to which invention, descriptions, and article/file links |
 | `build/template.html` | Page layout, styles and scripts |
-| `build/build.py` | Combines the above into `index.html` and checks every upload is accounted for |
+| `build/build.py` | Combines all makers into `index.html` and checks every upload is accounted for |
 | `build/fetch_videos.py` | Refreshes a channel's video data |
 
-Refresh view counts, then rebuild:
+Refresh a maker's videos (channel ID or @handle), then rebuild:
 
 ```bash
-YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py UC_4YBM08hcpJqLl3vvgTqXg data/emily_videos.json
+YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/lmnc_videos.json
 ```
 
 ```bash
-python3 build/build.py data/emily_inventions.py data/emily_videos.json index.html
+python3 build/build.py index.html data/emily data/lmnc
 ```
 
-If new videos have been uploaded, the build stops and lists them so they can be added to an invention (or to `OTHER`) in `data/emily_inventions.py`.
+To add a maker, fetch their videos to `data/<name>_videos.json`, write `data/<name>_inventions.py` (copy an existing one for the format), and add `data/<name>` to the build command.
+
+For a maker whose `OTHER` is an explicit list (Emily), the build stops and lists any new uploads so they can be assigned. For a maker whose `OTHER` is `None` (Look Mum No Computer), unassigned uploads go to "Other uploads" automatically.
