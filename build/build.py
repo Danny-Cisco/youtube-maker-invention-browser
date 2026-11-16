@@ -12,6 +12,14 @@ import importlib.util, json, os, sys
 out, prefixes = sys.argv[1], sys.argv[2:]
 here = os.path.dirname(os.path.abspath(__file__))
 
+def is_short(v):
+    """The API has no Shorts flag, so infer it. Shorts were capped at 60 s until YouTube raised the
+    limit to 3 minutes in October 2024; vertical uploads since then are usually hashtag-titled."""
+    t = v["t"].lower()
+    if v["s"] <= 60: return True
+    if v["s"] <= 180 and "#short" in t: return True
+    return v["s"] <= 180 and v["d"] >= "2024-10-15" and "#" in t
+
 def load(prefix):
     spec = importlib.util.spec_from_file_location("inv", prefix + "_inventions.py")
     mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)
@@ -31,18 +39,18 @@ def load(prefix):
     invs = []
     for inv in mod.INVENTIONS:
         vs = sorted((V[i] for i in inv["videos"]), key=lambda v: v["d"])
-        hero = max(vs, key=lambda v: (v["s"] > 70, v["v"]))
+        hero = max(vs, key=lambda v: (not is_short(v), v["v"]))
         invs.append(dict(name=inv["name"], kind=inv["kind"], desc=inv["desc"], hero=hero["id"],
             start=vs[0]["d"], views=sum(v["v"] for v in vs),
-            videos=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], short=v["s"] <= 70) for v in vs],
+            videos=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], s=v["s"], short=is_short(v)) for v in vs],
             links=[dict(label=l, url=u) for l, u in inv.get("links", [])]))
     ch, C = data["channel"], mod.CREATOR
     creator = dict(slug=C["slug"], name=C["name"], person=C.get("person", ""), tagline=C["tagline"],
         otherLabel=C.get("other_label", "Other uploads"), handle=ch["handle"], url="https://www.youtube.com/" + ch["handle"],
         avatar=ch["avatar"], subs=int(data["stats"]["subscriberCount"]), uploadCount=len(V), since=min(v["d"] for v in V.values()),
         inventions=invs,
-        other=[dict(id=i, t=V[i]["t"], d=V[i]["d"], short=V[i]["s"] <= 70) for i in sorted(other, key=lambda i: V[i]["d"])],
-        uploads=[dict(d=v["d"], short=v["s"] <= 70) for v in sorted(V.values(), key=lambda v: v["d"])])
+        other=sorted(other, key=lambda i: V[i]["d"]),
+        uploads=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], s=v["s"], short=is_short(v)) for v in sorted(V.values(), key=lambda v: v["d"])])
     print(f"{C['name']}: {len(invs)} inventions, {len(assigned)} videos in inventions, {len(other)} other uploads")
     return creator
 
