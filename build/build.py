@@ -13,14 +13,13 @@ out, prefixes = sys.argv[1], sys.argv[2:]
 here = os.path.dirname(os.path.abspath(__file__))
 
 def is_short(v):
-    """YouTube's own rule: a Short is vertical or square and at most 60 s, or at most 3 minutes for
-    uploads from 15 Oct 2024. Orientation comes from fetch_videos.py; if it's missing, fall back to
-    guessing from length and hashtags."""
-    limit = 181 if v["d"] >= "2024-10-15" else 61  # +1 s: the API rounds durations up (a 60.4 s Short reports 61 s)
+    """Shorts are vertical (or square) videos; everything horizontal is a regular video. Orientation is
+    used on its own rather than YouTube's current length cap, which has changed before. If orientation
+    is missing (rare, e.g. some streams), fall back to guessing from length and hashtags."""
     if v.get("vertical") is not None:
-        return v["vertical"] and v["s"] <= limit
+        return v["vertical"]
     t = v["t"].lower()
-    return v["s"] <= 60 or (v["s"] <= 180 and ("#short" in t or (v["d"] >= "2024-10-15" and "#" in t)))
+    return v["s"] <= 60 or (v["s"] <= 180 and "#short" in t)
 
 def load(prefix):
     spec = importlib.util.spec_from_file_location("inv", prefix + "_inventions.py")

@@ -467,7 +467,7 @@ function renderHome(){
   <div class="wrap" id="gridWrap"></div>
   <section class="wrap other"><details><summary>${esc(C.otherLabel)} (${C.other.length})</summary><ul>${
     C.other.map(v => `<li><a href="${yt(v.id)}" target="_blank" rel="noopener">${esc(v.t)}</a> <span style="color:var(--muted)">· ${date(v.d)}</span></li>`).join("")}</ul></details></section>
-  <footer class="wrap">The number on each card is its position in the current sort. Descriptions come from the videos and press coverage. Gaps are measured between long-form uploads. Shorts follow YouTube's rule: vertical or square, and up to 60 s (up to 3 min for uploads from 15 Oct 2024). Short horizontal clips count as regular videos.</footer>`;
+  <footer class="wrap">The number on each card is its position in the current sort. Descriptions come from the videos and press coverage. Gaps are measured between long-form uploads. Shorts are identified by shape: vertical or square videos are Shorts, horizontal ones are long-form, whatever their length.</footer>`;
   drawBars(cd);
   drawLengths();
   updateHome();
