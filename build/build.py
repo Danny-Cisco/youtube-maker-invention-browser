@@ -21,6 +21,10 @@ def is_short(v):
     t = v["t"].lower()
     return v["s"] <= 60 or (v["s"] <= 180 and "#short" in t)
 
+# Other platforms each maker links from their YouTube descriptions: {slug: [[platform, url], ...]} (see MAKER_PLATFORMS.md).
+_soc = os.path.join(here, "..", "data", "socials.json")
+SOCIALS = json.load(open(_soc)) if os.path.exists(_soc) else {}
+
 def load(prefix):
     spec = importlib.util.spec_from_file_location("inv", prefix + "_inventions.py")
     mod = importlib.util.module_from_spec(spec); spec.loader.exec_module(mod)
@@ -49,7 +53,7 @@ def load(prefix):
     creator = dict(slug=C["slug"], name=C["name"], person=C.get("person", ""), tagline=C["tagline"],
         otherLabel=C.get("other_label", "Other uploads"), handle=ch["handle"], url="https://www.youtube.com/" + ch["handle"],
         avatar=ch["avatar"], subs=int(data["stats"]["subscriberCount"]), uploadCount=len(V), since=min(v["d"] for v in V.values()),
-        inventions=invs,
+        inventions=invs, links=SOCIALS.get(C["slug"], []),
         other=sorted(other, key=lambda i: V[i]["d"]),
         uploads=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], s=v["s"], short=is_short(v)) for v in sorted(V.values(), key=lambda v: v["d"])])
     print(f"{C['name']}: {len(invs)} inventions, {len(assigned)} videos in inventions, {len(other)} other uploads")

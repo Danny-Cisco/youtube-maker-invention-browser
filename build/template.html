@@ -221,6 +221,11 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 .lead{color:var(--text2);max-width:640px;margin:0}
 .facts{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:16px;color:var(--text2);font-size:14px}
 .facts b{color:var(--text)}
+.socials{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.soc{font-size:13px;text-decoration:none;color:var(--text2);border:1px solid var(--line);background:var(--card);border-radius:999px;padding:3px 11px}
+.soc:hover{color:var(--text);border-color:var(--muted)}
+.soc.pat{color:var(--text);border-color:var(--accent);font-weight:600}
+body.proj .socials{display:none}
 
 /* toolbar */
 .topbar{position:sticky;top:0;z-index:10;background:var(--bg);border-bottom:1px solid transparent;transition:border-color .2s}
@@ -610,7 +615,8 @@ function renderHeader(){
     <div class="who"><img class="avatar" src="${esc(C.avatar)}" alt="" referrerpolicy="no-referrer"><div>
       <h1><a href="${home()}">${esc(C.name)}</a></h1>
       <p class="lead">${esc(C.tagline)}</p></div></div>
-    <div class="facts"><span><b>${I.length}</b> inventions</span><span><b>${C.uploadCount}</b> uploads since ${new Date(C.since).getFullYear()}</span><span><b>${fmt(C.subs)}</b> subscribers</span><a href="${C.url}" target="_blank" rel="noopener">${esc(C.handle)} ↗</a></div>`;
+    <div class="facts"><span><b>${I.length}</b> inventions</span><span><b>${C.uploadCount}</b> uploads since ${new Date(C.since).getFullYear()}</span><span><b>${fmt(C.subs)}</b> subscribers</span><a href="${C.url}" target="_blank" rel="noopener">${esc(C.handle)} ↗</a></div>
+    ${C.links.length ? `<div class="socials" aria-label="Also on">${C.links.map(([p, u]) => `<a class="soc${p === "Patreon" ? " pat" : ""}" href="${esc(u)}" target="_blank" rel="noopener">${esc(p)} ↗</a>`).join("")}</div>` : ""}`;
 }
 function renderControls(){
   const list = onMakers() ? MAKER_SORTS : SORTS, curK = onMakers() ? st.mSort : st.sort;
