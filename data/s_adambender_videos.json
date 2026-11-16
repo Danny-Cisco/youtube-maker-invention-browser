@@ -1,0 +1,117 @@
+{
+ "channel": {
+  "id": "UCVjaqUCnMrIeckjzlnFB79A",
+  "title": "Adam Bender",
+  "handle": "@adambender",
+  "description": "I create engineering and science videos to help promote education",
+  "since": "2012-05-09",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nl77V5xQieW5tYAydhiJlApPKJhULdgd-J2ZWFVeeWKvQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1188117",
+  "subscriberCount": "11700",
+  "hiddenSubscriberCount": false,
+  "videoCount": "11"
+ },
+ "videos": [
+  {
+   "id": "hKbwETd0xQw",
+   "t": "DIY CNC Quick look at engraving",
+   "d": "2012-11-07",
+   "v": 1757,
+   "s": 29,
+   "vertical": false,
+   "desc": "just a quick look at my homemade CNC carving maple\n\nhit up my website for more information and photos\nhttp://engrave.webs.com/"
+  },
+  {
+   "id": "axLIIfqhN_U",
+   "t": "Homemade CNC Machine Engraving",
+   "d": "2012-11-07",
+   "v": 2083,
+   "s": 65,
+   "vertical": false,
+   "desc": "A quick tour of my homemade CNC Machine doing some wood engraving.\n\nhit up my website for more information and photos\nhttp://engrave.webs.com"
+  },
+  {
+   "id": "4fh7HhWTf0w",
+   "t": "Delta Printer in Action, Testing Kinematics",
+   "d": "2013-08-20",
+   "v": 21617,
+   "s": 19,
+   "vertical": true,
+   "desc": "Link to build:\n\nhttp://mechy.weebly.com/3d-delta-printer.html"
+  },
+  {
+   "id": "I-xwtTATRLM",
+   "t": "One Wheel Balancing Robot",
+   "d": "2014-07-31",
+   "v": 4148,
+   "s": 60,
+   "vertical": false,
+   "desc": "A robot, which balances on one wheel. It's final iteration allows for balancing in the roll and pitch directions, as well as the capability to maintain a distance from an object."
+  },
+  {
+   "id": "7LxakM4VuF4",
+   "t": "Loft with Guide Curves using SolidWorks",
+   "d": "2015-03-17",
+   "v": 112923,
+   "s": 392,
+   "vertical": false,
+   "desc": "This is a tutorial for creating 3D geometry in SolidWorks using the loft command and the guided curve functionality. It is one feature inside of a pump drawing."
+  },
+  {
+   "id": "NauURWekZmY",
+   "t": "SolidWorks Flow Simulation with Fan and Heat Hink",
+   "d": "2015-03-18",
+   "v": 194822,
+   "s": 288,
+   "vertical": false,
+   "desc": "Simulating flow with a rotating fan over a heat sink using SolidWorks"
+  },
+  {
+   "id": "qx_qqVmjCc0",
+   "t": "How to Design Parts for CNC Machining",
+   "d": "2019-05-19",
+   "v": 246436,
+   "s": 658,
+   "vertical": false,
+   "desc": "I this video, I will go over some of the top tips and tricks on how you can improve your designs and decrease cost while optimizing for manufacturing on a CNC milling process.\n\nI\u2019ll cover everything from fillets, chamfers, setups, drilling, tapping, undercuts and even text. Shortcut links are for everything below. Full article posted on my website below.\n\n00:28 - CNC Milling Machine\n01:06 - Common Cutting Tools\n01:52 - End Mill Deflection\n02:39 - Internal Fillets\n03:05 - Fillet Specifics\n03:37 - Dogbone Corners\n03:45 - Feature Height\n04:00 - Threads and Tapping\n04:36 - Raw Stock Size\n05:01 - C"
+  },
+  {
+   "id": "4aBVAbfxLJw",
+   "t": "How to Build Epoxy Granite Machine Base",
+   "d": "2019-05-25",
+   "v": 424760,
+   "s": 662,
+   "vertical": false,
+   "desc": "Epoxy granite, sometimes known as polymer concrete, makes an amazing machine base. It can be cast into almost any shape, is incredible stiff, and dampens vibrations.\n\nThese bases can be used for scientific instruments, CNC machines, and anything else that needs a rock solid base.\n\nIn this tutorial, I will cover all the prototyping and trials I went through to build an epoxy granite machine base. I give all the recipes and instructions needed to make your own at home, as well as all of the mistakes (\"lessons\") I learned along the way.\n\nI've also included instructions on how to build a shaker ta"
+  },
+  {
+   "id": "JldTYkcFDM8",
+   "t": "How To Build a Lithium Battery (Part 1 of 2)",
+   "d": "2019-06-01",
+   "v": 48388,
+   "s": 372,
+   "vertical": false,
+   "desc": "In this tutorial, I'll provide step by step instructions on how I built a 48 cell lithium ion battery pack out of 18650 cells. \n\nFirst I'll cover the mechanical structure and how the cells are held together. Next I'll go over how to join cells together to form parallel and serial connections. I'll show a lot of the details that go into spot welding, and some good techniques to used.\n\nI'll cover how to add a battery management system to the pack to enable proper charging, and not damage any cells. I'll show how to solder on the balance lines while minimizing the heat absorption by the cells.\n\nT"
+  },
+  {
+   "id": "f9fZZVfcBVQ",
+   "t": "How To Design A Lithium Battery (Part 2 of 2)",
+   "d": "2019-06-10",
+   "v": 44930,
+   "s": 726,
+   "vertical": false,
+   "desc": "In this video tutorial, I'll go through all the detailed information needed when designing a lithium battery pack with 18650 cells. Designing a custom lithium battery pack is a fun way to learn about electricity and engineering. Lithium batteries can be used for countless applications including electric bikes, scooters, vehicles, backup power suppliers, off the grid solutions, and much more.\n\nI'll cover 5 main topics that'll help you design your own battery packs\n\n1. How a lithium battery cell works. Everything from the rolled internals and materials to how the lithium ions are transported dur"
+  },
+  {
+   "id": "SwTtltjE2_E",
+   "t": "Design the Best Wheel with Fusion 360 and Generative Design",
+   "d": "2019-06-16",
+   "v": 86313,
+   "s": 456,
+   "vertical": false,
+   "desc": "Learn how to use a new engineering simulation tool called generative design to create highly efficient shapes that optimize the stiffness and weight of a part.\n\nThis video tutorial shows how to design a wheel using Autodesk Fusion 360 and generative shape design. I walk through the process of creating radial symmetry, setting up the constraints, applying loads and analyzing the results.\n\nI'll show how the result of the generative simulation can be redrawn, and then checked with finite element analysis (FEA) to ensure that the part is strong enough for the expected loads.\n\n00:14 Example outputs"
+  }
+ ]
+}

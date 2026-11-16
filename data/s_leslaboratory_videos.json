@@ -1,0 +1,639 @@
+{
+ "channel": {
+  "id": "UC0ptp5KuvAJmp8kRV8dqZDA",
+  "title": "Les' Lab",
+  "handle": "@leslaboratory",
+  "description": "I am an Amateur Scientist inspired by the old Sci-Am articles of the same name!\n\nI build home-made Lasers, Electronics projects, Computers and am interested in Chemistry & Physics, and publish these on YouTube.\n\nSupport on YouTube has enabled me to share my work with like minded people, get one of my creations published in IEEE Sensors Letters, and even design and build a Supercontinnum Laser at h",
+  "since": "2012-09-03",
+  "avatar": "https://yt3.ggpht.com/wI4COlTLFcmZezvK9Gdf1cO0WVzxx1EvIzL0l4E9w1tY82NGyO-q1oVRcvqwWp8bEqbc98eB=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "2813369",
+  "subscriberCount": "43000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "69"
+ },
+ "videos": [
+  {
+   "id": "T-VjYr7sZC4",
+   "t": "Raspberry Pi 4 (RPi4) & Google Coral Live object detection using MobileNet-SSD 70FPS!",
+   "d": "2019-07-04",
+   "v": 22297,
+   "s": 626,
+   "vertical": false,
+   "desc": "Episode 3 \n\n#raspberrypi \n#ai \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n**Code below! Expand the description!**\n\nThe Raspberry Pi 4 can be made to work with the Google Coral for a killer AI c"
+  },
+  {
+   "id": "US3vLJIUGoU",
+   "t": "Nitrogen Laser tear down, power up, and Home Made Dye Laser Demonstration",
+   "d": "2020-07-04",
+   "v": 13973,
+   "s": 1243,
+   "vertical": false,
+   "desc": "Episode 4 \n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nApologies for the low volume. I will boost the audio next time!\n\nA tear down of an LSI Nitrogen Laser:\n36kW Peak Power\n15"
+  },
+  {
+   "id": "pCnXftuJ9Zo",
+   "t": "DIY Home made High Performance TEA Nitrogen Laser and Dye Laser!",
+   "d": "2020-08-06",
+   "v": 90431,
+   "s": 1641,
+   "vertical": false,
+   "desc": "Episode 5 \n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video, I show three of my high performance designs for Home made TEA nitrogen Lasers.\n\nAlthough Nitrogen Lasers a"
+  },
+  {
+   "id": "AyN1o_3XaTw",
+   "t": "Tear down of the DIY  High Performance TEA Nitrogen Laser, how to build it and advice!",
+   "d": "2020-08-11",
+   "v": 16211,
+   "s": 1161,
+   "vertical": false,
+   "desc": "Episode 6\n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nAs some of you guys have asked specific questions about the High Performance Nitrogen Laser build, this followup video sho"
+  },
+  {
+   "id": "xAoEe28itAA",
+   "t": "How to drive a Vacuum Fluorescent display with a Raspberry Pi: Raspberry Pi VFD Clock",
+   "d": "2020-08-23",
+   "v": 6932,
+   "s": 1331,
+   "vertical": false,
+   "desc": "Episode 7 \n\n#raspberrypi \n#display \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nThe BA63 display is the kind of display you are familiar with a supermarket checkouts and can be had quite cheaply"
+  },
+  {
+   "id": "q9zQ3_Kjxd8",
+   "t": "DIY Tunable Dye Laser!",
+   "d": "2020-09-05",
+   "v": 4665,
+   "s": 489,
+   "vertical": false,
+   "desc": "Episode 8 \n\n#laser \n#optics \n\nThere is a better HD 60FPS version of this video here: https://www.youtube.com/watch?v=-ny_-Y1MpRY\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video, I show"
+  },
+  {
+   "id": "-ny_-Y1MpRY",
+   "t": "DIY Tunable Dye Laser! (HD 60FPS re-encoded video)",
+   "d": "2020-09-06",
+   "v": 9288,
+   "s": 489,
+   "vertical": false,
+   "desc": "Episode 8.1\n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nNote :This is a re-encoded HD 60FPS version of https://www.youtube.com/watch?v=q9zQ3_Kjxd8  Seemingly the video processo"
+  },
+  {
+   "id": "BWd_aLo8DmU",
+   "t": "Tektronix 2232 Analog / Digital DSO Oscilloscope Auction Score & Easter Egg!",
+   "d": "2020-09-07",
+   "v": 7875,
+   "s": 601,
+   "vertical": false,
+   "desc": "Episode 9 \n\n#oscilloscope \n#tektronix \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\nThis is a quick tour of a Tektronix 2232 Oscilloscope I won at Auction for 100 bucks delivered! It included the "
+  },
+  {
+   "id": "GbQEan4gwWM",
+   "t": "Home Made 30 kV ZVS High Voltage Power Supply and Tear-down",
+   "d": "2020-09-14",
+   "v": 27476,
+   "s": 569,
+   "vertical": false,
+   "desc": "Episode 10 \n\n#highvoltage \n#electronics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nDisclaimer: This video describes a high voltage power supply. Electricity can kill. Do not attempt to duplica"
+  },
+  {
+   "id": "ERNVgGmjALY",
+   "t": "Dye Laser Teardown and Demonstration",
+   "d": "2020-09-23",
+   "v": 4171,
+   "s": 859,
+   "vertical": false,
+   "desc": "Episode 11\n\n#laser \n#optics \n\nIn this video, I show a Commercial Dye Laser, the LSI DCM laser I picked up from eBay. This is pumped  by my now refurbished LSI 337i Nitrogen Laser.\n\nDye Lasers are really col devices that produce laser light from the Ultraviolet  - visible -  the Infra-red. The re tunable as well!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it"
+  },
+  {
+   "id": "yYIft-1WCYE",
+   "t": "Argon Ion Laser Demonstration Multi-Line",
+   "d": "2020-10-04",
+   "v": 7733,
+   "s": 442,
+   "vertical": false,
+   "desc": "Episode 12\n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n\nI was going to do another Nitrogen Laser video, as I have spent the week finishing off a bigger and better one, but I ha"
+  },
+  {
+   "id": "Z4wwBWRWr2M",
+   "t": "Yellow Laser Hacked! DPSS Melles Griot 85-YCA-050-711 561nm",
+   "d": "2020-10-17",
+   "v": 7570,
+   "s": 539,
+   "vertical": false,
+   "desc": "Episode 13 \n\n#yellowlaser\n#optics\n#laser\n\nTear-down, hack and power up of a Yellow (or is it Green?) DPSS Laser.\nMelles Griot 85-YCA-050-711 561nm\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!"
+  },
+  {
+   "id": "ZYzuInzSt7Y",
+   "t": "How to build a DIY  Helium Neon laser power supply",
+   "d": "2020-11-03",
+   "v": 7781,
+   "s": 419,
+   "vertical": false,
+   "desc": "Episode 14\n\n#laser \n#electronics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n\nDIY home made quick and dirty Helium Neon laser power supply!\nA quick and dirty power supply for a Helium Neon lase"
+  },
+  {
+   "id": "6eXZT4_T7is",
+   "t": "Mini Oscilloscopes: Tektronix 222A & Vintage GEC Miniscope!",
+   "d": "2020-11-21",
+   "v": 5776,
+   "s": 952,
+   "vertical": false,
+   "desc": "Episode 15\n\n#oscilloscope \n#tektronix \n#electronics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n\nIn this video we take a look at two miniature CRT Oscilloscopes!\nTektronix 222A quick overview o"
+  },
+  {
+   "id": "8wUxYVe98Uo",
+   "t": "How to make Inexpensive Nitrogen Laser Capacitors!",
+   "d": "2020-12-22",
+   "v": 18911,
+   "s": 910,
+   "vertical": false,
+   "desc": "Episode 16\n\n#laser \n#electronics \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n\nIn response to questions for viewers, I substitute the expensive Doorknob Capacitor in one of my Nitrogen "
+  },
+  {
+   "id": "k5MOAKHPVG8",
+   "t": "Hacking a Laser! MNL-100 Nitrogen Laser RS-232 Fibre Optic Interface Hack!",
+   "d": "2021-01-13",
+   "v": 6943,
+   "s": 938,
+   "vertical": false,
+   "desc": "Episode 17\n\n#laser \n#teardown \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nA look inside an Industrial/Commercial Lasertechnik MNL-100 Nitrogen Laser! This is a beautiful piece of Laser engineer"
+  },
+  {
+   "id": "NEHiv4lv68U",
+   "t": "Wire Ended to Doorknob Capacitor Modification (Inexpensive Nitrogen Laser Capacitors! (Part 2))",
+   "d": "2021-02-13",
+   "v": 14112,
+   "s": 478,
+   "vertical": false,
+   "desc": "Episode 18\n\n#highvoltage \n#electronics \n#laser \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nThis is a quick follow up video to \"Inexpensive Nitrogen Laser Capacitors!\"\nI convert wire ended capac"
+  },
+  {
+   "id": "ZQJoJEr3US8",
+   "t": "Pulsed Laser Power measurement with Energy Sensors!",
+   "d": "2021-03-14",
+   "v": 10171,
+   "s": 1352,
+   "vertical": false,
+   "desc": "Episode 19\n\n#laser \n#electronics \n#measurement \n\nCODE at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like and subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nTime for some Science! In this video, I measure the power outp"
+  },
+  {
+   "id": "T_goVwwxKE4",
+   "t": "How to build a DIY Raspberry Pi Spectrometer using a Picamera and Spectroscope.",
+   "d": "2021-04-17",
+   "v": 164731,
+   "s": 1020,
+   "vertical": false,
+   "desc": "Episode 20\n\n#raspberrypi \n#spectrometer \n\nCode at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video I demonstrate a home-made Raspberry Pi Spectrometer for mea"
+  },
+  {
+   "id": "dm3woVQp8Xc",
+   "t": "How to build a DIY Raspberry Pi Spectrometer. Part 2, Software update and discussion on code",
+   "d": "2021-05-03",
+   "v": 9996,
+   "s": 1525,
+   "vertical": false,
+   "desc": "Episode 21\n\n#raspberrypi \n#spectrometer \n\nCode at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nFollowing on from the previous video, and the comments, Version 3 is now "
+  },
+  {
+   "id": "vEqj33MGwmc",
+   "t": "How to measure Dye Laser Tuning curves with a  DIY Raspberry Pi Spectrometer.",
+   "d": "2021-05-16",
+   "v": 3828,
+   "s": 931,
+   "vertical": false,
+   "desc": "Episode 22\n\n#laser \n#spectrometer \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video I demonstrate how to measure the tuning curves of a Home Made Dye Laser with my DIY Raspberry Pi Spec"
+  },
+  {
+   "id": "77WVaUkEDC4",
+   "t": "Yellow DPSS Laser for under $100?! Unboxing, Review & Measurement with a Raspberry Pi Spectrometer",
+   "d": "2021-05-23",
+   "v": 7636,
+   "s": 663,
+   "vertical": false,
+   "desc": "Episode 23\n\n#laser \n#optics \n#electronics \n\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this episode I unbox and review a Yellow Laser from China!\nAlleged specs are: 574nm (Yellow) @ 8mW\nThan"
+  },
+  {
+   "id": "BMlGyAYNdF8",
+   "t": "Raspberry Pi Pico display fonts in  MicroPython How to design fonts for your pi  pico project",
+   "d": "2021-05-30",
+   "v": 10278,
+   "s": 899,
+   "vertical": false,
+   "desc": "Episode 24\n\n#raspberrypi \n#raspberryPiPico\n#Python\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIn this video, how to create fonts in Python for the Raspberry Pi Pico Display from Pimoroni: https://shop.pimoroni.com/products/pico-display-pack\nThis little display is way cool, but the font built into the firmware is not the best. \n\nThis is an easy to use Python implementation of a 5x7 ASCII font and associated helper functions and includes a section on how to make custom fonts with a tool.(This is us"
+  },
+  {
+   "id": "n0KfTD7HfB4",
+   "t": "He-Ne Lasers! Green Laser, Yellow Laser, Red Laser & Dual Wavelength He-Ne Laser!",
+   "d": "2021-06-07",
+   "v": 7769,
+   "s": 625,
+   "vertical": false,
+   "desc": "Episode 25\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIn this video, I demonstrate colored Helium-Neon Lasers! The first 3 are manufactured by Lasos, with the following specs:\nA red Laser 632.8nm 11mW\nA Yellow/Amber Laser 594nm 2.2mW\nA Green Laser 543nm 1.16mW\n\nLater on, I force a vintage green Helium Neon Laser to generate 2 wavelengths simultaneously!\n\nThe Yellow Laser was bought from Mike at mikeselectricstuff, check out his videos here: https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA\n"
+  },
+  {
+   "id": "Em6pVB7z9lA",
+   "t": "Laser Barcode Scanner Teardown How to hack it into Laser Light Show!",
+   "d": "2021-06-15",
+   "v": 8862,
+   "s": 613,
+   "vertical": false,
+   "desc": "Episode 26\n#laser \nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like, subscribe and comment for more great content!\n\nIn this video, I tear down a Metrologic Laser Barcode scanner that you might see used in supermarkets and warehouses.\nI talk about some of the components on the circuit board. \nI extract the scanner mirror and shine a 50mW 532nm Laser at it through smoke in a can, to give a simple, but really cool Liquid smoke effect, that looks awesome! Everybody loves Laser beams!\n\nIf you found this content useful, and would like to support this Chan"
+  },
+  {
+   "id": "Tw3HJEhE2dI",
+   "t": "How to build a MINIATURE Spectrometer  for the Raspberry Pi",
+   "d": "2021-06-20",
+   "v": 59601,
+   "s": 1029,
+   "vertical": false,
+   "desc": "Episode 27\n#spectrometer \n#raspberrypi \n\nCode at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nThis is a follow up video to Episode #20 where I built an inexpensive Rasp"
+  },
+  {
+   "id": "O6eFNKaFXCk",
+   "t": "Supermarket Barcode Scanner Teardown and hack!",
+   "d": "2021-07-03",
+   "v": 10106,
+   "s": 1231,
+   "vertical": false,
+   "desc": "Episode 28\n#laser \nIn this episode, I tear down a supermarket checkout onmidirectional barcode scanner, talk about the optics and electronics, and discover an easter egg!\nLater in the video, I hack in a DPSS Laser, rebuild it and power it up, so keep watching until the end to see the barcode scanner from hell!\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/les"
+  },
+  {
+   "id": "jI6V9jWbgR8",
+   "t": "Yellow DPSS Laser with Analog Modulation for under $100!! Unboxing, Review & Measurement.",
+   "d": "2021-07-15",
+   "v": 4638,
+   "s": 729,
+   "vertical": false,
+   "desc": "Episode 29\n#laser \nIn this episode I unbox and review another sub $100 Yellow Laser, this time from Australia!\nClaimed specs are: 560nm (Yellow-Green) @ 15-20mW\nAnalog Modulation!\n\nI put it through it's paces, testing with the Raspberry Pi 4 Spectrometer, measure with a Coherent LaserCheck, and try out the modulation feature.\n\nThese modules can be purchased from:\nLaserLandAustralia\nhttps://laserland.com.au/ \ninfo@laserlandaustralia.com\n+61 421 165 215\n\nScanning Mirror: https://youtu.be/Em6pVB7z9lA\nRaspberry Pi Spectrometer: https://youtu.be/T_goVwwxKE4\n\n\nCheck out my other videos: https://www."
+  },
+  {
+   "id": "y39UKU7niRE",
+   "t": "Bayer filter removal on a Pi Camera: Laser stripping,  CFA removal, debayering,  and UV conversion.",
+   "d": "2021-08-07",
+   "v": 67164,
+   "s": 1774,
+   "vertical": false,
+   "desc": "Episode 30\n#laser \n#raspberrypi \n\nIn this episode I discuss methods of stripping the Bayer Color Filter Array (CFA) from the Raspberry picamera, for use in my Raspberry Pi Spectrometer: https://youtu.be/T_goVwwxKE4\nI cover physical removal, chemical removal with EKC 830 and Laser stripping.\nI demo an experimental  home made Laser stripping machine, like a miniature CNC, using the MNL-100 Nitrogen Laser I tore down and hacked here: https://youtu.be/k5MOAKHPVG8\n\nDoes it work? Can you use the Picamera to image in the Ultraviolet? Watch the video to find out!\n\nThanks to the people who nudged me a "
+  },
+  {
+   "id": "iOB8jyYetvw",
+   "t": "Homemade Acousto-optic controller for Under $100!",
+   "d": "2021-09-06",
+   "v": 26792,
+   "s": 1187,
+   "vertical": false,
+   "desc": "Episode 31\n\n#DIYLaserControl \n#LaserModulation \n#AcoustoOpticTechnology\n\nAOTF AOM PCAOM Controller for Under $100!\n\nIn this episode I take a look at an Acousto-optic Tunable Filter!\nThis device allows us to modulate or pick a wavelength from a multiline Laser using very high frequency sound waves, that are coupled into a crystal using a Piezoelecric transducer.\n\nSince this did not come with a controller, I show you how to build a controller  for these devices for under 100 bucks, using an inexpensive Voltage controlled Oscillator (VCO) and an RF Amplifier!\n\nIf you found this content useful, an"
+  },
+  {
+   "id": "0MvXXwAizrM",
+   "t": "Can it be repaired? Dumpster Nitrogen Laser teardown Part 1",
+   "d": "2021-10-02",
+   "v": 22550,
+   "s": 2009,
+   "vertical": false,
+   "desc": "Episode 32\n#laser \n#electronicscreators \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,share,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nI bought a couple of MNL-100 Nitrogen lasers that were listed as \"Pulled form a working enviro"
+  },
+  {
+   "id": "ngs9zPdI_t0",
+   "t": "Dumpster Laser rebuilt and modded!",
+   "d": "2021-10-31",
+   "v": 8263,
+   "s": 889,
+   "vertical": false,
+   "desc": "Episode 35\n\n#laser \n#electronicscreators \n#optics \n\n \nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,share,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nDumpster Nitrogen Laser Part 2 It Lives!\n\nI bought a couple of MNL-100 Nitrogen lasers that"
+  },
+  {
+   "id": "jAV7bnNrE-M",
+   "t": "Raspberry Pi Zero 2 W Spectrometer!",
+   "d": "2021-10-31",
+   "v": 10242,
+   "s": 250,
+   "vertical": false,
+   "desc": "Episode 34\n#raspberrypi \nA short video on the newly released Pi Zero 2 W!\nWill it run my PySpectrometer software?\n\nFor a good breakdown of the capabilities of the new Pi Zero W, see \"Explaining Computers\" video here: https://www.youtube.com/watch?v=Qxcyb5z2HDM\n\nCode at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr d"
+  },
+  {
+   "id": "yI11c1X0vIY",
+   "t": "RGB Dye Laser? How Dye Lasers Work: Viewer Questions",
+   "d": "2021-12-17",
+   "v": 18037,
+   "s": 781,
+   "vertical": false,
+   "desc": "Episode 36\n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,share,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nViewer questions!\n\nSome people had questions on Dye Lasers:\n\nIs it possible to mix Dyes in the same cuvette?\n\nhttps"
+  },
+  {
+   "id": "BtMqx5P74n4",
+   "t": "Home Made Integrating or Ulbricht Sphere",
+   "d": "2022-02-05",
+   "v": 35331,
+   "s": 701,
+   "vertical": false,
+   "desc": "Episode 37\n\n#laser \n#optics \n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,share,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video, a home-made Ulbricht or integrating sphere is explained and demonstrated!\n\nPapers Cited:\nA Mixture o"
+  },
+  {
+   "id": "ma-xpn1WPuI",
+   "t": "How to make a Triggered Spark Gap for High Voltage Lasers and Marx Generators",
+   "d": "2022-03-12",
+   "v": 29579,
+   "s": 1136,
+   "vertical": false,
+   "desc": "Episode 38\n\n#highvoltage \n#laser \n\nAs \"dougc314\" and \"what else is on\" noted, at 10:40 there is an error in my Schematic! This should be a 2N3906 not a 2N3904.\n\nThe RC differentiator (11:15, thanks \"GermanMythbuster\" for pointing that out!) is missing values on the Schematic The cap should be 22nf, and the resistor is 4k7.\n\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,share,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: htt"
+  },
+  {
+   "id": "WQhi3bTNnF4",
+   "t": "High Power Laser Diode Power Supply 10W and Laser Safety",
+   "d": "2022-05-11",
+   "v": 13963,
+   "s": 954,
+   "vertical": false,
+   "desc": "Episode 39\n\n#laser \n#electronics \n\n$2 for 1-4 layer PCBs ;PCB assembly from $0 : https://jlcpcb.com/DYE\n\nI this episode I demonstrate a home made 10W Laser Diode Driver. As this is a Class 4 Laser, there is discussion on how to design, build and run such a Laser safely! Of course there is the inevitable burning and Smoke test, so watch until the end!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this con"
+  },
+  {
+   "id": "_i1J7TGpPnQ",
+   "t": "Industrial CO2 Laser Coder TEARDOWN and repair! Part 1!",
+   "d": "2022-06-10",
+   "v": 27304,
+   "s": 1324,
+   "vertical": false,
+   "desc": "Episode 40\n\n#laser \n#laserengraving \n#electronics \n\nIn this video I tear down a Domino D100+ Industrial Laser Coder!\nIt has a high speed Galvo Scan head complete with all the amplifiers the drivers and Silicon mirrors, and  beautiful Zinc Selenide (ZnSe) F-Theta lens. \nThere is also a II-VI ZnSe Collimating lens and of course a 15W Synrad Carbon Dioxide Laser, with an unusual wavelength of 9.3 microns!\n\nIs it all scrap, or can it be brought to life? Watch till the end to find out!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on"
+  },
+  {
+   "id": "w4mWgVDPIiQ",
+   "t": "CO2 Laser Engraver. Industrial Laser Coder Hacked! Part 2!",
+   "d": "2022-07-13",
+   "v": 8990,
+   "s": 875,
+   "vertical": false,
+   "desc": "Episode 41\n\n$2 for 1-4 layer PCBs ;PCB assembly from $0 : https://jlcpcb.com/DYE\n\n#linuxcnc\n#laserengraving \n#GCode\n\nIn this video I have rebuilt a Domino D100+ Industrial Laser Coder/ marking head, and demonstrate some code to get it to do some engraving!\nThis Laser uses the XY2-100 Protocol to drive the Galvos and modulate the Laser, so software and hardware is needed to get this to work.\nThis Uses the awesome OpenGalvo OPAL library written by Daniel Olsson, and a PCB designed by me, to send standard Gcode which is then translated into XY2-100.\nThis combination is suitable for driving other "
+  },
+  {
+   "id": "j-w7V_Z9uj4",
+   "t": "xTool D1 Pro Review and first project",
+   "d": "2022-08-03",
+   "v": 5085,
+   "s": 974,
+   "vertical": false,
+   "desc": "Episode 42\n#laserengraving \n#lasercuttingmachine \n\nReferral link: \nhttps://www.xtool.com/?ref=Lmz9rxv6&utm_medium=5306&utm_source=influencer\n\nIf you want to buy one of these, please use these affiliate links:\n\n20W xTool D1 Pro: https://www.xtool.com/collections/machine/products/xtool-d1-pro-20w-higher-accuracy-diode-diy-laser-engraving-cutting-machine?ref=Lmz9rxv6&utm_source=influencer\n\n10W xTool D1 Pro: \nhttps://www.xtool.com/collections/machine/products/xtool-d1-pro-10w-higher-accuracy-diode-diy-laser-engraving-cutting-machine?ref=Lmz9rxv6&utm_source=influencer\n\n5W xTool D1 Pro: \nhttps://www"
+  },
+  {
+   "id": "mkGD6Riflfs",
+   "t": "Repairing a K50 CO2 Laser Cutter. Part 1",
+   "d": "2022-08-14",
+   "v": 6508,
+   "s": 668,
+   "vertical": false,
+   "desc": "Episode 43\n\n#LaserCutterRestoration \n#K40LaserRebuild \n#DIYLaserProjects\n\nThis video is the first in a short series detailing the repair and refurbishment of a Chinese K40 style 50W CO2 Laser cutter I picked up for just 60 bucks!\nIs it going to be worth it?\nWhat should I replace the controller with? A Mini Gerbil or a Cohesion3d?\nShould I convert the old tube to a flowing gas CO2 Laser? Comment down below!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://payp"
+  },
+  {
+   "id": "8iTCxZdQiGY",
+   "t": "CO2 Laser Upgrades! Part 2",
+   "d": "2022-09-18",
+   "v": 8534,
+   "s": 813,
+   "vertical": false,
+   "desc": "Episode 44\n\n#LaserCutterUpgrades \n#K40LaserRebuild \n#DIYLaserEngraving\n\n\nThis video is a followup detailing the repair and refurbishment of a Chinese K40 style 50W CO2 Laser cutter I picked up for just 60 bucks!\nIn this video I show 3 must have upgrades for a Chinese CO2 Laser cutter, a new cutting head with air assist, a current meter, and a review of the Minigerbil 3 from Awesome.tech and its use with LightBurn software\n\nBuy the Mini Gerbil V3 from:\nhttps://awesome.tech/product/mg3-mini-gerbil-v3-2-axis-controller-for-k40-laser/\n\nThe air assist head came from ebay(no affiliation) https://www"
+  },
+  {
+   "id": "SCp9T8NKfnM",
+   "t": "DIY Raspberry Pi Spectrometer NEW SOFTWARE!",
+   "d": "2022-10-22",
+   "v": 48699,
+   "s": 1173,
+   "vertical": false,
+   "desc": "Episode 45\n\n#spectroscope\n#spectrometer \n#raspberrypi \n\nCode at the end of the Description! Check out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video I demonstrate the latest and greatest softwar"
+  },
+  {
+   "id": "oA-nNeQ1zyA",
+   "t": "Coupling Laser beams into Fiber Optic Cable!",
+   "d": "2022-12-03",
+   "v": 106826,
+   "s": 844,
+   "vertical": false,
+   "desc": "Episode 46\n\n#fiberoptics \n#fibercoupling\n#laser\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nIn this video I demonstrate how to couple Lasers into Fiber Optic cable quickly and easily using a fib"
+  },
+  {
+   "id": "w1wSHizmbYg",
+   "t": "This Laser shouldn't exist.",
+   "d": "2022-12-29",
+   "v": 54971,
+   "s": 714,
+   "vertical": false,
+   "desc": "Episode 47\n\n#supercontinuum\n#photonics\n#whitelightlaser\n#laser\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nThe Ultimate White Light Laser! DIY Supercontinuum Laser.\n\nIn this episode I discuss Su"
+  },
+  {
+   "id": "Gd8ckZ4hSes",
+   "t": "Supercontinnum in Multimode Fiber Teaser",
+   "d": "2023-01-12",
+   "v": 2596,
+   "s": 32,
+   "vertical": false,
+   "desc": "Episode 48\n\nThis is a short teaser trailer of where this project goes next!\nTempted to call it: Supercontinuum, bigger brighter and uncut!\n\nMultimode Fiber (50/125) can generate extremely bright continuum, because of excellent coupling efficiency.\nNonlinear effects abound here, and the fiber even exhibits mode cleaning! \nThis is bright enough to film in daylight, and so obligatory smoke shots abound!\n\nI am planning on making this more in-depth than the last, so comment below how long it should be:\n10 minutes\n15 minutes\n25 minutes\n\nAlso, is there an appetite for short videos at all (Odd bits th"
+  },
+  {
+   "id": "l6uH0Ok9IOo",
+   "t": "Supercontinuum in Multimode Fiber",
+   "d": "2023-01-28",
+   "v": 27649,
+   "s": 1164,
+   "vertical": false,
+   "desc": "Episode 49\n\n#supercontinnum\n#whitelightlaser\n#laser \nThis episode is a follow up video on a home made Supercontinuum Laser!\nThis version uses Multimode Telecoms fiber, for much better efficiency, however this stuff also exhibits additional properties, including very bright combs, and what looks like self-mode cleaning...\n\nFor a very good explanation of Stimulated Raman Scattering (the primary nonlinear process in this video) please check out: Your Favourite TA's video on Stimulated Raman Scattering here: https://www.youtube.com/watch?v=sZEGMDZKyPQ\n\nIf you found this content useful, and would l"
+  },
+  {
+   "id": "pZWq-u2lOu8",
+   "t": "Hacking a Tektronix Oscilloscope to1GHz!",
+   "d": "2023-02-26",
+   "v": 14441,
+   "s": 1146,
+   "vertical": false,
+   "desc": "Episode 50\n\n#tektronix\n#1ghz\n#hack \n\nLately I have run out of bandwidth, trying to measure signals from pulsed Lasers. My fastest oscilloscope was a hacked DS1054z at 100MHz, nowhere near fast enough to measure nanosecond pulses.\n\nI picked up a Tektronix TDS754C from eBay. This scope has a beautiful CRT display, and is already a decent scope, but bought it with the sole purpose of hacking it to 1GHz, and whilst I am at it, increasing the memory ;-)\n\nThese hacks are pretty straightforward and effectively turn a TDS754C into a TDS784C, though there is a trap with rise-time measurement...\n\n\nIf yo"
+  },
+  {
+   "id": "L4p881zz0Ls",
+   "t": "Digital Microscope Review Andonstar AD249S-M",
+   "d": "2023-03-04",
+   "v": 7798,
+   "s": 738,
+   "vertical": false,
+   "desc": "Episode 51\n\n#microscope \n\n I was asked to do a review of the Andonstar AD249S-M Digital Microscope.\nLately I have been needing glasses for close up work, so why not?!\nSeveral use cases are tested, including a nice shot of some alluvial Scottish Gold!\n\nAmazon-US: https://amzn.to/3OGy6Ft\nAmazon-UK: https://amzn.to/3AjyN2D\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like,subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patre"
+  },
+  {
+   "id": "bvvG6gVnkmw",
+   "t": "Laser Engraver review TwoTrees TS2 20W and 1064nm Laser Head",
+   "d": "2023-03-21",
+   "v": 10827,
+   "s": 1109,
+   "vertical": false,
+   "desc": "Episode 52\n\nA Product review of the Twotrees TS2 Laser engraver!\nThis has a huge bed size, z-axis control, and a massive 20W Laser head!\n\nMore interestingly,  Laser manufacturers have been offering 1064nm Laser heads as well, that can engrave all metals! (but I have other plans for it :-) so subscribe!)\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donating directly: https://paypal.me/leslaboratory\n\nTS2 10W:\nhttp://bit.ly/3yR2jw2\n$50 discount code: AFF50\n\nTS2 20W:\nlink: http://bit"
+  },
+  {
+   "id": "UpuN0dS23Nw",
+   "t": "Second Harmonic Generation in a 15 Kilowatt Laser!",
+   "d": "2023-04-29",
+   "v": 48373,
+   "s": 844,
+   "vertical": false,
+   "desc": "Episode 53\n\n#optics \n#laser \n#nonlinearoptics\n\nLet's measure the Twotrees 1064nm Laser Head, and investigate non-linear second harmonic generation, converting this IR Laser to Green!\n\n\n\n\u2699\ufe0f EQUIPMENT & PARTS LIST:(Note: The product links below help support the lab. If you use them to source your parts, I earn a small commission at no absolute extra cost to you.)\n\nKTP Crystal Aliexpress: https://rzekl.com/g/1e8d114494598d29fa1d16525dc3e8/?ulp=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005009165421644.html\n\n1064 laser module\uff1a http://bit.ly/3ZTLKeZ\n\n\nCheck out my other videos: https://www.youtube."
+  },
+  {
+   "id": "Uxc5H5Ui1n0",
+   "t": "WEIRD Fluorescence Two-Photon absorption!",
+   "d": "2023-06-02",
+   "v": 35114,
+   "s": 438,
+   "vertical": false,
+   "desc": "Episode 54\n\n#optics \n#laser \n#nonlinearoptics\n\nLets take a look at Two-photon absorption\n\nIn this episode, let's look at a really unusual Fluorescence phenomenon, two photon absorption!\nThis phenomenon is used in two photon microscopy for imaging cells buried deep in living tissue, and could be used in volumetric 3D displays and ultra dense data storage!\n\nThis was originally predicted by Maria Goeppert-Mayer in 1931 in her doctoral dissertation. Thirty years later, the invention of the laser permitted the first experimental verification of TPA.\nMaria went on to become the second woman to win a"
+  },
+  {
+   "id": "UaslPhb9_ls",
+   "t": "Growing Laser Crystals used in NUCLEAR FUSION!",
+   "d": "2023-06-30",
+   "v": 46736,
+   "s": 513,
+   "vertical": false,
+   "desc": "Episode 55\n\n#optics \n#laser \n#nonlinearoptics\n#photonics\n\n\u2699\ufe0f EQUIPMENT & PARTS LIST: \nI get the bulk of my speciality optics and mounts from Aliexpress, here are the parts I used in this video.\n(Note: The product links below help support the lab. If you use them to source your parts, I earn a small commission at no absolute extra cost to you.)\n\nRotary stage (that the crytals are mounted on): https://rzekl.com/g/1e8d114494598d29fa1d16525dc3e8/?ulp=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F1005004254231042.html\n\nHalf Wave plate: https://rzekl.com/g/1e8d114494598d29fa1d16525dc3e8/?ulp=https%3A%2F"
+  },
+  {
+   "id": "PiVwZoQ8_jQ",
+   "t": "Thermal camera on the Raspberry Pi! Topdon TC001 Product review!",
+   "d": "2023-07-08",
+   "v": 48421,
+   "s": 824,
+   "vertical": false,
+   "desc": "Episode 56\n\n#thermalcamera \n#FLIR \n#raspberrypi \n\nIn this episode I review the  TOPDON TC001 Thermal Camera. It can perform temperature readings accurate within 3.6\u2109 (2\u2103) or 2% of the object\u2019s actual temperature, and display a clear thermal image with an ultra-high infrared resolution of 256x192 pixels. This works with Android devices and Windows, but even better, I wrote software so it can run on Linux and the Raspberry Pi!\n\nProduct Link:\nhttps://www.amazon.co.uk/dp/B0BBRBMZ58\n\nCode Hosted on Github:\nhttps://github.com/leswright1977/PyThermalCamera/\n\nEEVBlog Forum posts:\nhttps://www.eevblog.c"
+  },
+  {
+   "id": "2KYW38_8-U0",
+   "t": "Thermal camera VS Carbon Dioxide Laser!",
+   "d": "2023-08-11",
+   "v": 13433,
+   "s": 449,
+   "vertical": false,
+   "desc": "Episode 57\n\n#thermalcamera \n#FLIR \n#carbondioxidelaser\n\nIn this episode I explore a CO2 laser with a thermal camera, and manage to break it!\nIt looks like there is potential for some really awesome experiments with it though!\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like, subscribe and comment for more great content!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: https://patreon.com/leslaboratory\nOr donate directly: https://paypal.me/leslaboratory\nAlternatively,  please"
+  },
+  {
+   "id": "sMpdqBPZSr8",
+   "t": "Controlling Light with High Voltage and Aniseed! The Kerr Effect!",
+   "d": "2023-09-03",
+   "v": 102080,
+   "s": 692,
+   "vertical": false,
+   "desc": "Episode 58\n\n#photonics \n#electro-optics\n#Kerr-effect\n\nIn this episode, let's control light with High Voltage and Aniseed using the Kerr Effect!\nOrdinarily, Kerr cells use a particularly nasty and deadly Liquid as the Kerr media. In this episode I investigate a possible safe alternative using Aniseed!\n\nAfter a little dive in to history including mechanical television and filming nuclear bomb detonations, we take a look at some kerr fluids, and dig up a reference to little known chemical derived from Aniseed! This chemical is responsible for the Ouzo effect in certain beverages, but also has a h"
+  },
+  {
+   "id": "BjaLvwcfYTk",
+   "t": "Little Junk Laser is a MEGAWATT Beast!",
+   "d": "2023-10-09",
+   "v": 158507,
+   "s": 1220,
+   "vertical": false,
+   "desc": "Episode 59\n\n#photonics \n#Laser\n\nIn this episode, a sub $30 dollar junk tattoo laser is torn right down, repaired and re-assembled into a bench-top instrument.\nDuring the repair, theory is covered, as well as some practical alignment techniques. \nA home made, high voltage power supply is constructed for it, generating 100 Joules for the flash-lamp.\nThe final Solid State Q-switched nanosecond Neodymium:YAG Laser has megawatt level peak powers, capable of vaporising materials, generating plasma in the air, and frequency doubling to green. \nPower measurement is done using a Joule Meter, a fast pic"
+  },
+  {
+   "id": "L6JiVzpxVc8",
+   "t": "Shaking molecules until Laser Light comes out. DIY Raman Laser!",
+   "d": "2023-12-09",
+   "v": 52691,
+   "s": 744,
+   "vertical": false,
+   "desc": "Episode 60\n\n#Raman \n#Laser\n\nIn this episode, let's build a Raman Laser!\nFirst I talk about some of the background of light scattering, Rayleigh Scattering, Raman Scattering discovered by C.V Raman, then the discovery of the Raman Laser by Gisela Eckhardt.\nI cover the physical setup from an engineering standpoint.\nAn old  Nd:YAG Tattoo Laser I refurbished is used to pump a cuvette filled with a Raman Liquid.\nAlthough in the early experiments the megawatt Laser energy destroyed the cuvette I was using, I built a Raman cell from scratch, with replaceable windows.\n\nDo I manage to shift 532nm green"
+  },
+  {
+   "id": "8khFcicKwJ4",
+   "t": "DANGEROUS Laser Power Supply Teardown!",
+   "d": "2024-03-17",
+   "v": 9527,
+   "s": 1223,
+   "vertical": false,
+   "desc": "Episode  61\n\n#laser \n#electronicscreators \n\nI bought a Tattoo Laser power supply from eBay and this thing is, well, terrifying. I have never seen a commercial piece of equipment built as poorly as this! This seems to be built with the added feature that it can also remove the operator. Permanently.\n\nStill, lets tear it down, attempt a repair, and power the thing on!\n\n0:00 Intro\n0:16 Tattoo Laser Power Supply\n1:50 Inside the case, SMPS, faults, and high voltage power supply\n6:25 Switched Mode power Supply Board faults\n7:16 SMPS parts stripped\n8:00 New MOSFET, Resistors and SCR and repair\n8:31 S"
+  },
+  {
+   "id": "oUM1OD_WWgM",
+   "t": "Teardown: What's inside a Laser Particle Counter?",
+   "d": "2024-04-06",
+   "v": 8666,
+   "s": 780,
+   "vertical": false,
+   "desc": "Episode  62\n\n#laser \n#electronicscreators \n\nI bought a Vintage Laser Particle Counter from eBay for a tear down.\nThis contains all sorts of juicy stuff, including a vintage Z80 computer system, and a Laser!\nThis contains a very special Helium Neon Laser, that will be the topic of a follow up video, so don't forget to Subscribe!\n\nLink to Die Pictures Teledyne Philbrick  TP1321\nhttps://www-richis--lab-de.translate.goog/Opamp80.htm?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't forget to like, subscribe and commen"
+  },
+  {
+   "id": "ad4hxXz4bwA",
+   "t": "What happens when you reflect a Laser beam back on itself?",
+   "d": "2024-04-20",
+   "v": 183526,
+   "s": 782,
+   "vertical": false,
+   "desc": "Episode  63\n\n#laser \n#electronicscreators \n\nWhat happens when you reflect a Laser beam back on itself?\nThis unusual Laser system from a Particle Counter does exactly that!\nWhy?\nhow does it work?\nLet's find out!\n\nSams Laser FAQ The PMS/REO External Resonator Particle Counter HeNe Laser \nhttps://www.repairfaq.org/sam/laserhen.htm#henish7\n\nExternal Passive Cavity Laser patent:\nhttps://patents.google.com/patent/US4594715A/en\n\nPrevious teardown of the Laser Particle counter: \nhttps://m.youtube.com/watch?v=oUM1OD_WWgM\n\nCheck out my other videos: https://www.youtube.com/leslaboratory\u200b\nPlease don't fo"
+  },
+  {
+   "id": "PLr8smynpdw",
+   "t": "A Brewster Window Helium Neon Laser!",
+   "d": "2024-07-01",
+   "v": 25707,
+   "s": 816,
+   "vertical": false,
+   "desc": "Episode  64\n\n#laser \n#electronicscreators \n\nLet's take a look at an awesome open resonator cavity He-Ne Laser!\nTweak-able and hackable, you could fit your entire body inside the Laser cavity!\n\nI talk about the Brewster angle, and the technical specs of a NOS Brewster windowed Helium Neon Laser tube!\n\nOptical contacting is discussed, that is used to bond glass parts with no glue, but creates a permanent bond.\n\nI designed built a really cool mirror mount that can hold 6 Laser mirrors!\n\nI show how to do Quick and Easy Laser alignment, and demonstrate Transverse Electromagnetic Modes (TEM), as wel"
+  },
+  {
+   "id": "3-htF8Jrixo",
+   "t": "Most powerful diode Laser OVERDRIVEN! Nanosecond Laser!",
+   "d": "2024-09-20",
+   "v": 153144,
+   "s": 1104,
+   "vertical": false,
+   "desc": "JLCPCB PCB Fab & Assembly from $2! Sign up to Get $60 Coupons: https://jlcpcb.com/?from=leslaboratory\n\nJLCPCB Engineers Day deals to get up to $125 in coupons and a chance to win a  $150 Amazon gift card :  https://jlcpcb.com/engineers-day?from=ACT \n\nEpisode 65\n\n#laser\n#nanosecond\n#pulsedlaser\n#jimwilliams\n\nLet's drive the worlds most powerful visible laser diodes FAR beyond its original specifications!\nRunning at hundreds of volts and over 80 amps, with a home-made Avalanche Nanosecond Pulsed  Laser Diode Driver!\n\n\nIf you found this content useful, and would like to support this Channel, plea"
+  },
+  {
+   "id": "uSSoSIcXWa0",
+   "t": "The Secret to Growing Giant Flawless Crystals in Days!",
+   "d": "2024-12-12",
+   "v": 253134,
+   "s": 2091,
+   "vertical": false,
+   "desc": "JLCPCB PCB Fab & Assembly from $2! Sign up to Get $60 Coupons: https://jlcpcb.com/?from=leslaboratory\n\nEpisode 66\n\n#crystalgrowing\n#laser\n\nLets grow crystal FAST! \nIn just 7 days I grow a Large Flawless Potassium Di-Hydrogen Phosphate Crystal!\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: \nhttps://patreon.com/leslaboratory\n\nOr donate directly: https://paypal.me/leslaboratory\n\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\nLinks!:\n\nhttps://github.com/leswright1977/Ro"
+  },
+  {
+   "id": "MZdHofoIPe8",
+   "t": "I peed BLOOD and it saved my life!",
+   "d": "2025-06-22",
+   "v": 3134,
+   "s": 60,
+   "vertical": true,
+   "desc": "#shorts \nPoppy Wilkinson is taking part in a Race for Life Pretty Muddy on the 12th July 2025 to raise money for Cancer research UK.Cancer Research has helped double cancer survival in the UK in the last 50 years.\n\nTo cheer Poppy on, and give money to Cancer Research, hit the donate button on the following link\n\nhttps://fundraise.cancerresearchuk.org/page/poppys-race-for-life-211007034794\n\nThank You!"
+  },
+  {
+   "id": "RxjqMh3gkx8",
+   "t": "Controlling Light with a Home-Grown Crystal",
+   "d": "2025-06-25",
+   "v": 84802,
+   "s": 893,
+   "vertical": false,
+   "desc": "Episode 67\n\n#laser \n#optics \n#highvoltage \n\nLets build a Pockels cell from a home-grown Potassium Di-Hydrogen Phosphate Crystal!\n\nAn excellent resource for optical engineering: https://www.youtube.com/user/huygensoptics\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: \nhttps://patreon.com/leslaboratory\n\nOr donate directly: https://paypal.me/leslaboratory\n\nAlternatively,  please share this content on your social media platforms, it really helps me out!\n\n0:00 Intro\n00:21 The Pockels effect\n01:14 Commercial Pockels Cells\n0"
+  },
+  {
+   "id": "C_Ci-ufpkdM",
+   "t": "A Trigger transformer that survives HUNDREDS of Amps!",
+   "d": "2026-06-30",
+   "v": 24441,
+   "s": 1017,
+   "vertical": false,
+   "desc": "Episode 68\n\nJLCPCB PCB Fab & Assembly from $2! Sign up to Get $123 Coupons: https://jlcpcb.com/?from=leslaboratory\n\n#laser \n#optics \n#highvoltage \n#xenon \n#spark \n\n\nLets build a series trigger circuit for high power xenon flashlamps!\n\nDesign files for this project are at:\nhttps://github.com/leswright1977/Series-Trigger\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: \nhttps://patreon.com/leslaboratory\n\nOr donate directly: https://paypal.me/leslaboratory\n\n\u2699\ufe0f EQUIPMENT & PARTS LIST: \nI get the bulk of my speciality optics"
+  },
+  {
+   "id": "fp-jHYiTUVY",
+   "t": "The Most POWERFUL Laser you've never heard of!",
+   "d": "2026-07-31",
+   "v": 162968,
+   "s": 829,
+   "vertical": false,
+   "desc": "Episode 69\n\n#laser \n#optics \n#highvoltage \n\nIn this episode, I upgrade a YAG laser with Nd:Ce:YAG!\nThis unusual Laser material claims to be more efficient than regular YAG so , I test it out, smoke test it, and blow holes an razor blades with it!\n\nDesign files for this project are at:\nhttps://github.com/leswright1977/Series-Trigger\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: \nhttps://patreon.com/leslaboratory\n\nOr donate directly: https://paypal.me/leslaboratory\n\n\u2699\ufe0f EQUIPMENT & PARTS LIST: \nI get the bulk of my spec"
+  },
+  {
+   "id": "h0LF1kq0GEE",
+   "t": "This Crystal Makes a Laser 1,000x Stronger",
+   "d": "2026-10-02",
+   "v": 264616,
+   "s": 810,
+   "vertical": false,
+   "desc": "Episode 70\n\n#laser \n#optics \n#highvoltage \n\nIn this episode, let's experiment with Q-Switching a YAG Laser!\nThis covers inexpensive Cr:YAG saturable absorbers, measuring them, and testing their performance.\nLater the video covers why Megawatt peak powers are not suitable for hole drilling.\nWe take a look at the awesome nonlinear air breakdown, and bulk optical damage!\n\n\nIf you found this content useful, and would like to support this Channel, please consider supporting this work on Patreon: \nhttps://patreon.com/leslaboratory\n\nOr donate directly: https://paypal.me/leslaboratory\n\n\u2699\ufe0f EQUIPMENT & "
+  }
+ ]
+}

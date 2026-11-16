@@ -1,0 +1,99 @@
+{
+ "channel": {
+  "id": "UCDnA4gI5W-XcMPzhXS4bUkw",
+  "title": "PickentCode",
+  "handle": "@pickentcode",
+  "description": "I'm a dilettante who loves math, robotics, electronics, computer science, game development and physics. This channel combines all of them, usually through edutainment and project builds.",
+  "since": "2012-01-21",
+  "avatar": "https://yt3.ggpht.com/70F9SOUYWdv2fBZbWyWa97T59Q1tXOi8qGMHY9vlKrVaKKxLwsrO6DLTj_FR4UsGsTl2S7coFwQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "989772",
+  "subscriberCount": "8100",
+  "hiddenSubscriberCount": false,
+  "videoCount": "9"
+ },
+ "videos": [
+  {
+   "id": "igKRMz--BuM",
+   "t": "Raycasting - Processing",
+   "d": "2019-11-06",
+   "v": 93337,
+   "s": 31,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "aNyYxfG2B_8",
+   "t": "JS Raycaster - Work in Progress",
+   "d": "2022-01-02",
+   "v": 17627,
+   "s": 25,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "4632nM-XTyI",
+   "t": "JS Physics Engine",
+   "d": "2024-01-17",
+   "v": 3330,
+   "s": 138,
+   "vertical": false,
+   "desc": "Tried to write a simple physics engine in JS.\n\nChapters:\n00:00 Object Spawner\n00:16 Rope Physics\n00:51 Mixed Objects\n01:18 Soft Creature\n01:43 Cloth Physics\n\nCorrection:\n01:07 Square's mass*"
+  },
+  {
+   "id": "PBpG40nH68s",
+   "t": "I Built a Foldable CyberDeck (Internal Breadboards)",
+   "d": "2026-02-22",
+   "v": 116909,
+   "s": 385,
+   "vertical": false,
+   "desc": "I'm planning to make some robotics-related videos in the future. Apart from animations, these involve a lot of filming in real life, so I made this short video about my CyberDeck to practice filming, recording, and editing.\n\nCheck out the CyberDeck subreddit, I got a lot of inspiration from other people's builds: https://www.reddit.com/r/cyberDeck/\n\nIf you want to replicate my build, I uploaded the files here: https://www.printables.com/model/1583012-handheld-foldable-cyberdeck-cyberplug-30\n\nMusic Used:\nMiami Heatwave by Ben Elson: https://www.youtube.com/watch?v=ynYJeZ4qY-0\nDarker Shades by E"
+  },
+  {
+   "id": "wHc3UrIlksE",
+   "t": "Recognizing Numbers With a Glass of Water",
+   "d": "2026-03-04",
+   "v": 14962,
+   "s": 37,
+   "vertical": true,
+   "desc": "This is my first edited shorts test. It explores the number detector idea from my long-form video where I used the principle of water accumulation for feature extraction."
+  },
+  {
+   "id": "b-GbHDKU_pU",
+   "t": "Neat Math Trick to Detect Circles (Circle Hough Transform)",
+   "d": "2026-03-14",
+   "v": 3288,
+   "s": 69,
+   "vertical": true,
+   "desc": "I decided to make a little short video to celebrate Pi Day. In the video I visually explain, in a simplified way, how the Circle Hough Transform works. Happy Pi Day!\n\nMusic: Meyd\u00e4n - Pure Water (CC BY 4.0)\nChanges made: The track is slowed down.\nLink: https://freemusicarchive.org/music/Meydan/Interplanetary_Forest/Meydn_-_Interplanetary_Forest_-_02_Pure_Water"
+  },
+  {
+   "id": "uyVtyT0I6z4",
+   "t": "Marching Rays on the ESP32",
+   "d": "2026-06-19",
+   "v": 1123,
+   "s": 563,
+   "vertical": false,
+   "desc": "Inspired by the Artemis II mission, I started building a procedural planet renderer using ray marching and ray tracing. After finishing it, I had a crazy idea to run the algorithm (on ESP32) using power from a hot air/Stirling engine. I set the renderer's output as my profile picture, so I guess I can say my profile picture was made by a hot air engine.\n\nMusic Used:\nContinental Drift by Jay Taylor\nTime Zones by Gavin Luke\n\nChapters:\n00:00 Intro\n00:21 Render Camera\n00:56 Sun Rendering\n01:30 Planet Rendering\n02:03 Terrain & Water\n03:39 Atmosphere\n05:18 Planet Renderer Demonstration\n06:01 Profile"
+  },
+  {
+   "id": "34SSmx31d2U",
+   "t": "This Computer Works as Long as I Have Fire",
+   "d": "2026-08-25",
+   "v": 559929,
+   "s": 482,
+   "vertical": false,
+   "desc": "I recently got into building cyberdecks and thought, why not make a DIY computer inspired by steampunk instead of cyberpunk?\n\nHere's the result: an ESP32-based contraption powered entirely by a Stirling engine.\n\nResources:\nhttp://devernay.free.fr/hacks/chip8/C8TECH10.HTM\nhttps://austinmorlan.com/posts/chip8_emulator/\nhttps://tobiasvl.github.io/blog/write-a-chip-8-emulator/\nhttps://johnearnest.github.io/chip8Archive/\nhttps://fumagalli.ar/articles/mdx/introduction-to-dithering\nhttps://en.wikipedia.org/wiki/Dither\n\nChapters:\n00:00 Introduction\n00:38 Building Process\n01:13 Dithering\n01:56 Electron"
+  },
+  {
+   "id": "Ae0fMmBEHw0",
+   "t": "Fire Powered DOOM",
+   "d": "2026-09-16",
+   "v": 179829,
+   "s": 45,
+   "vertical": true,
+   "desc": "Doom Nano running on an ESP-32 C3 powered by a Stirling engine.\n\nDoom Nano:\nhttps://github.com/daveruiz/doom-nano\n\nDoom videos used:\nhttps://www.youtube.com/watch?v=AvYe3_3qRnA\nhttps://www.youtube.com/watch?v=7gCZZkBATSc\nhttps://www.youtube.com/watch?v=nduMTX86Zl0"
+  }
+ ]
+}

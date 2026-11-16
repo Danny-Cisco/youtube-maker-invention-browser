@@ -1,0 +1,630 @@
+{
+ "channel": {
+  "id": "UCXyqsJ-AycDjNc4qWEUDbpg",
+  "title": "Lomond Campbell",
+  "handle": "@lomondcampbell3615",
+  "description": "I make music, machines and videos up in the highlands of Scotland. \nStream / buy Under This Hunger Moon We Fell - https://lomondcampbell.lnk.to/underthishunger\nStream / buy Lost Loops - https://lomondcampbell.lnk.to/lostloops\nStream / buy L\u016aP - https://lomondcampbell.lnk.to/LUP\n\n\n",
+  "since": "2013-07-30",
+  "avatar": "https://yt3.ggpht.com/OTjnNypxEwE3xQPbr1v9vDEkmZYG5aZp-hFd6yAtKDS4wDd_k2KLOFnoSIrxr0Apj6_wSZbl=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "278541",
+  "subscriberCount": "2390",
+  "hiddenSubscriberCount": false,
+  "videoCount": "68"
+ },
+ "videos": [
+  {
+   "id": "c2NiUZ8-OOA",
+   "t": "BLACK RIVER PROMISE",
+   "d": "2016-11-11",
+   "v": 5141,
+   "s": 444,
+   "vertical": false,
+   "desc": "Video for Black River Promise created by Simon Kirby\n\nTaken from the album Black River Promise available on Heavenly Recordings. \n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "rmlXxaS5uhk",
+   "t": "SOMETIMES - BOARDS OF CANADA REMIX",
+   "d": "2017-07-26",
+   "v": 145229,
+   "s": 277,
+   "vertical": false,
+   "desc": "Boards of Canada remix of Sometimes by The Sexual Objects. Video by Resin Heads."
+  },
+  {
+   "id": "5KfrEp2iTwU",
+   "t": "Every Florist In Every Town",
+   "d": "2017-09-21",
+   "v": 3840,
+   "s": 248,
+   "vertical": false,
+   "desc": "'Every Florist in Every Town' is taken from Lomond Campbell's debut album, \u2018Black River Promise\u2019, which will be released on Heavenly Recordings. \n\nDirected by the Coconut Island collective, which includes acclaimed Scottish photographers / film makers Brian Sweeney and Donald Milne, and shot around Lomond\u2019s Scottish highland base.\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : h"
+  },
+  {
+   "id": "N7UbIXh5Xoo",
+   "t": "The Lengths",
+   "d": "2018-01-26",
+   "v": 1164,
+   "s": 169,
+   "vertical": false,
+   "desc": "'The Lengths' is taken from Lomond Campbell's debut album, \u2018Black River Promise\u2019, which was released on Heavenly Recordings. \n\nDirected by the Coconut Island collective, which includes acclaimed Scottish photographers / film makers Brian Sweeney and Donald Milne, and shot around Lomond\u2019s Scottish highland base, \n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbe"
+  },
+  {
+   "id": "VyPwlfZh0-0",
+   "t": "SEQUENCING A ROBOT DRUM KIT USING THE ELEKTRON OCTATRACK MKII",
+   "d": "2019-06-11",
+   "v": 2283,
+   "s": 193,
+   "vertical": false,
+   "desc": "This is a live track recorded in a single take using an acoustic robot drum kit and the #Elektron Octatrack MkII. There are no pre-recorded samples or synths and all the melodic sounds are made using comb filters and flangers modulated by LFOs and resampled in various ways on the fly.  The drums are MIDI sequenced using the Octatrack, which also does all the live sound processing.\nGot to love the #Octatrack\n\nYou can download the track here:\nhttps://lomondcampbell.bandcamp.com/track/unravelled\n\nThis MIDI to parallel board from J Omega does all the conversion on the #robotdrums:\nhttp://www.j-ome"
+  },
+  {
+   "id": "XFsiPIX9Cxs",
+   "t": "HOW TO SEQUENCE YOUR EURORACK SYSTEM WITH A RECORD PLAYER",
+   "d": "2019-07-02",
+   "v": 5644,
+   "s": 239,
+   "vertical": false,
+   "desc": "Convert any turntable in to a programmable rotary gate sequencer for modular #Eurorack systems with just a few components and a simple bit of coding. \n\nComponents:\nx1 #Arduino Nano\nx4 proximity switches / reed switches\nx4 10K resistors\nx4 3.5mm mono jacks\nx4 LEDs (optional)\nx4 100 Ohm resistors (optional)\nx4 SPDT toggle switches (optional)\nx1 vero board\n.... + some camdenboss terminal blocks if you're in to that kind of thing. \n\nHere's the link to the code, schematics and diagram:\nhttps://www.lomondcampbell.com/projects-1\n\nFor my device I used some flush cable proximity switches I got from a l"
+  },
+  {
+   "id": "Sn2yE-3zBN8",
+   "t": "HOW TO USE A 28BYJ-48 STEPPER MOTOR TO CONTROL THE SPEED OF A TREADMILL MOTOR",
+   "d": "2019-08-02",
+   "v": 6261,
+   "s": 170,
+   "vertical": false,
+   "desc": "This video shows you how to automate the speed of a treadmill motor via an #arduino and stepper motor.  \nIn this video the treadmill motor is sequencing my modular synth and to do that you'll need another arduino based gadget I made which turns your record player in to a gate sequencer. Here's the video for how to do that....\nhttps://youtu.be/XFsiPIX9Cxs\n\nHere's more info on the 28BYJ-48 stepper motor...\nhttps://components101.com/motors/28byj-48-stepper-motor\n\nThis excellent tutorial video by Nikodem Bartnik is a great place to start for learning stepper motor control.  \nhttps://www.youtube.co"
+  },
+  {
+   "id": "snjAW1Tj6Sw",
+   "t": "SYNTHESIZER TRAVELER F1 - THE VINTAGE KORG WAH WAH PEDAL THAT THINKS IT'S A SYNTH",
+   "d": "2019-10-09",
+   "v": 5339,
+   "s": 211,
+   "vertical": false,
+   "desc": "This is the Synthesizer Traveler F-1 pedal. \n\nIt was built in 1972 by Keio Electronic Laboratories (which would become known as KORG) and there weren't many built.  It\u2019s essentially a bombproof WAH WAH pedal with some added extras.  This is a short demo video exploring some of the unusual features and terminology.  As it behaves like a primitive monosynth I decided to hook it up to the modular system and mess around.\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitte"
+  },
+  {
+   "id": "zRPe99wlZVg",
+   "t": "MODULAR MECHANICAL REMIX of The Paralian by Andrew Wasylyk",
+   "d": "2020-04-03",
+   "v": 579,
+   "s": 267,
+   "vertical": false,
+   "desc": "This is a kind of live remix made by mangling one of my favourite records through my modular system.  I'm using a DIY turntable sequencer I built using an arduino. Here's a link to the video of how to make it - https://youtu.be/XFsiPIX9Cxs\n\nThe record is The Paralian by Andrew Wasylyk.  It's a cracker so go ahead and enrich your life by buying a copy.\nhttps://aotns.bandcamp.com/album/the-paralian\n\nBANDCAMP: https://lomondcampbell.bandcamp.com\nINSTAGRAM: https://www.instagram.com/lomond_camp...\nTWITTER: https://twitter.com/lomondcampbell"
+  },
+  {
+   "id": "HbKzrA_BJm4",
+   "t": "HARMONOGRAPH SYNTHESISER",
+   "d": "2020-07-01",
+   "v": 18177,
+   "s": 105,
+   "vertical": false,
+   "desc": "I built an 18th century harmonograph and connected it to a 21st century modular synthesiser.\nA harmonograph is an old scientific device that uses pendulums to create illustrations of harmonic motion, called lissajous figures.  On this harmonograph each pendulum is connected to a sensor which triggers different elements of the synthesiser so that every time it makes a drawing, it also plays an accompanying synth soundtrack.  There's also a contact mic on the drawing board to pick up the sound of the pen. \n\nIt uses three pendulums - two connected in a linear way to the pen and one rotary pendulu"
+  },
+  {
+   "id": "NweFQQSFFYU",
+   "t": "The making of L\u016aP - the instrument that wants to be Basinski and Reich",
+   "d": "2020-12-03",
+   "v": 8714,
+   "s": 252,
+   "vertical": false,
+   "desc": "This is a video about the concepts behind L\u016aP and how I went about making it.  I was commissioned to build a custom tape-looper instrument and wanted the machine to embody the compositional ideas of the two esteemed New York avant-garde composers - William Basinski and Steve Reich.  It plays 10 second tape loops which \u2018disintegrate\u2019 over time as the tape passes near to a rotating magnetic disc.  This rotating disc also provides a clock and drives two eccentric cams which sends out ever-shifting phase patterns.   You can hook the machine up to a modular synthesiser and process the disintegratin"
+  },
+  {
+   "id": "HSnan0yz8Ns",
+   "t": "L\u016aP  -  custom tape looper and phase pattern generator",
+   "d": "2020-12-03",
+   "v": 2656,
+   "s": 75,
+   "vertical": false,
+   "desc": "L\u016aP came about when I was commissioned to build a custom tape-looper instrument.  I wanted the machine to embody the compositional ideas of the two esteemed New York avant-garde composers, William Basinski and Steve Reich.  It plays 10 second tape loops which \u2018disintegrate\u2019 over time as the tape passes near to a rotating magnetic disc.  This rotating disc also provides a clock and drives two eccentric cams which sends out ever-shifting phase patterns.   You can hook the machine up to a modular synthesiser and process the disintegrating tape loops while generating Reichian phase shifting patter"
+  },
+  {
+   "id": "x6fDuH9wxMQ",
+   "t": "Harmonograph Poetry Machine",
+   "d": "2021-06-03",
+   "v": 1356,
+   "s": 46,
+   "vertical": false,
+   "desc": "This version of the Harmonograph Synth was created for an exhibition in Edinburgh.  I didn't want to exhibit my modular synth so I used Pure Data to create a generative music patch.  As with before, the pendulums trigger musical events but they also trigger sporadic poems by four UK poets.  This one, called Fill Your Basket is by Hollie McNish.  \n\nI used a Raspberry Pi 3 to handle all the generative synth audio and play the poems while a Bela converts the pendulum sensors to triggers.  The Pi sees the Bela as a USB device and receives MIDI triggers from each of the pendulums as they pass a ree"
+  },
+  {
+   "id": "IYX_Y2DvlFc",
+   "t": "Lomond Campbell - Engineer of Fear",
+   "d": "2021-08-04",
+   "v": 1438,
+   "s": 273,
+   "vertical": false,
+   "desc": "Taken from the album L\u016aP available on One Little Independent Records \nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "FaQgoylHckM",
+   "t": "Engineer Of Fear / live version",
+   "d": "2021-08-26",
+   "v": 9232,
+   "s": 272,
+   "vertical": false,
+   "desc": "Live version of the single Engineer Of Fear recorded in the golden hour at The Lengths using every single extension cable in the highlands.  \n\nTaken from the album L\u016aP available now on One Little Independent Records.\nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#eurorack #modularsynth"
+  },
+  {
+   "id": "nyu1gWsYVw8",
+   "t": "Lomond Campbell - Rad Brad Ivy",
+   "d": "2021-09-01",
+   "v": 10570,
+   "s": 218,
+   "vertical": false,
+   "desc": "Taken from the album L\u016aP available on One Little Independent Records \nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "yQr7aoUOLBo",
+   "t": "RAD BRAD IVY - live performance from a highland rooftop",
+   "d": "2021-09-16",
+   "v": 842,
+   "s": 382,
+   "vertical": false,
+   "desc": "This is a live version of Rad Brad Ivy, recorded on the roof of The Lengths studio on 25th August. \nRad Brad Ivy is the 2nd single from the album L\u016aP.\nAvailable from One Little Independent Records:\nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#modularsynth #eurorack #mpclive"
+  },
+  {
+   "id": "aFpnOSVD9XI",
+   "t": "Lomond Campbell - Swam",
+   "d": "2021-09-29",
+   "v": 1326,
+   "s": 234,
+   "vertical": false,
+   "desc": "Taken from the album L\u016aP available from One Little Independent Records\nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "lmQ3XW6OVXs",
+   "t": "TRADE #1 - Julija Pustovrh",
+   "d": "2021-10-17",
+   "v": 210,
+   "s": 78,
+   "vertical": false,
+   "desc": "The Lengths is a creative space in the Highlands of Scotland.  TRADE is a series of residencies where artists of different disciplines are invited to spend time in the building and make work.  \n\n\u200bJulija Pustovrh was the first participant.  She is a Slovenian born artist now living and working in Edinburgh, Scotland, UK. Her background is in Landscape Architecture but more recently she has been focusing on ceramics. Julija has always drawn inspiration from nature and is currently working on an ongoing project exploring the connection between Scottish landscapes and coastal features. \n\nTo find o"
+  },
+  {
+   "id": "T7v6eSmrdlE",
+   "t": "Swam / live version",
+   "d": "2021-10-18",
+   "v": 348,
+   "s": 289,
+   "vertical": false,
+   "desc": "Live studio version of the single Swam recorded at The Lengths.\n\nTaken from the album L\u016aP available now on One Little Independent Records.\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#eurorack #modularsynth"
+  },
+  {
+   "id": "q_uIkNPz9JY",
+   "t": "Lomond Campbell - Fifths",
+   "d": "2021-11-22",
+   "v": 714,
+   "s": 270,
+   "vertical": false,
+   "desc": "Some of the processes involved in making L\u016aP.  \n\nThe track is taken from the album L\u016aP available on One Little Independent Records.\nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "P70ho0quZns",
+   "t": "MODULAR SESSION WITH L\u016aP",
+   "d": "2021-11-30",
+   "v": 599,
+   "s": 334,
+   "vertical": false,
+   "desc": "Just before handing the machine over to King Creosote, I found an old tape loop that never made it on to the album,  so I filmed this ambient improvisation around it.  \n\nL\u016aP is available from One Little Independent Records:\nhttps://lomondcampbell.lnk.to/LUP\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#eurorack #modularsynth"
+  },
+  {
+   "id": "OjeUgIV9qFQ",
+   "t": "MODULAR SYNTH ON A HIGHLAND ROOFTOP",
+   "d": "2022-02-25",
+   "v": 226,
+   "s": 119,
+   "vertical": false,
+   "desc": "While filming a live modular performance on a rooftop, I put this patch together to check the levels.  I liked the sound if it, so here it is with some outtakes from the filming that day.  \n\nHere's a link to the full performance.\nhttps://youtu.be/yQr7aoUOLBo\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#eurorack #modularsynth"
+  },
+  {
+   "id": "_eHDudFuyDQ",
+   "t": "Lomond Campbell - Reel 1 Phase 6",
+   "d": "2022-03-03",
+   "v": 436,
+   "s": 263,
+   "vertical": false,
+   "desc": "This is a collage of found footage, specifically Super 8 film I found in junk shops in Scotland. \nThe film on the right was found in Aberdeen, while the film on the left is from Edinburgh.  Maybe you can see yourself in there.  The soundtrack is called Reel 1 Phase 6 and is an extract from a 90 minute album I made called Lost Loops.\n\nLost Loops was recorded for the purpose of making tape loops and initially there was no intention of releasing it, only spooling it out and slicing it up.  However, after letting some people hear it they commented that it was a shame most of the music would be los"
+  },
+  {
+   "id": "9-x_NVM5y5g",
+   "t": "LOST LOOPS LIVE on a DIY MIDI CONTROLLER #1",
+   "d": "2022-03-31",
+   "v": 314,
+   "s": 330,
+   "vertical": false,
+   "desc": "This performance makes use of sounds from my album Lost Loops using a DIY MIDI interface to sample and manipulate the sounds.  I used some nice old rotary switches, part of a mechanical keyboard, LED toggles and various other tactile controls, all housed in a bruised attach\u00e9 case.  At the heart of the interface is a Doepfer Pocket Electronic putting out MIDI CC data, converted to CV by the Polyend Poly 2 for MIDI to CV then mapped out to various parameters on a modular synth. \n\nFound out more about lost Loops here:\n https://lomondcampbell.lnk.to/lostloops\n\nWeb: https://www.lomondcampbell.com\nB"
+  },
+  {
+   "id": "-vz7mzmwNa4",
+   "t": "LOST LOOPS on a DIY MIDI CONTROLLER #2",
+   "d": "2022-04-05",
+   "v": 274,
+   "s": 293,
+   "vertical": false,
+   "desc": "This performance makes use of sounds from my album Lost Loops using a DIY MIDI interface to sample and manipulate the sounds.  I used some nice old rotary switches, part of a mechanical keyboard, LED toggles and various other tactile controls, all housed in a bruised attach\u00e9 case.  At the heart of the interface is a Doepfer Pocket Electronic putting out MIDI CC data, converted to CV by the Polyend Poly 2 for MIDI to CV then mapped out to various parameters on a modular synth. \n\nFound out more about lost Loops here https://lomondcampbell.lnk.to/lostloops\n\nWeb: https://www.lomondcampbell.com\nBan"
+  },
+  {
+   "id": "vDaGZ4xcvIU",
+   "t": "LOST LOOPS LIVE on a DIY MIDI CONTROLLER #3",
+   "d": "2022-04-24",
+   "v": 201,
+   "s": 335,
+   "vertical": false,
+   "desc": "This performance makes use of sounds from my album Lost Loops using a DIY MIDI interface to sample and manipulate the sounds.  I used some old rotary switches, part of a mechanical keyboard, LED toggles and various other tactile controls, all housed in a bruised attach\u00e9 case.  At the heart of the interface is a Doepfer Pocket Electronic putting out MIDI CC data, converted to CV by the Polyend Poly 2 for MIDI to CV then mapped out to various parameters on a modular synth. \n\nFound out more about lost Loops here https://lomondcampbell.lnk.to/lostloops\n\nWeb: https://www.lomondcampbell.com\nBandcamp"
+  },
+  {
+   "id": "DL4DFqxNPQA",
+   "t": "Lomond Campbell - The Late Machine (live recording)",
+   "d": "2022-06-03",
+   "v": 497,
+   "s": 311,
+   "vertical": false,
+   "desc": "This track is available on a compilation by the Blackford Hill label called Peace And Plenty.  All proceeds from sales of the compilation go to UNICEF.\nIt's available here from 24th June  http://peaceandplenty.info\n\nThey also featured some of my work in their bonnie journal Oscillations:\nhttps://www.blackford-hill.co.uk/the-future-sound-of-lomond\nwhich is also available through their Bandcamp page.  \n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: http"
+  },
+  {
+   "id": "KbiR8pFM6bE",
+   "t": "Modular synth and DIY MIDI interface",
+   "d": "2022-06-14",
+   "v": 431,
+   "s": 318,
+   "vertical": false,
+   "desc": "Messing with a DIY MIDI interface & modular system.  I used some nice old rotary switches, part of a mechanical keyboard, LED toggles and various other tactile controls, all housed in a bruised attach\u00e9 case.  At the heart of the interface is a Doepfer Pocket Electronic putting out MIDI CC data, converted to CV by the Polyend Poly 2 for MIDI to CV then mapped out to various parameters on a modular synth. \n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: "
+  },
+  {
+   "id": "WhpvUDHIwXQ",
+   "t": "The greatest label making machine in the world.",
+   "d": "2022-07-05",
+   "v": 345,
+   "s": 60,
+   "vertical": false,
+   "desc": "A 1984 GBC StyleWriter labelling machine.  \nThe greatest label machine...or just a massively over-engineered, misguided vision of the future from 1984?\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#labelingmachine #label #oldtech"
+  },
+  {
+   "id": "OwoIaop5e7U",
+   "t": "Sea Spume",
+   "d": "2022-07-05",
+   "v": 155,
+   "s": 197,
+   "vertical": false,
+   "desc": "A short film made on Orkney with the author Michael Pedersen.\n\nIt's features an excerpt read by Michael from his book 'Boy Friends' about the loss of our friend Scott Hutchison and the process of grief. \n\nIt's an incredible book and you can get it here...\nhttps://www.faber.co.uk/product/9780571360055-boy-friends/\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampb"
+  },
+  {
+   "id": "9IWYKMr0IX0",
+   "t": "The Unsung Machine #1 - words by Dot Allison",
+   "d": "2022-07-08",
+   "v": 3311,
+   "s": 275,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine and submit your own words here: https://www.lomondcampbell.com/unsung\n\nLooking for a meaningful way to incorporate language into music that bypassed the convention of hearing words being said or sung, I built The Unsung Machine.  The Unsung Machine is an experimental interface that introduces aleatoric events into music through the act of entering words on the device.  \n\nThis example uses lyrics from Ghost Orchid, taken from Dot Allison's Heart-Shaped Scars album.  I remixed the track earlier in the year using The Unsung Machine, which can be found on the"
+  },
+  {
+   "id": "mRD3jM2hYVI",
+   "t": "The Unsung Machine #2 - words by Kathryn Joseph",
+   "d": "2022-07-14",
+   "v": 961,
+   "s": 363,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine here: https://www.lomondcampbell.com/unsung\n\nLooking for a way to incorporate language into music that bypassed the convention of hearing words being said or sung, I built The Unsung Machine.  \n\nThe words entered in to the machine during this session were written by Kathryn Joseph:\n\nDaughter out of darkness falling \nThere is coming light \nCan you hear it call for all your wrongs to be right \nDaughter I am cold and crawling\nPissing on a sign of life \nYou are all and ready \nClawing at my in and sides \nI watch your moving body parts for proof of breath\nI kno"
+  },
+  {
+   "id": "htH-3_sF8Js",
+   "t": "The Unsung Machine #3 - words by Bartek Buczkowski",
+   "d": "2022-07-20",
+   "v": 406,
+   "s": 528,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine and submit your own words here: https://www.lomondcampbell.com/unsung\n\nLooking for a way to incorporate language into music that bypassed the convention of hearing words being said or sung, I built The Unsung Machine.  \n\nThe words entered in to the machine during this session were written by Bartek Buczkowski:\n\n'I really don\u2019t like to say I told you so but I did you left your mark on me you left a mark in my veins it\u2019s in every drop of blood in every breath I take in every passing second in every goddamn cell'\n\n\n\nWeb: https://www.lomondcampbell.com\nBandca"
+  },
+  {
+   "id": "pMqqHfRA8Z8",
+   "t": "Lomond Campbell - The Mountain And The Pendulum",
+   "d": "2022-08-09",
+   "v": 3743,
+   "s": 249,
+   "vertical": false,
+   "desc": "Stream: https://lomondcampbell.lnk.to/mountain\n\nTaken from new album 'Under This Hunger Moon We Fell' out on 4th November\n\nPre-order: https://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "ehJBABi1p7g",
+   "t": "Prologue - by Michael Pedersen and Lomond Campbell",
+   "d": "2022-08-18",
+   "v": 588,
+   "s": 218,
+   "vertical": false,
+   "desc": "Micheal Pedersen reads the prologue from his book Boy Friends set to a composition by Lomond Campbell.  The book charts the various friendships he's had in his life, through the tale of his last adventure to the Highlands with Scott Hutchison.  \n\nFilmed at The Lengths and Strongchreggan Glen in the Highlands.  \n\nMichael's book is available now from Faber. \nhttps://www.faber.co.uk/product/9780571360055-boy-friends/\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nF"
+  },
+  {
+   "id": "Ogq_HwmSMn8",
+   "t": "The Unsung Machine #4 - words by Blair McMillan",
+   "d": "2022-08-19",
+   "v": 376,
+   "s": 322,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine and submit your own words here: https://www.lomondcampbell.com/unsung\n\nLooking for a way to incorporate language into music that bypassed the convention of hearing words being said or sung, I built The Unsung Machine.  \n\nThe words entered in to the machine during this session were written by Blair McMillan:\n\n'Good snakes make mistakes and never get forgiveness bad snakes have got what it takes to lie amongst us \ud83d\udc0d'\n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter:"
+  },
+  {
+   "id": "SCO2kKPQF9g",
+   "t": "The Unsung Machine",
+   "d": "2022-08-22",
+   "v": 1792,
+   "s": 61,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine here: https://www.lomondcampbell.com/unsung\n\nI was looking for a meaningful way to incorporate language in to music that bypassed the convention of hearing the words being said or sung\u2026so I came up with The Unsung Machine. \n\nThe Unsung Machine is an experimental interface that introduces aleatoric events in to music through the act of entering words.  \n\nSee how the machine works here:\nhttps://youtu.be/_icQSoiNXiM\n\nHad a lot of help from Edinburgh based computer and language whizz Simon Kirby with the concept and coding.  \nhttps://www.simonkirby.net\n\nBandc"
+  },
+  {
+   "id": "_icQSoiNXiM",
+   "t": "The Unsung Machine - how it works",
+   "d": "2022-08-22",
+   "v": 3838,
+   "s": 141,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine here: https://www.lomondcampbell.com/unsung\n\nI was looking for a meaningful way to incorporate language in to music that bypassed the convention of hearing the words being said or sung\u2026so I came up with The Unsung Machine. \n\nThe Unsung Machine is an experimental interface that introduces aleatoric events in to music through the act of entering words.  \n\nHad a lot of help from Edinburgh based computer and language whizz Simon Kirby with the concept and coding.  \nhttps://www.simonkirby.net\n\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lo"
+  },
+  {
+   "id": "usgKlfYH7F0",
+   "t": "The Unsung Machine #5 - words by Karen Vogt",
+   "d": "2022-08-30",
+   "v": 568,
+   "s": 322,
+   "vertical": false,
+   "desc": "Find out more about The Unsung Machine and submit your own words here: https://www.lomondcampbell.com/unsung\n\nThe words entered in to the machine during this session were written by Karen Vogt:\n'I just want to feel'\n\nThe words are randomising notes and musical phrases coming from the Polyend Tracker while also shaping the sound coming from the Hydrasynth, which is being sequenced by the Tracker.  \n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https:/"
+  },
+  {
+   "id": "ZpaEmrFDifU",
+   "t": "Lomond Campbell - Even Songbirds Suffer",
+   "d": "2022-09-07",
+   "v": 2169,
+   "s": 240,
+   "vertical": false,
+   "desc": "Stream: https://lomondcampbell.lnk.to/songbirds\n\nTaken from new album 'Under This Hunger Moon We Fell' out on 4th November\n\nPre-order: https://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "UQMDlOTWRIY",
+   "t": "Kathryn Joseph - How Well You Are - live at The Lengths",
+   "d": "2022-09-21",
+   "v": 1152,
+   "s": 204,
+   "vertical": false,
+   "desc": "Recorded on Sunday 18th September 2022 at The Lengths, a former primary school turned studio in the Highlands of Scotland.  This is where Kathryn recorded her album 'for you who are the wronged' in April 2021.  She returned to play the album live to a devoted audience.\n\n#kathrynjoseph #livemusic"
+  },
+  {
+   "id": "HmnyLqCWwUk",
+   "t": "The Mountain And The Pendulum live - Scotsman Session",
+   "d": "2022-09-30",
+   "v": 460,
+   "s": 295,
+   "vertical": false,
+   "desc": "The Mountain And The Pendulum recorded on 24th September 2022 at The Lengths for The Scotsman. \n\nhttps://www.scotsman.com/whats-on/arts-and-entertainment/the-scotsman-sessions-333-lomond-campbell-3861337\n\nTaken from new album 'Under This Hunger Moon We Fell' out 4th November on One Little Independent Records.\nhttps://lomondcampbell.lnk.to/underthishunger\n\nPre-order: https://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFace"
+  },
+  {
+   "id": "uZfPVQZ6FBk",
+   "t": "Lomond Campbell - Sister Rena",
+   "d": "2022-10-06",
+   "v": 2412,
+   "s": 223,
+   "vertical": false,
+   "desc": "'Sister Rena' by Lomond Campbell\n\nStream: https://lomondcampbell.lnk.to/sisterrena\n\nFrom the  album 'Under This Hunger Moon We Fell' out on now on One Little Independent Records\nhttps://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#mechanical #piano"
+  },
+  {
+   "id": "zEW8pwO9esM",
+   "t": "Lomond Campbell - Sister Rena live",
+   "d": "2022-10-09",
+   "v": 1424,
+   "s": 228,
+   "vertical": false,
+   "desc": "The midgie struggle is real. \nSister Rena performed by Lomond and Bo.\n\nStream: https://lomondcampbell.lnk.to/sisterrena\n\nTaken from new album 'Under This Hunger Moon We Fell' out on 4th November\n\nPre-order: https://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "Wp_9oCtgarQ",
+   "t": "Lomond Campbell - Leave Only Love Behind",
+   "d": "2022-11-02",
+   "v": 981,
+   "s": 327,
+   "vertical": false,
+   "desc": "'Leave Only Love Behind' by Lomond Campbell\n\nTaken from new album 'Under This Hunger Moon We Fell' out now\n\nStream / buy the album: https://lomondcampbell.lnk.to/underthishunger\n\n\nFilmed in Orkney March 2022\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "2uuF4eKqTts",
+   "t": "Double Sided CNC machining | Unsung Machine",
+   "d": "2023-01-23",
+   "v": 610,
+   "s": 366,
+   "vertical": false,
+   "desc": "Drama in the workshop - I was using my last piece of walnut to finish the Unsung Machine https://www.lomondcampbell.com/unsung and my CNC machine kept losing its zero position.  This video shows my workaround and how I eventually got to the nature of the problem. \n\n#cnc #woodworking #workshop"
+  },
+  {
+   "id": "O5BsydmGzsg",
+   "t": "Lomond Campbell - Bastard Wing",
+   "d": "2023-01-31",
+   "v": 714,
+   "s": 146,
+   "vertical": false,
+   "desc": "From the new album 'Under This Hunger Moon We Fell' out now on One Little Independent Records.\n\nhttps://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n\n\n#AI #stablediffusion #animation"
+  },
+  {
+   "id": "Ry0iOokVnDQ",
+   "t": "Lomond Campbell - And They Are Afraid Of Her",
+   "d": "2023-03-05",
+   "v": 577,
+   "s": 244,
+   "vertical": false,
+   "desc": "From the album 'Under This Hunger Moon We Fell' out now on One Little Independent Records.\n\nhttps://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n\n\n#AI #stablediffusion #animation"
+  },
+  {
+   "id": "_PYafGpWmN4",
+   "t": "Lomond Campbell - For The Uncarved",
+   "d": "2023-03-08",
+   "v": 261,
+   "s": 100,
+   "vertical": false,
+   "desc": "\"For The Uncarved' by Lomond Campbell\n\nFrom the album 'Under This Hunger Moon We Fell' out on now on One Little Independent Records\nhttps://lomondcampbell.lnk.to/underthishunger\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "VRAzBpR7pQ0",
+   "t": "Lomond Campbell - Radder Brad (live)",
+   "d": "2023-03-12",
+   "v": 660,
+   "s": 287,
+   "vertical": false,
+   "desc": "Radder Brad recorded live at The Lengths on 10th Feb 2023.\n\nL\u016aP now available on ltd edition red vinyl\nhttps://lomondcampbell.bandcamp.com/album/l-p-2\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub\n\n#insta360 #electronicmusic #moog"
+  },
+  {
+   "id": "bCQR8iOpKPY",
+   "t": "Infinite Spin - Lomond Campbell",
+   "d": "2023-05-30",
+   "v": 4611,
+   "s": 251,
+   "vertical": false,
+   "desc": "Taken from Interference Patterns out on 28th July.\n\nStream the single: https://lomondcampbell.lnk.to/infinitespin\n\nPre-order the EP: https://lomondcampbell.lnk.to/interference-patterns\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "C4N_2KbeA3s",
+   "t": "Lomond Campbell - Draw Breath",
+   "d": "2023-06-27",
+   "v": 773,
+   "s": 246,
+   "vertical": false,
+   "desc": "https://lomondcampbell.lnk.to/drawbreath\nFrom the EP Interference Patterns out on 28th July. \n\nDrone footage courtesy of @foundlight \n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "8JpuoranlgY",
+   "t": "Lomond Campbell - Altered (live)",
+   "d": "2023-08-07",
+   "v": 452,
+   "s": 250,
+   "vertical": false,
+   "desc": "Altered recorded live at The Lengths on 11th Feb 2023.\n\nAvailable on Interference Patterns on limited edition cassette and download:\nhttps://lomondcampbell.lnk.to/interference-patterns\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "jdjv1LrWwp0",
+   "t": "Look Mum No Computer interview",
+   "d": "2023-09-26",
+   "v": 2481,
+   "s": 3705,
+   "vertical": false,
+   "desc": "This interview with @LOOKMUMNOCOMPUTER  AKA Sam Battle was set up by the good folks at @OneLittleIndependentRecords  with the idea being that we would ask each other questions about the wonders and woes of building music machines.  We didn't get through too many of the questions but ended up having a right good old natter.  I first met Sam in the summer when he visited The Lengths and made this video about the trip:\nhttps://youtu.be/B-07uzruIHo?si=zeMR0_YC07RRodqS\n\nHere's a link to his incredible museum...This Museum Is (Not) Obsolete:\nhttps://this-museum-is-not-obsolete.com\n\nAnd you can suppo"
+  },
+  {
+   "id": "GqS9Nmpakfo",
+   "t": "SILENT SIREN",
+   "d": "2023-10-03",
+   "v": 274,
+   "s": 115,
+   "vertical": false,
+   "desc": "Web: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "pqhkFPgot9Y",
+   "t": "WORD MACHINE",
+   "d": "2023-10-11",
+   "v": 803,
+   "s": 233,
+   "vertical": false,
+   "desc": "Web: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "wRn9P-w84cE",
+   "t": "ROTARY MACHINE",
+   "d": "2023-10-11",
+   "v": 493,
+   "s": 140,
+   "vertical": false,
+   "desc": "Web: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "o5cYwmmxEEw",
+   "t": "Lomond Campbell - Phonon For Someone (live)",
+   "d": "2023-10-18",
+   "v": 397,
+   "s": 352,
+   "vertical": false,
+   "desc": "Phonon For Someone recorded live at The Lengths on 13th Feb 2023.\n\nAvailable on Interference Patterns out on limited edition cassette and download:\nhttps://lomondcampbell.lnk.to/interference-patterns\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "pnEkNjVomBM",
+   "t": "Lomond Campbell - Sister Rena (live 360)",
+   "d": "2023-12-07",
+   "v": 487,
+   "s": 230,
+   "vertical": false,
+   "desc": "Sister Rena recorded live at The Lengths on 17th Feb 2023.\n\nAvailable on Interference Patterns out on limited edition cassette and download:\nhttps://lomondcampbell.lnk.to/interference-patterns\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "b3Dru1KJPl4",
+   "t": "Moog Voyager Old School + Monome Grid",
+   "d": "2024-06-14",
+   "v": 725,
+   "s": 315,
+   "vertical": false,
+   "desc": "Just messing with the OS and Monome.\n\n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "k1n5n0YVm6M",
+   "t": "M\u016eO - an audiovisual project powered by the cosmos",
+   "d": "2025-05-11",
+   "v": 1318,
+   "s": 192,
+   "vertical": false,
+   "desc": "Scottish artist and musician Lomond Campbell premieres\u00a0M\u016eO, an audiovisual experience powered by the universe as part of the Made in Scotland Showcase from 1 \u2013 25 August at the French Institute, Edinburgh as part of the Edinburgh Festival 2025.\n\nTickets for M\u016eO Live:\nhttps://www.edfringe.com/tickets/whats-on/muo-live\n\nMore information about the project:\nhttps://www.lomondcampbell.com/muo\n\nSponsors:\nhttps://www.madeinscotlandshowcase.com\nhttps://www.ifecosse.org.uk\nhttps://www.cryptic.org.uk\nhttps://www.lynkeos.co.uk\nhttps://www.gla.ac.uk/schools/physics/\n\nLomond Campbell\nBandcamp: https://lomo"
+  },
+  {
+   "id": "Jy2cvRy5yW0",
+   "t": "MU\u030aO visuals excerpt",
+   "d": "2025-05-22",
+   "v": 147,
+   "s": 85,
+   "vertical": false,
+   "desc": "Some early examples of sound and vision from M\u016eO\n\nScottish artist and musician Lomond Campbell premieres M\u016eO, an\naudiovisual experience powered by the universe as part of the Made in\nScotland Showcase from 1st to 25th August at the French Institute,\nEdinburgh.\n\nTickets for M\u016eO Live:\nhttps://www.edfringe.com/tickets/whats-on/muo-live\n\nMore information about the project:\nhttps://www.lomondcampbell.com/muo\n\nSponsors:\nhttps://www.madeinscotlandshowcase.com\nhttps://www.ifecosse.org.uk\nhttps://www.cryptic.org.uk\nhttps://www.lynkeos.co.uk\nhttps://www.gla.ac.uk/schools/physics/\n\nLomond Campbell\nBandca"
+  },
+  {
+   "id": "p3k1x9tuc5I",
+   "t": "M\u016eO teaser",
+   "d": "2025-05-22",
+   "v": 216,
+   "s": 60,
+   "vertical": false,
+   "desc": "Scottish artist and musician Lomond Campbell premieres M\u016eO, an\naudiovisual experience powered by the universe as part of the Made in\nScotland Showcase from 1st to 25th August at the French Institute,\nEdinburgh.\n\nTickets for M\u016eO Live:\nhttps://www.edfringe.com/tickets/whats-on/muo-live\n\nMore information about the project:\nhttps://www.lomondcampbell.com/muo\n\nSponsors:\nhttps://www.madeinscotlandshowcase.com\nhttps://www.ifecosse.org.uk\nhttps://www.cryptic.org.uk\nhttps://www.lynkeos.co.uk\nhttps://www.gla.ac.uk/schools/physics/\n\nLomond Campbell\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram:"
+  },
+  {
+   "id": "6Fugnx5s5rI",
+   "t": "M\u016eO Installation | The Muonophone",
+   "d": "2025-07-24",
+   "v": 1568,
+   "s": 61,
+   "vertical": false,
+   "desc": "The Muonophone is a machine I built that allows me to make music using muon detectors.  These muon detectors pick up harmless radiation caused by cosmic rays interacting with the Earth\u2019s atmosphere. The Muonophone will be exhibited at The French Institute in Edinburgh from 8th - 25th August for the Edinburgh Fringe as part of a show called M\u016eO.  The installation is open 11am - 5pm and is free entry.  I'll also be playing 9 live shows with the Muonophone during the festival.  \ninfo: https://www.lomondcampbell.com/muo\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp"
+  },
+  {
+   "id": "HEJ8CaawCmg",
+   "t": "MU\u030aO Live | The Muonophone",
+   "d": "2025-07-27",
+   "v": 976,
+   "s": 64,
+   "vertical": false,
+   "desc": "The Muonophone is a custom built instrument that uses muon detectors to generate sound and visuals.  This is a short excerpt from a an a/v performance called M\u016eO that run at the French Institute during the Edinburgh Festival.  \n\nMore information on the project can be found here:\nhttps://www.lomondcampbell.com/muo\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampb"
+  },
+  {
+   "id": "60v0oH2dPWg",
+   "t": "Lomond Campbell - Always Awake",
+   "d": "2025-07-31",
+   "v": 816,
+   "s": 166,
+   "vertical": false,
+   "desc": "Always Awake is the first single from my new album Transmission Loss coming out in October on One Little Independent Records\nhttps://lomondcampbell.lnk.to/always-awake\n\nPre-save Transmission Loss\nhttps://lomondcampbell.lnk.to/transmission-loss\n\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  },
+  {
+   "id": "CyV95wXoGlA",
+   "t": "Lomond Campbell - Ternary I",
+   "d": "2025-08-28",
+   "v": 485,
+   "s": 199,
+   "vertical": false,
+   "desc": "Ternary I is the second single from my new album Transmission Loss coming out in October on One Little Independent Records\nListen \u2192 https://lomondcampbell.lnk.to/ternaryI\n\nPre-save / pre-order Transmission Loss\n\u2192 https://lomondcampbell.lnk.to/transmission-loss\n\nWeb: https://www.lomondcampbell.com\nBandcamp: https://lomondcampbell.bandcamp.com\nInstagram: https://lomondcampbell.lnk.to/instagram\nTwitter: https://lomondcampbell.lnk.to/twitter\nFacebook: https://lomondcampbell.lnk.to/facebook\n\nSubscribe to the YouTube channel : https://lomondcampbell.lnk.to/ytsub"
+  }
+ ]
+}

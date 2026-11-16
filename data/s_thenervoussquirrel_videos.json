@@ -1,0 +1,999 @@
+{
+ "channel": {
+  "id": "UCS62EsYreJvAQ-frtC2I1QA",
+  "title": "Dave Cranmer",
+  "handle": "@thenervoussquirrel",
+  "description": "Electronics, engineering, mechanical, metal fabrication, synthesisers etc.\nGet in touch if you'd like something built.\nProjects here: www.nervoussquirrel.com\n",
+  "since": "2008-02-17",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_l1H-sh2L7x1_VBtNGfwykIuozYeIhjK1izXAknQEqpdA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "2548527",
+  "subscriberCount": "7750",
+  "hiddenSubscriberCount": false,
+  "videoCount": "109"
+ },
+ "videos": [
+  {
+   "id": "sVBfF_wppWs",
+   "t": "Circuit bent mechanical furby sequencer - The Furby Gurdy!",
+   "d": "2008-02-17",
+   "v": 166699,
+   "s": 171,
+   "vertical": false,
+   "desc": "Each furby has 4 controls: mute, crash, loop and reset. The handle turns 8 cams which operate corresponding microswitches to create interesting rhythmic patterns. Part of the 'setting up' section at the beginning has been fast forwarded. Please commission me to make lots more of these machines!"
+  },
+  {
+   "id": "EEatKIM4cs8",
+   "t": "Circuit bent box containing Musini, sampler and ELC piano",
+   "d": "2008-06-01",
+   "v": 11540,
+   "s": 258,
+   "vertical": false,
+   "desc": "This box basically consists of three sections:\r\n\r\nA modified Musini, which is a baby toy originally intended to get toddlers dancing around the living room. A sensor detects floor vibrations and matches the tempo accordingly, or as the manufacturer puts it:\r\n\r\n\"Musini's patented MusicSensor detects their every move and translates it into a totally unique musical response, teaching cause and effect.\"\r\n\r\nNew knobs and switches have been added to create strange new sounds that would probably frighten the previous small owner of the toy.\r\n\r\nThe second section is a simple lo-fi sampler that can rec"
+  },
+  {
+   "id": "KRKlGkeV8Aw",
+   "t": "Circuit bent Roland TR-505 drum machine",
+   "d": "2008-07-12",
+   "v": 21147,
+   "s": 379,
+   "vertical": false,
+   "desc": "This was a commission for Chris Wing (www.winganimation.com) who lives in San Francisco and writes cool dub tracks.\r\n\r\nI have only used six patch combinations in the video, but there are literally thousands to explore.\r\n\r\nThe box has MIDI in and out, and a switch to route the drum machine's audio signal through a 'voice modulator' section, which has pitch and LFO controls.\r\n\r\nApologies for the inferior drum programming - I'm looking forward to hearing Chris do it justice!"
+  },
+  {
+   "id": "9E5yb9Mpx28",
+   "t": "Circuit bent mechanical Furby sequencer linked to Korg SQ-10",
+   "d": "2008-07-22",
+   "v": 115124,
+   "s": 154,
+   "vertical": false,
+   "desc": "One of a new batch of four Furby Gurdies. This model allows you to program your own rhythms by rearranging screws inserted into the four wheels.\r\n\r\nThere is also a 'trigger out' socket, which has been used in the last section of the video to operate an old sequencer and synthesiser.\r\n\r\nMore details here:\r\n\r\nnervoussquirrel.com/circuitbent27.html"
+  },
+  {
+   "id": "QcjXaFLtCtk",
+   "t": "Musical Ship's Wheel",
+   "d": "2008-11-30",
+   "v": 5609,
+   "s": 41,
+   "vertical": false,
+   "desc": "This was a commission for Mucky Sailor, who are an excellent and very noisy band. More details of the project on this page:\r\n\r\nwww.nervoussquirrel.com\r\n/muckysailor.html"
+  },
+  {
+   "id": "9U0JiSXeKGA",
+   "t": "Custom circuit bent machine with Casio SK-5 etc.",
+   "d": "2009-02-14",
+   "v": 16658,
+   "s": 383,
+   "vertical": false,
+   "desc": "This project was commissioned by Joe Henson, who specified that it should make as many strange noises as possible. After a few of meetings involving beer and a sketchbook, the plans were made for a machine that eventually included the following:\n\nModified Neurosmith Musini\n\nModified Casio SA-2\n\nCasio SK-5 with 24 patch points, separate instrument/drum pitch control and assignable joystick\n\nModified talking toy educational computer\n\nPatchable modulation section\n\n1950s panel meter connected to audio out (funkyness indicator)\n\nMore details at www.nervoussquirrel.com, and please get in touch if yo"
+  },
+  {
+   "id": "MGMahvSQXPM",
+   "t": "Evil microwave",
+   "d": "2009-02-16",
+   "v": 2987,
+   "s": 36,
+   "vertical": false,
+   "desc": "Evil microwave."
+  },
+  {
+   "id": "FRryfYvVcjk",
+   "t": "NewSound audio newspaper installation",
+   "d": "2009-03-07",
+   "v": 841,
+   "s": 72,
+   "vertical": false,
+   "desc": "As part of the January 2009 celebrations for the London Sinfonietta and Guardian Newspaper moving headquarters to Kings Place, Patrick Furness and I were asked to create an installation that would deliver music to people in the cafe area of the atrium. We responded by creating 100 audio 'newspapers', each containing super-thin cutting edge circuitry that could play back 20 seconds of audio when a certain area of the paper was pressed.\r\n\r\nThe music included in the newspapers was created by sound artist Duncan Chapman, who worked with members of the London Sinfonietta and the Copenhagen Youth Pr"
+  },
+  {
+   "id": "T9OSeIN3BbE",
+   "t": "Another circuit bent TR-505",
+   "d": "2009-03-14",
+   "v": 2657,
+   "s": 135,
+   "vertical": false,
+   "desc": "This was made for Jay Merrifield of Glasstone Records. It's the same as the first one (see other video), but has a multicoloured LED!\r\n\r\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "A4FjIOhKtgc",
+   "t": "LED sculpture",
+   "d": "2009-03-15",
+   "v": 1080407,
+   "s": 133,
+   "vertical": false,
+   "desc": "This was constructed at the workshop of 2D3D Ltd in Park Royal, for Roca's stand at the 100% Design show in 2008.\r\n\r\nMore photos here:\r\n\r\nwww.nervoussquirrel.com\r\n/ledsculpture.html"
+  },
+  {
+   "id": "Z89f689a_aY",
+   "t": "Circuit Bent Casio SK-5 with CGS Synthacon Filter",
+   "d": "2009-07-05",
+   "v": 12533,
+   "s": 330,
+   "vertical": false,
+   "desc": "This was made for Colin Cloughley, creator of fine industrial techno.\r\n\r\nKnobs, L-R: keyboard filter mode select (LP, BP, HP), cutoff, resonance, LED sensitivity, instrument pitch, drum pitch.\r\n\r\nSockets L-R: filter control voltage in, external lowpass in, bandpass in, highpass in, keyboard out, keyboard out via filter.\r\n\r\nThe switches in the centre connect the circuit bent modifications.\r\n\r\nThe video contains sounds generated by the SK-5 alone, except for the very last clip where the filter is being modulated by an external LFO.\r\n\r\nThe filter was made from Ken Stone's Synthacon VCF schematic."
+  },
+  {
+   "id": "GkiVeUkXchk",
+   "t": "Ralph the Robot, with built in Weird Sound Generator",
+   "d": "2009-12-13",
+   "v": 4837,
+   "s": 151,
+   "vertical": false,
+   "desc": "One of a batch of seven robots, made to try out my new lathe.\r\n\r\nHe has a built in 'weird sound generator', available in kit form from the utterly fantastic musicfromouterspace.com\r\n\r\nMore details here:\r\n\r\nwww.nervoussquirrel.com/ralph.html"
+  },
+  {
+   "id": "2LjUj2LM-6w",
+   "t": "Velotone - bicycle powered sequencer/synth",
+   "d": "2010-04-26",
+   "v": 3593,
+   "s": 134,
+   "vertical": false,
+   "desc": "This was made for Paddy Austin, who organises bicycle-powered club nights where all of the lights and sounds are generated by pedal power.\n\nA magnet attached to the rear wheel passes a reed switch, which sends a pulse to an 8-stage sequencer mounted on the handlebars. Depending on the speed of the cyclist, the sequencer plays 8 tunable oscillators, and also controls a Coron DS-7 drum machine.\n\nPaddy and Charlie sent me the video - thanks very much! Visit their website:\n\nwww.citiesinthedark.com"
+  },
+  {
+   "id": "T-cP-AW9sQQ",
+   "t": "Smoke ring cannon",
+   "d": "2010-05-15",
+   "v": 2008,
+   "s": 48,
+   "vertical": false,
+   "desc": "My brother making smoke rings with a modified dustbin.\n\nBackground music by Gabl\u00e9 - wonderful band!"
+  },
+  {
+   "id": "LBTN9rcBMoY",
+   "t": "Oscilloscope/synthesiser twiddling",
+   "d": "2010-05-29",
+   "v": 3765,
+   "s": 294,
+   "vertical": false,
+   "desc": "Oscillosope with X and Y axes connected to a homemade modular synthesiser.\n\nMore details on the synthesiser here:\n\nwww.nervoussquirrel.com/modular.html"
+  },
+  {
+   "id": "HzJCFtAwbLU",
+   "t": "Gnome Machine",
+   "d": "2010-09-28",
+   "v": 4389,
+   "s": 42,
+   "vertical": false,
+   "desc": "No. 1 in a series of 4 machines\r\n\r\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "sKA3IXvJMMs",
+   "t": "Banana Machine",
+   "d": "2010-09-28",
+   "v": 9075,
+   "s": 57,
+   "vertical": false,
+   "desc": "No. 2 in a series of 4 machines\r\n\r\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "qlCYJeM4XtM",
+   "t": "Brian the chainsaw-powered Penguin",
+   "d": "2010-09-29",
+   "v": 7705,
+   "s": 98,
+   "vertical": false,
+   "desc": "The drum patterns can be altered by moving the position of the bolts in the rotating wheels.\r\n\r\nTempo can be adjusted by changing gear on the bicycle derailleurs (or using the accelerator).\r\n\r\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "fC4NO2D287k",
+   "t": "Radio controlled audio cars at the Royal Festival Hall",
+   "d": "2010-09-30",
+   "v": 1309,
+   "s": 207,
+   "vertical": false,
+   "desc": "This was a collaboration with Patrick Furness, and was installed during the Edgard Varese season at the Royal Festival Hall earlier in 2010. Patrick had thought of the idea a while ago and made a prototype, but we had been waiting for a chance to make one on a larger scale.\n\nThe first part of the video shows Patrick and James gluing strips of pre-recorded audio tape onto a sheet of MDF. 16 of these boards were made, containing a total of 7.9 kilometres of tape, all laboriously glued by hand.\n\nOnce the boards were prepared, 3 radio controlled cars were driven around on top of them. Each car had"
+  },
+  {
+   "id": "ft66qls_H2I",
+   "t": "Calculator Orrery",
+   "d": "2011-04-29",
+   "v": 2893,
+   "s": 90,
+   "vertical": false,
+   "desc": "An orrery is a mechanical model of the solar system, designed to show the relative orbits and positions of planets and moons.\n\nThis version is powered by four independently controlled motors, the speed and direction of which can be altered via the control panel.\n\nMore details: www.nervoussquirrel.com/orrery.html\n\nThe orrery is for sale - please email dave [at] the website above."
+  },
+  {
+   "id": "UIpV5P4FGVE",
+   "t": "MIDI-controlled pneumatic drumming machine prototype test",
+   "d": "2011-12-10",
+   "v": 2253,
+   "s": 33,
+   "vertical": false,
+   "desc": "Initial test - apologies for the mediocre drum programming!\n\nMore details here: www.nervoussquirrel.com/pneumaticdrums.html"
+  },
+  {
+   "id": "tNEMzH7pOZ8",
+   "t": "The Badgermin",
+   "d": "2012-01-03",
+   "v": 245779,
+   "s": 242,
+   "vertical": false,
+   "desc": "2016 update: Making some custom theremins this January - get in touch if you'd like one.\n\nThree musicians play the Badgermin for the first time.\n\nMore details: www.nervoussquirrel.com/badgermin.html"
+  },
+  {
+   "id": "qsJ2rY_yAoo",
+   "t": "Stuart Turner S50 model steam mill engine restoration",
+   "d": "2012-04-07",
+   "v": 3028,
+   "s": 28,
+   "vertical": false,
+   "desc": "Needs a cap for the meths burner, and still leaks a little in a couple of places!\n\n\"Before and after\" photos here:\n\nwww.nervoussquirrel.com/steamengine.html"
+  },
+  {
+   "id": "w5_3qRZasCk",
+   "t": "Glen showing Edwin how to use the flamethrower",
+   "d": "2012-05-17",
+   "v": 1618,
+   "s": 164,
+   "vertical": false,
+   "desc": "This was filmed earlier today at Machine Shop Ltd, which is a fun place to work.\n\nEdwin has currently joined us on a work experience placement. I seem to remember my school work experience involving more photocopying and less fire."
+  },
+  {
+   "id": "_ndHGL7FTWs",
+   "t": "Musical drink dispensing machines for Southern Comfort",
+   "d": "2012-07-11",
+   "v": 3928,
+   "s": 38,
+   "vertical": false,
+   "desc": "Two of these machines were made, commissioned by Frukt Communications, designed and built by David Cranmer.\n\nThe video shows the LEDs working in the dark, and then the machine being tested pumping water.\n\nMore details here:\n\nwww.nervoussquirrel.com/southerncomfort.html"
+  },
+  {
+   "id": "cIWKQdIeFW0",
+   "t": "Testing the pneumatic seesaw",
+   "d": "2012-09-08",
+   "v": 1041,
+   "s": 75,
+   "vertical": false,
+   "desc": "Constructed by Myles Moloney at Machine Shop Ltd, this shows an early test of the incomplete seesaw.\n\nThe final version was anchored to some hefty steel girders, and had some bigger pneumatic rams added so that it could lift 5 people at one end.\n\nIt also had handles added, was clad in timber, and painted. I think it was for a TV advert."
+  },
+  {
+   "id": "3F2ILhGtays",
+   "t": "\"Did you eat crisps on my chair?!\"",
+   "d": "2012-10-19",
+   "v": 781,
+   "s": 115,
+   "vertical": false,
+   "desc": "Work experience person executed for eating a packet of crisps whilst sat on Matt's chair. \n\nFilmed at Machine Shop special effects. Based on a true story."
+  },
+  {
+   "id": "BNh7ujxSI4E",
+   "t": "Duck/motor test",
+   "d": "2012-11-11",
+   "v": 955,
+   "s": 32,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "MybSR_O4uT8",
+   "t": "The Pyramid Synths",
+   "d": "2013-01-10",
+   "v": 14162,
+   "s": 244,
+   "vertical": false,
+   "desc": "These began as part of an animated music video that Pete Fowler created for The Horrors. Richard Russell (XL Recordings) commissioned two real life versions, one of which was presented to the band.\n\nMore details here:\n\nwww.nervoussquirrel.com/pyramidsynth.html"
+  },
+  {
+   "id": "JcYSC6aM-vA",
+   "t": "Workshop video clips 2012",
+   "d": "2013-01-14",
+   "v": 569,
+   "s": 556,
+   "vertical": false,
+   "desc": "A compilation of video material captured at the workshop of Machine Shop special effects during 2012.\n\nThe video might give an impression of the involvement of some tomfoolery and high jinks, but there is in fact a lot of serious engineering going on to make these projects happen safely.\n\nMachine Shop are based in NW London and have decades of experience in the special effects industry. Check out their website:\n\nwww.specialeffects.co.uk"
+  },
+  {
+   "id": "VNT4sjVrmfU",
+   "t": "The Rave Kestrel",
+   "d": "2013-01-18",
+   "v": 8427,
+   "s": 215,
+   "vertical": false,
+   "desc": "This sculpture has two titles: \"A Kestrel Manoeuvres in the Dark\", or \"A Kestrel for a Rave\".\n\nCheck YouTube quality setting is on HD (lower right of video window).\n\nMusic by Modeselektor.\n\nMore robots, electronics and taxidermy: www.nervoussquirrel.com"
+  },
+  {
+   "id": "KSNJ1DTikOM",
+   "t": "Quick test of mini pyramid synth",
+   "d": "2013-05-18",
+   "v": 6217,
+   "s": 105,
+   "vertical": false,
+   "desc": "This was commissioned by Jay Gambit, for use by noise collective Crowhurst.\n\nIt is a second generation pyramid synth in the style of the original designed by Pete Fowler, commissioned by XL Recordings for The Horrors. This unit contains a MFOS phaser and WSG.\n\nMore details here: www.nervoussquirrel.com/tronpyramid.html"
+  },
+  {
+   "id": "2HcTUf1hhNM",
+   "t": "Pete Fowler's cross stitch synth!",
+   "d": "2013-08-03",
+   "v": 2118,
+   "s": 128,
+   "vertical": false,
+   "desc": "More details: www.nervoussquirrel.com/crossstitchsynth"
+  },
+  {
+   "id": "qdjOQanaqVQ",
+   "t": "Owl theremin",
+   "d": "2013-08-04",
+   "v": 24865,
+   "s": 76,
+   "vertical": false,
+   "desc": "This was commissioned by Scott Williams.\n\nThe theremin control voltage outputs can be used to play the synth in the background.\n\nMore details: www.nervoussquirrel.com/owltheremin"
+  },
+  {
+   "id": "I6eTdPG3jo8",
+   "t": "The Badgermin played properly",
+   "d": "2013-08-04",
+   "v": 200056,
+   "s": 140,
+   "vertical": false,
+   "desc": "Get in touch if you'd like a custom theremin, synthesiser, or other instrument. Still making things in 2021.\n\nThis video was previously uploaded in 2012, but the featured musician has politely requested to become anonymous due to the video's prominence in Google searches.\n\nMore details here: www.nervoussquirrel.com/badgermin"
+  },
+  {
+   "id": "JT8Kv9p7vq4",
+   "t": "Ken Okiishi's robotic paintball gun installation - Frieze London 2013",
+   "d": "2013-10-21",
+   "v": 1776,
+   "s": 197,
+   "vertical": false,
+   "desc": "This installation by Ken Okiishi was commissioned by Frieze Projects, part of the annual Frieze London art fair. \n\nVisitors could press a button to activate two paintball guns, which would move and fire at random points within an enclosed room. The paintballs would hit the walls, windows, or a series of canvases hung around the room. \n\nThe canvases were later placed to dry on racks, and were available to purchase. \n\nThe gun turrets and paintball equipment were supplied by Machine Shop special effects, the electronics and programming were by nervoussquirrel.com"
+  },
+  {
+   "id": "QIZD-iSaPss",
+   "t": "Duck Machine - mechanical sculpture by Dave Cranmer",
+   "d": "2013-10-21",
+   "v": 35632,
+   "s": 155,
+   "vertical": false,
+   "desc": "This sculpture was commissioned by Faz Elektrik, who design and manufacture specialist motors.\n\nMore details: www.nervoussquirrel.com/duckmachine"
+  },
+  {
+   "id": "1BFY_Y04qcY",
+   "t": "Christmas songs on the Owl Organ",
+   "d": "2013-12-16",
+   "v": 12685,
+   "s": 385,
+   "vertical": false,
+   "desc": "Great to see everyone on Saturday!\n\nMore details of the Owl Organ here:\n\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "gFkc1XHyjKA",
+   "t": "Duck Machine - version with music...",
+   "d": "2013-12-16",
+   "v": 3763,
+   "s": 155,
+   "vertical": false,
+   "desc": "Music specially composed by Oswald Skillbard!\n\nMore details: www.nervoussquirrel.com/duckmachine"
+  },
+  {
+   "id": "OYuCRDQiND8",
+   "t": "Two hundred copper coils to teach children about electromagnetism",
+   "d": "2014-01-20",
+   "v": 22826,
+   "s": 109,
+   "vertical": false,
+   "desc": "This project was for Machine Shop Special Effects Ltd.\n\nMore details here:\n\nwww.nervoussquirrel.com/coilwinding2014"
+  },
+  {
+   "id": "w-OxvUjwocg",
+   "t": "The Musical Stepladders",
+   "d": "2014-04-19",
+   "v": 1932,
+   "s": 57,
+   "vertical": false,
+   "desc": "A project from some time ago, but finally made a video...\n\nEach ladder contains four lo-fi sampler circuits, which are activated by spring-mounted steps.\n\nPhotos here:\n\nwww.nervoussquirrel.com/ladders"
+  },
+  {
+   "id": "ZG48wDekTOA",
+   "t": "Stakcgrox! The Giant Robotic Crow",
+   "d": "2014-09-18",
+   "v": 1952,
+   "s": 120,
+   "vertical": false,
+   "desc": "On display at The Book Club gallery / bar, Leonard St (near Old St tube), London, until 16th November 2014.\n\nNext live performance: Saturday 11th October.\n\nMore info:\n\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "zUepRQ9_DPA",
+   "t": "Hat installation prototype by Patrick Furness",
+   "d": "2014-11-04",
+   "v": 665,
+   "s": 158,
+   "vertical": false,
+   "desc": "Patrick and I put together this test rig last weekend. It is a prototype for an upcoming installation.\n\nThank you very much to our wonderful hat-testers!\n\nMore details:\n\nwww.patrickfurness.com\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "JaKm5Lp99H8",
+   "t": "Pneumatic balloon inflating system test",
+   "d": "2015-05-02",
+   "v": 12048,
+   "s": 58,
+   "vertical": false,
+   "desc": "This was a prototype for this project:\n\nwww.nervoussquirrel.com/balloon_heads"
+  },
+  {
+   "id": "7O8Qa69vOHs",
+   "t": "Lycopodium powder",
+   "d": "2015-06-23",
+   "v": 888,
+   "s": 9,
+   "vertical": false,
+   "desc": "Filming: Chris\nLighter holder: Jamie"
+  },
+  {
+   "id": "V-1Rk_DOCZg",
+   "t": "Air cannon tests / neon sign explosion",
+   "d": "2015-06-25",
+   "v": 2834,
+   "s": 109,
+   "vertical": false,
+   "desc": "Get in touch if you have a project that needs air cannons or something that goes bang...\n\nMore details here: www.nervoussquirrel.com/pizza_hut"
+  },
+  {
+   "id": "cFK8RE2pIBs",
+   "t": "Exploding pigeons",
+   "d": "2015-06-25",
+   "v": 13682,
+   "s": 85,
+   "vertical": false,
+   "desc": "Some pigeons exploding.\n\nFilmed by Dan Lowe\nDirected by Chris Cairns\nTrigger system by Dave Cranmer"
+  },
+  {
+   "id": "jCvYPBxSjpQ",
+   "t": "Smoke Signals - installation with 12 smoke cannons",
+   "d": "2015-07-28",
+   "v": 1102,
+   "s": 83,
+   "vertical": false,
+   "desc": "A collaboration with Ed Carter.\nMore details:\nwww.nervoussquirrel.com/smoke_cannons"
+  },
+  {
+   "id": "rpf6wytsJlY",
+   "t": "Marble lift quick test",
+   "d": "2015-10-16",
+   "v": 5383,
+   "s": 36,
+   "vertical": false,
+   "desc": "For a shop window, to cycle marbles back into a 1.5m vortex.\n\nLet me know if anyone wants one of these made - contact details via nervoussquirrel.com. Also general engineering / art fabrication.\n\nPhotos:\n\nwww.nervoussquirrel.com/marble_lift"
+  },
+  {
+   "id": "xJuH5AEFNbg",
+   "t": "Meteorphonium weather controlled sound machine & light synth - quick test",
+   "d": "2015-10-20",
+   "v": 2915,
+   "s": 115,
+   "vertical": false,
+   "desc": "The Boag's Meteorphonium: Music composed by Nick Ryan, programming by Dan Jones, built by David Cranmer.\n\nMore details:\n\nwww.nervoussquirrel.com/weather_machine\n\nA much better video:\n\nwww.boagssymphony.com.au"
+  },
+  {
+   "id": "FC3vBF9XjKE",
+   "t": "Octopus Machine - mechanical sculpture by Dave Cranmer",
+   "d": "2015-10-21",
+   "v": 1069,
+   "s": 96,
+   "vertical": false,
+   "desc": "A private commission. More details here, including build photos:\n\nwww.nervoussquirrel.com/octopus_machine\n\nGet in touch if you have a sculptural / electronic / engineering project that needs building with passion and attention to detail. Contact details via nervoussquirrel.com"
+  },
+  {
+   "id": "ZBXfZivqdyM",
+   "t": "MIDI / sound controlled LED sculpture",
+   "d": "2016-03-28",
+   "v": 7433,
+   "s": 88,
+   "vertical": false,
+   "desc": "Get in touch if you have a project that needs a lot of LEDs to be controlled nicely. We developed some awesome software for this, which could very easily be applied to many hundreds of lights.\n\nMore details:\n\nwww.nervoussquirrel.com/ping_pong_led_sculpture\n\nThe sculpture was commissioned by James LeBaigue - thanks James!"
+  },
+  {
+   "id": "vWzVYrSRWsI",
+   "t": "Mechanical laser window rig",
+   "d": "2016-06-02",
+   "v": 1127,
+   "s": 33,
+   "vertical": false,
+   "desc": "For the Chemical Brothers live show - a mechanical trapdoor operated with a DMX signal, to allow a powerful laser to fire out of a massive 15m wide LED screen.\n\nMore details: www.nervoussquirrel.com/laser_window"
+  },
+  {
+   "id": "hh6MViXIe98",
+   "t": "Interactive chicken",
+   "d": "2016-06-14",
+   "v": 900,
+   "s": 44,
+   "vertical": false,
+   "desc": "Game for Nando's - more details here:\n\nwww.nervoussquirrel.com/nando's_interactive_chicken"
+  },
+  {
+   "id": "dVcuU--KnF8",
+   "t": "Wicker man & flamethrower",
+   "d": "2016-09-15",
+   "v": 604,
+   "s": 51,
+   "vertical": false,
+   "desc": "A spontaneous construction over the August bank holiday 2016 - thanks to everyone who came and drank beer in the field!\n\nwww.nervoussquirrel.com/wicker_man_2016"
+  },
+  {
+   "id": "M53OD38fzHA",
+   "t": "Ferrofluid controlled by MIDI / electromagnets",
+   "d": "2016-11-23",
+   "v": 26000,
+   "s": 103,
+   "vertical": false,
+   "desc": "Some test videos for a project involving four live musicians controlling arrays of electromagnets to make ferrofluid move around.\n\nGet in touch if you'd like to create a similar project - we still have the electromagnet rigs, and it would be great to re-visit the concept using the experience gained from the first outing.\n\nMore details: www.nervoussquirrel.com/ferrofluid"
+  },
+  {
+   "id": "UGfVdh0fe-o",
+   "t": "Project Adrift - Recording the cylinder",
+   "d": "2016-11-23",
+   "v": 1237,
+   "s": 120,
+   "vertical": false,
+   "desc": "1000 audio tracks recorded along a 1.5m aluminium cylinder, controlled by pieces of space debris passing overhead.\n\nProject Adrift was created by Cath Le Couteur and Nick Ryan, programming by Dan Jones and Sean Malikides, machine built by David Cranmer.\n\nMore details: www.nervoussquirrel.com/project_adrift"
+  },
+  {
+   "id": "DGl5eGvhbG4",
+   "t": "Project Adrift - Giant cylindrical phonograph",
+   "d": "2016-11-23",
+   "v": 3544,
+   "s": 183,
+   "vertical": false,
+   "desc": "1000 audio tracks recorded along a 1.5m aluminium cylinder, controlled by pieces of space debris passing overhead.\n\nProject Adrift was created by Cath Le Couteur and Nick Ryan, programming by Dan Jones and Sean Malikides, machine built by David Cranmer.\n\nMore details: www.nervoussquirrel.com/project_adrift"
+  },
+  {
+   "id": "4D7oXg3RNms",
+   "t": "Mind controlled laser lumia",
+   "d": "2016-11-24",
+   "v": 1636,
+   "s": 314,
+   "vertical": false,
+   "desc": "I was going to add music to this, but perhaps it's better if you choose your own. Suggested soundtracks welcome in the comments below...\n\nMore details: www.nervoussquirrel.com/laser_lumia"
+  },
+  {
+   "id": "rErT5oEnW5M",
+   "t": "Conway's Game of Life synth module",
+   "d": "2016-12-05",
+   "v": 5230,
+   "s": 37,
+   "vertical": false,
+   "desc": "Quick test of a trigger module for modular synth. 64 outputs controlled by a MIDI input, or \"game of life\" mode using John Conway's cellular automaton rules.\n\nThe video shows a few percussion modules connected, but it can of course be used to trigger envelope generators, sequencer steps etc.\n\nSynth page: www.nervoussquirrel.com/modular\n\nUses one of those lovely 8x8 LED matrices by Adafruit.\n\nBased on Tyler Hyndman's code: https://github.com/tylo42/Arduino-Game-Of-Life"
+  },
+  {
+   "id": "Y3Q5ypqjWeY",
+   "t": "Solenoid percussion controlled by modular synth",
+   "d": "2017-01-13",
+   "v": 15218,
+   "s": 25,
+   "vertical": false,
+   "desc": "This was a nice commission from Michael Donnelly in Australia. The solenoids are completely isolated from the synth system - it takes low current triggers and then uses a separate power supply to activate the mallets.\n\nLet me know if you want any - they are GBP &pound;250 each, minimum order 3, cheaper if you want more.\n\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "Fj1PhEqVBq4",
+   "t": "Geiger counter synth module with uranium ore",
+   "d": "2017-01-13",
+   "v": 30995,
+   "s": 36,
+   "vertical": false,
+   "desc": "Produces random voltages by comparing the time between clicks. Initially counts three clicks, then takes the time between 1 and 3 as the overall range mapped to 5V, and click 2 as the voltage level. It then waits for the next click to replace click 3, and re-assigns the previous 2 and 3 to the new 1 and 2, if that makes sense.\n\nThe 5V is converted into a control voltage signal, with adjustable range and offset, adapted from Ken Stone's joystick schematic. Glide has also been borrowed from a CGS module. Also produces a trigger output every time the geiger counter is activated.\n\nwww.nervoussquir"
+  },
+  {
+   "id": "V7dIrHZaLAU",
+   "t": "NLC Cellular Automata synth modules",
+   "d": "2017-01-25",
+   "v": 3482,
+   "s": 42,
+   "vertical": false,
+   "desc": "First patch of six NLC Cellular Automata modules.\n\nMore details of the synth here:\n\nwww.nervoussquirrel.com/modular\n\nYou can buy the CA PCBs and many more fantastic modules here:\n\nhttp://nonlinearcircuits.blogspot.co.uk/2013/03/cellular-automata-sequencer-panel-9.html"
+  },
+  {
+   "id": "v3EiLd4cYXY",
+   "t": "Wireless / motion sensing audio electronics test - crows & amen jungle",
+   "d": "2017-06-01",
+   "v": 1718,
+   "s": 59,
+   "vertical": false,
+   "desc": "First test of electronics for the Merge Festival 2017 dodgems installation - more info: \n\nwww.nervoussquirrel.com/merge_festival_dodgems_2017"
+  },
+  {
+   "id": "SM6rPyQ1Gp0",
+   "t": "Musical poster with touch sensors and built in audio - quick test",
+   "d": "2017-09-06",
+   "v": 2123,
+   "s": 11,
+   "vertical": false,
+   "desc": "Let me know if you want any musical posters: one-offs welcome, but they get cheaper the more you order.\n\nChoose up to 12 sound files, and the interactive areas can be any shape you'd like. Poster mounted on 6mm plywood.\n\nThis type had a mini jack output, but built in speakers also an option.\n\nMore info: www.nervoussquirrel.com"
+  },
+  {
+   "id": "VX3GoFIYuFo",
+   "t": "LED sculpture - giant 2.6m lungs",
+   "d": "2017-11-11",
+   "v": 2861,
+   "s": 50,
+   "vertical": false,
+   "desc": "Sculpture commissioned by Roche for Lung Cancer Awareness Month. Get in touch if you'd like something similar.\n\nMore details & build photos: www.nervoussquirrel.com/lungs"
+  },
+  {
+   "id": "-nW9hG0MgNQ",
+   "t": "Giant pulsating lightbulb brain",
+   "d": "2017-12-03",
+   "v": 1809,
+   "s": 26,
+   "vertical": false,
+   "desc": "More details: www.nervoussquirrel.com"
+  },
+  {
+   "id": "l84AwqEhO4Y",
+   "t": "Clockwork brain",
+   "d": "2018-08-30",
+   "v": 1531,
+   "s": 21,
+   "vertical": false,
+   "desc": "www.nervoussquirrel.com"
+  },
+  {
+   "id": "AHReRvcoLDA",
+   "t": "4m high diesel powered robot",
+   "d": "2018-09-03",
+   "v": 5792,
+   "s": 137,
+   "vertical": false,
+   "desc": "www.nervoussquirrel.com/blue_robot\n\nConstruction photos:\n\nwww.nervoussquirrel.com/blue_robot_build\n\nBig thanks to Rob for the drone footage!"
+  },
+  {
+   "id": "_T-SpVhgZto",
+   "t": "Mechanical gramophone for Aero - construction and test footage",
+   "d": "2018-09-19",
+   "v": 8278,
+   "s": 180,
+   "vertical": false,
+   "desc": "More photos: www.nervoussquirrel.com/aero_bubblophone\n\nBuild photos: www.nervoussquirrel.com/aero_bubblophone_build"
+  },
+  {
+   "id": "UGmADF5hmkg",
+   "t": "Theremin / modular synth / Ondomo gong speaker test",
+   "d": "2018-12-13",
+   "v": 3031,
+   "s": 294,
+   "vertical": false,
+   "desc": "Controlling percussive / bell like sounds from the modular synth using CV outputs from a Moog Etherwave Pro theremin. This was just some informal messing about - check out Charlie Draper's other videos for some truly wonderful theremin playing.\n\nAlso at 2:22 some experimenting with the Asaden Ondomo Ondes Martenot being played through a \"m\u00e9tallique\" inspired gong resonator setup.\n\nwww.charliedraper.co.uk\nwww.nervoussquirrel.com\n\nThe poster in the background is for one of the best albums of all time..."
+  },
+  {
+   "id": "fh0FWzRz27k",
+   "t": "303 / 606 / modular synth",
+   "d": "2018-12-14",
+   "v": 3124,
+   "s": 76,
+   "vertical": false,
+   "desc": "Details of the synthesiser:\n\nwww.nervoussquirrel.com/modular\n\nNerdy patch description:\n\nTB-303 synced to TR-606.\n606 trigger output connected to sequencer.\nAudio from 303 through MFOS phaser.\nCV output from 303 connected to MFOS phaser CV input.\nPhaser connected to MFOS echo.\nSequencer triggers connected to clock input of NLC 8 Bit Cipher and CGS burst generator input.\n2 no. LFOs connected to 8 Bit Cipher data inputs.\n2 no. 8 Bit Cipher CV outputs connected to MI Elements 1/VOct input and Strike Timbre.\nCGS Burst Generator connected to MI Elements gate input.\nSequencer trigger outputs connecte"
+  },
+  {
+   "id": "FIMd3jg4TKY",
+   "t": "Laser harp & modular synth test",
+   "d": "2019-03-15",
+   "v": 3065,
+   "s": 87,
+   "vertical": false,
+   "desc": "Not a virtuoso performance - just a quick test triggering the synth.\n\nIt can also play built in pre-recorded sounds. Get in touch if you'd like something similar!\n\nMore details: www.nervoussquirrel.com/laser_harp"
+  },
+  {
+   "id": "GFczJLoRrkY",
+   "t": "Huge LED sculpture: First test of Marcus Lyall's \"In a Heartbeat\"",
+   "d": "2019-06-04",
+   "v": 6585,
+   "s": 145,
+   "vertical": false,
+   "desc": "www.nervoussquirrel.com/marcus_lyall_led_sculpture"
+  },
+  {
+   "id": "eL31wUxgqBo",
+   "t": "Custom synth test",
+   "d": "2019-08-28",
+   "v": 3076,
+   "s": 347,
+   "vertical": false,
+   "desc": "A commission for Yoot Music.\n\nUses light sensors to trigger built in sound files. Various parameters can be modified via the control panel.\n\nMore details:\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "JoQB2LR2aeA",
+   "t": "Giant metal chicken, phase 1",
+   "d": "2019-09-03",
+   "v": 4979,
+   "s": 229,
+   "vertical": false,
+   "desc": "More details:\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "gcR-LfuTPVU",
+   "t": "Arduino controlled hydraulic motor and rams",
+   "d": "2020-02-11",
+   "v": 163295,
+   "s": 30,
+   "vertical": false,
+   "desc": "Quick test of some 70 x 40 x 500 hydraulic cylinders and a 78cm3/rev motor controlled via an Arduino and some relays."
+  },
+  {
+   "id": "VnA5kmwuORo",
+   "t": "LMNC PT2399 Splashback delay module test",
+   "d": "2020-05-27",
+   "v": 2574,
+   "s": 187,
+   "vertical": false,
+   "desc": "Look Mum No Computer Triple Splashback Delay with one additional delay stage, plus \"wet only\" mode and \"invert delay times 2, 3 & 4\" mode.\n\n\nNear the end of the video the delay output is being fed into both the audio and CV inputs of a VCF with the resonance turned up.\n\n\n\nMore details:\n\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "DepND1giLwA",
+   "t": "Polyphonic modular synth",
+   "d": "2020-08-12",
+   "v": 9787,
+   "s": 768,
+   "vertical": false,
+   "desc": "Massive thanks to Annette and Marek for demonstrating the recently completed oscillators and new MIDI to CV converter!\n\nThis was an informal / unrehearsed exploration and the very first time the synth had been played polyphonically. A module with 3 Midimuso Octex boards allows 12 sets of pitch, velocity and gate outputs. \n\nIt's fun to watch the envelope generators lighting up as the keyboard is being played. \n\nThe filter is a YuSynth Minimoog clone, which I highly recommend to absolutely everyone.\n\nMore details of the synth here: nervoussquirrel.com/modular"
+  },
+  {
+   "id": "VLhRjjJ9VJI",
+   "t": "Flying shoes, balloons, small explosions and sheep.",
+   "d": "2020-11-13",
+   "v": 1497,
+   "s": 113,
+   "vertical": false,
+   "desc": "Some tests from a recent commercial for Allbirds shoes. More details:\n\nwww.nervoussquirrel.com/flying_shoes"
+  },
+  {
+   "id": "QVSwWCwe21w",
+   "t": "Crocodile mechanism for Annabel's, Mayfair, London",
+   "d": "2021-09-03",
+   "v": 1315,
+   "s": 57,
+   "vertical": false,
+   "desc": "This was put together in less than a week for the reception area of Annabel's, a club in Mayfair.\n\nThe client was S2 Events - a nice bunch of people, who are also very talented.\n\nMore details: www.nervoussquirrel.com/crocodile_for_annabels"
+  },
+  {
+   "id": "uPixA5OuOJ4",
+   "t": "Mike Harrison Spark-O-Phone demo / Sam Battle Look Mum No Computer synth jam and well reverb test.",
+   "d": "2021-09-03",
+   "v": 6144,
+   "s": 598,
+   "vertical": false,
+   "desc": "Some awesome people came to visit last weekend...\n\nMike of @mikeselectricstuff brought along the Spark-O-Phone, some high voltage wind chimes, and a box full of other magical electronic items.\n\nThere's a well in my garden - we set up a send / return with mic and speaker in there, for Joe Meek style reverb. It sounded \"well\" good.\n\nMore details on the modular: http://www.nervoussquirrel.com/modular\nSam: https://www.lookmumnocomputer.com/\nMike: http://www.electricstuff.co.uk/\nTim: https://www.timhunkin.com/"
+  },
+  {
+   "id": "ixyZMnWNF6k",
+   "t": "Alpaca sound system + laser",
+   "d": "2021-09-05",
+   "v": 1391,
+   "s": 40,
+   "vertical": false,
+   "desc": "The alpaca sound system has a new home, in a side opening shipping container.\n\nThis was a late night test before a party - all ready to go, just needs some people to jump around!\n\nwww.nervoussquirrel.com/alpaca_container\n\nMusic by the very talented Carl Brown."
+  },
+  {
+   "id": "N8G-BFUjiNs",
+   "t": "Very low latency beam sensor triggering audio (works up to 5m)",
+   "d": "2021-09-12",
+   "v": 1022,
+   "s": 11,
+   "vertical": false,
+   "desc": "Prototype for musical staircase.\n\nMore info: www.nervoussquirrel.com/beam_sensor"
+  },
+  {
+   "id": "8WkCduA_i0U",
+   "t": "Mechanical glasses",
+   "d": "2021-09-12",
+   "v": 1660,
+   "s": 15,
+   "vertical": false,
+   "desc": "Mechanical \"zooming\" glasses made for Turner Prize winning artist Martin Creed.\n\nMore info: nervoussquirrel.com/mechanical_glasses"
+  },
+  {
+   "id": "-EQpl_Ny0o0",
+   "t": "Trailer synth December 2021",
+   "d": "2021-12-21",
+   "v": 3461,
+   "s": 128,
+   "vertical": false,
+   "desc": "More details: www.nervoussquirrel.com/trailer_synth\n\n\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "6RMlmYwFkZ4",
+   "t": "nervoussquirrel.com on BBC news Jan 2022",
+   "d": "2022-01-16",
+   "v": 1506,
+   "s": 161,
+   "vertical": false,
+   "desc": "With apologies to London borough of Hackney! Of course you can do pyrotechnics! You can do whatever you want, Hackney!\n\nwww.nervoussquirrel.com\n\nInstagram: nervoussquirreldotcom"
+  },
+  {
+   "id": "-FLS2VIDbqA",
+   "t": "Motorised wheelie bins",
+   "d": "2022-02-18",
+   "v": 1334,
+   "s": 136,
+   "vertical": false,
+   "desc": "First tests of a project commissioned by the Bureau of Silly Ideas.\n\nMore details: www.nervoussquirrel.com/motorised_wheelie_bins\n\nInstagram: nervoussquirreldotcom"
+  },
+  {
+   "id": "VjdRPmqJYyI",
+   "t": "Potato cannon",
+   "d": "2022-04-17",
+   "v": 7302,
+   "s": 80,
+   "vertical": false,
+   "desc": "I have 12 of these air cannons if you need any for a project.\n\nOriginally built for this: nervoussquirrel.com/pizza_hut\n\nBig thanks to Chris Cairns for making the original job happen.\n\nwww.nervoussquirrel.com\n\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "qq4YmOgJC4Q",
+   "t": "Synth jam with Look Mum No Computer, Mitxela, Kai Lab, Totem Recall, Nervous Squirrel and others...",
+   "d": "2022-09-05",
+   "v": 6247,
+   "s": 1459,
+   "vertical": false,
+   "desc": "Some footage of an informal jam session over the August bank holiday weekend 2022.\n\nThanks to everyone who contributed!\n\n00:00 Modular synth\n02:13 Korgs and 808\n03:59 Connecting Tim's very accurate clock\n05:37 Engine noises, featuring the CGS V8 module \n07:19 Smoke grenades\n08:40 The Alpaca Sound System\n10:21 Modular again\n14:32 Fixing a Magneta clocking in clock\n19:21 Tim's MIDI music box\n20:50 Tim's MIDI slide whistles\n23:14 Louis' 3D printer\n23:29 Alpaca again\n\nlookmumnocomputer.com\nmitxela.com\nkailaboratory.com\ntotemrecall.com\nisthis.gd\nkoalasampler.com\nnervoussquirrel.com"
+  },
+  {
+   "id": "dfOtb8_dsqc",
+   "t": "Visiting Henry Dagg",
+   "d": "2022-11-09",
+   "v": 15165,
+   "s": 1750,
+   "vertical": false,
+   "desc": "On Tuesday the 25th of October 2022 Tim Hunkin, Sam Battle and I went to visit the amazing Henry Dagg at his incredible workshop in Faversham, UK.\n\nMore details of the trip here:\n\nhttp://www.nervoussquirrel.com/henry_dagg_visit \n\nHenry has just released an album with Evan Parker, featuring the Stage Cage system, available here:\n\nhttps://falsewalls1.bandcamp.com/track/then-through-now\n\n00:00 Voicycle\n02:20 Hooty Scooty\n07:45 Stage Cage\n10:39 Tape compositions\n17:16 Examining the Mellotron\n23:38 Catastrophony\n27:45 Sharpsichord"
+  },
+  {
+   "id": "3P5Pcg7cHCs",
+   "t": "Robot base work in progress",
+   "d": "2023-01-26",
+   "v": 900,
+   "s": 23,
+   "vertical": false,
+   "desc": "Sponsor this robot! This is just the base - there is a lot more planned.\n\nhttps://www.paypal.com/donate/?hosted_button_id=WUNRPTCWD36AN\n\nAnyone who donates \u00a310 or more will have their name added somewhere on the robot. I need to buy more stepper motors and at least four worm gearboxes, so any donations hugely welcome!\n\nAny donors will also receive a work in progress email + rough CAD drawings...\n\nMore on this project as it progresses.\n\nwww.nervoussquirrel.com"
+  },
+  {
+   "id": "CcemnDxswW0",
+   "t": "Furby Helmet",
+   "d": "2023-04-02",
+   "v": 2269,
+   "s": 66,
+   "vertical": false,
+   "desc": "A wedding present for some very special friends.\nYou can buy one here:\nwww.nervoussquirrel.com/furby_helmet"
+  },
+  {
+   "id": "NETxq7fXFE4",
+   "t": "Uranium ore activity generating CV, gates and triggers: Ore-Some Volts Eurorack modules for sale",
+   "d": "2023-05-01",
+   "v": 9610,
+   "s": 38,
+   "vertical": false,
+   "desc": "Remaining few Ore-Some Volts modules available to purchase here:\nhttp://www.nervoussquirrel.com/modules\n\nJoin the mailing list for stock updates, or follow on Instagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "3pmetOQ_vmI",
+   "t": "Eurorack Conway's Game of Life 64 output pattern generator & MIDI to trigger, now shipping worldwide",
+   "d": "2023-06-21",
+   "v": 3468,
+   "s": 176,
+   "vertical": false,
+   "desc": "A cellular automaton pattern generator that also functions as a MIDI to trigger converter with 64 outputs.\n20HP Eurorack, available here:\nhttp://www.nervoussquirrel.com/conways_game"
+  },
+  {
+   "id": "PY7lcU3bJkE",
+   "t": "Musical leg / modular synth / Hooty Scooty / 1MV Marx generator / Jacob's ladder / flappy birds etc.",
+   "d": "2023-09-01",
+   "v": 1496,
+   "s": 1113,
+   "vertical": false,
+   "desc": "Had some friends over - what an amazing weekend!\nThere's a load more film of Henry, Charlie and Annette playing, which I must upload at some point.\nHuge thanks to everyone!\n\n00:00 Musical leg - built by Totem Recall, played by Tim Jacobs\n01:56 Looking for cockerel sounds as dawn approaches\n02:24 Mechanical flappy birds by Iain Sharp\n03:07 Watercorders by Rosie Carr\n04:23 Mechnical vibraphone by Totem recall\n05:40 Mr. Hunkin on the slackline\n06:00 Mike Harrison's small Marx generator\n06:44 Henry Dagg demonstrates the Hooty Scooty\n07:29 Mike's Jacob's Ladder\n09:18 Hooty Scooty applause\n09:32 Cha"
+  },
+  {
+   "id": "a7ZKdZh9tns",
+   "t": "String Thing: 3 axis eurorack controller",
+   "d": "2024-01-06",
+   "v": 4581,
+   "s": 270,
+   "vertical": false,
+   "desc": "Three axis performance controller with three metre retractable string.\nNow shipping worldwide, buy here: www.nervoussquirrel.com/modules\nJoin the mailing list for updates.\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "x9VmyyR1JBE",
+   "t": "5U to eurorack adapters made to order!",
+   "d": "2024-01-30",
+   "v": 492,
+   "s": 60,
+   "vertical": false,
+   "desc": "http://www.nervoussquirrel.com/modules\nhttps://www.instagram.com/nervoussquirreldotcom"
+  },
+  {
+   "id": "wUZbOVaFR6k",
+   "t": "Goat playing modular synth",
+   "d": "2024-06-27",
+   "v": 33774,
+   "s": 51,
+   "vertical": false,
+   "desc": "Synth modules available here: http://www.nervoussquirrel.com/modules\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "bWO1sOA-tmo",
+   "t": "High voltage explosions / scope snake / plotter minesweeper / synth jam 2024",
+   "d": "2024-08-29",
+   "v": 522,
+   "s": 768,
+   "vertical": false,
+   "desc": "Some bits of video from last weekend...\n\n00:00 Mike Harrison demonstrates the high voltage \"Destruct-o-tron\", a defibrillator capacitor bank that can crush cans, shrink coins, explode various objects, and launch hard discs into the trees.\n02:57 Tim Mitxela's oscilloscope snake\n04:58 Iain Sharp's plotter minesweeper\n06:17 Tim's mini Tesla coil\n07:07 Modular synth jam, including techno legend Gwenan testing the new \"Turmoil\" module. First live performance using Turmoil. Now available from www.nervoussquirrel.com/modules\n\nMike:\n@mikeselectricstuff\nhttp://electricstuff.co.uk/\n\nTim:\n@mitxela\nhttps:"
+  },
+  {
+   "id": "Av59PgbYnf8",
+   "t": "Turmoil: eurorack trigger disrupter by Nervous Squirrel",
+   "d": "2024-08-31",
+   "v": 1230,
+   "s": 175,
+   "vertical": false,
+   "desc": "Available now from http://www.nervoussquirrel.com/modules\nInstagram: @nervoussquirreldotcom\nBig thanks to Gwenan Spearing, Will Muir Llia, Liam Lucas and my neighbour who wishes to remain anonymous for help and encouragement with this module."
+  },
+  {
+   "id": "4BN-qJqqfR8",
+   "t": "Owl hat",
+   "d": "2024-11-01",
+   "v": 785,
+   "s": 250,
+   "vertical": false,
+   "desc": "Get in touch if you need help with any electronic / mechanical projects.\nwww.nervoussquirrel.com\nInstagram: @nervoussquirreldotcom\nMusic by Karsten Pflum.\nThanks to EMF camp for being the best festival ever."
+  },
+  {
+   "id": "g4hiXCRL_CY",
+   "t": "Ore-some Volts synth module: Using jars of uranium ore to manipulate audio",
+   "d": "2024-11-02",
+   "v": 1073,
+   "s": 80,
+   "vertical": false,
+   "desc": "Ore-some Volts synth modules available here:\nwww.nervoussquirrel.com/modules\n\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "3xc4_0b_Izs",
+   "t": "Outdoor kaleidoscopes for a playground",
+   "d": "2025-03-02",
+   "v": 442,
+   "s": 40,
+   "vertical": false,
+   "desc": "Galvanised steel kaleidoscopes, more details here:\nhttp://www.nervoussquirrel.com/kaleidoscopes"
+  },
+  {
+   "id": "F0rLE0w3XDw",
+   "t": "Quick test of interactive turntables",
+   "d": "2025-07-12",
+   "v": 559,
+   "s": 95,
+   "vertical": false,
+   "desc": "This was just through laptop speakers, before the proper sound system was connected.\n\nMore details:\nwww.nervoussquirrel.com/audemars_piguet_interactive_dj_desk"
+  },
+  {
+   "id": "23W-PgwzTG8",
+   "t": "Testing parts of the ghost train for Rebecca Moss",
+   "d": "2025-07-14",
+   "v": 1207,
+   "s": 140,
+   "vertical": false,
+   "desc": "Some clips from setting up the mechanical elements for a ghost train in Switzerland to celebrate Jean Tinguely's 100th birthday.\nMore details: https://www.nervoussquirrel.com/ghost_train\nBuild details: https://www.nervoussquirrel.com/ghost_train_build\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "9IefWWtWAXY",
+   "t": "Synth jam / 1D Pacman / lithium explosion / Bedford engine start / LED sphere / flares / BBQ 2025",
+   "d": "2025-09-01",
+   "v": 624,
+   "s": 895,
+   "vertical": false,
+   "desc": "Huge thanks to everyone who attended. Extra special thanks to Louis and Kait for their incredible talents running the BBQ. Biggest thanks of all to Darren Totem Recall, who worked so hard helping during the week before the party.\n\nAlso thank you to Jack and Steve for the conversations about spiders.\n\n00:00 Tim Mitxela, Sam LMNC, Scott Cutlasses, Mitch Hack Modular & Marek Koala test the amazing Cutlasses \"Gloop\" module connected to a Nervous Squirrel \"String Thing\" module\n\n03:16 Iain Sharp's new one dimensional mechanical Pacman game\n\n03:45 Mike Harrison explodes some lithium batteries\n\n05:22 "
+  },
+  {
+   "id": "xhup-5aW7wk",
+   "t": "Mechanical sheep - first test on Wolverhampton Art Gallery balcony after 2026 restoration",
+   "d": "2026-03-04",
+   "v": 630,
+   "s": 150,
+   "vertical": false,
+   "desc": "Andy Plant's mechanical sheep, restored by Nervous Squirrel Ltd.\nGet in touch if you have a complex sculpture in need of restoration.\nMore details: www.nervoussquirrel.com/sheep\nInstagram: @nervoussquirreldotcom"
+  },
+  {
+   "id": "PI7yC4JJMY4",
+   "t": "Ball pool hearse / flip dots / cannon / LMNC fire organ / disc siren / uniselector game / BBQ 2026",
+   "d": "2026-09-06",
+   "v": 3091,
+   "s": 1404,
+   "vertical": false,
+   "desc": "Thanks everyone, another great one! Next time I'll find a camera with functioning autofocus.\n\n00:00 Find the poo\n\n00:16 The Alpaca Sound System\n\n00:28 Tim Jacobs @mitxela flip dots\n\n03:50 Van de Graaff wand\n\n05:18 @FrazerMerrick Photon Smasher\n\n07:25 Ball pool again\n\n07:30 Chris Cairns @chriscairnstv DIY synth\n\n07:48 Matt Nolan @MattNolanCustom gong\n\n09:37 Air cannon\n\n10:54 @LOOKMUMNOCOMPUTER fire organ\n\n14:57 Iwan Powell's toy sampler\n\n15:36 Disc siren\n\n16:55 The fire organ at night\n\n18:19 Mitch @hackmodular uniselector game (work in progress)\n\n19:46 The business synth\n\n20:18 @mitxela fire ha"
+  }
+ ]
+}

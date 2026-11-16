@@ -1,0 +1,936 @@
+{
+ "channel": {
+  "id": "UCfD7tvNQg7ZrP89VdsY5uIA",
+  "title": "Marb's lab",
+  "handle": "@marbslab",
+  "description": "Hello and welcome to my channel.\n\nWhat's my channel about? The best way to explain it is with a quote from Richard P. Feynman: \n\n\u201cI'm an explorer, okay? I get curious about everything, and I want to investigate all kinds of stuff.\u201d\n\nI am mainly interested in chemistry, robotics, and the combination of the two sciences. I also occasionally build scientific instruments and develop medical devices to",
+  "since": "2023-04-30",
+  "avatar": "https://yt3.ggpht.com/v72dIp0sBhppBFjO-qqAjN5xRmMpjUEkvZdOcbm9BeAGa-0BSSIaGWOQcJkkETNUzIlEHf9pXr8=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "646952",
+  "subscriberCount": "91300",
+  "hiddenSubscriberCount": false,
+  "videoCount": "102"
+ },
+ "videos": [
+  {
+   "id": "H7SJ6UUcWxk",
+   "t": "Short XFS5152CE Speech Synthesis Module demo",
+   "d": "2023-05-10",
+   "v": 1819,
+   "s": 17,
+   "vertical": false,
+   "desc": "XFS5152CE Speech Synthesis Module demo, using only RX (TX on the Arduino Due) and an interrupt pin, an Adafruit PAM8302 breakout board, and a VISATRON 28.40 speaker. For more information check out my according project: https://hackaday.io/project/190732-pill-dispenser-robot"
+  },
+  {
+   "id": "rJIi6-mT41k",
+   "t": "Pill dispenser robot drum positioning test",
+   "d": "2023-05-14",
+   "v": 229,
+   "s": 35,
+   "vertical": false,
+   "desc": "For more information about this Hackaday 2023 robot project, check out my project page on Hackerday.io: https://hackaday.io/project/190732-pill-dispenser-robot"
+  },
+  {
+   "id": "RCrwI2kttXU",
+   "t": "My pill dispenser robot - Hackaday Prize 2023 finalist",
+   "d": "2023-05-28",
+   "v": 1868,
+   "s": 211,
+   "vertical": false,
+   "desc": "For more information on how to build it check out my project page on Hackaday.io: \nhttps://hackaday.io/project/190732-pill-dispenser-robot"
+  },
+  {
+   "id": "suCMnIyDBho",
+   "t": "Modified Miller\u2013Urey experiment based on my ideas and theories #MillerUreyExperiment",
+   "d": "2023-06-10",
+   "v": 19279,
+   "s": 337,
+   "vertical": false,
+   "desc": "Instead of sparks, I use plasma that is controlled by a microcontroller. The plasma is so hot that it oxidizes the nitrogen in the trapped air inside the reaction flask. The Vigreux column serves as intermediate storage for the condensate and is supposed to give it time for chemical reactions before it runs back into the main flask. The starting substance is a mixture of distilled water and 75% formic acid, which form an azeotrope. Formic acid is used because traces of it have been detected spectroscopically in space. The aim of the modified Miller\u2013Urey experiment is to synthesize amino acids "
+  },
+  {
+   "id": "_cF2A0t1L1k",
+   "t": "Building an expansion cloud chamber from scratch - Part 1",
+   "d": "2023-06-17",
+   "v": 1801,
+   "s": 289,
+   "vertical": false,
+   "desc": "#cloudchamber\nMaking the invisible visible - build your own expansion cloud chamber with basic tools and off-the-shelf components."
+  },
+  {
+   "id": "mk58B-Yxln8",
+   "t": "Building an expansion cloud chamber from scratch - Part 2",
+   "d": "2023-06-23",
+   "v": 1511,
+   "s": 517,
+   "vertical": false,
+   "desc": "#cloudchamber\nMaking the invisible visible - build your own expansion cloud chamber with basic tools and off-the-shelf components.\nPart 1: https://www.youtube.com/watch?v=_cF2A0t1L1k"
+  },
+  {
+   "id": "0hJIDPrhcYM",
+   "t": "Building an expansion cloud chamber from scratch - Part 3",
+   "d": "2023-06-27",
+   "v": 1665,
+   "s": 599,
+   "vertical": false,
+   "desc": "#cloudchamber #Americium #Am241\nMaking the invisible visible - build your own expansion cloud chamber with basic tools and off-the-shelf components.\nPart 1: https://www.youtube.com/watch?v=_cF2A0t1L1k\nPart 2: https://www.youtube.com/watch?v=mk58B-Yxln8"
+  },
+  {
+   "id": "IQK2j1axWb0",
+   "t": "Building an expansion cloud chamber from scratch - Part 4",
+   "d": "2023-07-02",
+   "v": 2748,
+   "s": 590,
+   "vertical": false,
+   "desc": "#cloudchamber \nMaking the invisible visible - build your own expansion cloud chamber with basic tools and off-the-shelf components.\nPart 1: https://www.youtube.com/watch?v=_cF2A0t1L1k\nPart 2: https://www.youtube.com/watch?v=mk58B-Yxln8\nPart 3: https://www.youtube.com/watch?v=0hJIDPrhcYM"
+  },
+  {
+   "id": "30ajwENJZyo",
+   "t": "Artificial luminescent fish as a nightlight substitute?",
+   "d": "2023-07-04",
+   "v": 1369,
+   "s": 298,
+   "vertical": false,
+   "desc": "In the television series The Big Bang Theory, the main character Dr. Sheldon Cooper - as a result of mental underachievement - develops luminescent fish as a nightlight substitute. However, the idea and extensive sales plans are dismissed as lunatic by those around him. But sometimes you have to pursue crazy ideas. We produce artificial luminescent fish with the help of chemistry."
+  },
+  {
+   "id": "EeF87A-nhtA",
+   "t": "Building the D\u00f6bereiner's lamp, one of the first modern lighters in history",
+   "d": "2023-07-18",
+   "v": 15589,
+   "s": 539,
+   "vertical": false,
+   "desc": "#dobereiner #lighter #hydrogen\n\nBuilding and demonstration of the D\u00f6bereiner's lamp also called the \"tinderbox\". Invented in 1823 by German chemist Johann Wolfgang D\u00f6bereiner, it is considered one of the first modern lighters and was commercially very successful.\nImage source: Hamburg Historical Museums Foundation - Museum of Hamburg History"
+  },
+  {
+   "id": "r2k6v0iiJ_E",
+   "t": "Building a lab overhead stirrer from scratch",
+   "d": "2023-07-21",
+   "v": 5482,
+   "s": 717,
+   "vertical": false,
+   "desc": "#overheadstirrer\n\nAn overhead stirrer is a type of mechanical stirrer used for stirring solutions in the chemistry laboratory. However, magnetic stirrers are more commonly used for general purposes, as they are both easier to operate and maintain. Overhead stirrers, on the other hand, are better suited for stirring large quantities of solutions or thick suspensions, as well as for dissolving large quantities of solids in a solvent. Another advantage is that one is variable in the heating source. One can even use a Bunsen burner. Also, a variety of different impellers can be used."
+  },
+  {
+   "id": "emi3vWz0_0M",
+   "t": "Making cupro, a synthetic silk",
+   "d": "2023-07-27",
+   "v": 4704,
+   "s": 452,
+   "vertical": false,
+   "desc": "An easy to make artificial silk that requires only a few readily available chemicals. Cupro is also known as cuprammonium rayon. It was invented in 1890. Carbonized fibers were briefly used as filaments in light bulbs."
+  },
+  {
+   "id": "DYStvShjmus",
+   "t": "Kastle-Meyer test (Presumptive blood test)",
+   "d": "2023-08-02",
+   "v": 3776,
+   "s": 393,
+   "vertical": false,
+   "desc": "The Kastle\u2013Meyer test is a presumptive blood test, in which the chemical indicator phenolphthalein is used to detect the possible presence of hemoglobin. The test was named after the American agricultural chemist, Joseph Hoeing Kastle, who in 1901, invented and tested the crude blood test, and the German physician and chemist, Erich Meyer, who modified the test in 1903."
+  },
+  {
+   "id": "_8Uo_8v8WXM",
+   "t": "How to build a modular Hofmann voltameter",
+   "d": "2023-08-04",
+   "v": 2688,
+   "s": 1108,
+   "vertical": false,
+   "desc": "#voltameter #hydrogen #oxigen #electrolysis \n\nDiscover electrochemistry with a homemade Hofmann voltameter. It can be used, for example, to demonstrate the electrolytic decomposition of water. In this process, water is broken down into its two components, oxygen and hydrogen. Only off-the-shelf components and simple tools are used for construction."
+  },
+  {
+   "id": "5_wMIIJ1Bcs",
+   "t": "Some chemistry of the bombardier beetle #BombardierBeetle #h2o2 #potassiumpermanganate",
+   "d": "2023-08-12",
+   "v": 2519,
+   "s": 553,
+   "vertical": false,
+   "desc": "The world's first functional model of a bombardier beetle, followed by a laboratory-scale synthesis of 1,4-benzoquinone, the beetle's venom."
+  },
+  {
+   "id": "utwaGzFb7Vw",
+   "t": "Synthesizing of the banned insecticide lindane - Part 1",
+   "d": "2023-08-20",
+   "v": 1978,
+   "s": 350,
+   "vertical": false,
+   "desc": "#lindane #insecticide #benzene \n\nSynthesis of the banned insecticide lindane. In the first part, the reactant benzene is prepared.\nPart 2: https://www.youtube.com/watch?v=FODS-VU7twc"
+  },
+  {
+   "id": "TNx52I_PN8w",
+   "t": "Improving a cheap digital handheld microscope",
+   "d": "2023-09-02",
+   "v": 3383,
+   "s": 536,
+   "vertical": false,
+   "desc": "#microscope #homemade \n\nConstruction of a digital modular microscope with individually adjustable reflected and transmitted light illumination, based on a cheap handheld digital microscope."
+  },
+  {
+   "id": "FODS-VU7twc",
+   "t": "Synthesizing of the banned insecticide lindane - Part 2",
+   "d": "2023-09-06",
+   "v": 2540,
+   "s": 333,
+   "vertical": false,
+   "desc": "Part 1: https://www.youtube.com/watch?v=utwaGzFb7Vw\nMy homemade microscope I'm using in this video: https://www.youtube.com/watch?v=TNx52I_PN8w\n\nIn case you like to support me, I have a Patreon page: https://www.patreon.com/user?u=95570128\n\nThank you."
+  },
+  {
+   "id": "zI2nuiLZZIs",
+   "t": "Building Otto von Guericke's electrostatic generator",
+   "d": "2023-09-08",
+   "v": 10827,
+   "s": 670,
+   "vertical": false,
+   "desc": "#electrostatics #generator #sulfur \nReconstruction of a historical apparatus of an electrostatic generator according to the principle of the triboelectric effect. Like the original, the sphere is made of pure sulfur."
+  },
+  {
+   "id": "P2UsY5YPzhI",
+   "t": "Robots #shorts",
+   "d": "2023-09-15",
+   "v": 1279,
+   "s": 60,
+   "vertical": false,
+   "desc": "I'm building a 6 DOF robotic arm as a lab assistant."
+  },
+  {
+   "id": "z93KNEuH_is",
+   "t": "Building a replica of Faraday's motor",
+   "d": "2023-09-17",
+   "v": 8684,
+   "s": 581,
+   "vertical": false,
+   "desc": "#FaradaysMotor #HomopolarMotor #ElectricMotor \nMichael Faraday is still a role model for me. He is the epitome of a citizen scientist, from apprentice bookbinder to celebrated natural scientist. He was also one of the last polymaths who made significant discoveries not only in electrodynamics but also, for example, in organic and electrochemistry. When building the motor, I paid particular attention to aesthetics. I use saturated sodium chloride solution as an electrolyte. But you can also use mercury or Galinstan. For operation, one should absolutely use a laboratory power supply with an adju"
+  },
+  {
+   "id": "UUHtmlnnyIQ",
+   "t": "Ammonium dichromate vulcano (Halloween edition)",
+   "d": "2023-10-09",
+   "v": 625,
+   "s": 131,
+   "vertical": false,
+   "desc": "#Ammoniumdichromate #vulcano \nAshes to ashes, dust to dust..."
+  },
+  {
+   "id": "BNgrwRn_xis",
+   "t": "Muscle-Brain Interface",
+   "d": "2023-10-14",
+   "v": 1962,
+   "s": 208,
+   "vertical": false,
+   "desc": "Measurement of electrical activity in muscles and display as multicolor light pulses in an artificial brain.\nMore details about this project can be found here: https://hackaday.io/project/193098-muscle-brain-interface"
+  },
+  {
+   "id": "Q0ec5wdO70Y",
+   "t": "Building a replica of Faraday's generator",
+   "d": "2023-10-20",
+   "v": 15450,
+   "s": 371,
+   "vertical": false,
+   "desc": "#FaradaysGenerator #HomopolarGenerator #FaradayDisc\nIn 1831 Michael Faraday discovered the operating principle of electromagnetic generators. A horseshoe-shaped magnet creates a magnetic field through a disk. When the disk is turned this induces an electric current radially outward from the center toward the rim. The current flows out through the sliding spring contact, to the external circuit, and back into the center of the disk through the axle. In the classical approach, induction seems to be contradictory, this circumstance is expressed in Faraday's paradox, and as in the example of the N"
+  },
+  {
+   "id": "-pLvwzM1WRE",
+   "t": "Interactive diorama lamp",
+   "d": "2023-10-24",
+   "v": 2425,
+   "s": 155,
+   "vertical": false,
+   "desc": "#diorama #chameleon #epoxy #TCS34725\n\nMy first diorama. And it's interactive! An Arduino Pro Micro, a TCS34725 Color Sensor, and an RGB LED make the belly of the chameleon change color depending on the color of the object you hold in front of the sensor. The lamp can also be operated without the color sensor, the RGB LED is custom programmable."
+  },
+  {
+   "id": "Vi4onueT2QI",
+   "t": "Pharaoh's Serpent (Mercury free)",
+   "d": "2023-11-05",
+   "v": 1448,
+   "s": 169,
+   "vertical": false,
+   "desc": "#Pharaohsserpent #Mercuryfree\nFull credit goes to Andres Trujado, who gave me the idea. Check out his YouTube science channel: https://www.youtube.com/@andrestrujado\nNon-toxic calcium gluconate was used instead of mercury(II) thiocyanate. Hexamine fuel tablets provided the necessary heat. The calcium colored the flame orange-red. In addition, some strontium chloride was added to color the flame red at the beginning. Calcium gluconate decomposes and oxidizes when heated, producing water vapor and carbon dioxide. The decomposition products calcium oxide and carbon have a larger volume than the o"
+  },
+  {
+   "id": "gRWu0Tc4I5U",
+   "t": "Growing tin tree",
+   "d": "2023-11-10",
+   "v": 1458,
+   "s": 163,
+   "vertical": false,
+   "desc": "#Tindendrite #Tincrystals #Stannouschloride\n\nEdit: at 2:07 tin oxide should be replaced by tin hydroxy chloride.\nThe close-up of the tin crystals was taken with my self-made microscope. More information about this microscope here: https://www.youtube.com/watch?v=TNx52I_PN8w\nThe footage of the tin tree growing in the petri dish was filmed in fast motion. It took about 7 minutes for the tin tree to fill the petri dish.\nPlease consider supporting me on Patreon. Or buy me a coffee with SuperThanks. Thank you."
+  },
+  {
+   "id": "89Q_BirPrek",
+   "t": "Extracting piperine from black pepper",
+   "d": "2023-11-27",
+   "v": 10128,
+   "s": 713,
+   "vertical": false,
+   "desc": "#piperine #Soxhlet\nExtraction of piperine from black pepper using a Soxhlet apparatus, distillation, and vacuum filtration."
+  },
+  {
+   "id": "issO5CZQO10",
+   "t": "TAST-E, the robot with a sense of taste and smell - Part 1",
+   "d": "2023-12-02",
+   "v": 6346,
+   "s": 373,
+   "vertical": false,
+   "desc": "TAST-E is an animatronic robot head with an artificial tongue and nose. Check out the project page for more information: https://hackaday.io/project/193474-tast-e-the-robot-with-a-sense-of-taste-and-smell\nPart 2: https://www.youtube.com/watch?v=7dhOTonP5ZI"
+  },
+  {
+   "id": "onqfhr6Ku8Q",
+   "t": "Making an old medicine against Syphilis (mercury(II) chloride)",
+   "d": "2023-12-13",
+   "v": 6661,
+   "s": 237,
+   "vertical": false,
+   "desc": "#Mercury #syphilis #poison \nMercury(II) chloride and other mercury compounds were a popular treatment for syphilis for centuries until the first use of penicillin against syphilis in 1943."
+  },
+  {
+   "id": "nytw7UEgy6Q",
+   "t": "California snowball",
+   "d": "2023-12-17",
+   "v": 6963,
+   "s": 221,
+   "vertical": false,
+   "desc": "Making a gel similar to Sterno with a snow-like texture by using over-saturated calcium acetate and ethanol."
+  },
+  {
+   "id": "7dhOTonP5ZI",
+   "t": "TAST-E, the robot with a sense of taste and smell - Part 2",
+   "d": "2023-12-20",
+   "v": 3641,
+   "s": 363,
+   "vertical": false,
+   "desc": "TAST-E is an animatronic robot head with an artificial tongue and nose. Check out the project page for more information: https://hackaday.io/project/193474-tast-e-the-robot-with-a-sense-of-taste-and-smell\nPart one: https://www.youtube.com/watch?v=issO5CZQO10"
+  },
+  {
+   "id": "IX8yuYeyqsc",
+   "t": "Iodoform - Synthesis and antiseptic properties",
+   "d": "2023-12-27",
+   "v": 4395,
+   "s": 487,
+   "vertical": false,
+   "desc": "#Iodoform #synthesis #antiseptic #antibacterial #agar \nMaking iodoform and testing its antiseptic properties. \nIf you like my videos please subscribe, like, and comment. This will support my channel. Thank you."
+  },
+  {
+   "id": "ESCEXPHxU-8",
+   "t": "Two experiments with glucose oxidase #glucoseoxidase",
+   "d": "2024-01-02",
+   "v": 13212,
+   "s": 282,
+   "vertical": false,
+   "desc": "The two experiments show how to produce a glucose reagent based on glucose oxidase and how modern blood glucose meters work in principle.\nhttps://www.laboratoriumdiscounter.nl/de/ promotion code: MARBSLAB2024 (10% discount on all products!)"
+  },
+  {
+   "id": "J5N6T1UyLPI",
+   "t": "Making azobenzene, a  photoswitchable chemical compound #Azobenzene",
+   "d": "2024-01-16",
+   "v": 5478,
+   "s": 385,
+   "vertical": false,
+   "desc": "https://www.laboratoriumdiscounter.nl/en/\nPromotion Code: MARBSLAB2024 (10% off all products).\n\nSynthesis of azobenzene by reduction of nitrobenzene by magnesium.\n\nI am tired. Please consider buying me a coffee via SuperThanks :)"
+  },
+  {
+   "id": "9Zq9lgUBvMw",
+   "t": "Building a high power Spiderman web shooter - Part 1 #Spiderman #Webshooter",
+   "d": "2024-01-18",
+   "v": 2598,
+   "s": 316,
+   "vertical": false,
+   "desc": "The first part is about building a high-pressure spraying system. In the second part, the valve will be controlled via a microcontroller, some pieces will be 3D-printed and some chemistry will be used to produce an artificial spider silk."
+  },
+  {
+   "id": "6jzCVcKGb4k",
+   "t": "Building a photochromic molecular switch",
+   "d": "2024-01-20",
+   "v": 5754,
+   "s": 525,
+   "vertical": false,
+   "desc": "#molecularswitch #photochromic #laser\nThe photochromic molecular switch consists of a 650 nm and a 405 nm laser, two corresponding drivers, a voltage regulator, a temperature sensor, and a beam splitter. The switch is controlled by an Arduino Pro Micro. The 3D-printed holders for the lasers, the beam splitter, and the quartz cuvette are mounted directly on the customized PCB.\n\nEdit: Photochromism in spiropyran works by breaking the C-O bond, converting the spiropyran into its color-emitting merocyanine form."
+  },
+  {
+   "id": "GTxHwHzAYPE",
+   "t": "Building a retractable laser light saber",
+   "d": "2024-02-02",
+   "v": 1773,
+   "s": 419,
+   "vertical": false,
+   "desc": "#lightsaber #retractableLightsaber #retractable #laser\n\nIt works, but there is some room for improvement:\n- Faster linear motor\n- Degassing of the glycerine to remove trapped air\n- Vent valve\n\nAnother option would be not to use a plunger at all, but an easily compressible gas such as CO\u2082. However, you would then have to dissolve CO\u2082 in glycerine to saturation beforehand.\n\nBy the way, the laser beam in the air is not visible to the human eye."
+  },
+  {
+   "id": "okAxeJyEKGg",
+   "t": "Unpacking the Silver Play Button and testing for nickel",
+   "d": "2024-02-09",
+   "v": 277,
+   "s": 248,
+   "vertical": false,
+   "desc": "#SilverPlayButton #unboxing #asmr #nickel \n\nA big thank you goes out to all my subscribers!"
+  },
+  {
+   "id": "kLR-Zd-iFvE",
+   "t": "Laser gun study",
+   "d": "2024-02-17",
+   "v": 541,
+   "s": 183,
+   "vertical": false,
+   "desc": "#lasergun #laser #laserdiode \n\nThe laser has a continuous output of 4 W and up to 20 W in pulsed mode. The trigger is freely programmable via an onboard microcontroller (Arduino Pro Micro clone). The laser draws 1.6 A in continuous mode and is powered by an 11.1 V/1600 mAh V LiPo. Among other things, a laser gun could also be used to destroy biohazard material in vitro. The focal length of the supplied lens is 25 mm. I am planning a second version with an automatic focal length adjustment depending on the distance to the target using a Time-of-Flight (ToF) laser distance sensor. \n\nBefore exper"
+  },
+  {
+   "id": "r058XATmq3Y",
+   "t": "DIY Autosampler demo",
+   "d": "2024-02-20",
+   "v": 1103,
+   "s": 218,
+   "vertical": false,
+   "desc": "#autosampler #robotarm #cncshieldv3\n\nHQ NextPCB: https://www.nextpcb.com\nPCB prototype: https://www.nextpcb.com/pcb-quote\n\nYou can find more information about my autosampler here: https://hackaday.io/project/194623-building-a-flow-injection-analyzer"
+  },
+  {
+   "id": "vmBlwg31CD8",
+   "t": "Building a laser gun with automatic focal point adjustment - Part 1",
+   "d": "2024-02-26",
+   "v": 18414,
+   "s": 436,
+   "vertical": false,
+   "desc": "#lasergun #laserdiode \nPart 1 - Making a 5 W laser using the laser diode PLPT9450LB_E from Osram and some parts from Aliexpress.\nPart 2: https://www.youtube.com/watch?v=6w8p3fl4Q1k"
+  },
+  {
+   "id": "3S-6nWhS2Uw",
+   "t": "Building an underwater humanoid robot - Part 1: Pressure hull",
+   "d": "2024-03-12",
+   "v": 917,
+   "s": 397,
+   "vertical": false,
+   "desc": "#rov #rouv #humanoidrobot\nI'm building an underwater humanoid robot that I want to use to explore the surrounding lakes. The robot is supposed to map the water quality. Maybe I'll even find some treasure."
+  },
+  {
+   "id": "Mp5hzbFdCfY",
+   "t": "Terminator T-800 Brain Chip Badge",
+   "d": "2024-03-14",
+   "v": 2396,
+   "s": 352,
+   "vertical": false,
+   "desc": "#terminator #brainchip #555timer #T-800\nA PCB badge featuring the iconic brain chip from Terminator 2: Judgment Day. This is a tribute to the Terminator's 40th anniversary! (1984-2024). Terminator 1 was the first movie I ever saw in a movie theater when it was released in Germany in 1985. I lived in a small town at the time, and the theater still had the flair of the 1950s. It was this movie that got me interested in robotics."
+  },
+  {
+   "id": "6w8p3fl4Q1k",
+   "t": "Building a laser gun with automatic focal point adjustment - Part 2",
+   "d": "2024-03-16",
+   "v": 2045,
+   "s": 409,
+   "vertical": false,
+   "desc": "#lasergun #laserdiode \nPart 2 - Laser optics, rotating lens\nPart 1: https://www.youtube.com/watch?v=vmBlwg31CD8"
+  },
+  {
+   "id": "TJtfEC2Ql-4",
+   "t": "Building a replica of Tesla's radio-controlled boat",
+   "d": "2024-04-20",
+   "v": 14049,
+   "s": 1546,
+   "vertical": false,
+   "desc": "#nikolatesla #rcboat #drone #nRF24L01  #teslarcboot\nNikola Tesla's radio-controlled boat was the first drone ever. I reconstructed the boat using the drawings in US Patent No. 613,809. I did not replicate the original remote control, but I did design and build my own transmitter and receiver. It is based on the Arduino Nano microcontroller and the 2.4 GHz nRF24L01 transceiver module. The boat was built 1:2 scale. It is 60 cm long and weighs about 8.5 kg to get to the waterline shown in the patent drawings. Over 400 hours of work went into the project."
+  },
+  {
+   "id": "sr9z-H6NyH8",
+   "t": "Dissolving a Nobel Prize gold medal in aqua regia",
+   "d": "2024-04-27",
+   "v": 2207,
+   "s": 298,
+   "vertical": false,
+   "desc": "#aquaregia #gold #nobelprize \nAqua regia is a fuming mixture of 37% hydrochloric acid and 66% nitric acid, optimally in a molar ratio of 1:3. It can dissolve precious metals such as gold and platinum, but not all metals."
+  },
+  {
+   "id": "-3-MdJkPZrU",
+   "t": "Building a desktop record and play robot arm",
+   "d": "2024-05-09",
+   "v": 1353,
+   "s": 948,
+   "vertical": false,
+   "desc": "#robotarm #arduino #MB85RC256V\nSmall Arduino desktop 3DOF record and play robot arm. The end actuator is a vacuum suction cup. A small vacuum pump and a solenoid valve are also included. The customized PCB features a 32 KByte non-volatile I2C FRAM chip (MB85RC256V) on which the robot movements can be stored.\nSorry, but my camera died before I could film the \"infinity loop\" \u00af\\_(\u30c4)_/\u00af"
+  },
+  {
+   "id": "cICFkZL7vv8",
+   "t": "Building a Sputnik automaton",
+   "d": "2024-06-26",
+   "v": 634,
+   "s": 741,
+   "vertical": false,
+   "desc": "#sputnik #space #automaton \n\nThe Sputnik automaton consists of an illuminated, handmade globe around which a model of the Sputnik1 satellite orbits. Like the original, the beeper circuit consists of an astable multivibrator, a Wien bridge oscillator, and an audio amplifier. For this purpose, 6 Russian germanium pnp transistors of type MP40 were used. The diode is made of the semiconductor material germanium as well and also comes from old Russian stocks. The wooden housing is designed to match the typical furniture of the time."
+  },
+  {
+   "id": "xlIpPKyStbo",
+   "t": "Crafting a birthday gift for Dr Andrew Szydlo",
+   "d": "2024-06-28",
+   "v": 529,
+   "s": 737,
+   "vertical": false,
+   "desc": "#AndrewSzydlo #chemistry #birthdaygift \nIn the unlikely event that you don't know Dr. Andrew Szydlo, he is a British chemist and chemistry teacher who is best known for his lectures and talks on chemistry. I highly recommend watching his lectures on the RI channel: https://www.youtube.com/results?search_query=andrew+szydlo+chemistry"
+  },
+  {
+   "id": "Rs96p2HWS00",
+   "t": "Some additional footage of Nikola Tesla's famous RC boat",
+   "d": "2024-07-15",
+   "v": 494,
+   "s": 170,
+   "vertical": false,
+   "desc": "#nikolatesla #rcboat #relaxing\nSome additional recordings of Nikola Tesla's famous RC boat, accompanied by beautiful music. Watch and relax. Please like, share, and subscribe."
+  },
+  {
+   "id": "Xz30onfQ6RM",
+   "t": "Building a Geiger counter and testing different free available radioactive materials",
+   "d": "2024-07-18",
+   "v": 5624,
+   "s": 774,
+   "vertical": false,
+   "desc": "#DIY #geigercounter #radioactive\nDIY \u03b1, \u03b2, and \u03b3 sensitive Geiger counter I designed and built. The highest activity was shown by an old gas mantle containing thorium dioxide, which at that time was a commonly major component of the incandescent mantle, as it is also called. All the radioactive materials can be bought with no restrictions on eBay.\nI also show how to convert cpm to \u00b5Svh."
+  },
+  {
+   "id": "R32K-uHPvi8",
+   "t": "The  Abyss, an 11kg epoxy diorama",
+   "d": "2024-07-28",
+   "v": 643,
+   "s": 1383,
+   "vertical": false,
+   "desc": "#theabyss #diorama #epoxyresin \nI'm a big fan of \u201cThe Abyss\u201d, an American science fiction film from 1989 directed by James Cameron. Since most of the movie takes place underwater and I had an underwater diorama in mind for quite some time, the idea was born to create a diorama as a tribute to the movie. A total of 11kg of epoxy resin was poured. 22 neopixel LEDs provide the lighting for the butterfly-like alien creature, controlled by an Arduino pro micro so that all imaginable light patterns can be programmed. An HW-MS03 radar breakout serves as a motion detector. The diorama is far from perf"
+  },
+  {
+   "id": "xvpirQaqNCo",
+   "t": "Building a galvanically isolated memristor emulator",
+   "d": "2024-08-28",
+   "v": 1119,
+   "s": 585,
+   "vertical": false,
+   "desc": "#memristor #arduino # solidstaterelay\nArduino-compatible memristor emulator on a single PCB. The special feature is that the programmable memristor is galvanically isolated and bidirectional thanks to solid-state relays. The memristor has two connections and is not wired internally as a voltage divider, as is the case with digital potentiometers. The board is designed as an experimental platform. Analog inputs and I2C are broken out so that the memristor can also be controlled by other sensors or devices."
+  },
+  {
+   "id": "HgokhjlXu8Y",
+   "t": "Building a light travelling clock",
+   "d": "2024-09-07",
+   "v": 1049,
+   "s": 560,
+   "vertical": false,
+   "desc": "#clock #planets #solarsystem #carlsagan #4017 \nThis clock shows how long it takes light to travel from the Earth to other planets and the sun. I got the idea from the first of six Christmas lectures Carl Sagan gave at the Royal Institution in 1977. A clock like this is shown there in large format. You can find the link to the video here: https://www.youtube.com/watch?v=aAxvxIOwnWMIf you haven't seen the lectures yet, I recommend watching them all. The model of the Titan III-Centaur main rocket that sent the interstellar probes, Voyager 1 and Voyager 2 into space, is slightly shorter than scale"
+  },
+  {
+   "id": "ZiB3p96-qc8",
+   "t": "Building a multi-purpose electrochemistry device",
+   "d": "2024-09-09",
+   "v": 2129,
+   "s": 915,
+   "vertical": false,
+   "desc": "#electrochemistry #magneticstirrer #invention\nI would like to get more involved with electrochemistry in the future, but these experiments are almost always associated with fiddling, wobbly electrodes, short circuits, loose contacts, and tangled cables, I came up with and built this device, which can be used universally in electrochemistry and simplifies the experimental setups."
+  },
+  {
+   "id": "8T492TxZCrI",
+   "t": "Repeating an experiment they did on Mars to search for life",
+   "d": "2024-09-13",
+   "v": 1713,
+   "s": 833,
+   "vertical": false,
+   "desc": "#lifeonmars #Astrobiology #Viking \nEdit: I accidentally swapped the labels for the x and y axes on the graph\nIn this video I repeat the famous \"labeled release (LR) experiment\" conducted on Mars: https://en.wikipedia.org/wiki/Viking_lander_biological_experiments\nInstead of the radioactive C-14 isotope with which the nutrients were tagged and a Geiger counter, I am using a sensitive and true carbon dioxide sensor.\nThe graph in the video shows the logistic function: https://en.wikipedia.org/wiki/Logistic_function\nVerhulst derived his logistic equation to describe the self-limiting growth of a bi"
+  },
+  {
+   "id": "ng_8gWLobhQ",
+   "t": "A novel bistable photochromic dye memristor",
+   "d": "2024-10-09",
+   "v": 1826,
+   "s": 603,
+   "vertical": false,
+   "desc": "#photochromic #memristor #CMTE\nA first approach for a memristor based on a bistable photochromic dye. The photochromic substance I'm using has the catchy name cis-1,2-dicyano-1,2-bis(2,4,5-trimethyl-3-thienyl)ethene (or 1,2-bis(2,4,5-trimethyl-3-thienyl)-cis-1,2-dicyanoethene). Fortunately, there is an abbreviation: CMTE. The substance is costly (300 euros for 1 g), toxic, and difficult for private researchers to obtain. Nevertheless, I was determined to realize this idea, and I finally succeeded.\u200b\nA few additional words about the function of the photochromic memristor: The 405 nm laser \u201cburns"
+  },
+  {
+   "id": "TlEtR8kII78",
+   "t": "Building a gas chromatograph",
+   "d": "2024-10-12",
+   "v": 27035,
+   "s": 1114,
+   "vertical": false,
+   "desc": "#gaschromatograph #homemade #arduino \nGas chromatography (GC) is a separation technique using gas flow through a column that separates compounds based on both volatility and interaction with the liquid stationary phase. Professional GCs are very expensive and not affordable for schools or amateur researchers. In the video, I will show you how to build a simple CG and a column that can be used to analyze LPG or other low molecular-weight alkanes.\u200b\u200b\nFurther sources of information:\nhttps://www.aatis.de/content/bausatz/AS656_Gaschromatograph\nhttps://www.researchgate.net/publication/299630295_Ein_G"
+  },
+  {
+   "id": "mPBcsChEdZM",
+   "t": "Building a lab-on-a-chip",
+   "d": "2024-11-03",
+   "v": 14841,
+   "s": 896,
+   "vertical": false,
+   "desc": "#LoC #LabOnAChip #Microfluidics #SyringePump\nIn this video, I show you how to build a simple lab-on-a-chip and a very inexpensive, freely programmable (Arduino) syringe pump. This gives you a complete microfluidic system to carry out many experiments. For example, I have chosen a biochemical reaction based on the enzyme glucose oxidase, which can be used to detect glucose."
+  },
+  {
+   "id": "rkgUStPq6g4",
+   "t": "Building an antimony pH meter from scratch",
+   "d": "2024-11-14",
+   "v": 6014,
+   "s": 597,
+   "vertical": false,
+   "desc": "#phmeter #diy #antimony \nIn this video, I show you how to build a simple and inexpensive antimony pH meter. It is especially interesting for me because, unlike the standard glass electrode, it can be miniaturized for a lab-on-a-chip. However, the response is slower and less sensitive to low pH values. It is also susceptible to chemical corrosion. For cost reasons, I chose a copper-copper(II) sulfate electrode instead of the usual silver chloride electrode. As the cell has a low internal resistance, no BNC plug, socket, or shielded cable is required.\nFurther links:\nhttps://en.wikipedia.org/wiki"
+  },
+  {
+   "id": "wE6SI_wmfrk",
+   "t": "Building a micro overhead stirrer for test tubes",
+   "d": "2024-11-22",
+   "v": 1616,
+   "s": 432,
+   "vertical": false,
+   "desc": "#overheadstirrer #3dprinting #testtube #microscale \nAn easy-to-build micro overhead stirrer, especially for micro-scale chemistry. The stirrer will appear again in one of my next videos, as it is necessary to keep oscillating chemical reactions going"
+  },
+  {
+   "id": "6JVp0HF4ycE",
+   "t": "Towards an artificial chemical brain",
+   "d": "2024-12-04",
+   "v": 4348,
+   "s": 794,
+   "vertical": false,
+   "desc": "Sponsor: https://www.nextpcb.com/\n#clockreaction #luminol #robotics\nIn this video, I explore the possibilities of an artificial chemical brain. I show chemical reactions that could serve as building blocks, including an absolutely fascinating clock reaction based on luminol. Then I show a bionic robot hand I built and an interface connecting the chemical and robotics worlds. Finally, the robotic hand is controlled by various chemical reactions.\nImage source: Lab-on-a-chip. (2024, October 29). In Wikipedia. https://en.wikipedia.org/wiki/Lab-on-a-chip\nDetailed information about the luminol clock"
+  },
+  {
+   "id": "e9Ja7LYqQIM",
+   "t": "Home-made spectrometer (new approach)",
+   "d": "2024-12-21",
+   "v": 70972,
+   "s": 835,
+   "vertical": false,
+   "desc": "Sponsor of this video: https://www.pcbway.com/\nPCBs, PCB assembly, 3-D printing, CNC machining, and injection molding  - super fast, high quality, and very affordable. Everything you need for your next project. \n#Spectrometer #Arduino #3dprinted \nIn this video, I show the building and operation of an experimental 3-D-printed spectrometer. It is based on discrete LEDs with specific wavelengths placed on a ring rotated by a stepper motor. The measured values are then used as supporting points for three interpolations (Lagrange, linear, and cubic spline). Another possibility of the spectrometer i"
+  },
+  {
+   "id": "AdfZKD2SkI0",
+   "t": "Building an ammonia analyzer for blood",
+   "d": "2025-02-17",
+   "v": 4396,
+   "s": 1025,
+   "vertical": false,
+   "desc": "#photometer #Berthelot's reagent #ammonia \nSponsor of this video: https://www.pcbway.com/ PCBs, PCB assembly, 3D printing, and CNC machining - super fast, high quality, and very affordable. Everything you need for your next project.\nIn this video, I show how and why I built an ammonia analyzer for blood. The following paper helped me a lot: https://www.researchgate.net/publication/265139075"
+  },
+  {
+   "id": "L9KpFKQ7brY",
+   "t": "Building a small, fully automatic Birkeland-Eyde experimental reactor",
+   "d": "2025-03-14",
+   "v": 40861,
+   "s": 1035,
+   "vertical": false,
+   "desc": "Achtung: Die Herstellung und der Besitz von Salpeters\u00e4ure \u00fcber die erlaubten Konzentrationen sind f\u00fcr Privatpersonen in Deutschland nach der EU-Ausgangsstoffverordnung strafbar.\n#Birkeland-Eyde #nitricacid \nIn this video, I show you how to build a fully automatic Birkeland-Eyde reactor that you can use for further experiments or to produce nitric acid. At the moment, I am working on the theoretical basics of the Birkeland-Eyde process, which are very complex. However, it is necessary to be able to optimize. If you are interested, I will make a follow-up video."
+  },
+  {
+   "id": "31jpvFuUQBI",
+   "t": "Making ammonia from its elements (Haber-Bosch)",
+   "d": "2025-03-20",
+   "v": 30764,
+   "s": 785,
+   "vertical": false,
+   "desc": "#hydrogen #nitrogen #ammonia #haberbosch\nIn this video, I show the synthesis of ammonia from its elements hydrogen and nitrogen, also known as the Haber-Bosch process. The ammonia is then detected using Berthelot's reagent. As a catalyst, I use a mixture of fine iron powder and aluminum oxide. The yield in this experiment is very low. Industrial Haber-Bosch plants work under very high pressure and with better catalysts. Please like and share the video, subscribe, and consider to become a patreon."
+  },
+  {
+   "id": "oqDhGlWtdOc",
+   "t": "The experiment that gave rise to quantum mechanics (Photoelectric effect)",
+   "d": "2025-04-02",
+   "v": 2237,
+   "s": 534,
+   "vertical": false,
+   "desc": "#photoelectriceffect #photon #quantummechanics \nIn this video, I show how to build an apparatus according to Hertz/Hallwachs to demonstrate the photoelectric effect and the dependence of electron emission on the frequency of light by observing the deflection of a needle electroscope."
+  },
+  {
+   "id": "F5reQDD-rhU",
+   "t": "Crystalloluminescence of table salt",
+   "d": "2025-04-05",
+   "v": 1625,
+   "s": 207,
+   "vertical": false,
+   "desc": "#crystalloluminescence #tablesalt #nacl #luminescence \n\nNaCl (table salt) is one of the few known substances in which crystalloluminescence occurs during crystallization. The crystalloluminescence can be explained by the luminescence of excited dopant cations in the crystal lattice of NaCl during the phase transformation from dissolved to solid, and not by triboluminescence of the crystals formed. It is assumed that the phase transformation also involves an energy conversion from potential to electronic energy, which leads to excitation of the contaminating ions; however, this is not chemilumi"
+  },
+  {
+   "id": "dqyfU8cX9rE",
+   "t": "Experimental estimation of absolute zero",
+   "d": "2025-04-15",
+   "v": 4082,
+   "s": 426,
+   "vertical": false,
+   "desc": "#absolutezero #timeofflight #thermodynamics \nExperimental determination of absolute zero using a thermocouple, a ToF sensor, and a gas syringe. Data transmission via microcontroller and a cross-platform serial monitor/plotter (https://github.com/hacknus/serial-monitor-rust/releases). Evaluation in Excel using linear regression."
+  },
+  {
+   "id": "6XdLEXdJWuY",
+   "t": "Building a replica of Leeuwenhoek's single-lens microscope",
+   "d": "2025-05-05",
+   "v": 7535,
+   "s": 908,
+   "vertical": false,
+   "desc": "#Leeuwenhoek #microscope #machining\nVan Leeuwenhoek's one-lens microscope design was cleverer than you might think. Watch the video to find out. Apart from a column drill, I only used basic tools like a hacksaw, files, sandpaper, hammer, and tapping sets. In addition, some parts were soft or silver soldered. The replica is made almost entirely of brass. The original was made of silver. Only the lens is modern. It is made of anti-reflective glass and has a focal length of 2 mm, which results in a magnification of around 125x. Van Leeuwenhoek's single-lens microscopes had a magnification of up t"
+  },
+  {
+   "id": "P9X2qtBVRxA",
+   "t": "Experimental determination of Planck's constant using LEDs",
+   "d": "2025-05-10",
+   "v": 2670,
+   "s": 694,
+   "vertical": false,
+   "desc": "#Planck'sConstant #LED # LinearRegression\nIn this video, I show you how to experimentally determine the Planck constant using LEDs. I have designed a small PCB to make the measurement as convenient as possible. You can also connect an ammeter and, for example, experimentally determine the voltage-current characteristics of the LEDs. The data was analyzed in Excel. Gerber files can be found here: https://github.com/Marbslab/Planck-costant"
+  },
+  {
+   "id": "rd7Y9ZRhcLs",
+   "t": "Bringing a Crookes tube to life",
+   "d": "2025-05-19",
+   "v": 2919,
+   "s": 533,
+   "vertical": false,
+   "desc": "#crookestube #highvoltage #fluorescent \nI bought a Crookes tube from AliExpress, which I gave a base plate and foot made of fine wood and brass feet. It took a few attempts before I got it to work\u2014the secret is aluminum foil.\n\nCrookes tube: https://de.aliexpress.com/item/32851034247.html\nHigh voltage generator: https://highvoltageshop.com/10kV-HV-Generator-Modul-12VDC-1000-bis-10000VDC-Positive-High-Voltage-Generator-einstellbar\n\nYou can support me on Patreon: https://www.patreon.com/user?u=95570128"
+  },
+  {
+   "id": "7fokM82ASSM",
+   "t": "The dawn of electrochemistry",
+   "d": "2025-06-05",
+   "v": 11672,
+   "s": 347,
+   "vertical": false,
+   "desc": "#galvani #frogGalvanoscope #animalElectricity #frankenstein \nLuigi Galvani's discovery, often called \u201canimal electricity\u201d, refers to his observation that a frog's muscles twitched when they came into contact with two different metals. Galvani believed these muscle twitches were caused by an electrical fluid in the body. Although he did not fully understand the exact nature of this \"animal electricity\", his discovery laid the foundation for the understanding of bioelectricity. It inspired Alessandro Volta to invent the first battery."
+  },
+  {
+   "id": "4ivK8oBjy3Y",
+   "t": "DIY Franck-Hertz experiment",
+   "d": "2025-06-09",
+   "v": 4927,
+   "s": 446,
+   "vertical": false,
+   "desc": "#quantumphysics #FranckHertzExperiment #argon  \nA DIY version of the Franck-Hertz experiment. Instead of a costly mercury tube, I use a cheap thyratron tube filled with argon. A special power supply was built for the experiment that provides an adjustable accelerating, retarding and filament voltage. The filament current can also be preset. Analog voltmeters and ammeters are integrated into the power supply. You only need a multimeter set in the \u00b5A range to measure the collector or anode current. As with the Franck-Hertz experiment, the glowing regions can also be seen, although the design of "
+  },
+  {
+   "id": "NhTGQGnlxpo",
+   "t": "Powering a Geissler tube by hand",
+   "d": "2025-06-23",
+   "v": 1855,
+   "s": 455,
+   "vertical": false,
+   "desc": "#wimshurst #geissler #helium \nIn this video, I show you how to operate a Geissler tube with a Wimshurst machine. The Wimshurst machine is from AliExpress, and the Geissler tube is from eBay. Geissler tubes are filled with various gases at low pressure, with metal electrodes at each end. A high voltage of several thousand volts is applied between the electrodes. The high voltage ionizes the gas, causing it to give off light by fluorescence in a glow discharge. The color of the light depends on the gas used. To give it a vintage look, I made a new base from lime wood and tube holders from turned"
+  },
+  {
+   "id": "IGHNvnsykxQ",
+   "t": "Making nitric acid by the Ostwald process",
+   "d": "2025-06-29",
+   "v": 24276,
+   "s": 615,
+   "vertical": false,
+   "desc": "#nitricacid #ostwald #catalyst #drstone \nIn this video, I show you the Ostwald process in an experiment. In the Ostwald process, ammonia is oxidized using a suitable catalyst to produce nitric acid. I use a catalyst that you can buy on Amazon or eBay, which is not expensive. I also show how to build a low-cost, modular lab frame for chemical experiments. Also, check out my Haber-Bosch video: https://www.youtube.com/watch?v=31jpvFuUQBI"
+  },
+  {
+   "id": "E_c2OwGS4c8",
+   "t": "Building a programmable diaphragm pump for the lab",
+   "d": "2025-07-08",
+   "v": 3801,
+   "s": 571,
+   "vertical": false,
+   "desc": "#diaphragmpump #laboratory #arduinonano \nIn this video, I show you how to build a programmable diaphragm pump for the laboratory. You can also use the pump for an aquarium. \nMicrocontroller: Arduino Nano\nDriver: Power MOSFET for the heating bed of a 3D printer\nDiaphragm pump: 12V DC, 10 L/min max.\nInterface: Rotary encoder with push-button function\nDisplay: LCD 16 x 2, I2C\nSupply voltage: 12V DC\nDimensions: 200 x 145 x 54mm\n\nYou can find the wiring diagram and the source code here: https://github.com/Marbslab/lab-pump"
+  },
+  {
+   "id": "eRXgIcXboKU",
+   "t": "DIY water chiller for the chemistry lab",
+   "d": "2025-08-01",
+   "v": 8312,
+   "s": 592,
+   "vertical": false,
+   "desc": "#waterchiller #portablefridge #chemistrylab \nLaboratory in a small space, no water connections? No problem! In the video, I show you how to build a water chiller from a portable freezer, which even allows you to precisely regulate the volume flow of the cooling water. The water chiller runs on 12V DC, so it is completely safe regarding splashing water. It is designed for smaller distillation tasks, and since it cools using a compressor, it is much more effective than cooling with Peltier elements."
+  },
+  {
+   "id": "KC5bLtkEP4U",
+   "t": "Building an immersion photometer",
+   "d": "2025-09-04",
+   "v": 1695,
+   "s": 422,
+   "vertical": false,
+   "desc": "#Photometer #Immersionphotometer #BriggsRauscher\nIn this video, I show you how I built an immersion photometer and used it to analyze the Briggs-Rauscher reaction.\nDesign files can be found here: https://github.com/Marbslab/Immersion-photometer\nCross-platform serial monitor/plotter: https://github.com/hacknus/serial-monitor-rust"
+  },
+  {
+   "id": "2_aZYARTpUw",
+   "t": "Building a rotovap",
+   "d": "2025-09-06",
+   "v": 11225,
+   "s": 866,
+   "vertical": false,
+   "desc": "#rotovap #DIY #homechemistry \nA rotary evaporator, or rotovap for short, is a piece of high-end equipment found in chemical laboratories. Since they are costly, they are usually out of reach for amateur chemists. However, a rotovap is not difficult to build. In this video, I show you how I built my own rotovap for a fraction of the price of a commercial rotovap.\n\nErrata: It's a reflux condenser, but does not return the condensate to the system from which it originated. It just cools the vapor, which condenses and drips in the flask below the condenser. So it's not a reflux process."
+  },
+  {
+   "id": "d33K9Ws4D7Y",
+   "t": "Building a voice-assisted adaptive robot hand",
+   "d": "2025-09-15",
+   "v": 1100,
+   "s": 552,
+   "vertical": false,
+   "desc": "#FRAM #gripper #speechrecognition #machinelearning #terminator \nIn this video, I show how I built a voice-assisted adaptive robot hand. The adaptive gripper is a copy of the FESTO gripper from AliExpress. It is powered by a stepper motor. A photo interrupter ensures precise homing. I designed my own shield for the Arduino Uno, which, in addition to the user interface consisting of 5 push buttons and an OLED, includes a TCM 2210 silent stepper motor driver and a FRAM chip (MB85RC256V) for storing the learned objects. I also use the offline speech recognition module from DFRobot."
+  },
+  {
+   "id": "eoKuQDhld10",
+   "t": "Building a low-cost xenon light source for spectrometry",
+   "d": "2025-10-26",
+   "v": 4008,
+   "s": 527,
+   "vertical": false,
+   "desc": "#xenon #lightsource #opticalfiber #spectrometer \nIn this video, I will show you how to build a low-cost xenon light source with an optical fiber for spectrometry. I use an H7 xenon bulb and the necessary ballast from the automotive sector. You can build the whole thing without a metal lathe or mill, but you should have some manual skills. The optical fiber is made of a special PMMA that also transmits UV light. Ordinary PMMA is suitable for wavelengths from 300 to 900 nm. The xenon light source is a sub-project of a larger project\u2014the construction of an HPLC."
+  },
+  {
+   "id": "TGJCHgutXR8",
+   "t": "Building an autosampler, part 1",
+   "d": "2025-11-05",
+   "v": 1585,
+   "s": 504,
+   "vertical": false,
+   "desc": "#autosampler #scararobot \nIn this video, I begin building the autosampler for my HPLC project. The autosampler will be designed as a SCARA robot. The forearm is actuated by two 30 kg Waveshare bus servos with magnetic encoders, and a Nema 8 stepper motor with 5:1 planetary gearing, enabling the extendable gripper to manipulate sample vials. All aluminum parts were made by hand because I do not own a CNC mill or a metal lathe."
+  },
+  {
+   "id": "V-901oj9vzw",
+   "t": "Start into gel electrophoresis, part 1",
+   "d": "2025-11-28",
+   "v": 1515,
+   "s": 405,
+   "vertical": false,
+   "desc": "#electrophoresis #timer  #labpowersupply\nGel electrophoresis is a method for the separation and analysis of biomacromolecules (DNA, RNA, proteins, etc.) and their fragments, based on their size and charge through a gel. Nucleic acid molecules are separated by applying an electric field to move the negatively charged molecules through a gel matrix of agarose or other substances. Shorter molecules move faster and migrate farther than longer ones because shorter molecules migrate more easily through the pores of the gel. This phenomenon is called sieving. Proteins are separated by the charge in a"
+  },
+  {
+   "id": "Xc_8MQdOksY",
+   "t": "Building a xenon flash bulb driver for my spectrometer",
+   "d": "2025-11-30",
+   "v": 1901,
+   "s": 322,
+   "vertical": false,
+   "desc": "#xenonflashbulb #flashbulbdriver #HamamatsuC12880MA \nIn this video, I demonstrate a simple xenon flash bulb driver that can be controlled using any microcontroller. The triggering of the driver is completely galvanically isolated by an optocoupler. I use the xenon flash bulb as a secondary light source for my Hamamatsu C12880MA spectrometer project."
+  },
+  {
+   "id": "DYzzPooZbzM",
+   "t": "Building a TMP117 high-accuracy temperature probe for pH measurements",
+   "d": "2025-12-01",
+   "v": 2350,
+   "s": 96,
+   "vertical": true,
+   "desc": "#TMP117 #temperature probe #arduino \nCustom circuit board with a high-accuracy TMP117 temperature sensor, encapsulated in a glass tube with non-conductive thermal paste, used for temperature compensation in pH measurements or similar applications. Suitable for Arduino, Raspberry Pi, and ESP32."
+  },
+  {
+   "id": "PMCqWTNizug",
+   "t": "DIY laser module",
+   "d": "2025-12-05",
+   "v": 2643,
+   "s": 399,
+   "vertical": false,
+   "desc": "#laser #laserdiodedriver #laserdiode\nIn the video, I present a simple n-type CW laser driver and show how I built my own laser module."
+  },
+  {
+   "id": "gbEQ0bslXnk",
+   "t": "Building a high-quality launch pad for cluster/mid power rockets",
+   "d": "2025-12-17",
+   "v": 1572,
+   "s": 516,
+   "vertical": false,
+   "desc": "#launchpad #experimentalrockets #rocketry #rockets \nThis is the first part of a video series in which I will send a micro-bio lab as a payload in an amateur rocket to an altitude of about 1 km. Over time, I may also develop my own rocket motor based on eutectic or hypergolic propellants."
+  },
+  {
+   "id": "x2kbrF5kHxI",
+   "t": "N2O (nitrous oxide/laughing gas)",
+   "d": "2025-12-31",
+   "v": 3305,
+   "s": 169,
+   "vertical": false,
+   "desc": "#n2o #nitrousoxide #oxidizer #hybridrocket #laughinggas \nJust a little video about N2O (nitrous oxide/laughing gas). I wish you all a Happy New Year."
+  },
+  {
+   "id": "9yzY5WbTRmg",
+   "t": "Building an autosampler (redesign)",
+   "d": "2026-01-06",
+   "v": 4882,
+   "s": 777,
+   "vertical": false,
+   "desc": "#autosampler #TB6600 #Arduino #Steppermotor #3dprinting \nIn this video, I show how I built an autosampler with a sample carousel. The autosampler can be controlled via serial or I2C or operate independently. An RTC ensures precise date and time display. The laboratory temperature is also displayed. I use an Arduino Mega as the microcontroller. The three stepper motors are controlled by TB6600s. The tray holds 30 sample bottles, each with a capacity of 20 ml. I need the autosampler for my HPLC/spectrometer project. However, the autosampler will first be used in the synthesis of Cd/Se quantum do"
+  },
+  {
+   "id": "XZ83uACRGqE",
+   "t": "Building a 3D printed rocket launch controller",
+   "d": "2026-01-23",
+   "v": 1866,
+   "s": 408,
+   "vertical": false,
+   "desc": "#rocket #launch #ematch #arduino\nIn this video, I show how I built a 3D printed rocket launch controller with a microcontroller (Arduino Nano Every). I also explain how a simple LiPo battery monitor works and how you can determine the capacity based on the voltage. I decided not to implement an e-match checker because the e-matches should already be checked at home with a multimeter, and I mainly fly cluster rockets, which would make things even more complicated (resistors in parallel)."
+  },
+  {
+   "id": "qYv7fb4c8s4",
+   "t": "Building a portable weather station for rocketry",
+   "d": "2026-02-04",
+   "v": 1930,
+   "s": 501,
+   "vertical": false,
+   "desc": "#anemometer #BME280 #arduino #weatherstation \n3D-printed weather station that can be mounted on a camera tripod, featuring a Bosch BME280, an ultrasonic anemometer, a battery monitor, and a 2\" TFT display. An onboard compass allows the anemometer to be aligned northward, displaying the correct wind direction in addition to wind speed."
+  },
+  {
+   "id": "chYhkQcEVxk",
+   "t": "I built a single board analog computer (open source)",
+   "d": "2026-03-05",
+   "v": 5452,
+   "s": 556,
+   "vertical": false,
+   "desc": "#analogcomputer #opamp #oscilloscope #opensource \nIn this video, I show my homemade analog single-board computer. I built it to learn and explore neuromorphic circuits so I can hopefully build a neuromorphic computer one day. The project is open source, the files can be found here: https://github.com/Marbslab/Analog-computer\nThe analog computer features two adders, two multipliers, two integrators, two multi-purpose opamps, and function generators (square, triangle, and sine). The 3D-printed housing has a modular design. I was inspired by the AKAT-1 analog computer from the 1950s. As with the "
+  },
+  {
+   "id": "2Nnawza5svI",
+   "t": "Towards a neuromorphic & wetware computer",
+   "d": "2026-04-24",
+   "v": 3683,
+   "s": 722,
+   "vertical": false,
+   "desc": "#neuromorphic  #wetware #memristor #pong #microfluidics \nSponsor of this video: https://www.pcbway.com/ \nPCBs, PCB assembly, 3D printing, CNC machining, metal sheet fabrication, and injection molding \u2014 super-fast, high-quality, and very affordable. Everything you need for your next project.\n\nIn this video, I\u2019ll give you an overview of my neuromorphic/wetware computer project. I\u2019m also working on a chemical neuron as a microfluidic device.\n\nIdea for the electrode array: https://forum.hackteria.org/t/diy-neuron-chip-instruction/694/4\nWetware computer that uses human neurons: https://corticallabs"
+  },
+  {
+   "id": "GHlUdUFK470",
+   "t": "Building a terrestrial rover to explore the ecosystem, part 1",
+   "d": "2026-05-24",
+   "v": 2906,
+   "s": 630,
+   "vertical": false,
+   "desc": "#Rover #rockerbogie #4WD\nIn this video series, I\u2019m building a terrestrial rover designed to explore the ecosystem. It\u2019s equipped with 4WD and a rocker-bogie suspension system. The camera pan-tilt unit uses bus servos with magnetic encoders. The wheels are from Servo City and have a diameter of 140 mm. Currently, the rover is controlled via a PS2 gamepad (Bluetooth). The frame is made of inexpensive 2020 aluminum extrusions. Other components are laser-cut or 3D-printed. I designed most of the PCBs myself. The rover is powered by a 3S LiPo battery with a capacity of 7.5 Ah. In the next part of t"
+  },
+  {
+   "id": "EOpGNFTjKGE",
+   "t": "Desktop demonstration of the Fischer-Tropsch synthesis",
+   "d": "2026-05-27",
+   "v": 23446,
+   "s": 930,
+   "vertical": false,
+   "desc": "#fischertropsch #snygas #gasoline\nSince I am particularly interested in large-scale chemical processes, I decided to tackle the Fischer-Tropsch synthesis this time. The Fischer\u2013Tropsch process is a series of chemical reactions that converts a mixture of carbon monoxide and hydrogen, known as syngas, into liquid hydrocarbons. These reactions occur in the presence of metal catalysts, typically at temperatures of 150\u2013300 \u00b0C. In total, I spent 200 hours working on this project\u2014one of the most nerve-wracking undertakings."
+  },
+  {
+   "id": "AYMe_Ub4OTM",
+   "t": "Cracking paraffin oil on your desk",
+   "d": "2026-06-10",
+   "v": 19676,
+   "s": 852,
+   "vertical": false,
+   "desc": "#cracking #homelab #bromine  #electrolysis  \nIn this video, I demonstrate how cracking paraffin oil yields flammable gases and liquids. I use bromine water\u2014which I produced in a homemade electrolysis cell\u2014as evidence of the presence of alkenes. Spoiler: the heating jacket had a major malfunction. Fortunately, though, it didn\u2019t happen until after the experiment."
+  },
+  {
+   "id": "WuYh7GcTmAE",
+   "t": "Building an organic flow battery based on green tea",
+   "d": "2026-06-15",
+   "v": 3618,
+   "s": 606,
+   "vertical": false,
+   "desc": "#Flowbattery #Matcha #egcg \nIn this video, we explore organic flow batteries and build one using green tea (matcha). Here, the compound epigallocatechin gallate (EGCG) serves as the electrolyte in an alkaline environment. It\u2019s called a \u201cflow\u201d battery because the electrolyte is moved through a stir bar. In addition to EGCG, gallic acid and pyrogallol can also be used as electrolytes.\nLink to the research paper: https://www.pedocs.de/frontdoor.php?source_opus=17393"
+  },
+  {
+   "id": "PUDvvB-0ALw",
+   "t": "Building a micro distill",
+   "d": "2026-06-26",
+   "v": 4139,
+   "s": 457,
+   "vertical": false,
+   "desc": "#microdistill #temperaturecontroller #microchemistry #homelab \nSince the amounts of substances in chemistry are getting smaller and smaller (microscale chemistry, microfluidics, etc.), I\u2019m attempting to build a microdistiller this time. Of course, this also requires a laboratory heating mantle. Since you can\u2019t buy one for a tiny 25-ml round-bottom flask, I made it myself out of scrap aluminum. The heating mantle could be improved even further if I had a metal lathe."
+  },
+  {
+   "id": "LCzRyWVOMwc",
+   "t": "Building a Hamamatsu phototube flame scanner",
+   "d": "2026-07-08",
+   "v": 2997,
+   "s": 492,
+   "vertical": false,
+   "desc": "#UVTRON #Flamesensor #hamamatsu #R2868 #wildfire\nA 3D-printed 360\u00b0 flame scanner based on the Hamamatsu UVTRON R2868 phototube. I designed it for my terrestrial rover to detect wildfires early on. A slip ring and a bus servo with a magnetic encoder ensure smooth movements. The YouTube channel Project 326 has also created a great video about the R2868 phototube: https://www.youtube.com/watch?v=yh_ctoDg_v4"
+  },
+  {
+   "id": "8LbArCCkqIw",
+   "t": "Building a mini chemistry lab",
+   "d": "2026-07-19",
+   "v": 2753,
+   "s": 450,
+   "vertical": false,
+   "desc": "#chemistryexperiments #homelab  #woodworking  #liebigcondenser\nI designed this mini chemistry lab for beginners and for those who have very little space. Traditional chemistry sets are often bulky, intimidating, and require a lot of storage. You will also learn how to make your own electric test-tube heater and a tiny Liebig condenser from simple materials.\nUseful links:\nhttps://en.wikipedia.org/wiki/Superheating\nhttps://en.wikipedia.org/wiki/Boiling_chip\nhttps://en.wikipedia.org/wiki/Chemistry_set"
+  }
+ ]
+}

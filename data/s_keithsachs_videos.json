@@ -1,0 +1,171 @@
+{
+ "channel": {
+  "id": "UCTkGEt553862BbVGcPGS3YA",
+  "title": "Keith Sachs",
+  "handle": "@keithsachs",
+  "description": "I'm Keith and I like robots!",
+  "since": "2013-09-09",
+  "avatar": "https://yt3.ggpht.com/VQ20iDgktEz9PVF-8SAKQYXPqbwUcg1gy2B8VGsMec3fB_Mue16OEL5WB37fwElX2GQuSUxt=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "71213",
+  "subscriberCount": "3170",
+  "hiddenSubscriberCount": false,
+  "videoCount": "16"
+ },
+ "videos": [
+  {
+   "id": "zADSzTZaWVs",
+   "t": "Trolling my wife via litter box: The Voices.",
+   "d": "2024-01-20",
+   "v": 8581,
+   "s": 610,
+   "vertical": false,
+   "desc": "This video i start my DIY automated litter box project, the focus of this part is antennas and RFID.\n\nmy lonks:\nhttps://www.printables.com/@Flukz_264410\nhttps://discord.gg/ZVeMAaDa\n\nRust resources:\nhttps://doc.rust-lang.org/book/\nhttps://github.com/esp-rs/std-training\n\nSpecial thanks to my wife Audrey, and everyone who helped me in any way.\n\nThank you for watching this video, i really appreciate it. I have a lot of ideas for projects that id love to share here.\n\nalso I am joking about automated litter boxes being too expensive. I just wanted an excuse to make one my self, don't come at me."
+  },
+  {
+   "id": "Nh6cDLkQdDI",
+   "t": "DIY Letter Stamps With OpenSCAD",
+   "d": "2024-03-26",
+   "v": 958,
+   "s": 606,
+   "vertical": false,
+   "desc": "I made DIY letter stamps for my mom using openSCAD a 3d printer. Also some woodworking?\n\nDiscord link: https://discord.gg/KXDtTZWt5Y\nFind the OpenSCAD file here: https://github.com/whattheflukz/stamps\nOpenSCAD: https://openscad.org/\nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/"
+  },
+  {
+   "id": "V-fr0F-bbZo",
+   "t": "litterbox trailer",
+   "d": "2024-03-31",
+   "v": 4497,
+   "s": 24,
+   "vertical": true,
+   "desc": "check out the full video here https://youtu.be/zADSzTZaWVs"
+  },
+  {
+   "id": "tEX2sWz1NA8",
+   "t": "@ludwigs Bidet can eat my @#$!",
+   "d": "2024-06-03",
+   "v": 1926,
+   "s": 606,
+   "vertical": false,
+   "desc": "Huge thank you to my good friend https://www.youtube.com/@BuzzytheBlue, this video wouldn't have been possible without you\nDiscord link:  https://discord.com/invite/htSdsgsGaN\n\nIn this video i made the cursed toilet from the safety third podcast, featuring ludwigs bidet \n\n\ud83c\udfb5 Music licensed from Lickd. The biggest mainstream and stock music platform for content creators\n\nEyes Closed by Imagine Dragons, https://lickd.lnk.to/3qrOHvID License ID: 1zxDMg36bOV\n\nTry Lickd FREE for 14 days for unlimited stock music and get 50% off your first mainstream track: https://app.lickd.co/r/499c50ad7c03413d8517"
+  },
+  {
+   "id": "EvaX5DN9M1w",
+   "t": "toilet trailer",
+   "d": "2024-06-04",
+   "v": 3432,
+   "s": 10,
+   "vertical": true,
+   "desc": "a trailer for https://www.youtube.com/watch?v=tEX2sWz1NA8"
+  },
+  {
+   "id": "chJC_FxGjNQ",
+   "t": "Can Carbonation Suffocate You? (Tested)",
+   "d": "2024-10-09",
+   "v": 1156,
+   "s": 539,
+   "vertical": false,
+   "desc": "This video is a sort of riff on @JoelCreates  \"how many plants do you need to breathe\" video. Where we use a custom co2 sensor based on an esp32c3 and a DFRobot sensor package to find the number of sodas it would take to suffocate from CO2 offgassing by opening bottles and letting the CO2 escape until it reaches lethal levels.\n\nZach: @BuzzytheBlue \nA Discord server?? https://discord.com/invite/htSdsgsGaN\nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/\n#experiment #science #funny"
+  },
+  {
+   "id": "cc09hq9YQbg",
+   "t": "How many Sodas can you open in a room before you Suffocate?",
+   "d": "2024-10-29",
+   "v": 12372,
+   "s": 35,
+   "vertical": true,
+   "desc": "how many sodas can you open in a room and still breathe?"
+  },
+  {
+   "id": "pQuou4Y7Cq4",
+   "t": "HALLOWEEEN",
+   "d": "2024-11-01",
+   "v": 792,
+   "s": 20,
+   "vertical": true,
+   "desc": "No Face clown halloween"
+  },
+  {
+   "id": "ZwSMYJPcMYA",
+   "t": "Keith Sachs Live Stream",
+   "d": "2024-11-02",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "aCLxpYZOeAs",
+   "t": "Click This Video To Give My Cat Treats",
+   "d": "2024-12-04",
+   "v": 1023,
+   "s": 196,
+   "vertical": false,
+   "desc": "Give fern a treat\n\nMy links\nA Discord server?? https://discord.com/invite/htSdsgsGaN\nBluesky: https://bsky.app/profile/keithsachs.com\n\nUseful stuff\nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/"
+  },
+  {
+   "id": "8yi4vWqXVIg",
+   "t": "Making a Utility Vehicle That Packs Into My Carry-on",
+   "d": "2025-11-25",
+   "v": 19434,
+   "s": 1113,
+   "vertical": false,
+   "desc": "Here's a link to the CAD for the carryon truck let me know if you make one!\nhttps://cad.onshape.com/documents/60698978b8fa6d458c943eb2/w/250dcb49706f2700d80763be/e/af3469555d5fb9f425cd3f57?renderMode=0&uiState=6921efda82e722a35bc45aa5\n\ncheckout Sendcutsend: https://sendcutsend.com/\n\nA Discord server?? https://discord.com/invite/htSdsgsGaN\nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/\n\n\ud83c\udfb5 Music licensed from Lickd. The biggest mainstream and stock music platform for content creators.\nBlinding Lights by The Weeknd, https://lickd.lnk.to/WHk3WWID License ID: 7"
+  },
+  {
+   "id": "Ie5U7BGawZw",
+   "t": "truk on a plane",
+   "d": "2025-12-07",
+   "v": 2304,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zgl7KSRk9v8",
+   "t": "The Rocket Fence",
+   "d": "2026-07-25",
+   "v": 1575,
+   "s": 38,
+   "vertical": true,
+   "desc": "a clip from the Kevin show live at @sauceplusofficial 2026 featuring my friend @TheBackyardScientist and myself"
+  },
+  {
+   "id": "YGmxi_uTrrA",
+   "t": "Intercontinental Burrito Missile",
+   "d": "2026-07-27",
+   "v": 1510,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GvJiGG884i4",
+   "t": "Fern's collapsible tent",
+   "d": "2026-08-01",
+   "v": 9180,
+   "s": 29,
+   "vertical": true,
+   "desc": "make your own here: https://cad.onshape.com/documents/1f0e61fc5e5dfd2501150996/w/1c47cb8411160930bea8cb4f/e/a73ca5d4458a25e1d75d0e93"
+  },
+  {
+   "id": "573zoAf0hNY",
+   "t": "Would AI Unalive Me? (Tested)",
+   "d": "2026-08-12",
+   "v": 538,
+   "s": 425,
+   "vertical": false,
+   "desc": "Governments around the world at adopting AI systems for surveillance, police, and military and I want know if these systems would target me. \n\nA Discord server??   https://discord.gg/KXDtTZWt5Y\nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/\n\nMusic by Good Kid music"
+  },
+  {
+   "id": "1NG2rYAJrEo",
+   "t": "A New Halloween Tradition; The First Makers Secret Satan",
+   "d": "2026-10-31",
+   "v": 1798,
+   "s": 523,
+   "vertical": false,
+   "desc": "A Discord server??  https://discord.com/invite/htSdsgsGaN  \nFree online electronics / programming classes: https://rsduhamel.net/rsdacademy.net/\nhttps://makerssecretsatan.com/\nhttps://www.youtube.com/@MISTER.INDUSTRIES\nhttps://www.youtube.com/@UCgdrSViwdNUKaj1eF5xuiQw"
+  }
+ ]
+}

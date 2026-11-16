@@ -52,6 +52,48 @@ Makers so far:
 | CNC Kitchen | 18 | 258 |
 | Made with Layers | 7 | 597 |
 | 3D Printing Nerd | 10 | 1,525 |
+| Thomas Burns | 9 | 15 |
+
+Smaller makers (Tiny and Small channels). Their inventions were drafted automatically with `build/auto_inventions.py`: long-form builds only, multi-part series merged, descriptions taken from the maker's own words. They are a first pass and can be refined by hand.
+
+| Maker | Inventions | Uploads |
+|---|---|---|
+| Ellis Ware | 11 | 12 |
+| Tony Swatton | 7 | 28 |
+| CTK Creations | 4 | 12 |
+| Keith Sachs | 14 | 17 |
+| Clockspring 3D | 9 | 9 |
+| PickentCode | 9 | 9 |
+| Adam Bender | 10 | 11 |
+| Ian Charnas | 17 | 20 |
+| Dr. Sci-Fi | 15 | 54 |
+| Tommy Chaos | 32 | 34 |
+| Lomond Campbell | 31 | 68 |
+| Hench & Scrap | 26 | 63 |
+| Downen Creative Studios | 37 | 73 |
+| Wood Brain | 40 | 91 |
+| Backhaul Studios | 38 | 42 |
+| Les' Lab | 40 | 69 |
+| Diligent Dwarves | 31 | 54 |
+| Laura Mathews | 29 | 68 |
+| Hack Modular | 40 | 166 |
+| Printed Obsession | 40 | 156 |
+| Dave Cranmer | 40 | 109 |
+| Ruth Amos | 40 | 228 |
+| Wekster | 40 | 229 |
+| Dave Fogler | 40 | 134 |
+| BuildDanielBuild | 11 | 102 |
+| Dora Strelko | 40 | 286 |
+| Audrey Ember | 40 | 256 |
+| Chaos Core Tech | 40 | 280 |
+| MandicReally | 40 | 267 |
+| Way of the Wrench | 40 | 221 |
+| Marb's Lab | 40 | 102 |
+| Ragmop and Goose | 22 | 305 |
+| Kynosys | 4 | 370 |
+| Charlie Solis | 40 | 592 |
+| Props To History | 40 | 590 |
+| Canuck Creator | 40 | 1,183 |
 
 ## View it
 
@@ -85,6 +127,6 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 python3 build/build.py index.html $(cat build/makers.txt)
 ```
 
-To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.
+To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), or draft one automatically with `build/auto_inventions.py`, and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.
 
 For a maker whose `OTHER` is an explicit list (Emily), the build stops and lists any new uploads so they can be assigned. For a maker whose `OTHER` is `None` (Look Mum No Computer), unassigned uploads go to "Other uploads" automatically.
