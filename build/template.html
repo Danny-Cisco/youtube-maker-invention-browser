@@ -31,7 +31,8 @@ body.makers-page #chips,body.makers-page #path{display:none}
 .mline .hl{color:var(--accent);font-weight:600}
 .makers{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,500px),1fr));gap:18px;padding-top:6px}
 .maker{display:flex;flex-direction:column;gap:14px}
-.mhead{display:flex;gap:14px;align-items:center;text-decoration:none}
+.mhead{display:flex;gap:14px;align-items:center;text-decoration:none;position:relative}
+.mnum{position:absolute;left:-6px;top:-6px;z-index:1;min-width:24px;height:24px;padding:0 6px;border-radius:12px;background:var(--text);color:var(--bg);font-size:12px;font-weight:700;display:grid;place-items:center;font-variant-numeric:tabular-nums}
 .mhead h2{font-size:22px;margin:0}
 .mhead p{margin:2px 0 0;color:var(--text2);font-size:14.5px}
 .mhead:hover h2{text-decoration:underline}
@@ -410,7 +411,8 @@ function renderHeader(){
     $("hdr").innerHTML = `
       <div class="eyebrow">${SITE}</div>
       <h1><a href="#/">Catch up on the makers</a></h1>
-      <p class="lead">Years of YouTube inventing, sorted into the things they actually built. Pick a maker to see every invention, when it was made, how it did, and every video, article and file about it.</p>`;
+      <p class="lead">Years of YouTube inventing, sorted into the things they actually built. Pick a maker to see every invention, when it was made, how it did, and every video, article and file about it.</p>
+      <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>`;
     return;
   }
   $("hdr").innerHTML = `
@@ -621,12 +623,12 @@ function renderMakers(){
   const matchInv = c => t ? c.inventions.filter(x => (x.name + " " + x.desc).toLowerCase().includes(t)) : [];
   const shown = CREATORS.filter(c => !t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length).sort(MSORT[st.mSort].cmp);
   const ago = d => { const days = (Date.now() - ms(d)) / DAY; return days < 1 ? "today" : days < 2 ? "yesterday" : days < 14 ? Math.round(days) + " days ago" : days < 60 ? Math.round(days / 7) + " weeks ago" : days < 730 ? Math.round(days / 30.4) + " months ago" : Math.round(days / 365) + " years ago"; };
-  main.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers or inventions match “${esc(st.mq)}”.</p>`) + `<div class="wrap makers">${shown.map(c => {
+  main.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers or inventions match “${esc(st.mq)}”.</p>`) + `<div class="wrap makers">${shown.map((c, ci) => {
     const hits = matchInv(c);
     const top = (hits.length ? hits : [...c.inventions]).sort((a, b) => b.views - a.views).slice(0, 3);
     const viewed = c.inventions.filter(x => isSeen(seen, c, x)).length, pct = Math.round(viewed / c.inventions.length * 100);
     return `<article class="maker panel">
-      <a class="mhead" href="#/${c.slug}"><img class="avatar" src="${esc(c.avatar)}" alt="" referrerpolicy="no-referrer"><div><h2>${esc(c.name)}</h2><p>${esc(c.tagline)}</p></div></a>
+      <a class="mhead" href="#/${c.slug}"><span class="mnum" title="Position in the current sort">${ci + 1}</span><img class="avatar" src="${esc(c.avatar)}" alt="" referrerpolicy="no-referrer"><div><h2>${esc(c.name)}</h2><p>${esc(c.tagline)}</p></div></a>
       <div class="mstats">
         <div><b>${c.inventions.length}</b><span>inventions</span></div>
         <div><b><i class="dot long"></i>${c.nLongUploads}</b><span>long-form</span></div>

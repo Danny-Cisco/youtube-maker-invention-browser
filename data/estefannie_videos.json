@@ -1,0 +1,279 @@
+{
+ "channel": {
+  "id": "UCXX7AV8HDBCZXbKRHJYYODg",
+  "title": "Estefannie",
+  "handle": "@estefannie",
+  "description": "feminine rage tech \ud83d\udc95\u2728\ufe0f\ud83d\udc85\n\nInstagram: estefanniegg\nFacebook: Estefannie\n\nFor collaboration and business inquires, please contact my manager at:\nEmail: team@estefannie.com\nForm: https://www.toptechtubers.com/tech-creators/estefannie\n",
+  "since": "2011-09-02",
+  "avatar": "https://yt3.ggpht.com/6rVqBC5ebI6UWFwgrAMWzStW2XTxLhxaCt49obCE4-eiUgzVfB1I0sMNmbZJM6zv--622zmNRQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "2819094",
+  "subscriberCount": "92900",
+  "hiddenSubscriberCount": false,
+  "videoCount": "29"
+ },
+ "videos": [
+  {
+   "id": "aj59L-_7V70",
+   "t": "The Big Oh Algorithm Analysis",
+   "d": "2016-08-04",
+   "v": 54484,
+   "s": 292,
+   "vertical": false,
+   "desc": "I talk about the Big O Notation and go over some code examples to show how to get the time and space complexities. Let me know down below what other videos you would like to see!\n\nVisit www.estefannie.com to learn more about the Big Oh Notation.\n\nFIND ME HERE:\n* http://www.estefannie.com\n* http://instagram.com/estefanniegg\n* http://www.twitter.com/estefanniegg\n\nREFERENCES:\n* The Algorithm Design Manual, Second Edition by Steven S. Skiena\n\nINTRO SONG (by Dj Quads)"
+  },
+  {
+   "id": "5kBP1Kmye10",
+   "t": "The Big Oh Algorithm Analysis 2",
+   "d": "2016-08-24",
+   "v": 24406,
+   "s": 187,
+   "vertical": false,
+   "desc": "I talk about the Big O Notation and go over a O(logn) and O(nlogn) examples.  You can check out the binary search code from example 1 in github: https://github.com/estefanniegg/estefannieExplainsItAll/tree/master/bigOnotation/part2  Let me know down below what other videos you would like to see!\n\nVisit www.estefannie.com to learn more about the Big Oh Notation.\n\nFIND ME HERE:\n* http://www.estefannie.com\n* http://instagram.com/estefanniegg\n* http://www.twitter.com/estefanniegg\n\nREFERENCES:\n* The Algorithm Design Manual, Second Edition by Steven S. Skiena\n\nINTRO SONG (by Dj Quads)"
+  },
+  {
+   "id": "5AxcXHPB3GE",
+   "t": "The Big Oh Algorithm Analysis 3",
+   "d": "2016-09-02",
+   "v": 24022,
+   "s": 178,
+   "vertical": false,
+   "desc": "I talk about the Big O Notation and go over a O(2^n) and O(n!) examples. I explain O(2^n) with a recursive fibonacci function, and explain O(n!) with the traveling salesman problem. You can check out the fibonacci sequence example code in github: https://github.com/estefanniegg/estefannieExplainsItAll/tree/master/bigOnotation/part3  Let me know down below what other videos you would like to see!\n\nFIND ME HERE:\n* http://www.estefannie.com\n* http://instagram.com/estefanniegg\n* http://www.twitter.com/estefanniegg\n\nREFERENCES:\n* The Algorithm Design Manual, Second Edition by Steven S. Skiena\n* htt"
+  },
+  {
+   "id": "Xe8hDQsS6Cc",
+   "t": "Merge Sort Algorithm",
+   "d": "2016-09-15",
+   "v": 5944,
+   "s": 254,
+   "vertical": false,
+   "desc": "Hey World! In this video I go over Merge Sort. I explain when to use it, the algorithm, go over a code example, and it\u2019s time and space complexities. Go to my github account: (https://github.com/estefanniegg/estefannieExplainsItAll/blob/master/mergeSort) now to check out the code! Subscribe to my channel if you\u2019d like to be the first to know when I publish the next video :) Code on dudes and dudettes!\n\nLet me know down below what other videos you would like to see!\n\nFIND ME HERE:\n* http://www.estefannie.com\n* http://instagram.com/estefanniegg\n* http://www.twitter.com/estefanniegg\n* https://git"
+  },
+  {
+   "id": "XxHjg8ck31E",
+   "t": "LINKED LISTS DATA STRUCTURE",
+   "d": "2016-11-20",
+   "v": 8593,
+   "s": 317,
+   "vertical": false,
+   "desc": "Hey World! Here is a Linked Lists tutorial. In this video, I explain what Linked Lists are, I compare Linked Lists to arrays, show the structure, code, basic operations, time and space complexities, and a couple of fun facts. \n\nGo to my github account:(https://github.com/estefanniegg/estefannieExplainsItAll/blob/master/mergeSort) to check out the code if you want to follow along!\n\nSubscribe to my channel if you\u2019d like to be the first to know when I publish the next video :) Code on dudes and dudettes!\n\nLet me know down below what other videos you would like to see!\n\nFIND ME HERE:\n* http://www."
+  },
+  {
+   "id": "slq8gh6M62U",
+   "t": "How to make a 3D Printed Daft Punk Helmet 1 // MAKE SOMETHING",
+   "d": "2018-06-15",
+   "v": 150039,
+   "s": 643,
+   "vertical": false,
+   "desc": "Hey world! I made a 3D printed DAFT PUNK Helmet!!! \n\nTutorial:\nhttps://www.estefannie.com/blog/how-i-made-a-daft-punk-helmet\n\nThis is the first part of the 3 (or 2?) video series. \n\nI decided to make a Daft Punk Helmet for Maker Faire Bay Area 2018 and it took me a month to make.\n\nIn this video I built a lab in my living room, made a box and frame for vacuum forming, \n3D printed the visor for the helmet, and attempted to vacuum form. Stay tuned for the next few steps.\n\nSubscribe to my channel if you\u2019d like to be the first to know when I publish the next video. Comment below and me know what ot"
+  },
+  {
+   "id": "gU3bOE3rxOI",
+   "t": "How to make a 3D Printed Daft Punk Helmet 2 // MAKE SOMETHING",
+   "d": "2018-07-03",
+   "v": 85622,
+   "s": 582,
+   "vertical": false,
+   "desc": "Hey world! I made a 3D printed DAFT PUNK Helmet!!! \n\nTutorial:\nhttps://www.estefannie.com/blog/how-i-made-a-daft-punk-helmet\n\nThis is the second part of the video series. \n\nI decided to make a Daft Punk Helmet for Maker Faire Bay Area 2018 and it took me a month to make.\n\nIn this video I vacuum formed the visor, put together the 3D printed parts to build the helmet, epoxied, bondoed, and sanded the helmet. \nI also explored how to tint the visor. Stay tuned for the grand finale.\n\nSubscribe to my channel if you\u2019d like to be the first to know when I publish the next video. Comment below and me kn"
+  },
+  {
+   "id": "NLSYOH14mAs",
+   "t": "How to make a 3D Printed Daft Punk Helmet 3 // MAKE SOMETHING",
+   "d": "2018-08-02",
+   "v": 94536,
+   "s": 493,
+   "vertical": false,
+   "desc": "Hey world! I made a 3D printed DAFT PUNK Helmet!!! \n\nTutorial:\nhttps://www.estefannie.com/blog/how-i-made-a-daft-punk-helmet\n\nThank you 96Boards for sponsoring this video!\n\nTHIS IS THE GRAND FINALE OF THE DAFT PUNK VIDEO SERIES! AND I AM NEVER TAKING MY HELMET OFF.\n\nI made a Daft Punk Helmet for Maker Faire Bay Area 2018 and it took me a month to finish.\n\nIn this video I used a Dragonboard and a sensor mezzanine to make the addressable LEDs light up to music and sounds, and also preprogrammed a few rainbow patterns. Then, I tinted the visor, painted the helmet, and put it all together in a hot"
+  },
+  {
+   "id": "aNKmiXIaMiI",
+   "t": "Making a light work with Instagram likes",
+   "d": "2019-12-22",
+   "v": 252246,
+   "s": 564,
+   "vertical": false,
+   "desc": "I made a lamp and programmed it to light up every time someone likes a post. \n\n#YTMakersSecretSanta\nMAKERS SECRET SANTA! \n\nFOLLOW EVERYONE: \nKids Invent Stuff https://www.youtube.com/channel/UC-glo52BMvZH9PPUamjGIcw\nColin Furze https://www.youtube.com/user/colinfurze\nThe Hacksmithhttps://www.youtube.com/user/MstrJames\nLook Mum No Computer https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw\nSufficiently Advanced https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A\n\nSubscribe to my channel if you\u2019d like to be the first to know when I publish the next video :) Let me know what other vide"
+  },
+  {
+   "id": "AO4P768-GCo",
+   "t": "I BUILT A ROBOT WITH DEPRESSION AND ANXIETY",
+   "d": "2020-12-23",
+   "v": 239651,
+   "s": 502,
+   "vertical": false,
+   "desc": "If you or someone you know is in emotional distress, please talk to your primary care doctor or another health professional about mental health problems. Details of crisis centers around the world are available at https://www.iasp.info/resources/Crisis_Centres/\n\nIt is Secret Santa v2020 and this year I got James Bruton aaaaaand I bet he doesn't have a robot that has high functioning depression and anxiety because it just went through 2020... So I made him that. THEN I GOT AN INVENTION FROM LOOK MUM NO COMPUTER!!!! AHHH THANK YOU THANK YOU THANK YOU!! #YTMakersSecretSanta\n\nAll the 2020 Secret S"
+  },
+  {
+   "id": "UZfD8xsISR0",
+   "t": "I made a tarot video game that tells you your future",
+   "d": "2021-12-23",
+   "v": 154976,
+   "s": 756,
+   "vertical": false,
+   "desc": "Watch Allen's reaction to the Tarot Machine here: https://www.youtube.com/watch?v=esyiUahdINQ\n\n\n#YTMakersSecretSanta #programming #engineering #girlsinstem #girliesinstem #tarotreading #tarotreader"
+  },
+  {
+   "id": "6jDDZjSyXpc",
+   "t": "I made an ai litterbox with 5000 pictures of poop",
+   "d": "2022-08-28",
+   "v": 42344,
+   "s": 408,
+   "vertical": false,
+   "desc": "ai is weird. special thanks to Teddy Bear and Luna\n\nhere is how I made it: https://www.estefannie.com/blog/f63kkhwgq56u76hjsysy1moy5ttuuf\n\n#machinelearning #ai #artificialintelligence #engineering #programming"
+  },
+  {
+   "id": "P84annPK2ss",
+   "t": "I made a makeup g*n to save time",
+   "d": "2024-01-26",
+   "v": 17215,
+   "s": 50,
+   "vertical": true,
+   "desc": "This is what it feels like to do my makeup every day just to fit into society.\n\n#femininerage #feminineragetech #engineering #makeuptutorial #makeup"
+  },
+  {
+   "id": "bXSnG6PtDWc",
+   "t": "I made knife nails for self-defense",
+   "d": "2024-03-09",
+   "v": 13649,
+   "s": 50,
+   "vertical": true,
+   "desc": "#metalnails #nailart #naildesign #knifenails #knifes #selfdefense #selfcare #engineering"
+  },
+  {
+   "id": "TCRKtLwP6gM",
+   "t": "I made a bra that saves me from pervs",
+   "d": "2024-03-31",
+   "v": 16011,
+   "s": 39,
+   "vertical": true,
+   "desc": "#metalbra #brassiere #metalcore #metalworking #ladygagacore #selfdefense #selfcare #science #engineering"
+  },
+  {
+   "id": "Yo7Ww3yAe4U",
+   "t": "testing my knife nails (\u273f\u25e1\u203f\u25e1) \uff89*:\uff65\uff9f\u2727",
+   "d": "2024-05-31",
+   "v": 7860,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DsqxK3HUI7c",
+   "t": "I made a bra that tells me the weather",
+   "d": "2024-07-22",
+   "v": 13997,
+   "s": 58,
+   "vertical": true,
+   "desc": "I programmed this machine to tell me when it is cold or hot outside.\n\n#femininerage #feminineenergy #engineering #wearabletechnology #shorts"
+  },
+  {
+   "id": "ItpoJpM7ABk",
+   "t": "I made a \ud83c\udf46\ud83c\udfb9 for @alispagnola",
+   "d": "2024-10-19",
+   "v": 20234,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4gPHduzmC88",
+   "t": "I made a zipper to make me decent.",
+   "d": "2025-02-12",
+   "v": 14760,
+   "s": 43,
+   "vertical": true,
+   "desc": "I was told I objectified myself by dressing for the male gaze, a comment that shifts the blame from those causing harm to those experiencing it, reinforcing harmful narratives.\n\n#engineering #feminineragetech #girlsinstem #womenfashion #womenempowerment"
+  },
+  {
+   "id": "BDSZU3YZNPs",
+   "t": "I made an ai microewe",
+   "d": "2025-03-18",
+   "v": 35412,
+   "s": 557,
+   "vertical": false,
+   "desc": "Thank you @TheBackyardScientist and @Allen Pan for trying the ai food \ud83c\udf2f!\n\nThank you Ale, Allen, and Bryan for holding the camera \ud83c\udfa5"
+  },
+  {
+   "id": "yc2OFofY1fs",
+   "t": "today I built a light mount from trash. I might have tetanus.",
+   "d": "2025-10-18",
+   "v": 6265,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "I1baEbp8ljQ",
+   "t": "today I traded my first born for a couple hundred dollars worth of ballistics gel",
+   "d": "2025-10-20",
+   "v": 7242,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "dwY3rOgjV9o",
+   "t": "today I learned that welding is my coping mechanism",
+   "d": "2025-10-24",
+   "v": 6473,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "c2L7nsnMQ0s",
+   "t": "I made @laurakampf a payphone jukebox because she told me to.",
+   "d": "2026-02-24",
+   "v": 9366,
+   "s": 68,
+   "vertical": true,
+   "desc": "I didn't know if I could, but it was actually not that hard with an @Arduino. We found these old pay phones and had to try.\n\n#maker #arduino #upcycle"
+  },
+  {
+   "id": "pv8gO_yDjqI",
+   "t": "I built an emotionally available phone (part 2)",
+   "d": "2026-02-25",
+   "v": 7022,
+   "s": 55,
+   "vertical": true,
+   "desc": "It rains a lot in my hometown in Mexico \ud83e\udd72\ud83d\udc95 and I miss it. So now my payphone checks the weather, calls me when it's raining, and plays my favorite song to cheer me up. \n\nHuge shout out to @Na\u00efaValdez, the last song is from her new album Esoterik \ud83d\udcbf\u2728\ufe0f\ud83d\udd2e\nhttps://www.youtube.com/watch?v=zMs815YC85U\n\n#upcycle #maker #arduinoproject"
+  },
+  {
+   "id": "-8niJ2tk6uE",
+   "t": "@laurakampf and I built a jukebox #arduino #upcycle #retro",
+   "d": "2026-04-05",
+   "v": 9581,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0RupSvVtsGo",
+   "t": "had to reprogram for aesthetic accuracy after the API Paywall of 2023.",
+   "d": "2026-05-13",
+   "v": 4546,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wH03Ltp2ST0",
+   "t": "I automated my cleaning with a Victorian toilet handle. \ud83d\udebd\ud83d\udc85\ud83d\udcbb",
+   "d": "2026-05-27",
+   "v": 4773,
+   "s": 74,
+   "vertical": true,
+   "desc": "I ran OpenCode locally on my laptop to handle the programming and the Snapdragon\u2019s powerful multicore CPU really lets it speed along. So I got to focus on the hardware design!\u00a0Now my Downloads folder cleans itself with a single flush.\n\n#SponsoredBySnapdragon @snapdragon #SnapdragonXSeries\n\nmy Snapdragon powered laptop: \nhttps://amzn.to/4dNwjgm"
+  },
+  {
+   "id": "9rtu-HLTbxA",
+   "t": "#SamsungPartner Making a 3D model to press on a t-shirt with the @Samsung  Galaxy Tab S12 Ultra!",
+   "d": "2026-11-10",
+   "v": 2005044,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

@@ -23,6 +23,18 @@ Makers so far:
 | Hacksmith Industries | 46 | 1,380 |
 | Mark Rober | 40 | 277 |
 | I Did A Thing | 54 | 126 |
+| Nerdforge | 32 | 207 |
+| DIY Perks | 32 | 123 |
+| styropyro | 26 | 205 |
+| Unnecessary Inventions | 60 | 545 |
+| Crescent Shay | 20 | 63 |
+| This Old Tony | 48 | 234 |
+| Becky Stern | 55 | 354 |
+| Kids Invent Stuff | 73 | 577 |
+| Brothers Make | 24 | 206 |
+| Littlejem | 18 | 293 |
+| Mr. Volt | 15 | 57 |
+| Estefannie | 6 | 29 |
 
 ## View it
 
@@ -53,7 +65,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton data/wintergatan data/integza data/hacksmith data/rober data/idat
+python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton data/wintergatan data/integza data/hacksmith data/rober data/idat data/nerdforge data/diyperks data/styropyro data/unnecessary data/shay data/tony data/becky data/kis data/brothers data/jem data/volt data/estefannie
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.

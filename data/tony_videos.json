@@ -1,0 +1,2124 @@
+{
+ "channel": {
+  "id": "UC5NO8MgTQKHAWXp6z8Xl7yQ",
+  "title": "This Old Tony",
+  "handle": "@thisoldtony",
+  "description": "",
+  "since": "2010-09-08",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nJisvM3xWeEdy5fdqPPH63qNEgSGB_uhXdaq_odgkFctw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "241527788",
+  "subscriberCount": "1230000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "234"
+ },
+ "videos": [
+  {
+   "id": "nzKuQQKcclM",
+   "t": "DIY Tig Pedal.MOV",
+   "d": "2012-05-15",
+   "v": 127090,
+   "s": 49,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "ceD8U-TgOH0",
+   "t": "Lathe Taper Attachment",
+   "d": "2013-03-04",
+   "v": 390063,
+   "s": 136,
+   "vertical": false,
+   "desc": "homemade lathe taper attachment.\nprobably beefier than it needs to be, but made of materials on-hand."
+  },
+  {
+   "id": "Dmj42zD8yEs",
+   "t": "diy punch & die",
+   "d": "2013-10-08",
+   "v": 3471388,
+   "s": 1590,
+   "vertical": false,
+   "desc": "first punch and die for the shop press.  15mm round."
+  },
+  {
+   "id": "URvGjZ_mhto",
+   "t": "lathe taper attachment 2",
+   "d": "2013-10-14",
+   "v": 1042259,
+   "s": 1073,
+   "vertical": false,
+   "desc": "long-winded follow up to lathe taper attachment."
+  },
+  {
+   "id": "RjwKQCiDgBQ",
+   "t": "Surface Grinder Rebuild - part 1",
+   "d": "2014-01-05",
+   "v": 555825,
+   "s": 1828,
+   "vertical": false,
+   "desc": "Stumbled into an unexpected machine rebuilt.\n\nFollow along as I try to get more life out of an old grinder.\n\nNote: I'm not a machine rebuilder; not even a hobbyist one.. but I saw no\nreason why that should stop me.  Comments always welcomed."
+  },
+  {
+   "id": "1mfz2lJRSHo",
+   "t": "Surface Grinder Rebuild - part 2",
+   "d": "2014-01-13",
+   "v": 317440,
+   "s": 1651,
+   "vertical": false,
+   "desc": "While I wait for the 55* dovetail cutters to arrive, I finish mapping\nout the wear in the table and saddle -- and tackle the gib.\n\nFollow along as I try to get more life out of an old grinder."
+  },
+  {
+   "id": "WcIkjhJv_oM",
+   "t": "Surface Grinder Rebuild - part 3",
+   "d": "2014-02-17",
+   "v": 521342,
+   "s": 1879,
+   "vertical": false,
+   "desc": "Dovetail cutters are here!\n\nIn this installment we re-cut the dovetails & do more measuring.\n\nAdd clearances back in & talk about some other aspects of rebuilding.\n\nSome people didn't like the machine sound during the sped-up\nportions so I've taken the liberty to add some cheese -- let me\nknow what you think.\n\nAlso, apologies for any flicker.  Not sure what I can do there."
+  },
+  {
+   "id": "iGw7gLNKM18",
+   "t": "Lathe Soft Jaws",
+   "d": "2014-03-01",
+   "v": 349678,
+   "s": 683,
+   "vertical": false,
+   "desc": "Short video of my lathe's soft jaws."
+  },
+  {
+   "id": "6ZKhqn7TozI",
+   "t": "Making a Small Hand Scraper",
+   "d": "2014-07-02",
+   "v": 507503,
+   "s": 903,
+   "vertical": false,
+   "desc": "Perhaps not the most exciting of projects, but I needed one to\ncontinue the grinder rebuild -- thought I'd take the camera along.\n\n\n"
+  },
+  {
+   "id": "M08aD3Uy0Ck",
+   "t": "Lil' Automation Project",
+   "d": "2015-03-01",
+   "v": 102503,
+   "s": 159,
+   "vertical": false,
+   "desc": "Built this about 10 years ago.  It came back a few years after that\nfor new rubber bands and shrink wrap tubing :) when I took \nthis video of it in operation.  \n\nI only recently found it (this morning)..  was a fun project, thought I'd share it.\n\nAll pneumatic, no electronics -- and pretty low-budget!\nUses 3 air cylinders, one valve (5/2?), and air limit switches.\n\nAnd rubber bands, of course!"
+  },
+  {
+   "id": "-P6w-tj8_Tk",
+   "t": "DIY Tig Pedal - Part 2",
+   "d": "2015-05-21",
+   "v": 259082,
+   "s": 1467,
+   "vertical": false,
+   "desc": "If the first TIG pedal video left you asking questions, here's the long winded version that'll make you wish you never asked. :)"
+  },
+  {
+   "id": "K9UA9ZRFwWU",
+   "t": "Fixed Gantry CNC Router Build   Part 1",
+   "d": "2015-11-09",
+   "v": 1121349,
+   "s": 1755,
+   "vertical": false,
+   "desc": "Just like the title says, Part 1 (of 2?) of my Fixed Gantry CNC Router.\nPart 1 shows the basic building blocks coming together through to the frame construction.\n\n\n\n\n\"Life of Riley\" Kevin MacLeod (incompetech.com) \nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/b..."
+  },
+  {
+   "id": "9ntW0aTW92w",
+   "t": "Fixed Gantry CNC Router Build Part 2",
+   "d": "2015-11-26",
+   "v": 647555,
+   "s": 1065,
+   "vertical": false,
+   "desc": "Part 2 (of 3!) of the CNC router build.  Hit a snag with the table that's set me back a bit.  CAD is coming once I get the table figured out and the model updated.\n\nEnjoy!"
+  },
+  {
+   "id": "NZJCxMN9NWk",
+   "t": "Fixed Gantry CNC Router Build Part 3",
+   "d": "2016-01-04",
+   "v": 1205907,
+   "s": 2080,
+   "vertical": false,
+   "desc": "Last installment of the CNC router build.\n\nAnyone interested in just the rubber band rifle.. starts at 26:00.\n\nThisOldRouter CAD: https://drive.google.com/file/d/0BziGqMVEh_qrdlBGTmRKcThVRDg/view?usp=sharing\n\nRoyalty-Free Music from YouTube's Creation Tools. \"The Engagement\" by Silent Partner."
+  },
+  {
+   "id": "jOvGv9aRKFs",
+   "t": "ThisOldRouter - Cutting Steel",
+   "d": "2016-01-10",
+   "v": 591494,
+   "s": 718,
+   "vertical": false,
+   "desc": "Short video to follow up on the \"how about steel?\" questions ..  and some thoughts on accuracy.  Sit back, relax, and watch as I make some bonehead moves trying to figure things out."
+  },
+  {
+   "id": "q7aLiMDHQrM",
+   "t": "ThisOldRouter - XHC MPG",
+   "d": "2016-01-22",
+   "v": 260229,
+   "s": 877,
+   "vertical": false,
+   "desc": "New Toy!  & first experiences with the XHC HB04 MPG"
+  },
+  {
+   "id": "jkgmjIlOVKc",
+   "t": "4th Axis Build",
+   "d": "2016-02-01",
+   "v": 1755056,
+   "s": 1727,
+   "vertical": false,
+   "desc": "Win some / lose some.  Still needs some work, but here's my start on a 4th axis.. you might like following along."
+  },
+  {
+   "id": "aqw-f-lTz-A",
+   "t": "Shoot'n The Poop #1 - End Mill Grinding Fixture",
+   "d": "2016-02-05",
+   "v": 802882,
+   "s": 1065,
+   "vertical": false,
+   "desc": "So, how about those End Mill Grinding Fixtures?\n\nMy apologies for the audio in some place.. my mic started clipping.  Tried to fix best I could."
+  },
+  {
+   "id": "l5m-kA_Oq_4",
+   "t": "Shoot'n The Poop #2 - Import Vise VA4",
+   "d": "2016-02-10",
+   "v": 729220,
+   "s": 1078,
+   "vertical": false,
+   "desc": "Having a look at a 4\" Vertex VA4 milling machine vise.  Turned out better than expected -- mostly measuring/inspection, nothing complicated.\n\nAudio should be better but I still have a cold, please excuse the sexy-time voice."
+  },
+  {
+   "id": "3VAUB_qJIKk",
+   "t": "Shoot'n The Poop #3 - Variety Show",
+   "d": "2016-02-13",
+   "v": 548060,
+   "s": 1449,
+   "vertical": false,
+   "desc": "A little mash-up this time around: I share my thoughts on tungsten electrodes for TIG welding at home (we even get to measuring the radioactivity of Thoriated tungsten!), my thoughts on Insert Tooling in the home shop, and my first try at dressing a resin bonded diamond wheel (mixed results)."
+  },
+  {
+   "id": "uAQLrM1P-YQ",
+   "t": "Making A Lathe Chuck Back Plate",
+   "d": "2016-02-25",
+   "v": 2480579,
+   "s": 1610,
+   "vertical": false,
+   "desc": "Finally got around to building a back plate for my 6\" 4 jaw lathe chuck."
+  },
+  {
+   "id": "R38LmgrXzFI",
+   "t": "New-to-me Mill - Schaublin 13",
+   "d": "2016-03-08",
+   "v": 1266420,
+   "s": 1345,
+   "vertical": false,
+   "desc": "A nice Schaublin 13 fell into my lap -- hit the spot.  This is a short overview / first impressions / clean-up, that sort of thing."
+  },
+  {
+   "id": "uFTQxWlMGeE",
+   "t": "Multimeter Tips & Tricks",
+   "d": "2016-04-01",
+   "v": 570800,
+   "s": 404,
+   "vertical": false,
+   "desc": "Short collection of tips & tricks to make the most of your multimeter in the homeshop."
+  },
+  {
+   "id": "a2LcYKi0o3U",
+   "t": "Taper Tooling  For The Mill",
+   "d": "2016-04-14",
+   "v": 804084,
+   "s": 1218,
+   "vertical": false,
+   "desc": "Just another day in the garage.  Needed some tooling arbors for the new mill, decided to make my own.\n\n3 end mill holders and 1 slitting saw arbor -- 30 taper in this case."
+  },
+  {
+   "id": "ZNWkhxKNHGM",
+   "t": "QCTP Tool Holders for the Lathe",
+   "d": "2016-05-09",
+   "v": 1208367,
+   "s": 1687,
+   "vertical": false,
+   "desc": "More tool holders for the lathe never hurt: shaper project cutting dovetails, first real go with a tapping head, and a bit more on cold bluing."
+  },
+  {
+   "id": "Cw7Mwd6ey6g",
+   "t": "Horizontal Milling - Building the Overarm Support",
+   "d": "2016-05-15",
+   "v": 1765314,
+   "s": 757,
+   "vertical": false,
+   "desc": "Finally got around to building the overarm support for the Schaublin 13. \n\nThe cutter you see at the end is 5/8\" wide, 18T, ~3\" OD.\nCut is 5/8\" (16mm) x 0.4\" deep (10mm).  ~60 RPM @ 0.5 IPM.\n\nI was scared.\n\n\n\n\n-----------------------------------------------------\n\n\n\nCryptic Sorrow - Atlantean Twilight by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100276\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "sFXniBbgbw0",
+   "t": "DIY CNC Welding & 3D Metal \"Printing\"",
+   "d": "2016-05-19",
+   "v": 954299,
+   "s": 682,
+   "vertical": false,
+   "desc": "Don't tell me you haven't wanted to try welding with your CNC router;  complete and utter screwing-about.  Enjoy."
+  },
+  {
+   "id": "jAawhg6JtyY",
+   "t": "Making Springs At Home",
+   "d": "2016-05-25",
+   "v": 4275784,
+   "s": 507,
+   "vertical": false,
+   "desc": "Short video on winding your own springs at home on the lathe."
+  },
+  {
+   "id": "7ngNtK9tKME",
+   "t": "Homemade - Boring Head",
+   "d": "2016-06-10",
+   "v": 2737146,
+   "s": 2159,
+   "vertical": false,
+   "desc": "Title says it all: DIY / homemade boring head.\n\nl0ckcr4ck3r's \"A Boring Rant\": https://youtu.be/GIYy4_1HNTI"
+  },
+  {
+   "id": "Lb_BURLuI70",
+   "t": "Another Thread Cutting Video?!",
+   "d": "2016-06-21",
+   "v": 3433419,
+   "s": 1665,
+   "vertical": false,
+   "desc": "Thread cutting on the lathe.  I know, I know, but had a few requests, thought I'd oblige.  This is pretty general -- to help keep it clear and hopefully easy to understand/follow.  Who knows, maybe it helps a few kids out.  \n\nEnjoy!\n\nMusic: \"Jazz In Paris - Media Right Productions \""
+  },
+  {
+   "id": "84PCB3QE8mY",
+   "t": "Step Stool - The Makening",
+   "d": "2016-08-11",
+   "v": 215962,
+   "s": 508,
+   "vertical": false,
+   "desc": "Building a step stool from rough sawn Ash.\n\nBit of a divergence form the usual; warm-up project to get back into the swing of things.  \n\n\n------------------------------------\n\n\n\nGathering Darkness by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100849\nArtist: http://incompetech.com/\n\nThanks to TIMBRE for the violin stab(s) & A.E. for inception from freesound.org."
+  },
+  {
+   "id": "Y7Z_8feqlyM",
+   "t": "Step Stool - The ReMakening",
+   "d": "2016-08-18",
+   "v": 365033,
+   "s": 646,
+   "vertical": false,
+   "desc": "Follow-through on the step stool build; including never before published intimate excerpts from my diary.\n\n\n\nAcoustic Guitar 1 by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/"
+  },
+  {
+   "id": "qMrlyEreba8",
+   "t": "Making An Espresso ... Pot!",
+   "d": "2016-09-05",
+   "v": 2562614,
+   "s": 1807,
+   "vertical": false,
+   "desc": "Title says it all.\n\n\n\nRain by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://www.twinmusicom.org/"
+  },
+  {
+   "id": "NzXecCoQWgg",
+   "t": "Manual Metal Benders",
+   "d": "2016-09-18",
+   "v": 2499883,
+   "s": 1165,
+   "vertical": false,
+   "desc": "Perhaps not my finest video, but here ya have it.\n\nBuilding some plant stands for the house; thought I'd take the opportunity to chat benders and bending.\n\nExcerpts from \"An Introduction to the Hossfeld Bender\" used with the permission of Hossfeld Manufacturing Company.  \nhttp://www.hossfeldbender.com/"
+  },
+  {
+   "id": "Hn8hDY4bvpI",
+   "t": "Building a Vortex Tube",
+   "d": "2016-09-29",
+   "v": 1328110,
+   "s": 1356,
+   "vertical": false,
+   "desc": "Hey, how about them vortex tubes, eh?\n\nCAD (STEP & IGES): https://drive.google.com/file/d/0BziGqMVEh_qrem9tVXNCNEk4Qnc/view?usp=sharing"
+  },
+  {
+   "id": "6tddHSt6CUQ",
+   "t": "Leaking Ceramic Faucet Fix",
+   "d": "2016-10-16",
+   "v": 681163,
+   "s": 498,
+   "vertical": false,
+   "desc": "Experimental!  Gonna sneak this one in under the radar, behind a better video :)"
+  },
+  {
+   "id": "ArcaDeDQFRc",
+   "t": "Vortex'n 2: Thermic Boogaloo",
+   "d": "2016-10-16",
+   "v": 368525,
+   "s": 816,
+   "vertical": false,
+   "desc": "Got a lot of interest from the vortex video -- having some fun and answering some questions.  Hope you enjoy."
+  },
+  {
+   "id": "tW8HNAlUXxU",
+   "t": "Stock? Mill? Square!",
+   "d": "2016-10-20",
+   "v": 1773344,
+   "s": 1516,
+   "vertical": false,
+   "desc": "Back to basics!  Seems like there just aren't enough stock-squaring videos on the internet.  Thought I'd make one. \n\nMachineshop Physics: Vice deflection - Farfegnugen\nhttps://youtu.be/ckknLkwx9Sw\n\n-------------------\nAshton Manor - Stings by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300043\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "THkb-x35fwc",
+   "t": "Lathe Leveling",
+   "d": "2016-10-28",
+   "v": 791399,
+   "s": 1335,
+   "vertical": false,
+   "desc": "Covering an old classic: Leveling a lathe so it turns concentric parts.\nSpecial guest Keith Fenner!\n\nI've over simplified in few areas -- my intention is to convey / shed light on the general mechanics while still making a watchable video about an otherwise (probably) dry topic.\n\nDale Derry / Metal Tips & Tricks Leveling a Lathe: https://youtu.be/2qIdsnl5vpg"
+  },
+  {
+   "id": "e89g6-A0m2s",
+   "t": "Project Drawbar",
+   "d": "2016-10-31",
+   "v": 1995637,
+   "s": 503,
+   "vertical": false,
+   "desc": "Following through on the drawbar build for the NMTB-30 tooling.\n\n\n\nMusic: \"Gotta Find Out\" - Silent Partner"
+  },
+  {
+   "id": "-uPAjIOkLVA",
+   "t": "Let's Talk Oxy Acetylene",
+   "d": "2016-11-06",
+   "v": 1981068,
+   "s": 1132,
+   "vertical": false,
+   "desc": "Maintenance on the torch rig & shootin the breeze.\n\nCheck out WeldingTipsAndTricks here: https://www.youtube.com/user/weldingtipsandtricks\n\n--------------------\nMusic: The Muffin Man (The Green Orbs)"
+  },
+  {
+   "id": "sjn6qeFzQCA",
+   "t": "CNC Sword",
+   "d": "2016-11-12",
+   "v": 737469,
+   "s": 643,
+   "vertical": false,
+   "desc": "CNC sword for the boy.\n\nIf you're interested, CAD is here: \nhttps://drive.google.com/file/d/0BziGqMVEh_qrSzdJMEo0RF9tQ2s/view?usp=sharing\n\n------\nCarefree Melody by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://www.twinmusicom.org/song/302/carefree-melody\nArtist: http://www.twinmusicom.org"
+  },
+  {
+   "id": "bPoOvy3elD8",
+   "t": "DIY Parabolic Solar Cooker",
+   "d": "2016-11-14",
+   "v": 517859,
+   "s": 380,
+   "vertical": false,
+   "desc": "Short video; science project with my daughter.. and some parabolic cooker talk."
+  },
+  {
+   "id": "YBGqknN3gGs",
+   "t": "CNC Dummies For Routers",
+   "d": "2016-11-20",
+   "v": 665069,
+   "s": 851,
+   "vertical": false,
+   "desc": "Since its founding in 1892, This Old Tony's gotten quite a few requests for a basic CNC video.  Here it is.\nPROS:  It's Basic!\nCONS:  It's Basic!\n\nThat said, for the CNC newcomer,  there's a lot packed into 14 minutes.  You may want to watch at 1/4 speed. :)"
+  },
+  {
+   "id": "gZTUFev08H0",
+   "t": "Shoot'n The Poop #4 - Toys For TOT!",
+   "d": "2016-12-01",
+   "v": 711232,
+   "s": 1518,
+   "vertical": false,
+   "desc": "Talk is cheap and I'm cashing in some chips! \n(I don't even know what that means, but maybe you'd enjoy chatting for a spell; bought some junk, thought we'd talk about it.)"
+  },
+  {
+   "id": "-zXfydde_nE",
+   "t": "Project Vise Handle",
+   "d": "2016-12-21",
+   "v": 948095,
+   "s": 447,
+   "vertical": false,
+   "desc": "Vise handle build: 14mm square drive. Come along for the ride?"
+  },
+  {
+   "id": "J4bMAIEFCYU",
+   "t": "CNC Basics 2",
+   "d": "2016-12-23",
+   "v": 685959,
+   "s": 1511,
+   "vertical": false,
+   "desc": "Before you dive it: this video likely ain't for everyone.\n  \nA follow up video to the previous CNC intro.  Baby steps.  If they're helpful I can keep turning up the difficulty knob  -- otherwise it's back to making vise handles.\n\nCan never have enough vise handles."
+  },
+  {
+   "id": "JBDNu_ViHlU",
+   "t": "Building a Fly Cutter - Part 1",
+   "d": "2016-12-30",
+   "v": 970327,
+   "s": 740,
+   "vertical": false,
+   "desc": "Part 1 of 2 - Building a fly cutter.\n\nAm not a big fan of multi-part videos, but .. act of god:  Mill went down.  Might take a bit to get it sorted, so I'm doing a 2 parter.  Apologies ahead of time."
+  },
+  {
+   "id": "Z8XLkmNORkg",
+   "t": "Building a Fly Cutter - Part 2",
+   "d": "2017-01-02",
+   "v": 726916,
+   "s": 959,
+   "vertical": false,
+   "desc": "Part 2 of 2 of the fly cutter build."
+  },
+  {
+   "id": "LQ6MFPZLzII",
+   "t": "Building a Fly Cutter - Addendum",
+   "d": "2017-01-03",
+   "v": 412882,
+   "s": 626,
+   "vertical": false,
+   "desc": "Some Q&A; a follow-up of sorts, for the fly cutter build.\n\nHope this answers some questions!"
+  },
+  {
+   "id": "__A2xtLF0AU",
+   "t": "Grinding HSS Tools",
+   "d": "2017-01-11",
+   "v": 3213840,
+   "s": 2038,
+   "vertical": false,
+   "desc": "A slightly different take on grinding your own tools for the shop.\n\nI was going to call this video \"Making The Case for Insert Tooling\" but that'll be part 2. :)\n\nI start from the very basics; if you're a ninja-level tool grinder, yes, this might hurt a bit."
+  },
+  {
+   "id": "rsFFWYo8ugw",
+   "t": "A Brief Chat about Carbide Tooling",
+   "d": "2017-01-20",
+   "v": 2332113,
+   "s": 1689,
+   "vertical": false,
+   "desc": "Short follow up to the HSS grinding video, brief chat about carbide to round out the cutting tool discussion.  \n\nTried to pack what I know about carbide in under 30 mins.\n\nAlso demo a Kennametal tool from Maineiacs Tool Crib:\nhttps://maineiacstoolcrib.com/\n\nCarbide Depot Insert Designation reference:\nhttp://www.carbidedepot.com/formulas-insert-d.htm"
+  },
+  {
+   "id": "yGB3vD7sEgQ",
+   "t": "Taper Tooling Tightening Fixture",
+   "d": "2017-01-24",
+   "v": 625947,
+   "s": 368,
+   "vertical": false,
+   "desc": "Short project / long overdue: taper tooling tightening fixture -- say that 5 times fast.\n--------------------------------\nMusic: Pink Lemonade - Silent Partner"
+  },
+  {
+   "id": "CE1epUFRgHA",
+   "t": "Shoot'n The Poop #5 - Just Plain Random",
+   "d": "2017-02-02",
+   "v": 890517,
+   "s": 1885,
+   "vertical": false,
+   "desc": "Storytime! Just a lot of talk'n while I get to know a new camera.\nAudio's a little.. funny?.. bear with me; am slowly figuring it out.\n\n5:18 - ball turner\n9:50 - cosine error\n16:03 - camera & video stuff\n20:35 - new cordless drill\n23:27 - tangential cutting tools\n\n\n\n-------\nrobot transform audio by VectorSpace"
+  },
+  {
+   "id": "vJIzkIc_wIU",
+   "t": "Stress, Strain & DIY Tool Holder",
+   "d": "2017-02-15",
+   "v": 1251137,
+   "s": 1748,
+   "vertical": false,
+   "desc": "100k subs! Who'da thought?!\n\nBuilding an insert tool for my flycutter gets me into milling, finishing and hardening D3 tool steel, including a spark test, with a chat about hardness, rigidity, stress, and strain.  All over the place.\n\n\nBe sure to check out:\n\nABOM79 https://www.youtube.com/user/Abom79\nOxToolCo https://www.youtube.com/user/oxtoolco\nOutsideScrewball https://www.youtube.com/user/outsidescrewball\nBasement Shop Guy https://www.youtube.com/user/BasementShopGuy\nNYCCNC https://www.youtube.com/user/saunixcomp\nStefan Gotteswinter https://www.youtube.com/user/syyl\nLaura Kampf https://www."
+  },
+  {
+   "id": "jqaWBfLcS28",
+   "t": "This Old Diary",
+   "d": "2017-02-23",
+   "v": 344784,
+   "s": 387,
+   "vertical": false,
+   "desc": "Look.. if there's metal in the video.. it still counts right?"
+  },
+  {
+   "id": "X82o_Dpz97c",
+   "t": "Tig Torch 'n Stuff",
+   "d": "2017-02-26",
+   "v": 387987,
+   "s": 1048,
+   "vertical": false,
+   "desc": "Trying a smaller 9 size torch instead of old faithful 17.  Brief chat about torch parts, gas lenses, some stainless 'welding' & pickling."
+  },
+  {
+   "id": "bHJzbLNW72c",
+   "t": "Coring Auger",
+   "d": "2017-03-10",
+   "v": 1034064,
+   "s": 421,
+   "vertical": false,
+   "desc": "There are some really good project videos on YouTube.\nAnd then there's this one. \n\n--------------\n\nElectrodoodle by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200079\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "ycoCwoplU6Y",
+   "t": "ORIGINS   (feat. Clickspring)",
+   "d": "2017-03-23",
+   "v": 619149,
+   "s": 686,
+   "vertical": false,
+   "desc": "*** WARNING: THIS VIDEO CONTAINS FLASHING IMAGES. ***\na truck load of awesomeness, but also flashing images.\n\nA special thanks to Chris of Clickspring -- be sure to check out his amazing work at: \nhttps://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA\n\nThanks also to Adam, AvE, and Stefan, appreciate you lending a hand and most of all for being great sports.\n\nAdam Booth: https://www.youtube.com/user/Abom79\nStefan Gotteswinter: https://www.youtube.com/user/syyl\nAvE: https://www.youtube.com/user/arduinoversusevil"
+  },
+  {
+   "id": "ny5Xxwwpkxs",
+   "t": "Building a Rotary Weld Table",
+   "d": "2017-04-05",
+   "v": 2257356,
+   "s": 1981,
+   "vertical": false,
+   "desc": "Just like it says on the tin, home built rotary table for welding.  \nAlways wanted one of these.  Wasn't disappointed. \n----\nSpecial thanks to:\nJody Collier https://www.youtube.com/user/weldingtipsandtricks\nJimmy Diresta https://www.youtube.com/user/jimmydiresta\nFrank Howarth https://www.youtube.com/user/urbanTrash\nMatthias Wandel https://www.youtube.com/user/Matthiaswandel\n\nMusic is \"Riverside Romance\" by \"A.Young\" and/or \"Peter Nickalls\""
+  },
+  {
+   "id": "MzJ6wR59AkY",
+   "t": "Boring Heads & Tapers & Spheres, Oh My!",
+   "d": "2017-04-11",
+   "v": 680694,
+   "s": 538,
+   "vertical": false,
+   "desc": "Thought I'd share a couple of old boring head tricks.\nSpecifically, using a boring head to cut tapers and spheres."
+  },
+  {
+   "id": "_KInGWLBwcE",
+   "t": "My TIG Is Breaking Up With Me",
+   "d": "2017-05-13",
+   "v": 314204,
+   "s": 1081,
+   "vertical": false,
+   "desc": "My oscilloscope and I pick up on what my TIG welder is laying down.  The news doesn't look good."
+  },
+  {
+   "id": "CYC_mBDhmGU",
+   "t": "My TIG Is Breaking Up With Me - Part 2",
+   "d": "2017-05-20",
+   "v": 237709,
+   "s": 960,
+   "vertical": false,
+   "desc": "Quick follow up to the TIG situation / answering some Q's.\nProject / build videos coming soon, cross my heart."
+  },
+  {
+   "id": "v_1UO1GTsg0",
+   "t": "CHAINSAW GO KART! - Part 1",
+   "d": "2017-06-06",
+   "v": 3809232,
+   "s": 1447,
+   "vertical": false,
+   "desc": "Start of a chainsaw driven go kart; Part 1 - building (most of) the drivetrain / back end."
+  },
+  {
+   "id": "r8oORR6jyh8",
+   "t": "Sharpening Drill Bits - The Long Way Round",
+   "d": "2017-06-12",
+   "v": 2490519,
+   "s": 1779,
+   "vertical": false,
+   "desc": "Sharpening drill bits by hand -- by which I mean a bench grinder.\nThis also got way longer than I expected."
+  },
+  {
+   "id": "Z8IVnPhb9dg",
+   "t": "\"CHAINSAW\" GO KART! - PART 2",
+   "d": "2017-06-26",
+   "v": 2224846,
+   "s": 952,
+   "vertical": false,
+   "desc": "No longer a chainsaw go kart but what's a fella to do?\n\nPart 2 is a late-game engine-change & building the front end, including most of the steering geometry at the front axles.\n\n-----\nMusic: \"Someone Your Own Size\" - RW Smith."
+  },
+  {
+   "id": "xRh_dOULGVw",
+   "t": "GO KART BUILD - Misc Info",
+   "d": "2017-06-27",
+   "v": 420984,
+   "s": 709,
+   "vertical": false,
+   "desc": "If you haven't seen Parts 1 and 2, this might not make much sense.\nJust some more information as I work through the go kart.\n\nAlso, what's an addendum called when it's in the middle?!"
+  },
+  {
+   "id": "BI04nsPVlvE",
+   "t": "Kicking the tires on a NEW TIG WELDER!",
+   "d": "2017-07-03",
+   "v": 504843,
+   "s": 1012,
+   "vertical": false,
+   "desc": "After much soul searching, went for the HTP Invertig 221 AC/DC.\n\nThese are my first impressions.  Spoiler Alert:  it doesn't have tires.\n\nMatt Pratt's 221 Tear-Down Video: https://www.youtube.com/watch?v=383jNYSzJTs\n\n--------------------------------\nLook Busy by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100172\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "MOSrkm0r-Co",
+   "t": "GO KART - PART 3",
+   "d": "2017-07-25",
+   "v": 1487694,
+   "s": 1312,
+   "vertical": false,
+   "desc": "This week! on... This Old Tony! Front end, steering & controls!\n\nI'd hoped to cover the whole kart build in 3 videos, but alas, twas not to be.  So close.  \n\nExpect the last and final installment soon."
+  },
+  {
+   "id": "bxNAeVwsGvE",
+   "t": "GO KART - Part 4 - COMPLETED!",
+   "d": "2017-08-02",
+   "v": 1820881,
+   "s": 674,
+   "vertical": false,
+   "desc": "Save a few odds & ends the go kart is finished.\nNot sure who's happier, me or the kids.\n\n--------------------------------\nMusic:\nStrut Funk - Dougie Wood\nMarch On & Heavyweight - Ethan Meixsell\nLullabye (Sting) by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://www.twinmusicom.org/"
+  },
+  {
+   "id": "DRJwCWFe_jA",
+   "t": "Lazy MACHINISTS' JACKS",
+   "d": "2017-08-07",
+   "v": 1556308,
+   "s": 360,
+   "vertical": false,
+   "desc": "Machinists' jacks are useful everywhere and can be a great lathe project: turning, threading, knurling, etc.\n\nTook the easy way out this time and used threaded rods and nuts.  Welded and turned.\n\n-----------------\n\nMusic: \"Tracks Of My Fears\" - John Deley and the 41 Players"
+  },
+  {
+   "id": "0kghA97pyvI",
+   "t": "TIG with TOT: AC Frequency?!",
+   "d": "2017-08-08",
+   "v": 404936,
+   "s": 793,
+   "vertical": false,
+   "desc": "What does AC Frequency adjustment really do in TIG welding?\nSit back, relax, and listen to This Old Tony go completely off the rails."
+  },
+  {
+   "id": "pQGnV85Cu_A",
+   "t": "DIY Touch Probe & Cheap Mist Coolant",
+   "d": "2017-08-25",
+   "v": 291981,
+   "s": 430,
+   "vertical": false,
+   "desc": "Some unexpected CNC downtime, took the \"opportunity\" for a tune-up, added mist coolant and a DIY touch probe."
+  },
+  {
+   "id": "BiuD6li6h8A",
+   "t": "G54 - You Sunk My Battleship!",
+   "d": "2017-08-28",
+   "v": 395002,
+   "s": 622,
+   "vertical": false,
+   "desc": "It felt like I'd left something out of the touch probe video: how I'm handling the offset probe... so... here we are.\n\nBasics CNC Work Offsets, should you be so inclined."
+  },
+  {
+   "id": "fAuyX2ugCds",
+   "t": "Easy CNC Engraving (Mach4)",
+   "d": "2017-09-01",
+   "v": 161779,
+   "s": 360,
+   "vertical": false,
+   "desc": "CNC Engraving?  Let's have a look at Mach4's built in (i.e., free!) engraving wizard."
+  },
+  {
+   "id": "mYfshoR1HgE",
+   "t": "PROTOTYPING! - The Diresta Collaboration",
+   "d": "2017-09-06",
+   "v": 729314,
+   "s": 974,
+   "vertical": false,
+   "desc": "Building a functional prototype, start to finish, from hand sketch to working model.\n\nThe concept and sketch are Jimmy Diresta's.\nhttps://www.youtube.com/user/jimmydiresta"
+  },
+  {
+   "id": "LrPggPn5BB0",
+   "t": "CAD, Master Modeling, & The Diresta Prototype",
+   "d": "2017-09-12",
+   "v": 322576,
+   "s": 1549,
+   "vertical": false,
+   "desc": "All the gory details of the Diresta prototype build.\n\nThis video includes: a LOT of talking, CAD (Master Modeling),  answered one or two questions that came out of the last video, and finally a quick look at the CAM.\n\n9:30 will take you straight to the CAD talk.\n\nEDIT TO ADD: \"Master Modelling\" is big hammer CAD.  Not always necessary, and this example doesn't do justice to how powerful a method it can be, but hopefully gets the point across."
+  },
+  {
+   "id": "EMZPNQcNqeg",
+   "t": "Power Supply Rebuild - CNC Router",
+   "d": "2017-09-17",
+   "v": 280389,
+   "s": 878,
+   "vertical": false,
+   "desc": "Recently burnt out the transformer on my CNC router.  Decided to rebuild the drive/stepper power supply.  \n\nWhat you're about to see ... is a true story.\n\nEDIT TO ADD: I use Gecko Stepper Drives.  the formulas & power supply built in this video are done so in accordance with guidelines laid out by Gecko.  These may or may not be applicable to your drives or your application.  Do your homework & be safe!\n\n\n------------------------\nMariachiando -- Doug Maxwell/Jimmy Fontanez"
+  },
+  {
+   "id": "K67bZQSETiE",
+   "t": "Lathe Chucks",
+   "d": "2017-09-24",
+   "v": 816658,
+   "s": 990,
+   "vertical": false,
+   "desc": "Some basic information on metalworking lathe chucks.  Which to pick, why, pros/cons, that sort'a thing."
+  },
+  {
+   "id": "bG_vrf6EQwE",
+   "t": "TIG Torch 2: Flex-Loc and the CK-80",
+   "d": "2017-09-28",
+   "v": 266367,
+   "s": 886,
+   "vertical": false,
+   "desc": "Doing a little housekeeping, thought I'd share my impressions of the CK Flex-Loc and CK-80 torches.\n--------------------------------\nMusic: \"Snack Time\" - The Green Orbs"
+  },
+  {
+   "id": "PpJSMp0qoTU",
+   "t": "Weld Cart Build (not really)",
+   "d": "2017-10-23",
+   "v": 656202,
+   "s": 998,
+   "vertical": false,
+   "desc": "I meant to build a cart, I swear.\nMostly talking about the cart, design considerations, and weld settings for the hobby crowd."
+  },
+  {
+   "id": "Rr5BLtMmxwc",
+   "t": "Weld Cart Build - Part2",
+   "d": "2017-11-01",
+   "v": 744357,
+   "s": 1087,
+   "vertical": false,
+   "desc": "Almost there!  Mostly screwing around but some welding talk: torch control in 2T and 4T modes, weld distortion, that sort of stuff.\n\n----\nMusic: \"About That Oldie\" Vibe Tracks"
+  },
+  {
+   "id": "Aqp2BhPgcMM",
+   "t": "WELD CART BUILD - Part 3/3",
+   "d": "2017-11-13",
+   "v": 528865,
+   "s": 1124,
+   "vertical": false,
+   "desc": "3rd and final weld cart build video."
+  },
+  {
+   "id": "FyXpCPVOr8s",
+   "t": "How To Bending?!",
+   "d": "2017-11-24",
+   "v": 1477553,
+   "s": 1350,
+   "vertical": false,
+   "desc": "Little follow up on the weld cart build where I did a lot of bending but didn't pay it much mind.  \n\nSheet metal, specifically, but this goes for all bending in general (sheet, tube, pipe, bar, spoons etc etc etc)\n\nAlso, you should watch Stefan G do his thing: www.youtube.com/user/syyl\n\nFor the people asking, the ruler is called a \"stop rule\".  Check this link out from Lee Valley (no relation): http://www.leevalley.com/us/wood/page.aspx?cat=1,43513&p=61607\n\n----\nMusic: Very Right - Jingle Punks"
+  },
+  {
+   "id": "IiGTkl4fSx4",
+   "t": "Marvels of Injection Molding!",
+   "d": "2017-11-29",
+   "v": 1199515,
+   "s": 945,
+   "vertical": false,
+   "desc": "Ball valve autopsy.  Answering the age old question: how DID they get that ball in there?"
+  },
+  {
+   "id": "9BdQWWZzF30",
+   "t": "Shoot'n The Poop #6 - Fixin' Stuff",
+   "d": "2017-12-04",
+   "v": 664103,
+   "s": 1069,
+   "vertical": false,
+   "desc": "As always with these poop shoots, footage I didn't quite know what to do with, but you may enjoy following along.\n\nFluke Multimeter - Socket Fix - 00:41\nNerf 2x4 - Cascading Valves -  02:13\nCNC Router - Volt Amp Readout - 11:25\n\nFor more shooting practice, be sure to check out:\nStefan Gotteswinter at https://www.youtube.com/user/syyl\nAdam Booth at https://www.youtube.com/user/Abom79\n-------------------------------------------------\nMusic: Sleeping Sheep - The Green Orbs"
+  },
+  {
+   "id": "PFqjQ3l1MRA",
+   "t": "Bushings and Gears: The Prequel",
+   "d": "2017-12-28",
+   "v": 719784,
+   "s": 827,
+   "vertical": false,
+   "desc": "Prequel to a soon-to-be-released winter blockbuster."
+  },
+  {
+   "id": "x2ai5eDzvxU",
+   "t": "TIG Water Cooler Than I Used To Be!",
+   "d": "2018-01-09",
+   "v": 1607864,
+   "s": 1714,
+   "vertical": false,
+   "desc": "Unexpected Christmas present!  Arctic Chill water cooler for the tig torch.\n\nNote: not a sponsored video.  In fact I proceed to destroy my warranty with an... ON-DEMAND FAN MOD! wooo... ahem.. pardon me.\n\nWater cooled tig torches -- who/what are they for?, sound measurements, temperature monitoring and control, etc. etc.\n\n\n---------------------------------------------------------------------------\nMusic:  \"Bluebird\" -- E's Jammy Jams"
+  },
+  {
+   "id": "fW_GJ-mC54E",
+   "t": "Bench Shear & Universal Vise",
+   "d": "2018-01-14",
+   "v": 905016,
+   "s": 948,
+   "vertical": false,
+   "desc": "Hey.  How ya doin?  Having a good weekend?  Not a lot going on here, but picked up an old bench metal shear and (finally!) a universal vise.  They needed some TLC.  Don't we all."
+  },
+  {
+   "id": "iI3wJKCn4Gk",
+   "t": "Oscillo-Help-Me?",
+   "d": "2018-01-16",
+   "v": 206143,
+   "s": 429,
+   "vertical": false,
+   "desc": "Pretty please, sugar on top.\n\nI was hoping to use my scope to play with / explore asymmetric TIG; haven't had any luck.  Might be over my head with this one.\n\nNow I'm more curious about potential measuring limitations than what the welder is even doing!\n\nThe original tig-measuring-vid is here: https://youtu.be/_KInGWLBwcE\n\nThanks!"
+  },
+  {
+   "id": "0zhcGNrsKH4",
+   "t": "Asymmetric TIG - CAUGHT ON CAMERA!",
+   "d": "2018-01-18",
+   "v": 159443,
+   "s": 278,
+   "vertical": false,
+   "desc": "Follow up to my oscilloscopic call for help.  Figured it out with a little help from my friends (you!).  User error: I is dumb.\n\nBut, finally caught the elusive waveforms on the scope.  Exciting times we live in, indeed."
+  },
+  {
+   "id": "L3rINJWcmbA",
+   "t": "More Thread Cutting & Heat Treating (I needed a metal tap)",
+   "d": "2018-02-16",
+   "v": 1603821,
+   "s": 1568,
+   "vertical": false,
+   "desc": "Project hit a roadblock: needed a tap I didn't have...  Now I do!\n\n*Level unlocked*\n\nPS Audio gets weird in places; my apologies in advance.\n\n----------------------------\nmusic: Bongo Madness - Quincas Moreira"
+  },
+  {
+   "id": "pFeek0a8s7Q",
+   "t": "Ultrasonic Cleaner to... Ultrasonic KNIFE?!",
+   "d": "2018-02-25",
+   "v": 1455789,
+   "s": 1697,
+   "vertical": false,
+   "desc": "A little something I've always wanted to try... can I turn an inexpensive ultrasonic cleaner into an ultrasonic knife?\n----------\nPractical Engineering: https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ\n----------\nMusic: \"Goat\" - Wayne Jones"
+  },
+  {
+   "id": "bZkhuhjPp7Q",
+   "t": "DIY Ultrasonic Welder?! (Answer: NO)",
+   "d": "2018-03-02",
+   "v": 890864,
+   "s": 838,
+   "vertical": false,
+   "desc": "Left home with a cow, but came back with... magic beans!!\n\nThe setup doesn't weld great (read: at all), but it sure sinks some inserts."
+  },
+  {
+   "id": "uNn6q0TXdDM",
+   "t": "The Rollenator! (Ring Roller Build)",
+   "d": "2018-03-12",
+   "v": 3578358,
+   "s": 1812,
+   "vertical": false,
+   "desc": "Building a small bench top ring roller.\nThis video follows through on Bushing & Gears (https://youtu.be/PFqjQ3l1MRA) and Acme Tap (https://youtu.be/L3rINJWcmbA).  Check those out if you find yourself wondering where some of these parts came from.\n\nA special thanks to Mr. Pete for being such a great sport!  https://www.youtube.com/user/mrpete222\n\n----\nMusic:\nYou Make Me Feel Good - Jingle Punks\nEther - Silent Partner\nEt Voila - Chris Haugen"
+  },
+  {
+   "id": "PCGBISlVKMM",
+   "t": "Custom Tools - Brazing & Welding",
+   "d": "2018-03-16",
+   "v": 1140279,
+   "s": 1260,
+   "vertical": false,
+   "desc": "Ever wanted to braze your own carbide tooling?\nAnd what about HSS? \n\nLots of talking early on, was in a chatty mood I guess.  Start @ 5:40 and you won't miss anything important.\n\nWhen I'm not brazing carbide, I'm brazing in the kitchen (still carbide) with Alex French Guy Cooking.  Check him out at: https://www.youtube.com/user/FrenchGuyCooking\n\nThanks Alex!"
+  },
+  {
+   "id": "5kRCT18R3LY",
+   "t": "LIVE!? - Welding Bandsaw Blades & Startrite Saw",
+   "d": "2018-03-23",
+   "v": 570608,
+   "s": 1312,
+   "vertical": false,
+   "desc": "New-to-me old vertical bandsaw, great addition so far.  Tour of the saw, then some blade welding with TIG.  And the usual shenanigans, of course.\n\nSo my \"interlacing\" joke backfired.  Oh cruel world.  Always something, eh?\n\n----\nMusic: \"Apocalypse\" - SYBS"
+  },
+  {
+   "id": "svHI9nmV5nw",
+   "t": "Welding Straight Is Hard To Do",
+   "d": "2018-04-10",
+   "v": 716120,
+   "s": 1222,
+   "vertical": false,
+   "desc": "How're those long TIG welds laying down for ya?  Some thoughts on \n tig in general, torch angles and getting through those longer welds.  Up your motor skills before worrying about filler!\n-------\nMusic: Baroque Coffee House - Doug Maxwell"
+  },
+  {
+   "id": "Vfhz9anpaWE",
+   "t": "TIG Welding - Puddle Control",
+   "d": "2018-04-15",
+   "v": 709034,
+   "s": 772,
+   "vertical": false,
+   "desc": "Not much more to add to the title.  Some thoughts on weld puddle control from a licensed & fully insured hobbyist."
+  },
+  {
+   "id": "5FgXTi2ikvA",
+   "t": "Spinning Metal - Round 1 - I LOST!",
+   "d": "2018-04-22",
+   "v": 1000649,
+   "s": 451,
+   "vertical": false,
+   "desc": "Metal Spinning -- taste the danger!\nFirst attempt, mixed results.  You might have questions I don't have answers to... I'll get into details in the next vid.  \n\nJust don't hold your breath, k?\n----------------------------------------------------------------------------------------------\nMusic:  \"Operatic 3\" - Vibe Mountain"
+  },
+  {
+   "id": "iK_Ig5QuRjg",
+   "t": "DIY Filler in the Home Shop!",
+   "d": "2018-05-06",
+   "v": 403869,
+   "s": 373,
+   "vertical": false,
+   "desc": "Fixing a thing!!\n\n--------------\nMusic: 'At The Fair' - The Green Orbs & 'Smoked Kielbasa Polka' - Doug Maxwell/Jimmy Fontanez"
+  },
+  {
+   "id": "pO5g5pJANEc",
+   "t": "Spring-loaded Detents, alright!",
+   "d": "2018-05-12",
+   "v": 975543,
+   "s": 1047,
+   "vertical": false,
+   "desc": "This is a follow-up to the DIY Filler video. \nYou've got questions, I've got questions.\n\n-----\nMusic: 'Cross The Road' - Silent Partner"
+  },
+  {
+   "id": "cygx0Ng6qMk",
+   "t": "Alex's Pasta Machine: The Rebuildening!",
+   "d": "2018-05-29",
+   "v": 1658560,
+   "s": 1350,
+   "vertical": false,
+   "desc": "Bit of a break down and rebuild of Alex French Guy Cooking's internet pasta machine.  Looking forward to see what he'll do with it next.  Hope you enjoy.\n\nFor more info, be sure to check out Alex's Pasta Machine Videos:\nhttps://youtu.be/ZEObYihnJRA\nhttps://youtu.be/xPR90f48qCE\n\n\n-------------\nMusic:  \"Wild Pogo\" - Francis Preve, & \"Hollywood High\" - Silent Partner"
+  },
+  {
+   "id": "V4OBbXUhIno",
+   "t": "dial M for Air File",
+   "d": "2018-07-01",
+   "v": 1068192,
+   "s": 758,
+   "vertical": false,
+   "desc": "Air file, anyone?"
+  },
+  {
+   "id": "wl9WFLOP7xE",
+   "t": "So How About That Pasta Machine, huh?",
+   "d": "2018-07-03",
+   "v": 848331,
+   "s": 1044,
+   "vertical": false,
+   "desc": "Directors-Cut Noodles! \n\nThoughts/details I took out of the official video.  Long chat about the build strategy & CNC engraving.  Plus some other stuff probably... I don't remember.\n\nIf you haven't seen the first part:\nhttps://youtu.be/cygx0Ng6qMk\n\nAlex French Guy Cooking's video about this machine:\nhttps://youtu.be/tplkJOQeSY0"
+  },
+  {
+   "id": "9UGY8iJH_aY",
+   "t": "Two Piece Machine Vise Build",
+   "d": "2018-07-31",
+   "v": 1841275,
+   "s": 1319,
+   "vertical": false,
+   "desc": "This one's been a long time coming: 2 piece vise for the milling machine and CNC router!  \n\nYou'll never believe how many pieces!!  (two)\n\nIf you're into vises, check out Mr. Pete's builds:\nhttps://www.youtube.com/user/mrpete222"
+  },
+  {
+   "id": "Mv1BdL_0U4Q",
+   "t": "Dial N for MORE Air File!!",
+   "d": "2018-08-03",
+   "v": 676713,
+   "s": 1106,
+   "vertical": false,
+   "desc": "It's here! The breakdown you've all been waiting for is finally here!\n(follow up to the Air File video)\n\nClickspring!   https://www.youtube.com/clickspring"
+  },
+  {
+   "id": "npybvhWYklc",
+   "t": "How Surface Grinding Works - Part 1?",
+   "d": "2018-08-04",
+   "v": 656034,
+   "s": 374,
+   "vertical": false,
+   "desc": "Bonus footage!  Title says it all, though this is specifically about grinding wheel wear.\n\nFYI, my go-to general purpose wheel is a Norton 5SG."
+  },
+  {
+   "id": "yBr2U9AVXrs",
+   "t": "ThisOldTshirts!",
+   "d": "2018-08-07",
+   "v": 84441,
+   "s": 108,
+   "vertical": false,
+   "desc": "You folks have been great... time for some swag?  I'm make'n t-shirts.  And not hammerformed out of sheet metal, these are real shirts.\n\nGet 'em while they're hot: https://teespring.com/stores/thisoldtony\n\n----\nThat really short banjo sting deserves some credit:\nBanjo Short - Audionautix"
+  },
+  {
+   "id": "6lxJ3E_UjtY",
+   "t": "This Old Tony's OPUS!",
+   "d": "2018-08-17",
+   "v": 1091864,
+   "s": 1420,
+   "vertical": false,
+   "desc": "Filing and Sawing Machine?!  starts at 11:00\nThis is an old machine: scrap metal by today's standards, but in a home shop?  ... probably still scrap metal, but so far I'm impressed.\n\nSpecial thanks to Adam of ABOM79.  Check him out @ https://www.youtube.com/user/Abom79\n\nMusic (in order of appearance)\n\"Orbital Romance\" - Sir Cubworth\n\"Hyped\" & \"Wistful Harp\" - Andrew Huang\n\"Clover 3\" - Vibe Mountain"
+  },
+  {
+   "id": "1mZhOlr5v-s",
+   "t": "BUILD: Toolmaker's Clamp Thingy",
+   "d": "2018-09-03",
+   "v": 2067761,
+   "s": 678,
+   "vertical": false,
+   "desc": "Not sure what this is called but always wanted to build one.\nMix between a handvise and a bench clamp?\n\nMusic:\nEdge of Eternity by Norma Rockwell\n\nLocal Elevator by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "G5t-ghuLZWk",
+   "t": "Wintergatan's Marble Elevator",
+   "d": "2018-09-21",
+   "v": 1520677,
+   "s": 1421,
+   "vertical": false,
+   "desc": "building clutched sprocket shafts for Wintergatan's next gen marble machine: The Marble Machine X!  These are the underlying shafts that support and drive the marble conveyor / elevator.\n\nSpecial thanks to Martin Wintergatan, Adam Booth, and Stefan Gotteswinter for being such good sports!\n\nBe sure to follow the rest of the story on Wintergatan's channel and stop on by Adam and Stefan's channels!  \n\nAdam's Channel: https://www.youtube.com/channel/UCw3UZn1tcVe7pH3R6C3Gcng\n\nStefan's Channel: https://www.youtube.com/channel/UCY8gSLTqvs38bR9X061jFWw\n\n-----------------\nMusic:\n\nWintergatans Music:\nht"
+  },
+  {
+   "id": "9i4uEbYzuYg",
+   "t": "Thermal Cameras: Hot & Bothered",
+   "d": "2018-09-28",
+   "v": 382531,
+   "s": 1407,
+   "vertical": false,
+   "desc": "I have no idea what that title means.  In fact, I hardly know what this video is even about.  But perhaps you might enjoy a chat in the garage?\n\nMostly about the FLIR ONE PRO and C2 compact cameras, but somehow, a Benjamin Marauder makes it into the show.\n\nMusic:\n1940's Slow Dance -- Doug Maxwell/Media Right Productions"
+  },
+  {
+   "id": "jM2_LBvzg6c",
+   "t": "Adventures in TIG Brazing",
+   "d": "2018-10-03",
+   "v": 2529400,
+   "s": 1091,
+   "vertical": false,
+   "desc": "Never TIG brazed a day in my life; always wanted to try it.  Join me as I probably do a ton of stuff wrong!\n\nMusic: \"Danzon De Pasion\" - Jimmy Fontanez/Media Right Productions"
+  },
+  {
+   "id": "kPA1nQPGhB4",
+   "t": "TIG: Effects of Gas Flow Settings",
+   "d": "2018-10-08",
+   "v": 481789,
+   "s": 547,
+   "vertical": false,
+   "desc": "Quick vid on how your flow rate settings can impact your welds.  Sometimes just a smidge more (or less!) can go a long way."
+  },
+  {
+   "id": "XIAC1zyYGrc",
+   "t": "Ends & Odds: DIY Bandsaw Guides & More!",
+   "d": "2018-10-14",
+   "v": 876137,
+   "s": 1236,
+   "vertical": false,
+   "desc": "The top fell off the rotary weld table and the bandsaw guides are loose as a goose.  Perhaps even looser.  But who's to judge?\n\nCheck out Keith Rucker's Channel!\nhttps://www.youtube.com/channel/UCyjwQ6oz4cqqtEcWGboSU3g\n\nand Stefan Gotteswinter!\nhttps://www.youtube.com/channel/UCY8gSLTqvs38bR9X061jFWw\n\nMusic:\nErsatz Bossa - John Deley and the 41 Players"
+  },
+  {
+   "id": "Lyvqj78M1gg",
+   "t": "Spinning Metal - Part 2! - GODOX Strobe Reflector Build",
+   "d": "2018-10-20",
+   "v": 802783,
+   "s": 881,
+   "vertical": false,
+   "desc": "Got my hands on a more suitable spinning metal.  Trying it again!\nSpoiler: spinning is still hard.\n\nNonetheless, I push forward with Plan B for a larger strobe reflector.\n\nLink to Part1: https://youtu.be/5FgXTi2ikvA\n\nRe: the patreon thing.  Please read the patreon page at https://www.patreon.com/thisoldtony\n\nMusic:  Sunny Side - Text Me Records"
+  },
+  {
+   "id": "NARodU-vVWs",
+   "t": "Rise Of The Machine - CNC Router Upgrade - Part 1",
+   "d": "2018-10-24",
+   "v": 399544,
+   "s": 750,
+   "vertical": false,
+   "desc": "Before/if getting into a bigger project, I'm taking a new stepper drive through setup and test run."
+  },
+  {
+   "id": "4FQLKwzkurw",
+   "t": "As The Motor Turns - UPDATE",
+   "d": "2018-10-28",
+   "v": 334189,
+   "s": 410,
+   "vertical": false,
+   "desc": "Rise & Shine!  Very quick update on the motor - All squared away!"
+  },
+  {
+   "id": "HOL1bMC-UJQ",
+   "t": "PuLsEd TiG WeLdiNg",
+   "d": "2018-10-31",
+   "v": 512171,
+   "s": 989,
+   "vertical": false,
+   "desc": "Feel like talking about Pulsed TIG welding?  \nAnd by talking I mean listening.\n\nWhether it's with an amp controller or built-in, use it to fine-tune heat input, weld out of position, or simply as an aid to learning.\n\nNote well:\n1. some rambling goes on here\n2. flashing, occasionally, but not a lot\n3. I'm not a real weldor\n4. More ABOM welding @ https://www.youtube.com/abom79"
+  },
+  {
+   "id": "mAZei3wpBe0",
+   "t": "CNC LATHE?! - Router Add-On!",
+   "d": "2018-11-11",
+   "v": 2184934,
+   "s": 1658,
+   "vertical": false,
+   "desc": "This video is a spindle build -- a spindle used as both a CNC lathe and 4th axis / indexer for the router.\n\nWorking better than I thought, but I've still got a long way to go.\n\nMusic: \nTag You're It - The Whole Other\nHermanos Ranchero - Biz Baz Studio"
+  },
+  {
+   "id": "Gn4VA_iJ8ow",
+   "t": "Will the CNC lathe add-on TURN STEEL?",
+   "d": "2018-11-13",
+   "v": 543795,
+   "s": 433,
+   "vertical": false,
+   "desc": "My router add-on toy CNC lathe axis thingy... let's try cutting steel!\n\nNote: no idea why some of the machining audio got out of sync.  Couldn't fix it.  Okay fine, I didn't feel like fixing it.  It's not that bad.\n\nIf you haven't seen the build video, it's here: https://youtu.be/mAZei3wpBe0\n\nif you want shirts and stickers: https://www.teespring.com/thisoldtony"
+  },
+  {
+   "id": "PMv0noH_j4k",
+   "t": "STP #7: Saws, TIG Button, Brazing & More!",
+   "d": "2018-11-19",
+   "v": 631410,
+   "s": 1453,
+   "vertical": false,
+   "desc": "We've got a talker!\n\n- Chuck replacement on the Milwaukee M18 drill\n- giant HSS saws!\n- TIG Button remote amp control\n- More Silicone Brazing\n- Revisiting steel cutting on the CNC \"lathe\"\n\nBe sure to check out Aaron's channel at https://www.6061.com\n\nIntro music: \"Takeoff\" - Ethan Meixsell"
+  },
+  {
+   "id": "K0XfRPi_h2M",
+   "t": "Build Your Own CNC! (Part 1) - Hardware",
+   "d": "2018-11-24",
+   "v": 1396433,
+   "s": 1667,
+   "vertical": false,
+   "desc": "CNC Etch-A-Sketch!  Probably as good a project as any to get a handle on the basics.  Very basics.\n\nTentatively, the big picture is this: \n\nPart 1: CNC hardware / electronics / wiring\nPart 2: Software, setup and calibration https://youtu.be/eLdlV3-JaH8\nPart 3: Machine Design\n\n-- \nMusic:\n\"Sally Goodin\" & \"Reuben's Train\" - Nat Keefe with The Bow Ties"
+  },
+  {
+   "id": "eLdlV3-JaH8",
+   "t": "Build Your Own CNC! (Part 2) - Inputs, Outputs & Software",
+   "d": "2018-12-02",
+   "v": 860411,
+   "s": 1944,
+   "vertical": false,
+   "desc": "Follow-up to Part 1.  Inputs, Outputs and software configuration. (Mach 4)\n\nPart 1 of this video: https://youtu.be/K0XfRPi_h2M\nMy CNC Basics Video: https://youtu.be/YBGqknN3gGs\nMy CNC Basics 2 Video: https://youtu.be/J4bMAIEFCYU\n\nNYC CNC: https://www.youtube.com/user/saunixcomp\nTitans Of CNC: https://www.youtube.com/user/titanamericanbuilt\n-----\nMusic: \"Cumberland Gap\" - Nat Keefe with The Bow Ties"
+  },
+  {
+   "id": "PO-Ab7YfBzY",
+   "t": "A Sine Bar Walks Into a... wait",
+   "d": "2018-12-09",
+   "v": 1168022,
+   "s": 1577,
+   "vertical": false,
+   "desc": "Secrets of Sine Bars revealed!  Cosine Error & SuperFine\u2122 Lathe cuts!\n\nMusic: \"Cold Killa\" - MK2"
+  },
+  {
+   "id": "4m4NSWK9U6k",
+   "t": "Easy Tile Cutting Trick - No Measuring!",
+   "d": "2018-12-11",
+   "v": 1003113,
+   "s": 268,
+   "vertical": false,
+   "desc": "I didn't invent this but it doesn't appear to be as common knowledge as it should be.  Thought I'd share.\n\nIn case anyone asks, no the walls don't need to be 90*.  Works with any shape house, hut, shed, or shanty."
+  },
+  {
+   "id": "05vUCdzhoe4",
+   "t": "The Infamous Mini Lathe!",
+   "d": "2018-12-16",
+   "v": 5828171,
+   "s": 1699,
+   "vertical": false,
+   "desc": "Variable Speed Mini Lathe!  There is a game plan here, but for now, let's have a look and kick the tires on the infamous mini lathe.\n\nLathe Levelling Video: https://youtu.be/THkb-x35fwc"
+  },
+  {
+   "id": "HYOgmhpBUJs",
+   "t": "Better LATHE Than Never!",
+   "d": "2018-12-26",
+   "v": 1629673,
+   "s": 1139,
+   "vertical": false,
+   "desc": "Simple spindle bearing upgrade: small fixes to the mini-lathe can go a long way.\n\nThe part numbers are in the video.  I'd recommend sealed angular contact bearings.\n--\nMusic: Gaiety in the Golden Age - Aaron Kenny"
+  },
+  {
+   "id": "AHoHNt1NOZs",
+   "t": "Operation: Tap Wrench",
+   "d": "2019-01-06",
+   "v": 1181388,
+   "s": 1206,
+   "vertical": false,
+   "desc": "Small / quick project to kick off the new year.  That, and to have a new tap wrench of course.\n\nMusic:\n\"Your Precious Love\" - John Deley and the 41 Players\n\"1940's Slow Dance\" - Doug Maxwell/Media Right Productions"
+  },
+  {
+   "id": "FA46h7Db1BY",
+   "t": "NUTR: Ultrasonic Cutter USW-334",
+   "d": "2019-01-12",
+   "v": 1892417,
+   "s": 1233,
+   "vertical": false,
+   "desc": "Not Unusual Tool Review ;) of the USW-334 Ultrasonic Cutter.\nMore of a curious exploration, really.\n-----------\nMusic:  \"AI 2\" - Vibe Mountain"
+  },
+  {
+   "id": "MMDsX38_rxY",
+   "t": "\u266b These Are a Few of My Favorite Things \u266a",
+   "d": "2019-01-20",
+   "v": 874720,
+   "s": 1353,
+   "vertical": false,
+   "desc": "500k!  Don't say I never take you anywhere.  ;)\n\nSpecial thanks to (in order of appearance):\nAdam Booth: https://www.youtube.com/user/Abom79\nColin Furze: https://www.youtube.com/user/colinfurze\nTom Lipton: https://www.youtube.com/user/oxtoolco\nMr Pete: https://www.youtube.com/user/mrpete222\nClickspring: https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA\nWintergatan: https://www.youtube.com/user/wintergatan2000\nAlex French Guy Cooking: https://www.youtube.com/user/FrenchGuyCooking\nJimmy Diresta: https://www.youtube.com/user/jimmydiresta\nMatthias Wandel: https://www.youtube.com/user/Matthi"
+  },
+  {
+   "id": "Q-XOM4E4RZQ",
+   "t": "Gears! - But Were Afraid To Ask (MiniLathe)",
+   "d": "2019-02-02",
+   "v": 3648720,
+   "s": 1742,
+   "vertical": false,
+   "desc": "This video is very information-dense.  I apologize, but: nature of the beast.\n\nHowever!  Astound your friends with how much you'll know about gears!\nAmazing before-seen footage of Indexing, dividing, and gear cutting!\nStop making due with plain text video descriptions: Watch for yourself! \n\nMore than you wanted to know about gears: 0:00-10:50\nGear Cutters: 10:50\nIndexing & Dividing: 14:18\nDividing Head: 19:43\nActually cutting a gear: 24:42\nMetal gears in the mini-lathe: 26:28\n\n----\nThe musical blip at the end: Green Hills - Jingle Punks"
+  },
+  {
+   "id": "qVN2jrn4Kuo",
+   "t": "Gears! - But Were Afraid To Ask (MiniLathe) - BETTER AUDIO",
+   "d": "2019-02-03",
+   "v": 505405,
+   "s": 1742,
+   "vertical": false,
+   "desc": "Sorry for re-upload... Same video... hope I fixed the audio!\n\n--------\nThis video is very information-dense.  I apologize, but: nature of the beast.\n\nHowever!  Astound your friends with how much you'll know about gears!\nAmazing before-seen footage of Indexing, dividing, and gear cutting!\nStop making due with plain text video descriptions: Watch for yourself! \n\nMore than you wanted to know about gears: 0:00-10:50\nGear Cutters: 10:50\nIndexing & Dividing: 14:18\nDividing Head: 19:43\nActually cutting a gear: 24:42\nMetal gears in the mini-lathe: 26:28\n\n----\nThe musical blip at the end: Green Hills -"
+  },
+  {
+   "id": "ds6qZ7Ss2fA",
+   "t": "15T-M2 Let This Be A Lesson To Ya!",
+   "d": "2019-02-09",
+   "v": 822830,
+   "s": 763,
+   "vertical": false,
+   "desc": "Gear cutting, start to finish: 15 Tooth / Module 2 spur.\nEvidently a few unanswered questions in that last one, hope this helps!  \n\n-----\n\nMusic/Sound:\nParty Waltz - Sir Cubworth\nLawnmower - Morgantj"
+  },
+  {
+   "id": "nTG1TTR1CJk",
+   "t": "DRO BASICS? & Lathe Tool Offsets!! (SINO DRO)",
+   "d": "2019-02-23",
+   "v": 818286,
+   "s": 1605,
+   "vertical": false,
+   "desc": "This is what happens when I try to make a DRO install video... no install footage!  Instead, in trying to figure out the SINO SDS6's lathe offset, we get into DRO basics.  Absolute, Incremental, Sub Datums, Tool Offsets, all that good stuff.\n\nThe OLD tool holders video: https://youtu.be/ZNWkhxKNHGM"
+  },
+  {
+   "id": "cZ93-SlAUeE",
+   "t": "How To Break A Tap & Other Ramblings",
+   "d": "2019-03-03",
+   "v": 1628783,
+   "s": 1469,
+   "vertical": false,
+   "desc": "I don't know what this video is about, but here are the ingredients:\n\n- Taps & tap types, tapping head & breakdown\n- Finishing the Lathe QCTP holders\n- Revisit the DRO's tool offset feature\n\nSince I mentioned it, Adam's purge fixture: https://youtu.be/ozO4OSS8S5Q\n---\nMusic: \"Ella Vater\" - The Mini Vandals"
+  },
+  {
+   "id": "gDQLIEV3IpA",
+   "t": "CUT PTO SPLINES IN 18 EASY STEPS!",
+   "d": "2019-03-06",
+   "v": 1090828,
+   "s": 464,
+   "vertical": false,
+   "desc": "Ever cut a PTO spline before?  I haven't. \nKnow what else I've never done?  Bought the correct cutter to do the job. :(\n\nMusic: \"TipToes\" - Myuu"
+  },
+  {
+   "id": "aGsFdudG7Ho",
+   "t": "Making A Stand! Why I Love TIG Welding",
+   "d": "2019-03-23",
+   "v": 1548490,
+   "s": 997,
+   "vertical": false,
+   "desc": "DC TIG or AC/DC TIG?  and some other stuff.\n\nMusic: \"Kick the Can\" - The Mini Vandals"
+  },
+  {
+   "id": "Lvwq7YqDJiw",
+   "t": "TOOL HACKS YOU WON'T BELIEVE WILL SAVE YOU TIME!!",
+   "d": "2019-04-01",
+   "v": 859663,
+   "s": 288,
+   "vertical": false,
+   "desc": "You have more up your sleeve?  Share in the comments!\n\n------\nOnion Capers & Glee Club Polka by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100218\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "RJrM90ayoAI",
+   "t": "6YR OLD ON TRIAL?! - Broken Brake Lever Fix",
+   "d": "2019-04-13",
+   "v": 450738,
+   "s": 551,
+   "vertical": false,
+   "desc": "New old minitrial for the boy.  They grow up fast.  Came with a broken brake lever, figured I'd fix it.\n\n\nMusic: Cliffsides - Dan Lebowitz"
+  },
+  {
+   "id": "Cxb-BuujKSI",
+   "t": "BUILD: Dirt Bike Lift Jack Stand",
+   "d": "2019-05-10",
+   "v": 518593,
+   "s": 490,
+   "vertical": false,
+   "desc": "Why spend $30 on a bike stand when you could build one for $300?\n\nNOTE: this is a light duty stand.  My bike weighs less than 150 lbs; if you build one, use your head."
+  },
+  {
+   "id": "po9wapoDRas",
+   "t": "Shooting The Poop! #8",
+   "d": "2019-05-22",
+   "v": 759559,
+   "s": 914,
+   "vertical": false,
+   "desc": "That time of the year again?!\n\n- Quick Adjust Carburetor Screw\n- More new chuck for the Milwaukee cordless drill\n- Indicator Stands / Holders\n- #8 Pyrex TIG cups\n- Third Hand for welding\n- More Cats!\n\nMusic:\nDanzon De Pasion  - Jimmy Fontanez/Media Right Productions\nFairyTale Waltz by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100232\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "11pcIJN1Gd8",
+   "t": "CHOOSE YOUR OWN ADVENTURE: Single Point ACME Threading!",
+   "d": "2019-06-04",
+   "v": 1033349,
+   "s": 762,
+   "vertical": false,
+   "desc": "Making a form-tool for, and single-point cutting, an internal ACME (trapezoidal)  thread.  What a mouthful."
+  },
+  {
+   "id": "s0-0KTa2Olg",
+   "t": "The Mystery Of The Missing Coolant (Sherco 2.9)",
+   "d": "2019-06-30",
+   "v": 737008,
+   "s": 1110,
+   "vertical": false,
+   "desc": "My bike is overheating.  Which causes me to overheat.  Time to get to the bottom of things!\n\nNo-spoiler-update, after two days, all good now!"
+  },
+  {
+   "id": "WDcBLPCYQpU",
+   "t": "Moto Erratum! & A Flat Tire",
+   "d": "2019-07-08",
+   "v": 464350,
+   "s": 431,
+   "vertical": false,
+   "desc": "Thoughts & corrections regarding the head gasket video.\nAlso fixing a tire flat.  Not what I expected, just a tire patch, but we get a chance to chat.\n\nWARNING: working on tires/wheels can be dangerous.  And not just because they're round."
+  },
+  {
+   "id": "d6SbRkM0C3s",
+   "t": "ALL IN for PROJECT EGRESS",
+   "d": "2019-07-13",
+   "v": 842410,
+   "s": 934,
+   "vertical": false,
+   "desc": "My small contribution to Adam Savage's / Smithsonian's PROJECT EGRESS.  (Commemorating the 50 yr anniversary of the moon landing)\n\n\nOfficial info, dates, contribututors, etc.: https://www.tested.com/science/space/880604-announcing-project-egress-project-national-air-and-space-museum/\n\nCREDITS:\n\nNYC CNC: https://www.youtube.com/nyccnc\nDale Derry's Radius cutting video: https://youtu.be/hTj6LC6agrg\nClickspring: https://www.youtube.com/clickspring\n\n#projectegress #apollo50\n\nEnd of the Rainbow & Jazzeton - Quincas Moreira\n\nCircus Waltz - Silent Film Light by Kevin MacLeod is licensed under a Creat"
+  },
+  {
+   "id": "GWyHJVOxKK4",
+   "t": "Rotary Broaching The Night Away",
+   "d": "2019-08-04",
+   "v": 1992425,
+   "s": 899,
+   "vertical": false,
+   "desc": "Sometimes dreams do come true!\nFirst cuts with a new-to-me rotary broach.\n\nMusic: Action Time - Biz Baz Studio"
+  },
+  {
+   "id": "4-3gPWl6wfU",
+   "t": "Rotary Broach: Captain's Log, Supplemental",
+   "d": "2019-08-05",
+   "v": 569119,
+   "s": 208,
+   "vertical": false,
+   "desc": "I should have included this in the broaching video: broaching with the work stationary.  Might shed s'more light.\n\nThe original vid: https://youtu.be/GWyHJVOxKK4"
+  },
+  {
+   "id": "kMcTFslVTgA",
+   "t": "Turning Titanium: Trials and Tribulations",
+   "d": "2019-08-20",
+   "v": 1548589,
+   "s": 1179,
+   "vertical": false,
+   "desc": "Long video for a small project in titanium c/o Aaron @ 6061.com\n\nAaron @ 6061.com:  https://www.youtube.com/user/aaronmlarsen\nAbom @ Abom: https://www.youtube.com/user/Abom79\nStefan @ Gotteswinter: https://www.youtube.com/user/syyl\n\n----\nAirport Lounge - Disco Ultralounge by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "K7ljoLWlbPY",
+   "t": "Repacking a Muffler? - FAR OUT!",
+   "d": "2019-09-01",
+   "v": 884473,
+   "s": 963,
+   "vertical": false,
+   "desc": "In this episode: Repacking a motorcycle muffler made easy!*\n(* the I-have-a-machine-shop version)\n\nAlso some exhaust/muffler talk.\n\nBe sure to check out Pat Smage's channel here:\nhttps://www.youtube.com/user/sherco125290\n\nFor more mototrials, RYP TV: \nhttps://www.youtube.com/channel/UCXBEwPbt1XP0M9IzMIYtqLg\n\n----\n\nMusic: Puppy Love Twin Musicom"
+  },
+  {
+   "id": "laTOEfGsLi8",
+   "t": "Old Files: Rags To Riches",
+   "d": "2019-09-14",
+   "v": 530504,
+   "s": 434,
+   "vertical": false,
+   "desc": "Old files?  Quick tip / handy tool!\n\n#TIPBLITZ19\n\nMusic: Double Helix - Ethan Meixsell"
+  },
+  {
+   "id": "38zP4cu8kgg",
+   "t": "TIG TAWK! AC Welding Aluminum",
+   "d": "2019-09-29",
+   "v": 1098733,
+   "s": 1427,
+   "vertical": false,
+   "desc": "Frequency?  Balance?  Amps?!  It's time to find out exactly what Willis was talk'n about.\n\nIf you're jumping in the deep end, I recommend starting with some of my other TIG welding videos before you get into AC.  But you do you.\n\n----\nMusic: \"Short Guitar Clip\" - Audionautix"
+  },
+  {
+   "id": "Ogwp7zD59og",
+   "t": "MAHO is Filthy!!  (Whose Milling Machine Isn't?)",
+   "d": "2019-10-09",
+   "v": 786446,
+   "s": 907,
+   "vertical": false,
+   "desc": "Welcome to my latest more-than-I-can-chew project:  CNC conversion of an old milling machine.\n\nJust a quick walk-through video, nerding out on a milling machine from a bygone era.\n\n----- \nMusic: \nItty Bitty 8 Bit by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100764\nArtist: http://incompetech.com/"
+  },
+  {
+   "id": "FTMqrM9fOs8",
+   "t": "MAHO's Alive!! (70%)",
+   "d": "2019-10-10",
+   "v": 456816,
+   "s": 196,
+   "vertical": false,
+   "desc": "70% alive / 30% zombie.  But... First Chips!"
+  },
+  {
+   "id": "PK6TVKT74kE",
+   "t": "Maho! Now More Alive'r Than Ever!!",
+   "d": "2019-10-11",
+   "v": 591789,
+   "s": 420,
+   "vertical": false,
+   "desc": "Z axis all sorted! (mostly sorted)\nGood enough to keep going with the project.\n\n---\nMusic: Lagos - Quincas Moreira"
+  },
+  {
+   "id": "33ttuWim1A8",
+   "t": "I'm an Idiot! (Soft Spongy Brakes)",
+   "d": "2019-10-23",
+   "v": 916023,
+   "s": 968,
+   "vertical": false,
+   "desc": "The heartbreaking story of a soft rear brake that took me to the brink of madness and back.\n\n\nThanks as always to Abom for being a great sport:.\nhttps://www.youtube.com/user/Abom79\n\n-----\nMusic: Brain Trust - Wayne Jones"
+  },
+  {
+   "id": "--1lSmtuyUg",
+   "t": "Cheap Ebay Welder -- WILL IT TIG?!",
+   "d": "2019-10-29",
+   "v": 3585402,
+   "s": 1613,
+   "vertical": false,
+   "desc": "On a whim, bought a cheap ebay welder.  Let's see if it'll TIG."
+  },
+  {
+   "id": "xa5M19pck5E",
+   "t": "Building An Antenna for Johnny 5",
+   "d": "2019-11-23",
+   "v": 859969,
+   "s": 939,
+   "vertical": false,
+   "desc": "Did you even know Johnny 5 had an antenna?\nAre you asking yourself who (in) the heck Johnny 5 is?\nGreat question!  To find out more:\nNYC CNC - https://www.youtube.com/user/saunixcomp\nBlondiHacks - https://www.youtube.com/channel/UC7Jf7t6BL4e74O53dL6arSw\n----\nMusic: Urban Lullaby - Jimmy Fontanez/Doug Maxwell"
+  },
+  {
+   "id": "AhMil-ibUTY",
+   "t": "7075, 7076... Whatever It Takes",
+   "d": "2019-12-01",
+   "v": 1648413,
+   "s": 744,
+   "vertical": false,
+   "desc": "Don't know if this was worth the effort, but was in a chatty mood.  Come along for the ride as I sort out a few little things on a Factory Scorpa.  We'll do bad things, I promise."
+  },
+  {
+   "id": "XaNvDoTriG4",
+   "t": "Square Cuts! Fence For The Metal Shear",
+   "d": "2019-12-15",
+   "v": 601406,
+   "s": 495,
+   "vertical": false,
+   "desc": "Long time coming!\nThere are different dowel holes for different material thicknesses.  \nThicker stock won't sit as far back in the shear's throat, so it wouldn't reach the rearmost set of posts.\n----- \nMusic: Chromatic Rag  - Mini Vandals"
+  },
+  {
+   "id": "iuwq1Dt5nYk",
+   "t": "A Christmas Story!",
+   "d": "2019-12-25",
+   "v": 533393,
+   "s": 922,
+   "vertical": false,
+   "desc": "It's the time of the year I have one too many and get to talking...\n\nBe sure to check out Adam & Mr Pete's channels!\nhttps://www.youtube.com/user/mrpete222\nhttps://www.youtube.com/user/Abom79\n\n\n------- \nMusic:\nJingle Punks - 12 Days of Christmas, Joy to the world, O Christmas Tree, O come All Ye Faithful."
+  },
+  {
+   "id": "6GHyuiTF1G4",
+   "t": "BUILD: Scissor Lift!",
+   "d": "2020-01-16",
+   "v": 2280392,
+   "s": 1713,
+   "vertical": false,
+   "desc": "No one said it couldn't be done... yet... here it is!\n(The bike lift I wanted but was afraid to make)\n\n---- \nMusic: Killing With Kindness - Jingle Punks"
+  },
+  {
+   "id": "_nq_-ldfUh0",
+   "t": "You'll Shoot Your Eye Out Kid!",
+   "d": "2020-01-26",
+   "v": 1172439,
+   "s": 1133,
+   "vertical": false,
+   "desc": "My boy asked for a sling.  I threw in a little stock mod.  Don't miss out!\n\nOr maybe miss out, what do I know.\n\n-----\nMusic: How It Began & Last Horizon (Silent Partner)"
+  },
+  {
+   "id": "a6fUCApr03g",
+   "t": "Random Weldy Talk (Pulse TIG Welding Aluminum)",
+   "d": "2020-02-07",
+   "v": 561511,
+   "s": 1000,
+   "vertical": false,
+   "desc": "First of all, not sure why my hands look like they've been to heck and back, but... sorry about that.  I promise to heal before next video.\n\nPulsed AC TIG Welding and some FlexLoc torch talk.\n\n6061 Welding Like A Machine: \nhttps://www.youtube.com/watch?v=uLQj5bV3xf8\n\nWelding Tips & Tricks Aluminum Lap Joints Video:\nhttps://www.youtube.com/watch?v=fEhy8uP5SLk"
+  },
+  {
+   "id": "DgB1psCFC7o",
+   "t": "Square Holes!",
+   "d": "2020-02-23",
+   "v": 2206356,
+   "s": 754,
+   "vertical": false,
+   "desc": "Making a square broach for the rotary broach could only mean one thing ... or could it?!\n\n-----\nMusic: Chances - Silent Partner"
+  },
+  {
+   "id": "rlc72ZElGzM",
+   "t": "POWER HACKSAW ... upgrade?",
+   "d": "2020-03-01",
+   "v": 554465,
+   "s": 522,
+   "vertical": false,
+   "desc": "Dreams do come true!  Converting the die filer to a power hacksaw.\n\n----\nMusic: \"Recess\" - TrackTribe"
+  },
+  {
+   "id": "ST3yf-H51Hg",
+   "t": "FIRE!  Tool Steel & The Hot Shot 360",
+   "d": "2020-03-18",
+   "v": 1072170,
+   "s": 1367,
+   "vertical": false,
+   "desc": "Finally!  Heat treating at home!  Making some parallels and vise jaws.  This is not a sponsored video but I couldn't be happier with the new oven.\n\nEDIT: covers machining, heat treating, and final grinding to size.\n\nCheck out Stan's channel here:  https://www.youtube.com/user/shadonhkw\nAnd of course, Adam's channel here:  https://www.youtube.com/user/Abom79\n\nMusic:\nSand Castles--The Green Orbs"
+  },
+  {
+   "id": "0XB4TI73HD4",
+   "t": "Random Updates!",
+   "d": "2020-03-23",
+   "v": 481824,
+   "s": 481,
+   "vertical": false,
+   "desc": "Not getting out much, thought I'd do a quick update video.\n- CNC Mini Lathe?\n- Maho Milling conversion?\n- the cats?!\n\nAvE: https://www.youtube.com/user/arduinoversusevil\n\nMusic: 'Rainbow Forest' - Quincas Moreira"
+  },
+  {
+   "id": "EN_PHXlPJ0w",
+   "t": "Silky Smooth Telescopic Bore Gauges",
+   "d": "2020-03-29",
+   "v": 587906,
+   "s": 417,
+   "vertical": false,
+   "desc": "Crunchy bore gauges?  Here's the fix."
+  },
+  {
+   "id": "ATFrUQCTY4U",
+   "t": "ASMR for Machinists!",
+   "d": "2020-04-01",
+   "v": 372357,
+   "s": 246,
+   "vertical": false,
+   "desc": "Machinists!  Mechanics!  Feeling alone and left out?  Un- or Under represented by the ASMR content currently available?  \n\nScratch and sniff no more, my friends!"
+  },
+  {
+   "id": "fajfxzoCcEk",
+   "t": "Grinding: FEEL THE HEAT",
+   "d": "2020-04-05",
+   "v": 473053,
+   "s": 332,
+   "vertical": false,
+   "desc": "Short story: Grinding + Heat = Bad.\nQuick follow-up to the grinding that happened in Heat Treat video.\n\nWatch Tom play with a Sharpie here:  https://youtu.be/46DBNUfhATo\nMusic: \"Hovering Thoughts\" - Spence"
+  },
+  {
+   "id": "gR8LKEZ4P9E",
+   "t": "SHOWDOWN! Magnet Vs Demagnetizer!",
+   "d": "2020-04-07",
+   "v": 457826,
+   "s": 278,
+   "vertical": false,
+   "desc": "I won't spoil the ending, but if you were waiting for an excuse to get that plate demagnetizer you've always wanted... carpet dime!\n\nBen! at Applied Science: https://www.youtube.com/user/bkraz333\nMusic: \"Dramatic Swarm\" - Doug Maxwell / \"English Country Garden \"- Aaron Kenny"
+  },
+  {
+   "id": "6mzTLPv636o",
+   "t": "Let's Make Our Own Chain Sprocket!",
+   "d": "2020-04-18",
+   "v": 1169468,
+   "s": 1068,
+   "vertical": false,
+   "desc": "Very few things say 'I love you' like a custom chain sprocket."
+  },
+  {
+   "id": "2t4vnJA4KyI",
+   "t": "Top End Rebuild! (2 Stroke)",
+   "d": "2020-04-25",
+   "v": 890113,
+   "s": 1666,
+   "vertical": false,
+   "desc": "Where'd my compression go?  Let's find out!\n\nMusic:\nErsatz Bossa (Sting)-John Deley and the 41 Players"
+  },
+  {
+   "id": "SjTh_IVEHQg",
+   "t": "EASY Flywheel Puller... using ONLY industrial lathe and milling machine!!!",
+   "d": "2020-05-24",
+   "v": 637562,
+   "s": 432,
+   "vertical": false,
+   "desc": "What can I say?  sometimes... well, you just NEED a flywheel puller!"
+  },
+  {
+   "id": "np72HhAiMc4",
+   "t": "Milling Machine Autopsy!",
+   "d": "2020-06-07",
+   "v": 951448,
+   "s": 1582,
+   "vertical": false,
+   "desc": "The first step in any CNC conversion: know your enemy.\n\n\n---\nMusic: Spirit of the Dead - Aakash Gandhi"
+  },
+  {
+   "id": "3_wPH904a_8",
+   "t": "PUSH LATCH Mechanisms (DIY!)",
+   "d": "2020-07-12",
+   "v": 1306253,
+   "s": 1119,
+   "vertical": false,
+   "desc": "There's something magical about push-push latching mechanisms.\nOr maybe it's just me.\nLet's talk about them and build our own!\n\nCheck out EngineerGuy:\nhttps://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ"
+  },
+  {
+   "id": "uhgBqzOE1Fc",
+   "t": "something something MOTORCYCLE CLUTCH!",
+   "d": "2020-07-18",
+   "v": 666311,
+   "s": 1045,
+   "vertical": false,
+   "desc": "If you thought push latch mechanisms were cool... I'm with ya!  But this video is about multiplate clutches.  We dig into one & give it the once over."
+  },
+  {
+   "id": "otOVJv_FA8k",
+   "t": "MAHO: Move'n On Up!",
+   "d": "2020-08-01",
+   "v": 840132,
+   "s": 1425,
+   "vertical": false,
+   "desc": "Today, automating the milling machine's Z axis.\nTomorrow... the world!\n\nFinally started hanging servos on the machine."
+  },
+  {
+   "id": "8ajjJpkiQeA",
+   "t": "Maho X Axis?  DONE!",
+   "d": "2020-08-09",
+   "v": 496111,
+   "s": 581,
+   "vertical": false,
+   "desc": "Okay, FINE, maybe more like 95%.  Curveball at the end, but nothing me and you can't overcome... together.\n\ncue the music credit: Chances/Silent Partner"
+  },
+  {
+   "id": "WXGe48-MmOg",
+   "t": "Quick MAHO Update - X, Y, and Z!",
+   "d": "2020-08-30",
+   "v": 451793,
+   "s": 498,
+   "vertical": false,
+   "desc": "This installment didn't turn out quite as planned, but installment nonetheless!!\n\nStill a ton of work ahead but making respectable progress."
+  },
+  {
+   "id": "xTn74yaqXeo",
+   "t": "This Old Tony in 3D!!! (printing)",
+   "d": "2020-09-12",
+   "v": 635938,
+   "s": 1007,
+   "vertical": false,
+   "desc": "Building the Prusa MK3s 3D printer kit... and some screwing around.\nMaybe a handy new addition to the shop?  Only 3d space and time will tell!\n\n\n-----\nMusic: Robot Boogie - Quincas Moreira"
+  },
+  {
+   "id": "qUzHFLV4IyQ",
+   "t": "TIG Welding with TOOL STEEL filler?!",
+   "d": "2020-09-26",
+   "v": 855469,
+   "s": 765,
+   "vertical": false,
+   "desc": "Lay down hard tool steel weld beads... tell me that ain't nuts!\nFix chipped or broken tools, make your own chisels... mushy pie crust?  Not anymore!\n------\nMusic: Kate's Waltz - Bad Snacks"
+  },
+  {
+   "id": "JN-Pkbeu52E",
+   "t": "Consoling a Milling Machine",
+   "d": "2020-10-31",
+   "v": 694301,
+   "s": 1261,
+   "vertical": false,
+   "desc": "High time I moved the CNC control PC and monitor off of the shop trash can... in this video we build them their own treehouse."
+  },
+  {
+   "id": "8zb92v5Vz40",
+   "t": "Getting a Handle on Ron Covell",
+   "d": "2020-11-27",
+   "v": 642000,
+   "s": 1207,
+   "vertical": false,
+   "desc": "Collaboration! CAD CAM and MAHO with Ron Covell\ncheck out Ron's amazing work at: https://www.youtube.com/user/covellron/videos\nAnd the the final INSTALLMENT (get it?): https://youtu.be/U7Qq4PcyIbM\n---\nMusic: Sightlines - Jeremy Blake"
+  },
+  {
+   "id": "f9qN9LIChh4",
+   "t": "VCARVE Branding / Logo Irons - SECRET SANTA 2020!",
+   "d": "2020-12-23",
+   "v": 829170,
+   "s": 1195,
+   "vertical": false,
+   "desc": "#makerssecretsanta #YTsecretsanta\nSECRET SANTA BUILD!\nKicking the tires on Vectric's VCARVE, building a little logo kit.\n\nThanks to Allen Pan for my great gift!  Check out his channel and the build here: https://www.youtube.com/watch?v=dN2jhnWNyxs\n\nSee the logo kit in action on Colin's channel here: https://www.youtube.com/watch?v=bmqm4RQ_1P4\n\nBe sure to watch all the other great makers that've taken part!\n\nLook Mum No Computer https://youtu.be/7Zn7MasWpds \nEstefannie Explains It All https://youtu.be/AO4P768-GCo \nXRobots https://youtu.be/5SoGct1dts4 \nHacksmith https://youtu.be/1xCPzOinZB8\nKids"
+  },
+  {
+   "id": "O_Fo7mfZg7k",
+   "t": "NOW We're Cook'n with Argon!!",
+   "d": "2021-01-10",
+   "v": 843141,
+   "s": 1199,
+   "vertical": false,
+   "desc": "Inert atmosphere for heat treating oven?  \nDon't adjust your TV, YOU HEARD THAT RIGHT!\n\nI've wanted to try this upgrade since I first heard about it.  Let's give it a try!\n\n----\nMusic: Cemetary Clown - Sir Cubworth"
+  },
+  {
+   "id": "tiVWBOBUlaA",
+   "t": "Maho CNC Conversion: THE MOVIE!!",
+   "d": "2021-02-03",
+   "v": 2399788,
+   "s": 2881,
+   "vertical": false,
+   "desc": "Get that popcorn ready because It's finally here!\nThe Maho milling machine conversion all the kids are talking about!\nWatch the whole thing... or... skip to the section you're interested in:\n\n00:00 video starts here\n00:51 video REALLY starts here\n02:31 axis conversion overview\n08:20 converted performance (rapids & speeds)\n10:56 machine health & general inspection (geometric)\n16:08 new CNC control add-ons\n17:40 3-axis MPG\n19:18 electronic tool setter\n21:13 control/electrical cabinet (drives, VFD, hydraulics, oiler, relays, etc.)\n23:40 servo drives wiring & I/O\n24:45 AC Servos & Drives (Leadshin"
+  },
+  {
+   "id": "HOq6WCZbyik",
+   "t": "UNWELDABLE Aluminum - Caught On Tape!!",
+   "d": "2021-02-07",
+   "v": 579072,
+   "s": 370,
+   "vertical": false,
+   "desc": "Here's what a real-life run-in with TIG welding 7000 series aluminum looks like."
+  },
+  {
+   "id": "f-YWsgAHR6A",
+   "t": "Using a TAP as Thread Boring Tool",
+   "d": "2021-02-21",
+   "v": 1729264,
+   "s": 603,
+   "vertical": false,
+   "desc": "Using a tap to cut threads?!  I know, crazy, right?  But just you watch!\n\nIn a pinch you can use a smaller tap of the right pitch to thread larger bores than the tap was intended for."
+  },
+  {
+   "id": "Zl6wpdtBZhk",
+   "t": "Cheap Milling Machine Vise is CHEAP!",
+   "d": "2021-03-07",
+   "v": 1343918,
+   "s": 1495,
+   "vertical": false,
+   "desc": "This is a story about a kid and a milling machines' hapless encounter with ebay's siren song.  How does the new vise check out?  \n\nNot that great, but also not that bad.\n\nVise break-down & mill vise chat.  I get into inspection & measurement: specifically checking squareness in the home shop."
+  },
+  {
+   "id": "-4A3lQBM80o",
+   "t": "VIDEO!",
+   "d": "2021-10-30",
+   "v": 1146892,
+   "s": 1135,
+   "vertical": false,
+   "desc": "Description!!\n----\nJan's channel is here: https://www.youtube.com/c/Roetz40\nMusic: Young Squire / A Brand New Start - Track Tribe"
+  },
+  {
+   "id": "ehr4zIBmSko",
+   "t": "A ThisOldTony Chainsaw PSA",
+   "d": "2021-11-04",
+   "v": 602671,
+   "s": 683,
+   "vertical": false,
+   "desc": "Waste not, want not!\nHere's a little somethin' somethin' left over from last week:  chainsaw stuff."
+  },
+  {
+   "id": "lAIXPu-gFNg",
+   "t": "Pruning For Machinists!",
+   "d": "2021-12-05",
+   "v": 640444,
+   "s": 1200,
+   "vertical": false,
+   "desc": "Do you really like your pruning saw?\nHave you ever wish it was powered?\nDo I have any more leading questions?\n\nNope.\n\nEnjoy!"
+  },
+  {
+   "id": "VY4cevyGYA4",
+   "t": "CNC Surface Mapping... ON EARTH!",
+   "d": "2021-12-16",
+   "v": 590535,
+   "s": 841,
+   "vertical": false,
+   "desc": "ADVENTURES! in surface height mapping and CNC.\nI think this is sometimes called surface digitizing, but I can see this coming in real handy for non-critical machining work such as engraving, perhaps.\n\n-----\nthumbnail background: Nadjib BR / Unsplash."
+  },
+  {
+   "id": "HnJ1XZellPk",
+   "t": "CNC Checkering!!",
+   "d": "2021-12-18",
+   "v": 482726,
+   "s": 483,
+   "vertical": false,
+   "desc": "CNC checkering using Mach4's Surface Mapping.\n\nAnd a hammer.  Always a hammer.\n\n---\nMusic: Fiesta de La Vida - AaronKenny"
+  },
+  {
+   "id": "J9jLCAWJfPs",
+   "t": "Making a Slip Joint Knife",
+   "d": "2021-12-23",
+   "v": 893683,
+   "s": 1552,
+   "vertical": false,
+   "desc": "#YTMakersSecretSanta \nThis year we're making an elegant folding knife for Xlya Foxlin!\nI don't know why... I'VE NEVER MADE A FOLDING KNIFE!\n\nCheck out Xyla's channel here, find out what she thinks and, more importantly... does it break?!? https://www.youtube.com/c/xylafoxlin\n\nSee the whole 2021 Makers Secret Santa thing here:\nhttps://www.youtube.com/playlist?list=PLBsfTOjKcQe-dxiUtDUMUkOL3bXDowADb\n\n\n\n---\nMusic: Dance of the Sugar Plum Fairy - Kevin McLeod, Jingle Bells - Jingle Punks, Last Horizon - Silent Partner"
+  },
+  {
+   "id": "usRMtTFKpmI",
+   "t": "Can You Weld Cast Iron??",
+   "d": "2022-02-04",
+   "v": 1707764,
+   "s": 1391,
+   "vertical": false,
+   "desc": "Sometimes cast iron welds crack.  Sometimes they don't.  \nHere are some pointers I've picked up over the years.\nCaveat:  I'm a stunt welder, not a real welder.  \n\n\n------\nMusic: Hovering Thoughts - SPENCE"
+  },
+  {
+   "id": "tSh0CZQ5Qa0",
+   "t": "New Bender!  And Other Musings (UB-100)",
+   "d": "2022-03-13",
+   "v": 848503,
+   "s": 1480,
+   "vertical": false,
+   "desc": "Finally replacing the old junky import bender with a NEW junky import bender!\n\nFor the searches: I'm not really sure if this is a UB-100 or UB-100A but I'm going to say both out loud."
+  },
+  {
+   "id": "XWWPcWy0zmY",
+   "t": "Dampers... WHAT A DRAG!",
+   "d": "2022-03-20",
+   "v": 600494,
+   "s": 821,
+   "vertical": false,
+   "desc": "Your daily intake of dampers low?  I've got you covered!\nTurn your project up a notch (but slower) with one of these!\nRotary, linear, hybrid, dapper, we got all types.\n\n\n---------\nMusic: Switched on Carcassi - Brian Bolger"
+  },
+  {
+   "id": "PqsOgGhIsPg",
+   "t": "Turn a CUBE on a LATHE?!",
+   "d": "2022-04-01",
+   "v": 491124,
+   "s": 535,
+   "vertical": false,
+   "desc": "Everyone says turning a cube on the lathe is hard, but it couldn't be easier!\nGranted, it's an aluminum cube, but still: No sweat!\n\nOkay maybe a little sweat."
+  },
+  {
+   "id": "Vvqv0MThNFI",
+   "t": "PULSED MIG WELDING! at Home!  (HTP ProPulse)",
+   "d": "2022-05-07",
+   "v": 619312,
+   "s": 1708,
+   "vertical": false,
+   "desc": "Say goodbye to the constant voltage MIG welding from your childhood... hello PULSED!\n\nThis is my first real go at pulsed mig with the HTP ... come play along!\n\n----\nMusic: Higher Octane / Vans in Japan & A Night Alone / TrackTribe."
+  },
+  {
+   "id": "W9rlWu9KWe8",
+   "t": "BUILD: FILING VISE!",
+   "d": "2022-08-11",
+   "v": 872054,
+   "s": 1178,
+   "vertical": false,
+   "desc": "Ever wished you had a special vise just for filing?!  ME TOO!  Let's build one.\n\n-----\nMusic: Sand Castle - Quincas Moreira"
+  },
+  {
+   "id": "7Y6_cmIWj2c",
+   "t": "Will it Black an Entire Aluminum Part?",
+   "d": "2022-09-17",
+   "v": 1486159,
+   "s": 1279,
+   "vertical": false,
+   "desc": "The answer is not really.  Well not the way you might expect.\nThat, or I did it completely wrong."
+  },
+  {
+   "id": "lbtcxBd0LFI",
+   "t": "Making Christmas Screwdrivers !!",
+   "d": "2022-12-18",
+   "v": 931591,
+   "s": 1784,
+   "vertical": false,
+   "desc": "#YTMakersSecretSanta\nTis The Season to... build something!  Follow along as I try to figure out what and how the heck to make a Christmas gift.\n\nspoiler: it's screwdrivers.\n\nSee if the screwdrivers break on Sam's channel: \nhttps://youtu.be/5gilhOpXEUk\nhttps://www.youtube.com/@LOOKMUMNOCOMPUTER/featured\n\nAnd check out Becky Stern's great channel!  Thanks again Becky!\nhttps://www.youtube.com/@BeckyStern\n\nThe whole playlist: https://www.youtube.com/playlist?list=PLBsfTOjKcQe9Kw8hLmO8mmNIpraOUF-c7\n\n\n\nmusic:\nCanon&Variation / Twin Musicom\nDuck In The Alley / TrackTribe"
+  },
+  {
+   "id": "ncbJkz1zHOI",
+   "t": "How Much Does A $3 Collet Cost?",
+   "d": "2023-01-28",
+   "v": 1204764,
+   "s": 1110,
+   "vertical": false,
+   "desc": "A $3 collet:  $3.\nEconomic and emotional damage:  Priceless.\n\n--------\nMusic: Stalking Prey - Audionautix"
+  },
+  {
+   "id": "u-CeA29bFiY",
+   "t": "MILWAUKEE ?!?!?!",
+   "d": "2023-02-18",
+   "v": 577496,
+   "s": 1255,
+   "vertical": false,
+   "desc": "My mom always says if you can't say something nice... etc.\nBut this might be a teachable moment.\nThat... and I'm sad.\n\nLet's talk about Milwaukee's new cordless pruner, shall we?\n\nMusic: Hookah Bar - Silent Partner"
+  },
+  {
+   "id": "5uwqiWp5prY",
+   "t": "Rebuilding &/or Replacing BALL NUTS",
+   "d": "2023-04-16",
+   "v": 976500,
+   "s": 1240,
+   "vertical": false,
+   "desc": "A misadventure in re-balling a ball nut!"
+  },
+  {
+   "id": "c5dGlgdHlaY",
+   "t": "Grinding Saw Chain! in Oregon! (620)",
+   "d": "2023-05-13",
+   "v": 992673,
+   "s": 1793,
+   "vertical": false,
+   "desc": "Recently bought a saw chain grinder; I thought it best to come talk to you about it asap.\n\nLegal disclaimer: I didn't sharpen these in Oregon, though I hear it's nice there.  Just covering my search terms.  Hope you understand."
+  },
+  {
+   "id": "9FVavOy4GUw",
+   "t": "Let's make TOE CLAMPS",
+   "d": "2023-07-19",
+   "v": 1214677,
+   "s": 1423,
+   "vertical": false,
+   "desc": "How often have you wished you had toe clamps but you didn't?!\nME TOO!"
+  },
+  {
+   "id": "ps4yC-5NV1c",
+   "t": "Unnecessary SHARPENING JIG!",
+   "d": "2023-08-04",
+   "v": 1228141,
+   "s": 1451,
+   "vertical": false,
+   "desc": "Title says it all, but is this the secret the PROs don't want you to know?!!\nI can't say, I didn't' ask.  MAYBE!\n\nI just noticed the title does not, in fact, say it all.  This is a jig build to sharpen my felco pruners.\n\n-----\nMusic: \n\"Josefina\" & \"The Trapezist\" - Quincas Moreira\n\"Grinding Noises\" - my grinder"
+  },
+  {
+   "id": "mq1pJ76moxw",
+   "t": "You Say You Want A Revolution? (2500)",
+   "d": "2023-09-30",
+   "v": 704927,
+   "s": 1625,
+   "vertical": false,
+   "desc": "If welders are your thing, pull up a chair, let's chat!\nI've had a chance to try the new Revolution multiprocess welder from HTP, and the jury is in!\n\n\n\n---------------------------------------------------------------------\nMusic: Jimena Contreras - Classic Mariachi"
+  },
+  {
+   "id": "RaO2OKrXxmw",
+   "t": "Building My DREAM Knife Sharpener",
+   "d": "2023-11-23",
+   "v": 1010061,
+   "s": 1360,
+   "vertical": false,
+   "desc": "Granted... it was a weird dream.\n\n\nMusic:\nWayne Jones - Brain Trust"
+  },
+  {
+   "id": "oaWtl6UwvmY",
+   "t": "Fancy Pants Clamps!!",
+   "d": "2023-12-17",
+   "v": 634909,
+   "s": 949,
+   "vertical": false,
+   "desc": "Just to be clear, these are fancy-pants clamps.  Not fancy pants-clamps.\nThough, I'm sure they'd work just fine for that.\n\nIt's YouTube Maker Secret Santa 2023!!  See all the great makers and gifts here: \nhttps://www.youtube.com/playlist?list=PLBsfTOjKcQe-hKw23746QrYRzt_Z7v7rF\n\nBecky's Channel: https://www.youtube.com/@BeckyStern\nEmily's Channel: https://www.youtube.com/@EmilyTheEngineer\n\n---- \nMusic:\nTrack Tribe: Running Errands\nTwin Musicom: Canon & Variations\nJimena Contreras: Oaxacan Tradition"
+  },
+  {
+   "id": "2SA85hYxOzk",
+   "t": "So Who Wants A Welder?!",
+   "d": "2023-12-19",
+   "v": 337967,
+   "s": 672,
+   "vertical": false,
+   "desc": "All the info is in the video.  Must be 18 years or older / Limited to contiguous U.S. / Free to enter.  Ends Friday Dec. 22, 2023, 12 noon EST.\n\nThe manuals for these machines are here: https://usaweld.com/pages/manuals\n\nPlease read the safety information here: \nhttps://cdn.shopify.com/s/files/1/1917/6569/files/Pro_Pulse_220_MTS_Manual_6.1.2023_rev5.pdf?v=1686619193 and here:\nhttps://cdn.shopify.com/s/files/1/1917/6569/files/Invertig_221_Manual_01_21_21.pdf?v=1611266258\n\nMaking a submission to the email addresses in this video means you've read and understood the safety information.\n\nPete Zila"
+  },
+  {
+   "id": "xI9KXhGBA5M",
+   "t": "Arbor Press Dental Work!",
+   "d": "2024-03-15",
+   "v": 861866,
+   "s": 1688,
+   "vertical": false,
+   "desc": "Time to get the arbor press off the floor and sorted.\nStick around while we knock out a couple of its teeth and make some simple tooling!\n\n-----\nMusic: Epic TV Theme - Audionautix"
+  },
+  {
+   "id": "Ia3Iieejyg8",
+   "t": "Over Center Mechanisms But Were Afraid To Ask!",
+   "d": "2024-06-07",
+   "v": 865716,
+   "s": 1601,
+   "vertical": false,
+   "desc": "Good manners and over-center mechanisms are what separates us from the animals.  Let's talk way too much about them!\n\n------\nMusic: Wayne Jones - Mr. Sunny Face / Silent Partner - On Hold"
+  },
+  {
+   "id": "GJAZnqrza1Q",
+   "t": "Welder WINNERS! (CHICKEN DINNERS)",
+   "d": "2024-06-15",
+   "v": 285608,
+   "s": 479,
+   "vertical": false,
+   "desc": "My apologies for the delay but here's to closing the loop on the welder giveaways.  Thanks to everyone who participated and congrats again to the winners!\n\nDave's video starts at 4:05\nDoug's starts at 6:17\nMy video starts at 0:00"
+  },
+  {
+   "id": "7dRlDmPR3Gk",
+   "t": "The Secret Life Of Gas Springs",
+   "d": "2024-07-26",
+   "v": 1086097,
+   "s": 1472,
+   "vertical": false,
+   "desc": "Need a constant force?  Gas springs have got you covered!\nBut how on earth do they do what they do?!\n\nWe need some common ground to understand what's going on.  If you can't stand the wait, jump to 17:28.\n\n--------------\nMusic: Wayne Jones 'Mr. Sunny Face'"
+  },
+  {
+   "id": "BRAn4XzFRfU",
+   "t": "Fixing Broken Fishnets",
+   "d": "2024-09-27",
+   "v": 532949,
+   "s": 1038,
+   "vertical": false,
+   "desc": "Summer's over & back in the garage: stretching the old muscles with a \"quick\" CNC part to repair a broken landing net.\n\n\n----\nMusic: South Of The Border - Audionautix"
+  },
+  {
+   "id": "vK8CmznlbeU",
+   "t": "BUTT CLAMPS!  (the ones for welding)",
+   "d": "2024-11-12",
+   "v": 496236,
+   "s": 965,
+   "vertical": false,
+   "desc": "Are you upset at the lack of butt clamp videos?  So am I! \n& decided to do something about it.\n\nEasy to build; these clamp help fixture sheet metal panels in place, positioning your butt joints for easier welding.\n\nEnjoy!\n\n----\nMusic: Twin Musicom - The Halloween Dawn"
+  },
+  {
+   "id": "cQEUI-iKUi4",
+   "t": "Christmas Darts! - Family Recipe - Secret Santa 2024",
+   "d": "2024-12-22",
+   "v": 469189,
+   "s": 1212,
+   "vertical": false,
+   "desc": "#YTMakersSecretSanta \nMerry Christmas one and all; Maker Secret Santa time again!\nThis year I'm building for James Bruton:\n https://www.youtube.com/@jamesbruton\nAnd turns out MY santa is Xyla Foxlin:\n https://www.youtube.com/@xylafoxlin\n\nBe sure to follow along using the handy playlist! \nhttps://youtube.com/playlist?list=PLBsfTOjKcQe-OOKYCcfpSFW0Dtj_9w4qo&si=-S0pLRy-Panm3rdJ\n\n----\nMusic: E's Jammy Jams - Oh Little Town, Twin Musicom - Not Without The Rest, Audionautic - We Wish You A Merry Christmas, Jingle Punks - Auld Lang Syne"
+  },
+  {
+   "id": "EXhXezK4cKU",
+   "t": "Idle Hands & A Tormek!",
+   "d": "2025-02-08",
+   "v": 895781,
+   "s": 1797,
+   "vertical": false,
+   "desc": "Hey!  How've you been / what've you been up to?!  Me?  Made a speed nut for my Tormek, thanks for ask'n.  Also an extended support.  And a short tool jig.  Not to mention a bunch of gum flapping, of course.  Usual stuff!\n\nWes' channel if you're interested: https://www.youtube.com/c/WatchWesWork\n\nMusic: \"Canal 3\""
+  },
+  {
+   "id": "6iNnfRldLXg",
+   "t": "XYLA's Handsome Hand Tools!!",
+   "d": "2025-02-08",
+   "v": 339132,
+   "s": 550,
+   "vertical": false,
+   "desc": "Better late than never? You betcha!  Let's see what Xyla cooked up and close the space-time hole we made in Secret Santa!\n\nCheck out Xyla's channel and her build video here:\nhttps://www.youtube.com/@xylafoxlin"
+  },
+  {
+   "id": "-lkgAYe-8_s",
+   "t": "Make Your Own Air Knife!",
+   "d": "2025-03-01",
+   "v": 1732236,
+   "s": 1459,
+   "vertical": false,
+   "desc": "Let's be honest, who of us hasn't wanted to make their own air knife?\nWell today's the day!  Stick around while I try to figure out the who's who and the what's what of air knives.\n----\nMusic: \"Sunshine Samba\""
+  },
+  {
+   "id": "7TLdCMB-Y2s",
+   "t": "I Have The Power!! (Burnishing)",
+   "d": "2025-05-24",
+   "v": 583646,
+   "s": 1144,
+   "vertical": false,
+   "desc": "Ever try power burnishing?  I hadn't.  At least not on purpose. *blush*\nIn this video I'm copying a tool I saw online and testing it on the lathe to see if I get something useful out of it.\n\n\n--------\nBongo Madness - Quincas Moreira"
+  },
+  {
+   "id": "YA5IpJ9azgQ",
+   "t": "Homemade Grinding Belts?  At Home?!  GET OUT!",
+   "d": "2025-06-21",
+   "v": 592262,
+   "s": 1446,
+   "vertical": false,
+   "desc": "Is it possible to join grinding belts?  Let's take this journey together and, perhaps, my madness, can become your madness!\n\n\n-----\nMusic: Twin Musicom - Funky"
+  },
+  {
+   "id": "lVYu8KUYAgY",
+   "t": "THREADMILLING: For Fun & Profit!",
+   "d": "2025-10-09",
+   "v": 669975,
+   "s": 1433,
+   "vertical": false,
+   "desc": "Hey-OHH! and hello :)\nIn a rush?  Threadmilling starts at 8:20 -ish.  \nEverything before is pre-game warmup. \nLong story short: threadmilling with a lathe internal thread tool actually seemed to work!  That, and WEAR OFFSETS are your friend."
+  },
+  {
+   "id": "sBswDxpAoWM",
+   "t": "Right (angle) Tool For The Job!",
+   "d": "2025-10-22",
+   "v": 389286,
+   "s": 771,
+   "vertical": false,
+   "desc": "DISCLAIMER 1: do not fix your own teeth with a die grinder (or anyone else's!)\nDISCLAIMER 2: do not cut overhead branches\nDISCLAIMER 3: this is a talky video.\n\nWere you hoping for an informal follow up on some stuff?  here it is!\nIt was supposed to be about the Gen 2 Milwaukee Die Grinder a lot of you recommended I buy.  Which I did! ... but it very quickly went off the rails.\n\nEnjoy!"
+  },
+  {
+   "id": "TFOT4kpwgdw",
+   "t": "Making The Easiest Winch!",
+   "d": "2025-11-28",
+   "v": 1134260,
+   "s": 1719,
+   "vertical": false,
+   "desc": "Let's discover the wonderful world of capstan winches... together!\n\nCheck out Ohio Hill Tops Hobby Farm:\nhttps://www.youtube.com/watch?v=5nymwmvJnSg\n\n----\nMusic: The Whole Other - Barnyard Surprise"
+  },
+  {
+   "id": "ThSLfcZfS8A",
+   "t": "Advanced Welding For Dummies!",
+   "d": "2025-12-20",
+   "v": 484303,
+   "s": 2189,
+   "vertical": false,
+   "desc": "Do you like new welding tech?  I do!  \nThere is a lot to talk about, but if you're looking to jump to my favorites:\nFAST TACK 17:18\nDYNAMIC POWER (TIG) 17:53\nMIXED AC/DC aluminum welding 21:37\nSYNERGIC MIG on Aluminum 28:22\n\nThanks to HTP for letting me kick the tires.  https://usaweld.com/\n\n--- Music: Dance Of The Sugar Plum Fairy / Kevin MacLeod"
+  },
+  {
+   "id": "wyBkLyGWZyU",
+   "t": "Magnets Aren't Always Right!",
+   "d": "2026-05-29",
+   "v": 635092,
+   "s": 1532,
+   "vertical": false,
+   "desc": "Hello!  Its been a minute, huh?  Hope you're all doing ... okay-ish!\ncustom magnetic transfer blocks are something I've always wanted to try... should of picked an easier shape to cut my teeth on.  But all's well that ends well, right?  \n\n\n------------\nMusic: Everybody get up - Everet Almond."
+  },
+  {
+   "id": "hksOKMqCqZs",
+   "t": "Vampires?  I'M READY!",
+   "d": "2026-10-13",
+   "v": 1316094,
+   "s": 1357,
+   "vertical": false,
+   "desc": "Stake Pointer?  Post Tool?  Did I really need one?\nLet's find out together!\n\nIf you'd like to check out Matthias' dowel maker:\nhttps://www.youtube.com/user/Matthiaswandel"
+  }
+ ]
+}

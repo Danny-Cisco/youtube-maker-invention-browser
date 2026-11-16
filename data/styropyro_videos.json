@@ -1,0 +1,1863 @@
+{
+ "channel": {
+  "id": "UCJYJgj7rzsn0vdR7fkgjuIA",
+  "title": "styropyro",
+  "handle": "@styropyro",
+  "description": "I'm a science maniac that loves building huge lasers and playing with electricity and chemicals.\n\nOfficially I am a chemist, but I get my hands dirty in all aspects of mad science. When it comes to building stuff, I'm certainly an \"old school\" kind of maker as I'd rather use a hacksaw and soldering iron than design 3D parts on a computer. \n\nI started this channel in 2006 and handle all of the buil",
+  "since": "2006-12-16",
+  "avatar": "https://yt3.ggpht.com/f3_lLAyk2skYuUCIBJlwyQwwgLYdOCRZzGlLO0GhB2Ajpq0wYU3tHrrmuHRb6BXtFk-hFChZ_Ic=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "305062156",
+  "subscriberCount": "3120000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "205"
+ },
+ "videos": [
+  {
+   "id": "yomwJk-pYbs",
+   "t": "Methyl Borate",
+   "d": "2006-12-16",
+   "v": 85632,
+   "s": 5,
+   "vertical": false,
+   "desc": "A little bit of methyl borate I made one day. Looks real cool when put into a spray bottle.\r\n\r\nlol this was the first video I put on Youtube."
+  },
+  {
+   "id": "31G4dtw-Huk",
+   "t": "Zinc Pink flare star formula",
+   "d": "2006-12-16",
+   "v": 130232,
+   "s": 11,
+   "vertical": false,
+   "desc": "Here is about a gram of my new pink formula that I use for the inner cores for some of my stars. The weird thing is the composition burns pink, not green because of the zinc."
+  },
+  {
+   "id": "LTVQzc75YiQ",
+   "t": "Green laser pops balloon through sunglasses!",
+   "d": "2007-07-28",
+   "v": 92387,
+   "s": 4,
+   "vertical": false,
+   "desc": "This video is to show you why to NEVER EVER try to substitute sunglasses for laser goggles! (sorry for the weird sunglasses, it was the cheapest thing I could find at my local thrift shop lol!) Laser is a Nova X105."
+  },
+  {
+   "id": "3SPZjK2mRfs",
+   "t": "115mW Green DPSS laser pops a balloon",
+   "d": "2007-07-28",
+   "v": 28026,
+   "s": 6,
+   "vertical": false,
+   "desc": "My Nova CNI X105 (Averages 113mW and Peaks 122mW) popping a balloon. Pretty much the same thing as a wicked lasers Nexus, but 20mW more powerful and almost half the price. It's a great and fun green laser."
+  },
+  {
+   "id": "Xz4v8g6Y4mI",
+   "t": "DIY: How to build A High Powered Burning Laser pointer",
+   "d": "2007-08-07",
+   "v": 3368120,
+   "s": 173,
+   "vertical": false,
+   "desc": "If you really want to build a laser, please don't use this tutorial. I have a much better tutorial here with better info http://www.youtube.com/watch?v=DVugSGldXZ8 \r\n\r\nIf you are going to use this tutorial anyway, the circuit used in this video is a BARE MINIMUM. Although the one I made in this video still works fine to this day, you will probably want to add a small capacitor (anything over 10v 16uf is fine)in parallel with the diode to even out any voltage spikes from the battery.\r\n\r\n\r\nParts:\r\nYou can get 100ohm potentiometers off ebay for pretty cheap\r\nYou can get you switch and battery hol"
+  },
+  {
+   "id": "bYYS4oqxvN8",
+   "t": "Lighting 10 matches with big laser in 9 seconds",
+   "d": "2007-12-21",
+   "v": 528645,
+   "s": 12,
+   "vertical": false,
+   "desc": "In this video I light 10 sharpied matches in 9 seconds. The laser diode used is from a Pioneer 20x DVD burner, big thanks to Gazoo on LPF for helping me make (Basically building it for me) this thing! It is putting out around 210mW.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "2zQzYQm40z0",
+   "t": "100mW Near IR Laser lights match instantly",
+   "d": "2008-01-21",
+   "v": 16366,
+   "s": 5,
+   "vertical": false,
+   "desc": "Here is a 100mW 780nm laser lighting a match. The laser used is an Aixiz 780nm module that cost $20.25."
+  },
+  {
+   "id": "1Ejtdd8HAaw",
+   "t": "211mW Laser lighting match from 6 feet",
+   "d": "2008-03-03",
+   "v": 14135,
+   "s": 14,
+   "vertical": false,
+   "desc": "Here is a 211mW 660nm laser lighting a match from 6 feet. The laser diode is from a Pioneer 20x 112D DVD burner. Big thanks to Gazoo of laserpointerforums.com for basically building this thing for me!\r\n\r\nWant one like this? Don't want to build one? Buy a 200mW one for $44 here http://www.dealextreme.com/details.dx/sku.11315~r.93098389"
+  },
+  {
+   "id": "GNIgjbfjOC4",
+   "t": "19 Foot match light with Laser",
+   "d": "2008-04-11",
+   "v": 9711,
+   "s": 26,
+   "vertical": false,
+   "desc": "Don't want to build one? Buy a 200mW one for $44 here http://www.dealextreme.com/details.dx/sku.11315~r.93098389\r\n\r\nIn this video I light a match with a laser and a beam expander at 19 feet. Laser is only 150mW"
+  },
+  {
+   "id": "_PXdt9UcvZ4",
+   "t": "21 Foot Match Light with Laser",
+   "d": "2008-04-11",
+   "v": 16324,
+   "s": 36,
+   "vertical": false,
+   "desc": "Don't want to build one? Buy a 200mW one for $44 here http://www.dealextreme.com/details.dx/sku.11315~r.93098389\r\n\r\nLaser being lit from 21 feet with a beam expander. Laser is only 150mW."
+  },
+  {
+   "id": "aHfLlYx0OyM",
+   "t": "$12 Green laser: Lighting Matches and Popping Balloons",
+   "d": "2008-04-16",
+   "v": 25177,
+   "s": 39,
+   "vertical": false,
+   "desc": "The laser used in this video is from here http://www.dealextreme.com/details.dx/sku.469~r.93098389\r\n\r\n\r\n\r\nThis site is telling me that I need to \"check my video description\", so I am going to blab on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on a"
+  },
+  {
+   "id": "FfhDqoQP_x4",
+   "t": "Popping 5 Balloons Instantly with 200mW Laser",
+   "d": "2008-04-30",
+   "v": 21178,
+   "s": 11,
+   "vertical": false,
+   "desc": "You can buy this laser for only $44 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389\r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "IS-N8rDJ1Js",
+   "t": "5 Foot match Light with 200mW Red Laser",
+   "d": "2008-04-30",
+   "v": 7242,
+   "s": 9,
+   "vertical": false,
+   "desc": "You can buy this laser for only $44 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389\r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "oGPbBpljok4",
+   "t": "150mW Lab Style Laser Tricks",
+   "d": "2008-04-30",
+   "v": 12115,
+   "s": 29,
+   "vertical": false,
+   "desc": "Here is my new laser doing some of the less common laser tricks, including lighting black powder and firework fuses."
+  },
+  {
+   "id": "f3h-crOAr9U",
+   "t": "Burning Green Laser Experiments + STREET LIGHT SHUT OFF!",
+   "d": "2008-04-30",
+   "v": 550936,
+   "s": 33,
+   "vertical": false,
+   "desc": "This video shows my new 170mW (Peaks 178mW) pen doing some tricks. Because this has went through Movie Maker, the beams in the video appear much dimmer than what they are in real life.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "8dnI7oDplVo",
+   "t": "Brightness difference: 30mW Green Vs. 200mW Red",
+   "d": "2008-05-01",
+   "v": 12013,
+   "s": 22,
+   "vertical": false,
+   "desc": "You can buy the red laser for only $44 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389 \r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "9CQypwpBDfM",
+   "t": "200mW Laser Lights Match in a jar!",
+   "d": "2008-05-01",
+   "v": 7830,
+   "s": 11,
+   "vertical": false,
+   "desc": "This thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "2Z_0zbMajcE",
+   "t": "200mW Laser Popping Balloon at 15ft Instantly",
+   "d": "2008-05-01",
+   "v": 11974,
+   "s": 7,
+   "vertical": false,
+   "desc": "You can buy this laser for only $44 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389 \r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "PLcmWh48ET0",
+   "t": "200mW Laser Lights 3 Matches INSTANTLY!!",
+   "d": "2008-05-01",
+   "v": 20379,
+   "s": 7,
+   "vertical": false,
+   "desc": "You can buy this laser for only $44 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389 \r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "AB6b5cuNANk",
+   "t": "200mW Red Laser Lights Firework Fuse",
+   "d": "2008-05-01",
+   "v": 12181,
+   "s": 7,
+   "vertical": false,
+   "desc": "This thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper.\n\nSee my other videos to see lasers that burn things!"
+  },
+  {
+   "id": "YeiOhIrOBV8",
+   "t": "Thundersnow",
+   "d": "2008-05-02",
+   "v": 25096,
+   "s": 32,
+   "vertical": false,
+   "desc": "A rare thunderstorm with snow as the main form of precipitation. By this time in the storm the precipitation was changing over to sleet."
+  },
+  {
+   "id": "8OO1EZopQiw",
+   "t": "Fire from Water??",
+   "d": "2008-05-03",
+   "v": 39378,
+   "s": 22,
+   "vertical": false,
+   "desc": "Making fire from a beaker of water!\r\n\r\nHow do I do it? Chemistry of course! This is the classic Bleach + HCl + Calcium Carbide Trick.\r\n\r\n10-4-09: I've actually gotten a decent amount of questions about how this works, so I'll do my best to explain it. I first added some Hydrochloric Acid to a container of sodium hypochlorite solution (bleach) to create chlorine gas. I then added Calcium Carbide, which reacts with the water in the solution to produce acetylene gas. The acetylene reacts with the chlorine gas and causes the acetylene to ignite. \r\n\r\nSee my other videos to see lasers that burn thin"
+  },
+  {
+   "id": "7cqFNiUvL8Y",
+   "t": "$29 200mW Burning Red Laser from DX - Detailed Video Review",
+   "d": "2008-05-03",
+   "v": 142851,
+   "s": 65,
+   "vertical": false,
+   "desc": "You can buy this laser for only $29 with free shipping from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389\r\n\r\nIf you are in the US then check out this:  http://www.o-like.com/b2b_cpinfo.asp?id=926\r\n\r\nText Review: http://styropyro.com/reviews/dx200.htm\r\n\r\nOh, don't message me asking how to get this laser if you are in the US. If I find a way I'll post it here but other than that your screwed. \r\nEdit: Here's another site that ships to the US: Try this place out: www.o-like.com/b2b_cpinfo.asp?id=926"
+  },
+  {
+   "id": "k0SnU2vLyjM",
+   "t": "Green Laser - Beam visible in the air!",
+   "d": "2008-05-28",
+   "v": 17235,
+   "s": 19,
+   "vertical": false,
+   "desc": "In this video I show how bright the beam at night is on a 30mW laser from here: http://www.dealextreme.com/details.dx/sku.469~r.93098389 It only costs $25 with free shipping!\r\nThis video does not show what the beam really looks like at night, in real life the beam is much brighter."
+  },
+  {
+   "id": "ae3vSmKTpz8",
+   "t": "DIY: How to make BALLISTIC GEL!",
+   "d": "2008-06-01",
+   "v": 1001047,
+   "s": 144,
+   "vertical": false,
+   "desc": "This video tutorial shows you how to make Ballistic Gel, the same stuff that the Mythbusters crew use to test out weapons! Ballistic Gel is about the same density as human flesh so it is used to simulate human flesh in weapons testing to see how potent a weapon is. You can use this to test out the power of all of your guns.\r\n\r\nCheck out my other videos!"
+  },
+  {
+   "id": "bHNOOGg1B9A",
+   "t": "100mW Blue/Violet Laser lights a Match",
+   "d": "2008-06-13",
+   "v": 45125,
+   "s": 8,
+   "vertical": false,
+   "desc": "Here I use a homemade 100mW Blu-Ray laser to light a match. This laser cost me about $30 to make, I'll be uploading a How-To video on how to build your own Burning Blue/Violet laser. \r\n\r\nYou can buy these laser diodes from my store! http://styropyro.com/store/index.php?main_page=product_info&cPath=1&products_id=9"
+  },
+  {
+   "id": "RwAo_KTj1dk",
+   "t": "Ducks Chasing a Green Laser Pointer!",
+   "d": "2008-06-16",
+   "v": 29833,
+   "s": 15,
+   "vertical": false,
+   "desc": "Here I use a green laser pointer (5mW, which is eye safe) to exercise my ducks. It seems that ducks like playing with lasers more than cats do!"
+  },
+  {
+   "id": "zINUhn5S-vw",
+   "t": "Green Laser vs. Water Balloons!",
+   "d": "2008-06-22",
+   "v": 48104,
+   "s": 9,
+   "vertical": false,
+   "desc": "In this video I use a 171mW green laser to pop water balloons. The laser is a CNI GLP-150 that I bought in a group buy on LPF for a great price."
+  },
+  {
+   "id": "DVugSGldXZ8",
+   "t": "DIY: How to Make a High Powered Burning Blue/Violet Laser Pointer",
+   "d": "2008-06-25",
+   "v": 1290847,
+   "s": 199,
+   "vertical": false,
+   "desc": "The video shows you how to build a high powered burning violet laser (reason why it says Blue/Violet in title is because half the things you point the violet laser at fluoresce and cause the dot to turn blue)\n\nFor written tutorial go here: http://styropyro.com/tutorials/violetmodule.htm\n\nParts List:\nPHR-803T sled-\nwww.modwerx.com\n\n\n101mA Driver- Driver in video is no longer sold, so here is a very similar driver. Choose \"preset current\" and type 110mA in the box. There is no need for the glass lens. link:\nhttp://hacylon.case.edu/ebay/laser_diode/Groove_2.php\n\nAixiz Module-\nwww.modwerx.com\n\nor\n"
+  },
+  {
+   "id": "h2un5aZiZGA",
+   "t": "150mW red laser SLICES plastic in seconds!",
+   "d": "2008-07-21",
+   "v": 114148,
+   "s": 7,
+   "vertical": false,
+   "desc": "Here I use my 150mW lab style red laser to slice a piece of black plastic. I love how clean it cuts the plastic."
+  },
+  {
+   "id": "PFgr85ouXuU",
+   "t": "Green Lasers: 30mW vs. 170mW",
+   "d": "2008-07-21",
+   "v": 107364,
+   "s": 17,
+   "vertical": false,
+   "desc": "This video shows trying to light matches  with a 30mW green laser and a 170mW green laser. The 170mW is obviously better. Oh the laser in the background is a ~150mW red lab style."
+  },
+  {
+   "id": "TgmlKV6vFac",
+   "t": "Green Laser Shreds Three Matches",
+   "d": "2008-07-22",
+   "v": 7688,
+   "s": 10,
+   "vertical": false,
+   "desc": "Here I use a 170mW pen style green laser to light three matches (pretty fast!) Check out my other laser videos!"
+  },
+  {
+   "id": "21EN_cDK-mQ",
+   "t": "Green Laser Burning Stuff!",
+   "d": "2008-07-22",
+   "v": 848153,
+   "s": 43,
+   "vertical": false,
+   "desc": "Here I use a 170mW green laser to burn things including lighting matches, cutting plastic, popping balloons, and more. You can get a laser like this from http://www.novalasers.com , this laser would be the equivalent of the X150 they sell. Check out my other videos!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "_Uaph7QOtAk",
+   "t": "White Flashes When Burning With 150mW Red Laser",
+   "d": "2008-07-22",
+   "v": 6413,
+   "s": 17,
+   "vertical": false,
+   "desc": "In this video I show white flashes coming from burning stuff with a 150mW laser. The laser is heating up the plastic so hot that is glows white. (this is incandescence)"
+  },
+  {
+   "id": "sgzeGhd0adE",
+   "t": "Burning the PHR-803T Sled",
+   "d": "2008-07-26",
+   "v": 8016,
+   "s": 94,
+   "vertical": false,
+   "desc": "This video isn't all that great, I made it for some members at LPF to show that the PHR-803T sled (The optical sled meant for reading HD-DVDs that we pull high powered violet laser diodes out of) is quite flammable. It looks to me like it is a Magnesium-Aluminum Alloy because it is brittle and it burns like magnesium."
+  },
+  {
+   "id": "qOFzOWrS3QM",
+   "t": "Blu-Ray Laser Shreds Three Matches",
+   "d": "2008-08-06",
+   "v": 18114,
+   "s": 10,
+   "vertical": false,
+   "desc": "Here's a 100mW violet laser that I built for a customer, as you can see I like to \"test\" out my products well before sending them out. \r\n\r\nI'm not selling any more of these ATM, but other people are on LPF for even cheaper.\r\n\r\nAs you can see this laser is capable of burning a bunch of stuff, for the tutorial on how to make one check out my other videos!"
+  },
+  {
+   "id": "MEs36W-N3cs",
+   "t": "Wicked Lasers Pulsar Vs. DX 200 Red Laser",
+   "d": "2008-08-26",
+   "v": 6579,
+   "s": 39,
+   "vertical": false,
+   "desc": "Here the Wicked Lasers Pulsar and DX 200 red compete at burning. The video speaks for itself!"
+  },
+  {
+   "id": "NqqeX0opcO4",
+   "t": "How to Modify a Weak Laser Pointer into a Burning Laser!",
+   "d": "2008-09-23",
+   "v": 1390968,
+   "s": 34,
+   "vertical": false,
+   "desc": "With this simple mod you can turn your weak 5mW crappy laser pointer into a HUGE 150mW BURNING TORCH! You can light matches, pop balloons, and ignite firework fuses with this laser you build!"
+  },
+  {
+   "id": "wtwCfA7Ehz8",
+   "t": "50mW Green Laser Beam in the Evening",
+   "d": "2008-11-23",
+   "v": 62304,
+   "s": 12,
+   "vertical": false,
+   "desc": "Here is my KaiDomain 50mW copper during the evening. As you can see it is a pretty bright laser considering it cost less than $30. Shipping to my house took a while though, if you want this laser go here http://www.kaidomain.com/ProductDetails.aspx?ProductId=1196\r\nAlso pick up some rechargeable CR2s because this thing runs best of the rechargeables.\r\n\r\nIF you are in the US, get the 50mW version from here: http://www.budgetgadgets.com/keychain-green-beam-laser-pointer-flashlight-30mw50mw-p-3939.html"
+  },
+  {
+   "id": "04w1dmJijVM",
+   "t": "50mW Green Laser Handheld from BudgetGadgets",
+   "d": "2009-02-20",
+   "v": 219499,
+   "s": 65,
+   "vertical": false,
+   "desc": "Link to buy this laser: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=3939&affiliate_banner_id=1\r\n\r\nText Review: http://styropyro.com/reviews/bg50.htm\r\n\r\nIn this video I review the BudgetGadgets 50mW laser they sell on their website: www.budgetgadgets.com. For $30, this thing is a steal. Nice, solid construction that feels good in the hand plus a blindingly bright beam for $30 is the best deal you will find on a laser like this.\r\n\r\nFor batteries, you can get rechargeables here: http://tinyurl.com/cbk2vu\r\nand disposables here: http://tinyurl.com/cztqnu\r\nOr you can just get th"
+  },
+  {
+   "id": "99zjir74vbQ",
+   "t": "DX200 Red Laser Ignites Black Powder",
+   "d": "2009-02-21",
+   "v": 10056,
+   "s": 4,
+   "vertical": false,
+   "desc": "Here I use my DX200 Red Laser to light a small pile of black powder.\r\n\r\nYou can buy this laser for $40 shipped from here\r\nhttp://www.dealextreme.com/details.dx/sku.11315~r.93098389 \r\n\r\nThis thing beats the whimpy Wicked Lasers Pulsar any day, plus it is $200 cheaper."
+  },
+  {
+   "id": "spA8uypYgYw",
+   "t": "5mW CR2 Handheld Green Laser from DX-Detailed Review",
+   "d": "2009-04-05",
+   "v": 23971,
+   "s": 108,
+   "vertical": false,
+   "desc": "You can get this laser here: http://www.dealextreme.com/details.dx/sku.10092~r.93098389\r\n\r\nText review with lots of pictures: http://styropyro.com/reviews/dx5new.htm\r\n\r\nThis is a review of the NewWish CR2 Handheld from DX. Great presentation laser for the price!\r\n\r\nEdit: GAH! There are WAY too many spelling/grammar errors in here!! Why didn't I look this one over before I uploaded it?"
+  },
+  {
+   "id": "bHEWdwigk3g",
+   "t": "30mW Kaleidoscopic Green Laser from BudgetGadgets",
+   "d": "2009-04-06",
+   "v": 63291,
+   "s": 111,
+   "vertical": false,
+   "desc": "You can get this laser here: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=3478&affiliate_banner_id=1\r\n\r\nText review with lots of pictures: http://styropyro.com/reviews/bg30.htm\r\n\r\nHere is the review of the 30mW Kaleidoscopic Green Laser from BudgetGadgets. This laser is absolutely awesome! For the price this is one of the best lasers you can buy."
+  },
+  {
+   "id": "5b4k-dvAxLk",
+   "t": "\"True 5mW\" Green Laser Pointer from DealExtreme",
+   "d": "2009-04-06",
+   "v": 168677,
+   "s": 97,
+   "vertical": false,
+   "desc": "You can buy this laser for only $10.50 shipped here: http://www.dealextreme.com/details.dx/sku.91~r.93098389\r\n\r\nText review with lots of pictures: http://styropyro.com/reviews/dx5.htm\r\n\r\nHere is my review of the True 5mW green laser pointer from DealExtreme. Awesome laser for the price! This is a great laser for someone who hasn't had a green laser before, and for the price you can't go wrong."
+  },
+  {
+   "id": "AhbBIMhdYUY",
+   "t": "200mW Red Laser Lighting 'styro' in Black Powder (HQ)",
+   "d": "2009-06-26",
+   "v": 147610,
+   "s": 18,
+   "vertical": false,
+   "desc": "I figured that I haven't added any videos in a while because of a busted camera, but I got a new camera so I figured I should add something. I found an old container of star primer I made from my old pyro days (all it is is high charcoal BP) so I decided I should do something awesome with it."
+  },
+  {
+   "id": "9VKyBHpmVhQ",
+   "t": "$3 Laser Tripod: 200mW Red Laser Doing Distance Balloon Pop",
+   "d": "2009-06-28",
+   "v": 14143,
+   "s": 14,
+   "vertical": false,
+   "desc": "Here I put a 200mW red laser in a tripod set up that is perfect for lasers. The laser tripod will cost you about $3.38 shipped worldwide and works great with nearly all handheld lasers.\r\n\r\n4\" Tripod:   http://tinyurl.com/m6fp7b\r\nTripod Clamp:   http://tinyurl.com/n58bng\r\n\r\nI can't get over how awesome these work with all of my lasers, I have been looking for something like this for a long time to hold my lasers for distance burning and this is the trick!"
+  },
+  {
+   "id": "xlrhIiu1IWw",
+   "t": "How to Make Green Fire from Materials Found at Home",
+   "d": "2009-06-28",
+   "v": 272787,
+   "s": 67,
+   "vertical": false,
+   "desc": "How to make green fire from cheap and easy to find materials. \r\n\r\nYou can get the Boric acid in the pharmacy of most stores and HEET (in the yellow bottle) can be bought nearly anywhere, even in gas stations for under a dollar a bottle. The HEET is mostly methanol, which is toxic so don't drink it or anything unless you feel like going blind or dying."
+  },
+  {
+   "id": "WQX3Csgl9GU",
+   "t": "HILARIOUS! Ducklings Chasing Green Laser Pointer!",
+   "d": "2009-07-07",
+   "v": 22569,
+   "s": 21,
+   "vertical": false,
+   "desc": "Here I use a DX True 5mW to play with my unexpected ducklings."
+  },
+  {
+   "id": "UWk0ldPi4nk",
+   "t": "DIY: How To Hollow Out Pennies!",
+   "d": "2009-07-10",
+   "v": 85218,
+   "s": 108,
+   "vertical": false,
+   "desc": "In this video I hollow out some pennies with chemicals that are easy to obtain at any hardware store. \n\nHere is an old video that I made that I never put on Youtube, but I figured this might be interesting to some so I put it on here.\n\nThe reason why this works is because the HCl (Muriatic Acid) easily reacts with Zinc but won't touch copper. All US pennies made after 1982 are made of copper plated zinc, so only a foil thin layer of copper covers the pennies. The HCl dissolves the zinc but leaves the copper behind."
+  },
+  {
+   "id": "uGRT3o4NZZ0",
+   "t": "200mW Focusable Red Laser From BudgetGadgets",
+   "d": "2009-07-11",
+   "v": 310739,
+   "s": 113,
+   "vertical": false,
+   "desc": "In this video I overview the BudgetGadgets 200mW Focusable red laser. \r\nText review: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=5770&affiliate_banner_id=1\r\nYou can get this laser here: http://www.budgetgadgets.com/hlp18130-focusable-laser-pointer-200mw-p-5770.html\r\n\r\nGOGGLES ARE REQUIRED WHEN USING LASERS OVER 5mW! If you cannot afford goggles, do NOT mess with strong lasers."
+  },
+  {
+   "id": "z7c8J8ytKvE",
+   "t": "Waterproof Green Laser Flashlight from Rayfoss",
+   "d": "2009-07-19",
+   "v": 106834,
+   "s": 66,
+   "vertical": false,
+   "desc": "Here is a mini-overview of the 50mW waterproof green laser from Rayfoss. Rayfoss Sells these in red, green, and violet, and in powers from 10mW to 200mW. The flashlight case itself comes in black, gray, and chrome. When ordering this laser, don't use the checkout system on their site (rayfoss.com), just email them your order and you will save a lot of time and hassle. \r\n\r\nHere is my text review: http://styropyro.com/reviews/rf50.htm\r\n\r\nJust a note, do NOT put in the battery backwards, the reverse polarity will fry this laser in an instant."
+  },
+  {
+   "id": "aA9OdXKfGdg",
+   "t": "Evolution Pro 130mW Green Laser from Wicked Lasers",
+   "d": "2009-08-29",
+   "v": 131113,
+   "s": 136,
+   "vertical": false,
+   "desc": "Here is my video overview of Wicked Lasers' new Evolution Pro. This laser is a BEAST! This is one of my longer reviews because there were so many features to cover!\nText review with lots of pictures: http://styropyro.com/reviews/wl130.htm\n\nAccording to the power graph Wicked sent me, this laser peaks around 160mW and averages around 140mW.\n\nHere is a link to buy this laser: http://zfer.us/NBS58\n\nGOGGLES ARE REQUIRED WHEN USING LASERS OVER 5mW! If you cannot afford goggles, do NOT mess with strong lasers.\n\nFog was used in this video."
+  },
+  {
+   "id": "Tcn6MN6l-LU",
+   "t": "100mW Green Pen Laser from DealPerfect",
+   "d": "2009-09-08",
+   "v": 56212,
+   "s": 69,
+   "vertical": false,
+   "desc": "Link to buy this laser (Note the advertised power is 200mW, but actual power is closer to 100mW):\r\nhttp://www.dealperfect.com/detail.dp/sku.21668\r\n\r\nText review with lots of pictures (read before buying!):\r\nhttp://styropyro.com/reviews/dp200.htm\r\n\r\nBefore you ask questions make sure you read the review because your question is probably answered there.\r\n\r\nFog was used in this video."
+  },
+  {
+   "id": "7mWRxYWgMPw",
+   "t": "30mW 2x AA Green Laser from FocalPrice (Only $15!)",
+   "d": "2009-09-09",
+   "v": 204375,
+   "s": 121,
+   "vertical": false,
+   "desc": "Link to buy this laser for $15 shipped (note advertised power is 50mW, real power for this unit was closer to 30mW)\r\nhttp://www.focalprice.com/?d=EWiNnww7YKPGyD3tXdtd19MLu1a2gHvUknrOo42TnvVWpN0R9Z6RRw==&t=r7xgNY6mwD/wD7ESGUL9vtiwFWyj18KW&s=cPAB8bHuQH9ylhjpUu/WFQ==\r\n\r\nDetailed Text review (READ BEFORE BUYING!)\r\nhttp://styropyro.com/reviews/fp50.htm\r\n\r\nIf you have any questions, please see my review above, it will most likely answer any questions.\r\n\r\nFog was used in this video."
+  },
+  {
+   "id": "AZBjbjmv4cs",
+   "t": "\"Why can't my laser burn?\" - Some Tips on Laser Focusing and Burning",
+   "d": "2009-09-15",
+   "v": 254258,
+   "s": 58,
+   "vertical": false,
+   "desc": "I have been getting a lot of questions on how to burn with a focusable laser so this video should cover most questions. A common mistake many people make is to focus their lasers to infinity for burning tricks which doesn't work too well. This makes them think they have been sent an underspec laser when in reality the laser is just not focused correctly. When burning you want the smallest dot possible on your target because there is more power on a smaller spot, which causes more heat to be generated over a smaller area. Color is also a huge factor in burning, the darker the color the easier s"
+  },
+  {
+   "id": "9A1SgaEid9w",
+   "t": "Green Laser: Mini Handheld Light Show!",
+   "d": "2009-10-04",
+   "v": 104851,
+   "s": 38,
+   "vertical": false,
+   "desc": "Here I use a green laser with a diffraction tip to make a mini laser lightshow in some fog. The camera can't pick up how cool this looks in real life! This effect is trippy on a foggy night! The laser used is the Budgetgadgets 30mW Starfield green laser."
+  },
+  {
+   "id": "4wMTcnNIw7A",
+   "t": "Red Laser Burning Stuff!",
+   "d": "2009-10-12",
+   "v": 147387,
+   "s": 51,
+   "vertical": false,
+   "desc": "Here is a video response to my old video \"Green Laser Burning Stuff!\". I just do some simple burning tricks with a 200mW red laser. Laser is the BudgetGadgets 200mW Focusable red."
+  },
+  {
+   "id": "vu7xW6FrpnY",
+   "t": "Blu Ray Laser Pointer from DealExtreme",
+   "d": "2009-10-18",
+   "v": 84744,
+   "s": 81,
+   "vertical": false,
+   "desc": "Link to buy this laser: http://www.dealextreme.com/details.dx/sku.28901~r.93098389\r\nText review with lots of pictures: http://styropyro.com/reviews/dx5blu.htm\r\n\r\nAwesome little violet laser pointer, has potential for the pot mod. Awesome price for a violet pointer at about $20 shipped."
+  },
+  {
+   "id": "wdwfm33tPwE",
+   "t": "Liquid Metal Gallium Alloy Galinstan - Looks like Mercury!",
+   "d": "2009-10-25",
+   "v": 145724,
+   "s": 92,
+   "vertical": false,
+   "desc": "Here is a video showing some properties of Galinstan, a Gallium/Indium/Tin alloy that is liquid at room temperature. This stuff is pretty much non-toxic, but is also expensive. A eutectic alloy of this freezes at around -19\u00baC. Unlike mercury, this stuff sticks to everything which can be good or bad depending on your application.\r\n\r\nThis video celebrates my account reaching 2000 subscribers!"
+  },
+  {
+   "id": "OC_sEKomWpM",
+   "t": "The Vanishing Cup Trick!",
+   "d": "2009-11-08",
+   "v": 46554,
+   "s": 63,
+   "vertical": false,
+   "desc": "Here is a classic demonstration of \"The Vanishing Cup\" experiment. This is a great trick that amazes all, your audience will be amazed when an entire styrofoam cup disappears before their eyes! This demo shows how much air and how little polystyrene is actually in styrofoam. All materials in this video are easily available at any Wal-Mart or hardware store"
+  },
+  {
+   "id": "5SRq2-VUGi8",
+   "t": "High-Powered Laser Draws on Photo-Sensitive Paper",
+   "d": "2010-01-18",
+   "v": 71209,
+   "s": 43,
+   "vertical": false,
+   "desc": "Here I use a high-powered violet laser to draw on paper. The paper used is photoreactive, which means it bleaches on exposure to light. Don't ask me where I got the paper because I got it for Christmas 10 years ago...lol\r\n\r\nBTW I haven't been posting many videos recently because I haven't really had time to make them, but in a month or so I will be posting more videos again."
+  },
+  {
+   "id": "76cZiri0PO8",
+   "t": "1x AAA 5mW Green Laser Pointer from DX with Star Tip",
+   "d": "2010-01-23",
+   "v": 28212,
+   "s": 103,
+   "vertical": false,
+   "desc": "Link to buy this laser:\r\nhttp://www.dealextreme.com/details.dx/sku.30651~r.93098389\r\n\r\nText Review: http://styropyro.com/reviews/dx5star.htm\r\n\r\nThis is the single AAA green laser pointer from DX. It comes with a starfield diffraction tip, but IMO the best part about this laser is that it is powered by one AAA battery."
+  },
+  {
+   "id": "FDL--COecow",
+   "t": "RGB LED 16-Color Lamp From DX - Remote Controlled!",
+   "d": "2010-01-23",
+   "v": 101248,
+   "s": 69,
+   "vertical": false,
+   "desc": "Link to buy this: http://www.dealextreme.com/details.dx/sku.30210~r.93098389\r\n\r\nHere is a demo of this RGB LED lamp, this thing is so cool!"
+  },
+  {
+   "id": "bQWx-7lH8ec",
+   "t": "DIY: How to Modify a Green Laser Pointer into a Burning Laser",
+   "d": "2010-01-31",
+   "v": 2543316,
+   "s": 158,
+   "vertical": false,
+   "desc": "This step-by-step tutorial shows you how to modify a \"True 5mW\" green laser pointer into a burning laser. This is very easy to do and is 100% legal in the US. This mod is perfect for people who are limited to 5mW pointers by import laws, because importing a bare module over 5mW into the US is legal.\r\n\r\nParts:\r\n\"True 5mW\" Laser Pointer - http://www.dealextreme.com/details.dx/sku.91~r.93098389\r\n\"200mW\" (closer to 100mW-150mW) laser module - http://www.dealextreme.com/details.dx/sku.26891~r.93098389\r\n\r\nHere is a text tutorial: http://styropyro.com/tutorials/greenmod.htm\r\n\r\nI will finish adding de"
+  },
+  {
+   "id": "4b8bLKIdbSM",
+   "t": "Awesome Green Laser Gun Sight!",
+   "d": "2010-03-02",
+   "v": 112389,
+   "s": 81,
+   "vertical": false,
+   "desc": "Here is a sick green laser gun sight of mine, visibility on this thing is incredible!\n\nThis is the review of the laser gun sight from Airsoft Park. This sight is intended for an Airsoft gun, but it was too nice so I threw it on my air rifle. \n\nLink to buy this laser: http://www.airsoftpark.com/jg016-532nm-20mw-tactical-green-laser-sight-scope-p-65.html?osCsid=ef1488dbfd375ebd76d59a6cef0eb404"
+  },
+  {
+   "id": "whuYYy7em7c",
+   "t": "Playing with Nitrocellulose",
+   "d": "2010-03-27",
+   "v": 41927,
+   "s": 43,
+   "vertical": false,
+   "desc": "Here I demonstrate the ignition of nitrocellulose. Nitrocellulose is some fun stuff, pretty easy to make too. I used sulfuric acid drain opener and potassium nitrate as the nitrating solution, although using real nitric acid would yield better results. There are a bunch of good videos on YouTube on making this stuff, so I won't be making a how-to video for guncotton. \r\n\r\nHere is a how to on making nitrocellulose, skip down on the page to the hexanitrate:\r\nhttp://www.powerlabs.org/chemlabs/nitrocellulose.htm\r\n\r\nThanks to ChemXu for giving me the idea to make this stuff, check out his chemistry/"
+  },
+  {
+   "id": "qQ4BlaqkikQ",
+   "t": "Awesome Explosive Chemistry Experiment!",
+   "d": "2010-03-30",
+   "v": 241400,
+   "s": 71,
+   "vertical": false,
+   "desc": "Manganese Heptoxide is an extremely powerful oxidizer that reacts with nearly anything organic. In this video I light a bunch of stuff on fire with it include liquid butane, paper, gasoline, and a bunch of other stuff. This stuff is potent!\r\n\r\nYou can get KMnO4 for making this stuff here: http://styropyro.com/store/index.php?main_page=product_info&cPath=4&products_id=5&zenid=c7b7041e56e4fb91dde9531eed9f2ebf"
+  },
+  {
+   "id": "WUOY0h8BPPk",
+   "t": "How to Make the BEST Smoke Bomb!",
+   "d": "2010-04-11",
+   "v": 151970,
+   "s": 122,
+   "vertical": false,
+   "desc": "How to make long-lasting, high-output smoke bombs from materials you can get at Wal Mart.\r\n\r\nText Tutorial: http://styropyro.com/tutorials/smokebomb.htm\r\n\r\n I have tested MANY smoke bomb compositions and the one in this video is by far the best for price, ease, and output."
+  },
+  {
+   "id": "IcSEsazb56Q",
+   "t": "Potassium Permanganate + Brake Fluid",
+   "d": "2010-05-28",
+   "v": 203572,
+   "s": 59,
+   "vertical": false,
+   "desc": "This video shows what happens when you mix potassium permanganate with brake fluid. It's pretty cool, and a little more violent than the classic KMnO4 + Glycerin trick. \n\nI sell Potassium Permanganate in my store! \nhttp://styropyro.com/store/index.php?main_page=product_info&cPath=4&products_id=5&zenid=0e7675fc80fc8bbc8c2554d0a5826a23"
+  },
+  {
+   "id": "woiTedSKPrk",
+   "t": "Green Lasers: What Can Certain mW Do?",
+   "d": "2010-06-03",
+   "v": 4389554,
+   "s": 96,
+   "vertical": false,
+   "desc": "This video compares some of the most common power outputs of green lasers you can buy these days. I compare the difference in visibility and burning between 5mW, 15mW, 35mW, 50mW, 100mW, and 150mW. \n\nImportant info after watching this video:\n-I used fog to bring out the beams.\n-This video is only about green lasers because they are nearly always fixed focus and have a small beam diameter.\n-I mention powers where tricks are EASY to do. You may be able to pull off burning tricks with less power than what I state, but these are bench mark powers where you can reliably do these burning tricks.\n-Ad"
+  },
+  {
+   "id": "YxI-lr89-6M",
+   "t": "Green Lasers Vs. Red Lasers: Which are Better?",
+   "d": "2010-06-11",
+   "v": 2130009,
+   "s": 90,
+   "vertical": false,
+   "desc": "I get this question a lot, \"Are green or red lasers better?\" This video covers the main difference between hobby level green and red lasers. \n\nHere are a couple extra notes:\n\nThis video was shot in fog.\n\nGreen lasers are a very complex system so you are more likely to find problems with these. Red lasers are simple so problems are less common.\n\nThose cheap \"200mW\" rated green laser pointers you see on Amazon or cheap Chinese sites for under $50 are never even close to 200mW of actual output.\nGOGGLES ARE REQUIRED WHEN USING LASERS OVER 5mW! If you cannot afford goggles, do NOT mess with strong "
+  },
+  {
+   "id": "4Rl3w8nG1kU",
+   "t": "1000mW BLUE Laser Burning Stuff! - 445nm @ 1W",
+   "d": "2010-06-19",
+   "v": 2515800,
+   "s": 66,
+   "vertical": false,
+   "desc": "Here a BEAST blue laser in the class IV range burns some stuff. This laser is extremely dangerous!\n\nMore videos of this laser coming soon, just waiting on a new lens for this laser. Current is now at 1.25A so it should be outputting 1300mW or so now.\n\nI built this laser from a lot of spare parts and a 1W blue laser diode.\n\n6-20 Honors:\n\n#54 - Most Discussed (Today)) - Science & Technology\n#23 - Top Favorited (Today)) - Science & Technology\n#64 - Top Rated (Today)) - Science & Technology\n\nBuild tutorial on this is actually possible soon now that these are commercially available."
+  },
+  {
+   "id": "3Kc4RyOMDjo",
+   "t": "Powerful Homemade Burning Laser Built From Computer Parts",
+   "d": "2010-07-02",
+   "v": 4815346,
+   "s": 50,
+   "vertical": false,
+   "desc": "Here is a burning laser that I built nearly entirely from old computer parts, power is around 250mW. The power supply, multiple heatsinks, and laser diode all came from a computer. I had to pay for the Aixiz module and LM317 + resistors, but that only cost a few bucks. Before throwing away computer stuff, take a look inside and salvage the useful stuff! I'm also powering my 1200mW Blue laser with an old computer power supply.\n\nThe building process!! : http://www.youtube.com/watch?v=fj7EcDA73Bs\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointe"
+  },
+  {
+   "id": "H2sjiMUn11w",
+   "t": "Powerful Blue Laser Lighting Stuff on Fire!",
+   "d": "2010-07-06",
+   "v": 304783,
+   "s": 39,
+   "vertical": false,
+   "desc": "Here is a 1200mW or so blue laser lighting stuff on fire. Candles and match sticks light with ease with a laser this strong. I pushed this laser diode to its limits for this video, I have some even stronger laser diodes in the mail for some even cooler videos. \r\n\r\nThe Wicked Lasers Arctic is not focusable like this laser is, so it may not be able to do these tricks. If you plan on getting the Wicked Lasers Spyder III Arctic 1W 445nm, WEAR THE GOGGLES THEY SEND YOU! This laser will nuke your eyeballs faster than you can blink."
+  },
+  {
+   "id": "2rJNVTgqAcg",
+   "t": "Homemade 1000mW Blue Laser Pocket Burner!",
+   "d": "2010-07-19",
+   "v": 420717,
+   "s": 66,
+   "vertical": false,
+   "desc": "Here is a 1W blue laser I built into a tiny AA flashlight. It is focusable and can burn lots of stuff!\r\n\r\nBattery is 14500, so lifetime per charge is not that great, but oh well. Duty cycles are very short because a 1W laser in a small host with not much heatsinking gets hot quick! Driver is a flexdrive set somewhere near an amp."
+  },
+  {
+   "id": "_VrNDe9mpOs",
+   "t": "DIY: How to Build a Burning Red Laser",
+   "d": "2010-07-19",
+   "v": 984367,
+   "s": 128,
+   "vertical": false,
+   "desc": "How to make a very powerful burning red laser for under $30. This video covers in detail on building a high powered laser module, but then it is up to your creativity to pick a housing for this module, as in a flashlight or something. \n\nParts:\nLPC-815 diode in Aixiz module: http://hightechdealz.com/product_info.php?cPath=21&products_id=36\nrkcstr driver: http://rkcstr.nfshost.com/index.php?main_page=product_info&cPath=65&products_id=201\n\nSafety:\nIf you plan on burning things or using this laser indoors, goggles are absolutely necessary. One hit in the eye will blind you, and even staring at the"
+  },
+  {
+   "id": "2Rjlf7gnXms",
+   "t": "DIY: Make a $3 Laser Diode Driver!",
+   "d": "2010-07-20",
+   "v": 439281,
+   "s": 95,
+   "vertical": false,
+   "desc": "How to make a cheap and very easy laser diode driver from parts found at any electronics store. This video is about the most simple it gets, you can add extra parts for more features if you want later. For a detailed tutorial on building this driver with extra features, go here: http://laserpointerforums.com/f42/diy-homemade-laser-diode-driver-26339.html\r\n\r\nRadioShack Parts list:\r\nLM317: http://www.radioshack.com/product/index.jsp?productId=2062601\r\nresistors vary on what you need, resistor kit: http://www.radioshack.com/product/index.jsp?productId=2062304&CAWELAID=107599311\r\n\r\nParts can be bo"
+  },
+  {
+   "id": "Sn8RZPx2BEY",
+   "t": "200mW Focusable Green Laser from BudgetGadgets",
+   "d": "2010-07-24",
+   "v": 46068,
+   "s": 102,
+   "vertical": false,
+   "desc": "Here is a 200mW focusable green laser burning stuff. This laser is extremely powerful! This laser was ordered from http://www.budgetgadgets.com and comes in 50mW, 100mW, 150mW, and 200mW models for both green and violet (blu-ray).\r\n\r\nLinks to buy this laser:\r\nGreen: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=7135&affiliate_banner_id=1\r\nViolet: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=7136&affiliate_banner_id=1"
+  },
+  {
+   "id": "lE3F7vjYx4U",
+   "t": "DIY: How To Build A 1W Burning Blue Laser Torch!",
+   "d": "2010-08-15",
+   "v": 519903,
+   "s": 219,
+   "vertical": false,
+   "desc": "How to make a handheld 1W 445nm blue laser torch. This laser is focusable, unlike the Wicked Lasers Arctic, which makes it even better for burning. This build will cost around $130, less than half the Arctic price.\r\n\r\nParts list:\r\nFlashlight (There are a lot of options, I chose to \"drill out the pill\". You can add a bunch of extra options, like the \"hot option\". With the hot option You won't have to buy a flexdrive because there is already one placed in the flashlight set to the current you want. This saves a lot time. http://laserpointerforums.com/f39/fs...red-43857.html\r\nFlexdrive (choose pr"
+  },
+  {
+   "id": "zihZiGUKUS8",
+   "t": "DIY: Hack a Dead Computer into a Burning Laser!",
+   "d": "2010-09-29",
+   "v": 775417,
+   "s": 232,
+   "vertical": false,
+   "desc": "This video shows you how to hack a broken computer into a burning laser for just a few bucks! With this simple tutorial, you can use that old computer that is collecting dust for something fun. This setup will give you around 250mW. Wear goggles when using this laser!\n\nParts links:\nAixiz module: http://modwerx.com/shop/index.php?main_page=product_info&cPath=12&products_id=11&zenid=3hkstkjk75jrc1t5d0svk2t5u7\nLPC-815 sled (if no/weak DVD burner): http://modwerx.com/shop/lpc815-20x-dvd-burner-laser-lens-assembly-w-red-laser-diode-p-2.html\nGOGGLES: http://www.o-like.com/index.php?main_page=product"
+  },
+  {
+   "id": "DFGm6jL2pSk",
+   "t": "eBay Green and Blu-Ray Lasers - What to Expect",
+   "d": "2010-10-24",
+   "v": 106988,
+   "s": 72,
+   "vertical": false,
+   "desc": "Here's a quick overview of violet and green lasers that I bought from eBay. Each cost under $10 and make it to your door (if in the US) in just a few days.\r\n\r\nI would recommend the violet ones, but not the green ones. Watch the video to find out more...\r\n\r\nHere's a link the the violet pointers on eBay. http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=110526896347&ssPageName=STRK:MEWNX:IT"
+  },
+  {
+   "id": "C-hvlalqfGA",
+   "t": "The Burning Blue Laser Death Ray!",
+   "d": "2010-11-15",
+   "v": 253719,
+   "s": 113,
+   "vertical": false,
+   "desc": "Here's how I built my extremely powerful blue laser as seen in my popular video \"Blue Laser Burning Stuff!\". I got a lot of questions about that video so I decided to make a video overview explaining the parts I used and how they are put together, followed by a bunch of clips of it burning stuff. \n\nPower is probably a little over a watt, AKA 1000mW.\n\nI got most of these parts at http://www.modwerx.com . You have to find a broken computer somewhere for the power supply if you go for this build though.\n\nALWAYS wear goggles when working with lasers over 5mW! Permanent eye damage is very easy to g"
+  },
+  {
+   "id": "66aVXk5jSn8",
+   "t": "Insanely Powerful 2000mW Blue Laser Destroying Stuff",
+   "d": "2010-12-26",
+   "v": 1003421,
+   "s": 79,
+   "vertical": false,
+   "desc": "This is the most powerful laser I have been able to get my hands on, so as any man would, I decided to stick some stuff in the beam and see what happens. At 2W @ 445nm, this laser is a real beast.\n\nI built this laser myself, putting a whopping 2A through the poor little laser diode. It probably won't last long, but it sure is cool while it lasts. \n\nI wore goggles when making this video, and if you ever get a hold of of one of these new 445nm lasers (including the Arctic), you MUST wear goggles or you WILL pay the consequences.\n\nMerry Christmas!\n\nCheck out http://laserpointerforums.com to learn"
+  },
+  {
+   "id": "MDMXfF4WjeM",
+   "t": "200mW Violet Starfield Laser from BudgetGadgets",
+   "d": "2010-12-27",
+   "v": 24817,
+   "s": 120,
+   "vertical": false,
+   "desc": "READ Text Review: http://laserpointerforums.com/f52/200mw-violet-star-field-laser-budgetgadgets-59299.html\r\nProduct link: http://www.budgetgadgets.com/product_info.php?ref=26&products_id=7668&affiliate_banner_id=1\r\n\r\nHere is the 200mW blu-ray laser from budgetgadgets.com. Nifty laser, very entertaining. \r\n\r\nSecond video I've posted today, I'm on a roll."
+  },
+  {
+   "id": "0iFqeEa05q0",
+   "t": "Dry Ice!!!",
+   "d": "2011-01-16",
+   "v": 101458,
+   "s": 152,
+   "vertical": false,
+   "desc": "Playing with 20 pounds of dry ice! There are a lot of awesome tricks to do with considerable quantities of dry ice, here are some of my favorite.\r\n\r\nMy YouTube channel dedicated to dry ice experiments: http://www.youtube.com/user/FXFrozenFire \r\n\r\nDry ice is as cheap as dirt and very easy to acquire, I got mine for under $0.45 a pound. Watch for more dry ice videos coming in the future, and feel free to post some ideas of new videos!"
+  },
+  {
+   "id": "Y7JavGjcb0Y",
+   "t": "DIY: How to Build a Burning Laser Without any Soldering!",
+   "d": "2011-01-22",
+   "v": 891704,
+   "s": 118,
+   "vertical": false,
+   "desc": "How to build a burning laser without any soldering, and best of all, in an Altoids tin! This is probably the easiest burning laser one can make, and it doesn't cost much either. \n\nParts list: 200mW rated laser module: http://www.dealextreme.com/details.dx/sku.26891~r.93098389\nSwitch and Battery Pack: RadioShack, various electronics stores\nAltoids Tin: Be creative\n\nSome rules regarding these lasers: You cannot EVER use this laser indoors without goggles. Looking at the dot up close WILL give you PERMANENT retinal burns. You cannot show this laser to friends if they do not have goggles, no excep"
+  },
+  {
+   "id": "uMAZobAvjAM",
+   "t": "2W (2000mW) Blue Laser vs. Line of 24 Balloons",
+   "d": "2011-02-20",
+   "v": 1065702,
+   "s": 37,
+   "vertical": false,
+   "desc": "Here a 2W 445nm laser shreds a line of 24 balloons very quickly while focused to infinity. This death ray has held up well to the extreme power it produces.\n\nI built this laser myself, it is a projector 445nm laser diode at 2A. My total cost was somewhere between  $50 and $100 because I used a lot of scrap parts and had stuff laying around.\n\nI wore goggles when making this video, and if you ever get a hold of of one of these new 445nm lasers (including the Arctic), you MUST wear goggles or you WILL pay the consequences.\n\nThanks to Jessa Wakid for making this video possible."
+  },
+  {
+   "id": "9g5xaJQacC0",
+   "t": "Huge 25W LED Burning Stuff!",
+   "d": "2011-02-27",
+   "v": 48197,
+   "s": 64,
+   "vertical": false,
+   "desc": "Here I use an insanely bright red LED to burn things without the aid of any focusing optics. This beast takes 8 amps to run at full power, producing several watts of output light. \n\nRemember, this is not a laser! This is just an unfocused, but extremely powerful LED. \n\nThis LED came from one of the Casio projectors that we get the 1W+ blue laser diodes from. That projector is like a goodie bag to light freaks like me."
+  },
+  {
+   "id": "PYIQpP3-ZXY",
+   "t": "How to Enhance Your Laser's Beam!",
+   "d": "2011-03-20",
+   "v": 947758,
+   "s": 80,
+   "vertical": false,
+   "desc": "Here's how to make your laser's beam extremely bright. I use these tricks in most of my videos for the best eye candy.\n\nI had a lot of requests for a video like this so I figured I'd make one.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "JkkK-XSPMxw",
+   "t": "Blue Lasers vs. Green Lasers: Which are Better?",
+   "d": "2011-03-23",
+   "v": 5317414,
+   "s": 112,
+   "vertical": false,
+   "desc": "Here I compare blue lasers with green lasers found on the hobby market today. I explain the pros and cons of each and demonstrate their features.\n\nBLUE LASER used in this video: http://www.youtube.com/watch?v=2rJNVTgqAcg\n\nI got a lot of requests for this video after I posted my video comparing red lasers to green lasers.\n\nI made the blue laser in the video.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "moWe5HNpFqI",
+   "t": "HUGE 640mW Green Laser Burning Stuff!",
+   "d": "2011-03-25",
+   "v": 227678,
+   "s": 60,
+   "vertical": false,
+   "desc": "Burning stuff with a super strong 640mW green lab laser. The power behind this laser is INCREDIBLE! Don't put anything at the end of this beam unless you want it destroyed!\n\nThis green laser peaks at 640mW and settles out at 590mW after a good warm up, giving it the elite class IV status. \n\nAlways wear goggles when working with lasers over 5mW!\n\nJust got my 10,000,000th video view yesterday, thanks for all the views and subscriptions!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and hav"
+  },
+  {
+   "id": "whqoKCc4cjQ",
+   "t": "Burning Green Laser Death Ray!",
+   "d": "2011-03-28",
+   "v": 45442,
+   "s": 72,
+   "vertical": false,
+   "desc": "Here is a class IV lab laser module lighting a bunch of stuff on fire.\n\nLike I said in the video, this laser can be purchased off of eBay, although I got it used off of a forum for $350.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "vuipJ7YuDfk",
+   "t": "\"BALLOON INCEPTION!\" Powerful Laser Popping Balloon INSIDE another balloon!",
+   "d": "2011-04-10",
+   "v": 501505,
+   "s": 26,
+   "vertical": false,
+   "desc": "Here I pop a balloon INSIDE of another balloon using a strong laser. I also light a match inside of a balloon in this video.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "eRNLqTfIjQo",
+   "t": "DIY Colored Fire!",
+   "d": "2011-04-20",
+   "v": 265061,
+   "s": 47,
+   "vertical": false,
+   "desc": "How to make awesome colored flames from materials found at home. Colored flames make great special effects for a wide variety of occasions.\r\n\r\n100th video!"
+  },
+  {
+   "id": "SrDujZR3inY",
+   "t": "Water to Snow in 5 Seconds! Cool Chemistry Trick",
+   "d": "2011-04-25",
+   "v": 68459,
+   "s": 36,
+   "vertical": false,
+   "desc": "Here I use a super absorbent polymer to turn liquid water to solid \"snow\" in seconds! The chemical used was sodium polyacrylate, it absorbs hundreds of times its weight in water."
+  },
+  {
+   "id": "dhFuu3GpHDQ",
+   "t": "2W Blue Laser Melts Soldering Wire!",
+   "d": "2011-05-07",
+   "v": 51365,
+   "s": 24,
+   "vertical": false,
+   "desc": "Here a 2000mW death ray blue laser melts soldering wire. Soldering wire, especially when molten, is very reflective so it was hard to pull off melting it but with enough power it melts with ease. \n\nI used laser goggles when making this video. Class IV lasers + reflective surfaces is extremely dangerous!\n\nI built the laser in this video. It is starting to show signs of COD (catastrophic optical damage) because of the high current being blasted into it.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for"
+  },
+  {
+   "id": "qB0F1yR0LIY",
+   "t": "Ridiculously Powerful Near UV Laser Burning Stuff! Class IV @ 405nm",
+   "d": "2011-05-11",
+   "v": 616989,
+   "s": 75,
+   "vertical": false,
+   "desc": "Here a ridiculously powerful near UV laser burns stuff. This is one of the most dangerous lasers I own, so I figured I would show you all a video of it.\n\nI built it from a 12X blu-ray burner laser diode and a hacked computer PSU. I'm also using a DIY LM317 circuit running at 420mA.\n\nThis laser is only 5nm away from being in the UV range. This explains why  it isn't bright.\n\n\nGOGGLES ARE REQUIRED FOR ANY LASER OVER 5mW! I used goggles when recording this video, and I suggest you do when working with strong lasers.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lase"
+  },
+  {
+   "id": "gHOdDiV4Oro",
+   "t": "BIG SCARY LASERS! 4.6W of Blue, Green, Red, and Violet Lasers",
+   "d": "2011-05-13",
+   "v": 125404,
+   "s": 41,
+   "vertical": false,
+   "desc": "Here are a bunch of extremely powerful lasers of mine. I've had a lot of requests over the years to make a video like this.\n\nIncluded are: 2W 445nm (blue), 1W 445nm, 600mW 405nm (violet), 640mW 532nm (green), 200mW 532nm, and 2X 200mW 650nm (red).\n\nI should probably try making a projector sometime soon because I have the lasers for it.\n\nSorry if the video is a little shaky at some points, it is very hard to see with stacked laser goggles!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and"
+  },
+  {
+   "id": "WNq4x1eE-EQ",
+   "t": "Laser \"Midair Hologram\" Time Tunnel Light Show Machine!",
+   "d": "2011-05-26",
+   "v": 60577,
+   "s": 61,
+   "vertical": false,
+   "desc": "Here is a crazy laser show effect that gives the appearance of a midair hologram as seen in sci-fi movies. I made this from spare parts I had siting around. In the video I show how I made it, it is a very easy but very cool project you can make at home with any laser pointer!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "KcazcEDF0WY",
+   "t": "Camera DESTROYED by Powerful Laser!!",
+   "d": "2011-06-08",
+   "v": 640250,
+   "s": 61,
+   "vertical": false,
+   "desc": "Here a camera is zapped by a 2W blue laser. This camera is destroyed in seconds when exposed to such a strong laser.\n\nThis video proves why you don't want to look into a laser beam!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "yTnqamZJ97g",
+   "t": "Real Life Laser Gun! Airsoft Gun Hacked Into Laser Blaster!",
+   "d": "2011-06-20",
+   "v": 2921414,
+   "s": 89,
+   "vertical": false,
+   "desc": "I hacked a crappy electronic airsoft gun into a burning laser blaster using a laser diode from a 12X blu-ray disc burner. This thing is absolutely awesome. \r\n\r\nIf you don't feel like spending $200 on a 12X burner just for the laser, you can get the laser diode for $50 from here: http://www.modwerx.com/shop/laser-components-c-2/bdr-s06j-12x-blu-ray-burner-lens-500-mw-p-65?zenid=ptt45i365h8j9hq3494t81ns70\r\n\r\nOr you can use a 2W blue laser diode for even more power! http://www.modwerx.com/shop/laser-components-c-2/5-6mm-445nm-1w-laser-diode-p-62\r\n\r\nHere is the Aixiz module and glass lens: http://"
+  },
+  {
+   "id": "R-88LC4I_jo",
+   "t": "200mW Green Laser Module from DX: Review + DIY Lab Laser Project",
+   "d": "2011-06-25",
+   "v": 45016,
+   "s": 87,
+   "vertical": false,
+   "desc": "Here I review the 200mW green laser module from DX. This module is a great laser for a beginner's laser project. \n\nLink to buy this laser: http://www.dealextreme.com/p/200mw-532nm-green-laser-module-3v-11-9mm-26891?r=93098389\n\nTo be honest I was a little unimpressed with this laser. Oh well it's not like it was expensive. It is outputting 115mW after warm up.\n\nALWAYS WEAR GOGGLES WHEN WORKING WITH LASERS OVER 5mW!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of"
+  },
+  {
+   "id": "w-jTc0rGXzc",
+   "t": "300mW Green Laser Torch from DinoDirect - Burning Stuff and Overview (HD!)",
+   "d": "2011-07-25",
+   "v": 4747763,
+   "s": 129,
+   "vertical": false,
+   "desc": "Here I demonstrate the extreme power of a 300mW green handheld laser from DinoDirect.com\n\nHere is a link to this exact laser: http://www.dinodirect.com/firedragon-green-laser-pointer-flashlight-532nm-300mw\n\nFog was added to bring out the beams of the lasers in this video. The bubbling stuff I used in the video was dry ice in hot water."
+  },
+  {
+   "id": "z96VCR5Ispk",
+   "t": "Powerful Laser Blows up Thermometer!",
+   "d": "2011-08-01",
+   "v": 90497,
+   "s": 42,
+   "vertical": false,
+   "desc": "A thermometer is no match for a 1W blue laser and explodes within seconds of being exposed to the beam.\n\nI get a lot of questions asking how \"hot\" a laser is, so here's why you can't measure it. (Blatantly disregarding that heat and power are completely different units...)\n\nI built the blue laser in this video.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "qaiOyyUs6tw",
+   "t": "Blue Lasers vs. Red Lasers: Which are Better?",
+   "d": "2011-08-01",
+   "v": 410208,
+   "s": 108,
+   "vertical": false,
+   "desc": "Here I compare powerful red and blue lasers, showing the pros and cons of each. Both make great burning lasers with enough power behind them.\n\nI built the 1W blue laser in the video, but the 200mW red laser was bought from here: http://www.youtube.com/watch?v=uGRT3o4NZZ0\n\nI originally wasn't going to make this video, but I had a lot of requests for it so I went ahead and made it. Y'all are too lazy to watch the other two videos in the series and make a conclusion between red and blue! ;)\n\nI used fog to bring out the beams in this video.\n\nWatch for videos of my new near 2W green laser coming so"
+  },
+  {
+   "id": "i5HjdmVcoDw",
+   "t": "2000mW GREEN Laser Destroying Stuff!",
+   "d": "2011-08-10",
+   "v": 312061,
+   "s": 111,
+   "vertical": false,
+   "desc": "Here I burn the crap out of a bunch of stuff with a laboratory grade 2W 532nm DPSS laser module. This is the first laser I've had that has a visible beam in BROAD DAYLIGHT.\n\nI sell modules like this. I can get you 1.6W-2W of green in either TTL or Analog modulation for $1350.  If you are interested then send me a message. \n\nMore videos to come of this insane beat of a burning laser.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable mem"
+  },
+  {
+   "id": "G68_XlEWcgA",
+   "t": "Powerful 473nm SKY BLUE/AQUA Laser Burning Stuff!",
+   "d": "2011-08-15",
+   "v": 24350,
+   "s": 97,
+   "vertical": false,
+   "desc": "Here is a very powerful sky blue 473nm laser burning stuff. It is next to impossible to come across a 473nm laser module with this much power, but because I'm styropyro, I managed to get one.\n\nThis laser has both TTL and Analog modulation. I'll probably sell this soon, so if you want it send me a message.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "RNLRTzt3MvQ",
+   "t": "2000mW Green Laser vs. Line of 20 Balloons! 2W @ 532nm Class IV!!!",
+   "d": "2011-08-24",
+   "v": 347206,
+   "s": 30,
+   "vertical": false,
+   "desc": "Here a green laser of unbelievable powers goes up against a line of 20 balloons. \n\nI made this video after a few requests to try it with this laser after watching my similar video with a 2W blue laser.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "O4wwkq97ZxM",
+   "t": "400mW Green Laser from DinoDirect - Review and Burning Stuff!",
+   "d": "2011-08-27",
+   "v": 320276,
+   "s": 123,
+   "vertical": false,
+   "desc": "Overview of the S-KY 200mW rated green laser from DinoDirect. My unit is outputting over double its rated power!\n\nLink to this laser: http://www.dinodirect.com/green-laser-pointer-pen-flashlight-handheld-532nm-200mw/~p.186\n\nREAD! Review: http://laserpointerforums.com/f52/200mw-s-ky-green-laser-dinodirect-outputs-over-400mw-detailed-review-66589.html#post957654\n\nThis is a great advanced laser.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowled"
+  },
+  {
+   "id": "3G2sLt2VVUY",
+   "t": "The Spyder Arctic 1W Blue Laser from Wicked Lasers",
+   "d": "2011-09-11",
+   "v": 173618,
+   "s": 191,
+   "vertical": false,
+   "desc": "For the past year, I have been pounded with emails asking about Wicked Lasers and their very popular laser, the Spyder Arctic S3. This was the first commercial handheld laser to claim 1W of blue output, and because of that it received a lot of attention from the media. There has been a lot of controversy over this laser, so the best way to find the truth was to actually try one out for myself.\n\nThe Spyder is in my opinion the most impressive handheld on the market today. This is not completely due to the 1W 445nm blue output, but more to the fact that is clearly a level above DIY style lasers "
+  },
+  {
+   "id": "d1pXhhtUaso",
+   "t": "Lasers: What Can Certain mW do? (200mW-2W of Red, Green, and Blue Lasers)",
+   "d": "2011-09-15",
+   "v": 1576702,
+   "s": 91,
+   "vertical": false,
+   "desc": "This video compares lasers of powers ranging from 200mW all the way up to 2W. This is part two of my video titled \"Green Lasers: What Can Certain mW Do?\".\n\nThis video compares lasers that are focused to a point. High powered lasers vary widely in beam diameter so to keep things simple, all lasers here were focused to the smallest possible dot.\n\nALWAYS wear laser goggles when working with lasers over 5mW to prevent permanent blindness!!!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and h"
+  },
+  {
+   "id": "BGTmEZKWhjA",
+   "t": "Cheap 473nm Blue Laser from eBay - Overview and Modification",
+   "d": "2011-09-29",
+   "v": 36954,
+   "s": 89,
+   "vertical": false,
+   "desc": "Here I bought a broken 473nm blue laser from eBay and tinkered with it to make it strong enough to even burn stuff!! \n\nInfo on this laser of mine: http://laserpointerforums.com/f48/35-80mw-peak-473nm-module-ebay-67605.html#post974911\n\nThanks to TunedCavityLasers for help on this build, check out their channel!: http://www.youtube.com/user/TunedCavityLasers\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "aiq5Y5Ont8o",
+   "t": "Fusion Green Laser from Wicked Lasers!",
+   "d": "2011-10-09",
+   "v": 32411,
+   "s": 85,
+   "vertical": false,
+   "desc": "Burning and visibility tests of the Wicked Lasers Executive 125mW (Fusion)\n\nLink to buy this laser (or similar): http://zfer.us/NBS58\n\nI bought this laser used off of a forum, I don't know how much it has been used but I do know this laser is an older model. The output isn't as high as I would like (110mW avg.) but this is probably due to the fact that it is several years old.\n\nFog was used to bring out the beam.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of "
+  },
+  {
+   "id": "46fhmA52HVQ",
+   "t": "Homemade YELLOW Laser!",
+   "d": "2011-10-15",
+   "v": 196365,
+   "s": 133,
+   "vertical": false,
+   "desc": "Here is my burning yellow laser that I built recently. This laser has a bright lime-yellow color that turned out very well.\n\nGetting the alignment correct was a bit difficult, but was worth it in the end. I really should have used dichro and laser mounts, but I like going as cheap as possible and this setup works.\n\nMy next beam combining project will be a RBG white laser! I have a whole new set of dichros for the purpose, plus 405nm, 445nm, 460nm, and 473nm lasers for the perfect color mix. I'll actually get the right parts for that though.\n\nCheck out http://laserpointerforums.com to learn mor"
+  },
+  {
+   "id": "CbxXhL8N1vg",
+   "t": "The Brightest Red Laser \"Pointer\" You'll Ever See! 635nm Burning Laser Torch",
+   "d": "2011-11-05",
+   "v": 820212,
+   "s": 123,
+   "vertical": false,
+   "desc": "Here is my homemade laser torch that uses a high brightness 635nm laser diode. This laser is a beast!! Goggles are absolutely necessary when working with a laser this strong. \n\nYou'll be seeing these laser diodes in commercially produced laser hosts soon I would bet. I'm surprised I haven't seen anything from Wicked lasers yet.\n\nSorry you haven't seen any videos from me lately, you can thank the Chinese mail service for that. I should have a LOT more videos in the near future if I finally get the stuff in the mail that I've been waiting on.\n\nCheck out http://laserpointerforums.com to learn mor"
+  },
+  {
+   "id": "iYgUAUWIjoM",
+   "t": "Sniper Shot of Balloon and Match at 82ft with 2W Green Laser!",
+   "d": "2011-11-27",
+   "v": 66325,
+   "s": 41,
+   "vertical": false,
+   "desc": "Here a 2W green laser with a 15X beam expander snipes a balloon and match at 82ft. \n\nI'll get longer shots if I can find a better, flat spot to do distance burning. \n\nI've been busy lately so I haven't been able to post as many videos as I'd like, hopefully I'll change that soon.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "MltZEAD7kd0",
+   "t": "New Laser Colors! 460nm Sapphire Blue and 589nm Yellow!",
+   "d": "2011-12-19",
+   "v": 48768,
+   "s": 62,
+   "vertical": false,
+   "desc": "Here are some \"rare\" colors of handheld lasers I have acquired recently. 460nm is considered true blue and 589nm is a yellow/orange color."
+  },
+  {
+   "id": "e7rhanI52RI",
+   "t": "Badass Argon Ion Laser!!!",
+   "d": "2011-12-21",
+   "v": 226858,
+   "s": 128,
+   "vertical": false,
+   "desc": "Here is an awesome argon ion laser that I bought off of a forum. (thanks Pontiacg5!) This laser outputs 8 different colors! \n\nThis laser is absolutely huge! It is also extremely inefficient, after running for a few minutes, it heats up the whole room.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "tMvo0-ZlJGg",
+   "t": "MASSIVE 40W DEATH RAY LASER!",
+   "d": "2012-02-08",
+   "v": 685393,
+   "s": 86,
+   "vertical": false,
+   "desc": "I finally got a hold of a carbon dioxide laser, this one packing 40W of output power. This laser's power puts the power of all my other lasers to shame. It's wavelength is 10600nm, deep into the IR range.\n\nMore videos of this laser to come soon. I am also looking for ideas of what to do with a new 355nm laser. (5mW average, 2000W peak)\n\nThanks to jeffreythe00 of LPF for this laser! I paid $440 for this beast.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help"
+  },
+  {
+   "id": "q4Oknc8onG8",
+   "t": "40000mW Laser vs. Line of Balloons!!",
+   "d": "2012-02-11",
+   "v": 2021947,
+   "s": 27,
+   "vertical": false,
+   "desc": "Here my new 40W CO2 obliterates a line of balloons in just a few seconds. I had a couple requests for this one, I think the result was expected. \n\nYes I know 40000mW is the same as 40W, the bigger number just looks cooler.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "I_cli8Zrnt0",
+   "t": "100mW 473nm Sky Blue HANDHELD Laser!",
+   "d": "2012-02-15",
+   "v": 130112,
+   "s": 91,
+   "vertical": false,
+   "desc": "I recently got a hold of a 100mW+ 473nm handheld laser, and decided to make a video of it to tease the diehard laser hobbyists. :D\n\nThis is a unique laser, 100mW of 473nm is almost unheard of in a handheld unit. This isn't your typical run of the mill 1W+ 445nm blue laser, this is a rare DPSS wavelength that probably only laser fans will appreciate.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "Tv0TMemoi8U",
+   "t": "Laser Export LCM-DTL-347QT Q Switched 355nm UV Laser",
+   "d": "2012-02-17",
+   "v": 25792,
+   "s": 62,
+   "vertical": false,
+   "desc": "Here's a quick overview of the Russian made Laser Export LCM-DTL-347QT 355nm Q switched UV laser.  I couldn't do this laser justice with this short video, this laser is a work of art.\n\nInfo on how this laser works: http://www.krazerlasers.com/lasers/347QT/\n\nEven though this laser peaks in the several thousand watt range, it can't burn anything because of how short the pulses are (5ns pulses at 20kHz repetition rate)\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch "
+  },
+  {
+   "id": "LeC1Y3UTg2E",
+   "t": "Powerful Laser vs. Flammable Chemicals",
+   "d": "2012-03-05",
+   "v": 42172,
+   "s": 35,
+   "vertical": false,
+   "desc": "Here's a quick vid I made for the pyromaniacs like me. In this video I put some pyrotechnic compositions and chemicals into the beam of my huge 40W carbon dioxide laser. \n\nIn the video I ignite some TATP, thermite primer, and a fuse ball.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "gS0sV7kj-8E",
+   "t": "Awesome Laser \"LIQUID SKY\" Effect! Cheap and Easy!",
+   "d": "2012-05-14",
+   "v": 154502,
+   "s": 100,
+   "vertical": false,
+   "desc": "Here is an awesome light show effect that you can do at home with a laser pointer. \n\nI used line lenses that I got from eBay for a couple bucks to do this effect.\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "zflB2W07ttU",
+   "t": "Laser TORNADO LAMP - The Lava Lamp of the Future!",
+   "d": "2012-05-24",
+   "v": 234141,
+   "s": 119,
+   "vertical": false,
+   "desc": "I created this \"tornado lamp\" using a blu-ray laser and some cheap and easy to find parts. This whole build can be completed for $15 and looks AWESOME!\n\nThis setup is essentially a violet laser \"time tunnel\" shining through fluorescent liquid.\n\n5mW 405nm laser module for $6.10 free shipping: http://www.dealextreme.com/p/5mw-405nm-blue-violet-royal-purple-laser-module-3v-80918?item=6~r.93098389\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowle"
+  },
+  {
+   "id": "SBawjkuGwk8",
+   "t": "Trippy Laser Effect!",
+   "d": "2012-12-19",
+   "v": 123889,
+   "s": 181,
+   "vertical": false,
+   "desc": "Here is an amazing effect created using a violet laser, spinning mirrors, and a glow in the dark surface.\n\nThe pattern is changed by adjusting the speed of the motors.\n\nMore vids planned soon, stay tuned!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "79RBwVZUoxY",
+   "t": "Crazy Burning Blue Laser vs. Flammable Ping Pong Ball!! Lots of Fire!!",
+   "d": "2013-05-21",
+   "v": 44692,
+   "s": 30,
+   "vertical": false,
+   "desc": "Here a giant ass 3W laser turns a ping pong ball into a mini flamethrower! The power behind this laser is absolutely INCREDIBLE!!\n\nMore videos of the 3W blue beast to come!\n\nI've missed making videos so much that I am going into video production overload to make it up to my fans. I hope I never have to take such a long break from videoing again!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "1KAqlEoQKrU",
+   "t": "DIY: Powerful 520nm Green Laser Diode Torch! Step by Step Build",
+   "d": "2013-05-21",
+   "v": 254934,
+   "s": 189,
+   "vertical": false,
+   "desc": "I finally got a hold of the amazing new 520nm blueish-green laser diodes! In this video I show you how I built it into a handheld burning laser torch. The output of this laser is just on the blue side of green. Happy 5/20!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!\nI've been busy with school so I haven't been getting many videos out, but I have just moved out of the dorms so be expecting some more awesome videos s"
+  },
+  {
+   "id": "96E0RfyL2Gc",
+   "t": "Homemade Lightsaber!?! MASSIVE 3W Handheld Laser Torching Stuff!!",
+   "d": "2013-05-22",
+   "v": 4444838,
+   "s": 141,
+   "vertical": false,
+   "desc": "Here my BEAST 3000mW blue laser goes up against a bunch of flammable stuff. Most things light INSTANTLY when placed in the beam of this laser! This is the most powerful handheld laser that I've ever used!\n\nNEW!! Even stronger laser that I built! https://www.youtube.com/watch?v=53GJJHwQ8BA\n\nThis laser uses the new 9mm 450nm laser diode and runs on two 18650 Li Ion batteries. The housing is a custom machined \"Sirius\" host. I usually try to refrain from using the term \"lightsaber\" when referring to my lasers but there really isn't much else out there to describe this laser.\n\nTo be honest I don't "
+  },
+  {
+   "id": "ToRjKyFowMI",
+   "t": "\"Homemade Lightsaber\" Part 2! More Super Powered 3W Laser Destruction!!!",
+   "d": "2013-05-31",
+   "v": 132163,
+   "s": 69,
+   "vertical": false,
+   "desc": "Here my HUGE 3000mW destroys even more stuff! This giant laser ignites nearly everything in its path! More videos of this now viral beast to come!\n\nThis laser has become an internet sensation over the past week and has been featured on places such as Yahoo!, Gizmodo, AOL, Discovery, Huffington post, and many more!\n\nAs with all my other laser videos, I wore certified laser goggles for 450nm while shooting this video. These lasers are NOT toys and must be treated responsibly. This laser is legal to build and own in the US.\n\nLASER GOGGLES!!!: http://www.survivallaser.com/Eagle_Pair__190-540nm_Sli"
+  },
+  {
+   "id": "KfyQ9TxG4-Y",
+   "t": "DIY: Burning Blue Laser Pen!! Step by Step Construction and Burning Demo!",
+   "d": "2013-06-02",
+   "v": 3395776,
+   "s": 148,
+   "vertical": false,
+   "desc": "In this video I build one of the most difficult DIY lasers, the \"pen\" laser. This laser is incredibly small and runs on 2x AAA batteries, but still packs quite a punch and burns many objects! \n\nText overview of this build: http://laserpointerforums.com/f48/single-mode-blue-pen-laser-build-osram-pl450b-leadlight-host-82910.html\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "HcGiWBrBAa8",
+   "t": "The World's First Aqua Laser Pointer Using Direct Diode Technology!!!",
+   "d": "2013-08-12",
+   "v": 111677,
+   "s": 137,
+   "vertical": false,
+   "desc": "This video is for the true laser hobbyists. :D I bought some 476nm engineering samples to build this amazing laser pointer. This is the first of it's kind ever made and there will only be a very small number ever made. I may sell a couple pointers similar to this but be warned, they wont be cheap!\n\nPictures and info here: http://laserpointerforums.com/f48/world-s-first-direct-diode-476nm-laser-pointer-84635.html\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of h"
+  },
+  {
+   "id": "QR7vwRC6SFE",
+   "t": "Homemade Death Ray Laser DRONE BOT!!! Remote Controlled!!",
+   "d": "2013-12-15",
+   "v": 4807621,
+   "s": 138,
+   "vertical": false,
+   "desc": "I present my most terrifying laser creation as of yet...the remote controlled death ray drone bot! This beast packs a potent 2W blue laser that fries anything in it's path. It can walk around and shoot it's death ray at the touch of a button. \n\nVersion 2 of this bot (with camera and RF transmitter) is here!!!\nhttps://www.youtube.com/watch?v=2rC_Puj62U4&lc=z12qxzbjvsmwz1umv223dpo5rxqdhljhj04\n\nEDIT: So it turns out the INVENTOR of the robot toy that I hacked is here on YouTube and has an amazing channel! Check him out here: https://www.youtube.com/user/JMEMantzel\n\nThe toy that I modified is call"
+  },
+  {
+   "id": "2rC_Puj62U4",
+   "t": "FPS in Real Life!! Homemade Laser Gun FPV Drone Bot!!!",
+   "d": "2014-05-17",
+   "v": 372100,
+   "s": 143,
+   "vertical": false,
+   "desc": "This crawling drone bot is fitted with a powerful 2W death ray laser, along with a digital camera and a radio transmitter. Now I can sit on my couch in front of a TV screen while shooting things around my apartment. It's like a video game, but actual things are being destroyed!!\n\nIn case you haven't seen it already, here is the first version of this drone that I built: https://www.youtube.com/watch?v=QR7vwRC6SFE\n\nALWAYS wear laser goggles when working with lasers over 5mW to prevent permanent blindness!!\n\nThe base of this drone bot is a robot toy called the Attacknid, which is even really cool"
+  },
+  {
+   "id": "53GJJHwQ8BA",
+   "t": "My Homemade 6W Laser Sword!!!",
+   "d": "2014-06-01",
+   "v": 6994016,
+   "s": 91,
+   "vertical": false,
+   "desc": "Here is the biggest and baddest laser I've ever built!!! This laser is so powerful that I cannot even measure it on my meter, but it's power is likely near 6W. This laser incinerates anything in its path!!!\n\nThis laser is DOUBLE the power of the one in my \"Homemade Lightsaber\" video!\n\nI had the sword host custom machined by a talented machinist (who goes by Ehgemus on the forums), and I got the laser diode here: https://sites.google.com/site/dtrlpf/home/diodes\n\nFor the drivers I stacked two V7 X-Drives in parallel to get 4.0A."
+  },
+  {
+   "id": "yFIvvcQeoc8",
+   "t": "My Homemade BEAST 1.25W Green Laser Sword!!!",
+   "d": "2015-03-12",
+   "v": 276096,
+   "s": 124,
+   "vertical": false,
+   "desc": "Here is the brightest handheld laser that I have ever built! As you can see in the video, the output of the laser easily illuminates a room, as well as ignites nearly anything in its path. \n\nAlso, thank you everyone for helping me reach 100,000 subscribers!! Making videos has been an awesome journey and I plan to post more videos before long!\n\nHere is the laser diode I used: https://sites.google.com/site/dtrlpf/home/diodes/ndg-1w-520nm\n\nI had the laser casing made for me by the talented machinist who goes by \"Ehgemus\" on laserpointerforums."
+  },
+  {
+   "id": "q0kETJwL9mY",
+   "t": "DIY Diffraction Spectrometry with a CD!!!",
+   "d": "2015-03-14",
+   "v": 60941,
+   "s": 220,
+   "vertical": false,
+   "desc": "How to determine the wavelength (nm) of your laser using a CD!!\n\nBTW, happy pi day!!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "fj7EcDA73Bs",
+   "t": "Building a Burning Laser from an Old Computer!!!",
+   "d": "2015-03-20",
+   "v": 2185672,
+   "s": 247,
+   "vertical": false,
+   "desc": "Here I take an old computer and utilize its parts to make a burning laser! This is one of my favorite DIY laser projects out there, as it makes use of old parts and makes a very cool final project.\n\nAlways protect your seeing balls and wear laser goggles for lasers over 5mW!!\nhttp://www.survivallaserusa.com/Eagle_Pair__190-400nm___580-760nm_Laser_Safety_Goggles/p1667092_7862077.aspx\n\nI have made a similar video in the past, but it was restricted for being \"too dangerous\". So, here I show what I do step by step to build this laser in detail, but do not encourage my viewers to do the same. :p\n\nC"
+  },
+  {
+   "id": "FIl-ArnRZvU",
+   "t": "DIY Fireworks Demo!!",
+   "d": "2015-05-27",
+   "v": 109102,
+   "s": 303,
+   "vertical": false,
+   "desc": "This is what happens when a bunch of chemistry majors get some chemicals to play with and make fireworks! \n\nI know this video is a bit different than what I usually post, but I figure my subscribers would like it anyway! Chemistry and pyrotechnics have always been passions of mine, and you can probably see hints of that in my videos. Considering that chemistry is the basis of pyrotechnics, the SIU ACS club decided to use that as an excuse to create some mortars and have fun with fire!!\n\n\nBTW...more videos to come soon! Think IR lasers, 4W 650nm home build, and...40W laser shotgun!!!"
+  },
+  {
+   "id": "-fqayC1RbjY",
+   "t": "My New Yellow Laser!!",
+   "d": "2015-05-29",
+   "v": 614251,
+   "s": 115,
+   "vertical": false,
+   "desc": "Here's a quick overview of my new \"Spartan\" Yellow laser from DragonLasers! This is my first 589nm yellow laser, and I'm really happy with it. Yellow lasers are pricy, but have a unique beam that all laser hobbyists seem to love.\n\nIn this video, the laser runs in the 40mW-50mW range, but can run as high as 85mW when a little bit cooler. The driver has linear regulation, and sucks down 2.25A at 3.7V, so this definitely is not an efficient laser! Beam divergence is about 1.05mRad. \n\nAll in all I am happy with my purchase. DragonLasers does NOT guarantee any sort of minimum power output rating wi"
+  },
+  {
+   "id": "64XJ3mnI2kw",
+   "t": "Giant Moths!!!",
+   "d": "2015-06-03",
+   "v": 346630,
+   "s": 162,
+   "vertical": false,
+   "desc": "Here is a quick video showing the giant moths that I've been raising!! These moths of the \"giant silk moth\" family have some INCREDIBLE abilities, some of which I describe in the video. \n\nFollow me on Instagram!! :D  https://www.instagram.com/styro.drake/\n\nAfter I got so many comments/questions on the moth in my yellow laser video, I felt that it was necessary to show off these cool creatures!"
+  },
+  {
+   "id": "iVrJUbeuG44",
+   "t": "My Homemade 40W LASER SHOTGUN!!!!!",
+   "d": "2015-06-08",
+   "v": 14583576,
+   "s": 114,
+   "vertical": false,
+   "desc": "Just finished building my 40W(!!!) laser shotgun!!! The output of this laser is complete insanity, and is made up of 8 parallel 5W laser beams totaling to 40W. The parallel beams are manipulated with lenses, sort of like how a choke modifies the spread of a shotgun blast.\n\nFollow me on Instagram to see some crazy stuff!! :D https://www.instagram.com/styro.drake/\n\nThe massive diode array is powered by a huge lithium polymer battery pack (capable up dumping 250A) and the laser array is regulated by a whopping 24 LM317 drivers. \n\nFollow me on FaceBook and see my video clips that don't get posted "
+  },
+  {
+   "id": "5PquJdIK_z8",
+   "t": "LEDs and Lasers in Liquid Nitrogen!!",
+   "d": "2015-06-28",
+   "v": 676836,
+   "s": 156,
+   "vertical": false,
+   "desc": "Here my labmates and I change the color of LEDs and lasers by freezing them with liquid nitrogen!!\n\nThis experiment works by utilizing liquid nitrogen to cool the semiconductor to -196\u00baC, robbing it of much of its thermal energy. This causes the \"bandgap\" energy to increase, thereby increasing the emitted photon energy and decreasing the emission wavelength. \n\nOodles of liquid nitrogen definitely is a perk of working in a NMR lab. :D\n\nRegarding laser safety...This laser was run at just above its threshold current, putting it at 5mW of output power according to my own measurements on an OPHIR l"
+  },
+  {
+   "id": "clGhGacfiqI",
+   "t": "Odd Tri-Beam 3W Red Laser!!",
+   "d": "2015-08-16",
+   "v": 103097,
+   "s": 116,
+   "vertical": false,
+   "desc": "In this video I fire up the \"Mitsubishi G84\" laser diode, a 2.5W rated laser that is supposed to fire two laser beams. It turns out that my laser actually spits out three beams!! This is definitely an odd laser, but it was fun to experiment with!!\n\nCheck out http://laserpointerforums.com to learn more about laser pointers, lasers, and laser pointer companies! I have been a member there for 8 years, and have received a bunch of help from the knowledgeable members there!"
+  },
+  {
+   "id": "EZl0PweNzEA",
+   "t": "Giant Invisible Er:YAG Laser!!!!",
+   "d": "2015-11-12",
+   "v": 105175,
+   "s": 183,
+   "vertical": false,
+   "desc": "This is one of those lasers that will kill you INSTANTLY if you mishandle it!!! This is a flashlamp pumped Er3+ doped Yttrium Aluminum Garnet laser (Er:YAG). This laser is pulsed in nature due to its pumping method, with peaks to 3000W and average output power around 20W. Lasers of this type require a high voltage power supply and massive capacitors, so careful attention must be placed on taking all necessary precautions to prevent IDS (Instant Death Syndrome)!!!\n\nBelieve it or not I have had this system sitting around for years now, but only had it running fairly recently. When I bought the h"
+  },
+  {
+   "id": "c__TcJAge6Y",
+   "t": "Real Burning HOMEMADE LIGHTSABER!!! styropyro\u2019s version",
+   "d": "2015-12-22",
+   "v": 2493987,
+   "s": 176,
+   "vertical": false,
+   "desc": "I\u2019ve seen a few videos circulating the internet regarding homemade lightsabers, where one of the coolest designs I saw utilized a mini flamethrower. I figured I better show a video of my homebuilt version of the lightsaber\u2026where my design uses a MASSIVE 7W blue laser. :D \n\nPATREON: https://www.patreon.com/styropyro\n\nIn terms of building a working lightsaber, the two main limiting factors are beam confinement and high energy density storage. With the amazing Li-Ion batteries that the scientists/engineers have developed, stupidly powerful handheld lasers can be built, just like this one here. Th"
+  },
+  {
+   "id": "iW0oEeIQwkE",
+   "t": "Thick Beam 5W Red Laser Fun + \"Laser Cannon\" Updates",
+   "d": "2016-03-23",
+   "v": 287028,
+   "s": 295,
+   "vertical": false,
+   "desc": "Here I show off my 5W 650nm laser that I built a while ago, and then burn myself with it. :p I also give some updates on my future BIG laser projects!!\n\nFor the record, I shot this video on my spring break, and forgot my soldering iron at my college apartment. :( I could have just bought another one, but instead of making the drive I decided to go caveman style. :D\n\nInstagram: https://www.instagram.com/styro.drake/\n\nThanks to Dr. Miller for the diode!!"
+  },
+  {
+   "id": "iSpDhWoQlgI",
+   "t": "Destroying Stuff with MASSIVE 50W Blue Laser Array!!!",
+   "d": "2016-04-13",
+   "v": 132933,
+   "s": 154,
+   "vertical": false,
+   "desc": "My buddy and I are working on building a ~200W laser rifle, which will use 4 50W blue laser diode banks as the heart of the gun. In this video, we fire up just one of these bricks, and proceed to light a bunch of stuff on fire!!"
+  },
+  {
+   "id": "GRSlGt26uUA",
+   "t": "Exotic Thermites",
+   "d": "2016-06-15",
+   "v": 1328809,
+   "s": 539,
+   "vertical": false,
+   "desc": "In this video I mix up some of the hotter and faster burning versions of thermite, as well as some unique ones that use reactive alkali metals. I also go into the chemistry a bit to put some numbers behind the energy and reactivity of the various thermites.\n\nDon't try any of this at home!\n\nSome more notes on the thermites I used in the vid:\nMy thermites all burned fairly quickly because I used finely powdered chemicals. If I would have used coarser particle size, the mix would burn slower and I may have been able to recover some more of the metals generated.\n\nIt was hard to capture the brightn"
+  },
+  {
+   "id": "_yH9ll-0hDk",
+   "t": "My Homemade \"Laser Taser\" Pistol with pulsed YAG laser and High Voltage Head!!!",
+   "d": "2016-06-26",
+   "v": 1024654,
+   "s": 365,
+   "vertical": false,
+   "desc": "This is what happens when you combine thrift store electronics with military surplus parts! \n\nPATREON: https://www.patreon.com/styropyro\n\nThe heart of this bad boy is a pulsed Nd:YAG laser from an old Isreali military rangefinder, which is pumped by a flashlamp and has peak powers of several thousand watts (even though only for a short time). I also added a high voltage generator to make it a little bit scarier.\n\nI should mention that a project like this should NOT be attempted at home! The funny thing is that the taser unit of the gun wouldn't kill me if I got hit (which I have..) but the cap"
+  },
+  {
+   "id": "IzUoe-9bKa0",
+   "t": "My Homebuilt 200W LASER BAZOOKA!!!!!",
+   "d": "2016-06-29",
+   "v": 11050479,
+   "s": 210,
+   "vertical": false,
+   "desc": "I finally finished the 200W laser gun!! 'This monster laser was built from scrap metal and a pile of broken \"hybrid\" DLP projectors, and runs on a stack of lithium polymer batteries. \n\nPATREON: https://www.patreon.com/styropyro\nThe power consumption is nearly a kilowatt, which is around what it takes to run a microwave oven!!\n\nThere are more crazy projects on the way, so stay tuned!! I may even try some optical pumping with this laser...\n\nInstagram: https://www.instagram.com/styro.drake/\n\nThanks to DTR for providing the knife edgers that I used on the gun! He is also one of my main suppliers f"
+  },
+  {
+   "id": "x8csTQLw1rM",
+   "t": "Building a GIANT Laser Pumped Chemical Flashlight - July 9",
+   "d": "2016-07-09",
+   "v": 687416,
+   "s": 577,
+   "vertical": false,
+   "desc": "Over the past few days I've been working on a world record attempt to build the brightest single bulb flashlight in the world. This video goes into detail the design process and troubleshooting of trying to build the light. I'm taking a break from it today but will start working on it again soon. My first step will be to circulate the dye solution through the pumping cavity to avoid both heat buildup and to flush out any parasitic metastable triplet states in the fluorescein. Stay tuned! Other videos to follow in the near future...\n\nSo I'm in the need of an oscilloscope that records down to na"
+  },
+  {
+   "id": "unwTicD4Pew",
+   "t": "Rust Removing Laser!!",
+   "d": "2016-07-11",
+   "v": 1099093,
+   "s": 148,
+   "vertical": false,
+   "desc": "How do rust removing lasers work?? We've all seen the mesmerizing videos of giant lasers leaving rusty equipment sparkly clean, so today I broke out my strongest pulsed laser to demonstrate this awesome effect!\n\nPATREON: https://www.patreon.com/styropyro"
+  },
+  {
+   "id": "g-4RE__iBgs",
+   "t": "Terrifying Pulsed Laser Power Supply vs. Household Items",
+   "d": "2016-11-17",
+   "v": 443880,
+   "s": 222,
+   "vertical": false,
+   "desc": "Here I take household items and blow them up with a killer 10kJ capacitor bank. The peak powers from this bank are in the megawatts, so dumping all that power through stuff gives interesting effects. This insane power supply is what will be used to power my ruby laser. Lethal is an understatement for this bank, and will kill you before you hit the floor if you touch it. \n\nThe light bulb that I hit was vaporized, and there was no trace of that thing afterwards! The CD was the brightest of the explosions, due to the aluminum superheating and reacting with oxygen in the air. \n\nI shattered one of "
+  },
+  {
+   "id": "4ONp_McwJS0",
+   "t": "\"The Cancer Ray\" - World's First Ever UV Laser Pointer!!",
+   "d": "2017-10-06",
+   "v": 1674543,
+   "s": 555,
+   "vertical": false,
+   "desc": "Just finished building the first ever ultraviolet laser pointer! This is a project I've been wanting to do for at least 5 years, but until a couple weeks ago the cheapest source for a UV laser diode was $4300 from ThorLabs. I got super lucky and picked up a surplus part on ebay for $80 that contained a true UV laser diode.\n\nIn this video I start by tearing down the mystery part and showing all of the innards. Then I test the diode by hooking it up to some homemade circuitry, and find a happy spot to drive the laser. Finally I build it into a laser pointer, and then of course do some cool trick"
+  },
+  {
+   "id": "XqIfkhaYMMI",
+   "t": "How hot is a 5W Laser?",
+   "d": "2017-10-08",
+   "v": 440064,
+   "s": 252,
+   "vertical": false,
+   "desc": "Is it possible to measure the temperature of a giant laser beam?? By blowing up a few things with huge lasers, as well as a little math, I'll give you the answer!\n\ninstagram: https://www.instagram.com/styro.drake/?hl=en\npatreon; https://www.patreon.com/styropyro\ntwitter (new!!): https://twitter.com/H_C_Lambda\n\nIn this video I address one of my most asked questions, \"how hot is that laser beam?\" Truthfully, that question is bad and you should feel bad for asking (jk) but it brings up a good point on the similarities and differences between temperature, energy, and power. I start by sacrificing "
+  },
+  {
+   "id": "TtG0HmY6qrw",
+   "t": "Overclocked Bug Zapper. 2750V to 50000V++",
+   "d": "2017-10-10",
+   "v": 4682963,
+   "s": 466,
+   "vertical": false,
+   "desc": "What started as a simple desire for a little more power in my bug zapper got carried away and I ended up building a racket of death.\n\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro \ntwitter (new!!): https://twitter.com/H_C_Lambda\n\nDon't play with high voltage if you don't know what you are doing. Even if you DO know what you are doing, things can go wrong so always keep one hand behind your back.. XD\n\n3 videos in a week. How's that, loyal subscribers? Hopefully the next vid won't take a year lol"
+  },
+  {
+   "id": "-dxAtKN4eJs",
+   "t": "styropyro channel trailer",
+   "d": "2017-10-12",
+   "v": 1085541,
+   "s": 35,
+   "vertical": false,
+   "desc": "I enjoy the simple things in life: electricity, fire, and high powered lasers.\n\ntwitter: https://twitter.com/styropyro_\ntiktok: https://www.tiktok.com/@styro_pyro\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nMusic by \"RokZRoom\" of freesound.org https://freesound.org/people/RokZRooM/sounds/344778/#"
+  },
+  {
+   "id": "-2crWR1lg6s",
+   "t": "eBay laser pointers are DANGEROUS!!!",
+   "d": "2017-10-17",
+   "v": 772590,
+   "s": 167,
+   "vertical": false,
+   "desc": "You'll shoot your eye out kid!\n\nBut seriously, that eBay laser that was sold to you as 5mW is likely MUCH stronger. Now obviously I love high powered lasers, but I don't like when something that is sold as \"eye safe\" is actually a very dangerous laser.\n\n\nother social media sillyness: \ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro"
+  },
+  {
+   "id": "Sq7GaO8iqu8",
+   "t": "Levitating DIAMONDS with a laser beam!! (demonstration of Nobel Prize in Physics 2018)",
+   "d": "2017-10-22",
+   "v": 831602,
+   "s": 425,
+   "vertical": false,
+   "desc": "Real life Star Trek tractor beam! Turns out it is possible to levitate tiny diamonds with a laser beam!!\n\nEdit: The optical tweezers phenomenon actually won the nobel prize in physics in 2018, along with techniques in ultrafast laser pulse generation. \n\nsocial media sillyness: \ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro\n twitter (new!!): https://twitter.com/H_C_Lambda"
+  },
+  {
+   "id": "7ddpV8R6pFo",
+   "t": "Testing CRAZY Recipes from a 1933 Chemical Formulary Book",
+   "d": "2017-10-31",
+   "v": 3119286,
+   "s": 457,
+   "vertical": false,
+   "desc": "Have a cold? Inhale some chloroform and ether. Got dirty pennies? Clean them with a 2000 lethal dozes of cyanide. \n\nPART TWO IS HERE!  https://www.youtube.com/watch?v=NWs9dpCH9no\n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\ntwitter (new!!): https://twitter.com/H_C_Lambda\n\nThis book would be called \"chemistry life hacks\" if it were written today. That being said, the flagrant use of neurotoxins, unstable explosive compounds, and heavy metals means it probably wouldn't make it on the bookstore shelves.\n\n\nThere are actually a"
+  },
+  {
+   "id": "3KHWIlmsPKY",
+   "t": "Me ranting on the removal of my laser bazooka video (edit: got it back!!)",
+   "d": "2017-11-09",
+   "v": 199144,
+   "s": 210,
+   "vertical": false,
+   "desc": "UPDATE: Got the vid back! Yay!\n\nMy highest viewed video just got flagged and hidden from public viewing!! AHH! To top it off, it didn't get removed for safety reasons, it got removed for being misleading! Am I not allowed to call the strongest portable laser built by a hobbyist a \"laser bazooka\"???\n\nPatreon: https://www.patreon.com/styropyro\n\nI was worried about my channel after the recent flags on Cody's Lab, who as you probably know makes AMAZING science videos. Turns out I had already been quietly flagged on my most popular video. This is just after I appealed (and won) a claim on my most r"
+  },
+  {
+   "id": "V4eb29e_tso",
+   "t": "Dangerous Christmas Laser Show Upgrade - 1000x Stronger",
+   "d": "2017-11-29",
+   "v": 1479474,
+   "s": 456,
+   "vertical": false,
+   "desc": "Ever see those Christmas light show things at the store and think they would be a lot cooler if they were 1000 times stronger? I did at least, so I made it happen. \n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\ntwitter (new!!): https://twitter.com/H_C_Lambda\n\nYeah don't do this one at home kids.\n\nIn this video I tear down a cheap laser projector that I bought at Farm and Fleet, and do a bunch of mods to it so I could jam in a 5W blue laser diode. The puny little power supply couldn't handle the huge laser, so I had to make "
+  },
+  {
+   "id": "NWs9dpCH9no",
+   "t": "Crazy 1933 chemical recipes PART 2! solid gasoline, thermite tracers, and more!",
+   "d": "2017-12-11",
+   "v": 2025993,
+   "s": 425,
+   "vertical": false,
+   "desc": "You guys requested it, and here it is! If you haven't seen the first one, you should watch it here!\n\nhttps://www.youtube.com/watch?v=7ddpV8R6pFo\n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro \n\nThis 1933 chemical formulary is full of gems, and I'll keep making videos about it if you guys watch them!"
+  },
+  {
+   "id": "DwYuHqCwXFI",
+   "t": "Giant 13kJ  RUBY LASER CANNON! Test Shots and Overview!!",
+   "d": "2017-12-14",
+   "v": 1973495,
+   "s": 386,
+   "vertical": false,
+   "desc": "The massive pulsed ruby laser is complete! In this video I'm feeding the flashlamp about 13kJ, which is a ton of electrical energy. In fact, this is probably the strongest ruby laser on YouTube. More destruction to come soon!\n\nBIG thank you to Esco Optics for making me the mirrors for the laser. It turns out that finding mirrors that don't vaporize in a massive laser cavity like this is difficult, but coming up with the right coating was no problem for the Esco engineers. \nescooptics.com \n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.co"
+  },
+  {
+   "id": "1psxE4NlECQ",
+   "t": "DIY Laser Made from Thin Air!!",
+   "d": "2018-01-05",
+   "v": 381354,
+   "s": 340,
+   "vertical": false,
+   "desc": "It turns out that regular old air makes a laser beam when you blast it with high voltage! In this video I demonstrate one of these lasers as well as talk about how it works. \n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro\n\nThe laser that I built in this video is an example of a TEA laser, where diatomic nitrogen is the lasing medium. There have been plans for DIY TEA lasers around since the 1970s, so I am definitely not the first one to do this!\n\nHere is a great resource for building a nitrogen TEA laser, and this was the f"
+  },
+  {
+   "id": "8hfDhYRl1g4",
+   "t": "See me in San Francisco! + project updates, styropyro vines, and vote on my next project!",
+   "d": "2018-01-20",
+   "v": 76486,
+   "s": 498,
+   "vertical": false,
+   "desc": "Just received a strike from YT and now I'm in danger of being banned. :O more to follow...\n\nVote on my next project here! http://www.escooptics.com/styropyro\n\nI'm going to be at Photonics West on January 31st at booth 4244 with Esco Optics. If you are going to the conference, stop by the booth!\n\nAs for the projects, I'm looking forward to seeing what you guys find most interesting! The laser \"sniper\" rifle project uses a reverse telescope to mitigate beam divergence for long distance burning. The chemical flashlight would be attempt #2 of using lasers to pump chemicals to make bright light, an"
+  },
+  {
+   "id": "im_k3h5yfWY",
+   "t": "Can you go blind watching laser videos on YouTube???",
+   "d": "2018-02-25",
+   "v": 1116247,
+   "s": 194,
+   "vertical": false,
+   "desc": "Watch with one eye closed, because it's time to answer one of my favorite questions that I get here on YouTube. \n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\n\nIn this video I answer whether or not it's safe to watch laser videos on YouTube without safety protection. I actually get this question a lot. I'm glad I could finally address it.\n\nWhen I originally broke out the camera yesterday...I was shooting footage for a video on wireless energy transmission with lasers. Somehow, it devolved into this..."
+  },
+  {
+   "id": "V7_jCAu7ucw",
+   "t": "This Evil Chemical Reacts with Nearly Anything",
+   "d": "2018-03-08",
+   "v": 1834493,
+   "s": 353,
+   "vertical": false,
+   "desc": "Manganese Heptoxide is a molecule that does not like to exist, and looks for any reason to decompose violently. In this video I feed a bunch of different stuff to this demon molecule.\n\nDON'T TRY THIS AT HOME! \n\nsocial media sillyness: \ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\n\nIn this video I synthesize some manganese VII oxide from concentrated sulfuric acid and potassium permanganate. This compound is an incredibly powerful oxidizer that will eat up about anything organic. I test the chemical's reaction against wood, styrofoam, sugar, aceton"
+  },
+  {
+   "id": "BW_eDRernyg",
+   "t": "UPDATE: I've been banned for two weeks. Read the description of this vid",
+   "d": "2018-03-17",
+   "v": 631667,
+   "s": 71,
+   "vertical": false,
+   "desc": "Go here for updates:\nhttps://youtu.be/j6vFXPzLGMM"
+  },
+  {
+   "id": "yy-vAc6hPig",
+   "t": "Amazing White Laser Experiments!!!",
+   "d": "2018-05-16",
+   "v": 1564646,
+   "s": 647,
+   "vertical": false,
+   "desc": "Laser \u04400rn!! Here I build a full color RGB white laser, as well as experiment with the beam using prisms and mirrors.\n\nIn this video I build a full color RGB laser using red, green, and blue lasers. I use an analog driver based on the LM317, and combine the beams using an X-cube. The resulting laser can make white, yellow, aqua, magenta, purple and many other colors. The white laser beam can then be split back up with prisms and diffraction gratings, as I show in the video. I then build a white laser based on just two colors, yellow and cyan, and then in the end of the video I show some TRIPPY"
+  },
+  {
+   "id": "EdURyWZD9tk",
+   "t": "Chinese \"Laser AK-47\": DEBUNKED!",
+   "d": "2018-07-08",
+   "v": 763941,
+   "s": 483,
+   "vertical": false,
+   "desc": "A Chinese company claims to have developed a laser gun that can set people on fire and blow up gas tanks from nearly a kilometer away. Is a laser like this even possible? Watch to find out!\n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\n\nOriginal article reporting on the laser rifle: https://www.scmp.com/news/china/diplomacy-defence/article/2153310/china-brings-star-wars-life-laser-ak-47-could-set-fire\n\nClearly these claims are far fe"
+  },
+  {
+   "id": "rDTwiIEsZXc",
+   "t": "Mysterious chemical changes color depending on perspective",
+   "d": "2018-08-08",
+   "v": 357138,
+   "s": 333,
+   "vertical": false,
+   "desc": "Here is a crazy chemical that changes color depending on how it's viewed! I was first introduced to the effect when a friend showed me a hard to believe video that was posted by reddit user budget_cuts  (thanks Zach for the tip!). In the video he shows a chemical that dramatically changes color depending on the perspective. He didn't say what chemical was used in the video, but I had to witness this effect in person, so I started reading and experimenting to try figuring it out.\n\noriginal reddit post: https://www.reddit.com/r/blackmagicfuckery/comments/932j6d/a_solution_we_made_in_chemistry_th"
+  },
+  {
+   "id": "PfSuqMiEhOE",
+   "t": "I recently did a shoot with VICE Motherboard...",
+   "d": "2018-08-21",
+   "v": 253010,
+   "s": 107,
+   "vertical": false,
+   "desc": "Back in June a couple guys from VICE Motherboard came over to shoot an interview and play with lasers, chemicals, and electricity. \n\nlink to video: https://www.youtube.com/watch?v=WUCHkFKOvIw\n\nsocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro\nbackup channel: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\n\nI had a bunch of fun shooting the video with VICE and I'm very happy with how it turned out. \n\nStay tuned for more videos! I have several in the works..."
+  },
+  {
+   "id": "dqlDs3KfCPY",
+   "t": "I built a Laser Telescope Blaster!!",
+   "d": "2018-08-28",
+   "v": 3340128,
+   "s": 603,
+   "vertical": false,
+   "desc": "A high powered laser + a DIY reverse telescope makes a device that burns things much further away than any of my other laser creations! \n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/channel/UCwGEZhoIwu7GN44Xkr_fXwA \ninstagram: https://www.instagram.com/styro.drake \npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nIn the video I start by going over the reasons of why my previous laser blasters couldn't burn things from far away. In order to do long distan"
+  },
+  {
+   "id": "Oij-BdIkPgQ",
+   "t": "DIY Overclocked Plasma Globe. 2500V to a MILLION volts",
+   "d": "2018-11-03",
+   "v": 10642351,
+   "s": 1010,
+   "vertical": false,
+   "desc": "What started as a simple desire for a brighter plasma globe got carried away and I ended up building a million volt lightning tower of death.\n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\ndiscord: https://discord.gg/styropyro\n\nI would love to give a big thank you to all my Patreon supporters. I would not continue to make videos if it weren\u2019t for your generous support.\n\nI found a good deal for some plasma globes on eBay so I went ahead and bought some. Sure they were "
+  },
+  {
+   "id": "7WoNWslRx1g",
+   "t": "Crazy eBay green laser pointer mod. 1mW to 1400mW++",
+   "d": "2018-12-11",
+   "v": 4739288,
+   "s": 607,
+   "vertical": false,
+   "desc": "What started as a simple desire for a brighter laser pointer got carried away and I ended up building the brightest laser pointer in the world.  \n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nI would love to give a big thank you to all my Patreon supporters. I would not continue to make videos if it weren\u2019t for your generous support. I have yet to take a paid sponsorship and rely totally o"
+  },
+  {
+   "id": "aa_tCzIMJjE",
+   "t": "100% Invisible IR death ray laser!",
+   "d": "2019-02-22",
+   "v": 5546125,
+   "s": 678,
+   "vertical": false,
+   "desc": "I built a massive portable laser with a beam that's completely invisible. What could possibly go wrong?\n\nI've built tons of crazy laser devices over the years but until now I had never built a giant IR laser. I decided my life would be better if I built a massive portable IR death ray and then use it on an IR camera. \n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: http"
+  },
+  {
+   "id": "DMVWW-bmKwQ",
+   "t": "Testing Illegal Blue Lasers from eBay (and making them even stronger)",
+   "d": "2019-05-17",
+   "v": 11008478,
+   "s": 803,
+   "vertical": false,
+   "desc": "I bought a couple blue laser pointers on eBay. I received two laser death rays. Then I made them even stronger. \n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nNormally I'm not interested in buying handheld lasers off of the internet as what I can make is usually more interesting. That being said there were some eBay listings for blue lasers "
+  },
+  {
+   "id": "6TgrtA2wKaM",
+   "t": "Wireless Energy Transmission with Force Fields and Lasers",
+   "d": "2019-06-24",
+   "v": 2795687,
+   "s": 771,
+   "vertical": false,
+   "desc": "Using lasers and extreme electromagnetic fields I'm able to power up a bunch of stuff without the use of wires!\n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts \ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nIn this video I demonstrate a bunch of different methods of wireless energy transmission. I start by looking at early experiments of wireless energy transmission like what was done by "
+  },
+  {
+   "id": "MezaRnLSGhM",
+   "t": "Extreme 2D Plasma Ball Experiments",
+   "d": "2019-07-26",
+   "v": 3547223,
+   "s": 959,
+   "vertical": false,
+   "desc": "What started as a simple desire for a brighter plasma plate got carried away and I ended up building a terrifying lightning machine of death.\n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts \ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nSo many people have asked me about the \"lightning disk\" that's seen in the background of many of my videos. The device is called luminglas and is essentia"
+  },
+  {
+   "id": "xTzsPoedhvs",
+   "t": "Plasma Play Button for 1M Subscribers",
+   "d": "2019-08-29",
+   "v": 1294942,
+   "s": 789,
+   "vertical": false,
+   "desc": "I just crossed the 1M subs mark here on YouTube! Amazingly I've gotten more than half of my subscribers in the last year alone. To top it off, YouTube sent me the coveted gold play button award and it is *very* shiny.\n\nsocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nFollowing the tradition of other science YouTubers, I decided to celebrate by m"
+  },
+  {
+   "id": "-BeTq99LqUo",
+   "t": "Dangerous tattoo remover from eBay is a MILLION watt laser",
+   "d": "2019-12-12",
+   "v": 12295164,
+   "s": 1146,
+   "vertical": false,
+   "desc": "This laser tattoo removal device from eBay is the most powerful laser I've shown on this channel! It is so powerful that even AIR ignites in the laser beam! \n\nSocial media sillyness:\ninstagram: https://www.instagram.com/styro.drake\nshorts channel: https://www.youtube.com/c/styropyroshorts \npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/styropyro\n\nI was searching for a Nd:YAG laser cavity for a future project when I came across a bunch of tattoo removal devices on eBay. They claime"
+  },
+  {
+   "id": "W6FbUiiwutQ",
+   "t": "2020 World's most powerful CW handheld laser",
+   "d": "2020-03-13",
+   "v": 7777173,
+   "s": 1157,
+   "vertical": false,
+   "desc": "shorts channel: https://www.youtube.com/c/styropyroshorts \ntiktok: https://www.tiktok.com/@styro_pyro\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nI built the world's most powerful handheld laser! The output power is over 100W, which is literally insane.\n\nI scored an engineering sample for a very powerful laser diode array recently and decided to jam it in a handheld housing. The extremely powerful laser diode array is rated for 95W of output power and is capable of mor"
+  },
+  {
+   "id": "UNisqZOAaAs",
+   "t": "Building a fire death machine using soviet military tech",
+   "d": "2020-08-07",
+   "v": 5106904,
+   "s": 1562,
+   "vertical": false,
+   "desc": "What started as a simple desire for a better arc lighter got carried away and I ended up making the scariest device I've ever built.\n\nIn this video I tested a plasma lighter and attempted some modifications to it. I tried hooking it up to a voltage multiplier as well as raising the input voltage, but my results weren't that impressive. So, I turned to the sketchiest schematic I've ever come across, the \"HFVTTC\".\n\nThe HFVTTC is a circuit that operates sort of like a Tesla coil, but considerably more scary and with a flame like output. There is very little on this circuit in English, so it felt "
+  },
+  {
+   "id": "h9lbrr04XBQ",
+   "t": "Crazy Keychain Laser Pointer Upgrades. 5mW to 3000mW+",
+   "d": "2020-11-25",
+   "v": 10919711,
+   "s": 1422,
+   "vertical": false,
+   "desc": "I've always wanted an extremely powerful keychain laser \"pointer\" so I made it happen, even if it took supercapacitors and some of the craziest laser diode tech out there.\n\nSocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ntiktok: https://www.tiktok.com/@styro_pyro\npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/styropyro\n\n\nSpirit's YT channel: https://www.youtube.com/channel/UCKww7krKG8ejJjfYlXY3kWg\n\n\nfirst song is \"Deserts\" by Text Me Records/Bobby"
+  },
+  {
+   "id": "DbzbIGkPW-o",
+   "t": "Testing dangerous DIY \"medical\" lasers from eBay",
+   "d": "2021-01-30",
+   "v": 3513686,
+   "s": 1123,
+   "vertical": false,
+   "desc": "I stumbled across some ridiculous eBay listings for DIY medical and cosmetic lasers recently, and I couldn't resist the urge to test some of them out. They turned out more horrible than I could have imagined!!\n\nSocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts \npatreon: https://www.patreon.com/styropyro\nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A\ndiscord: https://discord.gg/hVZMcWT\n\nThe worst laser in this bunch is by FAR the \"neatcell\" spot removal laser. This thing is EXTREMELY dangerous. Not only can it blind you"
+  },
+  {
+   "id": "e0-3gS3XKlw",
+   "t": "I drove into a huge tornado outbreak",
+   "d": "2021-08-12",
+   "v": 1041959,
+   "s": 728,
+   "vertical": false,
+   "desc": "Nerd vs. 7 tornadoes. Who will win?\n\nWhat started as a simple desire to see cool storms got carried away and I ended up getting chased down the prairie by a huge tornado. \n\nSocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: https://discord.gg/hVZMcWT \n\nI know this is quite different from my usual content on this channel, but it was simply too cool not to share. I hope yo"
+  },
+  {
+   "id": "fM9hYzJnao0",
+   "t": "I converted my microwave into a LASER oven!",
+   "d": "2021-09-24",
+   "v": 4990286,
+   "s": 1181,
+   "vertical": false,
+   "desc": "the original macrowave \n\nmy new shorts channel! https://www.youtube.com/c/styropyroshorts\n\nWhat started as a simple desire for a better microwave got carried away and I ended up converting it into a 700W laser oven!\n\nSocial media sillyness:\nshorts channel: https://www.youtube.com/c/styropyroshorts\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: https://discord.gg/hVZMcWT\n\nIn this video I attempted to modify my microwave to cook better by upgrading "
+  },
+  {
+   "id": "OCFmQd15SRo",
+   "t": "Testing INSANE chemistry recipes from a 1933 formulary book (part 3)",
+   "d": "2022-08-23",
+   "v": 4811145,
+   "s": 1035,
+   "vertical": false,
+   "desc": "shorts channel: https://www.youtube.com/c/styropyroshorts \ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ndiscord: https://discord.gg/styropyro\n\nThis is my most requested video of all time! In this video I test a bunch more crazy recipes from the notorious 1933 chemical formulary. Uranium crayons, cold fire, and much more insanity in this one! \n\n0:00 intro \n1:20 uranium crayons \n3:04 sore throat relief \n4:51 asthma remedy \n5:05 magnetizable mercury \n6:00 cold fire\n7:56 eye drops\n8:11 hardening copper\n9:03 purple parade torches\n9:53 cyanide coffee"
+  },
+  {
+   "id": "qxNICce11Cw",
+   "t": "the brightest laser pointer in the world!",
+   "d": "2022-12-05",
+   "v": 3319184,
+   "s": 1157,
+   "vertical": false,
+   "desc": "I built the biggest and brightest laser pointer ever!\n\nshorts channel: https://www.youtube.com/@styropyroshorts\nnew side channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: https://discord.gg/hVZMcWT"
+  },
+  {
+   "id": "BGD-oSwJv3E",
+   "t": "Is it the volts or amps that kill?",
+   "d": "2023-02-02",
+   "v": 7400250,
+   "s": 1250,
+   "vertical": false,
+   "desc": "new side channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: https://discord.gg/styropyro\n\nIn this video, I address the age old question: Is it the volts or amps that kill?\n\nI originally covered this topic in a short video: https://www.youtube.com/watch?v=8Wx6-ysokJU\n\nHowever, my explanation there seemed to generate a lot of controversy among \"professiona"
+  },
+  {
+   "id": "fIM6943BSRA",
+   "t": "Testing CRAZY chemistry recipes from a 1933 formulary book (part 4)",
+   "d": "2023-04-10",
+   "v": 4948555,
+   "s": 1469,
+   "vertical": false,
+   "desc": "storm chasing channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \nbackup channel and b-side videos: https://www.youtube.com/channel/UCz-3epzOdIyu-aXdeUaVP1A \ndiscord: https://discord.gg/styropyro\n\nIn this video I test even more crazy recipes from the notorious 1933 chemical formulary.\n0:00 intro\n0:55 cancer sticks\n2:50 lab top stain\n5:32 coloring coal\n7:16 cyanide ant killer\n7:40 artificial fog \n9:34 artificial perspiration\n10:28 chloroform medicine \n10:"
+  },
+  {
+   "id": "ywaTX-nLm6Y",
+   "t": "100 car batteries wired in parallel!",
+   "d": "2023-10-05",
+   "v": 11184047,
+   "s": 2303,
+   "vertical": false,
+   "desc": "Download AnyDesk now at https://anydesk.com/styro\n\nIn this video, I wire 100 car batteries in parallel to generate more electric current than a lightning bolt!\n\nthanks to @TheBackyardScientist and @allenpan for help with the experiments!\n\nnew side channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_\ndiscord: https://discord.gg/styropyro\n\nSpanish\nEste video ha sido doblado al espa\u00f1ol con voz artificial con https://al"
+  },
+  {
+   "id": "xNmbvaUzC8Q",
+   "t": "I built a long-range LASER turret in my yard!",
+   "d": "2024-01-25",
+   "v": 4132120,
+   "s": 1890,
+   "vertical": false,
+   "desc": "I converted a laser welder into a long range directed energy turret!\n\nWatch the Backyard Scientist's video that gave me the idea to use a 2kW fiber laser welder for this project: https://www.youtube.com/watch?v=SXeeRgEY2UE\n\nsong at 23:39 is \"Chicken Reel/Turkey in the Straw medley\" performed by the United States Air Force Band\n\nMuh links:\nnew side channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_\ndiscord: https:/"
+  },
+  {
+   "id": "1162ouPHH3Q",
+   "t": "I'm sick in a bizarre and horrifying way",
+   "d": "2024-06-06",
+   "v": 5051146,
+   "s": 690,
+   "vertical": false,
+   "desc": "my crazy tornado hunting adventure: https://www.youtube.com/watch?v=qR4p6knJuus\n\nlinks:\nstorm chasing channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_\ndiscord: https://discord.gg/styropyro"
+  },
+  {
+   "id": "mg79n_ndR68",
+   "t": "I built a 20,000 watt microwave oven!",
+   "d": "2024-10-23",
+   "v": 5869002,
+   "s": 2048,
+   "vertical": false,
+   "desc": "links:\nstorm chasing channel: https://www.youtube.com/@styro_drake\nshorts channel: https://www.youtube.com/@styro_pyro2\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_\ndiscord: https://discord.gg/styropyro\n\n0:00 introduction\n2:52 building the 20kW microwave oven\n4:51 first experiments\n9:11 flash cooking food\n12:15 melting metals\n17:13 melting tungsten\n19:17 colorful microwave plasmas\n28:44 ionization explanation\n31:50 health updates"
+  },
+  {
+   "id": "UBVlL0FNbSE",
+   "t": "2025 world's strongest handheld laser",
+   "d": "2025-05-30",
+   "v": 7531080,
+   "s": 2141,
+   "vertical": false,
+   "desc": "buy the laser rubies shown in this video here: http://styropyro.com/ruby\n\nlinks:\nlaser ruby merch: http://styropyro.com/ruby\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_\ndiscord: https://discord.gg/styropyro\n\n0:00 intro\n3:36 building the laser\n6:07 powering it up\n7:35 first burning tests \n9:58 melting a penny\n12:11 opening a bottle\n13:38 the Gillette test\n15:10 welding with the laser\n17:05 maki"
+  },
+  {
+   "id": "zr-eZ_pLTNI",
+   "t": "30,000 watt light bulb experiments",
+   "d": "2025-11-20",
+   "v": 4768023,
+   "s": 2694,
+   "vertical": false,
+   "desc": "laser ruby merch!: http://styropyro.com/ruby\n\nPhotonicinduction's video on a 20,000 watt light bulb: https://www.youtube.com/watch?v=LT5_-A0m8_U\n\nlinks:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "sTwaeMXXwcE",
+   "t": "bolt vs. 40,000 amps",
+   "d": "2026-02-20",
+   "v": 2229503,
+   "s": 37,
+   "vertical": true,
+   "desc": "full vid is now live!!\n\nlinks:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "OC7sNfNuTNU",
+   "t": "400 car batteries wired together!!",
+   "d": "2026-02-21",
+   "v": 6610248,
+   "s": 7193,
+   "vertical": false,
+   "desc": "If you have ideas for ridiculous science experiments that you\u2019d like me or another youtuber to try, submit them at http://anydesk.com/science . The ideas that are brought to reality will win cool prizes and lead to the creation of epic videos.\n\nlinks:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "XYbwwshAX-U",
+   "t": "burning zinc batteries",
+   "d": "2026-03-01",
+   "v": 712112,
+   "s": 30,
+   "vertical": true,
+   "desc": "zinc metal vs. the demon circuit\n\nlinks:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "9SjU_H235DE",
+   "t": "Cool experiment with car parts",
+   "d": "2026-03-06",
+   "v": 1343146,
+   "s": 26,
+   "vertical": true,
+   "desc": "Using car ignition coils to light up a circuit board gives crazy effects\n\nlinks:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "LWcXrT90JEw",
+   "t": "Have you ever seen a cyan laser?",
+   "d": "2026-03-17",
+   "v": 541825,
+   "s": 25,
+   "vertical": true,
+   "desc": "links:\ndiscord: https://discord.gg/styropyro\nsecond channel: https://www.youtube.com/@styro_pyro2\nstorm chasing channel: https://www.youtube.com/@styro_drake\ninstagram: https://www.instagram.com/styro.drake/ \npatreon: https://www.patreon.com/styropyro \ntwitter: https://twitter.com/styropyro_"
+  },
+  {
+   "id": "YT2vFA55Iyk",
+   "t": "i am not a risk taker",
+   "d": "2026-10-15",
+   "v": 748461,
+   "s": 58,
+   "vertical": true,
+   "desc": "how it started vs. how it's going"
+  }
+ ]
+}

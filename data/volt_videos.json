@@ -1,0 +1,531 @@
+{
+ "channel": {
+  "id": "UCvOOv9tfBMSzcXnDkgzMufA",
+  "title": "Mr. Volt",
+  "handle": "@mrvolt",
+  "description": "I turn fictional technology into real technology.",
+  "since": "2009-02-07",
+  "avatar": "https://yt3.ggpht.com/HnAw_ymBnJV44GBu-A-5FpvkJIGkUKQc4u2UilDa7amSkRsYTaTqsL9ZTmDX3drPDh4RsGyH=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "12940210",
+  "subscriberCount": "171000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "57"
+ },
+ "videos": [
+  {
+   "id": "T-ohGLWww7Q",
+   "t": "Working Prototype PIP-Boy GPS",
+   "d": "2012-04-24",
+   "v": 58459,
+   "s": 170,
+   "vertical": false,
+   "desc": "UPDATE: Check out my wearable version here: \nhttp://www.youtube.com/watch?v=Ka_z_1QMtSo&feature=youtu.be\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nMy first working handheld PIP-Boy. Full write up with source code and files available at Instructables. \n\nhttp://www.instructables.com/id/How-to-Make-a-PIP-Boy/"
+  },
+  {
+   "id": "Ka_z_1QMtSo",
+   "t": "Pip Boy 3000 Working Interactive Demo",
+   "d": "2013-05-03",
+   "v": 368807,
+   "s": 202,
+   "vertical": false,
+   "desc": "My newest version of the infamous PipBoy. I call this a model B (as opposed to the ingame A) because there are some slight design changes.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nFeature list:\n\n-Fully interactive controls (scroll wheel, rotary switch, and mode button)\n-Multiple UI colors (Green and Amber for now)\n-Nearly identical UI to the in-game PipBoy (Stats, Items, Data and related subscreens)\n-Internal leather sleeve for comfy wearing\n\nHardware:\nAtmega 328P (This wa"
+  },
+  {
+   "id": "CxeoQlaQWBM",
+   "t": "Rotary Cell Phone Prototype",
+   "d": "2016-10-26",
+   "v": 179978,
+   "s": 353,
+   "vertical": false,
+   "desc": "An artifact from somewhere else.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nA friend gave me a rotary phone mechanism years ago, and I finally got around to turning it into a working cell phone! It can call, text, play FM radio, and store one whole phone number. \n\nMaterials:\n-ABS (3D printed on Lulzbot Mini)\n-Aluminum\n-Brass\n-Padouk\n-Adafruit Fona Feather (Atmega 32u4 and SIMCOM800L)\n-2000 mAh LiPo\n-8 ohm 1W speaker\n-96x64 pixel color OLED display\n\nMade at my local makerspac"
+  },
+  {
+   "id": "Esi9H52v_6M",
+   "t": "I Made Mei's Robot Snowball from Overwatch",
+   "d": "2017-06-11",
+   "v": 115330,
+   "s": 284,
+   "vertical": false,
+   "desc": "3D files for printing available here: https://grabcad.com/library/snowball-2\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nHere's a demo of the first working prototype Snowball. This is a simple animatronic version that allows me to control the eyes, ears, and sounds that Snowball makes in the game. Snowball's main processor is a Particle Photon (which is an Arduino compatible board with built-in WiFi. Sounds are stored as MP3s on a 4D systems SOMO II board and connected to a 3"
+  },
+  {
+   "id": "tSVgN9h7WXE",
+   "t": "Junkrat's Remote and Concussion Mine in Real Life",
+   "d": "2017-07-11",
+   "v": 59842,
+   "s": 176,
+   "vertical": false,
+   "desc": "You can download the 3D files here:\n\nhttps://grabcad.com/library/junkrat-mini-concussion-mine-and-remote-1\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nHigher res photos in the Imgur gallery: http://imgur.com/a/5FBw4\n\nI 3D printed my version out of black ABS on a Lulzbot Mini. \n\nWhat would you like to see made real?\n\nGet previews and updates on Instagram @mr.v0lt\nhttps://www.instagram.com/mr.v0lt/"
+  },
+  {
+   "id": "vtZc8KwNnL0",
+   "t": "Mercy's Caduceus Staff in Real Life | Overwatch Cosplay",
+   "d": "2018-01-02",
+   "v": 135812,
+   "s": 287,
+   "vertical": false,
+   "desc": "Download links below:\n\nhttps://grabcad.com/library/mercy-caduceus-staff-1\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nCR-10 3D printer: http://amzn.to/2qe7vtv\n(Amazon affiliate links help me out!)\n\nLCD: https://www.adafruit.com/product/3533\nMotor: http://amzn.to/2qdZzbF (Use a 30 rpm motor instead)\nMotor Driver: https://www.adafruit.com/product/3190\nBattery: https://www.adafruit.com/product/1781\nBoost Converter: https://www.pololu.com/product/2115\n\nGet previews and updates on"
+  },
+  {
+   "id": "eXWvaTRWmHg",
+   "t": "5K Subscriber Channel Update",
+   "d": "2018-03-07",
+   "v": 940,
+   "s": 171,
+   "vertical": false,
+   "desc": "Thanks for 5K! I've got a lot of new projects coming really soon and I think you'll like them. If there are any builds that you'd like to see, let me know in the comments. Although I love Overwatch, this channel is about bringing Your ideas to life and those can be from any fiction (especially your own imagination). Keep creating!\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nGet previews and updates on Instagram @mr.v0lt"
+  },
+  {
+   "id": "xpUE_8hHXck",
+   "t": "Real Symmetra Laser Turrets",
+   "d": "2018-04-05",
+   "v": 37763,
+   "s": 757,
+   "vertical": false,
+   "desc": "More laser action at the 8min 30sec mark.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nAfter a couple weeks of tinkering, my first iteration of Symmetra's turrets are alive! They may be 3D printed instead of hard light constructs, but I still think they're pretty cool. Each turret holds a 2W 445nm laser and RGB (Dotstar) leds. They're controlled by an Arduino Mega and some relays. \n\nYou can download the 3d models I created here:\n\nhttps://grabcad.com/library/symmetra-s-laser-tu"
+  },
+  {
+   "id": "VCCbzCvtRzU",
+   "t": "How to Remove 3D Prints Easily",
+   "d": "2018-04-16",
+   "v": 238625,
+   "s": 71,
+   "vertical": false,
+   "desc": "How do you remove 3D prints from your print surface?\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nThis is a method I've used for a while now and wish I had known sooner. Let me know if this helps you out in the comments below and if you have any other techniques and tips for 3D printing.\n\nGet previews and updates on Instagram @mr.v0lt"
+  },
+  {
+   "id": "OoOtc2j5fu0",
+   "t": "Animatronic Roberto Lamp | The Crazy Futurama Robot",
+   "d": "2018-04-30",
+   "v": 11564,
+   "s": 214,
+   "vertical": false,
+   "desc": "Now stand back, I gotta practice my stabbin'. Ha Haa ha!\n\nAfter FIVE years of tinkering with this idea, I've finally finished my first version of an animatronic character from Futurama: Roberto. He's wirelessly controlled by a homemade remote and runs off Arduino compatible boards. He's mounted on an Ikea Kvart lamp that I found at a Goodwill.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nGet previews and updates on Instagram @mr.v0lt\n\nModel: https://grabcad.com/library/roberto"
+  },
+  {
+   "id": "prk56JGcDyc",
+   "t": "Building GLaDOS in Real Life: Part 1",
+   "d": "2020-09-26",
+   "v": 83517,
+   "s": 416,
+   "vertical": false,
+   "desc": "I'm building a scaled animatronic version of GLaDOS (as she looks in Portal 2). For now, I'm going to be building her head and neck mechanism, but she'll be fully articulated as she is in game. Eventually, I'd love to build her full body, but I'll need a bit more space for that kind of build! \n\nThis is going to be an ongoing project as she's a complicated robot, but that's the fun of the challenge. As she comes along, I'll be adding as many plausible features as I can, but I'm curious to know what you'd like to see her capable of.\n\nIf you want to see her come to life, subscribe and let me know"
+  },
+  {
+   "id": "bMVa9oNzufY",
+   "t": "Building GLaDOS in Real Life: Part 2",
+   "d": "2020-10-16",
+   "v": 61270,
+   "s": 126,
+   "vertical": false,
+   "desc": "The second part.\n\nI've made a fair amount of progress on GLaDOS in the past weeks, and now she's got a fully motorized head! Using two new 35Kg.cm servos, she can slide and tilt her eye assembly.\n\nNext time, I'll be adding more head details and creating her neck mechanism. Stay tuned."
+  },
+  {
+   "id": "RkeFVlBybao",
+   "t": "Building GLaDOS in Real Life: Part 3",
+   "d": "2020-11-28",
+   "v": 54995,
+   "s": 477,
+   "vertical": false,
+   "desc": "The part where things go perfectly well and everyone is happy :)\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nChallenges to overcome next time:\nTighten up the tolerances of the joints.\nTest microcontroller drive for the servo with smooth acceleration (I'm just using a cheapo servo tester in this video)\nIncrease clamping force on the main neck rod so GLaDOS can't decapitate herself... again."
+  },
+  {
+   "id": "ta253PN3XG8",
+   "t": "Building GLaDOS in Real Life: Pt 4",
+   "d": "2020-12-29",
+   "v": 56236,
+   "s": 103,
+   "vertical": false,
+   "desc": "Been a busy personal month, but I wanted to share a quick update on GLaDOS. I've ordered some linear actuators for her redesigned neck mechanism and will basically be redesigning the entirety of her wall mount.\n\nI'm moving over the next week, so I'll have little time to work, but the next update will share full motion control of her head. Are you excited? I'm excited. Stay safe out there.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt"
+  },
+  {
+   "id": "D_Rx0_V2DdY",
+   "t": "GLaDOS Prototype Neck Motion Test #Shorts",
+   "d": "2021-03-01",
+   "v": 94487,
+   "s": 22,
+   "vertical": true,
+   "desc": "Consider this Glados in Real Live Part 4.1! I've redesigned her neck to use servo-linear actuators. There's still a lot of mechanical design to do for her neck, but her wall mount enclosure is ready, so I can start programing motion sequences for her head! #Shorts\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt"
+  },
+  {
+   "id": "WlKHNCdLuwA",
+   "t": "GLaDOS in Real Life: Servo Calibration Test #Shorts",
+   "d": "2021-03-15",
+   "v": 858769,
+   "s": 43,
+   "vertical": true,
+   "desc": "Subscribe to see her wake up in the next video! #Shorts\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nI've finally been able to mount GLaDOS on a wall for proper testing. I had to redesign her neck for a third time and tidy up some joint mechanisms for the servo-linear actuators. Right now she's running a set script from a Pololu Maestro. Still lots of work to do to animate her!"
+  },
+  {
+   "id": "96riTrt-BbU",
+   "t": "So I turned Alexa into GLaDOS",
+   "d": "2021-04-12",
+   "v": 2491416,
+   "s": 373,
+   "vertical": false,
+   "desc": "Learn CAD to build your own GLaDOS https://www.cadclass.org/?ref=a7e1d3\n\n\nThe giveaway is now over! I've messaged the recipients, so check your DMs. The following (Instagram users) have been chosen: \n\nmergingkibbles\nIke_maness\nfreeorrin\nqbblackout\nkernal_cobb_\nvasquez_karlo \nl0g4n_g4mm1ll\nrj.is.bad.at.usernames\ndoctorbrian60\nw.h.butters\ntim.palamarchuk\ndj.will.watkins\n\nBuilding GLaDOS in Real Life Part 5, Chapter 2: Cold Boot\n\n0:00 Spooky Intro\n0:25 Who is GLaDOS?\n1:14 Building GLaDOS\n2:27 Design Updates\n3:00 Hacking Alexa\n3:30 A Surprise Giveaway\n4:32 GLaDOS wakes up\n\nHey, it's that evil robo"
+  },
+  {
+   "id": "W9VFbfcogbA",
+   "t": "GLaDOS in Real Life: Your Questions Answered!",
+   "d": "2021-04-17",
+   "v": 323084,
+   "s": 516,
+   "vertical": false,
+   "desc": "Links to files, stores, parts etc. below!\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nThe previous video: https://youtu.be/96riTrt-BbU\n\nShe's just an animatronic prototype, so there's lots of things that make her design  needlessly difficult and expensive to build right now, but if you want to jump in based on my files, go ahead! As much as I would love to help out, I have to focus on building more cool things for the channel, so you'll have to work on your own. I don't have "
+  },
+  {
+   "id": "0lrlseiiZ8o",
+   "t": "Portal 2 | Can we build Wheatley in real life? Part 1",
+   "d": "2021-06-21",
+   "v": 111685,
+   "s": 298,
+   "vertical": false,
+   "desc": "SO BEGINS THE APERTURE SCIENCE PERSONALITY CORE INITIATIVE\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nAlright alright, let's get down to building Wheatley IRL ok? Personality Cores, Spheres, etc, are essential robotic stewards of Aperture Labs and are required to modify GLaDOS's unruly behavior. I've already built a prototype of her head, so cores are the logical next step! They're plausible mechanically, but I will have to make some compromises so that things aren't floatin"
+  },
+  {
+   "id": "JdjqUJxGEgg",
+   "t": "Portal 2 | Building Wheatley's Eye in Real Life",
+   "d": "2021-07-04",
+   "v": 83490,
+   "s": 155,
+   "vertical": false,
+   "desc": "SO CONTINUES THE APERTURE SCIENCE PERSONALITY CORE INITIATIVE\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\n\nAlright alright, let's get down to building Wheatley IRL ok? Personality Cores, Spheres, etc, are essential robotic stewards of Aperture Labs  in Portal and Portal 2 and are required to modify GLaDOS's unruly behavior. I've already built a prototype of her head, so cores are the logical next step! They're plausible mechanically, but I will have to make some compromises s"
+  },
+  {
+   "id": "JJD-mD91gr4",
+   "t": "Portal 2 | Wheatley's Chassis and Stewart Platform",
+   "d": "2021-07-19",
+   "v": 137174,
+   "s": 560,
+   "vertical": false,
+   "desc": "Portal 2| Wheatley in Real Life part 3: The DIY Aperture Science Personality Core.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nAlright alright, let's get down to building Wheatley IRL ok? Personality Cores, Spheres, etc, are essential robotic stewards of Aperture Labs  in Portal and Portal 2 and are required to modify GLaDOS's unruly behavior. I've already built a prototype of her head, so cores are the logical next step! They're plausible mechanically, but I will have to mak"
+  },
+  {
+   "id": "aaxyQEUuX4s",
+   "t": "Digital Puppetry: What is a Waldo and Why Do I Need One?",
+   "d": "2021-08-18",
+   "v": 40545,
+   "s": 686,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/mrvolt to save 10% off your first purchase of a website or domain using code: MRVOLT\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nI want to control my animatronic characters as efficiently as possible and while it would be nice to use 3D animation software or other platforms to create custom animations, that's still waaaay too tedious, so today I'm building a remote manipulator, commonly known as a Waldo after an invention from a 1942 short stor"
+  },
+  {
+   "id": "mOeJAuE33gg",
+   "t": "Portal 2 | Wheatley Animatronic Upgrades and Test",
+   "d": "2021-08-25",
+   "v": 492433,
+   "s": 698,
+   "vertical": false,
+   "desc": "Learn CAD and Fusion360 to build your own Wheatley: https://www.cadclass.org/?ref=a7e1d3\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nPortal 2 | Wheatley in Real Life part 4: The DIY Animatronic Aperture Science Personality Core.\n\nAlright alright, let's get down to building Wheatley IRL ok? Personality Cores, Spheres, etc, are essential robotic stewards of Aperture Labs  in Portal and Portal 2 and are required to modify GLaDOS's unruly behavior. I've already built a prototype "
+  },
+  {
+   "id": "s_RIMZ2yiBs",
+   "t": "Building a Securitron from Fallout: New Vegas in Real Life Part 1",
+   "d": "2021-09-09",
+   "v": 19802,
+   "s": 478,
+   "vertical": false,
+   "desc": "Invest in yourself! Use my link and check out the first chapter of any DataCamp course for FREE! https://bit.ly/3AcUdxb \n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nIt\u2019s not that I don\u2019t love the other robots we\u2019ve met throughout the series, but there\u2019s just something about Securitrons that I really love. Maybe it\u2019s the CRT faces with V-Hold problems. Maybe it's the flappy pincer fingers. The monowheel. I must have watched the Fallout: New Vegas teaser trailer of Victor diggi"
+  },
+  {
+   "id": "nXVsbjl3NYk",
+   "t": "Portal 2 | The DIY Wheatley Crab Tutorial",
+   "d": "2021-09-16",
+   "v": 117293,
+   "s": 850,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/mrvolt to save 10% off your first purchase of a website or domain using code: MRVOLT\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nAlright, many of you asked, so here's a Wheatley Crab for all your Wheatley Crab needs! What are those needs? I have no idea, but y'all won't stop talking about it. Use this crab power wisely. Have fun \ud83d\ude43\ud83d\ude43\ud83d\ude43\n\nFree Downloadable STL files here:\n\nhttps://drive.google.com/drive/folders/1YnTq7eoq7Siq_Cy5ROp6W6zi6yXtKDKN?usp="
+  },
+  {
+   "id": "BOyEE5Yv7Y4",
+   "t": "Coffee Mug Computer Vision | Building a Securitron in Real Life Part 2",
+   "d": "2021-09-24",
+   "v": 15505,
+   "s": 760,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/mrvolt to save 10% off your first purchase of a website or domain using code: MRVOLT\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\n\nThe machine learning co-processor: https://coral.ai/products/accelerator/\nOnline TensorFlow model training: https://teachablemachine.withgoogle.com/\nTeachable Machine Tutorial: https://youtu.be/kwcillcWOg0\n\nToday I make some of the first physical parts of my prototype Securitron and try some basic machine learning to"
+  },
+  {
+   "id": "jSPM8uUrfSc",
+   "t": "Portal 2 | Animatronic Wheatley New Updates",
+   "d": "2021-10-15",
+   "v": 82204,
+   "s": 309,
+   "vertical": false,
+   "desc": "Install Raid for Free \u2705 IOS/ANDROID/PC: https://clcr.me/MrVolt_Oct  and get a special starter pack \ud83d\udca5  Available only for the next 30 days \n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nPortal 2 | Wheatley in Real Life part 5: The DIY Animatronic Aperture Science Personality Core.\n\nAlright alright, let's get down to building Wheatley IRL ok? Personality Cores, Spheres, etc, are essential robotic stewards of Aperture Labs  in Portal and Portal 2 and are required to modify GLaDOS'"
+  },
+  {
+   "id": "eNmPhPk5UHo",
+   "t": "Can You Game on the World's Smallest Monitor?",
+   "d": "2021-10-29",
+   "v": 132914,
+   "s": 397,
+   "vertical": false,
+   "desc": "FlexiSpot Kana Pro Bamboo Standing Desk https://bit.ly/3F3Zutq \nSave $15 when you buy through my link: https://bit.ly/3ohvQLy \nNow for every bamboo desktop you're going to buy, FlexiSpot will plant a TREE!  \n\nI've got a tiny problem and a tinier screen. I picked up a 0.7\" (~18mm) AMOLED display that is 1080p! That's over three thousand pixels per inch (MORE PIXELS THAN YOUR RETINA HAS ROOM FOR). Eat your heart out Apple. Can you actually use it though? Let's find out.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger buil"
+  },
+  {
+   "id": "eJBDXjI5Zu4",
+   "t": "Exotic Round Displays and How to Use Them",
+   "d": "2021-11-12",
+   "v": 397755,
+   "s": 861,
+   "vertical": false,
+   "desc": "Watch the updated video here: https://youtu.be/FUU0CAjp1OQ?si=3EN_aOwaKEWBjux_\n\nCircular displays are here! Round screens aren\u2019t exactly useful for productivity, but are too cool to pass buy. Today I\u2019m breaking down a few common varieties to show you how easy it is to get them running with an Arduino, Raspberry Pi, and a regular PC running Windows. All of the displays I've found are linked below.\n\nWant to buy me a coffee? Your tips support more videos like this: https://ko-fi.com/mrvolt\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\n0:00 Round Introduction\n1:34 Sponsor"
+  },
+  {
+   "id": "WMb240hIuAA",
+   "t": "Mr. Volt's 50K Sub End of Year Recap",
+   "d": "2022-01-09",
+   "v": 6611,
+   "s": 345,
+   "vertical": false,
+   "desc": "Install Raid for Free \u2705 IOS/ANDROID/PC: https://pl.go-ga.me/c8atp01t and get a special starter pack \ud83d\udca5 Available only for the next 30 days\n\nToday is a channel update to celebrate more than 50K subs, so I'm giving away some spare parts and Amazon gift cards.\n\nPack 1: Beginner Kit - Comment a Fictional Gadget/Tech build idea\nSeeed Arduino Beginner Kit, Seeeduino Xiao, BBC Microbit with Breakout, 37 Sensor Kit\n\nPack 2: Robot Kit - Comment a Fictional Robot/AI/Synthetic character build idea\n16 Analog Servos, 2 Servo Drivers, Ardupilot, PixyCam, Multi-sensor kit\n\nPack 3: Advanced Raspberry Pi Kit - "
+  },
+  {
+   "id": "oLZX8REK-vs",
+   "t": "Portal 2 - Wheatley in Real Life - Mk II Design",
+   "d": "2022-01-28",
+   "v": 224853,
+   "s": 505,
+   "vertical": false,
+   "desc": "Learn CAD and Fusion360 to build your own Wheatley: https://www.cadclass.org/?ref=a7e1d3\n\nSupport the channel and bigger builds: https://www.patreon.com/mr_volt\n\nMy personality core saga continues! I was not happy with the state of my current Wheatley build, so into the Aperture Science Emergency Intelligence Incinerator he goes. Wheatley Mk II is a much improved design that focuses on easier part sourcing, assembly, more functionality. \n\nFollow me on Instagram: @mr.v0lt\n\nThis video was sponsored by Brilliant."
+  },
+  {
+   "id": "PcL0BhR7ANc",
+   "t": "Portal 2  | Wheatley in Real Life Mk II (unfinished) Testing",
+   "d": "2022-03-03",
+   "v": 437041,
+   "s": 381,
+   "vertical": false,
+   "desc": "Unlock new career opportunities and become data fluent today! Use my link https://bit.ly/MrVoltDCMar22  and check out the first chapter of any DataCamp course for FREE to unlock new career opportunities and become data fluent today!\n\nThe people of Ukraine need more support than I do:\nhttps://www.forbes.com/advisor/personal-finance/donate-relief-to-ukraine/\n\nBut if you also want to support the channel: https://www.patreon.com/mr_volt\n\nThis video was wildly edited down and changed due to a lot of errors behind the scenes, so you'll see Wheatley in full form next time. This continues to be the mo"
+  },
+  {
+   "id": "qySJLYxnvSo",
+   "t": "Mr. Volt's 2022 Shop Tour (chill)",
+   "d": "2022-03-17",
+   "v": 13166,
+   "s": 1253,
+   "vertical": false,
+   "desc": "Get Surfshark VPN at https://Surfshark.deals/MRVOLT and enter promo code MRVOLT for 83% off and 3 extra months for FREE!\n\nSupport the Ukrainian people: https://crisisrelief.un.org/t/ukraine\nSupport the channel: https://www.patreon.com/mr_volt?fan_landing=true\nFollow me Instagram: @mr.v0lt\n\nMy favorite places for getting parts or learning about electronics and embedded software:\nhttps://learn.adafruit.com/\nhttps://learn.sparkfun.com/\nhttps://www.instructables.com/\nhttps://www.hackster.io/projects\nhttps://www.youtube.com/c/AndreasSpiess\n\nSoldering:\n(Old, but this is most in depth soldering tutor"
+  },
+  {
+   "id": "T1eoxniMhXc",
+   "t": "Building an Animatronic Wheatley (Portal 2)",
+   "d": "2022-04-05",
+   "v": 1152683,
+   "s": 332,
+   "vertical": false,
+   "desc": "Support the Ukrainian people: https://crisisrelief.un.org/t/ukraine\nLearn CAD to build your own Wheatley: https://www.cadclass.org/?ref=a7e1d3\n\nJoin the Wheatley Builder's Club: https://discord.gg/V8A2mqSUnK\n\n@Harry101UK when can we make \"Meet the Cores: IRL?\" Would love to work together!\n\nFollow me on Instagram: @mr.v0lt\n\n3D printable files are linked below:\n\nhttps://drive.google.com/drive/folders/1VHRFsR3D1Pu7Y8t4J1quTAGyTOdKcODr?usp=sharing"
+  },
+  {
+   "id": "fnghTsLp_lQ",
+   "t": "DIY Doc Ock Suit Pt. 1 | Designing a Collapsible Arm Mechanism",
+   "d": "2022-06-14",
+   "v": 30162,
+   "s": 863,
+   "vertical": false,
+   "desc": "Use code MRVOLT at https://curiositystream.com/MRVOLT to sign up for just $14.99 for the whole YEAR\n\nSupport the Ukrainian people: https://crisisrelief.un.org/t/ukraine\nSupport the channel: https://www.patreon.com/mr_volt\nFollow me on Instagram: @mr.v0lt and together we can finally take down Spider-man.\n\nThe man, the myth, the legend: Thang010146 https://www.youtube.com/watch?v=pQBJcgJe6t0\n\nThe MathMechs extensor toy: http://www.mathmechs.com/\n\nSarrus linkage credit: https://en.wikipedia.org/wiki/Sarrus_linkage#/media/File:Sarrus_linkage_with_three_sides.gif"
+  },
+  {
+   "id": "yC0nxN-QqPo",
+   "t": "Portal 2 | DIY 1500 Megawatt Aperture Science Heavy Duty Super Colliding Super Button Miniature",
+   "d": "2022-07-16",
+   "v": 148042,
+   "s": 359,
+   "vertical": false,
+   "desc": "Get 20% off + free shipping @manscaped with code VOLT at https://mnscpd.com/MrVolt\n\nSupport the Ukrainian people: https://crisisrelief.un.org/t/ukraine\nSupport the channel: https://www.patreon.com/mr_volt\nJoin my discord: https://discord.gg/8wTsEkdxZX\n\nNot to be confused with the 1500 Megawatt Aperture Science Heavy Duty Super-Colliding Super Button, the 1500 Watt Aperture Science Heavy Duty Super-Mini Super Button is a little piece of Aperture Laboratories that you can enjoy at home. Made with the Raspberry Pi Pico, this should be a great beginner project. Total cost is about ~$30USD, but mor"
+  },
+  {
+   "id": "rLEsYVsGW1A",
+   "t": "Designing a Life Size Companion Cube",
+   "d": "2022-08-31",
+   "v": 111485,
+   "s": 763,
+   "vertical": false,
+   "desc": "Click the link to start your 7-day free trial and get 25% off a premium membership: https://blinkist.com/mrvolt\n\nSupport the Ukrainian people: https://crisisrelief.un.org/t/ukraine\nSupport the channel: https://www.patreon.com/mr_volt\nJoin my discord: https://discord.gg/8wTsEkdxZX\n\nFollow me on Instagram @mr.v0lt\n\nThe Companion Cube is one of the most iconic gaming items and today I'm diving into Fusion360 to show how I've designed my own. SEO buzz buzz Portal 2\n\nThis video contains a sponsored segment for Blinkist."
+  },
+  {
+   "id": "aafROLQTEAw",
+   "t": "How I made a life-size Companion Cube",
+   "d": "2022-11-29",
+   "v": 148410,
+   "s": 744,
+   "vertical": false,
+   "desc": "\ufe0f\ud83e\udd16 Install Mech Arena for FREE here on Mobile and PC \u2705https://clik.cc/g1mEK  and get a special starter pack to help kickstart your game! \u2b50\n\nYou can find the 3D files here: https://www.printables.com/model/328490-life-size-portal-2-companion-cube\n\nSupport the channel: https://www.patreon.com/mr_volt\n\nWho needs Portal with RTX when you can have a r e a l  Companion Cube?"
+  },
+  {
+   "id": "mLTRyoFej20",
+   "t": "The full story of how I built GLaDOS",
+   "d": "2022-12-22",
+   "v": 212123,
+   "s": 1119,
+   "vertical": false,
+   "desc": "Click the link to start your 7-day free trial and get 25% off a premium membership : https://blinkist.com/mrvolt\n\nOld, but gold and something I've meant to do for a while! Please enjoy the full GLaDOS build video.\nHer voice was made with 15.AI (when that was still available).\n\nSupport the channel: https://www.patreon.com/mr_volt"
+  },
+  {
+   "id": "XfGo1gua77U",
+   "t": "The \u201cImpossible\u201d Design of Wheatley from Portal 2 | Mk III Animatronic",
+   "d": "2023-03-19",
+   "v": 797555,
+   "s": 842,
+   "vertical": false,
+   "desc": "Learn CAD and Fusion360 to build your own Wheatley: https://www.cadclass.org/?ref=a7e1d3\n\nFiles will be available when the design is ready :)\nSupport the channel: https://www.patreon.com/mr_volt\nEarly updates on my discord:https://discord.gg/8wTsEkdxZX\n\nGIFs credit to https://www.animatronicwheatley.com/"
+  },
+  {
+   "id": "RmX9vtuUsZw",
+   "t": "Designing a Real Level One Sentry from TF2",
+   "d": "2023-08-17",
+   "v": 396848,
+   "s": 670,
+   "vertical": false,
+   "desc": "Learn CAD and Fusion360 to design your own Sentry: https://www.cadclass.org/?ref=a7e1d3\n\nJLCPCB One-stop Electronic & Mechatronic Manufacturing. Sign Up Here to Get $54 New User Coupons at - https://jlcpcb.com/?from=MrVolt \n\nSupport more videos like this: https://www.patreon.com/mr_volt\n\nJoin my Discord: https://discord.gg/8wTsEkdxZX"
+  },
+  {
+   "id": "aXoUDV85CBs",
+   "t": "Designing the Ultimate TF2 Dispenser Case Mod",
+   "d": "2023-12-08",
+   "v": 87376,
+   "s": 667,
+   "vertical": false,
+   "desc": "Use the exclusive code \"BFYTB\". You can get $30 off your E7/E7pro/C7 purchase.\n\nDesk US: https://bit.ly/3RVqDb2 CA: https://bit.ly/45waUlR\n\nChair US: https://bit.ly/46TJneO CA:https://bit.ly/47JtuZR\n\nNot cheap ($1000+) to replicate, but you can download the CAD here: https://grabcad.com/library/tf2-level-1-dispenser-case-mod-1"
+  },
+  {
+   "id": "OEn9hZ-Tw1E",
+   "t": "Building a Better Animatronic Wheatley from Portal 2",
+   "d": "2024-02-20",
+   "v": 962980,
+   "s": 826,
+   "vertical": false,
+   "desc": "Learn more about Robotis and DYNAMIXEL (affiliate link): \nhttps://shareasale.com/r.cfm?b=2521842&u=4135040&m=127600&urllink=&afftrack=\n\nGet laser cut metal and more with SendCutSend:\nhttps://sendcutsend.com/maker-volt/\n\nSupport the channel:\nhttps://patreon.com/mr_volt\n\nA step file for Wheatley MKIII is available here:\nhttps://grabcad.com/library/wheatley-4\n\nComplete details will be provided in a future video. In the meantime, join my discord server:\nhttps://discord.gg/5hBgbeCqqw\n\nWhat is Open Sauce? https://opensauce.live/tickets/"
+  },
+  {
+   "id": "NRzLJgmM684",
+   "t": "Designing a Management Rail and Wheatley FAQs",
+   "d": "2024-03-05",
+   "v": 116526,
+   "s": 742,
+   "vertical": false,
+   "desc": "Engineers can get Onshape Professional free up to 6 months, or free unlimited base plan here: https://Onshape.pro/MrVolt\n\nSupport the channel: patreon.com/mr_volt\n\nCAD here:\nhttps://grabcad.com/library/wheatley-4\n\nJoin my Discord: https://discord.gg/HzPYheZntN"
+  },
+  {
+   "id": "_r0qwPJESvo",
+   "t": "Building a Real Life Claptrap Robot | Pt. 1",
+   "d": "2024-07-02",
+   "v": 43840,
+   "s": 961,
+   "vertical": false,
+   "desc": "JLC3DP offers 3D Printing starting at 0.3 & CNC Service starting at $8. New users get $60: https://jlc3dp.com/?from=Mrv\n\nSupport the channel on Patreon: https://www.patreon.com/mr_volt\n\nFollow on Instagram: https://www.instagram.com/mr.v0lt/?hl=en\n\nJoin my Discord: https://discord.gg/8b8dUmWSQu"
+  },
+  {
+   "id": "s0fjvyjnHgA",
+   "t": "Designing an Advanced Animatronic Robot Arm",
+   "d": "2024-08-10",
+   "v": 30961,
+   "s": 604,
+   "vertical": false,
+   "desc": "Building a Real Claptrap from Borderlands Pt. 2\n\nCheck out the 3D Connexion Space Mouse here: \nhttps://3dconnexion.com/us/product/spacemouse-wireless/\n\nMagnetic Connectors: https://s.click.aliexpress.com/e/_DkRipZp\n\nSupport the channel on Patreon: https://www.patreon.com/mr_volt\n\nFollow on Instagram: https://www.instagram.com/mr.v0lt/?hl=en\n\nJoin my Discord: https://discord.gg/8b8dUmWSQu"
+  },
+  {
+   "id": "Cz-eqXGoZGA",
+   "t": "Unboxing the most POWERFUL servo I've ever used - The DYNAMIXEL-Y",
+   "d": "2024-09-10",
+   "v": 14958,
+   "s": 308,
+   "vertical": false,
+   "desc": "Learn more about Robotis and the Dynamixel Y here: http://shrsl.com/4o6fj\n\nThanks to Robotis for trusting me with their newest servo. This thing is insanely powerful and I can't wait to use it in my upcoming Claptrap build.\n\nE-manual (specs): https://emanual.robotis.com/docs/en/dxl/y/ym070-210-r099-rh/"
+  },
+  {
+   "id": "yZaHB7tS4Qw",
+   "t": "I Built a Real TF2 Mini Sentry",
+   "d": "2024-09-18",
+   "v": 107528,
+   "s": 451,
+   "vertical": false,
+   "desc": "Check out the SpaceMouse Wireless here: https://3dconnexion.com/uk/?ref=mrvolt\n\nSupport the channel on Patreon: https://www.patreon.com/mr_volt\nJoin my Discord: https://discord.gg/vTHAXNQVSM\n\n3D Models:\nMini Sentry: https://www.printables.com/model/1011550-tf2-mini-sentry\nWrangler: https://www.printables.com/model/1011563-tf2-wrangler\n\nDXFs for laser cut metal are included on the 3D Model pages. Go to https://sendcutsend.com/volt/ to save 15% off your order.\n\nBill of Materials (affiliate links): https://docs.google.com/spreadsheets/d/1ixfx-l2l3Nx6xKVFN_0QmIxc9hZiKkGwfGWgMSQjL6Y/edit?usp=sharin"
+  },
+  {
+   "id": "2MN4uuE-bg0",
+   "t": "Designing a Magic Dice Box for Crescent Shay",
+   "d": "2024-12-24",
+   "v": 107319,
+   "s": 804,
+   "vertical": false,
+   "desc": "Watch Shay's video: https://youtu.be/0A2F4nr5SIU?si=JANorgGf5v6-6hBf\nWatch James' video: https://youtu.be/0NuVtZ2SvcI?si=dyjK6WWwtaAJo2hj\n\nSee all the other builds! https://www.youtube.com/playlist?list=PLBsfTOjKcQe-OOKYCcfpSFW0Dtj_9w4qo"
+  },
+  {
+   "id": "FUU0CAjp1OQ",
+   "t": "Unusual Round Displays and How to Use Them",
+   "d": "2025-02-28",
+   "v": 41867,
+   "s": 780,
+   "vertical": false,
+   "desc": "Go to https://buyraycon.com/mrvolt to get up to 20% off sitewide!\n\nEmbedded Displays:\n\n0.71\u201d [18mm] 160x160  \nDisplay Only Breakout - https://s.click.aliexpress.com/e/_oC62qWY\nWith ESP32C3 -US - https://amzn.to/42RfUnr\nWith ESP32S3 + Enclosure +Speaker + Mic - https://lilygo.cc/products/t-circle-s3\n\n0.96\u201d {24mm] 240x198 [Gauge style] - https://s.click.aliexpress.com/e/_ooxYbEg\n\n1.28\u201d [33mm] 240x240 \nDisplay Only Breakout  - https://amzn.to/3QcqOwu\nDisplay Only (Xiao) Breakout https://www.seeedstudio.com/Seeed-Studio-Round-Display-for-XIAO-p-5638.html?srsltid=AfmBOooArTqA4_j3XkoWKdW02kfxZ4qD-_w"
+  },
+  {
+   "id": "v5UhycI-Bcw",
+   "t": "Building an Animatronic Claptrap - The Arm Update",
+   "d": "2025-06-17",
+   "v": 15940,
+   "s": 539,
+   "vertical": false,
+   "desc": "Get your own Elegoo Centauri Carbon: https://elegoo.sjv.io/jeBnJ0\n\nBuilding An Animatronic Claptrap Part 3!"
+  },
+  {
+   "id": "zLG6L02HB-M",
+   "t": "Building an Animatronic Claptrap: Lights and Sound",
+   "d": "2025-08-15",
+   "v": 8905,
+   "s": 335,
+   "vertical": false,
+   "desc": "Huge thanks to KiwiCo for sponsoring today\u2019s video! Go to https://www.kiwico.com/mrvolt and use code MRVOLT for 50% off your first monthly crate.\n\nBuilding an Animatronic Claptrap from Borderlands pt 4."
+  },
+  {
+   "id": "TuE_wgbtF3E",
+   "t": "Portal Ghost Story",
+   "d": "2025-08-23",
+   "v": 26271,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "mVrMBY64QnQ",
+   "t": "CLAPTRAP IRL UPDATE",
+   "d": "2025-12-29",
+   "v": 8393,
+   "s": 29,
+   "vertical": true,
+   "desc": "If you want custom CNC parts for your next project, go to www.pcbway.com"
+  },
+  {
+   "id": "jX5N9LwWr2U",
+   "t": "building Claptrap was a mistake - the final update",
+   "d": "2025-12-29",
+   "v": 12030,
+   "s": 580,
+   "vertical": false,
+   "desc": "If you want custom CNC parts for your next project, go to https://www.pcbway.com/"
+  },
+  {
+   "id": "k5cQ_2DNEOU",
+   "t": "I made a real working Pokedex",
+   "d": "2026-04-09",
+   "v": 806894,
+   "s": 642,
+   "vertical": false,
+   "desc": "If you want a custom PCB for your next project, go to https://www.pcbway.com/\n\nNintendo will never sell an anime accurate Pokedex, so I built my own. My version has a Raspberry Pi Compute module 4, ESP32, Raspberry Pi Pico, advanced SLA 3D printed case, and CNC machined aluminum rear. It can detect Pokemon in photos, has complete entries for all 1000+ existing Pokemon, and has a built in microphone so you can ask it questions about evolutions or moves! \n\nHardware design by me. Software by the maestro @BigRigCreates \n\nLearn more about the Form 4 here: https://formlabs.com/3d-printers/form-4/?ut"
+  },
+  {
+   "id": "itJDB8p2B8Y",
+   "t": "A Real Pokedex #pokemon #3dprinting #pcb @PCBWayCom",
+   "d": "2026-04-14",
+   "v": 10741,
+   "s": 40,
+   "vertical": true,
+   "desc": "If you want a custom PCB for your next project, go to https://www.pcbway.com/"
+  }
+ ]
+}
