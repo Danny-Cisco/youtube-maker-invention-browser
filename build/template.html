@@ -306,6 +306,7 @@ const st = { sort:"views", kind:"All", q:"", creator:"", mSort:"subs", mq:"" };
 const progressOf = c => { const seen = getSeen(); return c.inventions.filter(x => isSeen(seen, c, x)).length / c.inventions.length; };
 const MAKER_SORTS = [
   { k:"subs",    label:"Subscribers: most first",   cmp:(a,b) => b.subs - a.subs },
+  { k:"subsLo",  label:"Subscribers: least first",  cmp:(a,b) => a.subs - b.subs },
   { k:"views",   label:"Total views: most first",   cmp:(a,b) => b.totalViews - a.totalViews },
   { k:"inv",     label:"Inventions: most first",    cmp:(a,b) => b.inventions.length - a.inventions.length },
   { k:"uploads", label:"Uploads: most first",       cmp:(a,b) => b.uploads.length - a.uploads.length },
