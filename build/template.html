@@ -62,6 +62,10 @@ body{overflow-x:clip}
 .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;background:var(--chip);flex:none}
 body.makers-page #chips,body.makers-page #path{display:none}
 .sizef{margin-top:4px;margin-bottom:40px}
+.fh{display:flex;align-items:center;gap:8px}
+.ficon{width:18px;height:18px;fill:var(--accent);flex:none}
+.fhint{margin:3px 0 0;font-size:13px;color:var(--muted)}
+.sizef .ph{align-items:flex-start}
 .presets{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
 .presets button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px;font-size:13px;cursor:pointer;color:var(--text);display:inline-flex;gap:6px;align-items:baseline}
 .presets button span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
@@ -762,7 +766,7 @@ function renderMakers(){
   const ticks = []; for (let e = SIZE_LO; e <= SIZE_HI; e++) ticks.push(e);
   main.innerHTML = `
   <div class="wrap"><section class="panel sizef" aria-label="Filter by channel size">
-    <div class="ph"><h3>Channel size</h3><span class="sub" id="sizeLabel"></span></div>
+    <div class="ph"><div><h3 class="fh"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18l-7 8.5V19l-4 2v-7.5z"/></svg>Filter by channel size</h3><p class="fhint">Pick a preset, or drag the orange handles along the subscriber scale. Each dot is a maker.</p></div><span class="sub" id="sizeLabel"></span></div>
     <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
       const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
       return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${a <= SIZE_LO ? "<" + fmt(10 ** b) : fmt(10 ** a) + (b >= SIZE_HI ? "+" : "–" + fmt(10 ** b))} · `}${n}</span></button>`; }).join("")}</div>
