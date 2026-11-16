@@ -648,8 +648,8 @@ function card(x, pos){
 // ---------- makers front page ----------
 // ---------- channel-size filter (log scale, YouTube Play Button bands) ----------
 const LG = v => Math.log10(Math.max(1, v));
-const SIZE_LO = Math.min(4, Math.floor(LG(Math.min(...CREATORS.map(c => c.subs || 1))))), SIZE_HI = Math.max(8, Math.ceil(LG(Math.max(...CREATORS.map(c => c.subs || 1)))));
-const SIZE_PRESETS = [["all", "All", SIZE_LO, SIZE_HI], ["tiny", "Tiny", SIZE_LO, 5], ["small", "Small", 5, 6], ["medium", "Medium", 6, 7], ["big", "Big", 7, SIZE_HI]];
+const SIZE_LO = Math.min(3, Math.floor(LG(Math.min(...CREATORS.map(c => c.subs || 1))))), SIZE_HI = Math.max(8, Math.ceil(LG(Math.max(...CREATORS.map(c => c.subs || 1)))));
+const SIZE_PRESETS = [["all", "All", SIZE_LO, SIZE_HI], ["tiny", "Tiny", SIZE_LO, 4], ["small", "Small", 4, 5], ["medium", "Medium", 5, 6], ["big", "Big", 6, 7], ["huge", "Huge", 7, SIZE_HI]];
 const MILESTONES = [[1e5, "Silver", "var(--pb-silver)"], [1e6, "Gold", "var(--pb-gold)"], [1e7, "Diamond", "var(--pb-diamond)"], [5e7, "Ruby", "var(--pb-ruby)"], [1e8, "Red Diamond", "var(--pb-red)"]];
 const inSize = c => { const v = LG(c.subs); return v >= st.sMin - 1e-9 && (v < st.sMax || st.sMax >= SIZE_HI); };
 const sizePct = v => (v - SIZE_LO) / (SIZE_HI - SIZE_LO) * 100;
@@ -671,7 +671,7 @@ function renderMakers(){
     <div class="ph"><h3>Channel size</h3><span class="sub" id="sizeLabel"></span></div>
     <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
       const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
-      return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${fmt(10 ** a)}${b >= SIZE_HI ? "+" : "–" + fmt(10 ** b)} · `}${n}</span></button>`; }).join("")}</div>
+      return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${a <= SIZE_LO ? "<" + fmt(10 ** b) : fmt(10 ** a) + (b >= SIZE_HI ? "+" : "–" + fmt(10 ** b))} · `}${n}</span></button>`; }).join("")}</div>
     <div class="scale" id="scale" style="height:${trackTop + 34}px">
       ${MILESTONES.filter(([v]) => LG(v) <= SIZE_HI).map(([v, name, col]) => `<div class="ms${sizePct(LG(v)) > 97 ? " flip" : ""}" style="left:${sizePct(LG(v))}%;height:${trackTop}px" title="${name} Play Button: ${fmt(v)} subscribers"><span class="pb" style="--c:${col}"></span><span class="ml">${name}</span></div>`).join("")}
       <div class="track" style="top:${trackTop}px"></div><div class="sel" id="sel" style="top:${trackTop - 1}px"></div>
@@ -694,7 +694,7 @@ function updateSizeUI(){
   [["hLo", st.sMin], ["hHi", st.sMax]].forEach(([id, v]) => { const h = $(id); h.setAttribute("aria-valuemin", SIZE_LO); h.setAttribute("aria-valuemax", SIZE_HI); h.setAttribute("aria-valuenow", v.toFixed(2)); h.setAttribute("aria-valuetext", sizeText(v) + " subscribers"); h.title = sizeText(v); });
   main.querySelectorAll(".sdot").forEach(d => d.classList.toggle("out", !inSize(CREATORS.find(c => c.slug === d.dataset.slug))));
   const n = CREATORS.filter(inSize).length, all = st.sMin <= SIZE_LO && st.sMax >= SIZE_HI;
-  $("sizeLabel").textContent = all ? `All sizes · ${n} makers` : `${sizeText(st.sMin)} – ${st.sMax >= SIZE_HI ? "any" : sizeText(st.sMax)} subscribers · ${n} of ${CREATORS.length} makers`;
+  $("sizeLabel").textContent = all ? `All sizes · ${n} makers` : `${st.sMin <= SIZE_LO ? "Under " + sizeText(st.sMax) : st.sMax >= SIZE_HI ? sizeText(st.sMin) + " and up" : sizeText(st.sMin) + " – " + sizeText(st.sMax)} subscribers · ${n} of ${CREATORS.length} makers`;
   main.querySelectorAll("[data-preset]").forEach(b => { const p = SIZE_PRESETS.find(x => x[0] === b.dataset.preset); b.setAttribute("aria-pressed", Math.abs(p[2] - st.sMin) < 1e-6 && Math.abs(p[3] - st.sMax) < 1e-6); });
 }
 let gridRAF = 0;
