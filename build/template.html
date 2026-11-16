@@ -49,7 +49,7 @@ body{overflow-x:clip}
 .cnav:hover{opacity:1}
 .cnav.prev{left:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .cnav.next{right:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
-.cbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:10px;font-size:13px;color:var(--muted)}
+.cbar{display:flex;justify-content:flex-end;align-items:center;gap:12px;margin-top:10px;font-size:13px;color:var(--muted)}
 .cbar button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
 .cbar button:hover{color:var(--text)}
 @media (max-width:600px){.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
@@ -485,7 +485,7 @@ function drawHero(fresh){
   // Three copies of the strip, so the motion can loop forever: after passing the middle copy we jump back by N invisibly.
   el.innerHTML = `<div class="carousel" tabindex="0" aria-roledescription="carousel" aria-label="Random inventions"><div class="ctrack jump" style="--sw:${sw}px">${[0, 1, 2].flatMap(r => car.items.map((it, j) => slide(it, r * N + j))).join("")}</div>
     <button class="cnav prev" aria-label="Previous">‹</button><button class="cnav next" aria-label="Next">›</button></div>
-    <div class="cbar"><span>Random inventions from ${CREATORS.length} makers</span><button id="shuffle">Shuffle ↻</button></div>`;
+    <div class="cbar"><button id="shuffle">Shuffle slideshow ↻</button></div>`;
   const root = el.querySelector(".carousel"), track = el.querySelector(".ctrack"), slides = [...track.children];
   let pos = N + car.i;
   const left = () => { const r = $("hdr").getBoundingClientRect(); return r.left + 16; };
