@@ -1,0 +1,1242 @@
+{
+ "channel": {
+  "id": "UCD7iJhnqGVKyjoXavxJrFRA",
+  "title": "Paul Gardner-Stephen",
+  "handle": "@paulgardnerstephen",
+  "description": "",
+  "since": "2009-03-08",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_l1OuPzo-7hvXsG_01pn3LTdysqM2TAL-qw_ZqGVv4ouRk=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "395094",
+  "subscriberCount": "1020",
+  "hiddenSubscriberCount": false,
+  "videoCount": "136"
+ },
+ "videos": [
+  {
+   "id": "3ub8oKxsJug",
+   "t": "C65 Accelerated Stunt Car Racer",
+   "d": "2010-03-13",
+   "v": 17550,
+   "s": 106,
+   "vertical": false,
+   "desc": "In this third of three C65 videos we demonstrate the speed difference between the C64 and C65 in fast mode by showing a short clip of Stunt Car Racer and the de-packer for the game.  Stunt Car Racer seems to get the full claimed  400% average speed improvement resulting in a much better frame rate.  If any thing, the depacker runs even faster again, as evidenced by the much reduced size of the raster bars during depack."
+  },
+  {
+   "id": "mL4iX_iuBO8",
+   "t": "Commodore 65 (C65 aka C64DX) In Action",
+   "d": "2010-03-13",
+   "v": 88829,
+   "s": 278,
+   "vertical": false,
+   "desc": "In this second of three videos of the Commodore 65 / C65 / C64DX prototype we show the C65 in C65 and C64 mode, and show some C65 only software including a port of emacs, an image viewer and possibly the only C65 scene demo ever created.  These use many of the C65 features, including RGB video output , 80 column mode, 320x200 by 256 colour images, the internal 3.5\" floppy drive and stereo SID chips.\r\n\r\nThis C65 was for sale, and has been sold to an Italian collector for about AUD$15,000 / Euro 10.000 / US$13,000, which is the highest price yet seen for a C65."
+  },
+  {
+   "id": "RgmC8XqJLho",
+   "t": "C65 Hardware Overview",
+   "d": "2010-03-13",
+   "v": 17187,
+   "s": 147,
+   "vertical": false,
+   "desc": "In this first of three videos of the Commodore 65 / C65 / C64DX prototype system we have a brief overview of the hardware, inside and out."
+  },
+  {
+   "id": "ZG0ph6zXa7s",
+   "t": "Serval TD1 - First Call in Arkaroola Wilderness",
+   "d": "2010-07-13",
+   "v": 2383,
+   "s": 67,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen chats with David Rowe while placing the first Serval BatPhone call in a gorge in the Arkaroola Wilderness Sanctuary, using no supporting infrastructure besides the telephones."
+  },
+  {
+   "id": "Z3p2BYFXBkU",
+   "t": "The Serval Project Vision: Telecommunications where it is needed most",
+   "d": "2010-10-13",
+   "v": 11417,
+   "s": 251,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen, lecturer at Flinders University and founder of Serval Project Inc. describes his vision to make telecommunications available any where, any time -- regardless of disaster, bush fire, remoteness or poverty.\r\nRecorded at the Flinders University/Flinders Partners Research Innovation Showcase, September 2010."
+  },
+  {
+   "id": "8fWo-tKslLQ",
+   "t": "DIY Foot-operated semaphore tower",
+   "d": "2010-12-30",
+   "v": 1838,
+   "s": 81,
+   "vertical": false,
+   "desc": "Okay, so it is kind of useless now that we have the internet.  Well, almost.  It is a great system for demonstrating and learning the physical phenomena that underly wireless communication, and it will be used to do just that in a University topic I teach."
+  },
+  {
+   "id": "wYibygOdYMM",
+   "t": "Serval BatPhone Cave call",
+   "d": "2011-01-21",
+   "v": 1650,
+   "s": 381,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen, Research Fellow in Rural, Remote & Humanitarian Telecommunications at Flinders University and founder of Serval Project demonstrates calling from 88m underground using off-the-shelf cell phones running Serval's BatPhone software."
+  },
+  {
+   "id": "Wwsy9MThwns",
+   "t": "Serval Balloon Test",
+   "d": "2011-01-27",
+   "v": 6665,
+   "s": 502,
+   "vertical": false,
+   "desc": "In this video Dr. Paul Gardner-Stephen and the Serval Project team test their system at Linux Conf AU 2011 that allows one mobile phone to relay coverage for others on the mesh by lifting one BatPhone enabled handset with a helium balloon, providing international coverage for other BatPhone mesh phones on the ground."
+  },
+  {
+   "id": "iBxce1ClNVA",
+   "t": "An American Toilet Flushing North of the Equator",
+   "d": "2011-06-29",
+   "v": 15082,
+   "s": 26,
+   "vertical": false,
+   "desc": "The toilet is draining anti-clockwise, not due to the Coriolis Force, but due to the design of the bowl.  Australian toilets do not generally drain with a circular motion because of their markedly different design.  For ABC891 Science in the Studio."
+  },
+  {
+   "id": "FIk4g6ALu5I",
+   "t": "Serval Rhizome Retriever Prototype Preview",
+   "d": "2011-10-25",
+   "v": 15682,
+   "s": 201,
+   "vertical": false,
+   "desc": "Demonstration of early prototype of Serval Rhizome Retriever mesh file and data distribution software. Allows news, information, software updates, files, maps etc to be disseminated without any supporting  infrastructure or internet access."
+  },
+  {
+   "id": "S2NqOMJB5Nw",
+   "t": "ServalProject.org 1 Minute Introduction for ChangeMakers 2011",
+   "d": "2011-11-07",
+   "v": 658,
+   "s": 60,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen introduces the Serval Project in one minute for ChangeMakers 2011."
+  },
+  {
+   "id": "KDhJcwsnxf0",
+   "t": "Serval Project Rhizome MeshMS (Store-and-Forward Mesh SMS) Demonstration",
+   "d": "2011-11-22",
+   "v": 2127,
+   "s": 401,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen demonstrates the Serval Project's new store-and-forward mesh SMS service \"Rhizome MeshMS\" that can deliver messages between mesh nodes, even if there is not a link between the two nodes at any particular instant.  The demo culminates with an SMS being sent from Africa to Australia, using only Serval mesh-enabled phones, completely without the support of phone towers or a carrier"
+  },
+  {
+   "id": "eYbNEevAVKI",
+   "t": "WESC2011-Acceptance",
+   "d": "2011-11-30",
+   "v": 143,
+   "s": 58,
+   "vertical": false,
+   "desc": "Serval Project Acceptance of 2011 World Embedded Software Competition Distinction Award"
+  },
+  {
+   "id": "TAupJHKeF3Y",
+   "t": "Serval Mesh Encrypted Call CPU Usage Tamed",
+   "d": "2012-07-05",
+   "v": 1944,
+   "s": 101,
+   "vertical": false,
+   "desc": "We demonstrate the Serval Mesh 0.09 development code running an encrypted phone call, using only about 40% of the CPU on possibly the slowest Android phone on the market, without any hardware acceleration.  See servalproject.org for more info, or ask on serval-project-developers.\n\nExample output from top during the call:\n\nUser 31%, System 24%, IOW 0%, IRQ 0%\nUser 64 + Nice 39 + Sys 79 + Idle 145 + IOW 0 + IRQ 0 + SIRQ 1 = 328\n\n  PID CPU% S  #THR     VSS     RSS PCY UID      Name\n 2627  18% R     1  10728K   4936K  bg app_72\n/data/data/org.servalproject/bin/servald\n 2537  14% S    21 137524K  2"
+  },
+  {
+   "id": "hGO6179eHqw",
+   "t": "Isabel Flying Bakfiets (Cargo Bike)",
+   "d": "2012-08-02",
+   "v": 1606,
+   "s": 49,
+   "vertical": false,
+   "desc": "They say that riding a Bakfiets feels almost like flying.  Our daughter Isabel certainly thinks so, and this video shows her taxiing our Bakfiets in to land in our garage (with me as motor, of course)."
+  },
+  {
+   "id": "HPcqmuaSxl8",
+   "t": "Bakfiets Mobile Sand-Pit",
+   "d": "2012-12-27",
+   "v": 630,
+   "s": 888,
+   "vertical": false,
+   "desc": "Riding to Marion Sand & Metal to get more sand for our sandpit, including being weighed on the weighbridge. Caleb happily plays with the sand on the way home, as I comfortably ride the 200kg of bike+me+Caleb+sand home."
+  },
+  {
+   "id": "fd9ZPoBCcp4",
+   "t": "Shopping by Bakfiets with Caleb",
+   "d": "2012-12-27",
+   "v": 1222,
+   "s": 829,
+   "vertical": false,
+   "desc": "Riding to the supermarket with our two-year-old by bakfiets (cargobike/box bike). This is the first in a series of videos I am recording that are aimed to show what life with a bakfiets in Australia can offer.  They are designed to help those who are thinking about a bakfiets, but not sure whether it is for them, or if the lifestyle is worth the relatively substantial cost of a good quality bakfiets.  As a result, some of them are rather long, and record complete ride experience, rather than being edited down to \"highlights\".\n\nThis video includes:\n1. Navigating a railway maze (non-trivial for "
+  },
+  {
+   "id": "u30KA7fk3v0",
+   "t": "Serval Mesh 0.90 Demo",
+   "d": "2013-01-28",
+   "v": 22507,
+   "s": 620,
+   "vertical": false,
+   "desc": "Demonstration of the upcoming Serval Mesh release 0.90, showing mesh phone call plus multi-hop MeshMS (mesh SMS) and Rhizome file sharing."
+  },
+  {
+   "id": "30qNfzJCQOA",
+   "t": "Serval Mesh Extender - http://igg.me/at/speakfreely",
+   "d": "2013-07-06",
+   "v": 94537,
+   "s": 198,
+   "vertical": false,
+   "desc": "Serval Project has been working for three years with New Zealand Red Cross on free and open technology, called Serval Mesh, which can keep mobile phones operating when mobile networks fail, such as during disasters. We now want to take this technology out of the lab and get it into peoples hands. Find out more at http://igg.me/at/speakfreely"
+  },
+  {
+   "id": "59QOwV8AL8c",
+   "t": "Patching mobile phone black spots using .... duct tape -- http://igg.me/at/speakfreely",
+   "d": "2013-07-10",
+   "v": 1128,
+   "s": 369,
+   "vertical": false,
+   "desc": "Extending mobile network coverage McGyver style -- using sticky-tape (we couldn't find our roll of duct-tape) and a pair of ski-gloves.  \n\nVisit http://igg.me/at/speakfreely or http://servalproject.org to find out more about how the Serval Project is providing solutions for communications during disasters and other extreme events.\n\nSee also http://servalpaul.blogspot.com.au/2013/03/interfacing-between-serval-mesh-and.html for a more technical details of how this duct-tape network patch works, or http://servalpaul.blogspot.com/2013/07/interfacing-between-serval-mesh-and.html for details of an i"
+  },
+  {
+   "id": "9HHFi8cagyg",
+   "t": "C65GS Hello World",
+   "d": "2014-03-25",
+   "v": 1744,
+   "s": 44,
+   "vertical": false,
+   "desc": "C65GS is now able to boot an unmodified C65 ROM to the READY prompt.  Keyboard input and the screen editor are working, but BASIC is not yet working, as can be seen by the lack of SYNTAX ERROR when I hit return.  Sprites and sound and lots of other features are also still not implemented yet. All implemented in an Artix7 FPGA on a Nexys4 FPGA development board."
+  },
+  {
+   "id": "4Kmh8Wiix0o",
+   "t": "HTTP/SOCKS Proxy over Serval Mesh Streaming Protocol (MSP)",
+   "d": "2014-05-28",
+   "v": 2633,
+   "s": 318,
+   "vertical": false,
+   "desc": "As part of our research contracts with the Commotion Wireless project we have created a demonstration using a custom build of Serval Mesh that allows sharing a mobile internet connection over a Serval mesh.  On the phone offering the service, this includes running a http or SOCKS proxy on the phone, creating an MSP tunnel that forwards connections to the MSP port to the proxy, allowing configuration of a whitelist of users who are allowed to use the proxy, and advertising the proxy service over the mesh.  On the client phone this includes looking for proxy service offers, selecting one, and cr"
+  },
+  {
+   "id": "4sKuP1A_EMI",
+   "t": "C65GS booting, speed benchmark and simple BASIC interaction",
+   "d": "2014-06-12",
+   "v": 948,
+   "s": 141,
+   "vertical": false,
+   "desc": "C65GS 8-bit FPGA based computer booting C65 ROM from SD card, and running the SynthMark64 benchmark."
+  },
+  {
+   "id": "L80mip946EM",
+   "t": "C65GS scrolling properly in C65-mode after fixing colour RAM bug",
+   "d": "2014-06-16",
+   "v": 376,
+   "s": 10,
+   "vertical": false,
+   "desc": "Eventually tracked down the DMA/colour RAM bug that was stopping scrolling from working. See c65gs.blogspot.com.au for more details."
+  },
+  {
+   "id": "eU7gl_1LVFE",
+   "t": "C65GS first words and in temporary C64-case home",
+   "d": "2014-06-17",
+   "v": 839,
+   "s": 100,
+   "vertical": true,
+   "desc": "The C65GS FPGA-base Commodore 65/64 installed in the case of a dead C64.  FPGA configuration from internal SD-card.  Various small improvements, including $D418 works for digital audio (but no SID voices yet).  $D6F8 provides 8-bit PCM audio play back at up to 125KHz (provisional), making it easy to play relatively high-quality audio.  Of course the sample we recorded is not an example of high-quality audio ;)"
+  },
+  {
+   "id": "OKkA8wgH514",
+   "t": "Stunt Car Racer on C65GS at 29x Speed",
+   "d": "2014-07-03",
+   "v": 1045,
+   "s": 7,
+   "vertical": false,
+   "desc": "Self explanatory, really. Google for C65GS to find out more."
+  },
+  {
+   "id": "8Fp_5ex9_3E",
+   "t": "C65GS prototype running Boulder Mark C64 benchmark",
+   "d": "2014-09-04",
+   "v": 1306,
+   "s": 70,
+   "vertical": false,
+   "desc": "Boulder Mark C64 benchmark running on C65GS.  Run using \"F7\" to disable use of any special instructions etc.\n\nStock C64 score: 313\nDTV PAL score: 1,009\nSuper CPU r2 score: 13,649\nChameleon PAL rev9 score: about 19,000\n...\nC65GS commit c3bc288* 04SEP14 score: 29,915 = 96x stock C64\n\nVisit http://c65gs.blogspot.com.au for more information."
+  },
+  {
+   "id": "Vs2ahdF7JZc",
+   "t": "Kangaroo on Minchinbury Terrace (3) - Close shot through gap in fence. 480p",
+   "d": "2014-10-24",
+   "v": 87,
+   "s": 14,
+   "vertical": false,
+   "desc": "A kangaroo has been lost and wandering suburban Adelaide for about two weeks, and has been living near our street the last two days. It has now entered the railway corridor, finally necessitating action from the authorities to protect it and the community."
+  },
+  {
+   "id": "ajYKBAOIUFw",
+   "t": "Kangaroo on Minchinbury Terrace (4) - Close shot through gap in fence. 1080p",
+   "d": "2014-10-24",
+   "v": 844,
+   "s": 31,
+   "vertical": false,
+   "desc": "A kangaroo has been lost and wandering suburban Adelaide for about two weeks, and has been living near our street the last two days. It has now entered the railway corridor, finally necessitating action from the authorities to protect it and the community."
+  },
+  {
+   "id": "FLv56U9-z3Y",
+   "t": "Police and DPTI Rail Operations officers contemplating how to deal with the kangaroo. 1080p",
+   "d": "2014-10-24",
+   "v": 99,
+   "s": 58,
+   "vertical": false,
+   "desc": "A kangaroo has been on the loose in suburban Adelaide for about two weeks. It is now sitting inside the rail-corridor, disrupting rail services.  Authorities are now contemplating how to deal with the situation, as it seems that none of them are trained or resourced for catching large wildlife."
+  },
+  {
+   "id": "kamJpQ7BZgU",
+   "t": "At Arkaroola for National Science Week 2015 - Spotting Yellow-Footed Rock Wallabies",
+   "d": "2015-08-18",
+   "v": 185,
+   "s": 36,
+   "vertical": false,
+   "desc": "We are back in Arkaroola for National Science Week with the support of the South Australian National Science Week Grants and MIMP.  Arkaroola is as beautiful and rugged as always.  Here is a Yellow-Footed Rock Wallaby Mum and Joey in pouch.  These animals were on the brink of extinction just 20 years ago, and now thanks to the Bounce-Back program, they are thriving -- another great outcome based on science."
+  },
+  {
+   "id": "2H2mh8wLXco",
+   "t": "Using \"Understandable Computers\" to make computers unstandable",
+   "d": "2015-12-07",
+   "v": 3130,
+   "s": 1092,
+   "vertical": false,
+   "desc": "Dr. Paul Gardner-Stephen presents a power-point slide-show using a MEGA65 prototype in Commodore 64 mode, to talk about the potential benefits of using understandable computers to help people understand computers."
+  },
+  {
+   "id": "ItPz8ho82d4",
+   "t": "Yellow Footed Rock Wallabies at Arkaroola, December 2015",
+   "d": "2015-12-31",
+   "v": 149,
+   "s": 46,
+   "vertical": false,
+   "desc": "Three yellow-footed rock wallabies hoping along the rock face near Arkaroola Waterhole."
+  },
+  {
+   "id": "uUKU9kSG23c",
+   "t": "Building Serval Chat #1",
+   "d": "2016-08-02",
+   "v": 815,
+   "s": 67,
+   "vertical": true,
+   "desc": "A quick video showing the work so far on the new Serval Chat application and the existing Serval Mesh application running on the same phone, and communicating with one another.  NOTE: Serval Chat is far from finished, and will likely end up looking and behaving completely differently from what is shown here."
+  },
+  {
+   "id": "ju9DEZZDWUg",
+   "t": "MEGA65 new Disk Menu progress",
+   "d": "2016-08-03",
+   "v": 1623,
+   "s": 74,
+   "vertical": false,
+   "desc": "We finally have the new disk menu mostly working.  This is a significant milestone, because it uses hypervisor calls to get the directory listing of the SD card, and then to request that the hypervisor mounts the disk image for use."
+  },
+  {
+   "id": "mxbOAk0xfF4",
+   "t": "MEGA65  running International Soccer from a real cartridge",
+   "d": "2018-01-02",
+   "v": 1778,
+   "s": 134,
+   "vertical": false,
+   "desc": "The MEGA65, an open-source retro-computer, designed to be what the un-finished Commodore 65 promised to be, with better C64 compatibility for both hardware and software.  In this video, we show a MEGA65 prototype running International Soccer directly from cartridge."
+  },
+  {
+   "id": "i7HrWQtyhqA",
+   "t": "Using a 1351 mouse on the MEGA65 rev1 prototype PCB",
+   "d": "2018-01-06",
+   "v": 455,
+   "s": 54,
+   "vertical": false,
+   "desc": "As the title says -- we now have 1351 mouse support working on the first revision of the MEGA65 PCB prototype.  On this revision, we have had to route a couple of wires from the disk drive port. On the pre-production boards this will of course be fixed, and you will just be able to plug a 1351 mouse in without any adapter, just like on a real C64."
+  },
+  {
+   "id": "o3G7pLJM128",
+   "t": "Multiplexed Owls on the MEGA65",
+   "d": "2018-01-26",
+   "v": 1771,
+   "s": 22,
+   "vertical": false,
+   "desc": "I knocked this up quickly to multiplex the owl, without any real optimisation.  The owls sprites still have a lot of blank space above and below them, so it should be quite easy to get twice as many on the screen. Also, it is possible to horizontally multiplex sprites at 50MHz, because you have literally a few thousand clock cycles per raster, and you can DMA the sprite X,Y position registers in ~2usec, so it is probably possible to get 4x as many owls as we see now. Note that these are all hardware sprites, not BOBs."
+  },
+  {
+   "id": "UkjJonvpgyI",
+   "t": "An unexpected visitor helps test 16-colour sprite mode on the MEGA65",
+   "d": "2018-01-26",
+   "v": 1999,
+   "s": 16,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "PAmCwymu4ss",
+   "t": "Raster split in BASIC on the MEGA65",
+   "d": "2018-01-31",
+   "v": 876,
+   "s": 20,
+   "vertical": false,
+   "desc": "The MEGA65 is so fast that you can do real raster splits from BASIC.  See http://c65gs.blogspot.com.au for more information."
+  },
+  {
+   "id": "Do4Rzx_TGOw",
+   "t": "MEGA65 running Daniel's 256-colour picture + 16 colour sprite demo",
+   "d": "2018-01-31",
+   "v": 2341,
+   "s": 201,
+   "vertical": false,
+   "desc": "Daniel has been working on his 256-colour image preprocessor and loader routines for the MEGA65 8-bit computer.  Here is are the results so far.\nUnfortunately my phone camera didn't pick up the sound, which is a bit disappointing. Well, it is there, but so quiet as to be almost unhearable.\nSee c65gs.blogspot.com.au for more information."
+  },
+  {
+   "id": "58wj1znvYu0",
+   "t": "Blinking anti-aliased proportional text on the MEGA65 8-bit computer",
+   "d": "2018-11-05",
+   "v": 284,
+   "s": 6,
+   "vertical": false,
+   "desc": "This little video is to demonstrate hardware blinking text on the MEGA65.  The anti-aliased text uses the full-colour text mode where there is one byte per pixel (so 64 bytes per 8x8 card), combined with the alpha-blend VIC-IV attribute bit that uses those 8-bit values as alpha values to blend between foreground and background colours.  In this way, you can have lots more than 256 colours on a single display, without having to do any palette skullduggery. Similarly, the blinking is using the VIC-III blink hardware attribute, so there is no CPU effort required to display this text.  The kerning"
+  },
+  {
+   "id": "wwAfD9FrmZo",
+   "t": "Simple slide presentation running on the MEGA65",
+   "d": "2018-11-13",
+   "v": 603,
+   "s": 100,
+   "vertical": false,
+   "desc": "More progress on the simple presentation software for the MEGA65, that we hope to use to introduce the MEGA65 at Linux Conf 2019 in Christchurch, New Zealand in just a couple of months time."
+  },
+  {
+   "id": "-1np0RzAD0k",
+   "t": "Serval Project Update 20181115 - Proof-of-concept iOS Port",
+   "d": "2018-11-15",
+   "v": 1355,
+   "s": 160,
+   "vertical": false,
+   "desc": "With the support of the NLnet foundation and an exchange student, we now have a working prototype of the Serval Chat app. It can connect to Mesh Extenders, and interoperates with Android when using a Mesh Extender.  Still some loose ends to tidy up, and then we have to navigate Apple's approval process."
+  },
+  {
+   "id": "B4kA4M7y6tE",
+   "t": "First look at the progress on the MEGA65's Freeze Menu and disk image swapper",
+   "d": "2019-01-17",
+   "v": 588,
+   "s": 275,
+   "vertical": false,
+   "desc": "Today's video shows the recent work on the MEGA65's built-in freeze menu, which also doubles as the disk image switcher.  While there are still a few bugs to be ironed out, it mostly all works now.  A thumbnail of the frozen program is shown, an you can easily browse through the disk images, and pick one to use -- it even gives you a preview of the directory of the disk images if you pause on one in the list."
+  },
+  {
+   "id": "4e0q4rrwf9I",
+   "t": "It lives! The MEGA65's built-in freezer is now minimally functional",
+   "d": "2019-01-17",
+   "v": 366,
+   "s": 39,
+   "vertical": false,
+   "desc": "It freezes. It unfreezes.  What more could you possibly want? Well, okay, quite a lot, actually, like being able to switch between different frozen programs, enter cheat pokes, inspect memory, switch mounted D81 disk images etc etc.  But in many ways the hard part is now done."
+  },
+  {
+   "id": "f-6wJ9M-qGY",
+   "t": "Before fixing the SID clock speed on the MEGA65",
+   "d": "2019-03-01",
+   "v": 307,
+   "s": 35,
+   "vertical": false,
+   "desc": "This is how the SID was sounding before we discovered we needed to double the input frequency to the VHDL SIDs in the MEGA65.  Everything is distorted to various extents.  We have of course since fixed this. See c65gs.blogspot.com.au for updates."
+  },
+  {
+   "id": "FwZZ7y32jHY",
+   "t": "After Fixing the SID on the MEGA65",
+   "d": "2019-03-01",
+   "v": 428,
+   "s": 35,
+   "vertical": false,
+   "desc": "This is the result after fixing the input clock to the VHDL SID implementation in the MEGA65."
+  },
+  {
+   "id": "2fi1fsKtfxc",
+   "t": "Introduction to using the MEGA65 as at FEB 2019 (English begins at 5:25)",
+   "d": "2019-03-02",
+   "v": 3784,
+   "s": 555,
+   "vertical": false,
+   "desc": "In this video, we show how to use the MEGA65 as of its current stage of development, in particular, how to use the freeze menu.  The English version of the video begins about 5:25, after the German version finishes.\n\nDeutsch: In diesem Video, zeigen wir wir man dem MEGA65 benutzt, besonders beim Freeze Men\u00fc."
+  },
+  {
+   "id": "GzARdw7kzjo",
+   "t": "MEGA65 Fast formatting with multi-sector writes",
+   "d": "2019-03-12",
+   "v": 241,
+   "s": 57,
+   "vertical": false,
+   "desc": "In the last few days, we have implemented multi-sector writes on the SD card interface. The result is that formatting and freezing is now about 10x faster than it was.  In this video we show the formatting process.  The updated FDISK/FORMAT utility now also shows the average read speed of the SD card, showing that we get better than 700KB/second.  We can in theory improve that further, but it will require implementing 4-wire mode on the SD card. That's a project for the future."
+  },
+  {
+   "id": "X6p6GEEbBl8",
+   "t": "MEGA65 Fast-Freezing with mult-sector SD card writes",
+   "d": "2019-03-12",
+   "v": 165,
+   "s": 55,
+   "vertical": false,
+   "desc": "In the last few days we have implement multi-sector writes with the SD card interface. This means that freezing is now much faster! Where as it used to take 2 -- 10 seconds to freeze, it is now reliably only about 1 second.  The result is a really nice improvement in usability."
+  },
+  {
+   "id": "-QTF_c3jVo4",
+   "t": "MEGA65 Schnell Freezen mit mehr-sektoren SD-Karte schreiben",
+   "d": "2019-03-12",
+   "v": 188,
+   "s": 72,
+   "vertical": false,
+   "desc": "[See https://youtu.be/X6p6GEEbBl8 for the same video in English]\n\nIn dieser Video zeigen wir wie schnell den Freeze Men\u00fc jetzt funktioniert.  Dank mehr-sektoren schreiben kann man in nur ca. 1 Sekunde eine Programme freezen.  Fr\u00fcher war es von 2 bis 10 Sekunde."
+  },
+  {
+   "id": "bks2H4VxGmA",
+   "t": "Running some freely-available games on the C64 using our free C64 ROM-set",
+   "d": "2019-05-07",
+   "v": 1478,
+   "s": 276,
+   "vertical": false,
+   "desc": "This is a very early version of our open-source C64 ROM-set running several free-to-distribute games, which we thought was a fitting first demonstration.\n\nNote: This is running under VICE's normal C64 emulator -- not on a MEGA65. These open-source ROMs will work in any stock-standard C64 or C64-compatible computer."
+  },
+  {
+   "id": "FgO9K5CLG8E",
+   "t": "Early version of C64 open-source ROM-set running Nebulus",
+   "d": "2019-05-07",
+   "v": 932,
+   "s": 258,
+   "vertical": false,
+   "desc": "This is a very early version of our open-source C64 ROM-set running Nebulus. \n\nNote: This is running under VICE's normal C64 emulator -- not on a MEGA65. These open-source ROMs will work in any stock-standard C64 or C64-compatible computer."
+  },
+  {
+   "id": "SuWts8DSnp4",
+   "t": "Early version of C64 open-source ROM-set running Wizball",
+   "d": "2019-05-07",
+   "v": 678,
+   "s": 152,
+   "vertical": false,
+   "desc": "This is a very early version of our open-source C64 ROM-set running Wizball.\n\nNote: This is running under VICE's normal C64 emulator -- not on a MEGA65. These open-source ROMs will work in any stock-standard C64 or C64-compatible computer."
+  },
+  {
+   "id": "b--HmWzztVA",
+   "t": "MEGA65 handheld prototype playing Nebulus music",
+   "d": "2019-06-11",
+   "v": 1043,
+   "s": 33,
+   "vertical": false,
+   "desc": "After a long battle, the internal speaker is now working on the prototype MEGA65 handheld that we have been working on with project students (but don't worry, the desktop is still coming to you super soon, this is just what we have been working on while waiting for parts for the desktop). This was just filmed using my regular phone camera and its internal microphone, so the audio qualaity is \"just as you find it\".  We'll make another video later when we have some better equipment on hand."
+  },
+  {
+   "id": "bo2vO-SI1B4",
+   "t": "MEGA65 Cursor Keys: Left and Up work in C64 mode (of course!)",
+   "d": "2019-07-01",
+   "v": 1460,
+   "s": 70,
+   "vertical": false,
+   "desc": "A few people have been asking about the left and up keys on the MEGA65 (and by implication the C65).  Unlike on the C128, the cursor keys on the C65/MEGA65 are fully backward compatible with the C64. This means that left is really shift+right internally, and up is really shift+down internally.  The result is that they \"just work\" for ALL C64 software."
+  },
+  {
+   "id": "waJhSnmQ9f8",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 39 - 40 (Example Socket Client Programme)",
+   "d": "2021-02-21",
+   "v": 610,
+   "s": 497,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 39 - 40 (Example Socket Client Programme)"
+  },
+  {
+   "id": "AJhE_Qt83oc",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 32 - 38 (Socket API)",
+   "d": "2021-02-21",
+   "v": 646,
+   "s": 591,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 32 - 38 (Socket API)"
+  },
+  {
+   "id": "8knUeWOZWos",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 28 - 31 (Sockets API)",
+   "d": "2021-02-21",
+   "v": 812,
+   "s": 329,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 28 - 31 (Sockets API)"
+  },
+  {
+   "id": "bzrBDRM-fp4",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 23 - 27 (OSI and Internet Layered Models)",
+   "d": "2021-02-21",
+   "v": 804,
+   "s": 607,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 23 - 27 (OSI and Internet Layered Models)"
+  },
+  {
+   "id": "sEwUIXR5Tpg",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slide 22 (Encapsulation)",
+   "d": "2021-02-21",
+   "v": 681,
+   "s": 206,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slide 22 (Encapsulation)"
+  },
+  {
+   "id": "0bMJaJF0bN4",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 18-21 (Protocols)",
+   "d": "2021-02-21",
+   "v": 869,
+   "s": 444,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 18-21 (Protocols)"
+  },
+  {
+   "id": "7C4zTbvQWNo",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 16 - 17 (Network Architecture)",
+   "d": "2021-02-21",
+   "v": 933,
+   "s": 351,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 16 - 17 (Network Architecture)"
+  },
+  {
+   "id": "NDHZqVeItlE",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slide 15 (Reliability)",
+   "d": "2021-02-21",
+   "v": 1116,
+   "s": 544,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slide 15 (Reliability)"
+  },
+  {
+   "id": "5Pj-K6G46MU",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slide 14 (Common Communication Patterns)",
+   "d": "2021-02-21",
+   "v": 801,
+   "s": 171,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slide 14 (Common Communication Patterns)"
+  },
+  {
+   "id": "q16uBHbOj9U",
+   "t": "Computer Networks: A Systems Approach: Chapter 1, Slide 13 (Common Communication Patterns)",
+   "d": "2021-02-21",
+   "v": 939,
+   "s": 171,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach: Chapter 1, Slide 13 (Common Communication Patterns)"
+  },
+  {
+   "id": "sL3NEoxz-yY",
+   "t": "Computer Networks: A Systems Approach: Chapter 1, Slides 11 - 12 (Cost-Effective Resrouce Sharing)",
+   "d": "2021-02-21",
+   "v": 1895,
+   "s": 536,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach: Chapter 1, Slides 11 - 12 (Cost-Effective Resrouce Sharing)"
+  },
+  {
+   "id": "RE_A0aisrEQ",
+   "t": "Computer Networks: A System Approach, Chapter 1,  Slides 9 - 10 (Connectivity)",
+   "d": "2021-02-21",
+   "v": 1436,
+   "s": 518,
+   "vertical": false,
+   "desc": "Computer Networks: A System Approach, Chapter 1,  Slides 9 - 10 (Connectivity)"
+  },
+  {
+   "id": "iB2T9i0doJ4",
+   "t": "Computer Networks: A Systems Approach: Chapter 1, Slide 8 (Requirements)",
+   "d": "2021-02-21",
+   "v": 1540,
+   "s": 278,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach: Chapter 1, Slide 8 (Requirements)"
+  },
+  {
+   "id": "OBulrqXh7lE",
+   "t": "Computer Networks: A Systems Approach Chapter 1, Slides 5 - 7 ( Applications - Application Protocol)",
+   "d": "2021-02-21",
+   "v": 2271,
+   "s": 438,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach Chapter 1, Slides 5 - 7 ( Applications - Application Protocol)"
+  },
+  {
+   "id": "K5SvnM3goxg",
+   "t": "Computer Networks: A Systems Approach. Chapter 1, Slides 1-4 (Foundation -- Chapter Goal)",
+   "d": "2021-02-21",
+   "v": 6119,
+   "s": 509,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach. Chapter 1, Slides 1-4 (Foundation -- Chapter Goal) plus a greeting from myself explaining how I will cover this material.\n\n\nThe free and open-source text book that these videos are based on can be found at:\n\n\nhttps://open.umn.edu/opentextbooks/textbooks/computer-networks-a-systems-approach"
+  },
+  {
+   "id": "bbziftaEGFE",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 51 - 52 (Perspective and Summary)",
+   "d": "2021-02-22",
+   "v": 598,
+   "s": 262,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 51 - 52 (Perspective and Summary)"
+  },
+  {
+   "id": "m0eO3ng61Vs",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 49 -- 50 (Delay, Bandwidth, Latency)",
+   "d": "2021-02-22",
+   "v": 907,
+   "s": 316,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 49 -- 50 (Delay, Bandwidth, Latency)"
+  },
+  {
+   "id": "fgga4BsBGnw",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 44 - 48 (Performance, Bandwidth x Delay)",
+   "d": "2021-02-22",
+   "v": 1065,
+   "s": 557,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 44 - 48 (Performance, Bandwidth x Delay)"
+  },
+  {
+   "id": "Vw0tVcAhUmI",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slide 43 (Bandwidth)",
+   "d": "2021-02-22",
+   "v": 717,
+   "s": 191,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slide 43 (Bandwidth)"
+  },
+  {
+   "id": "ALBCAnzMYG0",
+   "t": "Computer Networks: A Systems Approach, Chapter 1, Slides 41 - 42 (Example Server Programme)",
+   "d": "2021-02-22",
+   "v": 552,
+   "s": 335,
+   "vertical": false,
+   "desc": "Computer Networks: A Systems Approach, Chapter 1, Slides 41 - 42 (Example Server Programme)"
+  },
+  {
+   "id": "-ar6_nouQz0",
+   "t": "Computer Networks: A Systems Approach, Chapter 2:  Slides 134-142",
+   "d": "2021-03-14",
+   "v": 358,
+   "s": 802,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "awmtY-Pcygo",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 128-133",
+   "d": "2021-03-14",
+   "v": 340,
+   "s": 345,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "0l_ihHH2XGs",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 116-127",
+   "d": "2021-03-14",
+   "v": 344,
+   "s": 771,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "TfO98Y6q1I4",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 105-115",
+   "d": "2021-03-14",
+   "v": 375,
+   "s": 964,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "oHv2q-sgnQg",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 93-104",
+   "d": "2021-03-14",
+   "v": 426,
+   "s": 615,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "s7POSIS3QP4",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 84-92",
+   "d": "2021-03-14",
+   "v": 374,
+   "s": 609,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "3xPyxNcFVE4",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides78 83",
+   "d": "2021-03-14",
+   "v": 434,
+   "s": 421,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "-JWjA1ZtKe0",
+   "t": "Computer Networks: A Systems Approach, Chapter 2:  Slides73-77",
+   "d": "2021-03-14",
+   "v": 380,
+   "s": 336,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "Ew5yWAHgdUo",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides71 72",
+   "d": "2021-03-14",
+   "v": 370,
+   "s": 265,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "Y8zy4AjXt6Q",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides64 70",
+   "d": "2021-03-14",
+   "v": 438,
+   "s": 418,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "nTfT8ePoLAM",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides53 63",
+   "d": "2021-03-14",
+   "v": 570,
+   "s": 671,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "oqJcFkxtJBE",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 44-52",
+   "d": "2021-03-14",
+   "v": 485,
+   "s": 693,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "2txXvevfADA",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 40-43",
+   "d": "2021-03-14",
+   "v": 430,
+   "s": 261,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "DSQCaEhQEus",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 37-39",
+   "d": "2021-03-14",
+   "v": 454,
+   "s": 222,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "QnDFLEoJVyo",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 30-36",
+   "d": "2021-03-14",
+   "v": 664,
+   "s": 466,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "LADW71XlZb0",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 21-29",
+   "d": "2021-03-14",
+   "v": 619,
+   "s": 515,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "QRkxh9BWIzI",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 19-20",
+   "d": "2021-03-14",
+   "v": 1639,
+   "s": 196,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "SRdhvGnV9UI",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 12-18",
+   "d": "2021-03-14",
+   "v": 661,
+   "s": 490,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "bovEFg9Qznw",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides 10-11",
+   "d": "2021-03-14",
+   "v": 623,
+   "s": 569,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "q_arydB_hPs",
+   "t": "Computer Networks: A Systems Approach, Chapter 2:  Slides 6-9",
+   "d": "2021-03-14",
+   "v": 790,
+   "s": 596,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "7fk1BKn5gZE",
+   "t": "Computer Networks: A Systems Approach, Chapter 2: Slides1 5",
+   "d": "2021-03-14",
+   "v": 1016,
+   "s": 253,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "nIpXgBpT7pg",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 84 to 90",
+   "d": "2021-03-16",
+   "v": 400,
+   "s": 543,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "lBaA2o5SXkw",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 78 to 83",
+   "d": "2021-03-16",
+   "v": 345,
+   "s": 404,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "4RZyr0EnQMU",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 75 to 77",
+   "d": "2021-03-16",
+   "v": 388,
+   "s": 391,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "7sOQMkffcAk",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 71 to 74",
+   "d": "2021-03-16",
+   "v": 437,
+   "s": 609,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "C97bYXo4cOM",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 60 to 70",
+   "d": "2021-03-16",
+   "v": 581,
+   "s": 1203,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "2aiTOoSu45M",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 41 to 59",
+   "d": "2021-03-16",
+   "v": 633,
+   "s": 1088,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "nJ7aLlE8JCg",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 35 to 40",
+   "d": "2021-03-16",
+   "v": 547,
+   "s": 456,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "8LujYIOmPug",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 17 to 34",
+   "d": "2021-03-16",
+   "v": 744,
+   "s": 831,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "VUyKLEupGLs",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 10 to 16",
+   "d": "2021-03-16",
+   "v": 616,
+   "s": 433,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "gQDzyu8SsfE",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 1 to 9",
+   "d": "2021-03-16",
+   "v": 856,
+   "s": 398,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "z_O-xqIdVE8",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 91 to 94",
+   "d": "2021-03-17",
+   "v": 287,
+   "s": 292,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "uANIDYjJzRA",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 114 to 120",
+   "d": "2021-03-17",
+   "v": 320,
+   "s": 805,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "1172lPxZZjM",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 111 to 113",
+   "d": "2021-03-17",
+   "v": 293,
+   "s": 507,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "Glkx4aYVmbA",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 108 to 110",
+   "d": "2021-03-17",
+   "v": 234,
+   "s": 238,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "LVklBTo_xRA",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 100 to 107",
+   "d": "2021-03-17",
+   "v": 289,
+   "s": 517,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "5J_C2S9VPuI",
+   "t": "Computer Networks: A Systems Approach: Chapter3 Slides 95 to 99",
+   "d": "2021-03-17",
+   "v": 329,
+   "s": 311,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "DYyXi_dSsfA",
+   "t": "Computer Networks: A Systems Approach: Chapter4 Slides 40 to 46",
+   "d": "2021-03-26",
+   "v": 750,
+   "s": 798,
+   "vertical": false,
+   "desc": "The videos are presented by Dr. Paul Gardner-Stephen from Flinders University as part of the\nComputer Science, Information Technology and Networking and Cyber-Security and Engineering\ndegree programmes.  More information about these offerings can be found at https://flinders.edu.au\n\nThese videos are based on the open source textbook \"Computer Networks: A Systems Approach\"\nAuthors: Larry Peterson and Bruce Davie\n\nSource: https://github.com/SystemsApproach/book\nLicense: CC BY 4.0\n\nThis book is part of the Systems Approach Series, with an online version published at https://book.systemsapproach.o"
+  },
+  {
+   "id": "jcvG3z7NZww",
+   "t": "Computer Networks: A Systems Approach: Chapter4 Slides 34 to 39",
+   "d": "2021-03-26",
+   "v": 359,
+   "s": 342,
+   "vertical": false,
+   "desc": "The videos are presented by Dr. Paul Gardner-Stephen from Flinders University as part of the\nComputer Science, Information Technology and Networking and Cyber-Security and Engineering\ndegree programmes.  More information about these offerings can be found at https://flinders.edu.au\n\nThese videos are based on the open source textbook \"Computer Networks: A Systems Approach\"\nAuthors: Larry Peterson and Bruce Davie\n\nSource: https://github.com/SystemsApproach/book\nLicense: CC BY 4.0\n\nThis book is part of the Systems Approach Series, with an online version published at https://book.systemsapproach.o"
+  },
+  {
+   "id": "PUC2Molo_EI",
+   "t": "Computer Networks: A Systems Approach: Chapter4 Slides 23 to 33",
+   "d": "2021-03-26",
+   "v": 409,
+   "s": 713,
+   "vertical": false,
+   "desc": "The videos are presented by Dr. Paul Gardner-Stephen from Flinders University as part of the\nComputer Science, Information Technology and Networking and Cyber-Security and Engineering\ndegree programmes.  More information about these offerings can be found at https://flinders.edu.au\n\nThese videos are based on the open source textbook \"Computer Networks: A Systems Approach\"\nAuthors: Larry Peterson and Bruce Davie\n\nSource: https://github.com/SystemsApproach/book\nLicense: CC BY 4.0\n\nThis book is part of the Systems Approach Series, with an online version published at https://book.systemsapproach.o"
+  },
+  {
+   "id": "ZWerd_70f4E",
+   "t": "Computer Networks: A Systems Approach: Chapter4 Slides 20 to 22",
+   "d": "2021-03-26",
+   "v": 654,
+   "s": 214,
+   "vertical": false,
+   "desc": "The videos are presented by Dr. Paul Gardner-Stephen from Flinders University as part of the\nComputer Science, Information Technology and Networking and Cyber-Security and Engineering\ndegree programmes.  More information about these offerings can be found at https://flinders.edu.au\n\nThese videos are based on the open source textbook \"Computer Networks: A Systems Approach\"\nAuthors: Larry Peterson and Bruce Davie\n\nSource: https://github.com/SystemsApproach/book\nLicense: CC BY 4.0\n\nThis book is part of the Systems Approach Series, with an online version published at https://book.systemsapproach.o"
+  },
+  {
+   "id": "iBkfsMrxwBU",
+   "t": "Computer Networks: A Systems Approach: Chapter4 Slides 1 to 19",
+   "d": "2021-03-26",
+   "v": 655,
+   "s": 1009,
+   "vertical": false,
+   "desc": "The videos are presented by Dr. Paul Gardner-Stephen from Flinders University as part of the\nComputer Science, Information Technology and Networking and Cyber-Security and Engineering\ndegree programmes.  More information about these offerings can be found at https://flinders.edu.au\n\nThese videos are based on the open source textbook \"Computer Networks: A Systems Approach\"\nAuthors: Larry Peterson and Bruce Davie\n\nSource: https://github.com/SystemsApproach/book\nLicense: CC BY 4.0\n\nThis book is part of the Systems Approach Series, with an online version published at https://book.systemsapproach.o"
+  },
+  {
+   "id": "rql89FFP65g",
+   "t": "Testing out first version pressure sensors with reins",
+   "d": "2023-03-05",
+   "v": 124,
+   "s": 108,
+   "vertical": false,
+   "desc": "As part of my Open Source Horse Simulator project (see https://opensourcehorse.blogspot.com), I have been developing low-cost pressure sensors. In this short video I show them connected to a horribly hacky test harness with a real bit and bridle, and interfaced to Linux via an Arduino, with my initial simple software for interpreting the readings into left/right direction and force on reins.  The bar graph on the left is total force, while the wider graph in the middle of the screen shows bias to left or right.  The mounting of the sensors on this hacky test harness is horrible, resulting in v"
+  },
+  {
+   "id": "WbsErpa4KyA",
+   "t": "Very crude first hook-up of my fake horse head controller and reins to Unbridled: That Horse Game",
+   "d": "2023-03-19",
+   "v": 175,
+   "s": 95,
+   "vertical": false,
+   "desc": "This is a totally unofficial effort by me to use the mechanical horse riding machine parts I am building to control Unbridled: That Horse Game.  Some key points to notice in this pretty horrible recording:\n1. I am running the game under Linux which is not supported, and as a result has lots of shader problems. Thus the white trees etc.  My computer is also under-powered, thus the low frame-rate.\n2. The horse head \"controller\" is currently providing mouse inputs, instead of key inputs. This means that turning the horse controller's head with the reins in real-life is turning the head of the rid"
+  },
+  {
+   "id": "Rb2yd8UOKi0",
+   "t": "Next steps in controlling Unbridled: That Horse Game with real reins",
+   "d": "2023-03-25",
+   "v": 162,
+   "s": 183,
+   "vertical": false,
+   "desc": "This is still super-experimental, and totally unofficial (I have nothing to do with the Unbridled team), but I thought I'd share the latest progress with you all, using Unbridled with the horse riding machine parts I have built so far.  The main advance compared to the last video, is that I am able to control the direction of the horses movement using the reins. The magic to enable this is an Arduino pretending to be a keyboard, and some software running under Linux that reads the inputs from the fake horse head, and turns them into a sequence of appropriate key presses to effect the intention"
+  },
+  {
+   "id": "x0cT5AEljes",
+   "t": "How do I control Unbridled: That Horse Game using my mechanical horse head? Plus improved response",
+   "d": "2023-03-26",
+   "v": 488,
+   "s": 189,
+   "vertical": false,
+   "desc": "In the previous video, I showed how I can control the horse direction using my mechanical horse head in Unbridled: That Horse Game.\n\nIn this video, I show you the connections and components that do the magic.  The software is explained on my blog at https://opensourcehorse.blogspot.com.au -- it's all open-source, so you could build one yourself if you want.\n\nIn addition, I have improved the turning behaviour, by reducing the latency when you tighten, loosen, cancel or reverse a turn. It's still not perfect, but its much better than it was yesterday. \n\nAgain, if you want to see the final game f"
+  },
+  {
+   "id": "cjcjPNeOD84",
+   "t": "Rope saddle holder and structural improvements to the horse riding machine",
+   "d": "2023-04-10",
+   "v": 420,
+   "s": 182,
+   "vertical": false,
+   "desc": "The open-source mechanical horse riding machine continues! A busy long-weekend at my dad's means we now have it setup so that you can sit in a real saddle, while controlling \"Unbridled: That Horse Game\" using real reins.\n\nNext step will be adding leg aid sensors, so that you can leg-yield, which will make it much more fun instead of having to turn the horses head back and forth to fix up misalignment between horse and path."
+  },
+  {
+   "id": "Ho_4_Ar4meA",
+   "t": "MEGA65 Expansion board assembly",
+   "d": "2024-02-01",
+   "v": 235,
+   "s": 7420,
+   "vertical": false,
+   "desc": "In this video I go through the complete soldering and assembly process for a prototype of the MEGA65 expansion board that I am working on."
+  },
+  {
+   "id": "v0tuZBf23OE",
+   "t": "MEGAphone Modular: Cellular Modem Insertion",
+   "d": "2025-06-27",
+   "v": 219,
+   "s": 28,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "ciPsY3DvK1Y",
+   "t": "MEGA65 SCART 15KHz RGB Output Demonstration",
+   "d": "2025-09-06",
+   "v": 284,
+   "s": 93,
+   "vertical": false,
+   "desc": "A working solution to: https://github.com/meGA65/mega65-core/issues/452\n\nWe still need to do a few more things before this can get rolled into production cores for the MEGA65, but that part should be fairly straight-forward from here."
+  },
+  {
+   "id": "1qHWy2WIFXE",
+   "t": "MEGAphone User Interface Demonstration 7 December 2025 (HD)",
+   "d": "2025-12-07",
+   "v": 36,
+   "s": 120,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "uSk8Us_xkFE",
+   "t": "MEGAphone telephony software demo 7 December 2025",
+   "d": "2025-12-07",
+   "v": 84,
+   "s": 120,
+   "vertical": false,
+   "desc": "I now have the telephony software working with dialer, contact list and SMS message thread display -- all with nice anti-aliased proportional text and very responsive to input."
+  },
+  {
+   "id": "S-Hjlwr8WiE",
+   "t": "MEGAphone Power Control Firmware and Interface Software Demonstration",
+   "d": "2025-12-14",
+   "v": 77,
+   "s": 342,
+   "vertical": false,
+   "desc": "This video shows the low-power FPGA that monitors the cellular modem and power switch for the MEGAphone, and the API it provides to allow control of the power to the various sub-systems of this (eventually) hand-held version of the MEGA65."
+  },
+  {
+   "id": "6miIYhcRL0c",
+   "t": "MEGAphone SMS Handling Library Demonstration",
+   "d": "2025-12-16",
+   "v": 109,
+   "s": 235,
+   "vertical": false,
+   "desc": "To make development quicker and easier, I make many of these libraries cross-compilable to run on either Linux or natively on the MEGA65, just by swapping out the low-level serial port control routines.  \n\nSo here we have the SMS handling routines -- that can even handle all unicode and emojis for both sending and receiving -- as well as being able to scan the set of messages on a phone and delete them atter processing"
+  },
+  {
+   "id": "hFwpnrKNiKE",
+   "t": "MEGAphone Voice Call Library Demonstration",
+   "d": "2025-12-28",
+   "v": 304,
+   "s": 118,
+   "vertical": false,
+   "desc": "Here we can see the MEGAphone library for voice calls running cross-compiled under linux as we test functionality, showing that we can talk to the modem and query network name etc, as well as handle incoming voice calls."
+  },
+  {
+   "id": "LGfBRdxbZHU",
+   "t": "MEGAphone Cellular Modem Communications and Phone Calls!",
+   "d": "2026-01-01",
+   "v": 66,
+   "s": 124,
+   "vertical": false,
+   "desc": "Short video showing that the MEGAphone software can handle calls on the cellular network and read basic status information from the network, like time, network name, signal strength and whether we're using VoLTE."
+  },
+  {
+   "id": "6iHQ0JZj_0s",
+   "t": "Core Breach -- Prototyping the MEGA65 Expansion Board Integrated JTAG Loader",
+   "d": "2026-07-16",
+   "v": 294,
+   "s": 146,
+   "vertical": false,
+   "desc": "Prototyping the MEGA65 Expansion Board Integrated JTAG Loader. This will let you have an effectively unlimited number of MEGA65 cores and bitstreams on a dedicated SD card on the up-coming expansion board, and be able to load them either using native MEGA65 software, USB serial or -- here's a new one -- a WWW interface, so that you have wireless core loading ability."
+  },
+  {
+   "id": "4dnnoaP30QE",
+   "t": "MEGA65 Native Utility for Loading Cores via Expansion Board Integrated JTAG",
+   "d": "2026-08-31",
+   "v": 852,
+   "s": 32,
+   "vertical": true,
+   "desc": "Exactly what the title says :) These cores are located on a separate SD card connected to a Pi Pico on a daughter board, and allows the MEGA65 to break the 8-slot limit."
+  },
+  {
+   "id": "OKwUbFazkj8",
+   "t": "MEGA65 MEGAphone Prototype: It's in a portable case. It can turn itself on when the phone rings!",
+   "d": "2026-10-05",
+   "v": 214,
+   "s": 240,
+   "vertical": true,
+   "desc": "The work over the past year or so working on a modularised MEGAphone, and getting the various subsystems defined and prototyped has finally reached the point where we have a device that can not just make and receive phone calls -- but can turn itself on when there's an incoming call. And it's now a free-standing unit with rechargeable batteries. And kind of just fun as a portable MEGA65, too. Obviously there's a lot of refinement to happen here, but it's now at a starting point that we can drive forward from."
+  }
+ ]
+}

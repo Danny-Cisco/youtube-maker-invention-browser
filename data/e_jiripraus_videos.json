@@ -1,0 +1,279 @@
+{
+ "channel": {
+  "id": "UCc6AdKjYOjNTsvr0Ichf0EA",
+  "title": "Jiri Praus",
+  "handle": "@jiripraus",
+  "description": "Hi, I am a software engineer that become an artist. Do you think it's a strange combination? Yeah, you are probably right. That is why the outcome is so great. I build brass free-form electronics sculptures.",
+  "since": "2008-05-05",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mE16njHtlyvYj16OFArBB4Sqx46OdYXMvjD5lFyMBrBgk=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1814680",
+  "subscriberCount": "23700",
+  "hiddenSubscriberCount": false,
+  "videoCount": "29"
+ },
+ "videos": [
+  {
+   "id": "pzM88dSuEdE",
+   "t": "Arduinoflake touch interaction",
+   "d": "2018-11-30",
+   "v": 49474,
+   "s": 25,
+   "vertical": true,
+   "desc": "Instructions how to build this beauty can be found here https://www.instructables.com/id/Arduinoflake/"
+  },
+  {
+   "id": "LeStfHFGuQg",
+   "t": "Orbduino",
+   "d": "2018-12-13",
+   "v": 16248,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZGrA2ioT0QQ",
+   "t": "Flake snake",
+   "d": "2018-12-20",
+   "v": 6247,
+   "s": 22,
+   "vertical": false,
+   "desc": "Playing snake on Arduinoflake\nMore description can be found here https://www.instructables.com/id/Arduinoflake-PCB-Version/"
+  },
+  {
+   "id": "NvRck1Xt7Oc",
+   "t": "Ever blooming mechanical tulip",
+   "d": "2019-02-14",
+   "v": 122177,
+   "s": 32,
+   "vertical": false,
+   "desc": "Video of ever blooming mechanical tulip that 1.6M people saw on my twitter:\n\nhttps://twitter.com/jipraus/status/1095362507122921473"
+  },
+  {
+   "id": "GoVWk30cFtE",
+   "t": "Making one of the petals for mechanical tulip",
+   "d": "2019-02-15",
+   "v": 43353,
+   "s": 827,
+   "vertical": false,
+   "desc": "13 minutes it took to create a single petal for my famous ever blooming mechanical tulip. If you want to relax a little bit, sit down and watch me making one petal.\n\nInstructions on how to build one:\nhttps://www.instructables.com/id/Ever-Blooming-Mechanical-Tulip/\n\nMore information:\nhttps://twitter.com/jipraus/status/1095362507122921473\n\nMusic used in video:\n\nStarlight Champions by Gravidon feat. okin | https://soundcloud.com/gravidon\nForest by LiQWYD | https://www.instagram.com/liqwyd\nChillout Lounge by Free Music | https://soundcloud.com/fm_freemusic\nDreamers Of The Day by Serge Narcissoff |"
+  },
+  {
+   "id": "CZ3g8XZyTWM",
+   "t": "Ever Blooming Mechanical Tulip WiFi upgrade",
+   "d": "2019-04-09",
+   "v": 14043,
+   "s": 55,
+   "vertical": false,
+   "desc": "So I've just upgraded my Ever Blooming Mechanical Tulip with ESP32 WiFi microcontroller. So now I can control it remotely. Which is so great!\n\nhttps://jiripraus.cz/\n\nhttps://www.instructables.com/id/Ever-Blooming-Mechanical-Tulip/"
+  },
+  {
+   "id": "-wf_KZKH_PI",
+   "t": "Freeduino is alive!",
+   "d": "2019-05-17",
+   "v": 35071,
+   "s": 9,
+   "vertical": false,
+   "desc": "This is my free-form build of Arduino UNO. It has no circuit board and the same features as the Arduino UNO development board. Here it is blinking for the first time."
+  },
+  {
+   "id": "bJxFfSG3ASA",
+   "t": "Wire bending machine prototype",
+   "d": "2019-07-04",
+   "v": 10734,
+   "s": 9,
+   "vertical": false,
+   "desc": "I build sculptures out of brass wires and since I hate repeating creating same part over and over again I decided to build a wire bending CNC machine that would do the job for me. So far it is still an early prototype but looks promising! The goal is to build a machine that has most of the parts 3D printer or easy to get so everybody can build it at home.\n\nhttps://hackaday.io/project/166369-wire-bender\nhttps://twitter.com/jipraus\nhttps://www.instagram.com/jiripraus/"
+  },
+  {
+   "id": "Q3-M9l8atiY",
+   "t": "Wire bending machine version 3",
+   "d": "2019-07-07",
+   "v": 33999,
+   "s": 30,
+   "vertical": false,
+   "desc": "The first successful bend with my 3D printed wire bending machine. A lot of scrapped wire was made in the process. Still, the biggest problem is insufficient adhesion of drive gears."
+  },
+  {
+   "id": "sOCvYqLnnrs",
+   "t": "Hex badge made by machine",
+   "d": "2019-07-14",
+   "v": 322825,
+   "s": 47,
+   "vertical": false,
+   "desc": "I combined my passion for free-form art circuits and engineering. This is my wire bender machine that can bend quite precise shapes. I've used it to create a simple hex LED jewelry badge. Enjoy.\n\nhttps://hackaday.io/project/166369-wire-bender\nhttps://jiripraus.cz\nhttps://twitter.com/jipraus\nhttps://www.instagram.com/jiripraus/"
+  },
+  {
+   "id": "eihgmoybQ6E",
+   "t": "Satisfying spring making",
+   "d": "2019-07-16",
+   "v": 86757,
+   "s": 44,
+   "vertical": false,
+   "desc": "Yes, it can make springs. Totally satisfying to watch. Enjoy!\n\nhttps://hackaday.io/project/166369-wi...\nhttps://jiripraus.cz\nhttps://twitter.com/jipraus\nhttps://www.instagram.com/jiripraus/"
+  },
+  {
+   "id": "WENEK-LJA6E",
+   "t": "DIY 3D-printed Wire Bending Machine",
+   "d": "2019-09-25",
+   "v": 196166,
+   "s": 603,
+   "vertical": false,
+   "desc": "Build a wire bending machine capable of bending 0.8/0.9/1 mm wire into any 2D shape. The coolest thing I was able to make with it so far was the spring. How cool is that?\n\nThe main goal was to make it quite precise. Other DIY wire bending machines are not very precise and their bends tend to have quite a big radius. I like to work with nice sharp bends!\n\nThe second goal was to make it as easy to build as possible with commonly available parts and components. All the structural parts are 3D printed and all the metal parts are available in most of the hardware stores.\n\nWhy I build this? Check ou"
+  },
+  {
+   "id": "ZF-AZFS4UF4",
+   "t": "Adorable Halloween Ghost Badge",
+   "d": "2019-10-25",
+   "v": 150269,
+   "s": 488,
+   "vertical": false,
+   "desc": "Take pliers, solder, and piece of wire and build something as adorable as this small Ghost Badge for Halloween. It shines in the dark! I already built a lot of these small badges, checkout full instructions or my Twitter account for more! I call them LED jewelry.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagr"
+  },
+  {
+   "id": "B617uNRxj4s",
+   "t": "Neo Heart",
+   "d": "2019-11-19",
+   "v": 4242,
+   "s": 14,
+   "vertical": false,
+   "desc": "Heart out of 46 NeoPixels. Full video https://www.youtube.com/watch?v=keD2IxvzPSs"
+  },
+  {
+   "id": "keD2IxvzPSs",
+   "t": "Brass LED heart badge",
+   "d": "2019-11-25",
+   "v": 42838,
+   "s": 706,
+   "vertical": false,
+   "desc": "I am back again with my brass wires and soldering iron. This time I built an LED heart badge that features an array of programmable LEDs. LEDs are controlled with tiny ATTiny85 embedded on the back. The whole sculpture is very compact and easy to wear.\n\nUsed components\n- 3D printed template (http://jiripraus.cz/downloads/neoheart.stl)\n- 0.8mm brass wire\n- WS2812b RGB LEDs\n- ATTiny85 microcontroller\n- 1000mAh LiPo battery\n- 5V Micro USB 1A 18650 Lithium Battery Charging Board\n- 0.3mm insulated copper wire\n- small switch\n\nCode\nhttps://gist.github.com/jpraus/07995fcb9248f39292aa7d68cc030bf6\n\nBuil"
+  },
+  {
+   "id": "f8EB8E8tUnY",
+   "t": "Snowflake Anniversary",
+   "d": "2019-11-29",
+   "v": 17543,
+   "s": 40,
+   "vertical": false,
+   "desc": "\ud83c\udf89 Today it is exactly 1 year since my first-ever free-form sculpture - the Arduino Nano based snowflake. It's been quite a ride since then.\n\nI took it out of the shelf and gave the old lady some nice treatments. Hot IPA bath, hot-air drying, and juicy USB power. It shines like a year ago. Family reunion with the other flakes.\n\nShop: https://www.tindie.com/products/jiripraus/arduinoflake/\nInstructions: https://www.instructables.com/id/Arduinoflake/"
+  },
+  {
+   "id": "Q5d8gTppuYo",
+   "t": "LED sphere with 194 LEDs and how to build it",
+   "d": "2019-12-16",
+   "v": 257761,
+   "s": 914,
+   "vertical": false,
+   "desc": "Everybody is crazy about LED cubes. I wanted to create one myself, but I wanted to make it an even bigger challenge and since I am not limited by the use of circuit boards and can make it free-form. I've decided to make an LED ball. I believe this is the first instance of air-wire LED ball in the world.\n\nIt's controlled by ESP32 board and powered by 1000mAh LiPo battery. So not only it is wearable but also can be controlled via mobile phone.\n\nThis video is sponsored by https://www.samepage.io.\n\nUsed components:\n- WS2818b LEDs\n- TTGO v1.7 ESP32 board\n- 1000mAh LiPo battery\n- 0.8mm brass-wire\n\nF"
+  },
+  {
+   "id": "3Hu6KdTKJS4",
+   "t": "Christmas Tree Quick Build",
+   "d": "2020-01-04",
+   "v": 11177,
+   "s": 40,
+   "vertical": false,
+   "desc": "Another item to my LED jewelry collection. A tiny Christmas Tree with 5 LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, 0805 ceramic capacitor, coin cell battery CR2032.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nPatreon: https://www.patreon.com/jiripraus\nTindie: https://www.tindie.com/s"
+  },
+  {
+   "id": "KPSJ33Oa0cg",
+   "t": "Christmas Ornament Quick Build",
+   "d": "2020-01-05",
+   "v": 6944,
+   "s": 20,
+   "vertical": false,
+   "desc": "Another item to my LED jewelry collection. A tiny Christmas Ornament with 4 LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nPatreon: https://www.patreon.com/jiripraus\nTindie: https://www.tindie.com/stores/jiripraus/\nWeb"
+  },
+  {
+   "id": "qWlWXprbsU8",
+   "t": "Snowflake Quick Build",
+   "d": "2020-01-05",
+   "v": 10779,
+   "s": 35,
+   "vertical": false,
+   "desc": "Another item to my LED jewelry collection. A tiny Snowflake with 6 white LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nPatreon: https://www.patreon.com/jiripraus\nTindie: https://www.tindie.com/stores/jiripraus/\nWebsit"
+  },
+  {
+   "id": "BF7NbBEOr1Y",
+   "t": "Neuron Quick Build",
+   "d": "2020-01-05",
+   "v": 6752,
+   "s": 54,
+   "vertical": false,
+   "desc": "This item is quite special. I made it for my dearest Patron on https://www.patreon.com/jiripraus. It's a brain cell - neuron. It contains 6 0805 blinky LEDs (they have small IC inside that makes them blink), 0.8mm brass wire, 1206 SMD LEDs and coin cell battery CR2032.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.i"
+  },
+  {
+   "id": "2Nf0nANjDZY",
+   "t": "5-pointed Star Quick Build",
+   "d": "2020-01-23",
+   "v": 10812,
+   "s": 33,
+   "vertical": false,
+   "desc": "Another item to my LED jewelry collection. A 5-pointed star with 5 LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nMore badges and full instructions: https://www.instructables.com/id/Halloween-Badges/\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nPatreon: https://www.patreon.com/jiripraus\nTindie: https://www.tindie.com/stores/jiripraus/\nWebsite: htt"
+  },
+  {
+   "id": "5KxzI7kZFfo",
+   "t": "Geek's Valentine's day: Everblooming Mechanical Flower Garden",
+   "d": "2020-02-10",
+   "v": 141154,
+   "s": 838,
+   "vertical": false,
+   "desc": "Greate news! Flowers are finally available! Visit https://floower.io/ to get one right now!\n\nValentine's day is coming and I want to give my wife something special. Last year I gave her everblooming mechanical tulip. This year I've decided to build here everblooming mechanical garden. The result is really beautiful!\n\nThe upgraded mechanical tulip has 3D printed transparent petals and is powered by a battery. Instructions for the original Ever Blooming Mechanical Tulip can be found here https://www.instructables.com/id/Ever-Blooming-Mechanical-Tulip/.\n\nAll the parts are available on my https://"
+  },
+  {
+   "id": "mkGOM9YEDMY",
+   "t": "LED Heart Slow Build",
+   "d": "2020-03-03",
+   "v": 126417,
+   "s": 227,
+   "vertical": false,
+   "desc": "Slow-build of my LED jewelry heart. A tiny hearth with 5 LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nThe 3D printed template design is available on my https://www.patreon.com/jiripraus page to download. If you want to ask me anything or get assistance, join Maker tier and I will be at your service!\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon or by buying some of my products in my Tindie store.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nP"
+  },
+  {
+   "id": "MKsSbeqQKvE",
+   "t": "LED Sun Pendant Slow Build",
+   "d": "2020-03-16",
+   "v": 34449,
+   "s": 395,
+   "vertical": false,
+   "desc": "Slow-build of another of my classic LED jewelry badges. Spring sun pendant. A tiny sun with 6 yellow LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon.\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nPatreon: https://www.patreon.com/jiripraus\nTindie: https://www.tindie.com/stores/jiripraus/\nWebsite: http://www.jiripraus.cz/"
+  },
+  {
+   "id": "nxa5WeLKBLw",
+   "t": "Artist's tribute to legendary GameBoy Color",
+   "d": "2020-03-29",
+   "v": 14933,
+   "s": 921,
+   "vertical": false,
+   "desc": "Handmade Brass GameBoy Color. A free-form tribute to legendary GameBoy Color I played when I was a kid. I am creating an emulator version based on Odroid GO emulator firmware running ESP-32. I gave it my artistic style - it's made from brass.\n\nAll models and techniques are available on my https://www.patreon.com/jiripraus page to download. If you want to ask me anything or get assistance, join Maker tier and I will be at your service!\n\nThis video is sponsored by https://www.samepage.io.\n\nBased on firmware by https://www.hardkernel.com/shop/odroid-go/\n\nBuild! Don't forget to share your creation"
+  },
+  {
+   "id": "PCjM7lu5XMA",
+   "t": "Beating LED Heart",
+   "d": "2020-04-01",
+   "v": 18331,
+   "s": 34,
+   "vertical": false,
+   "desc": "I made this heart a year ago to celebrate a 5-years anniversary with my wife. It can sense the excitement. It beats according to the holder's heartbeat. She's been supporting me on many of my crazy quests.\n\nNo full video of this build since it was before I started shooting. But you can read the full instructions on Instructables: https://www.instructables.com/id/Beating-LED-Heart/\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.com/jiripraus/\nSupport me: https://www.patreon.com/jiripraus\nWebsite: http://www.jiripraus.cz/"
+  },
+  {
+   "id": "XbQe2nBPJVE",
+   "t": "LED Butterfly Slow Build",
+   "d": "2020-04-03",
+   "v": 14003,
+   "s": 416,
+   "vertical": false,
+   "desc": "Extra slow build this time of LED jewelry butterfly. For your pleasure! A tiny butterfly brooch with 4 LEDs. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nThe 3D printed jig design is available on my https://www.patreon.com/posts/butterfly-jig-31114601 page to download. If you want to ask me anything or get assistance, join Maker tier and I will be at your service!\n\nBuild! Don't forget to share your creation, like this video, subscribe and consider supporting me on Patreon to help me make more!\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://w"
+  },
+  {
+   "id": "xe5E9Fbc9vo",
+   "t": "Little Halloween Glowing Ghost",
+   "d": "2020-10-22",
+   "v": 9231,
+   "s": 603,
+   "vertical": false,
+   "desc": "LED Jewelry is back! This time Halloween themed. A real-time build of little glowing ghost badge/pendant. Material: 0.8mm brass wire, 1206 SMD LEDs, coin cell battery CR2032.\n\nThe 3D printed stencil is available on my https://www.patreon.com/posts/43024503 page to download. If you want to ask me anything or get assistance, join the Maker tier and I will be at your service!\n\nBuild! Don't forget to share your creation, like this video, subscribe, and consider supporting me on Patreon to help me make more!\n\nI am Jiri Praus.\n\nTwitter: https://twitter.com/jipraus\nInstagram: https://www.instagram.co"
+  }
+ ]
+}

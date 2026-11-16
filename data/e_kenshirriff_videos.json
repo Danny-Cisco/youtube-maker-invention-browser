@@ -1,0 +1,171 @@
+{
+ "channel": {
+  "id": "UCw9VlVopq6Hj6fHmcOivC0g",
+  "title": "Ken Shirriff",
+  "handle": "@kenshirriff",
+  "description": "",
+  "since": "2007-11-28",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mTc1nBO5Wvi91Y2b7zrKlGpoIzu-zVOqfwuZB4mwynoCWy=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1674656",
+  "subscriberCount": "5730",
+  "hiddenSubscriberCount": false,
+  "videoCount": "17"
+ },
+ "videos": [
+  {
+   "id": "KciEtRh2evI",
+   "t": "Infrared-Controlled Arduino Bubble Machine",
+   "d": "2009-11-06",
+   "v": 11169,
+   "s": 24,
+   "vertical": false,
+   "desc": "A bubble machine is controlled via an IR remote connected to an Arduino board.  The infrared is detected by the IR sensor and decoded by the Arduino, which uses a relay to turn the bubble machine on and off.  It uses my Arduino IR library at http://arcfn.com/2009/08/multi-protocol-infrared-remote-library.html"
+  },
+  {
+   "id": "zRBpZHlhGjI",
+   "t": "Don't walk! Controlling a pedestrian sign with an Arduino",
+   "d": "2010-01-31",
+   "v": 60858,
+   "s": 66,
+   "vertical": false,
+   "desc": "A pedestrian sign controlled by an Arduino and a remote control.\nhttp://arcfn.com/2010/01/dont-walk-controlling-pedestrian-sign.html\n\nIf you're looking to control a \"Countdown Pedestrian Signal\", see http://www.tristantech.net/articles/pedestrian_signal/ (which I have no connection with)."
+  },
+  {
+   "id": "TsTk0c_AEIc",
+   "t": "Animation of new multi-branch Julia set algorithm for z^2.5+c",
+   "d": "2012-03-26",
+   "v": 5998,
+   "s": 44,
+   "vertical": false,
+   "desc": "This animation shows Julia sets generated from z^2.5+c using my new multi-branch algorithm (described at http://arcfn.com/julia). Instead of using a single branch for z^2.5, both possible values are used in parallel. Points are colored based on how many different branches converge or diverge. The animation shows various lines through c-space.\n\nThe music is Chimera Derivation by DanoSongs.com."
+  },
+  {
+   "id": "y3dqhixzGVo",
+   "t": "Mining Bitcoin with pencil and paper",
+   "d": "2014-09-28",
+   "v": 1479306,
+   "s": 472,
+   "vertical": false,
+   "desc": "Bitcoins are mined using a cryptographic algorithm called SHA-256. This algorithm is simple enough to be done with pencil and paper, as I show in this video. Not surprisingly, this is a thoroughly impractical way to mine. One round of the algorithm takes 16 minutes, 45 seconds which works out to a hash rate of 0.67 hashes per day.\n\nFor details, see http://righto.com/sha"
+  },
+  {
+   "id": "AyO3n20SpoI",
+   "t": "IBM punched card sorter Type 83, from 1955",
+   "d": "2016-04-27",
+   "v": 20298,
+   "s": 15,
+   "vertical": false,
+   "desc": "The IBM card sorter is used to sort punched cards on a numeric or alphabetic field. In each pass, it examines one column of the cards and directs cards into one of 13 bins. The sorter processes 1000 cards per minute, loading cards from the feeder on the right. The Type 83 card sorter was introduced in 1955 and rented for $110 per month. This sorter is at the Computer History Museum in Mountain View, CA"
+  },
+  {
+   "id": "_6A20FeBS6A",
+   "t": "IBM 1402 card reader clutch (for IBM 1401 mainframe)",
+   "d": "2018-02-04",
+   "v": 1534,
+   "s": 31,
+   "vertical": false,
+   "desc": "The IBM 1401 computer was very popular in the late 1950s and 1960s. The card reader for the 1401 used a ratchet clutch to engage the mechanism to read a card. This video shows the clutch manually engaged for one cycle."
+  },
+  {
+   "id": "xsefKVUUpnk",
+   "t": "Xerox Alto: The disk drive's servo feedback signal",
+   "d": "2018-03-27",
+   "v": 1972,
+   "s": 8,
+   "vertical": false,
+   "desc": "The vintage Xerox Alto uses a Diablo hard drive with a removable disk pack. The video below shows the head position feedback signals, which rotate 360 degrees as the heads move from track to track. When the heads are centered over the track, the dot is at the top.\n\nThese signals control a complex servo mechanism that keeps the heads over the right track. The drive uses a servo mechanism to position the head over a track. By counting the revolutions of the signals, the drive keeps track of the current track position.\n\nThe heads were slowly moved manually across several tracks to produce this vi"
+  },
+  {
+   "id": "NRqq1Vi9mIw",
+   "t": "FizzBuzz implemented with an FPGA and VGA",
+   "d": "2018-04-08",
+   "v": 3583,
+   "s": 18,
+   "vertical": false,
+   "desc": "FizzBuzz is a straightforward problem... unless you use an FPGA! I implemented FizzBuzz on the Mojo FPGA board, producing raw VGA output. Plain text was too boring, so I added rainbows and animation.\n\nGenerating the VGA signal was easier than I expected. Details on my blog: http://www.righto.com/2018/04/fizzbuzz-hard-way-generating-vga-video.html"
+  },
+  {
+   "id": "Sr9mmsLQmYs",
+   "t": "Tediously toggling a program into the IBM 1401 mainframe",
+   "d": "2018-06-21",
+   "v": 9117,
+   "s": 723,
+   "vertical": false,
+   "desc": "Note: skip to 11:25 to see the program run.\n\nI wrote a prime number program for the vintage IBM 1401 mainframe at the Computer History Museum. To make things more difficult, I entered the program using the toggle switches on the front panel, instead of reading it from punch cards.\n\nThis was for the /r/retrobattlestations Flippy Switch Week: https://reddit.com/r/retrobattlestations/comments/8rjhl9/contest_flippy_switch_week_until_june_24/"
+  },
+  {
+   "id": "XiBuzzOt43g",
+   "t": "Bitcoin mining on the Apollo Guidance Computer",
+   "d": "2019-07-10",
+   "v": 34052,
+   "s": 27,
+   "vertical": false,
+   "desc": "I wrote a SHA-256 algorithm for the Apollo Guidance Computer (AGC) and ran it on the AGC we're restoring. The video shows the Bitcoin hash output on Carl's DSKY replica.\nDetails: http://www.righto.com/2019/07/bitcoin-mining-on-apollo-guidance.html"
+  },
+  {
+   "id": "Lu4SxJqU9I4",
+   "t": "Clair de lune on a line printer",
+   "d": "2019-09-02",
+   "v": 17196,
+   "s": 14,
+   "vertical": false,
+   "desc": "We used the vintage IBM 1401 at the Computer History Museum to play \"line printer music\". We ran a 50-year-old card deck to produce this version of Clair de lune. By printing carefully-selected lines, the printer hammers fire at the right frequency to produce notes. (To save on paper, the printer's line feed was disengaged for this song.)\n\nVideo courtesy of Ron Mak."
+  },
+  {
+   "id": "EfSgdOuFA4s",
+   "t": "La Marseillaise on the IBM 1401's line printer",
+   "d": "2019-09-02",
+   "v": 7312,
+   "s": 9,
+   "vertical": false,
+   "desc": "Playing La Marseillaise on a line printer. By printing the proper characters, the printer hammers out a (barely-recognizable) tune.\n\nThank to Ron Mak for the video."
+  },
+  {
+   "id": "OqN8kpHGRmw",
+   "t": "IBM 1401 Pi Christmas tree",
+   "d": "2021-12-16",
+   "v": 2857,
+   "s": 37,
+   "vertical": false,
+   "desc": "This is a Christmas tree from 1863 digits of Pi. The program ran on the vintage IBM 1401 computer at the Computer History Museum and the output was printed on the IBM 1403 line printer. The program was read from the stack of punch cards. The digits of Pi were calculated earlier on the IBM 1401 using a program by Ed Thelen."
+  },
+  {
+   "id": "FwSq1o1__Go",
+   "t": "Christmas tunes from a tiny chip",
+   "d": "2021-12-18",
+   "v": 6347,
+   "s": 28,
+   "vertical": false,
+   "desc": "The UM66 melody generator is a transistor-sized chip holding Christmas music in its 64-note ROM. Hooked up to 3 volts and a piezo speaker it plays the songs.\nI decapped the chip; see my Twitter thread for details: https://twitter.com/kenshirriff/status/1472297415201869831"
+  },
+  {
+   "id": "EDeL15amsus",
+   "t": "Space Shuttle teleprinter printing lines of text",
+   "d": "2024-08-03",
+   "v": 2534,
+   "s": 3,
+   "vertical": false,
+   "desc": "Onboard the Space Shuttle, a teleprinter received and printed messages from Mission Control. The teleprinter used a rotating drum of characters, along with 80 hammers. This video shows the teleprinter in action. The cover has been removed, showing the hammer driver units."
+  },
+  {
+   "id": "uKzj5shVtlo",
+   "t": "Three-axis F-4 Attitude Indicator",
+   "d": "2024-09-29",
+   "v": 4612,
+   "s": 24,
+   "vertical": false,
+   "desc": "This attitude indicator rotates on three axes (roll, pitch, and azimuth). It was used in the F-4 fighter plane to show the orientation of the aircraft. We reverse-engineered it and got it to spin.\nMy blog post goes into detail: https://www.righto.com/2024/09/f4-attitude-indicator.html\nThanks to CuriousMarc for supplying the video."
+  },
+  {
+   "id": "DpshKBKt_os",
+   "t": "Using a vintage Engelbart keyset with my Mac",
+   "d": "2025-03-23",
+   "v": 5923,
+   "s": 15,
+   "vertical": false,
+   "desc": "In 1968, Douglas Engelbart gave \"The Mother of All Demos\", introducing many of the features of modern computing: the mouse, hypertext, shared documents, and a graphical user interface. One of his inventions\u2014the keyset\u2014didn't become popular. The 5-finger keyset lets you type without moving your hand, entering characters by pressing multiple keys at a time as a chord.\n\nChristina Englebart, his daughter, loaned me a vintage keyset. I constructed an interface to connect the keyset to USB, using a Teensy microcontroller. Now I can type with the keyset, using the mouse buttons to select upper case a"
+  }
+ ]
+}

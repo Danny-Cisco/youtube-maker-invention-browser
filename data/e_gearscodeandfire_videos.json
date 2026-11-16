@@ -1,0 +1,1143 @@
+{
+ "channel": {
+  "id": "UCswAdKEco21t8YbIIKNIYbQ",
+  "title": "Gears, Code, and Fire",
+  "handle": "@gearscodeandfire",
+  "description": "11-year-old boy in a man's body pretending to be a 25-year-old Youtuber.\n\n",
+  "since": "2022-01-16",
+  "avatar": "https://yt3.ggpht.com/mnmslMz3A1uO2zLDjmjDuW_i3PPP7Hg0vatEx-7vE6X7OgzcZxGQ3vSmr2h0tbl6kysKxMMn=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "484652",
+  "subscriberCount": "1410",
+  "hiddenSubscriberCount": false,
+  "videoCount": "124"
+ },
+ "videos": [
+  {
+   "id": "ZojI8BA8yxc",
+   "t": "Frogomatic 2000",
+   "d": "2022-07-27",
+   "v": 145,
+   "s": 30,
+   "vertical": true,
+   "desc": "My wife wanted a #poisondartfrog enclosure. @JoshsFrogs had some great instructions. #shorts"
+  },
+  {
+   "id": "DYpxZlV6kt4",
+   "t": "Camerabot 2000 tweaking",
+   "d": "2022-07-29",
+   "v": 519,
+   "s": 61,
+   "vertical": true,
+   "desc": "I made a #facetracking robot using #opencv , some inexpensive #webcams , a #raspberrypi , and #arduino , and some #3dprinting parts to help with my #videography \n#shorts"
+  },
+  {
+   "id": "HRPjkcFCDaA",
+   "t": "Multisensor 2000",
+   "d": "2022-07-30",
+   "v": 679,
+   "s": 13,
+   "vertical": true,
+   "desc": "Multisensors are expensive, and I wanted to cover the house with them. Introduce an #esp32 , a #pir , and a #bme280 . They communicate with my #homeautomation server, @indigodomotics6822  , using #mqtt .\n#shorts"
+  },
+  {
+   "id": "RC5njv0lppI",
+   "t": "Empire of the Silence Strikes Lambs",
+   "d": "2022-08-03",
+   "v": 190,
+   "s": 35,
+   "vertical": true,
+   "desc": "#Shorts #501st #sithlord #silenceofthelambs"
+  },
+  {
+   "id": "fEP-ipORsxM",
+   "t": "DIY Sonos: FAUX-NOS 2000",
+   "d": "2022-08-22",
+   "v": 742,
+   "s": 16,
+   "vertical": true,
+   "desc": "Sonos is great, but I wasn't gonna shell $700 USD for 5 #sonos amps. So I used some #arylic boards and #amplifiers recommended by @cheapaudioman \n\nAll in, $600 for #airplay , #airplay2 , #streaming #wholehouseaudio\n\n #shorts"
+  },
+  {
+   "id": "TjMZD2wY4vY",
+   "t": "Making lawn aeration fun again with pneumatic pistons and Arduino",
+   "d": "2022-09-17",
+   "v": 1194,
+   "s": 18,
+   "vertical": true,
+   "desc": "I really just wanted an excuse to play around with a #pneumatic piston, #cnc linear rails, and #welding aluminum to help with my #lawncare while listening to #pantera"
+  },
+  {
+   "id": "Wxt4ZEc-kpM",
+   "t": "Welding 2020 extruded aluminum #shorts",
+   "d": "2022-09-30",
+   "v": 6889,
+   "s": 61,
+   "vertical": true,
+   "desc": "I had two pieces of extruded aluminum that didn\u2019t make a nice joint, so I decided to get weird on a sample piece to see if I could weld the actual pieces together. Also, it was very late. \ufffc #weldingaluminium #8020 #tigwelding"
+  },
+  {
+   "id": "xPuEaLOJ2Us",
+   "t": "Sliding spinning imac v2, now with welding. #shorts #welding #3dprinting #workshop",
+   "d": "2022-10-05",
+   "v": 880,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_QAalJXJMLo",
+   "t": "Stepper Tester 2000: it tests stepper motors.",
+   "d": "2022-11-14",
+   "v": 965,
+   "s": 19,
+   "vertical": true,
+   "desc": "For the few who want to know what this actually is : 1) custom pcb to interface with 2) an arduino mega that either controls 3) a custom pcb that seats a4988/tmc220x stepper drivers -or- 3) a dm566 stepper driver, toggled by a 4) simple quad-pole double-throw switch and displaying info by an 5) i2c lcd display, with settings controlled by 6) many rotary encoders and buttons.\n\n#arduino #steppermotor #inventions #cnc #grbl"
+  },
+  {
+   "id": "CVya5DIVhdU",
+   "t": "Shop Heater 2000 Hot Water wood burning arduino controlled radiator",
+   "d": "2022-11-29",
+   "v": 2542,
+   "s": 14,
+   "vertical": true,
+   "desc": "trying to a make a 55 gallon drum fit inside another 55 gallono drum, so I can attach it to a radiator and control it with an arduino.\n\n #shorts  #metalwork #arduino #eap32 #heater #workshop"
+  },
+  {
+   "id": "jvB0iqHW7pY",
+   "t": "Shop Heater 2000",
+   "d": "2022-12-03",
+   "v": 1869,
+   "s": 25,
+   "vertical": true,
+   "desc": "My diy wood burning, secondary burning, smokeless, arduino controlled, hot water radiator #workshop #shorts #welding #offgrid #arduino #makersgonnamake"
+  },
+  {
+   "id": "O2g2JFh7uAI",
+   "t": "December 5, 2022",
+   "d": "2022-12-05",
+   "v": 1233,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "cnayiQcQg1U",
+   "t": "Shop Heater 2000 #workshop #arduinoproject #makersgonnamake #hvac",
+   "d": "2022-12-09",
+   "v": 4022,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6J0CdQDMICA",
+   "t": "DIY secondary combustion water heater from a 55 gallon drum #offgrid #makersgonnamake #firepits",
+   "d": "2022-12-10",
+   "v": 16339,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lDWlhOR8TW8",
+   "t": "Shop Heater 2000 WORKING \ud83e\udd18\ud83e\udd18\ud83e\udd18 #shorts #workshop #maker #hvac #welding #arduino",
+   "d": "2022-12-23",
+   "v": 5967,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zW5ByhkNmro",
+   "t": "Just screwing around with this hat and a bad voiceover #workshop #makersgonnamake #welding #firepit",
+   "d": "2023-01-15",
+   "v": 1564,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9uuKKn0yM5o",
+   "t": "Shop Heater 2000: Wood burning hot-water radiator controlled by a microprocessor #welding #workshop",
+   "d": "2023-01-25",
+   "v": 2760,
+   "s": 23,
+   "vertical": true,
+   "desc": "#arduino #esp32 #offgrid #firepit #hvaclife #55gallondrum"
+  },
+  {
+   "id": "mg7HuoqVZ1c",
+   "t": "Top Hateful Comments Supercut! #arduino #welding #workshop #firepit  #blueiris #esp32",
+   "d": "2023-02-14",
+   "v": 457,
+   "s": 54,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sDMVftFo0ws",
+   "t": "I Built a DIY Wood Fired Hot Water Radiator (And It Works)",
+   "d": "2023-02-14",
+   "v": 6895,
+   "s": 924,
+   "vertical": false,
+   "desc": "I advise nobody to try this... scroll down for my ingredients.\n\nThis is the first time I've used Premiere since 2002; go easy on me. If you are at all interested in more technical aspects of the build, please write it in the comments and I'll do my best to answer! Thanks to @BuildingStuffIsFun for a great tutorial on the secondary burn 55 gallon drums, and thanks to @RuiSantosdotme for his amazing teaching at Random Nerd Tutorials!\n\nTimecodes\n0:00\n0:41 - Make Heat 55 gallon drums, metalwork\n2:15 - Heat Transfer diy plumbing\n5:13 - Prototype Testing backyard firepit\n5:56 - Monitoring and Contro"
+  },
+  {
+   "id": "QgynG4AFFbc",
+   "t": "DIY Hot Water Wood Burning Radiator Actually Works Well!",
+   "d": "2023-02-19",
+   "v": 916,
+   "s": 16,
+   "vertical": true,
+   "desc": "An old radiator, two 55 gallon drums, and a microcontroller make a DIY heat pump/hot-water radiator"
+  },
+  {
+   "id": "sHrplo_CE0Q",
+   "t": "Wood burning diy radiator for my workshop #welding #arduino #firepit",
+   "d": "2023-02-24",
+   "v": 702,
+   "s": 61,
+   "vertical": true,
+   "desc": "I use an esp32 to monitor and control a hot water radiator system i made outy of two 55 gallon drums using a secondary combustion design to burn wood and move thermal energy into my shop. Full 15' minute build video is up, and if you don't believe it works, check it!"
+  },
+  {
+   "id": "QVbCHILlWaM",
+   "t": "Voltron cosplay for kids- Pidge",
+   "d": "2023-02-24",
+   "v": 4766,
+   "s": 31,
+   "vertical": true,
+   "desc": "My first swing at full LARPer style foam armor and a nylon 3d printed helmet."
+  },
+  {
+   "id": "jvfIgZvuhNc",
+   "t": "Magic Mirror on OSX, AppleTV, and 2010 MacBook Air",
+   "d": "2023-03-13",
+   "v": 2765,
+   "s": 23,
+   "vertical": true,
+   "desc": "MagicMirror, Home Automation, raspi, raspberry pi, appletv, appletv hacking, hacking, airplay, streaming, macbook, imac, wleding, wooodwork"
+  },
+  {
+   "id": "zMnuB5PmxZ4",
+   "t": "Esp32 relay board made with EasyEDA",
+   "d": "2023-04-18",
+   "v": 6686,
+   "s": 17,
+   "vertical": true,
+   "desc": "Join us in this video where we explore how an Esp32 relay board was created using EasyEDA. Discover how a high voltage igniter and Propane can be controlled with this compact device. Subscribe for more DIY electronics projects!"
+  },
+  {
+   "id": "iBSYqKQ7nMc",
+   "t": "esp32 relays and solenoids          #esp32 #arduino #pcb",
+   "d": "2023-04-26",
+   "v": 3571,
+   "s": 30,
+   "vertical": true,
+   "desc": "My first custom relay boards using ESPNow\n\nI am doing a somewhat ambitious art project where I need 1 master esp32 and 6 slave esp32s controlling 2 relays each for a 12V load.\n\nThe wiring got ugly and i decided designing a pcb would be faster and prettier than soldering up 6 proto-boards.\n\nIt's pretty awesome how gpt4 told me the model numbers for appropriate transistors, flyback diodes, and base resistors (I have never done a project with non-LED diodes, transistors, or bare relays).\n\nThe relays need 5 V to charge the coil but they play nice with a 3.3 V signal, and I don't need to mess aroun"
+  },
+  {
+   "id": "4xI2TCZRFMM",
+   "t": "Programming Propane.   #arduino #relay #esp32 #easyeda #pcb #diy #fire #awesome #badass",
+   "d": "2023-05-16",
+   "v": 1964,
+   "s": 49,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9upWep-iW5k",
+   "t": "#esp32 #esp8266 #arduino #relay #3v3 #fire #solenoidvalve #highvoltage #awesome #badass",
+   "d": "2023-06-08",
+   "v": 2108,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "m6fT22JEkKw",
+   "t": "#esp32 #arduino #homeautomation #fireart #propane #pyrotechnics #midi #raspberrypi  #ministry #metal",
+   "d": "2023-06-16",
+   "v": 1776,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "77jFxtLkVtQ",
+   "t": "My esp32 powered pyrotechnics #esp32 #relay #pcb #easyeda #arduino #robotics #awesome #badass",
+   "d": "2023-06-30",
+   "v": 3229,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hSRQNfkevYY",
+   "t": "#esp32 #relay #12V #electronics #robotics #awesome #badass",
+   "d": "2023-07-01",
+   "v": 1618,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vnqzoTMFNPM",
+   "t": "Wireless Fire: ESPNow and Propane",
+   "d": "2023-07-01",
+   "v": 1583,
+   "s": 885,
+   "vertical": false,
+   "desc": "I want my idyllic suburbanite life to be more awesome. More badass. So I decided to make walkway lights, only they're not walkway lights\u2026 they are propane cannisters automated with solenoid valves, high voltage arc generators, and esp32 microcontrollers running the ESPNow library, allowing them to establish a local network that, well, uses relays to let me tell them when and how to shoot fire in my front yard.\n\nDefintely check out my buddy Tomasz if you have not yet: https://www.youtube.com/watch?v=2c-yxTgw7Eo&t=78s\n\n00:00 Intro\n00:39 A Present from @mellow_labs\n01:50 My Wife Approves\n02:44 Th"
+  },
+  {
+   "id": "Z6hVlTZZENQ",
+   "t": "Best present ever @Mellow_labs  #esp32 #robotics #3dprinting #highvoltage #fireart #arduino",
+   "d": "2023-07-06",
+   "v": 1710,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UUWxfUPP6Hw",
+   "t": "I made a bar for my workshop #esp32 #homeautomation \ufffc#welder #welding #awesome #badass",
+   "d": "2023-07-18",
+   "v": 2625,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FJrR9tk7R4w",
+   "t": "My suburbanite bar will be awesome and badass.\ufffc        #homeautomation #esp32 #weldingaluminium",
+   "d": "2023-07-18",
+   "v": 1949,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eEmLTFfbNFQ",
+   "t": "Summoning men to my bar shop #esp32 #iot #homeautomation #optics #batman #bar #micropython #easyeda",
+   "d": "2023-07-20",
+   "v": 1142,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "x3kY1zE-fNg",
+   "t": "Personal Bat Signals #esp32 #homeautomation #easyeda #3dprinting #optics #audio #arduino #maker",
+   "d": "2023-07-25",
+   "v": 1684,
+   "s": 37,
+   "vertical": true,
+   "desc": "This project uses an ESP 32, micropython, a speaker, a fresnel lens, a 12V led, and a TBD sound board. I am giving one to each of the neighbors that likes to hang out, and it pulls my home automation software (Indigo) to see whether a party has been declared. It has three buttons to respond yes, maybe, or no, and the responses are sent back to my home automation software. Since I will be making more than a few, so I will again use EasyEDA to design proper boards once the prototype works."
+  },
+  {
+   "id": "irsz9DVOmqE",
+   "t": "Party alerters. #esp32 #easyeda #arduino #homeautomation #indigodomotics #optics #relay #optocoupler",
+   "d": "2023-08-04",
+   "v": 2322,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XNeiUZktWB4",
+   "t": "I am making beacons to summon people to my bar. #homeautomation  #esp32 #easyeda #fusion360 #led",
+   "d": "2023-08-16",
+   "v": 2635,
+   "s": 39,
+   "vertical": true,
+   "desc": "Sending out a blast text message \"come hang out\" to a bunch of people who might be sleeping is inconsiderate\u2026 So I'm making a bunch of these little guys to alert them a party is happening by, um,  blasting power chords and projecting my logo onto their ceilings. The idea is amusing enough that it outweighs my concerns about being inconsiderate.\n\nI programmed an esp32 with #micropython to connect to my freinds' homes' wifi. It then communicates with my home automation platform, #indigodomotics. When I flip a giant party switch  on the device in my #bar / #workshop, the status of the party is to"
+  },
+  {
+   "id": "EqgtKnBJp38",
+   "t": "Full video on main page #esp32 #metal #homeautomation #easyeda #pcb #12volt #relay #solenoid #fire",
+   "d": "2023-09-30",
+   "v": 2682,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_wG-C7lFoPQ",
+   "t": "My switch is better. #esp32 #homeassistant #indigodomotics #welding #3dprinting #homeautomation #diy",
+   "d": "2023-10-14",
+   "v": 5323,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gSJqnq4kEEk",
+   "t": "I made a switch and bat signals for dads. #esp32 #easyeda #indigodomotics #3dprinting",
+   "d": "2023-10-27",
+   "v": 7868,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "A3uBu0zK2tY",
+   "t": "Bat Signals for the Bar",
+   "d": "2023-11-26",
+   "v": 1005,
+   "s": 765,
+   "vertical": false,
+   "desc": "I used a lens, an Esp32, a speaker, and 3d printed enclosures to make and distribute personalized bat signals to the neighborhood dads, because old men and group texts are lame.\n\nI made devices that project my logo onto ceilings. I kludged together a 12V LED and a fresnel lens to project the image. I controlled the LED with an ESP32. After prototyping a breadboard, I used EasyEDA to design PCB's, as I wanted the wiring to be compact, and because I planned to make nine of these. I designed the housing using Fusion 360, and I 3d printed them on what originally was an Ender CR10S Pro. Some of the"
+  },
+  {
+   "id": "j3nBNs9TgBQ",
+   "t": "I made bat signals to get dads to my garage bar workshop. #esp32 #easyeda #homebartender #workshop",
+   "d": "2023-11-29",
+   "v": 6129,
+   "s": 25,
+   "vertical": true,
+   "desc": "I 3-D printed a bunch of alerts that use a 12V led to project my logo and play music when I want people to come over."
+  },
+  {
+   "id": "OkmmZtHpql8",
+   "t": "I made a multicam synchronizer control unit #easyeda #esp32 #blueiris #homeautomation #3dprinting",
+   "d": "2024-01-06",
+   "v": 2968,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7a-OWfs3bfA",
+   "t": "Budget shop studio VU meter #blueiris #homeautomation #workshop #multicam #vumeter #diy #budget",
+   "d": "2024-01-26",
+   "v": 3553,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "25f8IxbByoE",
+   "t": "A Thursday night in the shop. #workshop #dieselengine #diy #offgrid",
+   "d": "2024-02-16",
+   "v": 4986,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RQhOzH9s-nM",
+   "t": "Poor planning #peltier #arduino #pwm #driver #watercooling #fans #cooling #watercooling",
+   "d": "2024-02-29",
+   "v": 7048,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "rmtk8SPsJeo",
+   "t": "Smart home iguana enclosure wip. \ufffc#esp32 #relay #i2c #makersgonnamake #bme280 #vivarium #bioactive",
+   "d": "2024-04-03",
+   "v": 7463,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "boe7xap3x5Y",
+   "t": "Smart home iguana enclosure wip #esp32 #relay #i2c #bme280 #vivarium #bioactive #terrainbuilding",
+   "d": "2024-04-08",
+   "v": 601,
+   "s": 57,
+   "vertical": true,
+   "desc": "This is the second spire of my iguana enclosure. It's made of zip ties, egg crate, and expanding foam. A pump supplies the reservoir at the top where a fogger also resides. All will be controlled by a raspberry pi running an i2c 8-channel relay and monitored with sht-30 temperature and humidity sensors. Info will be displayed on a python flask server provided web page."
+  },
+  {
+   "id": "BX1lhdsJ8-k",
+   "t": "Gears, Code, and Fire Live Stream",
+   "d": "2024-04-26",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "EMXUBSn1A-Y",
+   "t": "The Ultimate All-purpose Home Automation Button",
+   "d": "2024-05-16",
+   "v": 14283,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ujx9z74p-Eg",
+   "t": "Smart iguana enclosure water test! #vivarium #terrarium #homeautomationn#smarthome #raspi #esp32",
+   "d": "2024-05-20",
+   "v": 1329,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "VhcF1rZgOls",
+   "t": "I Built An Iguana A Bioactive Enclosure!",
+   "d": "2024-05-30",
+   "v": 8357,
+   "s": 40,
+   "vertical": true,
+   "desc": "Join me as I create a custom, naturalistic habitat for my iguana in this DIY vivarium project. Watch as I design a sustainable and bioactive enclosure that provides the perfect environment for my reptile friend. Learn how to build your own custom enclosure and create a beautiful home for your reptile companion. \n\nWhether you are looking to upgrade your reptile enclosure or are interested in vivarium design, this video will inspire you to create a unique and environmentally friendly space for your pets. \n\nDon't miss out on this exciting journey of building a one-of-a-kind bioactive habitat for "
+  },
+  {
+   "id": "UmCAdmz5ALI",
+   "t": "Building a Smart Home for My Iguana- Part I",
+   "d": "2024-06-14",
+   "v": 655,
+   "s": 722,
+   "vertical": false,
+   "desc": "I have an iguana that needs a very large indoor enclosure.  My idea is to TIG weld square steel tubing to make the frame.  I can make the back window and the sliding windows out of polycarbonate, then use fusion360 to CAD design a sliding mechanism for the doors, which I will 3d print in nylon. I will make a water reservoir to permit for bioactive options, and to maintain the humidity. In the future, I will sculpt some naturalistic and realistic terrarium/vivarium artificial branches  (for easy cleaning),  and I will make some Mayan ruins out of polystyrene and Drylock. Ultimately, a raspberry"
+  },
+  {
+   "id": "5OXR1Hv1uLU",
+   "t": "Post opensaucelive experiments on the cnc mill with @Mellow_labs #3dprinting #cnc  #gcode  #maker",
+   "d": "2024-06-19",
+   "v": 1341,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6kPlbMQUBCs",
+   "t": "FOC Brushless motor goodness #simplefoc #bldc #robotics #arduino #compliant  #electronics #esp32",
+   "d": "2024-07-17",
+   "v": 21353,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "01qQejYICzI",
+   "t": "SimpleFOC test v2 #arduino #diy #bldc #robotics #simplefoc #stepper #esp32#hoverboard #electronics",
+   "d": "2024-07-30",
+   "v": 9650,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gbyvyDF6P60",
+   "t": "Achieving Smooth Operation with FOC Motors",
+   "d": "2024-08-16",
+   "v": 10553,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RD3JljeQe9g",
+   "t": "FOC brushless motor control gimbal #esp32 #simplefoc #bldc #arduino #robotics #closedloop #makers",
+   "d": "2024-09-19",
+   "v": 61023,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WVGaLEIH26U",
+   "t": "The Mind-Blowing Science of Precision Brushless Motors",
+   "d": "2024-09-22",
+   "v": 1468,
+   "s": 58,
+   "vertical": true,
+   "desc": "I used the SimpleFOC  Arduino library (thanks @Dagor et al), and a FlySky F6-i6X RC transmitter/receiver to read the serial output from the receiver into a second  serial port on a Makerspace esp32 dual driver board, parse the 32 byte payload (IBUS protocol),  and give directions to the brushless  motors.  It's incredibly responsive. Now I need to attach an IMU unit to it,  and eventually mount it on my cat. #rcfpv #arduino #bldc #arduinoesp32 #rcdronecamera #esp32 #3dprinting"
+  },
+  {
+   "id": "eFDHttVgzEM",
+   "t": "How FOC Makes Your Brushless Motor Even Cooler",
+   "d": "2024-09-26",
+   "v": 16504,
+   "s": 16,
+   "vertical": true,
+   "desc": "This arduino/ esp32/ stm library is freakin dope. It lets you precision control brushless motors for all sorts of purposes: gimbals, robot dogs, robot arms, and most other nouns with \"robot\" in front of them. I'm gonna see if i can do hashtags and @'s now.\n#bldc   #arduino #esp32 #robotics #diy #dronevideo #robotics #makersgonnamake #diy #dronevideo #gimbalstabilizer #videography @Dagor @theskura @makerbaseteam4217"
+  },
+  {
+   "id": "t72eNSEzj3Y",
+   "t": "RC PowerWheels and Halloween: Day2 #esp32 #motor #driver #arduino #powerwheels #pwm #rcfpv",
+   "d": "2024-09-30",
+   "v": 1242,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NoKlC9nSyZY",
+   "t": "Power Wheels RC ESP32 #arduino #flysky #fsi6x #drones #fpv #robotics #makersgonnamake #halloween",
+   "d": "2024-10-03",
+   "v": 46466,
+   "s": 16,
+   "vertical": true,
+   "desc": "Get ready to take your Power Wheels to the next level with this RC ESP32 tutorial! Learn how to upgrade your Power Wheels with Arduino, Flysky, drones, FPV, and more. Perfect for makers looking to create a cool Halloween project! #powerwheels #arduino #flysky #drones #fpv #robotics #makersgonnamake #halloween"
+  },
+  {
+   "id": "2W59U8p8PB8",
+   "t": "DIY Power Wheel Car For Kids (Arduino + RC)",
+   "d": "2024-10-04",
+   "v": 1737,
+   "s": 26,
+   "vertical": true,
+   "desc": "This project uses the Ibus  serial protocol from a Flysky RC receiver.  That stream  is read by an ESP32 over a second uart port, parsed,  and converted into meaningful data from the RC transmitter. That data  is then used to control two BTS7960  motor drivers for the wheels and a 35kg * cm  servo on the steering wheel."
+  },
+  {
+   "id": "YXTxLAwJmcI",
+   "t": "The Haunted RC Power Wheels Workshop",
+   "d": "2024-10-14",
+   "v": 7102,
+   "s": 13,
+   "vertical": true,
+   "desc": "This project uses the Ibus  serial protocol from a Flysky RC receiver.  That stream  is read by an ESP32 over a second uart port, parsed,  and converted into meaningful data from the RC transmitter. That data  is then used to control two BTS7960  motor drivers for the wheels and a 35kg * cm  servo on the steering wheel."
+  },
+  {
+   "id": "LICf1QdOPgs",
+   "t": "Ghost Rider Comes to Life with Arduino RC",
+   "d": "2024-10-15",
+   "v": 2109,
+   "s": 16,
+   "vertical": true,
+   "desc": "This is the pilot for my RC and esp32/ arduino controlled power wheels. It's a metal skull with an 8 mm shaft through it. The shaft goes through some aluminum that I machined  to contain radial and thrust bearings. The servo operates a pulley with s GT2 timing belt  with a slight gear reduction. I need to add a pan mechanism and an FPV camera to go in the eye socket."
+  },
+  {
+   "id": "sjCCNargakM",
+   "t": "Halloween Robotics: Spooky Scary Servo Skulls!",
+   "d": "2024-10-17",
+   "v": 1254,
+   "s": 16,
+   "vertical": true,
+   "desc": "This is the pilot for my RC and esp32/ arduino controlled power wheels. It's a metal skull with an 8 mm shaft through it. The shaft goes through some aluminum that I machined  to contain radial and thrust bearings. The servo operates a pulley with s GT2 timing belt  with a slight gear reduction. I need to add a pan mechanism and an FPV camera to go in the eye socket."
+  },
+  {
+   "id": "4S_grf5kYfw",
+   "t": "Spooky Diy Mechatronics For Halloween",
+   "d": "2024-10-22",
+   "v": 696,
+   "s": 43,
+   "vertical": true,
+   "desc": "This is the pilot for my RC and esp32/ arduino controlled power wheels. It's a metal skull with an 8 mm shaft through it. The shaft goes through some aluminum that I machined  to contain radial and thrust bearings. The servos operates a pulley with s GT2 timing belt  with a slight gear reduction for the tilt mechanism, and the shaft directly couples for the pan mechanism."
+  },
+  {
+   "id": "pZ58Os3MpiQ",
+   "t": "Little Timmy is a punk rocker. #esp32 #arduino #robotics #rccar #servo #halloween #rftc #fpvlife",
+   "d": "2024-10-23",
+   "v": 920,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sVHi67KPO3Q",
+   "t": "RC FPV Pan-Tilt Flaming Skeleton in a Power Wheels #metal #rcpilot #esp32 #powerwheels #servomotor",
+   "d": "2024-10-31",
+   "v": 825,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RR6xCiXo64M",
+   "t": "I Turned a Power Wheels Into an FPV Fire-Breathing Halloween Monster",
+   "d": "2024-10-31",
+   "v": 3405,
+   "s": 1010,
+   "vertical": false,
+   "desc": "Watch me use a FlySky RC remote receiver, an esp32, high-current motor drivers, servos, an FPV camera, and a little pyrotechnic magic to upgrade this Power Wheels to an RC pan-tilt FPV Halloween beast. This project covers electronics, aluminum tig welding, robotics, gas solenoid valves, and high-voltage transformers. I call him Ghost Toddler.\n\n00:00 Intro \n00:45 RC Control \n01:26 Examining the Patient  \n02:18 Pandering\n02:44 High Current Drivers\n02:57 First Success\n03:45 Servo Steering\n04:51 Adding a Skeleton Driver\n05:44 The Servo Skull and Pan-Tilt FPV\n07:16  Taunts from Tomasz\n07:58 Pediatr"
+  },
+  {
+   "id": "aeqAuRoKDso",
+   "t": "Little Timmy is metal #esp32 #arduino #servo #robotics #powerwheels #workshop #rccars  #fpvlife",
+   "d": "2024-11-02",
+   "v": 1175,
+   "s": 16,
+   "vertical": true,
+   "desc": "Watch me use a FlySky RC remote receiver, an esp32, high-current motor drivers, servos, an FPV camera, and a little pyrotechnic magic to upgrade this Power Wheels to an RC pan-tilt FPV Halloween beast. This project covers electronics, aluminum tig welding, robotics, gas solenoid valves, and high-voltage transformers. I call him Ghost Toddler."
+  },
+  {
+   "id": "ZOYMSW-h24o",
+   "t": "Can't believe I've been playing with these for 12 years now #raspi #raspberrypi #mcu #diy #embedded",
+   "d": "2024-12-11",
+   "v": 4791,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xJzjKOyxzXo",
+   "t": "I'm running with my last project...  #ollama #raspi #opencv #ghostrider #llm #heman #piper #python",
+   "d": "2025-01-08",
+   "v": 1113,
+   "s": 12,
+   "vertical": true,
+   "desc": "Little Timmy is just a skeleton with a pan tilt head, an FPV camera for an eye, and propane that shoots out of his skull when he's excited. Much like Pinocchio, my latest long-term project is to turn him into a real boy. Openai Faster-whisper? Check. Piper TTS? Check. Now I just need to customize a voice, preferably sounding like skeleton, a large language model to give him some personality, and an API to allow guest hosts to possess him. \ufffc"
+  },
+  {
+   "id": "ghLCOiraTTQ",
+   "t": "Piper TTS training a model to sound like Skeletor",
+   "d": "2025-01-27",
+   "v": 17207,
+   "s": 59,
+   "vertical": true,
+   "desc": "I am using Piper TTS to finetune the lgspeech model to sound like Skeletor, from He-Man. My co-host, little Timmy, needs a voice. I couldn't find enough clean audio of Skeletor from the cartoon, so i had to improvise. This is an impromptu vid of me reading 142 different phrases, trying to sound like Skeletor.\n\n\n\n#piper #whisper #openai #ollama #faster-whisper #homeassistant #pipertts #tts #raspi #raspi5 #voicerecognition #voicecloning #python #wsl"
+  },
+  {
+   "id": "R6SKCfWJTcU",
+   "t": "Making Timmy a real boy#TTS #ollama #piper #robotics #raspi #openai #voicecloning #metallica #python",
+   "d": "2025-03-07",
+   "v": 915,
+   "s": 46,
+   "vertical": true,
+   "desc": "I will turn the skeleton from my last project into a cohost. Openai Faster-whisper does speech to text. That gets piped to a locally hosted LLM using ollama. The output uses Piper TTS. Cap for testing, as is seen here, I can let a friend remotely \"possess\" Timmy to control his head pan tilt servos, see-through his eye (using H.264HLS streaming), and enter text commands into a flask python server better than red allowed by Piper.\n\nVery simple straightforward project."
+  },
+  {
+   "id": "FwUQTmBK0dg",
+   "t": "Voice cloning Skeletor #esp32 #raspi #piper #STT #ghostrider #servoskull",
+   "d": "2025-03-11",
+   "v": 2157,
+   "s": 15,
+   "vertical": true,
+   "desc": "I am running a python package called Piper honey raspberry pi 5 that does a great job with text to speech, and it also allows you to use different voice models (.onnx files). It's really impressive. I couldn't find enough clean audio of just Skeletor talking, so I used an open source fine-tuning voice model package to record 142 entries of me reading sentences of predetermined text. I read them like Skeletor. This was the output. \ufffc"
+  },
+  {
+   "id": "dSQCFIQiq6s",
+   "t": "This is a #raspi running #piper TTS #voicecloning #skeletor singing #snoopdogg #maker #python",
+   "d": "2025-03-15",
+   "v": 3511,
+   "s": 14,
+   "vertical": true,
+   "desc": "This is part of operation Pinocchio, turning my take on ghost rider in my daughter's power wheels into a real boy. At this juncture, I am finishing out his voice, which is a custom fine tuned neural network model using the amazing Piper python distro. I shot this as I'm taking a break from devising away to make the jaw open appropriately based on the frequency of first order formants. Yeah, nerdy cool stuff dude \ufffc"
+  },
+  {
+   "id": "Yy3uuTH_ZzU",
+   "t": "Little Timmy will be a real boy. #esp32 #servo #mechatronics #skeletor #rftc #TTS #STT #raspi #maker",
+   "d": "2025-03-19",
+   "v": 1717,
+   "s": 30,
+   "vertical": true,
+   "desc": "I am taking an existing cast-iron skull on a pant access that is RC and esp32 controlled that shoots propane from a previous project. I am making the jaw articulate.\nI use #Pipe text-to-speech to read and put text from a web server, then immediately speak that text using a custom fine tuned neural network voice model that I made to sound like skeleton.\nCap the job will open appropriately based on the \"openness\" of the jaw in American English for different valve formants. Seriously. I have this working. I just need to attach it to the jaw. \ufffc"
+  },
+  {
+   "id": "GoTZD22gGQs",
+   "t": "Turning Timmy into a real boy. #esp32 #arduino #raspi #robotics bc #mechatronics.",
+   "d": "2025-03-22",
+   "v": 2029,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nGvt0OptS0o",
+   "t": "Making Timmy a real boy #welding #fabrication #machinist #maker #rftc #robotics #esp32 #raspi #skull",
+   "d": "2025-03-27",
+   "v": 870,
+   "s": 20,
+   "vertical": true,
+   "desc": "Little Timmy was featured in my last video. He drives a pink power wheels, he's RC controlled, he has an ESP32, and his head is on fire.\nFor this project, Operation Pinocchio, I am making little Timmy a real boy. He will hear, see, speak, and generally support me as a cohost in my workshop. \ufffc"
+  },
+  {
+   "id": "s_-5o6Tip98",
+   "t": "I will turn Timmy into a real boy. #robotics #piper #tts #openai #oll\ufffcama #llm #homeassistant #agent",
+   "d": "2025-03-30",
+   "v": 930,
+   "s": 24,
+   "vertical": true,
+   "desc": "In a previous video, I made a propane igniting Pediatric skeleton drive my daughters power wheels using radio control, and ESP 32, an FPV camera, and a pan/tilt servo system.\n\nNow, that skeleton is named little Timmy, and he lives in my workshop. He is my cohost, foil, and helper.  Entirely locally run, I use faster-whisper for speech-to-text, his brain is a locally run llm with my custom pre-processing (including short term, episodic, and semantic memory), and his speech uses the piper python package with a fine tune model to sound like my imitation of Skeletor. \n\nIt's going well.  \ufffc"
+  },
+  {
+   "id": "QS0eiGtf1n8",
+   "t": "My local AI shop-buddy in process... #ollama #servo #esp32 #TTS #robotics #pipertts #maker #skull",
+   "d": "2025-03-31",
+   "v": 1174,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "cwVr1BYGds8",
+   "t": "Timmy hates weddings. #voicecloning #homeassistant  #raspberrypi  #esp32  #fft  #servos #skulls #40k",
+   "d": "2025-04-07",
+   "v": 1426,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WK7xZ1aEXno",
+   "t": "Why This Workshop Storage FAILS at Basic Organization?",
+   "d": "2025-04-09",
+   "v": 23476,
+   "s": 14,
+   "vertical": true,
+   "desc": "Witness a naturally occurring organic workshop organizational fail, which is actually a win, because I know where the hammers are"
+  },
+  {
+   "id": "eup3NmTNPy0",
+   "t": "Workshop cohost! Voice cloning and speech synthesis meets robotics, he-man, and ghostrider\ufffc.",
+   "d": "2025-04-25",
+   "v": 1158,
+   "s": 29,
+   "vertical": true,
+   "desc": "This is a multimodal project where I am using speech recognition, voice cloning, a web user interface, computer vision, and a large language model to turn my plastic and metal skeleton into a real boy, not unlike Pinocchio. It's gonna get weird. Also #arduino #raspi #mechatronics #phonemes\ufffc"
+  },
+  {
+   "id": "gmDpOLAq-zQ",
+   "t": "I'm turning little Timmy into a real boy. #\ufffcpipertts #serialwombat #servo #esp32 #raspi #opencv",
+   "d": "2025-05-20",
+   "v": 1186,
+   "s": 15,
+   "vertical": true,
+   "desc": "I am using pipertts on a raspi5 to use my personal voice clone of skeletor on a skeleton. The audio signal is converted to a fourier transform spectral analysis so spoken phonemes determine jaw openness using a servo an esp32, and a serial wombat. At present, I am trying to use that same Hardware pluc an arducam and raspi4 (that typically broadcasts a WRTC stream) to periodically run opencv haarcascade face detection, and to turn the head to look at me. Just a Monday night. \ufffc"
+  },
+  {
+   "id": "6MMY_NtapVg",
+   "t": "I'm going to make Little Timmy a real boy.  #esp32 #raspi #piper #ollama #robotics #animatronic",
+   "d": "2025-05-27",
+   "v": 4653,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "AU4ZdcSWSwk",
+   "t": "Wiring my AI Robotic Telepresence Cohost #robotics #ollama #esp32 #servo #piper #tts #diy #webrtc",
+   "d": "2025-05-30",
+   "v": 4473,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9cri99Q6ylI",
+   "t": "Speech to text for my workshop AI friend #whisper #STT #raspi #homeautomation #llm #local #diy",
+   "d": "2025-06-08",
+   "v": 1940,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "otmxyuxXRZo",
+   "t": "LLM STT song reviews. #piper #whisper #ollama #raspi #imaginedragons #STT #ghostrider #servitor",
+   "d": "2025-06-14",
+   "v": 895,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "fuPPZyH3jFs",
+   "t": "Little Little Timmy, my AI cohost. #llm #robotics #tts #stt #raspberrypi #arduino #esp32 #arduino",
+   "d": "2025-06-25",
+   "v": 1269,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0jbdbgN5qU0",
+   "t": "Best hype-android ever. #A$APA #ferg #raspi #esp32 #arduino #pipertts #whispertts #llm  #robotics",
+   "d": "2025-06-27",
+   "v": 1153,
+   "s": 28,
+   "vertical": true,
+   "desc": "Basically I didn't know what to do with the skeleton from my last project that already had a pan tilt skeleton skull and an eye socket camera. In the interim, I have imbued him with artificial intelligence and a simmering resentment of me.\n\nIt's basically a raspberry pi that does speech to text, pre-processing to handle memory for a large language model input using  ollama and (currently) llama3.2B q_4_k_something, and a second raspberry pi that does text to speech using a custom voice model (that I trained using my impersonation of Skeletor)\ufffc.\n\nThis is the last test of speech to text and text"
+  },
+  {
+   "id": "t_CBlr3IIEA",
+   "t": "AI companion meets feline companion #tts #stt #voicecloning #ollama #llm #cats #servoskull #esp32",
+   "d": "2025-06-28",
+   "v": 1538,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Joi8bVKFIiY",
+   "t": "Turning Little Timmy into a Real Boy.  #ollama #tts #stt  #deltron #skeletor #ghostrider #servoskull",
+   "d": "2025-07-11",
+   "v": 1086,
+   "s": 50,
+   "vertical": true,
+   "desc": "Biggest project I have ever embarked upon: making my own learning interactive cohost. \n-raspberry pi5 running faster-whisper STT (fine-tuned on my voice)\n-rolled my own ollama pre-processor to give it semantic and episodic memory, then feed it to llama3.2 3B q4_k_m on an RTX3060\n- raspberry pi 5 running Piper TRS, using a voice model that is fine tuned based on training data of me doing my own impersonation of Skeletor\n- John motor controlled by SP 32 that performs an FFT on incoming line audio, identifies peak frequencies between 200 and 1000 Hz, \ufffc maps that peak frequency to the correspondin"
+  },
+  {
+   "id": "t9YRee82tnc",
+   "t": "My AI\ufffc cohost hates me. #tts #stt #ollama #llm #robotics #speech  #raspberrypi #esp32 #fft",
+   "d": "2025-07-20",
+   "v": 1356,
+   "s": 57,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Qa2pS0ToKvQ",
+   "t": "My ai cohost hates me. whisper STT, ollama llama3.2 3B, custom RAG, piper TTS, and  local compute.",
+   "d": "2025-07-30",
+   "v": 731,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4vHcsgxYrZM",
+   "t": "A local AI robot cohost #ollama #gpt5 #claude #cursor #animatronics #raspi #cuda #piper #whisper",
+   "d": "2025-08-13",
+   "v": 927,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "MHiUNU96Eqc",
+   "t": "My AI cohost is a worthy adversary.",
+   "d": "2025-09-04",
+   "v": 1124,
+   "s": 60,
+   "vertical": true,
+   "desc": "Little Timmy uses OpenAI Whisper STT, custom RAG memory, ollama running llama3.2 3B instruct, Piper TTS,\ufffc opencv, webrtc, a raspi4 with h.264 hardware encoding, a neopixel running on an esp32, and a custom jaw phoneme identifier on a second esp32.\n\n\ufffcHe is also my cohost, and he is almost complete, and completely local. Full build video coming out soon. He is a worthy adversary that keeps me humble. \n\n\ufffcOh, he also uses VTIS summarization and a BLIP image caper with some custom facial recognition. He's a good boy. \ufffc"
+  },
+  {
+   "id": "rM8ChA2JI6U",
+   "t": "He is the sum of his parts. #esp32 #raspi #tts #stt #mechatronics #robotics #ollama #nin #ai #local",
+   "d": "2025-09-17",
+   "v": 2856,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hCPRoLLlSCg",
+   "t": "My locally run AI cohost #esp32 #raspi #tts #stt #mechatronics #robotics #ollama #servos #assistant",
+   "d": "2025-09-23",
+   "v": 1722,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "rcKLMtPhYzE",
+   "t": "Flaming skull local AI cohost. I use ollama, piper tts, faster-whisper, opencv, webrtc #esp32 #raspi",
+   "d": "2025-09-28",
+   "v": 1082,
+   "s": 52,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "y8g22CZk4CE",
+   "t": "Ghost Rider RPi runs local AI with fire. #esp32 #solenoid #servo #RAG #ollama #thecult",
+   "d": "2025-09-30",
+   "v": 1185,
+   "s": 16,
+   "vertical": true,
+   "desc": "Little Timmy was a pan tilt RC controlled POV skeleton head with an FPV camera in him last Halloween. He drove a Barbie power wheels that was also RC controlled through an ESP 32 intermediary between the receiver and the actuators.\n\nI didn't know what to do with him, so I thought it would be easy to make him hear, talk, think, learn, stream low latency video, summarize images, perform both face identification and recognition, and some other stuff.\n\nI did all of the above stuff, now I just need to restore his ability to create fire from his skull\ufffc, then I can finally unleash him as my cohost. \ufffc"
+  },
+  {
+   "id": "w28zdK6Steg",
+   "t": "My AI robot cohost is bad ass. This is a raspberry pi controlling two relays for pyrotechnics.",
+   "d": "2025-10-03",
+   "v": 2172,
+   "s": 27,
+   "vertical": true,
+   "desc": "Project to take an animatronic skeleton I previously used, give it the ability to hear, speak, think, see, and remember. Most importantly, changed it from a \"helpful AI assistant\" to my foil that constantly makes fun of me as a cohost on upcoming live streams.\n\nIn this video, I am transitioning his propane and ignition system to butane and an ignition system with lower electromagnetic interference.\n\nSTT: \ufffcopenai faster-whisper\nBrains: pgvector, ollama, llama3.2 3B\nTTS: \ufffcpiper\nVision: opencv and home rolled facial detection, webrtc turn/stun streaming, IMX 708 Arducam\nMotors: servos and a seria"
+  },
+  {
+   "id": "rL08l8popzU",
+   "t": "Butane, solenoids, relays, and raspberry pi. Self-hosted ai with webrtc, vision, STT, TTS, and fire.",
+   "d": "2025-10-17",
+   "v": 2922,
+   "s": 33,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zmznOPWMoeE",
+   "t": "My AI Robot Hates Me | Operation Pinocchio",
+   "d": "2025-10-28",
+   "v": 1587,
+   "s": 566,
+   "vertical": false,
+   "desc": "Late-night in the workshop, I got lonely\u2026 so I gave my skeleton a brain and made an AI companion.\nMeet Little Timmy \u2014 my ungrateful, wise-cracking AI cohost who can talk, see, hear, think, and occasionally catch on fire.\n\nIn this episode of Gears, Code, and Fire, I fuse robotics, AI, and pure chaos to create Operation Pinocchio: a half-baked mechatronic abomination powered by ESP32s, Raspberry Pi, ollama, Whisper STT, and Piper TTS. There's even a demo of the webRTC telepresence functionality with my friend Tomasz from \u200b\u2060@Mellow_labs !\nFrom jaw-synced speech to real-time face tracking, from lo"
+  },
+  {
+   "id": "jHOkBJF8Dy0",
+   "t": "My AI Companion Rules",
+   "d": "2025-11-10",
+   "v": 1612,
+   "s": 15,
+   "vertical": true,
+   "desc": "This uses PiperTTS, WhisperTTS, ollama, llama3.2_3B_q4, servos, solenoids, butane, Arducam, raspberry pi's, esp32's, adjustable LEDs, image captioning, facial recognition, face tracking, and I can't even keep track of what's crammed into this guy anymore \ufffc"
+  },
+  {
+   "id": "NAy6MGw6dh4",
+   "t": "Wood burning + PID Control",
+   "d": "2026-01-09",
+   "v": 1006,
+   "s": 44,
+   "vertical": true,
+   "desc": "Wood-burning, solo stove adjacent, secondary combustion, rocket stove resembling, workshop heating, raspberry pi controlled, solenoid valve using, web interface having, flow meter possessing, bts7960 run, ds18b20 measured, home automated shop heater. They are not just keywords, they are truth. Also, I love how #offgrid and #homesteading is represented on social media. #devo"
+  },
+  {
+   "id": "MA7UFmwQbg4",
+   "t": "My AI Cohost Mocks My Secondary Combustion.",
+   "d": "2026-01-09",
+   "v": 1025,
+   "s": 60,
+   "vertical": true,
+   "desc": "My conversational AI robot makes fun of my safety measures for my wood-burning, solo stove adjacent, secondary combustion, rocket stove resembling, workshop heating, raspberry pi controlled, solenoid valve using, web interface having, flow meter possessing, bts7960 run, ds18b20 measured, home automated shop heater. They are not just keywords, they are truth. Also, I love how #offgrid and #homesteading is represented on social media. \ufffc"
+  },
+  {
+   "id": "RfEeBlRLaJM",
+   "t": "My wood-burning stove heats my shop with a raspberry pi and a car radiator.",
+   "d": "2026-02-19",
+   "v": 2199,
+   "s": 60,
+   "vertical": true,
+   "desc": "It's basically a giant solar stove, with insulation and a smoke stack on top, made out of two 55 gallon drum drums, with some copper coil going through it, then the water gets hot and goes through a variety of solenoid valves to ensure complete safety, then goes to a radiator off an old Nissan, then back to the heater. The temperature gets measured at six points. It gets graphed and saved. Kept currently figuring out the actual heat dissipation properties of the system so I can fine-tune it and make it run automatically. #offgrid #controlsystems #raspi #solenoid #diy #thermodynamics #woodburni"
+  },
+  {
+   "id": "mRQP6eBlg6M",
+   "t": "55 gallon solo stove water heater, raspi, 3 solenoid valves, 6 temp sensors, car radiator, &  pump.",
+   "d": "2026-04-03",
+   "v": 1107,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sKry_lKkfqs",
+   "t": "Little Timmy held his own. faster-whisper: pgvector: ollama llama 3.2 3B: Piper stack",
+   "d": "2026-04-24",
+   "v": 1299,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1k8fQeR3OJk",
+   "t": "Low Latency conversational local agent.",
+   "d": "2026-05-05",
+   "v": 648,
+   "s": 32,
+   "vertical": true,
+   "desc": "Little Timmy is my unwilling cohost.\n\nubuntu 24.04\nAMD Ryzen AI Max + raspi4\nllama.cpp\npostgres vector db\npiper TTS with custom voice\nwhisper.cpp\nQwen3.6 summarization and image captioning\nLlama3.2 3B conversational agent\nTransformers based face recognition\nSpeaker voice printing"
+  },
+  {
+   "id": "vHkwphNqdi8",
+   "t": "Using Claude Code to observe and improve live, local, low latency agentic conversation.",
+   "d": "2026-05-12",
+   "v": 612,
+   "s": 40,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "76LPeFnpEMw",
+   "t": "Darth Vader voice. Transducers, Zoom Multistomp, and 501st aspirations.",
+   "d": "2026-05-23",
+   "v": 925,
+   "s": 15,
+   "vertical": true,
+   "desc": "I have been putting off submitting my application to the 501st for about seven years now. I am missing a tusk, and I am not entirely satisfied with my voice changer and fan set up. Is this where i write, \"cosplay?\""
+  },
+  {
+   "id": "vW228kxS4Zc",
+   "t": "Creating a fog cloud around one child without dousing several score of children and their parents.",
+   "d": "2026-05-25",
+   "v": 1696,
+   "s": 35,
+   "vertical": true,
+   "desc": "My friend is the director of a grammar school theatrical performance, and his only instructions to me were, \"I want the [leading character] to enter out of a brightly lit fog cloud.\" Keep in mind, there will be tons of little kids sitting around said fog cloud, and each of those little kids will have at a median of 1.5 parents who are neurotic about said fog and its affects on their children's health.\n\nTask accepted. \n\n\n#fogmachine #dmx #theaterkids #diy #makersgonnamake"
+  },
+  {
+   "id": "WaDmIbj2gWU",
+   "t": "I gave my AI robot an AI therapist. #opensauce #massiveattack #localllm #agenticai #40k",
+   "d": "2026-07-07",
+   "v": 1447,
+   "s": 29,
+   "vertical": true,
+   "desc": "Little Timmy is a locally hosted agentic AI companion that can see, hear, and remember. \n\nHardware:\nAMD Strix Halo 128GB unified\nRaspberry Pi 4\nServos: pan, tilt by serial wombat\nJaw: esp32 servo with custom phoneme to jaw openness\nRelays: solenoid butane, solenoid high-voltage igniter\n\nSoftware:\n2x Qwen 3.6 35B3AB\nQwen 3 4B tool call classifier\nLlama.cpp\nPiper TTS\nWhisper.cpp STT\nOpencv pre-processing\nPgvector RAG embeddings\n\nAnd some other stuff I can't remember right now. \ufffc"
+  },
+  {
+   "id": "nrf3p2Yv7x0",
+   "t": "See us at #opensauce this weekend. San Mateo County Convention Center.",
+   "d": "2026-07-14",
+   "v": 1370,
+   "s": 30,
+   "vertical": true,
+   "desc": "Little Timmy is my local conversational skeleton I made to resent me. He runs on an AMD Strix Halo, and is currently serving the following models, all of which are periodically invoked for Little Timmy:\nwhisper.cpp STT\nQwen3 3B (x2)\nEdgeFace\nQwen3.6 35B 3BA (x2)\nPiper TTS\n\nHe also has long-term recall for episodic memory (stuff that happened) and semantic memory (knowledge, in a database, ironically not searched semantically) \ufffc"
+  },
+  {
+   "id": "RncJJvSAVwU",
+   "t": "Meeting of the skeletons #opensauce @KevinKevinLangeLange #mechatronics",
+   "d": "2026-07-19",
+   "v": 1344,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HDWB5k96YeE",
+   "t": "Little Timmy killed it at #opensauce2026 He is a local agentic ai robot, and a worthy adversary",
+   "d": "2026-07-20",
+   "v": 1245,
+   "s": 32,
+   "vertical": true,
+   "desc": "#qwen3 #localai #llama #whisper #piper #postgresql #mechatronics #opensauce #amdryzen #raspberrypi #esp32 #diy #makersgonnamake #skeletor #voicecloning"
+  },
+  {
+   "id": "5d1a3zMLLvk",
+   "t": "I'm automating videography with #blueiris #claude #python and #esp32 's",
+   "d": "2026-07-27",
+   "v": 660,
+   "s": 23,
+   "vertical": true,
+   "desc": "Teaser for my next video where I show how I automate my entire videography process, because I am not an artist, and because videography sucks. \ufffc"
+  },
+  {
+   "id": "hHL9pSeOwYM",
+   "t": "Predator Gimbal, 80's, depth perception, edge motion tracking, object detention, oak-d",
+   "d": "2026-09-18",
+   "v": 1063,
+   "s": 54,
+   "vertical": true,
+   "desc": "This project uses a Luckfox Rockchip Omni rk3576 board that I snagged, and an OAK-D Lite stereoscopic embedded AI camera I snagged.\n\nThe plan is to use my existing implementation of simplefoc arduino/esp32 to control a three axis gimbal that houses the camera, add two IMU's, then sync the camera to my head. Only I will be able to make it locked on the target. A moving target. Or still target while I move.\n\n\nI want a predator gimbal. I need one. I want a shoulder mounted device that aims where my head is aiming. It could be great. School talent shows. Family gatherings. Locking target on nemesi"
+  },
+  {
+   "id": "ouTxNdOFa9Y",
+   "t": "9-Camera Workshop Recorder: One ESP32 Button Saves the Past (Blue Iris)",
+   "d": "2026-09-26",
+   "v": 227,
+   "s": 638,
+   "vertical": false,
+   "desc": "One button saves the last sixty seconds from my multi-camera workshop setup, so I can press record after the awesome thing happens. Parts, code and firmware: https://gearscodeandfire.com/builds/shopcam-2000\n\nI'm Dan and I hate videography.\n\nAt my second Open Sauce I kept hearing the same thing from people with amazing inventions: no YouTube channel, because filming it is miserable. So here is the system I built years ago (before this channel uploaded anything) so that filming would never be allowed to change how the engineering happens.\n\nThink of it as home automation for the workshop (the cho"
+  },
+  {
+   "id": "QRA7J0ljRNs",
+   "t": "I hate videography, so I built this button",
+   "d": "2026-09-27",
+   "v": 1727,
+   "s": 15,
+   "vertical": true,
+   "desc": "Every camera in my shop records nonstop. This button keeps the last 60 seconds from all of them, so I press it after the awesome thing happens.\n\nBuilt for people who make great things and hate filming them.\n\nESP32 button, ESP-NOW radio link, Blue Iris, 3D printed.\nFull build: 9-Camera Workshop Recorder: One ESP32 Button Saves the Past (tap the video link under my name)\nParts, code and firmware: gearscodeandfire.com/builds/shopcam-2000\n\n#esp32 #3dprinting #maker #diyelectronics"
+  },
+  {
+   "id": "OM-F-x1HoFQ",
+   "t": "Workshop multicam computer is down.",
+   "d": "2026-11-09",
+   "v": 508,
+   "s": 51,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

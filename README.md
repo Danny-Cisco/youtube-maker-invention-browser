@@ -95,6 +95,53 @@ Smaller makers (Tiny and Small channels). Their inventions were drafted automati
 | Props To History | 40 | 590 |
 | Canuck Creator | 40 | 1,183 |
 
+
+Makers found through maker events (Open Sauce, Hackaday Supercon and Europe, EMF Camp, Chaos Communication Congress; see `MAKERS_WISHLIST.md`). Also drafted with `build/auto_inventions.py`.
+
+| Maker | Inventions | Uploads |
+|---|---|---|
+| Tylon | 31 | 43 |
+| Dovetail | 3 | 3 |
+| Katie Steckles | 24 | 24 |
+| Ken Shirriff | 17 | 17 |
+| Science Shack | 17 | 17 |
+| Sprite_tm | 40 | 78 |
+| Woolybeetle | 14 | 144 |
+| Edwin Hwu | 40 | 103 |
+| Niklas Roy | 40 | 95 |
+| Chris Gammell | 17 | 22 |
+| Get Circuit Bent | 34 | 56 |
+| Debra Ansell | 40 | 58 |
+| Voja Antonic | 25 | 25 |
+| Gears, Code and Fire | 40 | 125 |
+| Helen Leigh | 10 | 14 |
+| Jenny List | 33 | 48 |
+| Tony Goacher | 40 | 156 |
+| Chris Lynas | 19 | 35 |
+| Paul Gardner-Stephen | 40 | 136 |
+| Sam Machin | 40 | 73 |
+| Mave Made | 40 | 44 |
+| ElectroNuck | 5 | 5 |
+| nerdy3d | 17 | 37 |
+| Devising Delight | 39 | 40 |
+| Andy Piper | 40 | 131 |
+| Frazer Merrick | 16 | 36 |
+| Grendel Studios | 10 | 43 |
+| Anthony Engineers | 4 | 4 |
+| Low Byte Productions | 40 | 114 |
+| Chromalock | 15 | 38 |
+| CNLohr | 40 | 245 |
+| Stephen Hawes | 40 | 136 |
+| Atarabyte | 17 | 273 |
+| Perri Karyal | 36 | 279 |
+| Attoparsec | 40 | 213 |
+| Graham Dunning | 40 | 268 |
+| Nate Scovill | 23 | 30 |
+| Mohit Bhoite | 29 | 82 |
+| Jiří Praus | 27 | 29 |
+| Shawn Hymel | 16 | 31 |
+| Banished Builds | 15 | 152 |
+
 ## View it
 
 Open `index.html` through a web address, e.g. GitHub Pages (Settings → Pages → Deploy from branch → `main`), or locally:

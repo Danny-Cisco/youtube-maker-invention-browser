@@ -1,0 +1,1242 @@
+{
+ "channel": {
+  "id": "UCMf49SMPnhxdLormhEpfyfg",
+  "title": "Stephen Hawes",
+  "handle": "@stephen_hawes",
+  "description": "I'm Stephen, and I'm working on building the LumenPnP an open source pick and place machine!",
+  "since": "2013-10-28",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_llCdsbDpHYOzeDCxQLm1JrL6VmcPHde7uQkFWJLZWl1iv3=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "5209725",
+  "subscriberCount": "68800",
+  "hiddenSubscriberCount": false,
+  "videoCount": "136"
+ },
+ "videos": [
+  {
+   "id": "wQk-eEgpL3k",
+   "t": "Solidoodle 2 Pro Yoda Print",
+   "d": "2014-09-02",
+   "v": 1843,
+   "s": 23,
+   "vertical": true,
+   "desc": "First good print on my Solidoodle 2 Pro, using ABS at 300 micron layer height."
+  },
+  {
+   "id": "cNTz4gc4Mm0",
+   "t": "Arduino Controlled Cylon Jack-O-Lantern",
+   "d": "2014-09-02",
+   "v": 1013,
+   "s": 10,
+   "vertical": true,
+   "desc": "My winning entry to the pumpkin carving competition in my dorm building.  The lights are controlled using an Arduino Duemilanove."
+  },
+  {
+   "id": "7I8N3Ve1YIM",
+   "t": "Automated Catapult Fire Version 1",
+   "d": "2014-09-02",
+   "v": 1905,
+   "s": 11,
+   "vertical": true,
+   "desc": "This is a demonstration of an automated catapult I built for a freshman engineering class."
+  },
+  {
+   "id": "VgZP9lh_0QE",
+   "t": "Automotive Catapult Fire Version 2",
+   "d": "2014-09-02",
+   "v": 1445,
+   "s": 9,
+   "vertical": true,
+   "desc": "This is a demonstration of an automated catapult I built for a freshman engineering class."
+  },
+  {
+   "id": "-ZrkO2TmGxo",
+   "t": "Spring Locking Steel Gauntlet",
+   "d": "2014-09-03",
+   "v": 2438,
+   "s": 18,
+   "vertical": true,
+   "desc": "This is a spring locking steel gauntlet that I welded for the second model of my propane flamethrower."
+  },
+  {
+   "id": "0cpoVET4_cw",
+   "t": "RFID Door Unlocking System - First Test",
+   "d": "2014-11-05",
+   "v": 1226,
+   "s": 20,
+   "vertical": true,
+   "desc": "DETAILS: www.stephenhawes.com\n\nThis is the first implementation of my RFID Door Unlocker system. It's very crudely attached to my door with tape, but proves that it is possible.\n\nThe system only unlocks the door when my RFID implant tag is presented to the scanner."
+  },
+  {
+   "id": "nF86NRvHV2w",
+   "t": "RFID Door Unlocking System - Demo",
+   "d": "2014-11-05",
+   "v": 845,
+   "s": 14,
+   "vertical": true,
+   "desc": "DETAILS: www.stephenhawes.com\n\nThis is a preliminary test of the RFID based door unlocking system I built based on an Arduino Duemilanove.\n\nThe servo turns only when my RFID implant is presented to the scanner, but denies access when the RFID card is presented."
+  },
+  {
+   "id": "ARlVV0mvtUU",
+   "t": "RFID Tag Implantation",
+   "d": "2014-11-06",
+   "v": 3673,
+   "s": 111,
+   "vertical": true,
+   "desc": "This is the procedure I had done to have an RFID tag implanted in my left hand. I had it done at Green Man Tattoo of West Hartford, CT.\n\nFor more information, visit:\nwww.stephenhawes.com"
+  },
+  {
+   "id": "G_-HX1qQIKs",
+   "t": "Homebuilt Lye Variac",
+   "d": "2015-06-02",
+   "v": 1307,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "504frBUKWCQ",
+   "t": "Wrist Mounted Flame Thrower Model 2 Walkthrough",
+   "d": "2015-07-12",
+   "v": 1369,
+   "s": 389,
+   "vertical": false,
+   "desc": "This is a walkthrough video explaining how Model 2 of my flamethrower works.\n\nhttp://www.stephenhawes.com/"
+  },
+  {
+   "id": "5dJ3SdtGl1w",
+   "t": "ATLAS Arm Episode 1 - Prototyping",
+   "d": "2015-07-12",
+   "v": 2139,
+   "s": 416,
+   "vertical": false,
+   "desc": "This is episode 1 of my 3D printed prosthetic hand project.  In it I design and construct a basic proof of concept prototype to help me design the final hand more intelligently.\n\nhttp://www.stephenhawes.com/\n\nBuilding this prosthetic is part of my UConn IDEA Grant project.  The UConn IDEA Grant is a university grant where a student is awarded funds to accomplish a project they find interesting or helpful.\n\nhttp://ugradresearch.uconn.edu/idea/"
+  },
+  {
+   "id": "fwt78ZaO8aM",
+   "t": "ATLAS Arm Episode 2 - Electronics",
+   "d": "2015-08-20",
+   "v": 1186,
+   "s": 405,
+   "vertical": false,
+   "desc": "This is episode 2 of the ATLAS Arm project! In this video, I build the basic circuit that will go in the device, find ideal locations for the muscle sensors, and tune some code to make the servo move correctly.\n\nstephenhawes.com"
+  },
+  {
+   "id": "dyBgRnOAkFo",
+   "t": "ATLAS Arm Episode 3 - The Forearm",
+   "d": "2015-08-23",
+   "v": 1118,
+   "s": 455,
+   "vertical": false,
+   "desc": "In this episode, I design the forearm, 3D print it, and install the electronics."
+  },
+  {
+   "id": "_5Qw3TeQk2M",
+   "t": "Lulzbot Taz 5 Unboxing and Review",
+   "d": "2015-08-23",
+   "v": 7431,
+   "s": 551,
+   "vertical": false,
+   "desc": "In this video, I unbox my Lulzbot Taz 5 with a .5mm nozzle, then show off some prints I've made with it, and discuss what I like about it.\n\nPATREON\n-------------\nhttps://www.patreon.com/shtr\n\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T"
+  },
+  {
+   "id": "v2rFTqVBvAI",
+   "t": "ATLAS Arm Episode 4 - The Hand and Assembly",
+   "d": "2015-09-29",
+   "v": 2538,
+   "s": 367,
+   "vertical": false,
+   "desc": "In this video, I print the hand from NinjaFlex, install the electronics, string up the fingers, and other finishing touches!\n\nstephenhawes.com"
+  },
+  {
+   "id": "Ldemb4v_baY",
+   "t": "Bringing the ATLAS Arm to Maker Faire",
+   "d": "2015-09-29",
+   "v": 1398,
+   "s": 177,
+   "vertical": false,
+   "desc": "In this video I bring the ATLAS Arm to the 2015 World Maker Faire at the New York Hall of Science!"
+  },
+  {
+   "id": "tYuW4pr6Z8U",
+   "t": "Twitter Stream Graduation Cap",
+   "d": "2017-05-22",
+   "v": 1030,
+   "s": 287,
+   "vertical": false,
+   "desc": "I made a graduation cap that live streams #stephensgradcap on Twitter!\n\nBlog Post:\nhttp://stephenhawes.com/twitter-enabled-graduation-cap/\n\nMusic: Jamie Berry - Sweet Rascal\nhttps://www.youtube.com/watch?v=3xlB7_esnao\n\nstephenhawes.com"
+  },
+  {
+   "id": "UGJqxh8WsXE",
+   "t": "ATLAS Arm Episode 5 - Version 5",
+   "d": "2017-06-15",
+   "v": 2114,
+   "s": 549,
+   "vertical": false,
+   "desc": "Finally finished Version 5! Now with DC motor, PID loop-controlled motor driver, a screen and joystick with a custom OS, and multi-material parts!\n\natlas-laboratories.com\nstephenhawes.com"
+  },
+  {
+   "id": "SQtGk01057w",
+   "t": "Car Fob Phone Case",
+   "d": "2018-01-28",
+   "v": 2517,
+   "s": 376,
+   "vertical": false,
+   "desc": "MUSIC:\nBecause I'm Me - The Avalanches\nAbrasive - Ratatat\n\nOne day build of incorporating some digital access fobs into my phone case!\n\nstephenhawes.com"
+  },
+  {
+   "id": "d3GuEupxRYY",
+   "t": "What color are my eyes? - A Scientific Approach",
+   "d": "2018-02-19",
+   "v": 726,
+   "s": 272,
+   "vertical": false,
+   "desc": "Answering a completely pointless question with computer vision! I wanted a definitive answer on whether my eyes are blue or green, so I calculated an answer with OpenCV, my Canon DSLR, and a free Sunday."
+  },
+  {
+   "id": "Jv45gD76DEM",
+   "t": "I'M MAKING A FLAMETHROWER - Part 1",
+   "d": "2018-09-08",
+   "v": 3109,
+   "s": 301,
+   "vertical": false,
+   "desc": "It's Maker Faire season, and this year it's time to get back to my roots. Here's part 1 of this year's flamethrower. Circuit design and software to follow!\n\n\nWEBSITE\n-------------\nstephenhawes.com\n\n\nFOLLOW\n-------------\nInstagram: instagram.com/sphawes\nTwitter: twitter.com/stephen_p_hawes\n\nMUSIC\n-----------\nLoud Pipes - Ratatat"
+  },
+  {
+   "id": "dCFR3QTWqnE",
+   "t": "Populating the Flamethrower Control PCB!",
+   "d": "2018-09-11",
+   "v": 1198,
+   "s": 2348,
+   "vertical": false,
+   "desc": "In which I start populating the custom PCB to control my next flamethrower (despite copious amounts of footprint mistakes)! This sucker will make its debut at World Maker Faire New York 2018!"
+  },
+  {
+   "id": "wXYVUBZqZuk",
+   "t": "Making the Exo-Arm - Flamethrower Part 2",
+   "d": "2018-09-16",
+   "v": 2711,
+   "s": 641,
+   "vertical": false,
+   "desc": "It's time to make the gauntlet for my flamethrower! I've tested some fire, but now I need to build something that mounts it all to my arm.\n\nPlus I make a propane-powered whistle, so that's cool.\n\n\nWEBSITE\n-------------\nstephenhawes.com\n\n\nFOLLOW\n-------------\ninstagram.com/sphawes\ntwitter.com/stephen_p_hawes\n\n\nMUSIC\n---------\nRock Angel by Joakim Karud https://soundcloud.com/joakimkarud\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported\u2014 CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...\nMusic promoted by Audio Library https://youtu.be/K8eRXvLL7Wo"
+  },
+  {
+   "id": "nJoeJ7d_UbU",
+   "t": "The Brains! - Flamethrower Part 3",
+   "d": "2018-09-28",
+   "v": 2864,
+   "s": 491,
+   "vertical": false,
+   "desc": "It's time for part 3 of my wrist mounted flamethrower! I made the gauntlet, now I need to give it a brain. I do some prototyping, a ton of soldering, and get some custom circuit boards! Next episode is bringing it to New York Maker Faire 2018!\n\n\nWEBSITE\n-------------\nSTEPHENHAWES.COM\n\n\nCAMERA GEAR\n----------------------\nCanon Rebel T6\n\n\nFOLLOW\n-------------\nInstagram: @sphawes\nTwitter: @stephen_p_hawes\n\n\nMUSIC\n---------\nMusic by Joakim Karud http://youtube.com/joakimkarud"
+  },
+  {
+   "id": "A_SFpVtnvXI",
+   "t": "WRIST MOUNTED FLAMETHROWER! | Stephen Hawes",
+   "d": "2018-10-06",
+   "v": 10690,
+   "s": 116,
+   "vertical": false,
+   "desc": "It's DONE!! The final part of my wrist mounted flamethrower series! I finished making it, and now it's time to bring it to Maker Faire!\n\nThanks to Lucian Chapar for all the filming help!\nlucianchapar.com\n\n\nPATREON\n-------------\nhttps://www.patreon.com/shtr\n\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @sphawes\nTwitter - @stephe"
+  },
+  {
+   "id": "LIrKvNY1IrQ",
+   "t": "6 TIPS for finishing 3D PRINTS",
+   "d": "2018-10-13",
+   "v": 1564,
+   "s": 273,
+   "vertical": false,
+   "desc": "What are the best ways to make your 3D prints look AWESOME? Here are 6 things I always do to make my parts look like they're injection molded!\n\nWEBSITE\n-------------\nSTEPHENHAWES.COM\n\n\nFOLLOW\n-------------\nInstagram - @sphawes\nTwitter - @stephen_p_hawes\n\n\nMUSIC\n---------\nMusic by Joakim Karud http://youtube.com/joakimkarud"
+  },
+  {
+   "id": "H-IJ7b26dI4",
+   "t": "Making a DIY SYNTH Module!",
+   "d": "2018-10-20",
+   "v": 63306,
+   "s": 283,
+   "vertical": false,
+   "desc": "A couple guys from work and I make a custom analog synth module! It's based on a design by Look Mum No Computer around the Curtis CEM3340 chip.\n\nLook Mum No Computer's Tutorial:\nhttps://www.lookmumnocomputer.com/projects/#/cem-3340-diy-simple/\n\nWEBSITE\n-------------\nSTEPHENHAWES.COM\n\n\nFOLLOW\n-------------\nInstagram - @sphawes\nTwitter - @stephen_p_hawes"
+  },
+  {
+   "id": "YlW3orK5RYY",
+   "t": "DIY Synth Rack and Power Supply!",
+   "d": "2018-10-27",
+   "v": 23634,
+   "s": 637,
+   "vertical": false,
+   "desc": "Last time I built a synth module, so now I need a rack and power supply to go with it! Then, we finally test the CEM3340!\n\nWEBSITE\n-------------\nSTEPHENHAWES.COM\n\n\nFOLLOW\n-------------\nInstagram - @sphawes\nTwitter - @stephentherobot"
+  },
+  {
+   "id": "64qcYRSZApI",
+   "t": "Building URBEX PIP-BOY with G3AR!",
+   "d": "2018-11-16",
+   "v": 6652,
+   "s": 437,
+   "vertical": false,
+   "desc": "SO stoked to be working with G3AR! We're gonna be making some rad urbex gadgets for y'all, starting with this Pip-Boy build! \n\nG3AR - https://www.youtube.com/user/GreekGadgetGuru\n\n\ud83d\udce6 Check out HackerBoxes for monthly DIY Projects!\nhttps://hackerboxes.com/\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\n\n\nMUSIC\n----"
+  },
+  {
+   "id": "TYNHYjqAP3I",
+   "t": "Urbex Pip-Boy Gauntlet And Circuit Board!",
+   "d": "2018-11-29",
+   "v": 3159,
+   "s": 322,
+   "vertical": false,
+   "desc": "Urbex Pip Boy returns! This DIY Pip-Boy for helping you scope out abandoned buildings is coming to life!\n\nWhile G3AR's working on his pneumatic launcher, I dove into CAD and designed a 3D printed gauntlet that holds everything onto your arm, along with whipping up a circuit board to control the whole thing!\n\n\ud83d\udce6 Check out HackerBoxes for monthly DIY Projects!\nhttps://hackerboxes.com/\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    h"
+  },
+  {
+   "id": "9HUqhPbpLTQ",
+   "t": "Stephen Hawes Live Stream",
+   "d": "2018-11-29",
+   "v": 369,
+   "s": 19,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "xjq-ptKLwbk",
+   "t": "Stephen The Robot - Channel Trailer",
+   "d": "2019-01-13",
+   "v": 2206,
+   "s": 102,
+   "vertical": false,
+   "desc": "Flamethrowers, 3D printed prosthetics, bowties, robots, all kinds of stuff! Here's the official Stephen The Robot demo reel that'll serve as my channel trailer!"
+  },
+  {
+   "id": "dVgg5dW0wlg",
+   "t": "Urbex PIP-BOY is Alive!",
+   "d": "2019-02-13",
+   "v": 5133,
+   "s": 213,
+   "vertical": false,
+   "desc": "The Urbex Pip-Boy is finally done....at least my half is! It's in the mail on its way to G3AR so he can add the pneumatic launcher!\n\n\ud83d\udce6 Check out HackerBoxes for monthly DIY Projects!\nhttps://hackerboxes.com/\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\n\n\nMUSIC\n---------\nMusic: Explore by Steezy Prime https://ww"
+  },
+  {
+   "id": "q1nSY2faLgM",
+   "t": "Introducing the GLOWTIE!",
+   "d": "2019-02-20",
+   "v": 5817,
+   "s": 229,
+   "vertical": false,
+   "desc": "Meet the GLOWTIE!\n\nKickstarter link: https://kck.st/2SQskZW\n\nThis has been a labor of love for the past year of my life, and I'm beyond excited to share it with you. It started from a goofy gift for my grandpa, then people wanted it for their weddings, and now we're here!\n\nAll schematics, code, and CAD is available on the Github page:\nhttp://www.github.com/sphawes/glowtie"
+  },
+  {
+   "id": "gFWlm-XmTc8",
+   "t": "ATTEMPTING to Cast Glowtie Parts!",
+   "d": "2019-03-07",
+   "v": 3810,
+   "s": 457,
+   "vertical": false,
+   "desc": "Me and my friend Jake take a crack at casting the Glowtie bumper in resin, and it does not go well...\n\nCheck out Jake's channel here!\nyoutube.com/makestuff\n\nGlowtie Kickstarter:\nhttps://www.kickstarter.com/projects/stephen/glowtie-making-the-bowtie-cool-again\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\nTwitter"
+  },
+  {
+   "id": "J9RYxR1O1gA",
+   "t": "Building a Programmer with the Bantam Tools Mill!",
+   "d": "2019-03-23",
+   "v": 13455,
+   "s": 270,
+   "vertical": false,
+   "desc": "The Bantam Tools team sent me a mill to play with, so I built a custom programmer for the Glowtie!\n\nI made a bunch of stuff with the mill, so stay tuned for some funky stuff I made with it!\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\n\nMUSIC\nDecouverte - Grolok Panicrum"
+  },
+  {
+   "id": "udjMCMgTEkI",
+   "t": "DIY Enamel Pins!",
+   "d": "2019-04-18",
+   "v": 28074,
+   "s": 211,
+   "vertical": false,
+   "desc": "Continuing to play with the Bantam Tools mill, making some DIY enamel pins! I used some photopolymer resin meant for 3D printing, but enamel paint should work just the same. Stay tuned for my last video about using the Bantam Tools mill where I make a 3D sculpture with integrated circuits, all out of circuit board!\n\nLucian's Website:\nlucianchapar.com\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent C"
+  },
+  {
+   "id": "lEZZu-3SJFU",
+   "t": "Microchip Implant Unlocks My Door!",
+   "d": "2019-04-25",
+   "v": 10835,
+   "s": 720,
+   "vertical": false,
+   "desc": "I set up my front door to unlock with the RFID chip implanted in my hand! Took me a couple cracks at it but I'm stoked with where it ended up.\n\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\nTwitter - @stephentherobot\n\n\nMUSIC\n---------\nMeekness by Melmel_FLH\nhttps://soundcloud.com/melmelflh/meekness"
+  },
+  {
+   "id": "PC2-D_Pk1s8",
+   "t": "I made a RETRO Google Home!",
+   "d": "2019-06-08",
+   "v": 30858,
+   "s": 444,
+   "vertical": false,
+   "desc": "I hacked my Google Home into a retro radio from the 40s! It uses the original speaker, original bulbs that STILL WORK, and it sounds great!\n\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\nTwitter - @stephentherobot\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "N4pwyMeGUwE",
+   "t": "Designing a Eurorack Sequencer!",
+   "d": "2019-06-22",
+   "v": 6853,
+   "s": 627,
+   "vertical": false,
+   "desc": "Back at the synth game! And this time we're making a sequencer that'll fit any Eurorack setup! This one is based on a design by Oskitone, but I've modified it a bit to make it work with modular systems.\n\nwww.oskitone.com\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\nTwitter - @stephentherobot\n\n\nMUSIC\n---------\nG"
+  },
+  {
+   "id": "sNqBZpdIpno",
+   "t": "DIY Synth - Sequencer!",
+   "d": "2019-07-04",
+   "v": 27765,
+   "s": 545,
+   "vertical": false,
+   "desc": "The DIY synth sequencer is done! Eurorack formatted and everything, plus, MATTE BLACK GOLD FINISH! Thanks to Oskitone, creator of the OKAY synth for the initial design!\n\nDesign files:\nhttps://github.com/sphawes/diySynth\n\nMAKER GEAR\n----------------------\nLulzbot Taz 5\n    https://amzn.to/2Fu9KRg\nWeller WLC100 Soldering Iron \n    https://amzn.to/2ORwpWS\nAgilent Multimeter \n    https://amzn.to/2S1C3bc\nStanley Component Storage \n    https://amzn.to/2OLRQbP\nSoylent Cacao \n    https://amzn.to/2Dwul4T\n\n\nFOLLOW\n-------------\nInstagram - @stephentherobot\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://so"
+  },
+  {
+   "id": "PfHq2izs3SI",
+   "t": "Can you 3D PRINT with Soylent bottles?",
+   "d": "2019-07-11",
+   "v": 7889,
+   "s": 450,
+   "vertical": false,
+   "desc": "I can't believe it works. 3D printing Soylent bottles! Thanks to a Filastruder, a blender, and a ton of patience, I was actually able to print using filament made completely from recycled Soylent bottles!\n\nCheck out Soylent! It supports the channel:\nhttps://indi.com/p/sphawes/cjepkopgxko4rtd1\n\nUse the link for $5 off your first board!\nhttps://www.allpcb.com/T6\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "ypL5pNuwXSc",
+   "t": "Building a Smartwatch from SCRATCH!",
+   "d": "2019-07-27",
+   "v": 75587,
+   "s": 530,
+   "vertical": false,
+   "desc": "My Pebble has seen better days, so I'm going to replace it with a custom smart watch! An ESP32, a display, and a battery are going into this sucker, plus a custom watch case printed on a Form 2!\n\nIn the next episode in this series, I'll get the custom PCB back from the board shop, populate it, program it, and assemble the whole thing!\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2FrreOJ\nTwitter https://bit.ly/2FArY3G\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small perce"
+  },
+  {
+   "id": "H_yaO-nTucY",
+   "t": "My Custom Smartwatch is DONE!",
+   "d": "2019-08-22",
+   "v": 93312,
+   "s": 621,
+   "vertical": false,
+   "desc": "My custom smartwatch project is finally done! Per usual, I messed up a few things, but I got it working in the end! Still have some firmware to write, but it keeps time, and even has capacitive touch!\n\nHuge thanks to ALLPCB for sponsoring this video!\nhttps://www.allpcb.com/T6\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2FrreOJ\nTwitter https://bit.ly/2FArY3G\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nPCB Holder: h"
+  },
+  {
+   "id": "pXDejbAhMK8",
+   "t": "Can I build this gadget WITHOUT LEAVING my workshop?",
+   "d": "2019-09-19",
+   "v": 6691,
+   "s": 827,
+   "vertical": false,
+   "desc": "This one was a blast, but mega-hard to do with only what I had on hand! In the end I was able to pull it off (even if I cheated a little \ud83d\ude05). \n\nFollow @stephentherobot on Instagram to stay up to date with my projects!\nhttps://www.instagram.com/stephentherobot/\n\nCheck out Alex's work here!:\nhttps://dribbble.com/plannit\n\nAgave plant print:\nhttps://www.myminifactory.com/object/3d-print-tabletop-plant-tree-agave-98264\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "K-cEN0fzwe0",
+   "t": "Maker Tool Kit - Things I Can't Live Without!",
+   "d": "2019-10-17",
+   "v": 17257,
+   "s": 888,
+   "vertical": false,
+   "desc": "These are all the tools I use!:\nPCB Holder: https://amzn.to/344qhVD\nMicroscope: https://amzn.to/348aSnw\nSoldering Iron: https://amzn.to/2KlHDGs\nWire Strippers: https://amzn.to/2IESgDV\nCutting Mat: https://amzn.to/3oNCwOz\nFlush Cutters: https://amzn.to/3ncFwnc\nDigital Calipers: https://amzn.to/3gIzZSL\nLeatherman Sidekick: https://amzn.to/3a4sQuY\nPart Organizer: https://amzn.to/3a9uDyV\nSoldering Iron Tip Cleaner: https://amzn.to/3a3wZiD\nOscilloscope: https://amzn.to/2W4zrNt\nMultimeter: https://amzn.to/2JVp6Ba\nCrimping Tool: https://amzn.to/37WymwP\nSpaceMouse: https://amzn.to/3gCWR64\nTweezers: ht"
+  },
+  {
+   "id": "dO9BP5LPpvc",
+   "t": "DIY Motorized Camera Slider! - The Mechanics",
+   "d": "2019-10-31",
+   "v": 11285,
+   "s": 554,
+   "vertical": false,
+   "desc": "Alright, it's time to build a robot for my camera! I'm making a DIY motorized camera rig that can move my camera in three axes and take some super smooth, crispy shots.\n\nJosh's Channel:\nhttps://www.youtube.com/user/CardboardEverything\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "sG5N4GXpRIU",
+   "t": "DIY CAMERA SLIDER Gets a BRAIN!",
+   "d": "2019-11-14",
+   "v": 15398,
+   "s": 349,
+   "vertical": false,
+   "desc": "\u25b6 Check out my gear on Kit: https://kit.com/stephentherobot\n\nI finally give my motion control camera slider a brain! I designed a board to control it, and throw some firmware on it to interpret GCode!\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "YqdBiOj8uXw",
+   "t": "Making a PCB Badge for Hackaday Supercon!",
+   "d": "2019-11-28",
+   "v": 7278,
+   "s": 359,
+   "vertical": false,
+   "desc": "My friend Claire and I make a custom PCB badge for the 2019 Hackaday Superconference! #badgelife\n\nHuge thanks to ALLPCB for sponsoring this video!\nhttps://www.allpcb.com/T6\n\nGithub repo for the project:\nhttps://github.com/sphawes/badgerunner\n\nHackaday.io Page:\nhttps://hackaday.io/project/168402-badge-runner\n\nsvg2shenzhen:\nhttps://github.com/badgeek/svg2shenzhen\n\nSilkscreen art:\nhttps://www.shutterstock.com/image-vector/owl-vector-illustration-1372427747?src=81bea2cb-8afc-4cf5-94c0-f4d8f09bea14-1-17\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\nAll my gear:\nhttp"
+  },
+  {
+   "id": "bGaURF-zzHE",
+   "t": "My videos will never be the same...",
+   "d": "2019-12-12",
+   "v": 10309,
+   "s": 322,
+   "vertical": false,
+   "desc": "The motion control rig (including all the code for animating camera movements) is done! This thing can shoot some SUPER cool shots. From now on, the glamor shots in my videos are going to be butter-smooth!!\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot"
+  },
+  {
+   "id": "d9XLDmjVrns",
+   "t": "Making Cookies Using ONLY My 3D Printer (feat. CyberCandle)",
+   "d": "2019-12-20",
+   "v": 3288,
+   "s": 529,
+   "vertical": false,
+   "desc": "Thanks to ALLPCB for sponsoring this video!\nhttps://www.allpcb.com/T6\n\n------------------------------------------------------------\n\nI've wondered for years if it was possible, and NOW WE KNOW. \n\nIf you're interested in the design files for the tea light, let me know in the comments! If there's interest I'll put all the files on my Github so you can make some yourself!\n\nCapacitive Touch Library Info:\nhttps://playground.arduino.cc/Main/CapacitiveSensor/\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\nAll my gear:\nhttps://kit.co/stephentherobot/my-maker-essentials\n"
+  },
+  {
+   "id": "2takVO5lI1Y",
+   "t": "Stephen Hawes // 2020 Demo Reel",
+   "d": "2020-01-02",
+   "v": 7085,
+   "s": 80,
+   "vertical": false,
+   "desc": "Here's my 2020 Demo Reel! This highlights some projects I did in 2019."
+  },
+  {
+   "id": "dAFleHaPjEY",
+   "t": "I'm Building a Pick And Place!",
+   "d": "2020-01-18",
+   "v": 64357,
+   "s": 617,
+   "vertical": false,
+   "desc": "After soldering 3,000 components by hand for the Glowtie Kickstarter, I've decided to build a pick and place! I bought an OpenBuilds Acro 55 for the X and Y axis, then I'm using a RAMPS board with Marlin Firmware for a controller. At some point, I'll integrate OpenPNP into the mix for actually telling the machine what to do. Then, I'll design custom pick and place feeder assemblies to supply components for placing. There's a lot to do!\n\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "RpHYYYTS3AQ",
+   "t": "Pick and Place Feeder - The Electronics",
+   "d": "2020-02-01",
+   "v": 22363,
+   "s": 603,
+   "vertical": false,
+   "desc": "Greetings my Goblins and Ghouls, today we embark on the Great Journey of the Feeder.\n\nPick and Place feeders provide electrical components as the machine needs them. Turns out this is a pretty tricky thing to do with super high precision! This feeder is going to be completely DIY, all made from scratch. It's ultimately going to integrate with OpenPNP, and slot into the base I built last time using the OpenBuilds Acro 55.\n\nThis episode is prototyping the electronics for the feeder, mainly the two chips that are the core to its functionality. With a little luck, these will be happily driving my "
+  },
+  {
+   "id": "ryxUCmP0ho8",
+   "t": "Pick and Place Feeder - The Mechanics",
+   "d": "2020-02-15",
+   "v": 32010,
+   "s": 608,
+   "vertical": false,
+   "desc": "Oh boy, we're really getting into it now.\n\nWe're diving into the mechanics for the Pick and Place feeder, and it's a struggle and a half. Being all DIY means designing a lot of things from scratch, and has been hard to work through. But ultimately sharing these challenges with other people is INCREDIBLY helpful for getting past issues and finding awesome solutions. \n\nPloopy Feeder Github Page: https://github.com/ploopyco/pnp-feeder/wiki\n\nFollow me on Instagram to stay up to date with my projects!\n@stephentherobot\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "v1LAoq4LmpU",
+   "t": "DIY Pick and Place Picks Parts!",
+   "d": "2020-02-29",
+   "v": 33531,
+   "s": 836,
+   "vertical": false,
+   "desc": "The DIY Pick and Place build is really coming together!\n\nIn this one I finish up the last little nugget of functionality needed to actually place parts on a circuit board! I haven't quite got OpenPNP running with it yet, but that'll be soon! I'm also working on finishing up the feeders, and getting them talking back to OpenPNP.\n\nPatreon!\nhttps://www.patreon.com/stephenhawes\n\nInstagram!\nhttps://www.instagram.com/stephentherobot\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "2foSlnGWeu0",
+   "t": "DIY Pick and Place Feeder!",
+   "d": "2020-03-14",
+   "v": 47825,
+   "s": 689,
+   "vertical": false,
+   "desc": "Holy guacamole. This was a toughie, but we got there! My pick and place DIY feeder is indexing parts! And with a custom encoder no less. I'm getting really repeatable positioning, even without implementing a control loop! Very excited to have gotten to this point, but still lots of good improvements to make. I'd love to hear thoughts from y'all on the build and things you think could be improved!\n\nPatreon: https://www.patreon.com/stephenhawes\n\n\nMUSIC\n---------\nGarbage - The Deli\nhttps://soundcloud.com/the-deli/1252am"
+  },
+  {
+   "id": "pKZi71ofzjw",
+   "t": "Controlling 30 PnP Feeders!",
+   "d": "2020-03-28",
+   "v": 35517,
+   "s": 865,
+   "vertical": false,
+   "desc": "So I built a feeder for my pick and place, but how to I control it? And what about when there's THIRTY of them!? Herein lies the answer...\n\nI designed a board I'm calling the Piggyback board that lets OpenPNP control up to 30 (well actually 32) feeders. It uses an ATMEGA32u4, along with a whole bunch of I/O expanders so I have a bunch of pins to use. I thought this board was going to be easy, but it was a real toughie!\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nThank you so much to my lovely Patrons:\nAdam Wentworth\nAdnan Jafferjee\nAlex Madinger\nAndrew \"Orlopzi\" Hawes\nBlake Ro"
+  },
+  {
+   "id": "6Sa9jNhaRbg",
+   "t": "Scratch-Built Pick and Place!",
+   "d": "2020-04-11",
+   "v": 37125,
+   "s": 685,
+   "vertical": false,
+   "desc": "It's time to build the Pick and Place frame from scratch! I've been using the Openbuilds Acro 55 for testing and prototyping, but the time has come to make my own machine. This design is going to allow me to add on all the extra goodies I want to incorporate down the road!\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nThanks to all my Patrons!\nAdam Wentworth\nAdnan Jafferjee\nAlex Madinger\nAndrew Hawes\nBlake Roetzel\nChristian Dalentoft\nDaniel\nDiana Giulietti\nEnrique Ortiz Pasamontes\nJake Misra\nLinus Gustavsson\nLisa Risley\nMiroslav Zuzelka\nMixermic\nTom Murray"
+  },
+  {
+   "id": "an5PXKHXsvQ",
+   "t": "Getting Going with OpenPnP!",
+   "d": "2020-04-25",
+   "v": 74200,
+   "s": 1147,
+   "vertical": false,
+   "desc": "It's finally time to use OpenPnP! So far, I've just been writing Gcode by hand to test out my DIY pick and place, but now we're stepping it up to the big-leagues. But first, I've got some things to set up before it's ready to connect to OpenPnP.\n\nCheck out my Patreon! All support directly impacts what I'm able to make in these videos, and is appreciated tremendously.\nhttp://www.patreon.com/stephenhawes\n\nMy wonderful Patrons:\n\nAdam Wentworth\nAdnan Jafferjee\nAlex Madinger\nAlexander Guy\nAndrew Hawes\nAndy McBlane\nBastian\nBen Williams\nBlake Roetzel\nChristian Dalentoft\nDaniel\nDiana Giulietti\nEnrique"
+  },
+  {
+   "id": "GtZcnIEi710",
+   "t": "The Index - An Open Source Pick And Place",
+   "d": "2020-05-09",
+   "v": 51997,
+   "s": 220,
+   "vertical": false,
+   "desc": "Hey there Goblins and Ghouls! The V1 source for the Index Pick and Place is finally up! It was fun making a little video about the project, but I'm looking forward to getting back into the builds for the next one!\n\nIndex Github Repo:\nhttps://github.com/sphawes/index\n\nIndex Parts List:\nhttps://docs.google.com/spreadsheets/d/1N7jMZ2upi8-9_jjJnl2xC9bYtZuE1wX5Qzoa-qs21eY/edit?usp=sharing\n\nDiscord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nPatreon:\nhttps://patreon.com/stephenhawes\n\nThanks so much to my lovely Patrons!\nAdam Wentworth\nAdnan Jafferjee\nAlex Madinger\nAlexander Guy\nAndreas Zapfl\nAndr"
+  },
+  {
+   "id": "BFOmYFK7eTA",
+   "t": "Dispensing Paste With My Pick and Place!",
+   "d": "2020-05-23",
+   "v": 59603,
+   "s": 771,
+   "vertical": false,
+   "desc": "So we've got the machine placing components, but this time we're tackling the step that comes before: solder paste! Most of the time, the paste is added to the board with a stencil, but I want to automate the whole process with a paste dispenser mounted to the pick and place's head!\n\nCheck out my Patreon! \nhttp://www.patreon.com/stephenhawes\n\nThanks to my lovely Patrons!:\n_Om3ga\nAdam Wentworth\nAdnan Jafferjee\nAlex Madinger\nAlexander Guy\nAndreas Zapfl\nAndrew Hawes\nAndy McBlane\nAxel Just\nBastian\nBen Holmes\nBen Williams\nblake carpenter\nBlake Roetzel\nBPS.space\nBruce Wattendorf\nChris Harten\nChris M"
+  },
+  {
+   "id": "3syHaZtxuko",
+   "t": "Automatic Soldering On My Pick and Place!",
+   "d": "2020-06-06",
+   "v": 56476,
+   "s": 746,
+   "vertical": false,
+   "desc": "It can add the paste, it can place the parts, now it just has to solder them! Through a BUNCH of trial and error, I hacked the Index pick and place to reflow components. I'm still working on a more permanent solution, but this proof of concept actually worked!\n\nMy Patreon!\nhttps://www.patreon.com/stephenhawes"
+  },
+  {
+   "id": "u61tp6eWHn8",
+   "t": "Universal Pick and Place Controller!",
+   "d": "2020-06-20",
+   "v": 45123,
+   "s": 783,
+   "vertical": false,
+   "desc": "Designing this board as a universal pick and place controller was a total blast, but I'm not sure if I included everything I should have! Let me know in the comments if there's stuff I left out, or things I should remove in the next revision! I want this board to work for most (if not all) pick and place builds.\n\nBoard Design on PCBWay: https://www.pcbway.com/project/shareproject/Index_PnP_Motherboard_REV000_1.html\n\nMy Patreon!: https://www.patreon.com/stephenhawes\n\nIndex Github: https://github.com/sphawes/index\n\nRetrocution's USB Hub Project: https://www.retrocution.com/2020/01/15/easy-diy-ti"
+  },
+  {
+   "id": "0Qp0dkXHmo4",
+   "t": "Giving my Pick and Place VISION",
+   "d": "2020-07-04",
+   "v": 33351,
+   "s": 728,
+   "vertical": false,
+   "desc": "Adding cameras to a pick and place lets you get way more precise with your placement! In this one I take a crack at integrating an upwards and downwards camera along with ring lights into the Index PnP.\n\nPCBWay Board Link:\nhttps://www.pcbway.com/project/shareproject/Index_PnP_Ring_Light_REV000.html\n\nPatreon:\nhttps://www.patreon.com/stephenhawes\n\nIndex Repo:\nhttps://www.github.com/sphawes/index\n\nThanks to PCBWay for sponsoring this video!"
+  },
+  {
+   "id": "sPFbkTEJZhU",
+   "t": "Upgrading the Pick and Place Frame!",
+   "d": "2020-07-18",
+   "v": 24093,
+   "s": 972,
+   "vertical": false,
+   "desc": "I've been using the same mechanical design for my pick and place design for a while now, and it was in desperate need of some changes. In this one I go through and redesign all the printed parts, and build up a much better machine than I had before!\n\nThank you to PCBWay for sponsoring this video! https://www.pcbway.com/\n\nCheck out my Patreon!: https://www.patreon.com/stephenhawes"
+  },
+  {
+   "id": "6nYbVT_qe1o",
+   "t": "Vacuum Sensors Are My Nemesis",
+   "d": "2020-08-01",
+   "v": 20771,
+   "s": 765,
+   "vertical": false,
+   "desc": "This one was quite a struggle. But in the end I VANQUISHED THEE, FOUL SENSOR...kinda. I picked a pump that's going to work well with the rest of the system, and found a way to monitor the vacuum inside the pneumatic line!\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com\n\nPatreon:\nhttps://www.patreon.com/stephenhawes"
+  },
+  {
+   "id": "aaHZl7ndu5E",
+   "t": "The Circuit Board That Builds Circuit Boards",
+   "d": "2020-08-15",
+   "v": 37254,
+   "s": 900,
+   "vertical": false,
+   "desc": "The next-gen of the Index PnP controller board has been completed! Of course, there's always improvements to make, but this one is streets ahead of my last crack at it.\n\nThanks to PCBWay for sponsoring this video! You can get the board made here:\nhttps://www.pcbway.com/project/shareproject/Index_PnP_Motherboard_REV001.html\n\nSupport on Patreon is appreciated tremendously!:\nhttps://www.patreon.com/stephenhawes"
+  },
+  {
+   "id": "dbRtQj1PdRs",
+   "t": "Makercast - Episode 20",
+   "d": "2020-09-06",
+   "v": 5438,
+   "s": 8981,
+   "vertical": false,
+   "desc": "Maker Cast is a monthly live show featuring a bunch of YouTube makers. Join us as we talk about making stuff, new trends, and our latest projects!\nThe show is hosted on a different Maker\u2019s channel each month.\n\nPrevious Episodes: https://www.youtube.com/playlist?list=PLjUbKCHhzPExbaaFm7bhkFP-dv3nD02Y2 \n\n@AppliedProcrastination \nhttps://www.youtube.com/AppliedProcrastination\nhttps://twitter.com/AppliedProc\nhttps://twitter.com/SimenZhor\nhttps://www.facebook.com/AppliedProc\nhttps://github.com/AppliedProcrastination\n\n@bitluni \nhttps://youtube.com/bitlunislab\nhttp://bitluni.net\nhttps://twitter.com/b"
+  },
+  {
+   "id": "uk_gvd5PMLI",
+   "t": "Circuit Board Origami",
+   "d": "2020-09-19",
+   "v": 10782,
+   "s": 292,
+   "vertical": false,
+   "desc": "What if you could do origami with circuit boards? What if PCBs could be three-dimensional, and run traces through 3D space? After hours of sanding, I found out.\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nAll the tools I use:\nhttps://kit.co/stephentherobot/my-maker-essentials\n\nFollow:\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2FrreOJ\nTwitter https://bit.ly/2FArY3G\n\nInspiration:\nNick Poole's awesome talk about PCB hacking: https://www.youtube.com/watch?v=rAXmzt-_NZ4\nhttps://hackaday.io/"
+  },
+  {
+   "id": "jyicTLhCzh8",
+   "t": "Pick and Place Tool Changing!",
+   "d": "2020-10-03",
+   "v": 27216,
+   "s": 640,
+   "vertical": false,
+   "desc": "The Index gets toolchanging! A creative idea in the hobbyist PnP community lets you change nozzle tips just by moving the nozzle in and out of this holster! We'll also upgrade the heck out of the mounting panel in the machine, and update the up-camera mount so it keeps everything steady as can be.\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Github Repo:\nhttps://github.com/sphawes/index\n\nThese are all the tools I use:\nhttps:/"
+  },
+  {
+   "id": "EnK9bekxUig",
+   "t": "The Return of the Feeder",
+   "d": "2020-10-17",
+   "v": 20625,
+   "s": 835,
+   "vertical": false,
+   "desc": "The feeder lives! We're diving back in, and this time we're packin' two motors, RS-485, and a cheeky film tensioning situation. And of course, plenty of mistakes.\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Github Repo:\nhttps://github.com/sphawes/index\n\nThese are all the tools I use:\nhttps://kit.co/stephentherobot/my-maker-essentials\n\nFollow:\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2FrreOJ\nTwitter https://bit."
+  },
+  {
+   "id": "pVGoxflJ6o4",
+   "t": "A Fully Functional PnP Feeder!",
+   "d": "2020-10-31",
+   "v": 25697,
+   "s": 685,
+   "vertical": false,
+   "desc": "After months of effort, four PCB versions, and lots of 3D prints, this feeder design finally works! Turns out: active film peeling is a game changer, and I should have switched to it weeks ago. I'm excited to get it talking to the motherboard!\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Github Repo:\nhttps://github.com/sphawes/index\n\nThese are all the tools I use:\nhttps://kit.co/stephentherobot/my-maker-essentials\n\nFollow:\nTw"
+  },
+  {
+   "id": "zRlVC_bjA3Q",
+   "t": "Teaching Feeders To Speak RS-485!",
+   "d": "2020-11-14",
+   "v": 23289,
+   "s": 714,
+   "vertical": false,
+   "desc": "With some firmware updates and a new feeder floor, we've got the feeders talking to the motherboard over RS-485! They're set receive commands all gosh-darn day long. Thank goodness for electrical standards.\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/project/member/shareproject/?bmbno=E1A4A92D-3687-40\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\nThese are all the tools I use:\nhttps://kit.co/stephentherobot/my"
+  },
+  {
+   "id": "naZ0Wzpr_Hk",
+   "t": "Custom PnP Controller: The Final Chapter",
+   "d": "2020-11-28",
+   "v": 44354,
+   "s": 894,
+   "vertical": false,
+   "desc": "The motherboard for the Index Pick and Place is pretty much done! Vacuum sensing finally works, it boots Marlin, and it looks frickin' rad. From here on out it's firmware tweaks and configuration. Feels good to finally have this finished!\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/project/member/shareproject/?bmbno=E1A4A92D-3687-40\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\nThese are all the tools I use:\nh"
+  },
+  {
+   "id": "hey2Vm5Hb9k",
+   "t": "Switching the Index PnP to FreeCAD!",
+   "d": "2020-12-12",
+   "v": 42480,
+   "s": 847,
+   "vertical": false,
+   "desc": "It's time to switch from Fusion 360 to FreeCAD! Not only does this mean the Index PnP is now designed using all Open Source Software, but it also means you can make contributions to the CAD in the Github repo! In the process of switching over, I made a ton of changes that make everything work much smoother and more precisely.\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/project/member/shareproject/?bmbno=E1A4A92D-3687-40\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick "
+  },
+  {
+   "id": "QEt8pGoKgL0",
+   "t": "Stephen Hawes // 2021 Channel Trailer",
+   "d": "2020-12-26",
+   "v": 13232,
+   "s": 95,
+   "vertical": false,
+   "desc": "Stephen Hawes // 2021 Channel Trailer\n\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2FrreOJ\nTwitter https://bit.ly/2FArY3G\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nPCB Holder: https://amzn.to/344qhVD\nMicroscope: https://amzn.to/348aSnw\nSoldering Iron: https://amzn.to/2KlHDGs\nWi"
+  },
+  {
+   "id": "hnVti81RqtE",
+   "t": "PnP Feeder Addressing: 1-Wire to the Rescue!",
+   "d": "2021-01-23",
+   "v": 57424,
+   "s": 1017,
+   "vertical": false,
+   "desc": "We've finally settled on a method of addressing the feeders: an EEPROM! The DS2431 1-Wire EEPROM lets us store a feeder floor address super easily, plus we can even program it using the feeder itself!\n\nThank you so much to PCBWay for sponsoring this video!\nhttps://www.pcbway.com/project/member/shareproject/?bmbno=E1A4A92D-3687-40\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly/2"
+  },
+  {
+   "id": "GEBCCFdDgAU",
+   "t": "Full Time",
+   "d": "2021-02-06",
+   "v": 13996,
+   "s": 299,
+   "vertical": false,
+   "desc": "thank you.\n\n\nif not for you watching my videos, leaving comments, being Patrons, and helping out with Index development, I would not be able to make this my job.\n\na bit more about what's happening:\nI bought a house in Pittsburgh! the mortgage is quite a bit less than rent in Somerville, and gets me a tremendous amount more space to work on larger projects, start making Indexes, and other shenanigans. as i write this, I'm in my house working on renovations and getting things set up for Index development. \n\nas of now, not much will change for the channel. I'm still shooting to post videos every "
+  },
+  {
+   "id": "WmlhfJ_X49Y",
+   "t": "Mid-Scale Manufacturing",
+   "d": "2021-02-20",
+   "v": 29217,
+   "s": 737,
+   "vertical": false,
+   "desc": "All my equipment is still packed up from the move, so this time I'm talking a bit about the Index and what the plan is moving forward! The whole genesis of the project is the idea of Mid-Scale Manufacturing, or making ~500-5000 of a product a year, but doing it yourself, not hiring a Contract Manufacturer to make them for you. I wrote a bit about this a year ago: http://stephenhawes.com/level-2-manufacturing/\n\nCheck out Seon's Channel!\n@UnexpectedMaker https://www.youtube.com/c/UnexpectedMaker\n\nPrusa's Video:\nhttps://youtu.be/xX3pDDi9PeU?t=1406\n\nAn article about starting to do mid-scale manufa"
+  },
+  {
+   "id": "MMD0pBs4DlU",
+   "t": "Running Multi-Feeder Jobs!",
+   "d": "2021-03-06",
+   "v": 28173,
+   "s": 629,
+   "vertical": false,
+   "desc": "We are finally running multi feeder jobs! OpenPnP is controlling the whole shebang, and Marlin is handling everything, including feeder control! We got some great results with the repeatability of the feeders. With some bottom vision for alignment, we're in good shape!\n\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://b"
+  },
+  {
+   "id": "AKs4A5mXDfE",
+   "t": "Building a Conveyor for the Pick and Place!",
+   "d": "2021-03-20",
+   "v": 32596,
+   "s": 794,
+   "vertical": false,
+   "desc": "It's time to build a conveyor! Being able to automatically move PCB panels into the pick and place for assembly, then move them out afterwards is the first step in allowing us to chain multiple machines together, and ultimately automate the whole assembly process!\n\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\n-- FOLLOW --\n\nTwitch https://bit.ly/32q4pDG\nInstagram https://bit.ly"
+  },
+  {
+   "id": "JIuBd-K8M5o",
+   "t": "PnP Conveyor Belt gets Motorized Clamps!",
+   "d": "2021-04-03",
+   "v": 35456,
+   "s": 1105,
+   "vertical": false,
+   "desc": "We took a crack at making a conveyor belt for the pick and place, but it was not without its problems. This time, I take your advice and do a bit of a redesign, along with figuring out how to clamp down a panel that's ready to be populated!\n\nALSO check out the new Index Machines merch!:\nhttps://indexmachines.bigcartel.com/\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/sphawes/index\n\n-- FOLLOW"
+  },
+  {
+   "id": "0I7ByPwgO54",
+   "t": "PnP Calibration with Computer Vision!",
+   "d": "2021-04-17",
+   "v": 47491,
+   "s": 999,
+   "vertical": false,
+   "desc": "So far, all of the component placement with the Index PnP has been dead reckoning; we THINK we know where things are, and so we place them blind. But now, we're adding in active, real-time calibration based on a computer vision pipeline built into OpenPnP! And our accuracy is about to go through the roof!\n\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nCheck out Index Machines merch!:\nhttps://indexmachines.bigcartel.com/\n\nIndex Pick and Place Gi"
+  },
+  {
+   "id": "TGM3GY2muHw",
+   "t": "Detecting Circuit Boards with Sound!",
+   "d": "2021-05-01",
+   "v": 17822,
+   "s": 819,
+   "vertical": false,
+   "desc": "The last little nugget of the conveyor system that needs to be prototyped is a method of detecting the edge of the panel! If we know about where the panel is, then OpenPnP's fiducial calibration can take calibration from there. In this one I test out a couple different ways to do this!\n\nGet modules in PCBWay store https://www.pcbway.com/project/gifts.html\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nCheck out Index Machines merch!:\nhttps://ind"
+  },
+  {
+   "id": "EN0TxylB010",
+   "t": "The Index Gets Proper Belt Tensioning!",
+   "d": "2021-05-15",
+   "v": 20545,
+   "s": 896,
+   "vertical": false,
+   "desc": "It's time to start validating the machine, but before we do, there's one final pass of CAD changes to make! Tensioning the belts has been a struggle, having to pull the belts taught and also screw down the clamp, while only being able to tighten to tooth-width increments. Things are about to get a whole lot easier!\n\nGet modules in PCBWay store https://www.pcbway.com/project/gifts.html\n\nMcMaster Catalog by the wonderful Nostalgia Purgatory:\nhttps://nostalgiapurgatory.com/\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenha"
+  },
+  {
+   "id": "Ik-g1gQoSt4",
+   "t": "Index Validation - We've got a mystery!",
+   "d": "2021-05-29",
+   "v": 15365,
+   "s": 574,
+   "vertical": false,
+   "desc": "Now that we've got a nice solid design for the frame of the Index with proper belt and roller tensioning, we can dive into running some validation tests! This first one that we're running is checking to see how repeatable the X and Y positioning of the nozzle is using OpenCV, an awesome computer vision library. Looking at the data yields some pretty strange results...\n\nGet modules in PCBWay store https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!"
+  },
+  {
+   "id": "a_ZMSYIhoUQ",
+   "t": "2021 Shop Tour!",
+   "d": "2021-06-12",
+   "v": 14916,
+   "s": 807,
+   "vertical": false,
+   "desc": "I've been in my new house for a few months now, and after a ton of work I've finally finished renovating the shop! A ton of friends helped me get it from a dingy little storage room into a bright, clean, and organized space to kick butt.\n\nGet modules in PCBWay store https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon!\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server!:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Machines merch!:\nhttps://indexmachines.bigcartel.com/\n\nIndex Pick and Place Github Rep"
+  },
+  {
+   "id": "s5ayC8IlhFU",
+   "t": "Index Machines: Our first product!",
+   "d": "2021-06-26",
+   "v": 28503,
+   "s": 642,
+   "vertical": false,
+   "desc": "And so it begins! After running some First Article Inspection measurements, the Index Machines store is officially open and taking preorders for the Staging Plate. \n\nIf you want to grab one for your Index build, check it out!:\nhttps://shop.indexmachines.io/\n\nIn light of opening this store, I want to reiterate: I am committed to keeping this project open source, and making sure you don't have to go through me and Index Machines to get an Index. Selling Index parts (and eventually the full machine) is to help fund R&D, and to get machines to folks that don't want to build one themselves. Also, a"
+  },
+  {
+   "id": "0T4SBiYb0Ns",
+   "t": "Open Source Makes Better Designs - Index PnP - Mobo REV03",
+   "d": "2021-07-24",
+   "v": 28255,
+   "s": 649,
+   "vertical": false,
+   "desc": "Thanks to the incredible efforts of Index dev Gon\u00e7alo, we have a controller for the Pick and Place that not only fixes all my silly mistakes from the last version, but has been developed along with the community, taking advice and guidance from y'all along the way.\n\nCheck Gon\u00e7alo out here!: https://g-pereira.github.io\n\nGet modules in the PCBWay store: https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex "
+  },
+  {
+   "id": "ZVnaMl1WV4A",
+   "t": "Index PnP Assembles Circuit Boards!",
+   "d": "2021-08-07",
+   "v": 24593,
+   "s": 671,
+   "vertical": false,
+   "desc": "So awesome to have the Index actually do some useful work, populating ring lights for a batch of machines I'm assembling! I had confidence it would be able to do this based on previous validation tests, but to actually have it do the thing it's designed to do, full stack, feels incredible.\n\nGet modules in the PCBWay store: https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nh"
+  },
+  {
+   "id": "mjsjViTgzeI",
+   "t": "Sourcing Parts for a Hardware Product",
+   "d": "2021-08-21",
+   "v": 32391,
+   "s": 759,
+   "vertical": false,
+   "desc": "Lucian has been working hard on sourcing parts for the Index Pick and Place, getting in samples and negotiating with vendors! In this one, I build up three PnPs to use for motherboard assembly, and Lucian gets into how he works his magic and finds suppliers for all the items in the machine.\n\nGet modules in the PCBWay store: https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\n"
+  },
+  {
+   "id": "gicoRcQYhlA",
+   "t": "These Are a Game Changer for PCB Production",
+   "d": "2021-09-04",
+   "v": 121770,
+   "s": 882,
+   "vertical": false,
+   "desc": "With Mobo REV03 released, we'll need some way to test them as they come off the line! In this video, I dive into designing and assembling a couple boards that will automatically test them and ensure they're production-ready!\n\nGet modules in the PCBWay store: https://www.pcbway.com/project/gifts.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/index-machines/index\n\n-- FOLLOW --\n\nTwitch https"
+  },
+  {
+   "id": "MpwVl5LJBy8",
+   "t": "This Machine Finds Soldering Mistakes",
+   "d": "2021-09-18",
+   "v": 61126,
+   "s": 594,
+   "vertical": false,
+   "desc": "The pogo pin programmer jig for the Index Motherboard is nearing completion! Last time, I got all the electronics designed and operating, but in this episode Lucian and I work on getting the mechanics of the jig together. The last step is software, then we'll be testing boards easy peasy!\n\nCheck out the REV03 Motherboard on PCBWay!: https://www.pcbway.com/project/shareproject/Index_Motherboard_REV03.html\n\nPogo Pin Jig Examples:\nhttps://learn.adafruit.com/how-to-make-a-pogo-pin-test-jig\nhttps://hackernoon.com/take-your-pogo-jig-to-the-next-level-c016b483d6fc\nhttps://www.crowdsupply.com/tinyfpga"
+  },
+  {
+   "id": "g2478l8GVkk",
+   "t": "Fully Automated PCB Testing",
+   "d": "2021-10-02",
+   "v": 44408,
+   "s": 809,
+   "vertical": false,
+   "desc": "The fully automatic motherboard test jig is done! I wrote code solid for like two weeks straight, and now we have a machine that flashes test firmware to the board being tested, checks every pin and peripheral, and prints out a report of what passed and failed! It feels so good to have this thing working, and I'm excited to use it on the production line!\n\nBlack Magic Probe:\nhttps://1bitsquared.com/collections/embedded-hardware/products/black-magic-probe\n\nPiotr's Channel:\nhttps://youtube.com/c/PiotrEsdenTempski\n\n-------------------------------------------------------------------\n\nCheck out my P"
+  },
+  {
+   "id": "JMQgIM53zQM",
+   "t": "How to Panelize PCBs in KiCAD",
+   "d": "2021-10-16",
+   "v": 59789,
+   "s": 882,
+   "vertical": false,
+   "desc": "Panelizing a PCB makes it much easier to assemble a bunch of them on a Pick and Place! This is how I went through and panelized the Index PnP motherboard and ring light using KiCAD.\n\nLet me know in the comments if you've ever used KiKit for automatic panelization!\n\nKiKit:\nhttps://github.com/yaqwsx/KiKit\n\nA tutorial that helped me figure out how to do this panelization procedure:\nhttps://www.pcbway.com/blog/PCB_Design_Layout/Manual_panelizing_of_PCBs_with_tabs_and_mouse_bites_in_Kicad.html\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.pa"
+  },
+  {
+   "id": "ISUOGHvOcKE",
+   "t": "Setting up an SMT line at home!",
+   "d": "2021-10-30",
+   "v": 39189,
+   "s": 821,
+   "vertical": false,
+   "desc": "We're preparing to make a bunch of motherboards, so Lucian and I have been setting up an SMT production line in the shop!\n\nSeon's Channel: https://www.youtube.com/c/UnexpectedMaker\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/index-machines/index\n\nIndex Machines Shop!:\nhttps://shop.indexmachines.io/\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagra"
+  },
+  {
+   "id": "DrwvorYolqU",
+   "t": "The Index Pick and Place Can Build Itself",
+   "d": "2021-11-13",
+   "v": 139439,
+   "s": 651,
+   "vertical": false,
+   "desc": "It works!\n\nThank you to everyone that's been a part of this project, be it through watching videos, leaving comments, building an Index, or being part of development.\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/index-machines/index\n\nIndex Machines Shop!:\nhttps://shop.indexmachines.io/\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter http"
+  },
+  {
+   "id": "H8X38fbqWUM",
+   "t": "We Got a Cease and Desist",
+   "d": "2021-12-04",
+   "v": 33878,
+   "s": 485,
+   "vertical": false,
+   "desc": "Unfortunately not clickbait! We received a cease and desist letter in the mail, and now we're choosing to adopt a new name. \n\nUS trademark search tool:\nhttps://tmsearch.uspto.gov/bin/gate.exe?f=searchss&state=4808:aymogo.1.1\n\nStartup episode about naming:\nhttps://gimletmedia.com/shows/startup/emhw6d/gimlet-5-how-to-name-your-company\n\nSupercon video:\nhttps://youtu.be/YqdBiOj8uXw\n\nCompanies mentioned:\nhttps://www.bantamtools.com/\nhttps://www.adafruit.com/\nhttps://formlabs.com/\nhttps://carbide3d.com/\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps"
+  },
+  {
+   "id": "e_WSFvBg8EU",
+   "t": "Outgrowing the Garage",
+   "d": "2021-12-18",
+   "v": 26751,
+   "s": 640,
+   "vertical": false,
+   "desc": "So unbelievably grateful. We've been given an incredible opportunity. Things are moving fast, and I couldn't be more excited.\n\nInformation about SAFE Notes:\nhttps://www.ycombinator.com/documents/\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/index-machines/index\n\nIndex Machines Shop!:\nhttps://shop.indexmachines.io/\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/s"
+  },
+  {
+   "id": "NOsqTBpNuUM",
+   "t": "Stephen Hawes // 2022 Channel Trailer",
+   "d": "2022-01-15",
+   "v": 27753,
+   "s": 88,
+   "vertical": false,
+   "desc": "It's been an absolutely incredible year, and I couldn't be more stoked to dive into the next one.\n\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nIndex Pick and Place Github Repo:\nhttps://github.com/index-machines/index\n\nIndex Machines Shop!:\nhttps://indexmachines.io/\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- PO BOX --\n\nStephen Hawes\nPO Box 44248\nPitts"
+  },
+  {
+   "id": "Ku4Wvu6LsrU",
+   "t": "Packaging the Pick and Place (Plus Our New Name!)",
+   "d": "2022-01-29",
+   "v": 31036,
+   "s": 586,
+   "vertical": false,
+   "desc": "After a few months of work, Lucian's done designing packaging for the pick and place kit! With a few drop tests, we've confirmed it'll survive the worst a shipping company might expose it to. \n\nWe're really excited to announce our new name: Opulo! It's been literally months of testing names, checking for domains, brainstorming, and talking with our lawyer. Based on the word \"populate\" and \"operation\", we rearranged some letters into something we liked the sound of. Thanks for all the advice and name suggestions!\n\nFedEx Drop Test Guidelines:\nhttps://www.fedex.com/content/dam/fedex/ca-canada/MVP"
+  },
+  {
+   "id": "750vFmWHZTs",
+   "t": "LumenPnP - Desktop Pick and Place Machine",
+   "d": "2022-02-12",
+   "v": 59849,
+   "s": 139,
+   "vertical": false,
+   "desc": "https://opulo.io/"
+  },
+  {
+   "id": "InALPtKrGXU",
+   "t": "Using The LumenPnP v2 In Production!",
+   "d": "2022-02-26",
+   "v": 83591,
+   "s": 655,
+   "vertical": false,
+   "desc": "You asked, so here it is! I'll show ya the whole process of running a job on a LumenPnP!\n\nYou can pick one up here!: https://opulo.io/\n\nLumenPnP Docs: https://docs.opulo.io/\n\nOpenPnP Docs: https://github.com/openpnp/openpnp/wiki/Quick-Start\n-------------------------------------------------------------------\n\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/index-machines/index\n\nOpulo Site:\nhttps://opulo.io/\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https:/"
+  },
+  {
+   "id": "3Dbepd28YaQ",
+   "t": "This Machine Saves Me HOURS",
+   "d": "2022-03-12",
+   "v": 70760,
+   "s": 619,
+   "vertical": false,
+   "desc": "We've been buying and building machines that help us make kits, and it's saved us SO much time.\n\nYou can get a kit here!: https://opulo.io/\n\nHere's the belt cutting machine we bought: https://www.ebay.com/itm/402383044048\n-------------------------------------------------------------------\nFootage courtesy of:\nhttps://www.youtube.com/watch?v=46riSuuRu8c\nhttps://www.youtube.com/watch?v=vbzBLAvkEtU\nhttps://www.youtube.com/watch?v=BCHYjduIgQY\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\n"
+  },
+  {
+   "id": "qnHBXNsx6cU",
+   "t": "Designing a Feeder Protocol",
+   "d": "2022-04-02",
+   "v": 26787,
+   "s": 619,
+   "vertical": false,
+   "desc": "A tremendous thank you to all of the open-source contributors that helped figure out how to talk to feeders! We've got a great system set up, and one that will let us do all kinds of cool things with feeders (and other peripherals) in the future.\n\nYou can get a LumenPnP kit here!: https://opulo.io/\n\nExcellent video from Ben Eater describing CRCs:\nhttps://www.youtube.com/watch?v=izG7qT0EpBw\n\nFootage courtesy of:\nhttps://www.youtube.com/watch?v=0NpCZAjytPw\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR "
+  },
+  {
+   "id": "GoLCS8zTNdU",
+   "t": "Using Circuit Boards Incorrectly",
+   "d": "2022-04-23",
+   "v": 63223,
+   "s": 781,
+   "vertical": false,
+   "desc": "We're using circuit boards for things they weren't designed to do, and it works better than it has any right to! The LumenPnP has some very non-standard PCBs in it, and we're thinking about adding a few more wacky ones to the BOM. I'll always love abusing PCB fabrication for weird stuff!\n\nYou can get a LumenPnP kit here!: https://opulo.io/\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/index-machines/index"
+  },
+  {
+   "id": "nLUw4CKdanY",
+   "t": "How to Start (And Run) Your Own Business",
+   "d": "2022-05-14",
+   "v": 15647,
+   "s": 839,
+   "vertical": false,
+   "desc": "I've gotten some questions and comments about how I went about starting Opulo, so this video describes the framework around which I built it! \n\nTemplate for going through this process yourself:\nhttps://github.com/sphawes/starting-a-company\n\nRelevant Media:\nhttps://www.youtube.com/watch?v=aVyjZbk6nY8\nhttps://www.youtube.com/watch?v=LNidIy7t0DQ\nhttps://www.youtube.com/watch?v=fI09VTDhFOA\nhttps://www.youtube.com/watch?v=u4ZoJKF_VuA\nhttps://blog.bolt.io/make-money/\n\nFree Tools:\nProject Management: https://trello.com/\nRemote Work + Events: https://www.gather.town/\nCustom Website: https://wordpress."
+  },
+  {
+   "id": "Gm1oQjoRitc",
+   "t": "A PnP Feeder for $1.34",
+   "d": "2022-06-04",
+   "v": 95414,
+   "s": 523,
+   "vertical": false,
+   "desc": "Powered feeders are undergoing a tuning pass to increase reliability, but in the meantime many folks in the community have been designing and building passive feeders!\n\nYou can get a LumenPnP kit here!: https://opulo.io/\n\nA huge thanks to the folks making these mods:\n-atanisoft\n-@curlytalegames2609 \n-InfiniteNESLives - www.infiniteneslives.com\n-jazzychad - https://twitter.com/jazzychad\n-nicmoly - https://github.com/SupaCoder/0816-Lumen-SMT-Feeder-Remix\n-qwertymodo\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJo"
+  },
+  {
+   "id": "ldUsnz3W-M8",
+   "t": "Introducing LumenPnP v3",
+   "d": "2022-06-25",
+   "v": 36804,
+   "s": 195,
+   "vertical": false,
+   "desc": "https://opulo.io/products/lumenpnp/\n\nThank you for all of the wonderful feedback on the LumenPnP design! We've been implementing lots of improvements coming up with v3, which we're excited to announce they will be shipping by the end of Q3 2022. The focus for this release is ease of use. We want it to be as easy as possible to get your machine assembled and running a job.\n\nWe have lots planned for feeders as well, including a public Beta this Fall, and estimated shipping by the end of the year.\n\n-------------------------------------------------------------------\nJoin the STR Discord Server:\nht"
+  },
+  {
+   "id": "y0Qk8nNxyXY",
+   "t": "Mass Production SMT Line!",
+   "d": "2022-07-16",
+   "v": 74264,
+   "s": 546,
+   "vertical": false,
+   "desc": "Assembling circuit boards in mass production is a whole different ball game. Tanner from Tritium Electronics was gracious with his time and let the Opulo crew take a visit and see how he operates his SMT line!\n\nTritium is a contract assembler and they are always happy to help people who need more than a handful of boards built. You can check out Tanner and his company here: www.tritiumelectronics.com \n\nYou can get a LumenPnP here!: https://opulo.io/\n-------------------------------------------------------------------\nThings shown from MRRF!:\nhttps://www.cocoapress.com/\nhttps://www.autodrop3d.co"
+  },
+  {
+   "id": "nHF0D_noWAw",
+   "t": "Feeders just got a whole lot smaller",
+   "d": "2022-08-13",
+   "v": 67573,
+   "s": 884,
+   "vertical": false,
+   "desc": "The LumenPnP feeders are trimming down! After testing REV05 of the feeder design, we have three big improvements we want to make: 1) smaller feeder width, 2) more secure mounting, 3) better positioning feedback. We're on a really good path to hitting all of the goals for the feeder, and once some parts come in, I'll be able to do some comprehensive testing!\n\nYou can get a LumenPnP here!: https://opulo.io/\n\nA video about how Encoders work:\nhttps://www.youtube.com/watch?v=v4BbSzJ-hz4\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com"
+  },
+  {
+   "id": "Ff8PJi9zeeo",
+   "t": "writing a hardware testing suite from scratch",
+   "d": "2022-09-10",
+   "v": 24449,
+   "s": 711,
+   "vertical": false,
+   "desc": "I wrote a Python app that automatically tests a ton of different things about the LumenPnP to make sure it's working perfectly before we ship it! All the tests run by puppeteering the machine using Gcode, and they check things like max speed, pump and valve actuation, vacuum sensor values, and a whole bunch of other stuff!\n\nYou can get a LumenPnP here!: https://opulo.io/\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the STR Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps:/"
+  },
+  {
+   "id": "jrxYez7Sjiw",
+   "t": "soldering PCBs with molten metal",
+   "d": "2022-10-22",
+   "v": 63784,
+   "s": 734,
+   "vertical": false,
+   "desc": "Check out the LumenPnP: https://opulo.io/products/lumenpnp\n\nturns out: bowl of molten metal = instant soldering. it's rad!\n\n...once you get the process tuned. it took me a while, but i figured it out! we tried a bunch of stuff in this one, and ultimately discovered that using a PCB as a protective pallet for dip soldering works surprisingly well!\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpn"
+  },
+  {
+   "id": "k3fSadTA3_E",
+   "t": "prepping for launch",
+   "d": "2022-12-17",
+   "v": 50558,
+   "s": 972,
+   "vertical": false,
+   "desc": "Check out the LumenPnP: https://opulo.io/products/lumenpnp?utm_source=youtube&utm_medium=cpc&utm_campaign=ytsh&utm_content=yt_ad\n\nI've been spending lots of time tuning and tweaking the LumenPnP Feeder, and now it's time to test the heck out of it!\n\nProduct Development Stages (EVT, DVT, PVT):\nhttps://www.onlogic.com/company/io-hub/evt-dvt-and-pvt-product-development-stages-explained/amp/\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github "
+  },
+  {
+   "id": "Aq1uLzec1Ro",
+   "t": "Feeders are here!",
+   "d": "2023-03-31",
+   "v": 99493,
+   "s": 203,
+   "vertical": false,
+   "desc": "Pick up some feeders: https://opulo.io/products/8mm-feeder\n\nFeeder CAD: https://github.com/opulo-inc/feeder\nFeeder firmware: https://github.com/photonfirmware/photon\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\nFeeder Github Repo:\nhttps://github.com/opulo-inc/feeder\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen"
+  },
+  {
+   "id": "stowZdroXyM",
+   "t": "Some jigs you have to build yourself",
+   "d": "2023-05-27",
+   "v": 36597,
+   "s": 714,
+   "vertical": false,
+   "desc": "I am SO GLAD I built this thing. It has saved us days of work over the past couple months. Now I'm looking to rebuild it with a bit more...polish.\nopulo.io\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\nFeeder Github Repo:\nhttps://github.com/opulo-inc/feeder\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n"
+  },
+  {
+   "id": "riW7jcmBfHs",
+   "t": "hacking the lumen for Open Sauce",
+   "d": "2023-07-22",
+   "v": 14452,
+   "s": 574,
+   "vertical": false,
+   "desc": "Thank you, @williamosman.\nGet Tickets for Open Sauce 2024: https://opensauce.live/tickets/\n\nOpen Hardware Manufacturing Podcast: https://shows.acast.com/ohm-podcast\n\nCheck out the LumenPnP: https://opulo.io/\nThe source for the drawing mod is here: https://github.com/sphawes/lumenink\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\nFeeder Github Repo:\nhttps://github.com/opulo-inc/feeder\n\n-- FOL"
+  },
+  {
+   "id": "k9xzGO0SVg0",
+   "t": "turn any toaster oven into a reflow oven!",
+   "d": "2023-08-19",
+   "v": 99051,
+   "s": 1044,
+   "vertical": false,
+   "desc": "It's time to tackle reflow.\nhttps://opulo.io/\n\nCheck out the UM Reflow Master Pro:\nhttps://reflowmasterpro.com/\n\nImage Source:\nhttps://www.celduc-relais.com/en-us/zero-cross-or-random-relay-what-are-the-differences/\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nJoin the Discord Server:\nhttps://discordapp.com/invite/TCwy6De\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\nFeeder Github Repo:\nhttps://github.com/opulo-inc/feeder\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.l"
+  },
+  {
+   "id": "ZsoobXnsaXk",
+   "t": "I can't believe I made PCBs without this",
+   "d": "2023-12-16",
+   "v": 46477,
+   "s": 1221,
+   "vertical": false,
+   "desc": "How much better is a pick and place than hand-assembly?\nOHM Podcast: https://bit.ly/3tiUpg0\n\nLumenPnP: https://www.opulo.io/products/lumenpnp\n\nUM Reflow Master Pro: https://reflowmasterpro.com/\n\nCost/Time Calculator (buggy and not finished!): https://opulo-inc.github.io/pays-for-itself/\n\nLumenPnP Config Tool: https://config.opulo.io/\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly"
+  },
+  {
+   "id": "NmVXJSBrBqg",
+   "t": "This Box Builds Circuit Boards",
+   "d": "2024-03-23",
+   "v": 58146,
+   "s": 866,
+   "vertical": false,
+   "desc": "Brand new controller for a brand new version of the LumenPnP! Clearing up the staging plate, switching to all SMT, and prepping for a cool new thing we're working on...\n\nCheck out PCBWay for your next PCB!: https://www.pcbway.com/\n\nOHM Podcast: https://shows.acast.com/ohm-podcast\n\nLumenPnP Firmware: https://github.com/opulo-inc/lumenpnp/releases\nFeeder Firmware: https://github.com/photonfirmware/photon/releases\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumen"
+  },
+  {
+   "id": "CbZXuFmViiQ",
+   "t": "How to design custom cables!",
+   "d": "2024-04-13",
+   "v": 57428,
+   "s": 859,
+   "vertical": false,
+   "desc": "Ever wondered how to design cable harnesses? Wireviz is an insanely cool tool that lets you design cables and export them to get them manufactured!\n\nSign up to exhibit at Open Sauce!: https://opensauce.com/exhibit-application/\n\nOHM Podcast: https://shows.acast.com/ohm-podcast\n\n-------------------------------------------------------------------\nCheck out my Patreon:\nhttps://www.patreon.com/stephenhawes\n\nLumenPnP Github Repo:\nhttps://github.com/opulo-inc/lumenpnp\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n"
+  },
+  {
+   "id": "CHku1zc3RQs",
+   "t": "Slicers are missing this ONE feature, so i built it",
+   "d": "2024-06-08",
+   "v": 35193,
+   "s": 631,
+   "vertical": false,
+   "desc": "Check out PCBWay for your next PCB!: https://www.pcbway.com/\n\nI was tired of having to manually upload Gcode to every printer on my farm, so I built a tool that does it automatically, for EVERY printer.\n\nGithub Repo for FarmUpload: https://github.com/opulo-inc/farm-upload\n\nWe tried using OctoFarm for a while, but it was a bit clunky for us to use. It does have the feature where you can send files up to a bunch of printers, but that feature wasn't worth sticking with it. I also don't believe that it has support for Bambu printers. There wasn't a tool that checked every box for us, so I decided "
+  },
+  {
+   "id": "JlkTcxh-9gA",
+   "t": "LumenPnP v4 is here! (and it's crazy fast)",
+   "d": "2024-09-10",
+   "v": 95459,
+   "s": 440,
+   "vertical": false,
+   "desc": "Check out the LumenPnP v4! https://bit.ly/4cKiQUc\n\n\n\nLumenPnP Github: https://github.com/opulo-inc/lumenpnp"
+  },
+  {
+   "id": "doJgSvhcpjE",
+   "t": "Making Circuit Boards WITHOUT Solder",
+   "d": "2024-09-28",
+   "v": 42560,
+   "s": 751,
+   "vertical": false,
+   "desc": "I wanted to populate a PCB, and have the LEDs light up AS THE BOARD was being populated. But that won't work with normal solder paste.\n\nCheck out the LumenPnP: https://bit.ly/3TI6qWj\n\n@BreakingTaps Video: https://www.youtube.com/watch?v=0HZ35CyHVxQ\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nPCB Hold"
+  },
+  {
+   "id": "fmmq0ml6rgo",
+   "t": "one machine for PCB assembly",
+   "d": "2024-10-12",
+   "v": 58711,
+   "s": 660,
+   "vertical": false,
+   "desc": "The LumenPnP can now do it all: deposit paste, then immediately place parts! Blank board goes in, working board comes out!\n\nCheck out the LumenPnP: https://bit.ly/3U5m0vc\n\nPaste Extruder repo: https://github.com/opulo-inc/paste-extruder\nLeash repo: https://github.com/opulo-inc/leash\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps o"
+  },
+  {
+   "id": "WEutxc9RBng",
+   "t": "Solder Paste Dispenser",
+   "d": "2024-11-16",
+   "v": 64523,
+   "s": 588,
+   "vertical": false,
+   "desc": "With an upgrade and some tuning, the LumenPnP can now dynamically deposit solder paste onto PCBs, potentially removing the need for a stencil!\nCheck it out here: https://www.opulo.io/products/paste-extruder\n\nPaste Extruder repo: https://github.com/opulo-inc/paste-extruder\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the chan"
+  },
+  {
+   "id": "lX7dRaOLtZk",
+   "t": "Making PCBs on a 3D Printer",
+   "d": "2024-12-07",
+   "v": 105235,
+   "s": 938,
+   "vertical": false,
+   "desc": "Using the UV light from an SLA printer, it's actually super possible to fabricate PCBs!\n\nI used the Form 4 to make this: https://formlabs.com/3d-printers/form-4/\n\nCheck out the LumenPnP: https://bit.ly/49mwQUd\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nLumenPnP Desktop Pick and Place: https://bit.ly"
+  },
+  {
+   "id": "wAiGCyZZq6w",
+   "t": "Prototype PCBs faster than 3D Prints",
+   "d": "2025-01-04",
+   "v": 780672,
+   "s": 844,
+   "vertical": false,
+   "desc": "I am blown away by how well this works.\n\nThe xTool F1 Ultra: https://amzn.to/4fFA7iP\n\nSoldermask: https://amzn.to/3DEGndt\nNail Polish Cure Station: https://amzn.to/3C092ZN\n\nMy process instructions: https://github.com/sphawes/fiber-laser-pcb-fab\n\nCheck out the LumenPnP: https://bit.ly/41XcD5u\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage whic"
+  },
+  {
+   "id": "UxjwHhy7ius",
+   "t": "I finally solved Wide Feeders",
+   "d": "2025-04-05",
+   "v": 39384,
+   "s": 920,
+   "vertical": false,
+   "desc": "8mm and 12mm feeders have been shipping for a while, and now I'm finally making headway for wider tapes!\n\nCheck out the LumenPnP: https://bit.ly/4iSPQgN\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nLumenPnP Desktop Pick and Place: https://bit.ly/3BHFksc\nPCB Holder (Omnivice): https://amzn.to/344qhVD\n"
+  },
+  {
+   "id": "5G7jBCK90O0",
+   "t": "Make and Assemble PCBs on your Workbench",
+   "d": "2025-05-09",
+   "v": 67043,
+   "s": 884,
+   "vertical": false,
+   "desc": "You can fully fabricate and assemble PCBs from scratch, right on your workbench! With a fiber laser and a LumenPnP, you can do a small production run of PCBAs in a matter of hours, start to finish.\n\nCheck out the LumenPnP: http://bit.ly/4iQdFoH\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nLumenPnP De"
+  },
+  {
+   "id": "NCjFhsOvi2I",
+   "t": "Getting Certified: Start to Finish",
+   "d": "2025-07-12",
+   "v": 80348,
+   "s": 996,
+   "vertical": false,
+   "desc": "Stressed about certs? It's a terrifying thing to dive into: crazy expenses, huge chambers, and complicated regulations. This is an account of our most recent pass through certs with the LumenPnP v4!\n\nCheck out the LumenPnP: https://bit.ly/3In5iVc\n\nCheck out: https://hardware.cafe/\nIf you have stuff you want to add, please make a PR!: https://github.com/opulo-inc/hardware.cafe\n\nKeystone did not provide a discount or special services. We paid full price for testing.\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram h"
+  },
+  {
+   "id": "_qklxlJc-04",
+   "t": "Never buy solder stencils again",
+   "d": "2025-07-26",
+   "v": 130154,
+   "s": 746,
+   "vertical": false,
+   "desc": "The paste dispenser can now automatically paste your PCBs!\n\nI've been working on a slicer that processes your Gerber files, and lets you run machine-vision calibrated pasting jobs from your web browser!\n\nCheck out the LumenPnP: http://bit.ly/4lHJrq5\n\nCheck out the paste utility: https://paste.opulo.io/\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small perc"
+  },
+  {
+   "id": "A_IUIyyqw0M",
+   "t": "The Last PCB You'll Ever Buy",
+   "d": "2025-10-25",
+   "v": 69679,
+   "s": 540,
+   "vertical": false,
+   "desc": "Check out the LumenPnP: http://bit.ly/43qReBC\n\nCommarker Omni 1:\nhttps://amzn.to/4hp0MTs\n\nViagrid Repo:\nhttps://github.com/opulo-inc/viagrid\n\nViagrid Sign Up Form:\nhttps://forms.gle/itSQ91JN9rKcrrGg9\n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nLumenPnP Desktop Pick and Place: https://bit.ly/3BHFksc\n"
+  },
+  {
+   "id": "HTWjAEj6CNg",
+   "t": "inspection was killing us. so we automated it.",
+   "d": "2026-03-08",
+   "v": 22130,
+   "s": 563,
+   "vertical": false,
+   "desc": "Check out the LumenPnP: https://bit.ly/4bdxTYR\n\nPhoton v1.0.5: https://github.com/photonfirmware/photon/releases/tag/v1.0.5\n\nCheck out the Opulo channel: @opulo \n\n-------------------------------------------------------------------\n\n-- FOLLOW --\n\nTwitch https://bit.ly/stephen-twitch\nInstagram https://bit.ly/stephen-instagram\nTwitter https://bit.ly/stephen-twitter\n\n-- GEAR --\n\nThese are affiliate links so if you buy anything through them I get a small percentage which helps out the channel. Thank you!\n\nLumenPnP Desktop Pick and Place: https://bit.ly/3BHFksc\nPCB Holder (Omnivice): https://amzn.to"
+  },
+  {
+   "id": "LjuwMBvXHg4",
+   "t": "wide feeders are done. i had to start from scratch.",
+   "d": "2026-06-23",
+   "v": 25794,
+   "s": 414,
+   "vertical": false,
+   "desc": "16mm and 24mm Feeders: https://www.opulo.io/products/feeders?utm_source=youtube&utm_medium=sh_desc&utm_campaign=2u_launch\n\nCheck out the @opulo channel!"
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "channel": {
+  "id": "UCqT9N46DjB1XEXFJ_e21grw",
+  "title": "tom builds stuff",
+  "handle": "@tylon22",
+  "description": "hello! I like to make whatever pops into my head\nfor business stuff email me at tylon@mit.edu",
+  "since": "2014-08-28",
+  "avatar": "https://yt3.ggpht.com/Zx7lIqGFbBd_BCgHLGGVaueK1Ga40Xn9Lp2BwXcs-lnRA6sGkKQo0YnIeqNQQZKXR6FCRYshHA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "836810",
+  "subscriberCount": "8400",
+  "hiddenSubscriberCount": false,
+  "videoCount": "43"
+ },
+ "videos": [
+  {
+   "id": "R4RfK19Nfy0",
+   "t": "MakeMIT EvE demo",
+   "d": "2023-02-26",
+   "v": 272,
+   "s": 42,
+   "vertical": false,
+   "desc": "EvE is a autonomous robot whose sole purpose is to keep a single plant alive using sensors"
+  },
+  {
+   "id": "BbzfPWMaGVE",
+   "t": "MIT Battlebots Returns - NHRL March 2024",
+   "d": "2024-03-20",
+   "v": 3841,
+   "s": 451,
+   "vertical": false,
+   "desc": "More on ARES and our driver:\nhttps://www.youtube.com/watch?v=QXTCzMgQSqA"
+  },
+  {
+   "id": "3VTUWWy6MJU",
+   "t": "MIT Battlebots Returns - NHRL April 2024",
+   "d": "2024-05-07",
+   "v": 1945,
+   "s": 509,
+   "vertical": false,
+   "desc": "More of ARES:\nhttps://www.youtube.com/watch?v=Cp82YVIj2es\n\nRobots our group brought to the event:\nARES (30lb)\nFlycut (3lb)\nMeraviglioso (3lb)\nCyanide (3lb)"
+  },
+  {
+   "id": "ChXMx-bBV2I",
+   "t": "MIT's ARES All NHRL fights 2024",
+   "d": "2024-05-08",
+   "v": 8054,
+   "s": 496,
+   "vertical": false,
+   "desc": "All of ARES's fights at NHRL March and April 2024\nARES is MIT's newest battlebot in the 30lb weight class, and has competed exclusively at NHRL so far.\n\nMIT's Combat Robotics Team is made up of Juniors, Sophomores, and Freshmen as of 2024, and is made up of completely new members after the club dissipated due to the pandemic."
+  },
+  {
+   "id": "IsQzEdD1shY",
+   "t": "ARES vs. Plasma Gun",
+   "d": "2024-05-08",
+   "v": 861,
+   "s": 41,
+   "vertical": true,
+   "desc": "ARES vs. Plasma Gun at NHRL March 2024\nARES is MIT's newest combat robot\n30lb weight class"
+  },
+  {
+   "id": "Poh0wHPFWN4",
+   "t": "MIT's ARES vs. BEAST #robot #robotics",
+   "d": "2024-05-08",
+   "v": 1176,
+   "s": 41,
+   "vertical": true,
+   "desc": "ARES vs. BEAST at NHRL March 2024\n30lb combat robots\nARES is MIT's newest combat robot"
+  },
+  {
+   "id": "by473LYzz7Y",
+   "t": "MIT's ARES vs Floor Letter Word #robotics #robot",
+   "d": "2024-05-08",
+   "v": 749,
+   "s": 44,
+   "vertical": true,
+   "desc": "ARES vs Floor Letter Word at NHRL March 2024\n30lb combat robotics\nARES is MIT Combat Robotics's newest robot."
+  },
+  {
+   "id": "ITTo3OnkC0g",
+   "t": "MIT's ARES vs Emperor #robotics #robot",
+   "d": "2024-05-08",
+   "v": 5134,
+   "s": 32,
+   "vertical": true,
+   "desc": "ARES vs Emperor at NHRL April 2024\n30lb Combat Robots\nARES is the newest robot from MIT's Combat Robotics Team"
+  },
+  {
+   "id": "tjw6KKUxCHI",
+   "t": "ARES vs Anxietii #robotics #robot",
+   "d": "2024-05-08",
+   "v": 44982,
+   "s": 59,
+   "vertical": true,
+   "desc": "ARES vs Anxietii NHRL April 2024\n30lb Combat Robotics\nARES is MIT's newest battlebot"
+  },
+  {
+   "id": "-jxIjoHRdYo",
+   "t": "MIT's ARES Vs. Barbie & Ken",
+   "d": "2024-05-08",
+   "v": 1252,
+   "s": 28,
+   "vertical": true,
+   "desc": "ARES fights Barbie & Ken at NHRL April 2024\n30lb combat robotics fight\nARES is MIT Combat Robotics' newest battlebot"
+  },
+  {
+   "id": "C_kRTesfkUE",
+   "t": "ARES vs BeeForce",
+   "d": "2024-07-01",
+   "v": 1860,
+   "s": 24,
+   "vertical": true,
+   "desc": "30lb combat robot\nNHRL June 2024\nARES is MIT's flagship robot\nBeeForce is from Team Honeycracked\n\nReuploaded due to incorrect information"
+  },
+  {
+   "id": "zF_P4AZdfPs",
+   "t": "I put a weapon on my class project",
+   "d": "2024-07-01",
+   "v": 968,
+   "s": 529,
+   "vertical": false,
+   "desc": "Look at this robot I built for class! This robot was originally designed and built for MIT's 2.007 Design and Manufacturing competition, with the competition theme being Rick and Morty. After the competition they let us keep the robots, so I decided to slap a weapon on it.\n\nShout out to Professor Seerings for being the GOAT\n\nSongs:\nPrigida - Holding You\nWalz - Library"
+  },
+  {
+   "id": "t-vRqPiflrw",
+   "t": "Competing with a pipe cutter on wheels",
+   "d": "2024-07-16",
+   "v": 4943,
+   "s": 492,
+   "vertical": false,
+   "desc": "I had about 7 days to build a combat robot. I spent 2 days going around to shops to buy supplies, waited a few days for Amazon orders to come in, spent 2 days building, and then I competed with my robot.\n\nI competed at Gulf Coast Makercon in Florida. I signed up late but after emailing the event organizers, they were nice enough to admit me.\n\nChapters:\n0:00 Hook\n0:07 Context & Buying supplies\n1:32 Supplies Purchased\n2:40 Making & Testing\n6:45 Fight 1\n7:33 Fight 2\n7:50 Ending Notes & Prices"
+  },
+  {
+   "id": "V_KT43HOWAI",
+   "t": "I speedran building a combat robot",
+   "d": "2024-09-19",
+   "v": 544,
+   "s": 548,
+   "vertical": false,
+   "desc": "I gathered up a bunch of materials and wanted to see how fast I could build a combat robot, which is pretty much slapping a weapon on some wheels and seeing what happens.\n\nChapters:\n0:00 Intro\n4:00 Completed Chassis\n5:49 Completed Soldering\n7:55 Completed Robot\n8:45 Robot Full Test"
+  },
+  {
+   "id": "A1rKK3Zetb8",
+   "t": "This robot got obliterated.",
+   "d": "2024-11-29",
+   "v": 3219,
+   "s": 366,
+   "vertical": false,
+   "desc": "As a challenge to myself, I built a 3lb combat robot, designed to be as cheap as possible. It was an experiment that was never meant to fight but fought anyways.\n\nChapters:\n0:00 Fight\n0:09 The Budget Combat Robot\n3:46 Finished V1\n4:01 Version 2\n5:15 Finished V2\n5:31 Fight\n5:56 Closing Thoughts\n\nMusic:\nComets by Ladada\nA Bird's Last Look by Macabre Plaza\nPicture Frames by Prigida"
+  },
+  {
+   "id": "uYgVWauiQCY",
+   "t": "MIT's God of War",
+   "d": "2024-12-17",
+   "v": 1076,
+   "s": 169,
+   "vertical": false,
+   "desc": "ARES is MIT's flagship 30lb combat robot.\n\n\nChapters:\n0:00 Start\n0:31 Fights\n\nSong: Warriors (ft. Imagine Dragons)"
+  },
+  {
+   "id": "sUQcapz271Q",
+   "t": "I built a gun at a hackathon.",
+   "d": "2025-03-06",
+   "v": 937,
+   "s": 595,
+   "vertical": false,
+   "desc": "Formlabs hosted a hackathon about a month or so ago. I designed and built an air powered nerf gun. Total cost of parts minus resin and filament is 10 dollars: Solenoid valve, various pipe adapters, and skateboard bearings.\n\nChapters:\n0:00 Start\n0:57 CAD explanation\n2:56 Fabrication\n6:48 Presentation\n8:37 Messing around"
+  },
+  {
+   "id": "MzeTC-37gxY",
+   "t": "20 lbs of welded steel and a flamethrower",
+   "d": "2025-05-14",
+   "v": 2080,
+   "s": 587,
+   "vertical": false,
+   "desc": "DAYBREAK is a 30lb combat robot that competed at NHRL in March of 2025. It didn't do great, but it was a fun build. I registered with the robot exactly one week before the competition (I was able to do this since the waitlist was open) and while it was still an idea in my head.\n\n\nChapters:\n0:00 Phobos\n0:18 The hardest part is getting started.\n3:42 Just make shit, why not?\n6:49 Test footage\n7:17 Fight\n\nMusic sourced from Uppbeat/Youtube\nComets by Ladada\nRoll-back by Ladada\nA Bird's Last Look by Macabre Plaza\nYawns by Mountaineer\nLets stay in by Braden Deal\n\nSpecial thanks to Carlos Lopez for he"
+  },
+  {
+   "id": "91Gh4txK_nE",
+   "t": "A freshman said he could beat me. We had 24 hours.",
+   "d": "2025-08-19",
+   "v": 1364,
+   "s": 605,
+   "vertical": false,
+   "desc": "In just one day, my friend Carlos (a freshman) and I (a junior) set out to build tiny DIY death machines AKA antweight combat robots. \n\nWe only had 24 hours to design, build, and fight. Carlos may have been the rookie, but he\u2019s scrappy-and I couldn\u2019t risk losing to a freshman. After five brutal battles, only one of us walked away intact.\n\nTimestamps:\n0:00 Intro\n0:33 Start of day\n1:01 CAD complete\n3:14 Build Complete\n4:32 Fight Start\n6:10 Fight 2\n6:50 Fight 3\n7:33 Fight 4\n8:27 Final Fight\n9:10 End"
+  },
+  {
+   "id": "6BN6WhBwXy0",
+   "t": "My $500 combat robot lost every fight. Worth it.",
+   "d": "2025-11-29",
+   "v": 3949,
+   "s": 580,
+   "vertical": false,
+   "desc": "I spent weeks building a 30lb combat robot named Mochi. It never won a single fight, but that wasn't what it was all about at the end of the day.\n\nThanks to all the people that helped along the way:\nThanks to PCBWay for sponsoring the video:\nhttps://pcbway.com/g/uO3Xpt Visit PCBway here for CNC machining, custom PCBs, and 3D printing services!\nThanks to Elijah for helping me with some of the heat treating\nThanks to Eleni for helping me with the welding\nThanks to Henry for helping me drill and tap holes\nThanks to Bill for waterjetting my parts for me\nThanks to MIT's CRC team overall, I stole a "
+  },
+  {
+   "id": "Fqx7u1TZWrc",
+   "t": "What I've made in 4 Years at MIT",
+   "d": "2025-11-30",
+   "v": 73067,
+   "s": 499,
+   "vertical": false,
+   "desc": "I did barely any engineering in high school. I was mostly software, but when I came to MIT, I pivoted to mechanical engineering. I didn't have the high school jump start like some of my peers, but I think I ended up doing pretty well for myself.\n\nAccepted to MIT 26'\nAccepted to UF\nAccepted to UCF\nAccepted to GT* (they offered me a transfer program thing idk)\nDenied from every ivy\n\nhttps://discord.gg/NEFexBnNbU\nMy good pal Miguel (MIT 27') who I stole this video idea from started this discord server, so if you want to ask questions or something this is the server.\n\n00:00 Start\n00:12 Projects\n06"
+  },
+  {
+   "id": "3bp78Y_Filc",
+   "t": "Homemade 1000-watt motor",
+   "d": "2026-01-07",
+   "v": 306929,
+   "s": 1033,
+   "vertical": false,
+   "desc": "I built an Axial Flux Motor by hand. The coils were hand wound, and the stator pieces were hand laminated. \n\nThis video is part of my submission for the Make It Spin Instructables challenge.\nhttps://www.instructables.com/Designing-and-Building-an-Axial-Flux-Motor/\n\nSome motor videos that were helpful references for me:\nhttps://www.youtube.com/watch?v=1isqsi9h7c4\nhttps://www.youtube.com/watch?v=1K8LQPfMmJk\nhttps://www.youtube.com/watch?v=fmMO7Ew2eJU"
+  },
+  {
+   "id": "qIohXjRYOMI",
+   "t": "Chain Based Cycloidal Gearbox",
+   "d": "2026-01-19",
+   "v": 34599,
+   "s": 679,
+   "vertical": false,
+   "desc": "I built a chain based cycloidal gearbox.\nIf it is still January 2026 register for the MakeMIT hardware hackathon at makemit.net\n\nMusic:\nLeon Chang - Peppermint Parkway\nSakuracloud - Miffy Cafe\nPrigida - Picture Frames\nIwamizu - You're Gonna Be Okay"
+  },
+  {
+   "id": "lt-zYAgjo74",
+   "t": "I Dyno Tested The Orbital Drive Gearbox",
+   "d": "2026-01-26",
+   "v": 17217,
+   "s": 606,
+   "vertical": false,
+   "desc": "I was doing research for the chain based cycloidal drive I made last video and came across Skyentific's video about the orbital drive. I thought it was sick so I went ahead and made one.\n\nSkyentific's video: https://www.youtube.com/watch?v=Z0rGd7UO2Tk\n\nCurrent subscriber count: 2.6k"
+  },
+  {
+   "id": "Dk3vBh7MdCc",
+   "t": "My Crossbow Shoots Everything Except Snowballs",
+   "d": "2026-02-04",
+   "v": 789,
+   "s": 667,
+   "vertical": false,
+   "desc": "I use the Makera Carvera Air to make this Snowball Crossbow (lowkey kinda a slingshot tho) This is week 4 of creating a project a week to make the most cracked portfolio for when I graduate.\n\n\u2705 Carvera Air (Official Website)\n\ud83d\udc49 https://makerainc.sjv.io/o4QjLb\n\u2705 Code: tylon100off ($100 off)\n\n\n\ud83d\udc49 Makera Official INS: https://www.instagram.com/makera_inc/\n\ud83d\udc49 Join in Makera Facebook Group - Carvera Air: https://www.facebook.com/groups/carveraair\n\ud83d\udc49 Makera Official YouTube: https://www.youtube.com/@Makera\n\nCurrent Subscriber Count: 3.2k"
+  },
+  {
+   "id": "750cAuQOnGw",
+   "t": "Kicad Workshop With Joseph Sanchez",
+   "d": "2026-02-17",
+   "v": 213,
+   "s": 3633,
+   "vertical": false,
+   "desc": "Learn the essentials of PCB design using KiCad. There are a handful of PCB mills that are accessible during the event, so clean up your wiring and learn a new skill at the same time!"
+  },
+  {
+   "id": "IPFzaj058Fc",
+   "t": "MakeMIT CAD For Hackers",
+   "d": "2026-02-17",
+   "v": 295,
+   "s": 4110,
+   "vertical": false,
+   "desc": "This is how to CAD when you\u2019re on a deadline. Learn how to model quickly, design around the tools you have, avoid rookie mistakes, and make parts that can get built and built quickly using the resources that you have. How many corners can you cut and still have made something awesome?"
+  },
+  {
+   "id": "J8zS0spy08k",
+   "t": "Ridge posted their wallet's dimensions. So I pirated it.",
+   "d": "2026-02-19",
+   "v": 1331,
+   "s": 742,
+   "vertical": false,
+   "desc": "I need a good wallet to not get bullied at school/when paying for things so I pirated the Ridge wallet since it looks pretty fire\n\nCarvera Air CNC mill that I used:\n\u2705 Carvera Air (Official Website)\n\ud83d\udc49 https://makerainc.sjv.io/o4QjLb\n\u2705 Code: tylon100off ($100 off)\n\nCurrent Subscriber Count: 3.5k"
+  },
+  {
+   "id": "y3JDDzlxdc4",
+   "t": "MakeMIT Crash Course to Microcontrollers",
+   "d": "2026-02-19",
+   "v": 197,
+   "s": 6717,
+   "vertical": false,
+   "desc": "Get hands-on with microcontrollers such as Arduino and ESP32. We\u2019ll cover GPIO, PWM, I2C/SPI basics, reading sensors, and driving actuators in Arduino C."
+  },
+  {
+   "id": "-ihTm3adUd0",
+   "t": "MakeMIT x Harvard hardware hackathon!",
+   "d": "2026-02-22",
+   "v": 239,
+   "s": 4610,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "lSW-NeJKbFg",
+   "t": "MakeMIT closing ceremony",
+   "d": "2026-02-23",
+   "v": 423,
+   "s": 3069,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "wyw2Xv1Um7U",
+   "t": "Can I teach a finance bro how to use a CNC machine? | Makera Carvera Air",
+   "d": "2026-03-04",
+   "v": 2151,
+   "s": 1222,
+   "vertical": false,
+   "desc": "I get my friend who is a finance major to CNC something, and I also walk through what the process of using the machine looks like.\n\n\u2705 Carvera Air (Official Website)\n\ud83d\udc49 https://makerainc.sjv.io/o4QjLb\n\u2705 Code: tylon100off ($100 off)\n\nGoogle Drive for files for Fusion360\nhttps://drive.google.com/drive/folders/1G4V4wjP7mnfQ_NsrTq2R9tmr_B_Xb5Wr?usp=sharing\nCarvera Controller App\nhttps://www.makera.com/pages/software\n3D Printable Shop Vac Adapter\nhttps://makerworld.com/en/models/1300234-carvera-air-quick-connect-vacuum-adapter?from=search#profileId-1332438\nCarvera Air Clamp\nhttps://makerworld.com/en/"
+  },
+  {
+   "id": "rSX10mkdyMA",
+   "t": "I built an alarm clock that could kill me. I snoozed it anyways.",
+   "d": "2026-03-21",
+   "v": 728,
+   "s": 433,
+   "vertical": false,
+   "desc": "I can't get out of bed in the morning. I'm just eepy sleepy all the time, so I engineered myself a solution.\n\n\nDisclaimer: The final test is partially staged. Of course i'm not gonna let the house burn down like be fr. I had a homie awake and on stand by just incase I didn't wake up."
+  },
+  {
+   "id": "c4UdioLu6DQ",
+   "t": "MIT taught me to build this",
+   "d": "2026-05-04",
+   "v": 707,
+   "s": 184,
+   "vertical": false,
+   "desc": "portable cooking device that heats up objects rapidly.\nif someone from MIT is reading this, this video is entirely AI generated i swear"
+  },
+  {
+   "id": "TqVjz-5218U",
+   "t": "I almost fried a $600 motor building ONE robot arm joint",
+   "d": "2026-05-07",
+   "v": 3675,
+   "s": 722,
+   "vertical": false,
+   "desc": "guys i really gotta stop turbo procrastinating\n\u00a0\nGuide: https://docs.google.com/document/d/1bWRuIEBqNT1w-bxO04i8BMCN9tt7Mb1i/edit?usp=sharing&ouid=106264833342823745342&rtpof=true&sd=true"
+  },
+  {
+   "id": "5obbJyF5ouQ",
+   "t": "Homemade 1000 Watt Motor",
+   "d": "2026-06-08",
+   "v": 2607,
+   "s": 112,
+   "vertical": true,
+   "desc": "DIY Axial Flux Motor"
+  },
+  {
+   "id": "1J_-kCW8Sko",
+   "t": "Building an 1000 Watt Motor from scratch #motor  #experiment",
+   "d": "2026-06-08",
+   "v": 145105,
+   "s": 54,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3yJnB8LtTZo",
+   "t": "Handmade Axial Flux Motor Explodes #motor #science",
+   "d": "2026-06-08",
+   "v": 10271,
+   "s": 14,
+   "vertical": true,
+   "desc": "https://youtu.be/3bp78Y_Filc"
+  },
+  {
+   "id": "kt6VPUpQ1y8",
+   "t": "pirating the ridge wallet",
+   "d": "2026-06-15",
+   "v": 2637,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HGzfaKnVs2s",
+   "t": "Fixing a $5000 Axial Flux Motor",
+   "d": "2026-08-23",
+   "v": 76610,
+   "s": 713,
+   "vertical": false,
+   "desc": "Opening up a used Emrax 268 that I got for free since it wouldn't spin."
+  },
+  {
+   "id": "o2Lb7xlwzYU",
+   "t": "I pulled up to Mark Rober's Casino and Cheated",
+   "d": "2026-09-19",
+   "v": 44857,
+   "s": 441,
+   "vertical": false,
+   "desc": "I built a tested a cheating device at Mark Rober's Casino Night."
+  },
+  {
+   "id": "LQ78nl4UPPg",
+   "t": "This robot dog decides if I graduate MIT",
+   "d": "2026-10-13",
+   "v": 16287,
+   "s": 1076,
+   "vertical": false,
+   "desc": "CAD files: https://drive.google.com/file/d/1ncX_uC4gxzvPCd1Dxurlj1nNX2iaFznL/view?usp=sharing\n\n\nThe open source actuator I found online that I referenced:\nhttps://www.youtube.com/watch?v=stGwlJ-GMCY\n\nguys its really hard editing videos i keep sitting down to edit then when i sit down to edit the next day i forget what i worked on and then i restart.\ni edited this video in one session to be able to overcome that."
+  },
+  {
+   "id": "neQLgBfpT6M",
+   "t": "Utility Knives, But Wrong",
+   "d": "2026-10-31",
+   "v": 8703,
+   "s": 594,
+   "vertical": false,
+   "desc": "Alex's channel: https://www.youtube.com/@wareabouts\nBilly's channel: https://www.youtube.com/@Billarium\nFull Secret Satan playlist: https://www.youtube.com/playlist?list=PLQ7OvLVQ033c\nhttps://makerssecretsatan.com/\n\nguys i procrastinated the editing of this video way too much i'm sorryyy\nits like when i was back in school and submit things 10 minutes late and pretend it was bad wifi"
+  }
+ ]
+}

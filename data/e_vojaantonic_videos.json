@@ -1,0 +1,243 @@
+{
+ "channel": {
+  "id": "UC-_9qLytZF1q-YIgY0Stbzw",
+  "title": "Voja Antonic",
+  "handle": "@vojaantonic",
+  "description": "",
+  "since": "2011-08-09",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_n3NwkOJpNMS1GKEiwfdl8Y5qIv9bs3LMuNJimnCV9B22E=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "220365",
+  "subscriberCount": "1530",
+  "hiddenSubscriberCount": false,
+  "videoCount": "25"
+ },
+ "videos": [
+  {
+   "id": "VbTwWFwbsE4",
+   "t": "Single chip (PIC only) DIY retro game console",
+   "d": "2015-01-02",
+   "v": 20360,
+   "s": 369,
+   "vertical": false,
+   "desc": "This is the open software and open hardware project. The hardware contains one PIC24 microcontroller, small voltage regulator, a few transistors and passive components. There are connectors for VGA monitor, PC speakers, 5V power supply and RS232 (optional) for later firmware upgrade.\nThe game does not run on PC, so it was recorded by camera. That's why the picture quality is not perfect.\nDetailed DIY instructions at http://www.voja.rs/PROJECTS/npr.htm"
+  },
+  {
+   "id": "6HnW1XnXFoA",
+   "t": "Computer animation from 1979",
+   "d": "2015-01-06",
+   "v": 18139,
+   "s": 7,
+   "vertical": false,
+   "desc": "I made this animation with 16mm Bolex camera in single shot mode, and monochrome monitor. Graphic unit was  my DIY project, made of 2114 RAMs (1Kx4bits, total of 90 chips), Z80A microprocessor and about 40 TTL chips. Resolution was 300x400 (3-bit pixel), and I wrote the software in TRS80 L2 BASIC. There was the solenoid and interface which automated the whole process (1.erase - 2.render - 3.shoot the single frame - go to 1). It took about 24 hours to record this."
+  },
+  {
+   "id": "AGDNnjmzUZ4",
+   "t": "Waveshape binary clock",
+   "d": "2015-05-02",
+   "v": 12825,
+   "s": 61,
+   "vertical": false,
+   "desc": "This is the very unusual clock, but the good hacker can read its time.\nAll \"bugs\" (waveshape shaking and colour blinking) are simulated by software, so it tells the story about hard hacker's work"
+  },
+  {
+   "id": "OhFEINayP6c",
+   "t": "Listen to the colours",
+   "d": "2015-05-14",
+   "v": 824,
+   "s": 139,
+   "vertical": false,
+   "desc": "This is the small pen-like instrument which plays three tones depending on RGB components of the tested surface, to help blind persons or daltonists.\nDetails on https://hackaday.io/project/5778-listen-to-the-colours"
+  },
+  {
+   "id": "sQJSBvxbeYM",
+   "t": "USB hardware password manager",
+   "d": "2015-08-17",
+   "v": 7186,
+   "s": 121,
+   "vertical": false,
+   "desc": "The project is described at https://hackaday.io/project/5588-hardware-password-manager"
+  },
+  {
+   "id": "IFifeMkfip8",
+   "t": "BalCCon 2016 badge",
+   "d": "2015-10-01",
+   "v": 5411,
+   "s": 140,
+   "vertical": false,
+   "desc": "BalCCon 2016 official badge prototype, demonstrated in Novi Sad, on BalCCon 2015\nThere's the detailed description of the badge at http://hackaday.com/2015/10/07/conference-badges-are-the-newest-form-of-hardware-art/#comment-2744183\nHardware & firmware: Voja Antonic\nSound & video: Zoran Modli & Voja Antonic"
+  },
+  {
+   "id": "a2YFsHdKY7c",
+   "t": "Hackaday | Belgrade badge with accelerometer",
+   "d": "2016-02-28",
+   "v": 1869,
+   "s": 57,
+   "vertical": false,
+   "desc": "The final version of Hackaday | Belgrade conference badge PCB now has the place for accelerometer GY-521 or ADXL345. Here is the simple demo."
+  },
+  {
+   "id": "nr0YoYSeyoo",
+   "t": "Remote playing Tetris on Hackaday Belgrade badges",
+   "d": "2016-03-26",
+   "v": 667,
+   "s": 79,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "CZPLp6kzcBc",
+   "t": "Rf Dice reading for Sic Bo",
+   "d": "2016-06-13",
+   "v": 34948,
+   "s": 35,
+   "vertical": false,
+   "desc": "This dice reader was developed for SicBo casino game. Accelerometer detects dice number and possible irregular (jam) position. Tilt switches are used to wake the controller from sleep. Battery endurance is about 500,000 cycles."
+  },
+  {
+   "id": "53D_fnK2Kec",
+   "t": "OCR system for bingo balls",
+   "d": "2016-06-19",
+   "v": 4066,
+   "s": 25,
+   "vertical": false,
+   "desc": "There are two PIC24EP512GP806 MCUs, one of them controls the mechanical parts and communicates with server, and the other one digitizes the signal from TV camera, locates and recognises the number and generates VGA output (for calibrating and maintenance only). This is stand-alone OCR unit and works independently of PC. One ball cycle is about 1 sec."
+  },
+  {
+   "id": "jkAZXT5YPqg",
+   "t": "Vegas street music",
+   "d": "2017-12-11",
+   "v": 174,
+   "s": 170,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "rC7yrfS0TZI",
+   "t": "Hummingbird @ 480 fps",
+   "d": "2018-06-05",
+   "v": 463,
+   "s": 30,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "eRki7wwHgrU",
+   "t": "squirrel",
+   "d": "2018-10-03",
+   "v": 277,
+   "s": 72,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "44kpwE2Mv1I",
+   "t": "HAL",
+   "d": "2018-10-21",
+   "v": 3349,
+   "s": 74,
+   "vertical": false,
+   "desc": "This is the HAL 9000 replica, built for Hackaday Superconference, Pasadena, November 2-4."
+  },
+  {
+   "id": "L2eR5Ijt3DM",
+   "t": "NY 2019",
+   "d": "2019-01-01",
+   "v": 382,
+   "s": 137,
+   "vertical": false,
+   "desc": "2019 New Year's Eve at Colorado Boulevard, Pasadena, six hours before the Rose Parade"
+  },
+  {
+   "id": "KNkkfjB6_xA",
+   "t": "Descon 2020: Prevazila\u017eenje sindroma praznog papira i stvaranje uslova za kreativnost, Voja Antoni\u0107",
+   "d": "2020-10-28",
+   "v": 3594,
+   "s": 2529,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "rHACvfUD0EY",
+   "t": "A bad lowrider",
+   "d": "2021-01-01",
+   "v": 340,
+   "s": 23,
+   "vertical": false,
+   "desc": "Please don't do this at home"
+  },
+  {
+   "id": "7BSPEcjbJeU",
+   "t": "My Pasadena",
+   "d": "2021-02-25",
+   "v": 804,
+   "s": 722,
+   "vertical": false,
+   "desc": "This is my first experiment with Insta360 ONE X2 camera, attached to the roof of my car, but some shots (City Hall and Goldline Metro) were recorded manually.\nIf you ask me about my experience with the camera - not bad, but there's a lot of terrible bugs both in camera firmware and in Studio2021 application. I hope that some new software versions will solve it.\nAlso, 5.7K resolution sounds good, but it's only for the full 360\u00b0 view. When you zoom to normal view, it's too poor, as it drops close to about one MP. Max zoom-in is up to about equivalent f=30mm (roughly estimated), so if you want to"
+  },
+  {
+   "id": "3H3sWTo3E_g",
+   "t": "Badge which simulates shirt on fire",
+   "d": "2021-04-05",
+   "v": 699,
+   "s": 21,
+   "vertical": false,
+   "desc": "Please see the project description at\nhttps://hackaday.io/project/178797-shirt-on-fire"
+  },
+  {
+   "id": "s1VSa-Ad_QY",
+   "t": "Paragliders San Diego 07152021",
+   "d": "2021-07-18",
+   "v": 290,
+   "s": 247,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "GExJ-y6PMLk",
+   "t": "Pumpkin Fair - Underwood Family Farms, California, Oct. 2021",
+   "d": "2021-10-12",
+   "v": 386,
+   "s": 284,
+   "vertical": false,
+   "desc": "Recorded with Insta360\n(Rotations in leaf tunnels are 360\u00b0 trick, standard for this type of camera)"
+  },
+  {
+   "id": "Uw6D7GT9l-8",
+   "t": "Analiza pronalaska \u017deljka Mitrovi\u0107a: \"Lete\u0107i policajac\"",
+   "d": "2022-09-10",
+   "v": 2962,
+   "s": 380,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "ix__enrtYF4",
+   "t": "Hackaday Supercon Badge 2022",
+   "d": "2022-11-02",
+   "v": 99735,
+   "s": 1644,
+   "vertical": false,
+   "desc": "After three years, Hackaday Supercon again!\nPasadena, CA, November 4-6 2022.\nThis is the official badge for the event.\nProject page: https://hackaday.io/project/182568\nAbout the event: https://www.eventbrite.com/e/2022-hackaday-superconference-tickets-402410268947"
+  },
+  {
+   "id": "lwlbDGE16gE",
+   "t": "Spooky Clock",
+   "d": "2025-05-26",
+   "v": 342,
+   "s": 31,
+   "vertical": false,
+   "desc": "This is my new clock. It uses a custom vector TT font and Bezier curves to create a low-resolution anti-aliased bitmap. A 32-bit PRNG creates deformations that are virtually never repeated. As you can see, the digits are not simply replaced, but organically morphed. All of this, including the matrix refresh, is done by a PIC24EP256GP204 at 120 MHz."
+  },
+  {
+   "id": "-pSMbThbVlU",
+   "t": "My 3D Printer loves tango!",
+   "d": "2026-03-26",
+   "v": 274,
+   "s": 284,
+   "vertical": false,
+   "desc": "A. Piazzolla - Libertango, Yaroslav Makarich"
+  }
+ ]
+}

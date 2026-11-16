@@ -1,0 +1,63 @@
+{
+ "channel": {
+  "id": "UCEZM-M0-PWeR_TpwFIm35zA",
+  "title": "ElectroNuck",
+  "handle": "@electronuck",
+  "description": "Like a necromancer but for resurrecting old tech and forcing them to be musical instruments as well as willing other unholy abominations into existence.\n\n",
+  "since": "2025-02-13",
+  "avatar": "https://yt3.ggpht.com/gLhys4S2I-914CugAssBW1ZH5LvP40tFuIDjVrgtEFSekUwSByESmTChx2kMMYPqDScBWCp8xg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "3200",
+  "subscriberCount": "570",
+  "hiddenSubscriberCount": false,
+  "videoCount": "5"
+ },
+ "videos": [
+  {
+   "id": "urLUqi2jPyE",
+   "t": "Turning a Thrift Store Telephone into a Synthesizer",
+   "d": "2025-02-13",
+   "v": 419,
+   "s": 122,
+   "vertical": true,
+   "desc": "The story of turning a nostalgic phone into a scope-creeped musical instrument."
+  },
+  {
+   "id": "1VQUEm7suBc",
+   "t": "I Made the Ultimate Hyperpop Instrument out of a Telephone",
+   "d": "2025-07-17",
+   "v": 541,
+   "s": 1087,
+   "vertical": false,
+   "desc": "We created the ultimate hyperpop instrument out of an old telephone.\nMeet Synthphone-E version 2!\n\nHere are some helpful videos to understand some of the concepts in this video:\n\nPhase Vocoding and Pitch Shifting:\nhttps://www.youtube.com/watch?v=xGmRaTaBNZA\nhttps://www.youtube.com/watch?v=i09V6SkVkz8\nhttps://www.youtube.com/watch?v=fJUmmcGKZMI\n\nFourier Transform:\nhttps://www.youtube.com/watch?v=spUNpyF58BY\nhttps://www.youtube.com/watch?v=iA6wRgwl7k0\n\nFormant Manipulation:\nhttps://www.youtube.com/watch?v=jpbFnsusfp0\nhttps://www.youtube.com/watch?v=TmNo18IFqkM\nhttps://www.youtube.com/watch?v=4_S"
+  },
+  {
+   "id": "MOTztv2FLxE",
+   "t": "POV: it's 2007 and your parents are fighting in the kitchen",
+   "d": "2026-02-27",
+   "v": 336,
+   "s": 747,
+   "vertical": false,
+   "desc": "I recreated 2007 in a VR simulation so we could relive the glory days but I could not stop the parents from fighting"
+  },
+  {
+   "id": "WjwOAllEWNs",
+   "t": "We Turned An Old Telephone Into A Vocal Processor",
+   "d": "2026-08-01",
+   "v": 962,
+   "s": 64,
+   "vertical": true,
+   "desc": "Full video on my channel"
+  },
+  {
+   "id": "jbcCkfIz1OQ",
+   "t": "Turning a Model M into a Musical Instrument",
+   "d": "2026-09-02",
+   "v": 942,
+   "s": 1563,
+   "vertical": false,
+   "desc": "Taking an old IBM Model M Keyboard and turning it into a Wicki\u2013Hayden Layout MIDI controller.\n\nResources we used:\ngithub.com/dcpedit/mod-mmm\ngithub.com/peppapighs/HE60"
+  }
+ ]
+}

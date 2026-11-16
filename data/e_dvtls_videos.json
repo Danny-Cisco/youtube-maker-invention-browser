@@ -1,0 +1,45 @@
+{
+ "channel": {
+  "id": "UCsO0EkVdB09UMcrDoD2CSbg",
+  "title": "dovetail studio",
+  "handle": "@dvtls",
+  "description": "Making everything for the first time\n\nInquiries: dovetaildiy@gmail.com\n",
+  "since": "2026-06-05",
+  "avatar": "https://yt3.ggpht.com/4o3lb8OfGEtj7QyL9MqorSWxXvwleW77ukn2g_aK_rBqYZpIewI_9OggzyyJjmRug0SMqFPDrw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1796021",
+  "subscriberCount": "9350",
+  "hiddenSubscriberCount": false,
+  "videoCount": "3"
+ },
+ "videos": [
+  {
+   "id": "BAQskCuPaeY",
+   "t": "I 3D Printed a Working Piano",
+   "d": "2026-08-03",
+   "v": 519837,
+   "s": 478,
+   "vertical": false,
+   "desc": "Is it possible to 3D print a piano that you can actually play? And if so, how good is it? \n\nI experimented with compliant mechanisms, modular electronics, and more in pursuit of an acoustic-esque key action at a more affordable price. Then, I brought my project to Open Sauce to see what people think!\n\nContact: dovetaildiy@gmail.com\n\n\u2580\u2580\u2580\n\nChapters:\n0:00 Why a 3D printed piano?\n0:43 Part 1: the key\n2:00 Part 2: the assembly\n2:56 Part 3: the electronics\n4:47 Part 4: putting it together\n5:30 Demo at Open Sauce\n\n\u2580\u2580\u2580\n\nMusic, SFX, and media credits: https://tinyurl.com/dvtlpianoref1\nSoftware used: Da"
+  },
+  {
+   "id": "mhqP0N4SJKs",
+   "t": "Can You 3D Print a Working Piano?",
+   "d": "2026-08-19",
+   "v": 1255418,
+   "s": 30,
+   "vertical": true,
+   "desc": "Full video: https://www.youtube.com/watch?v=BAQskCuPaeY\nSee you there!"
+  },
+  {
+   "id": "fskh0fLAMTw",
+   "t": "How to Power an LED With Your Hands",
+   "d": "2026-08-19",
+   "v": 23933,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

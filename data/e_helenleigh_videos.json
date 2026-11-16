@@ -1,0 +1,144 @@
+{
+ "channel": {
+  "id": "UCEqvn92r7mRLYr88R-aEv-w",
+  "title": "Helen Leigh",
+  "handle": "@helenleigh",
+  "description": "",
+  "since": "2010-04-05",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_l3bjId9rv8SivADUPSSFa20It2VFBE5GSORN0uA6Yme8M=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "45934",
+  "subscriberCount": "1390",
+  "hiddenSubscriberCount": false,
+  "videoCount": "14"
+ },
+ "videos": [
+  {
+   "id": "TpLpG9aEU9k",
+   "t": "Test upload of a test video",
+   "d": "2018-11-18",
+   "v": 769,
+   "s": 21,
+   "vertical": false,
+   "desc": "You may or may not have gathered that this is a test."
+  },
+  {
+   "id": "1F-jSyc6iJM",
+   "t": "Using a Thai machete to badly smash open a coconut",
+   "d": "2018-12-16",
+   "v": 819,
+   "s": 81,
+   "vertical": false,
+   "desc": "I\u2019m staying on my friend Bua\u2019s coconut farm in Thailand and I\u2019m making some films. While waiting for my camera battery to charge, I shot this little clip of me using a cool Thai machete to open a coconut from their farm. \n\n\u202aThe coconut is largely out of shot, I\u2019m all sweaty and gross, and I did a pretty bad job ... but I think it\u2019s pretty fun anyway so here goes.  \u202c\n\nMachetes are pretty cool tools."
+  },
+  {
+   "id": "7PwswGzTKcI",
+   "t": "MINI\u00b7MU out take - cat ruins end of video",
+   "d": "2018-12-18",
+   "v": 690,
+   "s": 10,
+   "vertical": false,
+   "desc": "I thought I'd wrapped all my filming but caught this little beast while editing.... argh!"
+  },
+  {
+   "id": "J-wa163c2Vw",
+   "t": "Prototype DIY sonic circuit sculpture\u26a1\ufe0ffilthy bass sounds and handmade electronics \ud83d\udd25",
+   "d": "2019-04-13",
+   "v": 2415,
+   "s": 23,
+   "vertical": false,
+   "desc": "Here\u2019s my latest strange circuit. It\u2019s a sculpture made with brass and solder, triggering dirty synthy bass with capacitive touch. \n\nSpeakers all the way up!!\n\nPart of a new collaboration with Drew Fustini & Andrew Hockey, powered by Bela, BeagleBone and Pure Data."
+  },
+  {
+   "id": "_8q6Gq_PAiE",
+   "t": "Prototype melodic DIY sonic circuit sculpture harp \u26a1\ufe0f beautiful sounds from an otherworldly body",
+   "d": "2019-04-14",
+   "v": 1096,
+   "s": 55,
+   "vertical": false,
+   "desc": "Another strange circuit. A sculpture made with steel and solder, triggering gentle synth harp tones using capacitive touch. \n\nSpeakers on! \n\nPart of a series, made in collaboration with Andrew Hockey and Drew Fustini, powered by Bela, BeagleBone and Pure Data."
+  },
+  {
+   "id": "sqhyhH7Hu3Y",
+   "t": "Sonic creature: melodic harp circuit sculpture",
+   "d": "2019-05-11",
+   "v": 7172,
+   "s": 63,
+   "vertical": false,
+   "desc": "Here's me playing one of my sonic creatures. This creature is a melodic harp circuit sculpture that I designed and built in 12 hours at a hack session with some other electronic music nerd friends. The first prototype was made at Music Tech Fest Frankfurt, then we made it a bit less scruffy (and a lot less prone to crashing) in the little workshop in the corner of my kitchen in Berlin. \n\nAndrew Hockey designed the sound. It is tuned to C minor and has a three octave range from left to right.\n\nMaterials: steel wire, solder and paper. \nTechnologies: Capacitive Touch, Bela, BeagleBone Black and P"
+  },
+  {
+   "id": "LM3rKevSr5M",
+   "t": "Sonic creature: bass circuit sculpture",
+   "d": "2019-05-11",
+   "v": 2193,
+   "s": 30,
+   "vertical": false,
+   "desc": "Now with tremelo and variable note length! \n\nHere's me playing one of my sonic creatures. This creature is a bass circuit sculpture that I designed and built a half day hack session. It was made in the little workshop in the corner of my kitchen in Berlin. \n\nAndrew Hockey designed the sound. It has a range of one octave, is tuned to C minor and the rightmost limbs trigger two effects: a tremelo and a delay. \n\nMaterials: brass rods, solder and paper. \nTechnologies: Capacitive Touch, Bela Mini, Pocket Beagle and Pure Data.\n\nFind more of my strange circuits on....\n\nTwitter: https://twitter.com/he"
+  },
+  {
+   "id": "OBcVMPdAIoE",
+   "t": "How to code a DIY cardboard Robot Unicorn using a MicroBit",
+   "d": "2019-05-22",
+   "v": 6884,
+   "s": 369,
+   "vertical": false,
+   "desc": "I made a herd of very unreliable, very cute Robot Unicorns. You can make one too! \n\nHere's how to code your unicorn using one Micro:Bit. If you have two MicroBits you can gesture control your unicorn! Find out how here: https://www.youtube.com/watch?v=qAakgfNouOI\n\nHere's how you can code yours! Files for all the code in this video plus printable files for the body, head and unicorn horn can be found on my GitHub:\n\nhttps://github.com/helenleigh/robot-unicorn\n\nMake instructions can be found here:\n\nhttps://www.youtube.com/watch?v=CKqrMxuZ6gQ\n\nMaterials: cardboard, tinsel, opalescent 3D printing f"
+  },
+  {
+   "id": "CKqrMxuZ6gQ",
+   "t": "How to make a Robot Unicorn with cardboard and servo motors",
+   "d": "2019-05-22",
+   "v": 14596,
+   "s": 682,
+   "vertical": false,
+   "desc": "I made a herd of very unreliable, very cute Robot Unicorns that you can control with gestures. \n\nHere's how you can make your own! Files for the body, head and unicorn horn can be found on my GitHub.\n\nMaterials: cardboard, tinsel, opalescent 3D printing filament. \nTechnologies: gesture control, servo motors and Microbits.\n\nFind more of my inventions on....\n\nTwitter: https://twitter.com/helenleigh\nInsta: https://www.instagram.com/helenleigh_...\nWebsite: https://doitkits.com/"
+  },
+  {
+   "id": "qAakgfNouOI",
+   "t": "Code your gesture controlled robot unicorn",
+   "d": "2019-06-06",
+   "v": 3883,
+   "s": 788,
+   "vertical": false,
+   "desc": "I made a herd of very unreliable, very cute Robot Unicorns that you control with gestures. \n\nHere's how you can code yours! Files for all the code in this video plus printable files for the body, head and unicorn horn can be found on my GitHub:\n\nhttps://github.com/helenleigh/robot-unicorn\n\nMake instructions can be found here:\n\nhttps://www.youtube.com/watch?v=CKqrMxuZ6gQ\n\nMaterials: cardboard, tinsel, opalescent 3D printing filament. \nTechnologies: gesture control, servo motors and Microbits.\n\nFind more of my inventions on...\n\nTwitter: https://twitter.com/helenleigh\nInsta: https://www.instagram"
+  },
+  {
+   "id": "fl8L-_I5Lm0",
+   "t": "My favourite technologies to teach with",
+   "d": "2019-08-11",
+   "v": 1127,
+   "s": 905,
+   "vertical": false,
+   "desc": "For Make Magazine's Maker Education teacher workshop at Makerfaire. \n\nI talk about the tech I use all the time in my classrooms. Featuring...\n\nPhysical Computing \n- MicroBit\n- Circuit Playground Express\n- Calliope\n- Makey Makey\n\nGoing further with Physical Computing\n- Arduino\n- Raspberry Pi\n- Adafruit boards\n\nCraft based technologies \n- Paper circuits, including Chibitronics and Maker Tape from Brown Dog Electronics\n- Sewable circuits and wearables, including Kitronik\u2019s ElectroFashion range from Pimoroni.de\n- Simple craft based robots including brush bots and art bots - best brush bot kit is f"
+  },
+  {
+   "id": "aGDYuqumycA",
+   "t": "Music hacking & soft electronics! Short talk at Raspberry Pint about some of my recent projects",
+   "d": "2020-05-04",
+   "v": 553,
+   "s": 1957,
+   "vertical": false,
+   "desc": "Just me, chatting about some of the noisy squishy things I've made in the last year or so. I talk about my favourite tech to use for making embedded instruments (spoiler alert: Bela, Pure Data, micro:bit) and also geek out over embroidered electronics and flex PCBs from OSH Park. \n\nI gave this short talk at a Raspberry Pint meet up on Zoom in April 2020. Apologies for the shoddy video quality, my internet in Berlin is appalling. \n\nIf you want to know more of my thoughts on music tech stuff, check out the livestream I did last week over on the Molten Music Tech channel: https://www.youtube.com/"
+  },
+  {
+   "id": "e1DXuOvg2hM",
+   "t": "I made a soft, cuddly tentacle that purrs when you stroke it",
+   "d": "2020-05-09",
+   "v": 3106,
+   "s": 90,
+   "vertical": false,
+   "desc": "I made a soft, kind creature that helps me feel less anxious. \n\nI designed the weight, texture and sound of the creature to be comforting, but I also wanted to share how calming the making process itself is to me. \n\nThis project works using a Bare Conductive board with a single sample loaded onto the SD card. This sample is triggered by me stroking the machine embroidered conductive thread that runs down the middle of my creature. This thread is attached to my board using a metal press stud that I soldered to a piece of solid core wire, which in turn is soldered to one of the electrodes on the"
+  },
+  {
+   "id": "mA_8kIhqYck",
+   "t": "Helen Leigh Live Stream",
+   "d": "2021-03-22",
+   "v": 637,
+   "s": 5722,
+   "vertical": false,
+   "desc": ""
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "channel": {
+  "id": "UCu-cHa2_84GJOfF0SCEEB5g",
+  "title": "ChromaLock",
+  "handle": "@chromalock",
+  "description": "i like doing things the wrong way\n\nFor business or sponsorship inquiries, please email chromalock@intheblackmedia.com",
+  "since": "2013-06-09",
+  "avatar": "https://yt3.ggpht.com/q8yyCfUxP27C-HZLi_jjvP0LQeMwVBvPdD8o3Y6vpVwSGase9igyO6lBf5I3QaYT3eHOCWfX=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "18470330",
+  "subscriberCount": "78100",
+  "hiddenSubscriberCount": false,
+  "videoCount": "38"
+ },
+ "videos": [
+  {
+   "id": "IbI8a11eOAU",
+   "t": "Building Polyhedrals | Laser Cutting & 3D Printing",
+   "d": "2023-10-14",
+   "v": 2306,
+   "s": 313,
+   "vertical": false,
+   "desc": "0:00 Intro\n0:27 What are platonic solids?\n1:27 CAD Explanation\n3:32 Building\n4:58 Outro\n\nMusic by me: https://on.soundcloud.com/EBq7b\n\nParametric edge connector: https://cad.onshape.com/documents/502d74928f36d8f3039d5ce9/w/3f0d67f4839a7655ff016b17/e/50ee3675c1d92bb992d2ea23\n\nVertex connectors:\nTetrahedron: https://cad.onshape.com/documents/f0a0087f750873477de2b6f5/w/02a55edb554a864505c0633b/e/a3a1f9436ab67a3bc56c740e\nCube: https://cad.onshape.com/documents/d4bdaf9a72f8d840dd3a67b6/w/eaed7c483c0a4e676dc91969/e/0c23c41724e38477e4617a0e\nOctahedron: https://cad.onshape.com/documents/d2b46803a4e1a1"
+  },
+  {
+   "id": "4ttiExejlas",
+   "t": "the lick, but on a stepper motor",
+   "d": "2023-11-02",
+   "v": 5889,
+   "s": 2,
+   "vertical": true,
+   "desc": "Follow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "Vso7Q5Zmiyc",
+   "t": "Upgrading My Rice Cooker",
+   "d": "2023-11-02",
+   "v": 14254,
+   "s": 323,
+   "vertical": false,
+   "desc": "Follow me on insta: @chromalock (https://www.instagram.com/chromalock/)\nOther links: https://beacons.ai/chromalock\n\nMy rice is no longer burnt, so now i can get turnt"
+  },
+  {
+   "id": "pbXcGNmZFzk",
+   "t": "Fixing My Tea Problem\u2122",
+   "d": "2023-11-22",
+   "v": 5407,
+   "s": 63,
+   "vertical": true,
+   "desc": "Follow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock\n\nStepper motors go brrrr\n\nMusic: Sonic Unleashed OST - Apotos Windmill Isle (Day)"
+  },
+  {
+   "id": "KvK_VXLjrts",
+   "t": "Tetris Theme A (Microwave Remix)",
+   "d": "2023-12-08",
+   "v": 4859,
+   "s": 30,
+   "vertical": true,
+   "desc": "Follow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "_miwNAN1qu8",
+   "t": "Non-linear Easings in Kdenlive",
+   "d": "2023-12-20",
+   "v": 2378,
+   "s": 267,
+   "vertical": false,
+   "desc": "Thought some other folks using Kdenlive would find this helpful.  \nhttps://tkaden4.github.io/kdenlive-easings/\nFeel free to open issues or create pull requests!\n\n0:00 Intro\n0:43 Example 1\n2:03 Example 2\n3:24 Limitations\n4:03 Outro\n\nFollow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "fKnTiFDri_s",
+   "t": "The V/V/V/V/V/V/V/V/V/V/V Chord",
+   "d": "2023-12-23",
+   "v": 5521,
+   "s": 56,
+   "vertical": true,
+   "desc": "Follow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "aVGKIBbr2n0",
+   "t": "Replacing the Battery in my old Pokemon Blue Cartridge",
+   "d": "2024-01-14",
+   "v": 8066,
+   "s": 45,
+   "vertical": true,
+   "desc": "Music: https://youtu.be/fyjwsXi6QZA?si=7I_fDFbZh41PySUK\n\nFollow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "yEUfimIh9Z4",
+   "t": "Easings Tool for Kdenlive (Part 2) | Rotation, Keyframe Import, and Repeats",
+   "d": "2024-01-17",
+   "v": 1029,
+   "s": 157,
+   "vertical": false,
+   "desc": "This is an update to a previous video: https://www.youtube.com/watch?v=_miwNAN1qu8\nhttps://tkaden4.github.io/kdenlive-easings/\n\nMusic:\nHOME - Morning Chords\n\nFollow me on instagram: https://instagram.com/chromalock\nOther links: https://beacons.ai/chromalock"
+  },
+  {
+   "id": "b-qwwF_FC1c",
+   "t": "Fixing Pokemon Stadium",
+   "d": "2024-02-16",
+   "v": 126152,
+   "s": 656,
+   "vertical": false,
+   "desc": "Stay tuned for more Pokemon code analysis \ud83e\udd13\n\n00:00 Intro\n01:02 The Tragedy of Lil Stank\n02:00 Can we recreate the bug? \n04:03 Encodings are Hard\n07:39 Was GB Tower innocent all along?\n09:57 Recap / Outro"
+  },
+  {
+   "id": "Dm_QEWFKMUc",
+   "t": "(Actually) Fixing Pokemon Stadium",
+   "d": "2024-04-19",
+   "v": 80283,
+   "s": 920,
+   "vertical": false,
+   "desc": "Previous video: https://www.youtube.com/watch?v=b-qwwF_FC1c\n\nI swear the next video wont take this long \ud83e\udd1e\n\n00:00 Last time on ChromaLock\n00:45 Can you fix pokemon with later versions?\n02:50 Mr. Mime is weird\n04:34 GameShark to the rescue\n06:05 How do GameShark codes work?\n07:40 Washington, Oregon, California\n09:55 Testing the codes\n11:54 SPEED ROUND\n13:50 Channel Update + Thanks\n15:08 Credits\n\nBusiness/Sponsorship Queries: contact.chromalock@gmail.com"
+  },
+  {
+   "id": "xsAM3Wtn7dg",
+   "t": "Hacking Pokemon Stadium",
+   "d": "2024-05-05",
+   "v": 25562,
+   "s": 602,
+   "vertical": false,
+   "desc": "Told you the next video wouldn't take as long.\n\nGameShark Codes: https://gist.github.com/tkaden4/fb10ebd59c7567fe3a4c169c998a84a5\nGS Code ShortLink: [https://shorturl.at/rIK58](https://shorturl.at/rIK58 \"https://shorturl.at/rIK58\")\n\n00:00 Intro\n00:46 spite\n01:25 reverse engineering time\n02:59 gameshark codes\n04:35 Nano64\n05:10 how it works\n07:43 on a real n64/gameshark\n9:15 Outro"
+  },
+  {
+   "id": "F2y92obnsc0",
+   "t": "Can You Tune A Fish?",
+   "d": "2024-07-16",
+   "v": 954637,
+   "s": 787,
+   "vertical": false,
+   "desc": "Today is the day I break free from Pokemon Stadium.\n\n==== SPONSORSHIP AND BUSINESS INQUIRIES ====\nchromalock@intheblackmedia.com\n\nThanks to the members of the Safety Third discord for providing feedback and suggestions!\nSafety Third: https://www.youtube.com/@safetythird\n\nInstagram: https://www.instagram.com/chromalock/\n\n=== CHAPTERS ===\n00:00 intro\n00:36 tuner? i barely know her!\n01:41 no music theory\n01:57 gettin fleshy\n03:17 flesh stylophone\n04:53 Piano more like Pianyes\n09:18 tuning a fish ig\n12:22 outro and thanks\n\n=== Music Used (In Order of Appearance) ===\nFresh Pastries - Lofive\nGiant S"
+  },
+  {
+   "id": "Bicjxl4EcJg",
+   "t": "I Made The Ultimate Cheating Device",
+   "d": "2024-09-14",
+   "v": 3054942,
+   "s": 579,
+   "vertical": false,
+   "desc": "don't let any of your teachers see this.\n\n==== SPONSORSHIP AND BUSINESS INQUIRIES ====\nchromalock@intheblackmedia.com\n\nKeith Sachs: @KeithSachs \npatreon: https://patreon.com/ChromaLock\n\n:)"
+  },
+  {
+   "id": "yPI6gURLLUs",
+   "t": "Bringing Video To the Link Port",
+   "d": "2024-12-20",
+   "v": 40429,
+   "s": 621,
+   "vertical": false,
+   "desc": "This video was sponsored by PCBWay!\n(FREE $5 of new user credit): https://pcbway.com/g/ea9jl9\n\ngithub: https://github.com/chromalock/CGBLinkVideo\ndiscord: https://discord.gg/jupzGKEh4N\npatreon: https://patreon.com/ChromaLock\nbuy me a coffee: https://buymeacoffee.com/contactchrh\n\n:)"
+  },
+  {
+   "id": "3kpP6KJ8_ig",
+   "t": "i printed a permanent glove",
+   "d": "2025-01-11",
+   "v": 12896913,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SUTJY428x6A",
+   "t": "separating the gator from the ade",
+   "d": "2025-01-20",
+   "v": 5688,
+   "s": 72,
+   "vertical": true,
+   "desc": "\u1d57 \u02b0 \u1d43 \u1d57 \u02e2  \u1d57 \u02b0 \u1d49  \u1d4d \u1d43 \u1d57 \u1d52 \u02b3  \u02b7 \u1d43 \u1d57 \u1d49 \u02b3"
+  },
+  {
+   "id": "qpFCwlSGI54",
+   "t": "turning my DNA into a minecraft world",
+   "d": "2025-02-12",
+   "v": 37530,
+   "s": 44,
+   "vertical": true,
+   "desc": "5334f3a385411604ad33e0fc394c1674"
+  },
+  {
+   "id": "Wh1sYWEAE2c",
+   "t": "speen",
+   "d": "2025-02-23",
+   "v": 6341,
+   "s": 5,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "w7lZ4g1HPNc",
+   "t": "The GatorLeyden Jar",
+   "d": "2025-04-05",
+   "v": 27465,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "axL2Oglqhb4",
+   "t": "Cheese Grater Beef",
+   "d": "2025-06-19",
+   "v": 429148,
+   "s": 62,
+   "vertical": true,
+   "desc": ":)"
+  },
+  {
+   "id": "eMv9sS1i358",
+   "t": "making the longest drill bit",
+   "d": "2025-06-23",
+   "v": 388415,
+   "s": 74,
+   "vertical": true,
+   "desc": "/  /==============================================================- x=|\n3 |"
+  },
+  {
+   "id": "zBAPALAGqp0",
+   "t": "why not use a drill scope?",
+   "d": "2025-06-28",
+   "v": 27205,
+   "s": 45,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "u8ksKLK0vlE",
+   "t": "squibbin",
+   "d": "2025-09-08",
+   "v": 13976,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "CqDCjk9Gtx0",
+   "t": "Reverse Engineering Mr. Beast's Secret Squibs",
+   "d": "2025-09-08",
+   "v": 32178,
+   "s": 899,
+   "vertical": false,
+   "desc": "robbing mr bean\n\nWilliam Osman Video: https://youtu.be/hdt18p-VMmQ\nKarat Interview: https://youtu.be/fNw60_-xnSU\nSafety Third 27: https://youtu.be/6SOiZSGtdGI\nMr. Bean Video: https://youtu.be/0e3GPea1Tyg\n\nThis video was sponsored by PCBWay!\n(FREE $5 of new user credit): https://pcbway.com/g/ea9jl9\n\n==== SPONSORSHIP AND BUSINESS INQUIRIES ====\nchromalock@intheblackmedia.com\n\ngithub: https://github.com/chromalock/OpenSquib\npatreon: https://patreon.com/ChromaLock\nbuy me a coffee: https://buymeacoffee.com/contactchrh\n\n:)"
+  },
+  {
+   "id": "96VcyBN0dX4",
+   "t": "Hacking a $10 Pizza Sign",
+   "d": "2025-10-03",
+   "v": 146277,
+   "s": 556,
+   "vertical": false,
+   "desc": "pizza time\n\n=== BUSINESS AND SPONSORSHIP INQUIRIES ===\nchromalock@intheblackmedia.com\n\ngithub: https://github.com/chromalock\npatreon:   https://patreon.com/ChromaLock\nbuy me a coffee: https://buymeacoffee.com/contactchrh\n\n:)"
+  },
+  {
+   "id": "UXeG1IOHTrQ",
+   "t": "I Made a Giant Pizza Sign (out of spite)",
+   "d": "2025-10-09",
+   "v": 11935,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UoC_WU8xI1Q",
+   "t": "Turning A Boomer Toy Into a DOOM-er Toy",
+   "d": "2025-11-27",
+   "v": 5920,
+   "s": 923,
+   "vertical": false,
+   "desc": "Check out PCBWay and get a free $5 credit as a new user!: https://pcbway.com/g/ea9jl9\n\n===== LINKS =====\n\n===== CONTACT  =====\nFor business or sponsorship inquiries, please email chromalock@intheblackmedia.com.\n\n===== SOCIALS =====\npatreon: https://patreon.com/ChromaLock\nbluesky: https://bsky.app/profile/chromalock.bsky.social\ninstagram: https://www.instagram.com/chromalock/"
+  },
+  {
+   "id": "85DdRGfMv3U",
+   "t": "The See'N'Slay",
+   "d": "2025-11-27",
+   "v": 1945,
+   "s": 75,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yg8_eD-1IHo",
+   "t": "I Built Pay-(head)-Phones",
+   "d": "2026-01-21",
+   "v": 8589,
+   "s": 502,
+   "vertical": false,
+   "desc": "Learn for free on Brilliant for a full 30 days: https://brilliant.org/ChromaLock/. You\u2019ll also get 20% off an annual Premium subscription.\n\nThis video was sponsored by Brilliant."
+  },
+  {
+   "id": "0_VXWU7Xhnk",
+   "t": "using E-Matches for squibs",
+   "d": "2026-05-03",
+   "v": 2186,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YLttcDYQr2Q",
+   "t": "Can you build a Pipe Organ out of Recorders?",
+   "d": "2026-05-23",
+   "v": 38310,
+   "s": 1008,
+   "vertical": false,
+   "desc": "PC/Console: https://wtplay.link/chromalock\nMobile (bonus pack not available): https://wtm.game/chromalock\n\nCheck out War Thunder FOR FREE, and if you haven't played in the last 6 months or are a new user, get the MASSIVE free bonus pack (vehicles, boosters, and MORE) using my links:\n\n\n00:00 vibeo\n00:34 warthunder\n02:00 vibeo 2"
+  },
+  {
+   "id": "W-pGvy_-dOc",
+   "t": "recorder organ plays tetris",
+   "d": "2026-05-24",
+   "v": 1700,
+   "s": 19,
+   "vertical": true,
+   "desc": "i built a recorder organ recently. figured you might enjoy this."
+  },
+  {
+   "id": "vSZ4k4K7DsY",
+   "t": "recorder organ plays mii theme",
+   "d": "2026-05-24",
+   "v": 1611,
+   "s": 19,
+   "vertical": true,
+   "desc": "i built a recorder organ"
+  },
+  {
+   "id": "jpWHNPX2mdk",
+   "t": "recorder organ plays evangelion theme",
+   "d": "2026-05-24",
+   "v": 178,
+   "s": 16,
+   "vertical": true,
+   "desc": "i build a recorder organ"
+  },
+  {
+   "id": "mRrVrg-FIT4",
+   "t": "I took my multimeter to meet his maker #ad #fluke",
+   "d": "2026-09-15",
+   "v": 36380,
+   "s": 57,
+   "vertical": true,
+   "desc": "Check out www.fluke.com and follow @FlukeCorp on Instagram, YouTube, Tiktok and Facebook."
+  },
+  {
+   "id": "p0iveSjRoVM",
+   "t": "which mic sounds best?",
+   "d": "2026-09-22",
+   "v": 9153,
+   "s": 10,
+   "vertical": true,
+   "desc": "i found a mic at a thrift store and wanted to compare it to all my mics:\nhere it is btw\n\nhttps://www.amazon.com/dp/B000XI6O2W"
+  },
+  {
+   "id": "qURoHPyMz0Y",
+   "t": "I Attempted to Build a Dangerous Guitar Pedal",
+   "d": "2026-10-31",
+   "v": 2192,
+   "s": 536,
+   "vertical": false,
+   "desc": "Shoutout to @KeithSachs for hosting this event, and @SamMakes + @TheMrKite for participating with me!"
+  }
+ ]
+}

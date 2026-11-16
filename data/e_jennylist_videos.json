@@ -1,0 +1,450 @@
+{
+ "channel": {
+  "id": "UCC6Y8iIaB_nNnRZMevFM2Sg",
+  "title": "Jenny List",
+  "handle": "@jennylist",
+  "description": "I'm a British electronic engineer and technical journalist writing mostly for Hackaday. This is where I talk about the stuff I do for myself when I'm not writing about other people's work. Videos here are not part of my Hackaday work and I am not speaking as a Hackaday writer in them.\n\nAt the end of my videos you'll often see me talk about something else I'm involved in. Trans Rescue is a small no",
+  "since": "2011-08-10",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mJQJfZWav1BfZ_1y5sKObUU2WKQPiaDGwdYbr9bC4chLA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "133506",
+  "subscriberCount": "1230",
+  "hiddenSubscriberCount": false,
+  "videoCount": "47"
+ },
+ "videos": [
+  {
+   "id": "WiFEicJ6grM",
+   "t": "Mahler's first symphony, as played by 12 networked Sinclair ZX Spectrums",
+   "d": "2014-12-06",
+   "v": 3832,
+   "s": 1113,
+   "vertical": false,
+   "desc": "This video shows a performance of Mahler's first symphony by an orchestra of 12 networked ZX Spectrum computers, on the 6th of December 2014 at the Museum of the History of Science, Oxford.\n\nThe original Spectrum manual featured a listing to play a few bars of Mahler's First, with the reader asked to play the whole piece as an exercise. Here's Matt Westcott completing that exercise with the help of a few friends and a table covered in Spectrums. In the process of making this possible it is also believed that the record was broken for the number of networked Spectrums in one place.\n\nNote: After"
+  },
+  {
+   "id": "n3U1x13E_xU",
+   "t": "SSTV transmitter using the Raspberry Pi",
+   "d": "2015-07-09",
+   "v": 4091,
+   "s": 64,
+   "vertical": false,
+   "desc": "A demonstration of a simple slow-scan television (SSTV) transmitter using the Raspberry Pi. The hardware is this RF breakout kit: https://www.kickstarter.com/projects/2001938575/rf-breakout-kit-for-the-raspberry-pi and the software is this proof-of-concept: https://github.com/JennyList/LanguageSpy/tree/master/RaspberryPi/rf/sstv"
+  },
+  {
+   "id": "CvFHc7fW6Sw",
+   "t": "Digital Zoetrope",
+   "d": "2016-03-06",
+   "v": 2977,
+   "s": 10,
+   "vertical": false,
+   "desc": "This is Brian Corteil's digital zoetrope, in action at the Raspberry Pi 4th birthday party, March 6th 2016.\nMore info: http://www.corteil.co.uk/Blog/making/digital-zoetrope/"
+  },
+  {
+   "id": "900WH7Mh3eQ",
+   "t": "Fire Pong at EMF Camp 2016",
+   "d": "2016-08-09",
+   "v": 5821,
+   "s": 41,
+   "vertical": false,
+   "desc": "This is the fire pong game at EMF Camp 2016. A series of flames separate the players, who bat a big flame backwards and forwards until one misses the return. You can see one player in the background with the big bat."
+  },
+  {
+   "id": "zrD6dpDZits",
+   "t": "EMF Camp 2016 twirling musical art installation",
+   "d": "2016-08-10",
+   "v": 419,
+   "s": 25,
+   "vertical": true,
+   "desc": "This interactive musical artwork at EMF Camp 2016 engaged and fascinated many passers-by."
+  },
+  {
+   "id": "xR7tNoJHab0",
+   "t": "Colossus MkII computer at The National Museum Of Computing",
+   "d": "2016-08-21",
+   "v": 3487,
+   "s": 67,
+   "vertical": true,
+   "desc": "This is a walk round the replica Colossus MkII computer at The National Museum Of Computing, Bletchley Park, UK."
+  },
+  {
+   "id": "29Hd1F_89C4",
+   "t": "Fitting a set of solderless header pins to a Raspberry Pi Zero with a pin hammer",
+   "d": "2017-01-14",
+   "v": 10051,
+   "s": 127,
+   "vertical": false,
+   "desc": "This shows a set of the Pimoroni solderless push-fit header pins being installed on a Raspberry Pi Zero with the aid of their jig, and a pin hammer."
+  },
+  {
+   "id": "vXIVljCDqj0",
+   "t": "Repeated unplugging and plugging a GertVGA board into a Raspberry P Zero",
+   "d": "2017-01-14",
+   "v": 2013,
+   "s": 25,
+   "vertical": false,
+   "desc": "This shows a small part of the test procedure for the Pimoroni solderless header pins for the Raspberry Pi Zero. A GertVGA board is being repeatedly plugged and unplugged from the Pi to simulate heavy usage. We did this over a hundred times."
+  },
+  {
+   "id": "4nd20V0CwtY",
+   "t": "Track selector mechanism on a BSR 8-track player",
+   "d": "2017-03-29",
+   "v": 3209,
+   "s": 15,
+   "vertical": false,
+   "desc": "This shows the solenoid operated cam on a BSR 8-track stereo player that moves the head up and down to select the individual tracks. I'm operating it with a set of tweezers to show how it works."
+  },
+  {
+   "id": "GhItRZIWOWU",
+   "t": "Gasman chiptunes at EMF 2016",
+   "d": "2017-12-16",
+   "v": 197,
+   "s": 100,
+   "vertical": false,
+   "desc": "A short clip of my friend and fellow Oxford Hackspace member Matt \"Gasman\" Westcott's chiptune set from EMF Camp 2016. Found in a trawl through my phone video archive looking for something else."
+  },
+  {
+   "id": "mD4KORnE72M",
+   "t": "Why British BS1363A mains plugs are the best in the world.",
+   "d": "2017-12-28",
+   "v": 1344,
+   "s": 22,
+   "vertical": false,
+   "desc": "Some people say it's because of the shuttered sockets, shielded pins, and integrated fuse. They're wrong, it's the unique ability to open beer bottles. Try that with your NEMA or your Schuko!"
+  },
+  {
+   "id": "305o9L3DmVs",
+   "t": "Collapsing an oil drum with the Power Of Science! Hacker Hotel 2019",
+   "d": "2019-02-19",
+   "v": 184,
+   "s": 70,
+   "vertical": false,
+   "desc": "A demonstration at Hacker Hotel 2019, Feb 2019 in the Netherlands, collapsing an oil drum under atmospheric pressure by condensing steam inside it. Recorded by my camera's video snippet feature while taking still pictures."
+  },
+  {
+   "id": "NCYClbyzw58",
+   "t": "Jenny List Live Stream",
+   "d": "2020-03-24",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "P55EWIww_Vs",
+   "t": "Manufacture of the Grundlagen Audio Gold Reference digital audio USB cable",
+   "d": "2020-04-01",
+   "v": 2644,
+   "s": 160,
+   "vertical": false,
+   "desc": "This video shows the manufacture of a very high quality gold USB cable for audiophile quality digital audio transfer.\n\nIt's part of an April Fool for Hackaday, see https://hackaday.com/2020/04/01/gold-cables-really-do-work-the-best/ ."
+  },
+  {
+   "id": "usfhm8rtouY",
+   "t": "Kelly Kettle review - Stainless Steel \"Trekker\" model",
+   "d": "2020-05-23",
+   "v": 2222,
+   "s": 438,
+   "vertical": false,
+   "desc": "This is my Kelly Kettle water boiler and stove attachment. It's probably the most efficient way to boil water outdoors, and it uses twigs etc. as fuel. I've wanted one for years, and as a lockdown treat because I'm not spending on some of my usual outlays, I've bought one. Mine has the cooking pot and attachment for putting it on top of the kettle, and here I'm firing the kettle up for the first time, boiling some water, and making some noodles with it.\n\nThe Kelly Kettle people can be found here: https://www.kellykettle.com/"
+  },
+  {
+   "id": "4fH4759z8T8",
+   "t": "The CRT2000 Handheld Cyberdeck",
+   "d": "2022-05-28",
+   "v": 346,
+   "s": 39,
+   "vertical": false,
+   "desc": "My not-entirely-serious entry at the Outline 2022 demo party. It's a real project, but this is a joke video."
+  },
+  {
+   "id": "rMHyIJiuAD4",
+   "t": "What's On Jenny's Bench: Digital Super 8 cartridge, part 1",
+   "d": "2023-02-21",
+   "v": 16266,
+   "s": 736,
+   "vertical": false,
+   "desc": "An introduction to some work I've been doing with Super 8 movie cameras, creating a digital cartridge with a Raspberry Pi.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. At time of upload we have an appeal, we have a passenger stuck for whom we need to raise cash for a flight. Please click on the following link for more details, and give us your support. https://transrescue.org/rudys-on-her-way-nancy-isnt-we-need-your-help"
+  },
+  {
+   "id": "DHZ9sHTW6DE",
+   "t": "What's On Jenny's Bench: Digital Super 8 cartridge, part 2",
+   "d": "2023-03-08",
+   "v": 6708,
+   "s": 420,
+   "vertical": false,
+   "desc": "Continuing my Super 8 digital cartridge series, here I illustrate the focus problem with some real footage, and show you another prototype I made using an ESP32 instead of a Raspberry Pi Zero.\n\nThe footage is pretty simple, a still life of a Tux plushie and a bottle of Club-Mate. It's out of focus unless the camera zooms in, and then it's only possible to focus about a metre away. This is very obviously a result of the sensor being too far back, and it demonstrates that the project still needs work.\n\nThe second half of the video is devoted to my other prototype, using an ESP32. It's much cheap"
+  },
+  {
+   "id": "M-JUQ07jUkY",
+   "t": "Super 8 camera teardown: What's On Jenny's Bench",
+   "d": "2023-03-15",
+   "v": 1800,
+   "s": 1166,
+   "vertical": false,
+   "desc": "As a continuation of my series on a digital cartridge for Super 8 cameras, I'm looking at the cameras themselves. This is a teardown of my test camera, a very battered Minolta XL-250 from about 1974 that I picked up in a Dutch second hand store a while back. \n\nI'm particularly impressed with the design of this camera, unlike some of its contemporaries it's made to be dismantled and repaired with ease.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, an"
+  },
+  {
+   "id": "PflR7qbyOLA",
+   "t": "Finally! A Fix For The Caps Lock Key! What's On Jenny's Bench",
+   "d": "2023-03-28",
+   "v": 264,
+   "s": 423,
+   "vertical": false,
+   "desc": "Hitting the Caps Lock key by accident has been the bane of my life, as I end up SHOUTING AS I TYPE. Here I finally did something about it for my Thinkpad USB keyboard, by making a cover for the key in OpenSCAD. I go through the creation in the video, and provide some pointers for how to do the same on other keyboards.\n\nYou can find the files in my GitHub repository at https://github.com/JennyList/caps-lock-key-cover\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for m"
+  },
+  {
+   "id": "yVY8U5CFZAA",
+   "t": "A New Single 8 Movie Cartridge In 2023: What's On Jenny's Bench",
+   "d": "2023-04-07",
+   "v": 2656,
+   "s": 880,
+   "vertical": false,
+   "desc": "The \"other\" 8mm movie camera format was Fuji's Single 8, for which new film cartridges haven't been manufactured since around 2010.\n\n\nThis is an introduction to a long-term project of mine, re-creating the Single 8 cartridge to have a refillable cartridge that can be loaded with Super 8 film stock. It's a work in progress, but it shows promise and has a good chance of resulting in a working cartridge.\n\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, a"
+  },
+  {
+   "id": "gYYqynN0Mr0",
+   "t": "A New Single 8 Cartridge Part 2: What's On Jenny's Bench",
+   "d": "2023-04-23",
+   "v": 889,
+   "s": 345,
+   "vertical": false,
+   "desc": "My new Single 8 cartridge project, the second instalment.\n\nIf you're used to Super 8, the \"other\" 8mm movie camera format was Fuji's Single 8, for which new film cartridges haven't been manufactured since around 2010.\n\nThis is a long-term project of mine, re-creating the Single 8 cartridge to have a refillable cartridge that can be loaded with Super 8 film stock. Here I show you my first dimensionally accurate cartridge, and discuss why my reel sesign is flawed. It's a work in progress, but this progress makes us much closer to a working cartridge. I'll be back with a redesigned reel for a fut"
+  },
+  {
+   "id": "b7hVY0ctULY",
+   "t": "A New Single 8 Cartridge Part 3: What's On Jenny's Bench",
+   "d": "2023-05-22",
+   "v": 1296,
+   "s": 825,
+   "vertical": false,
+   "desc": "If you're used to Super 8, the \"other\" 8mm movie camera format was Fuji's Single 8, for which new film cartridges haven't been manufactured since around 2010.\n\nThis is a long-term project of mine, re-creating the Single 8 cartridge to have a refillable cartridge that can be loaded with Super 8 film stock. Here I show you my first cartridge loaded with film, show you my jig for reeling film from a Super 8 cartridge into a Single 8 shell.\n\nI've addressed the flaws in my reel design I mentioned previously, though I'm still having a few friction issues. The next video should have some shootable fi"
+  },
+  {
+   "id": "KkA4EcvjDdw",
+   "t": "Is This The Cheapest Audio Mixer You Can Build? What's On Jenny's Bench",
+   "d": "2023-06-06",
+   "v": 1149,
+   "s": 691,
+   "vertical": false,
+   "desc": "I needed a small audio mixer, and the cheaper offerings are pretty dismal. So I took an AliExpress module for a karaoke machine and turned it into a small benchtop mixer. It's not without issues, but with a THD+n of 0.27% and costing under a tenner to build, it's much better than I expected for the outlay.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, and give us your support. https://transrescue.org/"
+  },
+  {
+   "id": "5zvgmXJs2yI",
+   "t": "A decent microphone and mount for under a tenner! What's On Jenny's Bench",
+   "d": "2023-06-20",
+   "v": 1381,
+   "s": 418,
+   "vertical": false,
+   "desc": "I picked up second-hand a Logitech gaming microphone and an Ikea Kvart clamp lamp for 4 quid each. Using a 3D-printed adaptor I made a decent gooseneck microphone for my bench, and all for under ten pounds.\n\nThese gaming mics were made as console peripherals for Rock Band games, and can be found with a variety of brand names. They're hardly broadcast quality but they sold for about 25 quid when new, and for the 4 quid I paid they're certainly good enough quality for my needs and for the price.\n\nAll the files to make your own can be found in a GitHub repository at https://github.com/JennyList/k"
+  },
+  {
+   "id": "tUpKRRCAmNQ",
+   "t": "Digital Super 8 cartridge, part 3: What's On Jenny's Bench",
+   "d": "2023-07-03",
+   "v": 1634,
+   "s": 409,
+   "vertical": false,
+   "desc": "The latest instalment in my Super 8 digital cartridge series, in which I bring you up to date with progress and show some rather sketchy but in-focus footage.\n\nPrevious videos showed a version with a camera sensor mounted where the film would go, and these all had the problem that I couldn't get the sensor in the focal plane without modifying the camera.\n\nAfter experimenting with a white strip to take the place of the film I've gone for a macro camera in the image path a few millimetres behind the focal plane. This brings the camera image into sharp focus, and though my demonstration is a bit "
+  },
+  {
+   "id": "ukOetGxbn-k",
+   "t": "Digital Super 8 cartridge, part 4: What's On Jenny's Bench",
+   "d": "2023-07-18",
+   "v": 5294,
+   "s": 592,
+   "vertical": false,
+   "desc": "Number 4 in my Super 8 digital cartridge series, and it's a big one, because I've got footage shot with a working cartridge. It's not the best quality, but it's huge progress\n\nThe video details the process of turning a cheap Pi camera module into a macro camera, and best mounting it in the cartridge to focus on the camera lens. It the goes into the software tweaks to fix the frame rate and zoom in on the area of interest.\n\nNext instalment will improve the focus, look at finding a lens with a narrower angle of view, and I hope further reduce shutter artefacts.\n\nAt the end I talk about something"
+  },
+  {
+   "id": "byiobFTktFw",
+   "t": "A 3D printable cartridge for Agfa Rapid cameras: What's On Jenny's Bench",
+   "d": "2023-08-06",
+   "v": 4457,
+   "s": 315,
+   "vertical": false,
+   "desc": "This describes my 3D printable film cartridge which allows me to shoot film in a 1960s Agfa Rapid snapshot camera.\n\nThe OpenSCAD file can be found in my GitHub repository at https://github.com/JennyList/cartridge-for-agfa-rapid/tree/main\n\nThe STL can be found on Printables, https://www.printables.com/model/545261-film-cartridge-for-agfa-rapid-cameras\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, and give us your support. https://transrescue.org/"
+  },
+  {
+   "id": "nsszppvayko",
+   "t": "A forge for very small spaces: Metal Bashing With Jenny",
+   "d": "2023-08-21",
+   "v": 1042,
+   "s": 255,
+   "vertical": false,
+   "desc": "First in a new series from me, in which I pursue blacksmithing with the most minimal of facilities. \n\nMy dad is a retired blacksmith, and I no longer have access to either workshop or forge. Here I'm outlining my project to create a small portable forge, for basic small-scale blacksmithing without having a workshop.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, and give us your support. https://transrescue.org/"
+  },
+  {
+   "id": "8ihU8c5SBfo",
+   "t": "Digital Super 8 Cartridge, part 5: What's On Jenny's Bench",
+   "d": "2023-09-07",
+   "v": 2257,
+   "s": 210,
+   "vertical": false,
+   "desc": "The latest in my digital super 8 cartridge project, a relatively short update in which I discuss focus improvements.\n\nFirst, I took the mini Pi camera module and improved its focus with a sliding tube. But it's not enough, I need a better lens with a narrower field of view. So I experimented with M12 lenses, here with an old USB webcam board. The results are good enough that I'll be back next time with a much higher quality M12 camera, and a narrower-angle lens.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous p"
+  },
+  {
+   "id": "T5TqsGfNRHw",
+   "t": "Impressions of BornHack 2023 in Denmark, on Kodak Vision3 50D Super 8 film",
+   "d": "2023-09-13",
+   "v": 1427,
+   "s": 155,
+   "vertical": false,
+   "desc": "I took a Super 8 camera and a fresh film cartridge with me to BornHack 2023 in Denmark, and recorded the the seven days of the camp in few-second bursts.  This is the result.\n\nCamera: Sankyo ES-66XL\nFilm: Kodak Vision3 50D\nProcessing: Super8 Reversal Lab, https://super8.nl/\nScanning: Onno Petersen, https://www.onnopetersen.com/\nMusic: Elite Syncopations - E's Jammy Jams, from the YouTube audio library."
+  },
+  {
+   "id": "xIKguFZrpQU",
+   "t": "Digital Super 8 Cartridge, part 6: What's On Jenny's Bench",
+   "d": "2023-10-14",
+   "v": 7621,
+   "s": 446,
+   "vertical": false,
+   "desc": "A further update to my digital Super 8 cartridge project, in which I produce a first practical cartridge and take it out to shoot some footage in the woods.\n\nLast time I was experimenting with M12 lenses. Here I make a practical M12 lens based cartridge and get it into focus. real world filming reveals I have a little more focus work to go, also I need to tackle the light metering. But it works, and I'm happy with it.\n\nDuring the video I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following li"
+  },
+  {
+   "id": "nA-w3BlMnrg",
+   "t": "Forging With A $5 Induction Heater",
+   "d": "2023-10-28",
+   "v": 2485,
+   "s": 56,
+   "vertical": true,
+   "desc": "I take the cheapest induction heater board and try using it to forge a piece of 5mm steel stock. Amazingly it works, but eventually a FET blows. I did it so you don't have to."
+  },
+  {
+   "id": "591IDBrCmpI",
+   "t": "A New Single 8 Cartridge Part 4: What's On Jenny's Bench",
+   "d": "2023-11-06",
+   "v": 3846,
+   "s": 219,
+   "vertical": false,
+   "desc": "Returning to my 3D printed Single 8 home movie film cartridge project, with some real world tests from the summer, and a new SLA-printed version of the cartridge. Just a few more tweaks to go before I release it to the world.\n\nCongratulations to any of you eagle eyed enough to spot that I loaded the film upside down in one of my test cartridges. I only noticed myself after upload. It's a piece of scrap film used for test purposes.\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the follo"
+  },
+  {
+   "id": "E2YEIoHtpzY",
+   "t": "Channel intro",
+   "d": "2023-11-24",
+   "v": 1573,
+   "s": 36,
+   "vertical": false,
+   "desc": "My name's Jenny List, and I have a fascination for technology. Here I'm sharing with you videos from my workbenches of all the stuff that interests me, filmed as and when I am working with it..\n\nI started making these videos in earnest to teach myself the art of video production, and I think I've created something sustainable here. Thanks for watching."
+  },
+  {
+   "id": "yIJdYpNHKtI",
+   "t": "Why not just any hotplate will do",
+   "d": "2023-11-25",
+   "v": 928,
+   "s": 46,
+   "vertical": true,
+   "desc": "I dropped in on RevSpace in Den Haag for a badge assembly session while I was over dealing with some of the 8mm film stuff. With hundreds of boards to solder, every available hotplate was pressed into service. This one had an unexpected result, it's a lab hotplate with an integrated stirrer. This picked up the ferrous part of a push button switch and sent it spinning round the board.\n\nMusic: The Trapezist, from Quincas Moreira, via the YouTube audio library."
+  },
+  {
+   "id": "myzEYK66l9Q",
+   "t": "A New Single 8 Cartridge Part 5, The Release. What's On Jenny's Bench",
+   "d": "2024-01-07",
+   "v": 3451,
+   "s": 525,
+   "vertical": false,
+   "desc": "This is the culmination of a series of videos working on a 3D-printable shell and parts for a film cartridge to fit Fuji Single 8 home movie cameras.\n\nThe cartridge model has now been released, and can be found at https://github.com/JennyList/Single-8-cartridge\n\nIt's an open source project released under the CERN OHL-S V2.0 licence."
+  },
+  {
+   "id": "NLqAXySaA_s",
+   "t": "Reinventing the Single 8 home movie format, my talk at Hacker Hotel 2024",
+   "d": "2024-02-14",
+   "v": 809,
+   "s": 1280,
+   "vertical": false,
+   "desc": "This is my presentation of the 3D printed Single 8 cartridge project, presented at Hacker Hotel 2024 on the 11th of February 2024. I should admit, maybe I overestimated the value of a high-end Single 8 camera in this talk.\n\nAn engineer buys a camera in a second hand store, and finds herself bringing back a defunct film format.\n\nWhen home movies on 8mm film were king, there was a format war between Kodak's Super 8 and Fuji's Single 8. Just like Sony's Betamax in the home video wars, Fuji's technically superior contender lost the battle, and the final Single 8 cartridges were manufactured in abo"
+  },
+  {
+   "id": "L6kH2qO_q8w",
+   "t": "Shure Unidyne III connector hack. Amphenol MC3M microphone plug replacement.",
+   "d": "2024-03-03",
+   "v": 2330,
+   "s": 275,
+   "vertical": false,
+   "desc": "I have  a pair of vintage Shure Unidyne III microphones, but not the unobtainable Amphenol connector to use them. This shows my solution, using carefully chosen cable terminations as pins.\n\nThe files for this project can be found at https://github.com/JennyList/Amphenol-MC3M-Shure-hood\n\nAt the end I talk about something else I'm involved in. Trans Rescue is a small non-profit that gets trans people out of dangerous places. Please click on the following link for more details, and give us your support. https://transrescue.org/donations/donate"
+  },
+  {
+   "id": "9of4LMykii0",
+   "t": "An update, Super 8, Single 8 progress, and what's coming up.",
+   "d": "2024-07-23",
+   "v": 724,
+   "s": 344,
+   "vertical": false,
+   "desc": "It's been a few months since I put up a video, I'm still here but have a lot on my plate. Here's an update on what I'm doing, with details on the state of the 8mm projects as well as what's coming next."
+  },
+  {
+   "id": "GCqwv6Om-D0",
+   "t": "Impressions of EMF2024 in the UK, on Kodak Vision3 Super 8 film",
+   "d": "2024-12-27",
+   "v": 605,
+   "s": 192,
+   "vertical": false,
+   "desc": "I took a couple of Super 8 cameras to EMF 2024 in the UK, and filmed what I saw.\n\nCameras: Sankyo ES-66XL, Canon 310XL\nFilm: Kodak Vision3 50D for daylight shots, Vision3 200T for night time.\nProcessing: Super8 Reversal Lab, https://super8.nl/\nScanning: Onno Petersen, https://www.onnopetersen.com/\nMusic: Gasman, Dance All Night, @Gasmanic"
+  },
+  {
+   "id": "m1VZ-2A6PmA",
+   "t": "Convert A $10 6J1 Tube Preamp Kit To A Headphone Amplifier",
+   "d": "2025-02-24",
+   "v": 10088,
+   "s": 320,
+   "vertical": false,
+   "desc": "Converting one of the popular $10 6J1 tube preamp kits to a headphone amplifier using a small transformer and some circuit mods.\n\nThese kits have a high impedance output, so can't drive headphones. This video shows how to add a transformer output to drive low impedances. It's not perfect, but it works.  A future video will look at doing the same thing with a MOSFET follower.\n\n3D printed parts and circuit mod details in my GitHub repository: https://github.com/JennyList/6J1-preamp-mods"
+  },
+  {
+   "id": "FgQuVX_-8E4",
+   "t": "The Cheapest Mirrorless Compact System Camera In The World!",
+   "d": "2025-05-09",
+   "v": 829,
+   "s": 318,
+   "vertical": false,
+   "desc": "In which I turn a toy digital camera into an interchangeable lens toy digital camera. Thus making it... The Cheapest Mirrorless Compact System Camera In The World!\n\nIt's an awful camera. But for under a tenner it's quite a lot of fun."
+  },
+  {
+   "id": "IerIgOpaBoY",
+   "t": "My Raspberry Pi Touchscreen Camera",
+   "d": "2025-09-10",
+   "v": 906,
+   "s": 541,
+   "vertical": false,
+   "desc": "I need a test camera to evaluate different camera and module designs. This is the result, a 3D printed 7' touchscreen camera using the Raspberry Pi 4 and the Raspberry Pi 7\" touchscreen. \n\nYou can find the OpenSCAD files here: https://github.com/JennyList/7-inch-touchscreen-camera\n\nI'm using this GUI: https://github.com/Gordon999/RPiCamGUI\n\nSupport my work here: https://ko-fi.com/jennylist\n\nSupport Trans Rescue here: https://transrescue.org/\n\nIt uses this piece of music:\nCountry Cue 1 by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licen"
+  },
+  {
+   "id": "UntZmKj_IJE",
+   "t": "3 lenses on one camera. An M12 turret camera",
+   "d": "2025-11-06",
+   "v": 1882,
+   "s": 165,
+   "vertical": false,
+   "desc": "A digital camera with a rotating turret mechanism holding three M12 lenses. It uses a Raspberry Pi Zero and a Pimoroni Display HAT Mini.\n\nSupport me on Ko-Fi: https://ko-fi.com/jennylist\nGet the files for this camera here: https://github.com/JennyList/pi-zero-turret-camera\n\nTrans Rescue can be found here: https://transrescue.org/"
+  },
+  {
+   "id": "jtdAFIAMueM",
+   "t": "A look at the Raspberry Pi Compute Module Zero",
+   "d": "2025-12-25",
+   "v": 3900,
+   "s": 376,
+   "vertical": false,
+   "desc": "A friend is evaluating the latest Raspberry Pi compute module, the CM0. He kindly lent me his samples for a quick look.\n\nSupport me on Ko-Fi: https://ko-fi.com/jennylist\n\nTrans Rescue can be found here: https://transrescue.org/"
+  },
+  {
+   "id": "RHVIUPLQPOY",
+   "t": "The Week In Hackaday, for BornHack Radio 102.8.",
+   "d": "2026-07-20",
+   "v": 96,
+   "s": 3542,
+   "vertical": false,
+   "desc": "There was a radio station at BornHack 2026, for which I did a Hackaday podcast format show. It's not a real Hackaday podcast because it only went out on BornHack Radio, but I hope you enjoy it.\n\nSupport me: https://ko-fi.com/jennylist"
+  },
+  {
+   "id": "g0sA6aUUvaU",
+   "t": "Jenny's Half Hour at BornHack 26, Mono version",
+   "d": "2026-07-24",
+   "v": 102,
+   "s": 1823,
+   "vertical": false,
+   "desc": "My magazine programme on BornHack Radio 2026.\n\nI had a weird problem that it was encoded as stereo with a 180 degree phase shift, so some devices got no audio. This version forces mono, so should fix that.\n\nPlease support me if you can: https://ko-fi.com/jennylist"
+  }
+ ]
+}

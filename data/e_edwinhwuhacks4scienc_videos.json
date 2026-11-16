@@ -1,0 +1,945 @@
+{
+ "channel": {
+  "id": "UC3oqy8mjC0lO-AqjKlyyr1g",
+  "title": "Edwin Hwu",
+  "handle": "@edwinhwuhacks4science",
+  "description": "Professor, are you seriously telling us to break our gaming consoles for science? Yes, I am :)\n\nI'm Edwin En-Te Hwu, Associate Professor at DTU Health Tech, where I lead MIDAS (Micro Medical Devices and Hardware Hacking Based Technologies) in the IDUN section. Hardware hacking is my unorthodox way of research: we take mass-produced consumer electronics, like the optical pickup from a CD, DVD or Bl",
+  "since": "2011-10-13",
+  "avatar": "https://yt3.ggpht.com/aEgC12zIVpdsrEBaNHDKmVGVm1WMTJiorqiijmfjhivYR7iqE_xppTpFCQtJZV4JkAoyB3Ca=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "220965",
+  "subscriberCount": "2550",
+  "hiddenSubscriberCount": false,
+  "videoCount": "103"
+ },
+ "videos": [
+  {
+   "id": "mzsDQw9OO3k",
+   "t": "Astigmatic method - DVD OPU based AFM",
+   "d": "2014-05-01",
+   "v": 8139,
+   "s": 16,
+   "vertical": false,
+   "desc": "DVD optical pickup unit (OPU) based AFM can use the OPU monitor the AFM probe-sample interaction."
+  },
+  {
+   "id": "HOqF4uB-Pi8",
+   "t": "DVD OPU based AFM with 100um long cantilever",
+   "d": "2014-05-01",
+   "v": 9147,
+   "s": 60,
+   "vertical": false,
+   "desc": "The DVD OPU based AFM in German National Metrology Institute (PTB)."
+  },
+  {
+   "id": "m5WI5PPM1_Y",
+   "t": "V 20140121 155816",
+   "d": "2014-05-01",
+   "v": 1553,
+   "s": 40,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "8c2q5ICLpzI",
+   "t": "Beam Deflection method",
+   "d": "2014-05-01",
+   "v": 8525,
+   "s": 19,
+   "vertical": false,
+   "desc": "Traditional AFM uses beam deflection method for sensing the AFM probe-sample interaction."
+  },
+  {
+   "id": "n0u1waEJoQU",
+   "t": "UAE TV News",
+   "d": "2018-05-15",
+   "v": 217,
+   "s": 3176,
+   "vertical": false,
+   "desc": "Nanotechnology Summer Camp in UAE"
+  },
+  {
+   "id": "5bqujaldaCQ",
+   "t": "Repurposing Optical Pickup Units from CD/DVD/Blu-ray Drives for Research",
+   "d": "2018-08-21",
+   "v": 84708,
+   "s": 554,
+   "vertical": false,
+   "desc": "This video shows how I hack the optical pickup unit (OPU) from CD, DVD and Blu-ray drives for scientific research, such as cell imaging, micro-hole machining, bioassay sensing and atomic force microscopy (AFM) nano-imaging.\n\nAn OPU packs lasers, precision optics and voice coil actuators into a tiny, low-cost module, which makes it a fun starting point for lab instruments.\n\nMore OPU hacking work in these open-access papers:\n\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons for"
+  },
+  {
+   "id": "3Ko3bFrcRH8",
+   "t": "Keynote Talk in Hacking Festival (Danish Technical University)",
+   "d": "2018-09-05",
+   "v": 453,
+   "s": 1528,
+   "vertical": false,
+   "desc": "Hacking consumer electronics makes Nano-Biotechnology scientific instruments low cost, high performance, faster development and new function possible. for research.\n\nSorry for the sound issue, here is the rest talk with sound:\nhttps://youtu.be/9KZYpJlsEyM\n\nAn article related to this talk:\nhttps://ing.dk/blog/what-the-hack-lets-take-engineering-back-214264\n\nYou can find slides here:\nhttps://drive.google.com/open?id=175wgHdBdI8gPYbKeCdjQJlhYobeFc03O"
+  },
+  {
+   "id": "yRv1eCL8DTI",
+   "t": "IDUN Outreach Danish Science Festival",
+   "d": "2018-11-07",
+   "v": 72,
+   "s": 111,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "2f_QQumXFCg",
+   "t": "DIY AFM 12Hz scanning",
+   "d": "2019-06-05",
+   "v": 1056,
+   "s": 26,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "tbkA5gtzJLg",
+   "t": "La Aventura del Saber  Microscopio at\u00f3mico",
+   "d": "2021-05-05",
+   "v": 249,
+   "s": 596,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "2vn1-CIFUjM",
+   "t": "Hacking Consumer Electronics for Scientific Research @ DTU SkyLab",
+   "d": "2021-06-07",
+   "v": 311,
+   "s": 1800,
+   "vertical": false,
+   "desc": "August 2019 @ Danmarks Tekniske Universitet SkyLab"
+  },
+  {
+   "id": "mNLxr2W2cxM",
+   "t": "2021 European Inventor Award: Hacked Blu-ray for Cutting Edge Biomedical Diagnostics",
+   "d": "2021-06-21",
+   "v": 194,
+   "s": 140,
+   "vertical": false,
+   "desc": "European patent office announced 2021 European #InventorAward that BluSense Diagnostics BluBox is among the top 3 Research Innovation: Hacked Blu-ray drive + Lab on a Disc + Magnetic Nanobeads = Cutting Edge Biomedical Diagnostics for Everyone.\n\nThe cost-effective BluBox is beneficial to be widespread for high precision #denguefever #zika and #covid\u30fc19 diagnosis. Looking forward to seeing further development of this technology.\n\nThis article reveals the secret why BluBox got top three 2021 European Award: https://pubs.acs.org/doi/10.1021/acssensors.8b00340\n \nYou may also like:  https://youtu.b"
+  },
+  {
+   "id": "tBHWr2xoppQ",
+   "t": "Cell culture and monitoring on a disc",
+   "d": "2021-06-22",
+   "v": 177,
+   "s": 60,
+   "vertical": false,
+   "desc": "MicroTAS2020 One Minute Flash Presentation Edwin\nThe microscope on a disc enables high-resolution monitoring of the cell culture process."
+  },
+  {
+   "id": "za3w0Kpiq5E",
+   "t": "Hardware Hacking Talk in  MASSENA Young Scientist Conference 2021",
+   "d": "2021-06-26",
+   "v": 2286,
+   "s": 2791,
+   "vertical": false,
+   "desc": "European patent office announced 2021 European #InventorAward that \"Hacked Blu-ray drive + Lab on a Disc + Magnetic Nanobeads\" is among the top 3 Research Innovations. There are other hacking works described in these open-access review papers:\n\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\n3. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements:\nhttps://doi.org/10.1016/j.ohx.2"
+  },
+  {
+   "id": "lfQld8Sz194",
+   "t": "3kg payload",
+   "d": "2021-07-02",
+   "v": 211,
+   "s": 9,
+   "vertical": false,
+   "desc": "Home made nanopositioner"
+  },
+  {
+   "id": "4nKfTqe3r9w",
+   "t": "3D Printed Nanopositioner",
+   "d": "2021-07-02",
+   "v": 678,
+   "s": 38,
+   "vertical": false,
+   "desc": "Attocube compatible home-made 3D printed nanopositioner."
+  },
+  {
+   "id": "LFEBZuy0R-w",
+   "t": "Open source low cost 6 probes 18 axes  probing station",
+   "d": "2021-07-02",
+   "v": 494,
+   "s": 28,
+   "vertical": false,
+   "desc": "12 types of nanopositioners, from thumb-size actuators to 18 axes nano-probing station, CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. Remember to cite this article ;)\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://doi.org/10.1016/j.ohx.2022.e00317\n\nYou might also like:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-"
+  },
+  {
+   "id": "V262sOVXwRA",
+   "t": "Open Source Low Cost Ultra small XY nanopositioner",
+   "d": "2021-07-02",
+   "v": 5477,
+   "s": 17,
+   "vertical": false,
+   "desc": "12 types of nanopositioners, from thumb-size actuator to 18 axes nano-probing station, CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. Remember to cite this article ;)\n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://doi.org/10.1016/j.ohx.2022.e00317\n\nYou might also like:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-"
+  },
+  {
+   "id": "w-J2lkZFyEY",
+   "t": "Hacking off-the-shelf NB cross-roller stage into a compact low cost nanopositioner",
+   "d": "2021-07-02",
+   "v": 1773,
+   "s": 24,
+   "vertical": false,
+   "desc": "I added a piezoelectric driving mechanism to hack this linear stage into a nanopositioner. \n\n12 types of nanopositioners, from thumb-size actuator to 18 axes nano-probing station, CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. Remember to cite this article ;)\n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://doi.org/10.1016/j.ohx.2022.e00317\n\nYou might also like:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D pri"
+  },
+  {
+   "id": "pa2R3Q9AI3U",
+   "t": "2021 IDUN Intro Video (old fashion)",
+   "d": "2021-08-31",
+   "v": 106,
+   "s": 181,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "VLNGCW6ea6M",
+   "t": "2021 IDUN Intro Video",
+   "d": "2021-09-05",
+   "v": 265,
+   "s": 270,
+   "vertical": false,
+   "desc": "About IDUN (https://idun.dtu.dk/)\nThe center for Intelligent Drug delivery and sensing Using microcontainers and Nanomechanics (IDUN) is a center of excellence funded by the Danish National Research Foundation and the Villum Foundation. The center is divided into two parts: IDUN Drug and IDUN Sensor, focusing on drug delivery and nanomechanical sensors, respectively.\n\nWith the two main research areas in close contact at the center, IDUN explores the great synergy between sensor development and search for new pharmaceutical tools and materials. IDUN Sensor gets, through IDUN Drug, access to uni"
+  },
+  {
+   "id": "9ubnXVR1NnQ",
+   "t": "20210617 European Inventor Award top three",
+   "d": "2021-09-25",
+   "v": 263,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "V63B-jzP9WU",
+   "t": "2021 European Inventor Award BluSense Diagnostics",
+   "d": "2021-09-25",
+   "v": 97,
+   "s": 49,
+   "vertical": false,
+   "desc": "Related article: Hacking CD/DVD/Blu-ray for Biosensing\n\nhttps://pubs.acs.org/doi/10.1021/acssensors.8b00340"
+  },
+  {
+   "id": "PEmqxXF5NBw",
+   "t": "Skin sampling guide (IDUN section DTU Healthtech)",
+   "d": "2021-10-26",
+   "v": 196,
+   "s": 80,
+   "vertical": false,
+   "desc": "By brilliant DTUstudents: Ellen Raun, Frederikke Elisabet Dons and Laura Olga N\u00f8rgaard."
+  },
+  {
+   "id": "l0ewcPLLH4Q",
+   "t": "2007 \u8868\u9762\u529f\u592b Oberfl\u00e4chenwelen",
+   "d": "2021-11-23",
+   "v": 101,
+   "s": 405,
+   "vertical": false,
+   "desc": "This video was made with Dr. Hans Urlich Danzebrink in German metrology institute (Physikalisch-Technische Bundesanstalt) in year 2007. \n\nAt that time, Nintendo Wii had just launched. I hacked the Wiimote 3D sensing mechanism for gaming character control to explore nanoscale 3D image data."
+  },
+  {
+   "id": "FICRB4zAr2w",
+   "t": "Guide to MatLab and ImageJ AFM image processing",
+   "d": "2022-01-21",
+   "v": 2463,
+   "s": 173,
+   "vertical": false,
+   "desc": "This video is created by Asger Agersgaard.\nHere is a link to the Matlab code:\nhttps://drive.google.com/file/d/18ruHk5WsEj9dmGjXH6cmFY9TZhuKU39U/view?usp=sharing"
+  },
+  {
+   "id": "OfVKIgufxY4",
+   "t": "Atto3D: Democratize Micro/Nanoscale 3D printing",
+   "d": "2022-01-21",
+   "v": 1162,
+   "s": 214,
+   "vertical": false,
+   "desc": "The video is made by a talented young man Frederik Holmstrup from DTU SkyLab\n\nRelated journal articles:\nMicro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\nHacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/10.1021/acssensors.8b00340"
+  },
+  {
+   "id": "N00OI_GNP4Y",
+   "t": "Hacking Blu-ray drives to fight Zika Denge and Covid",
+   "d": "2022-04-12",
+   "v": 268,
+   "s": 244,
+   "vertical": false,
+   "desc": "Check out this link for more details:\nhttps://videos.ida.dk/media/Hacking%20Consumer%20Electronics%20for%20Biosensing%20%20with%20En%20Te%20Hwu%2C%20professor%2C%20DTU%20Health%20Technology/1_miv5y0ob\n\nThere are other hacking works described in these open-access review papers:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\n3. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements"
+  },
+  {
+   "id": "6gMaqhQjE_0",
+   "t": "Why an iPhone can be more expensive than Ferrari sports cars?",
+   "d": "2022-04-12",
+   "v": 148,
+   "s": 52,
+   "vertical": false,
+   "desc": "Check out this link for more details:\nhttps://videos.ida.dk/media/Hacking%20Consumer%20Electronics%20for%20Biosensing%20%20with%20En%20Te%20Hwu%2C%20professor%2C%20DTU%20Health%20Technology/1_miv5y0ob\n\nThere are other hacking works described in these open-access review papers:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\n3. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements"
+  },
+  {
+   "id": "bVeCAs4cnJA",
+   "t": "Dirty secrets in biomedical companies",
+   "d": "2022-04-12",
+   "v": 180,
+   "s": 149,
+   "vertical": false,
+   "desc": "Check out this link for more details:\nhttps://videos.ida.dk/media/Hacking%20Consumer%20Electronics%20for%20Biosensing%20%20with%20En%20Te%20Hwu%2C%20professor%2C%20DTU%20Health%20Technology/1_miv5y0ob\nThere are other hacking works described in these open-access review papers:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\n3. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements:"
+  },
+  {
+   "id": "cdrFx6iY2nY",
+   "t": "Lab on a Disc: Hacking spy camera, wireless charger and drones.",
+   "d": "2022-04-12",
+   "v": 547,
+   "s": 387,
+   "vertical": false,
+   "desc": "Related articles:\n1. Wireless, smartphone controlled potentiostat integrated with lab-on-disc platform\nhttps://orbit.dtu.dk/en/publications/wireless-smartphone-controlled-potentiostat-integrated-with-lab-o\n\n2. Wireless Powered Lab-on-Disc Platform for Measurements on the Spin\nhttps://orbit.dtu.dk/en/publications/wireless-powered-lab-on-disc-platform-for-measurements-on-the-spi\n\n3. Wireless, smartphone controlled electrochemical lab-on-a-disc platform for drug dissolution studies from \u00b5containers\nhttps://orbit.dtu.dk/en/publications/wireless-smartphone-controlled-electrochemical-lab-on-a-disc-p"
+  },
+  {
+   "id": "yJRLgtuwJZQ",
+   "t": "Low Cost Open Source Ultra High Vacuum Nanopositioner Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 3629,
+   "s": 12,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "82aiokYwoBM",
+   "t": "Open Source Low Cost XYZ Nanopositioner with 20 mm diameter central aperture",
+   "d": "2022-05-19",
+   "v": 6350,
+   "s": 31,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "ODvmrazZgRE",
+   "t": "8-second instant Nanopositioner Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 7761,
+   "s": 8,
+   "vertical": true,
+   "desc": "Stick one magnet and one piezo stack, within 8 seconds you can hack a traditional linear slide into an atomic resolution nanopositioner.\n\n12 types of open source low cost 3D prnintable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision "
+  },
+  {
+   "id": "HmDS_ZZnBWE",
+   "t": "10-second instant Nanopositioner Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 2860,
+   "s": 14,
+   "vertical": false,
+   "desc": "Using super glue to fix two piezoelectric materials and magnets on a traditional linear slide. You can make a instant nanopositioner within 10 seconds. \n\n12 types of open source low cost 3D printable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for "
+  },
+  {
+   "id": "oTJo6-fPXdo",
+   "t": "Hacking off-the-shelf NB cross-roller stage into a compact low cost nanopositioner B",
+   "d": "2022-05-19",
+   "v": 674,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "dzwXXAaSXlA",
+   "t": "Open Source Low Cost Nanopositioners for DNA Sample Array Spotting C Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 1073,
+   "s": 7,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "FU8ATVhUDV4",
+   "t": "Open Source Low Cost Nanopositioners for DNA Sample Array Spotting B Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 735,
+   "s": 16,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "bJoxvbGX2hA",
+   "t": "Open Source Low Cost Nanopositioners for DNA Sample Array Spotting A Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 463,
+   "s": 24,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "HgcChFSLu80",
+   "t": "Open source low cost 6 probes 18 axes probing station works in action Piezoelectric Piezo motor",
+   "d": "2022-05-19",
+   "v": 598,
+   "s": 25,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "QfSgpajcWSI",
+   "t": "Force Analyzer for 0.000000001 (nano) to 1 Newton force analysis",
+   "d": "2022-05-20",
+   "v": 314,
+   "s": 8,
+   "vertical": false,
+   "desc": "You are watching a micro drug delivery device & intestinal tissue interaction quantified by our biomedical force analyzer. \n\nWe hacked a DVD drive and built this force analyzer that measures forces from 0.000000001 to 1 Newton. You can DIY build one following our \"recipe\":  https://doi.org/10.1016/j.ohx.2022.e00308\n\nYou might also like:\n1. Low-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://doi.org/10.1016/j.ohx.2022.e00317\n\n2. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n3. Micro and nanoscale 3D printin"
+  },
+  {
+   "id": "syxvHmOp9IM",
+   "t": "Open source low cost 3D printed nanopositioner for graphene alignment Piezoelectric Piezo motor",
+   "d": "2022-05-21",
+   "v": 1260,
+   "s": 38,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "7b_vZG-2P-Y",
+   "t": "Open source low-cost and 3D printed nanopositioner for nanoscale sample alignment.",
+   "d": "2022-05-23",
+   "v": 1443,
+   "s": 74,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "uCQWJpPbmk4",
+   "t": "Open source low cost 3D printed double linear guides nanopositioner Piezoelectric Piezo motor",
+   "d": "2022-05-24",
+   "v": 9753,
+   "s": 16,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "h9FJoWwG6S0",
+   "t": "Open source low cost 3D printable nanopositioner XYZ assembly animation Piezoelectric Piezo motor",
+   "d": "2022-05-25",
+   "v": 908,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "h27t6RP5h7M",
+   "t": "Open source low cost 3D printable nanopositioner vertical unit assembly animation",
+   "d": "2022-05-25",
+   "v": 854,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "iCTHdjcUHdM",
+   "t": "Open source low cost 3D printable nanopositioner horizontal axis unit assembly animation",
+   "d": "2022-05-25",
+   "v": 1433,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "56Ej3APrIyU",
+   "t": "3D mouse controlling XYZ nanopositioner Piezoelectric Piezo motor",
+   "d": "2022-05-26",
+   "v": 11662,
+   "s": 19,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "OAEQJJwlq14",
+   "t": "Open source low cost Arduino controller with voltage amplifier for 3D printable XYZ Nanopositioner",
+   "d": "2022-05-27",
+   "v": 2038,
+   "s": 36,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "5ZmEFaks95c",
+   "t": "Open source low cost 3D printable XYZ nanopositioner integrated inside a SEM for sample probing",
+   "d": "2022-05-28",
+   "v": 2313,
+   "s": 11,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "I5mNBWUzsyo",
+   "t": "12 kg load translation test: Original prototype of open source low cost 3D printable nanopositioner",
+   "d": "2022-05-29",
+   "v": 1111,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "3HBWP1y1rvY",
+   "t": "Espresso size Atomic Force Microscope driven by open-source XYZ nanopositioner: AFM probe switching",
+   "d": "2022-06-02",
+   "v": 2199,
+   "s": 34,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D prnintable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also like:\n1. Micro and nanoscale 3D printin"
+  },
+  {
+   "id": "eIroVQzLWUM",
+   "t": "Espresso size Atomic Force Microscope driven by open-source XYZ nanopositioner: Coarse XYZ movement",
+   "d": "2022-06-02",
+   "v": 739,
+   "s": 19,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D prnintable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also like:\n1. Micro and nanoscale 3D printin"
+  },
+  {
+   "id": "tEQSxV_bALA",
+   "t": "Espresso size Atomic Force Microscope driven by open-source XYZ nanopositioner: AFM probe alignment",
+   "d": "2022-06-03",
+   "v": 831,
+   "s": 27,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D prnintable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also like:\n1. Micro and nanoscale 3D printin"
+  },
+  {
+   "id": "MKx76YPfVis",
+   "t": "Espresso size Atomic Force Microscope driven by open-source XYZ nanopositioner: AFM probe alignment",
+   "d": "2022-06-04",
+   "v": 914,
+   "s": 50,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D prnintable nanopositioners, from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also like:\n1. Micro and nanoscale 3D printin"
+  },
+  {
+   "id": "KlRtIMpf4uU",
+   "t": "Open source low cost refined nanopositioner XYZ assembly animation Piezoelectric Piezo motor",
+   "d": "2022-06-06",
+   "v": 1358,
+   "s": 9,
+   "vertical": false,
+   "desc": "12 types of open source low cost 3D printable nanopositioners (piezo electric motor, linear actuator), from thumb-size actuator to 18 axes nano-probing station, used in German National Metrology Institute (PTB), Danish Technical University (DTU), National Taiwan University (NTU), Academia Sinica, etc...\n\nMechanical/electrical CAD and Arduino-based controller designs are now published in Hardware X and make it open source for everyone. \n\nLow-Cost, Open-Source XYZ Nanopositioner for High-Precision Analytical Applications\nhttps://lnkd.in/eeWBxrSa \nRemember to cite this article ;)\n\nYou might also "
+  },
+  {
+   "id": "MLNG3N7BV84",
+   "t": "Open Source Low-Cost High-Speed Atomic Force Microscope (HS-AFM) 55Hz  Scanning",
+   "d": "2022-07-21",
+   "v": 1531,
+   "s": 27,
+   "vertical": false,
+   "desc": "It won't necessarily cost you 3 Mercedes to own a High-Speed Atomic Force Microscope (HS-AFM). Now you can build one and get 46x46\u00b5m, 512x512 pixels image in 9.3 seconds. Costs you less than a Mac Pro...\n\nThis open-source HS-AFM just been published on HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt"
+  },
+  {
+   "id": "NuI0bpnm7Jk",
+   "t": "Operation process of the open source low-cost high-speed AFM",
+   "d": "2022-07-30",
+   "v": 1768,
+   "s": 145,
+   "vertical": false,
+   "desc": "It won't necessarily cost you 3 Mercedes to own a High-Speed Atomic Force Microscope (HS-AFM). Now you can build one and get 46x46\u00b5m, 512x512 pixels image in 9.3 seconds. Costs you less than a Mac Pro...\n\nThis open-source HS-AFM just been published on HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt"
+  },
+  {
+   "id": "nFdopS4cN1s",
+   "t": "Installation of myRIO for the open source controller for low-cost high-speed AFM",
+   "d": "2022-07-30",
+   "v": 250,
+   "s": 323,
+   "vertical": false,
+   "desc": "It won't necessarily cost you 3 Mercedes to own a High-Speed Atomic Force Microscope (HS-AFM). Now you can build one and get 46x46\u00b5m, 512x512 pixels image in 9.3 seconds. Costs you less than a Mac Pro...\n\nThis open-source HS-AFM just been published on HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt"
+  },
+  {
+   "id": "W1WYuNPlfFE",
+   "t": "Open-Source High-Speed AFM: Full Operation Process",
+   "d": "2022-07-30",
+   "v": 4508,
+   "s": 610,
+   "vertical": false,
+   "desc": "A high-speed atomic force microscope (HS-AFM) does not have to cost as much as three Mercedes. This video walks through the full operation of an open-source, low-cost HS-AFM that captures a 46x46 \u00b5m, 512x512 pixel image in 9.3 seconds, for less than the price of a Mac Pro.\n\nThe open-source HS-AFM is published in HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n2. Hacking CD/DVD/Blu-ray for Biosensing: https://lnkd.in/dpMHkPt\n\n3. Low-Cost, Open-Source XYZ Nanopositioner"
+  },
+  {
+   "id": "_jnnx7HcIJ4",
+   "t": "DIY AFM with the open source controller for 55Hz imaging",
+   "d": "2022-07-30",
+   "v": 2530,
+   "s": 26,
+   "vertical": false,
+   "desc": "It won't necessarily cost you 3 Mercedes to own a High-Speed Atomic Force Microscope (HS-AFM). Now you can build one and get 46x46\u00b5m, 512x512 pixels image in 9.3 seconds. Costs you less than a Mac Pro...\n\nThis open-source HS-AFM just been published on HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt"
+  },
+  {
+   "id": "mtIm-8if3l4",
+   "t": "DIY AFM system with the original controller for 0 6 Hz imaging",
+   "d": "2022-07-30",
+   "v": 528,
+   "s": 465,
+   "vertical": false,
+   "desc": "It won't necessarily cost you 3 Mercedes to own a High-Speed Atomic Force Microscope (HS-AFM). Now you can build one and get 46x46\u00b5m, 512x512 pixels image in 9.3 seconds. Costs you less than a Mac Pro...\n\nThis open-source HS-AFM just been published on HardwareX: https://lnkd.in/ecJ7qZRe\n\nYou might also like:\n\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt"
+  },
+  {
+   "id": "qmYrf_cDIK8",
+   "t": "XYZ cm range, nm step size, atomic resolution nanopositioner",
+   "d": "2022-08-03",
+   "v": 1806,
+   "s": 17,
+   "vertical": false,
+   "desc": "Somewhere in the world, one lab successfully duplicates my open-source XYZ nanopositioner for their sub-nano resolution imaging research. Based on...\n\nthis step-by-step tutorial article: https://www.hardware-x.com/article/S2468-0672(22)00062-1/fulltext\n\nYou might also like:\n1. Micro and nanoscale 3D printing using optical pickup unit from a gaming console https://lnkd.in/evTgYuy\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements: https://lnkd.in/exYtaQNs\n\n3. Hacking CD/DVD/Blu-ray for Biosensing https://lnkd.in/dpMHkPt\n\n4. Open-source High-Speed Atomic F"
+  },
+  {
+   "id": "XOlmoMtDxd4",
+   "t": "DVD and Blu-ray Optics for Nanoscale Metrology: MIT Open Metrology Talk",
+   "d": "2022-08-30",
+   "v": 822,
+   "s": 870,
+   "vertical": false,
+   "desc": "What the hack? In this talk at MIT Open Metrology (19 August 2022), I show how old DVD and Blu-ray optical pickups can be reused for precision metrology and atomic force microscopy (AFM) imaging.\n\nYou might also like:\n\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements\nhttps://doi.org/10.1016/j.ohx.2022.e00308\n\n3. Open-source controller for low-cost and high-speed atomic force microscopy imaging of skin corneocyte nanotextures\nhttps://www.sciencedirect.com/sc"
+  },
+  {
+   "id": "YR9XB3s2d8w",
+   "t": "Edwin's talk at BISC 2022",
+   "d": "2023-01-19",
+   "v": 585,
+   "s": 1458,
+   "vertical": false,
+   "desc": "My recent talk at Biomedical Imaging and Sensing Conference conference. \nSome parts changed..\nActually, the success rate of hardware hacking is not low...\nThe hardest part is to link consumer hardware to very different applications...\n\nYou might also like:\n1. Hacking CD/DVD/Blu-ray for Biosensing\nhttps://pubs.acs.org/doi/abs/10.1021/acssensors.8b00340\n\n2. Micro and nanoscale 3D printing using optical pickup unit from a gaming console\nhttps://www.nature.com/articles/s42005-021-00532-4\n\n3. Using DVD optics for Nano-, Micro-, Milli-Newton to several Newtons force measurements:\nhttps://doi.org/10."
+  },
+  {
+   "id": "gbxtQJhwUx4",
+   "t": "APELLA: Miniaturized Lab-on-a-Disc from Hacked Consumer Electronics",
+   "d": "2023-06-28",
+   "v": 2362,
+   "s": 74,
+   "vertical": false,
+   "desc": "What do you get when you hack a quadcopter, Qi wireless chargers and a spy camera? APELLA: an open-source, miniaturized, all-in-one powered lab-on-a-disc platform.\n\nIt looks like a toy, but it captures rapid mixing events in microfluidic discs that usually need bulky, expensive strobe imaging systems. At about 100 euros, APELLA is light and compact enough to fit in your bag, and it uses less than 6% of the power of conventional systems. Handy for fieldwork, classrooms and resource-limited labs :)\n\nAPELLA was developed at the IDUN section, DTU Health Tech, and is published in HardwareX: https:/"
+  },
+  {
+   "id": "P34hZBEH5oo",
+   "t": "AFMD Mk1 operation manual by Ellen Raun",
+   "d": "2023-08-21",
+   "v": 235,
+   "s": 197,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "F75JvHM0a1E",
+   "t": "Tape Stripping Method for Skin Sampling: AFM Nanotexture Analysis",
+   "d": "2023-08-22",
+   "v": 1987,
+   "s": 159,
+   "vertical": false,
+   "desc": "Ellen Raun demonstrates the tape stripping method: gently collecting corneocytes from the outermost layer of the skin (stratum corneum) with adhesive tape. The samples can then be scanned with atomic force microscopy (AFM) to image corneocyte nanotexture.\n\nTape stripping is a simple, non-invasive way to sample skin for research on the skin barrier.\n\n#TapeStripping #AFM #SkinBarrier #Corneocytes"
+  },
+  {
+   "id": "cQP5FkuDkPE",
+   "t": "Change Cantilever Probe by Ellen",
+   "d": "2023-08-22",
+   "v": 211,
+   "s": 139,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "VPCNZjYUVPU",
+   "t": "HS-DAFM (High-Speed Dermal Atomic Force Microscope) Mk1 operation process by Ellen Raun",
+   "d": "2023-08-23",
+   "v": 908,
+   "s": 810,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "OA2UQW2Kx3A",
+   "t": "Piezo nanopositioners playing music (sound on)",
+   "d": "2024-08-27",
+   "v": 690,
+   "s": 22,
+   "vertical": false,
+   "desc": "https://www.hardware-x.com/article/S2468-0672(22)00062-1/fulltext"
+  },
+  {
+   "id": "z3VjuMd00X4",
+   "t": "MIDAS PodCast",
+   "d": "2024-09-20",
+   "v": 733,
+   "s": 706,
+   "vertical": true,
+   "desc": "Edwin Hwu is an Associate Professor at DTU Health Tech and leads the MIDAS (Micro Medical Devices and Hardware Hacking Based Technologies) group. He is a specialist in repurposing consumer electronics to create low-cost, high-performance scientific instruments.\nThis podcast discusses his unorthodox research approach, which involves \"hacking\" consumer electronics. This means disassembling products, understanding their components, and repurposing them for new applications. He believes this approach is beneficial for several reasons:\n* Cost-effectiveness: Mass production of consumer electronics r"
+  },
+  {
+   "id": "Fw8r5FBaPTI",
+   "t": "Edwin's Hardware Hacking Research talk at Hackaday Europe in Berlin",
+   "d": "2025-01-09",
+   "v": 776,
+   "s": 2071,
+   "vertical": false,
+   "desc": "https://hackaday.io/europe2024\n\nEdwin Hwu is a researcher at DTU who is renowned for his approach to hacking consumer electronics. His work focuses on transforming everyday devices into advanced scientific tools, showcasing the intersection of technology and creativity. Notable projects include converting piezo-buzzers into Atomic Force Microscopes and repurposing Blu-ray players into sophisticated biotechnological reading systems.\n\nHackaday is a vibrant online community and platform dedicated to hardware hacking, innovation, and DIY projects. Launched in 2004 as a web magazine, it has evolved"
+  },
+  {
+   "id": "TBcPvVnBnOM",
+   "t": "Blu ray HS AFM imaging protin on mica",
+   "d": "2025-01-16",
+   "v": 368,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "teIrtZ1JwYA",
+   "t": "2025 DTU Design Build 4 course final review video (Group 1)",
+   "d": "2025-07-03",
+   "v": 119,
+   "s": 332,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "gsli3CAtics",
+   "t": "2025 DTU Design Build 4 course final review video (Group 20)",
+   "d": "2025-07-03",
+   "v": 77,
+   "s": 252,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "MwUX3bL-GKc",
+   "t": "2025 DTU Design Build 4 course final review video (Group 2)",
+   "d": "2025-07-03",
+   "v": 138,
+   "s": 300,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "E5lR0ksMYYo",
+   "t": "2025 DTU Design Build 4 course final review video (Group 3)",
+   "d": "2025-07-03",
+   "v": 47,
+   "s": 290,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "7GGvA2vysmQ",
+   "t": "2025 DTU Design Build 4 course final review video (Group 4)",
+   "d": "2025-07-03",
+   "v": 67,
+   "s": 337,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "BXvaAy2njDE",
+   "t": "2025 DTU Design Build 4 course final review video (Group 9)",
+   "d": "2025-07-03",
+   "v": 33,
+   "s": 187,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "T7wv8FFF1Qk",
+   "t": "2025 DTU Design Build 4 course final review video (Group 10)",
+   "d": "2025-07-03",
+   "v": 42,
+   "s": 277,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "V7Yx11KV2oo",
+   "t": "2025 DTU Design Build 4 course final review video (Group 11)",
+   "d": "2025-07-03",
+   "v": 39,
+   "s": 300,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "IUbwx_wjP7A",
+   "t": "2025 DTU Design Build 4 course final review video (Group 12)",
+   "d": "2025-07-03",
+   "v": 31,
+   "s": 290,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "b-tAJw3fAc4",
+   "t": "2025 DTU Design Build 4 course final review video (Group 13)",
+   "d": "2025-07-03",
+   "v": 36,
+   "s": 242,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "GI9jBXP2-8g",
+   "t": "2025 DTU Design Build 4 course final review video (Group 14)",
+   "d": "2025-07-03",
+   "v": 28,
+   "s": 263,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "7xh0Gd-Ry-I",
+   "t": "2025 DTU Design Build 4 course final review video (Group 15)",
+   "d": "2025-07-03",
+   "v": 91,
+   "s": 300,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "KEVa_6-nUXI",
+   "t": "2025 DTU Design Build 4 course final review video (Group 16)",
+   "d": "2025-07-03",
+   "v": 22,
+   "s": 303,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "P6KG5LVQnoo",
+   "t": "2025 DTU Design Build 4 course final review video (Group 17)",
+   "d": "2025-07-03",
+   "v": 13,
+   "s": 292,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "J-9uwBC3S9E",
+   "t": "2025 DTU Design Build 4 course final review video (Group 18)",
+   "d": "2025-07-03",
+   "v": 30,
+   "s": 300,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "K9fVaiJK82g",
+   "t": "2025 DTU Design Build 4 course final review video (Group 19)",
+   "d": "2025-07-03",
+   "v": 24,
+   "s": 266,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "uSqREbSk1Ak",
+   "t": "2025 DTU Design Build 4 course final review video (Group 5)",
+   "d": "2025-07-03",
+   "v": 71,
+   "s": 297,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "ZQsxOdUbUvg",
+   "t": "2025 DTU Design Build 4 course final review video (Group 6)",
+   "d": "2025-07-03",
+   "v": 73,
+   "s": 229,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "IHGihpNaJRY",
+   "t": "2025 DTU Design Build 4 course final review video (Group 7)",
+   "d": "2025-07-03",
+   "v": 66,
+   "s": 278,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "0SHphBJ48Yk",
+   "t": "2025 DTU Design Build 4 course final review video (Group 8)",
+   "d": "2025-07-03",
+   "v": 57,
+   "s": 300,
+   "vertical": false,
+   "desc": "200 students plunging into a whirlwind of soft/hard/firmware, biology, energy, electronics and innovation\u2014crafting sustainable bioreactors.\n\nDesign Build 4 at DTU - Technical University of Denmark DTU Health Tech IDUN Research Section was a fiendishly complex juggernaut, weaving together multiple disciplines into a hands-on, high-stakes adventure. It took 6 months of relentless planning to chart the course for this interdisciplinary odyssey. And the mission at its core? To pioneer sustainable bio incubation systems by unleashing creativity to solve pressing real-world challenges.\n\nThe scale? c"
+  },
+  {
+   "id": "jfIDqMGxiLE",
+   "t": "20250814 DIY AFM Osaka Expo Best Practice Award",
+   "d": "2025-08-14",
+   "v": 123,
+   "s": 972,
+   "vertical": false,
+   "desc": "Remember being told to \"put away your toys and focus on real science\"? Well, I just proved them spectacularly wrong.\n\n\ud83d\udd2c The Journey:\n2012: LEGO Foundation funds my wild idea - \"What if kids could build atomic force microscopes?\"\n2014: Licensed the tech to Str\u00f8mlinet Nano (locally represented by RIBM in Japan)\n2024: Selected as one of only 25 Best Practice winners at Expo 2025 Osaka from 2000+ global teams\n\n\"Microscope Unveils the Macro-World's Scope\" - our Arduino-based AFM that primary school kids can assemble at home - just earned recognition alongside projects from across the globe tackling"
+  },
+  {
+   "id": "Uu6K7qxv5NQ",
+   "t": "DIY Atomic Force Microscope for Kids: Expo 2025 Osaka Best Practice Presentation (Japanese)",
+   "d": "2025-08-21",
+   "v": 576,
+   "s": 998,
+   "vertical": false,
+   "desc": "Can school kids explore the nanoscale? This Expo 2025 Osaka Best Practice presentation (in Japanese) introduces a DIY atomic force microscope (AFM) that young people assemble themselves, like building blocks, from affordable parts with an Arduino controller, a DVD optical pickup and a piezo buzzer scanner.\n\nSelected as one of only 25 Best Practice winners from 2000+ global teams. While PhD students struggle with $500K+ AFM systems, 8-year-olds are now exploring the nanoscale world.\n\nThe technology was developed by Edwin En-Te Hwu (DTU Health Tech, MIDAS group). 2014: The technology was license"
+  },
+  {
+   "id": "2yaSxg99t84",
+   "t": "2025 Skin Nanotexture Biometrics published on Allergy",
+   "d": "2025-12-05",
+   "v": 108,
+   "s": 121,
+   "vertical": false,
+   "desc": "Title: Assessment of the Severity of Atopic Dermatitis Using Atomic Force Microscopy Analysis of Skin Tape Strip\nArticle address https://onlinelibrary.wiley.com/doi/10.1111/all.70170?af=R\n\nNanoscopic Clues Your Skin Is Hiding\nHow Atomic Force Microscopy (AFM) reveals tiny circular nano objects on skin cells linked to eczema and atopic dermatitis. Learn about the ECTI metric that quantifies skin-barrier damage, enables early detection, personalized treatment tracking, and uses non-invasive tape strips\u2014no biopsies. Based on a 120-person, two-country study, this short explainer is tailored for de"
+  },
+  {
+   "id": "ZE_EIX4KwrM",
+   "t": "Skin Nanotexture as a Biomarker: AFM Scans and the ECTI Metric | Allergy",
+   "d": "2025-12-05",
+   "v": 86,
+   "s": 127,
+   "vertical": false,
+   "desc": "What can the smallest details of your skin reveal about barrier damage? Atomic force microscopy (AFM) scans of the skin's outermost cells show tiny circular nano objects on corneocytes that are linked to eczema and atopic dermatitis.\n\nThis short explainer introduces the ECTI metric, which quantifies skin barrier damage from simple, non-invasive tape strips instead of biopsies, and can support early detection and treatment tracking.\n\nBased on a 120-person study across two countries, published in Allergy. Made for dermatology researchers, clinicians and AFM newcomers curious about practical tool"
+  },
+  {
+   "id": "T96zVjvG-HY",
+   "t": "Skin Nanotexture Images Manual (human decision) QC Operation",
+   "d": "2025-12-05",
+   "v": 29,
+   "s": 254,
+   "vertical": false,
+   "desc": "This video is made by a bright student Ellen Raun"
+  },
+  {
+   "id": "BpcKM5gE_ME",
+   "t": "Edwin Hwu \u5fb7\u570b\u53f0\u5546\u6703\u6f14\u8b1b (\u53f0\u7063\u4e2d\u6587)",
+   "d": "2026-04-20",
+   "v": 114,
+   "s": 4684,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "P1xQIW-TubY",
+   "t": "2022 Edwin's talk at Danish Engineer Association (IDA) Full",
+   "d": "2026-04-21",
+   "v": 174,
+   "s": 1822,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "hahRc6_PueY",
+   "t": "Your skin may look fine. At the nanoscale, it may not. #Shorts",
+   "d": "2026-11-11",
+   "v": 161,
+   "s": 77,
+   "vertical": true,
+   "desc": "Your skin may look fine. At the nanoscale, it can tell a different story. We collect corneocytes with painless tape strips, scan them with an atomic force microscope and count the tiny circular nano-objects (CNOs) on them. The more severe the atopic dermatitis, the more CNOs. That count became ECTI, an objective index that tracked clinical severity in 120 people in Taiwan and Denmark. Allergy (2025): https://doi.org/10.1111/all.70170 Thanks to the LEO Foundation and the Novo Nordisk Foundation. #SkinNanotexture #AFM #AtopicDermatitis #DTU"
+  },
+  {
+   "id": "9b_wH5-4a24",
+   "t": "A kids' alarm buzzer that images atoms #Shorts",
+   "d": "2026-11-13",
+   "v": 1138,
+   "s": 84,
+   "vertical": true,
+   "desc": "\u20ac0.10 piezo buzzers from a kid's personal alarm became the XYZ scanner of our low-cost AFM. No high-voltage amplifier, better linearity than a classic piezo tube, and it still resolves 0.36 nm atomic steps on graphite. From my Hackaday Europe talk. #HardwareHacking #AFM"
+  }
+ ]
+}

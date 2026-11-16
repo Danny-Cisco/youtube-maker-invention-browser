@@ -1,0 +1,675 @@
+{
+ "channel": {
+  "id": "UCaFlYqqJ_EdG-_xCjcQloMA",
+  "title": "Sam Machin",
+  "handle": "@sammachin",
+  "description": "",
+  "since": "2007-01-03",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_lhjLXdYbBf8N9kXwDUfErsktMliGtkttQQJutiwCgZ328=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "641110",
+  "subscriberCount": "928",
+  "hiddenSubscriberCount": false,
+  "videoCount": "72"
+ },
+ "videos": [
+  {
+   "id": "C4EgR0GE_eE",
+   "t": "04012009001",
+   "d": "2009-01-10",
+   "v": 53,
+   "s": 122,
+   "vertical": false,
+   "desc": "\n - Taken at 10:49 PM on January 04, 2009 - cameraphone upload by ShoZu"
+  },
+  {
+   "id": "Od6X77LOVMs",
+   "t": "Pebble SMS Delay",
+   "d": "2013-08-06",
+   "v": 847,
+   "s": 18,
+   "vertical": false,
+   "desc": "Anyone else find that their pebble now has a long delay between getting an SMS alert and the iPhone beeping?"
+  },
+  {
+   "id": "EBog4dZtb2U",
+   "t": "iBeacon Hack",
+   "d": "2014-01-07",
+   "v": 1009,
+   "s": 42,
+   "vertical": false,
+   "desc": "Example of how to generate all the iBeacons needed to unlock the CES scavenger hunt app, for education only!\n\nCode at https://gist.github.com/sammachin/8298386"
+  },
+  {
+   "id": "5orgLJb-3As",
+   "t": "iPad controlled Juice Tap",
+   "d": "2014-01-14",
+   "v": 667,
+   "s": 13,
+   "vertical": false,
+   "desc": "In the Park Inn Stockholm, no toaster at breakfast though!"
+  },
+  {
+   "id": "ZcBjrszVYkc",
+   "t": "O2UK 4G problem on iPhone 5S",
+   "d": "2014-02-18",
+   "v": 1706,
+   "s": 31,
+   "vertical": true,
+   "desc": "I've got a 5S with an O2 Sim, I don't subscribe to a 4G plan so it isn't enabled. Whenever I travel into a 4G service area my phone ends up stuck on 2G instead on 3G if I toggle 4G it fixes it"
+  },
+  {
+   "id": "838V259GREI",
+   "t": "Twilo and Sonos hack",
+   "d": "2014-04-21",
+   "v": 7826,
+   "s": 75,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "vdDD-7ks-g8",
+   "t": "SocialBeacon in-car iBeacon",
+   "d": "2014-07-14",
+   "v": 1743,
+   "s": 25,
+   "vertical": true,
+   "desc": "Demo of the iBeacon in my car which triggers a push notification whenever my wife or I start the engine."
+  },
+  {
+   "id": "b9bbUsbM-Ro",
+   "t": "Can your mobile network do this?",
+   "d": "2014-07-23",
+   "v": 727,
+   "s": 31,
+   "vertical": true,
+   "desc": "The silly things you can do when you have control of your own core network :)"
+  },
+  {
+   "id": "fQfXIeMUpaA",
+   "t": "3D Led Cube",
+   "d": "2014-08-04",
+   "v": 104,
+   "s": 31,
+   "vertical": false,
+   "desc": "8x8x8 LED Cube controlled via an API at Leeds Hack"
+  },
+  {
+   "id": "9cUgyVqLMko",
+   "t": "indieTalk Demo",
+   "d": "2014-09-11",
+   "v": 141,
+   "s": 141,
+   "vertical": false,
+   "desc": "Demo video of browser to browser calling on your own site using indieAuth for Identity and WebRTC for voice transport.\n\nPart of my work on http://talkproject.org, full write-up to come on http://sammachin.com"
+  },
+  {
+   "id": "88MQfHZvQj8",
+   "t": "rtcchatsms",
+   "d": "2015-02-16",
+   "v": 31,
+   "s": 83,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "TWl08wI_eb8",
+   "t": "RTCChat",
+   "d": "2015-02-16",
+   "v": 74,
+   "s": 38,
+   "vertical": false,
+   "desc": "Demo of RTC DataChannel with a 'Bring your own signalling' client"
+  },
+  {
+   "id": "FGTZEdLs3Bk",
+   "t": "SMS List Sheet",
+   "d": "2015-05-05",
+   "v": 200,
+   "s": 414,
+   "vertical": false,
+   "desc": "Demo of my latest hack, setup and manage a Group SMS list using just twilio and google docs, no need to write any code"
+  },
+  {
+   "id": "IgWu9QnCe3Q",
+   "t": "webdial",
+   "d": "2015-07-31",
+   "v": 53,
+   "s": 60,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "XnNztJJbmUs",
+   "t": "Call Alexa",
+   "d": "2015-12-16",
+   "v": 16685,
+   "s": 97,
+   "vertical": true,
+   "desc": "Demo of my Alexa-Twilio hack, give alexa voice commands from your phone."
+  },
+  {
+   "id": "zSUXjpljM84",
+   "t": "Alexa Web",
+   "d": "2015-12-17",
+   "v": 25122,
+   "s": 66,
+   "vertical": false,
+   "desc": "Access Alexa from your Browser"
+  },
+  {
+   "id": "w3xzjgrI93c",
+   "t": "Amazon Voice Remote with Nexus 6",
+   "d": "2015-12-19",
+   "v": 238,
+   "s": 141,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "Z1HGJyfoUBE",
+   "t": "The $10* Echo**",
+   "d": "2016-01-03",
+   "v": 37298,
+   "s": 63,
+   "vertical": false,
+   "desc": "Video showing my home made Alexa client using the CHIP the $9 computer and a couple of simple parts.\n\n* Will cost about $10 depending on what you can salvage for speaker, mic, & button.\n** Not really a full echo this is just an alexa client, it doesn't have the keyword detection, or the music playback capabilities"
+  },
+  {
+   "id": "ZDVn2W71mco",
+   "t": "BATTLEHACK LONDON 2015 Team @Risk Demo",
+   "d": "2016-01-21",
+   "v": 104,
+   "s": 258,
+   "vertical": false,
+   "desc": "Our winning entry to BattleHack London 2015"
+  },
+  {
+   "id": "cbJqs2IMbcQ",
+   "t": "AlexaPi",
+   "d": "2016-06-21",
+   "v": 1272,
+   "s": 42,
+   "vertical": false,
+   "desc": "An updated demo of my AlexaPi project this ones in a nice case and has music working."
+  },
+  {
+   "id": "FPP7idHgcSE",
+   "t": "2 Lurchers 1 Antler",
+   "d": "2016-10-04",
+   "v": 47,
+   "s": 63,
+   "vertical": true,
+   "desc": "Too cute"
+  },
+  {
+   "id": "Owf6_DsWg6E",
+   "t": "Alexa multi device detection",
+   "d": "2016-10-13",
+   "v": 22214,
+   "s": 66,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "MuMT3ap6-Qc",
+   "t": "Amazon Tap Wakeword",
+   "d": "2017-02-14",
+   "v": 223627,
+   "s": 69,
+   "vertical": true,
+   "desc": "Quick demo of the new wakeword functionality in the Amazon TAP"
+  },
+  {
+   "id": "wpkjoHZHxnM",
+   "t": "AlexaPi Streaming (300k upload)",
+   "d": "2017-03-06",
+   "v": 285,
+   "s": 38,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "0vuD8kO9kFM",
+   "t": "Alexa Pi Streaming (64k upload)",
+   "d": "2017-03-06",
+   "v": 254,
+   "s": 42,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "JyTuC5XQ-OI",
+   "t": "Google Home meet Alexa",
+   "d": "2017-04-07",
+   "v": 205638,
+   "s": 16,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "wPegdujR1Qc",
+   "t": "Nexmo Workshop",
+   "d": "2017-04-29",
+   "v": 96,
+   "s": 341,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "xts209oZJqM",
+   "t": "Sam Machin Live Stream",
+   "d": "2017-04-29",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "gGN0SrHoOv4",
+   "t": "Lurcher Paddling",
+   "d": "2017-06-17",
+   "v": 44,
+   "s": 193,
+   "vertical": false,
+   "desc": "Got the boys a pool, they seem to like it."
+  },
+  {
+   "id": "bzS0Hm33rKk",
+   "t": "Alexa Sings",
+   "d": "2017-07-21",
+   "v": 415,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "mPnFFOyw8pM",
+   "t": "CameraPi on the Echo Show",
+   "d": "2017-08-07",
+   "v": 9286,
+   "s": 180,
+   "vertical": false,
+   "desc": "Build you own monitoring camera with a Raspberry api to display on the Echo Show.\n\nRead about it at http://sammachin.com/blog/build-your-own-rasp-pi-security-camera-for-the-echo-show/ and see the github link in that post for instructions"
+  },
+  {
+   "id": "eXMYKIm-78g",
+   "t": "RasPi Noise",
+   "d": "2017-11-09",
+   "v": 313,
+   "s": 16,
+   "vertical": false,
+   "desc": "The Pi leaks a lot of electrical noise out onto an external speaker but only when the speaker is plugged in to the same power supply as the Pi. I quite like it though when it\u2019s installing packages, there\u2019s a certain retro nostalgia that those of you that had tape based systems will remember \ud83e\udd13"
+  },
+  {
+   "id": "EhYYOKmIpK4",
+   "t": "Alexa slide clicker",
+   "d": "2018-03-17",
+   "v": 3898,
+   "s": 16,
+   "vertical": false,
+   "desc": "Brief preview of my latest hacking, featuring the worlds most boring presentation"
+  },
+  {
+   "id": "bvd1h1QIXHY",
+   "t": "Alexa Karaoke mode",
+   "d": "2018-03-25",
+   "v": 8054,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1kjuZhPljOE",
+   "t": "Alexa weather",
+   "d": "2018-04-27",
+   "v": 16091,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TRJb_FyOlLE",
+   "t": "Ring raindrops",
+   "d": "2018-09-14",
+   "v": 148,
+   "s": 66,
+   "vertical": false,
+   "desc": "The ring security camera tells me there\u2019s movement everytime a raindrop goes over the lens, thi"
+  },
+  {
+   "id": "aBB7ttmHKKQ",
+   "t": "LimeNet Micro - Osmocom GSM",
+   "d": "2018-11-21",
+   "v": 5087,
+   "s": 608,
+   "vertical": false,
+   "desc": "This is a preview of the new LimeNet Micro SDR with on-board Raspberry Pi compute module, the module is running OsmoBTS & OsmoTRX integrated to the EMF Camp GSM Core network.\n\nFor more details on the LimeNet Micro checkout the crowdsupply page\nhttps://www.crowdsupply.com/lime-micro/limenet-micro"
+  },
+  {
+   "id": "d6NjCpRqNj4",
+   "t": "Uk Train Departures Alexa Multimodal Skill",
+   "d": "2018-12-02",
+   "v": 2990,
+   "s": 43,
+   "vertical": false,
+   "desc": "This is my first skill using the new Alexa Presentation Language posted as an entry to the #AmazonAlexaMultimodalChallenge competiion on DevPost\n\nNow live! https://www.amazon.co.uk/Sam-Machin-UK-Train-Departures/dp/B07L5CQ9N7"
+  },
+  {
+   "id": "SxL7uCubK8k",
+   "t": "Campus Badge DTMF Dialer",
+   "d": "2019-10-05",
+   "v": 2612,
+   "s": 35,
+   "vertical": true,
+   "desc": "First version of the DTMF Dialer app running on a prototype badge for Vonage Campus \nhttps://developer.nexmo.com/campus"
+  },
+  {
+   "id": "aHAo4T3y7Co",
+   "t": "Node-RED Asterisk ARI",
+   "d": "2020-03-29",
+   "v": 4673,
+   "s": 307,
+   "vertical": false,
+   "desc": "My Entry for TAD Hack Orlando 2020 (remote) Is a Node-RED package for controlling calls on Asterisk in real time."
+  },
+  {
+   "id": "jDu459yPrcg",
+   "t": "Node-RED and Zapier",
+   "d": "2020-06-19",
+   "v": 800,
+   "s": 705,
+   "vertical": false,
+   "desc": "Demo of my NodeRED and Zapier integration packages allowing you to connect between NodeRED flows and Zaps.\n\n\nYou can install the Node-RED nodes from the pallette manager or goto https://flows.nodered.org/node/node-red-contrib-zapier\n\n\nThe Zapier package will need to be added using this invite link https://zapier.com/developer/public-invite/102945/352463f7043484371f61bd11f368a2a5/"
+  },
+  {
+   "id": "eGDSiSOTvtc",
+   "t": "Claverham Tractor Run",
+   "d": "2020-12-28",
+   "v": 324,
+   "s": 345,
+   "vertical": true,
+   "desc": "Our local farmers had a Boxing Day \"cruise\" through the village to raise money for the Farming Community Network https://www.justgiving.com/fundraising/george-atwell"
+  },
+  {
+   "id": "tls0CXa87lc",
+   "t": "JSON URL",
+   "d": "2021-05-06",
+   "v": 2360,
+   "s": 185,
+   "vertical": false,
+   "desc": "Super simple service to return a blob of JSON thats been encoded in the request URL, with a basic webpage to create the encoded urls"
+  },
+  {
+   "id": "ws6_FunNy18",
+   "t": "TADHack 2021 Jambonz",
+   "d": "2021-09-26",
+   "v": 80,
+   "s": 279,
+   "vertical": false,
+   "desc": "My implementation of a moderated conf call using NodeRED and the Jambonz platform"
+  },
+  {
+   "id": "DMPfn_SU8o8",
+   "t": "AlexaWeb Reborn",
+   "d": "2021-12-31",
+   "v": 5169,
+   "s": 24,
+   "vertical": true,
+   "desc": "The new alexaweb service running with an updated backed"
+  },
+  {
+   "id": "-O9tS84mq4o",
+   "t": "Alexa in the Node-RED Dashboard",
+   "d": "2022-01-04",
+   "v": 1043,
+   "s": 8,
+   "vertical": false,
+   "desc": "coming soon..."
+  },
+  {
+   "id": "aP3xiwpwvR8",
+   "t": "First call on the 2022 EMF Camp DECT Network",
+   "d": "2022-05-18",
+   "v": 336,
+   "s": 6,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "V5GmdTomtf4",
+   "t": "Raspberry Pi PicoW MQTT-GPIO With Node-RED",
+   "d": "2022-07-01",
+   "v": 7969,
+   "s": 76,
+   "vertical": true,
+   "desc": "Controlling the GPIO pins on the new PicoW over MQTT from Node-RED.\n\nCode and instructions at https://gist.github.com/sammachin/b67cc4f395265bccd9b2da5972663e6d"
+  },
+  {
+   "id": "A3JOD-UlnCs",
+   "t": "TADHack Presentation - PTT On Microcontrollers",
+   "d": "2022-10-17",
+   "v": 106,
+   "s": 923,
+   "vertical": false,
+   "desc": "My entry to TAD Hack 2022, Integrating the work I've been doing with Push to Talk on Microcontrollers with Jambonz for PSTN connectivity."
+  },
+  {
+   "id": "kGB21ABZtrU",
+   "t": "Jambonz & Node-RED",
+   "d": "2022-12-16",
+   "v": 597,
+   "s": 1169,
+   "vertical": false,
+   "desc": "I've been working on an update to the Node-Red package for Jambonz, in this video I'll walk though getting started with Node-RED & Jambonz and then show you how to create a simple IVR to route calls to different departments.\nLinks: \nhttps://www.jambonz.org/\nhttps://nodered.org\nhttps://flows.nodered.org/node/@jambonz/node-red-contrib-jambonz"
+  },
+  {
+   "id": "x1j1WCPJAW8",
+   "t": "First experiments with Matter and SmartThings",
+   "d": "2023-05-20",
+   "v": 307,
+   "s": 29,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "y_b02JXe9Jw",
+   "t": "EMF DECT - Mitel Phonebook",
+   "d": "2024-05-15",
+   "v": 1557,
+   "s": 13,
+   "vertical": true,
+   "desc": "Phonebook now working on the Mitel handsets"
+  },
+  {
+   "id": "iZf8IHMRb2s",
+   "t": "EMF Pollen Hotline",
+   "d": "2024-05-17",
+   "v": 105,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "dmaql6KWMCA",
+   "t": "EMF 2024 Dial-a-Menu",
+   "d": "2024-05-24",
+   "v": 274,
+   "s": 35,
+   "vertical": true,
+   "desc": "jambonz app reading menu data from a Grist spreadsheet"
+  },
+  {
+   "id": "AHPKcrZH8_E",
+   "t": "Control USB power on Pi with Node-RED",
+   "d": "2024-07-27",
+   "v": 841,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "qtzCinN7KpI",
+   "t": "APIBan Checker iOS Shortcut",
+   "d": "2024-11-27",
+   "v": 783,
+   "s": 17,
+   "vertical": true,
+   "desc": "Wrote a little iOS shortcut to check apiban.org for an IP address.\n\nYou can add it to your devices using https://www.icloud.com/shortcuts/eb618eddae19410b94808eb8db023c27\nYou'll need to get your own apiban api key and enter it in the first block of the function"
+  },
+  {
+   "id": "jWdnPymya2M",
+   "t": "Node RED Matter",
+   "d": "2024-12-13",
+   "v": 2324,
+   "s": 536,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "ekhRETXUEb8",
+   "t": "SIP Badge",
+   "d": "2025-02-16",
+   "v": 1033,
+   "s": 23,
+   "vertical": false,
+   "desc": "Testing out RevK's ESP-32 openmic badge with SIP stack"
+  },
+  {
+   "id": "bnzopw1mBpU",
+   "t": "Notification to Pager",
+   "d": "2026-03-04",
+   "v": 7258,
+   "s": 23,
+   "vertical": false,
+   "desc": "Transmitting phone app alerts (SMS, Signal anything) to a Flex pager using a SenseCap T1000E hardware"
+  },
+  {
+   "id": "oH0D3I6b_Z8",
+   "t": "eBay Live Blocker Plugin",
+   "d": "2026-03-27",
+   "v": 151,
+   "s": 29,
+   "vertical": false,
+   "desc": "Quick browser plugin to hide the enshittification that is eBay live all over the homepage.\nhttps://github.com/sammachin/ebay-live-blocker"
+  },
+  {
+   "id": "5dd34jjBZNU",
+   "t": "SNOM Light Mk1",
+   "d": "2026-03-30",
+   "v": 102,
+   "s": 195,
+   "vertical": true,
+   "desc": "Demo of a small embedded device using an RP2350 and WIZ5500 ethernet controller.\nWhen connected to the PC network port on snom VOIP phones it will then discover the local phone via LLDP and update its action URLs so that the phone sends webhooks to the device when it rings/missed call etc.\n\nThe only device configuration it needs is the phones admin password which can be set via serial console and is then stored encrypted in the device."
+  },
+  {
+   "id": "73tbLGijS2M",
+   "t": "Motorola PMR2000 Pager",
+   "d": "2026-04-05",
+   "v": 119,
+   "s": 21,
+   "vertical": false,
+   "desc": "This pager was released in 1989, I wonder how long it is since it last received a message!\nStill working fine today though, with a Pi Pico, Sx1278 and RadioLib"
+  },
+  {
+   "id": "dcPXz8bMQpc",
+   "t": "CheerLights on the Tildagon Badge",
+   "d": "2026-05-31",
+   "v": 1767,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "791P1Sn_h2k",
+   "t": "Tildagon iOS Notifications",
+   "d": "2026-06-02",
+   "v": 932,
+   "s": 96,
+   "vertical": false,
+   "desc": "Receive notifications from iOS on your Tildagon via BLE, coming to a badge near you soon"
+  },
+  {
+   "id": "itg0bViiKIg",
+   "t": "Bleepie Prod PCB",
+   "d": "2026-06-12",
+   "v": 206,
+   "s": 61,
+   "vertical": false,
+   "desc": "First assembled PCB for the Bleepie Paging Hexpansion on Tildagon"
+  },
+  {
+   "id": "fxqQeHr_aUg",
+   "t": "SipLight WiFi",
+   "d": "2026-07-09",
+   "v": 111,
+   "s": 16,
+   "vertical": false,
+   "desc": "Updated final revision of the SipLight/SNOMLight, this one using a Pi PicoW and so connects via WiFi to a SIP server"
+  },
+  {
+   "id": "WgHgrDYZi8I",
+   "t": "EMF Phonebook iOS CardDav Setup",
+   "d": "2026-07-13",
+   "v": 162,
+   "s": 62,
+   "vertical": true,
+   "desc": "Setting up your iPhone to sync the EMF 2026 phonebook over CardDav"
+  },
+  {
+   "id": "7AZx0Ae1yWY",
+   "t": "Tildagon WiFi Manager",
+   "d": "2026-07-23",
+   "v": 153,
+   "s": 177,
+   "vertical": false,
+   "desc": "Manage and Share Multiple WiFi Connection profiles on the Tildagon\nhttps://apps.badge.emfcamp.org/apps/14220403"
+  },
+  {
+   "id": "vWf_tAT6Xq0",
+   "t": "Rotary Dial on Spaceagon",
+   "d": "2026-08-01",
+   "v": 342,
+   "s": 62,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "mRVMZxcVFYU",
+   "t": "HexType",
+   "d": "2026-08-02",
+   "v": 210,
+   "s": 255,
+   "vertical": false,
+   "desc": "Demo of a potential new text input method for the 2026 Tildagon using the touch pads and joystick.\nFeedback welcome, demo app at https://apps.badge.emfcamp.org/apps/43322310\nSource Code\nhttps://github.com/sammachin/HexType"
+  },
+  {
+   "id": "ThR122Wt7lE",
+   "t": "Tildagon BLE Keyboard",
+   "d": "2026-08-07",
+   "v": 322,
+   "s": 23,
+   "vertical": false,
+   "desc": "Work in progress"
+  },
+  {
+   "id": "lBAmeC7-DBo",
+   "t": "MacOS Remote Desktop from iPad with Resolution switching",
+   "d": "2026-09-21",
+   "v": 1392,
+   "s": 48,
+   "vertical": false,
+   "desc": "Something I've wanted for a long time was a nice way of using my Dekstop Mac via remote desktop from my iPad Pro with a keyboard and mouse, One of the big problems i had was that i use an ultrawide monitor with my Mac so the desktop runs at 5120x1440, however when connected from the iPad the desktop is then scaled and you have a tiny letterbox view.\nApples  High Speed Screen Sharing from the MacBook takes care of this by runnig the desktop at the MacBooks native resolution when connected but I wanted to use my iPad and despite it being an M1 Apple never extended this feature to iPadOS\n\nI've fo"
+  },
+  {
+   "id": "LoUrZ02te8M",
+   "t": "Speech to Matter",
+   "d": "2026-11-05",
+   "v": 273,
+   "s": 135,
+   "vertical": false,
+   "desc": "Jambonz Agent Studio using the Rime Labs Prism speech to speech model to call an MCP server running on Node-RED that controls and reads data from Matter smart home devices."
+  }
+ ]
+}

@@ -1,0 +1,2430 @@
+{
+ "channel": {
+  "id": "UCuJHOsNxKXjYYJQI4RwCS_A",
+  "title": "Graham Dunning",
+  "handle": "@grahamdunning",
+  "description": "I'm a musician, maker and sound artist based in London. Mechanical Techno, improvisation, live coding and instrument design. Process videos, live sets, studio recordings and other bits and bobs.\n\nProfile photo is by \u0160imon Lupt\u00e1k\n\n",
+  "since": "2009-06-02",
+  "avatar": "https://yt3.ggpht.com/AxmtkXix-eVh6Oh-R59_nhNMs_2YJpNU3qbhqAahtDPpJmRc1fGLg7-z7sse-yzUn5h0PJtvU7g=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "6675666",
+  "subscriberCount": "28300",
+  "hiddenSubscriberCount": false,
+  "videoCount": "268"
+ },
+ "videos": [
+  {
+   "id": "xt59QRh3QMQ",
+   "t": "Modified Records",
+   "d": "2009-06-02",
+   "v": 1674,
+   "s": 329,
+   "vertical": false,
+   "desc": "Modified records looped through a cheap delay pedal. Inspired by Milan Knizak and Christian Marclay."
+  },
+  {
+   "id": "EtlVYn3Msf0",
+   "t": "Modified turntable",
+   "d": "2009-06-02",
+   "v": 1972,
+   "s": 236,
+   "vertical": false,
+   "desc": "A modified belt-drive turntable that now goes from about 16rpm to about 180rpm, either forwards or backwards. The first record is a sine wave test tone; the second is a record of nursery rhymes. It is played through a cheap delay pedal."
+  },
+  {
+   "id": "TkQ-qyoKcOo",
+   "t": "Long Railing (Graham Dunning)",
+   "d": "2009-06-06",
+   "v": 694,
+   "s": 367,
+   "vertical": false,
+   "desc": "A long railing in Manchester that produces a variety of sounds. Video first exhibited at Outlet, Manchester, as part of a group show called Krumm."
+  },
+  {
+   "id": "XLTRjuTMjj4",
+   "t": "Circuit Bent Sony Walkman - Noisemaker",
+   "d": "2009-06-16",
+   "v": 3008,
+   "s": 106,
+   "vertical": false,
+   "desc": "A circuit bent walkman."
+  },
+  {
+   "id": "cNm2rMI7Aqk",
+   "t": "Blood Moon: Live 28th June 09 - 4 of 4",
+   "d": "2009-06-30",
+   "v": 204,
+   "s": 236,
+   "vertical": false,
+   "desc": "Blood Moon playing live at the F*cked Up All Dayer at Dry Bar, Manchester, UK, on 28th June 2009."
+  },
+  {
+   "id": "hhX8sCcX51U",
+   "t": "Blood Moon: Live 28th June 09 - 3 of 4",
+   "d": "2009-06-30",
+   "v": 188,
+   "s": 210,
+   "vertical": false,
+   "desc": "Blood Moon playing live at the F*cked Up All Dayer at Dry Bar, Manchester, UK, on 28th June 2009."
+  },
+  {
+   "id": "ddUDGjBpl5g",
+   "t": "Blood Moon: Live 28th June 09 - 2 of 4",
+   "d": "2009-06-30",
+   "v": 110,
+   "s": 147,
+   "vertical": false,
+   "desc": "Blood Moon playing live at the F*cked Up All Dayer at Dry Bar, Manchester, UK, on 28th June 2009."
+  },
+  {
+   "id": "Lfe5j_aqjGE",
+   "t": "Blood Moon: Live 28th June 09 - 1 of 4",
+   "d": "2009-06-30",
+   "v": 230,
+   "s": 277,
+   "vertical": false,
+   "desc": "Blood Moon playing live at the F*cked Up All Dayer at Dry Bar, Manchester, UK, on 28th June 2009."
+  },
+  {
+   "id": "fAnWBsFAutg",
+   "t": "Scratching: Simon Says",
+   "d": "2009-10-25",
+   "v": 672,
+   "s": 46,
+   "vertical": false,
+   "desc": "Kane mucking about scratching a Simon Says record"
+  },
+  {
+   "id": "a6OwcpjPalU",
+   "t": "Maria and the Mirrors",
+   "d": "2009-10-25",
+   "v": 1668,
+   "s": 26,
+   "vertical": false,
+   "desc": "Maria and the Mirrors live at Noise Noise Noise mid 2009."
+  },
+  {
+   "id": "BCGoSslj7ys",
+   "t": "kong - live at Islington Mill, Salford, October 2009",
+   "d": "2009-10-25",
+   "v": 142,
+   "s": 26,
+   "vertical": false,
+   "desc": "Mentalist maths metal band Kong end their set with feedback and other shenanigans"
+  },
+  {
+   "id": "whMXCG9tScc",
+   "t": "Baked Beans",
+   "d": "2009-10-25",
+   "v": 359,
+   "s": 38,
+   "vertical": false,
+   "desc": "Cooking some lovely baked beans. Mmmmm."
+  },
+  {
+   "id": "sX5113WhcNk",
+   "t": "disco claps",
+   "d": "2009-10-25",
+   "v": 2152,
+   "s": 240,
+   "vertical": false,
+   "desc": "Recording claps for a disco tune at Sonic Weekend 5"
+  },
+  {
+   "id": "wH0UQBdwmqY",
+   "t": "Melt an ice cube",
+   "d": "2010-01-21",
+   "v": 1193,
+   "s": 101,
+   "vertical": false,
+   "desc": "Ice cube melting on electric hob. One of the actions from Sixty Six Events - www.sixtysixevents.com \nPerformed by Graham Dunning."
+  },
+  {
+   "id": "0USltLlnBP0",
+   "t": "Fix an unbroken thing/object (Circuit Bending a Walkie Talkie)",
+   "d": "2010-02-01",
+   "v": 8748,
+   "s": 388,
+   "vertical": false,
+   "desc": "Video by Graham Dunning made as part of sixty_six_events. A response to the instruction \"Fix an unbroken thing/object\", montage of making a circuit bent walkie talkie. \r\nSee http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "wGMjJcznF28",
+   "t": "Close your eyes for 4'20''",
+   "d": "2010-02-01",
+   "v": 1331,
+   "s": 290,
+   "vertical": false,
+   "desc": "Performed by Graham Dunning as part of sixty_six_events. See http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "lrFLIVKMtms",
+   "t": "Cross The Line",
+   "d": "2010-02-01",
+   "v": 238,
+   "s": 26,
+   "vertical": false,
+   "desc": "Performed by Gary Fisher as part of sixty_six_events. See http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "zLEJFG6Xyxw",
+   "t": "Watch TV for exactly 3 minutes",
+   "d": "2010-02-02",
+   "v": 1266,
+   "s": 203,
+   "vertical": false,
+   "desc": "Performed by Graham Dunning and Gary Fisher as part of sixty_six_events. See http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "A53vvnl2im4",
+   "t": "Take a map of one location & apply it to another",
+   "d": "2010-02-02",
+   "v": 880,
+   "s": 102,
+   "vertical": false,
+   "desc": "Performed by Graham Dunning as part of sixty_six_events. See http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "c6UtfgM_zAA",
+   "t": "Ring a bell until you tell yourself to stop (Graham Dunning)",
+   "d": "2010-02-02",
+   "v": 2641,
+   "s": 204,
+   "vertical": false,
+   "desc": "A reel-to-reel tape machine plays a loop of sounds from a bell recorded at different tape speeds to give different pitches. The bell which was used to make the sounds acts as a capstan for the tape loop. The title of the work is also the instruction that the piece was made in response to. \r\nInstallation and video by Graham Dunning as part of sixty_six_events. See http://www.sixtysixevents.com for more info."
+  },
+  {
+   "id": "r5OiW8oLQwo",
+   "t": "Theremin charms chickens at the Merzbarn",
+   "d": "2011-09-21",
+   "v": 209,
+   "s": 26,
+   "vertical": false,
+   "desc": "Beat Frequency, AKA Gordon Charlton, plays his Theremin to charm some chickens, at Kurt Schwitters' Merzbarn in the Lake District."
+  },
+  {
+   "id": "vOMs2ONiC5g",
+   "t": "Jay Stansfield - Contact - live at the Merz Barn",
+   "d": "2011-09-22",
+   "v": 283,
+   "s": 273,
+   "vertical": false,
+   "desc": "Jay Stansfield playing \"Contact\" live at Kurt Schwitters' Merzbarn in the Lake District, September 2011"
+  },
+  {
+   "id": "xrm_O-VL3-c",
+   "t": "Untitled with Records and Hammer (Graham Dunning)",
+   "d": "2012-01-21",
+   "v": 526,
+   "s": 43,
+   "vertical": false,
+   "desc": "Viewers are invited to smash a vinyl record with a hammer on a workbench. The diminishing pile of unbroken records and the growing amount of detritus form part of the installation. The records used are unsold copies of a release from the artist's former band.\nFootage from installation at AC Institute, New York, 8th September 2011.\nMore info: http://grahamdunning.com"
+  },
+  {
+   "id": "nFp-HMG4dOk",
+   "t": "Spooling through the whole tape",
+   "d": "2012-06-25",
+   "v": 1078,
+   "s": 178,
+   "vertical": false,
+   "desc": "Fast forwarding through 366m of magnetic tape."
+  },
+  {
+   "id": "2EUDeaPjNeg",
+   "t": "Damo Suzuki live in Dalston",
+   "d": "2012-06-25",
+   "v": 332,
+   "s": 588,
+   "vertical": false,
+   "desc": "Damo Suzuki performing at Birthdays in Dalston in May 2012 for NTS Live.\nWith Justin Paton (bass guitar), Georgina Treloar (xylophone, percussion), Craig Tamlin (drums, percussion), Benjamin Page (guitar, trumpet, electronics), Graham Dunning (turntable, percussion, electronics)."
+  },
+  {
+   "id": "NpoApS7E_Dg",
+   "t": "Music By The Metre (Graham Dunning)",
+   "d": "2012-06-25",
+   "v": 5281,
+   "s": 389,
+   "vertical": false,
+   "desc": "An homage to situationist Giuseppe Pinot-Gallizio who made and sold abstract \"painting by the metre\" by artist Graham Dunning. These \"industrial paintings\" were produced by homemade machines on long rolls of paper. \nThis video explains Dunning's audio version, Music By The Metre. Various constant audio inputs are combined to make a complex drone which is constantly changing  without evolving. This sound is used to fill spools of tape. Dunning set up a stall at Sound//Space, V22 Project Space, Bermondsey, London on 24th June 2012, to sell parts of the tape or whole spools."
+  },
+  {
+   "id": "Xihb1mbSLSU",
+   "t": "Melanie Clifford live at Elevator Gallery for Hackney Wicked Retrospective",
+   "d": "2012-07-10",
+   "v": 570,
+   "s": 159,
+   "vertical": false,
+   "desc": "Excerpt from artist Melanie Clifford's live performance at Elevator Gallery, Hackney Wick, for the Hackney Wicked festival retrospective exhibition opening. She used dubplates of recordings of the show being installed alongside voice and filtering to create this site-specific performance. Info: http://www.melanieclifford.net/"
+  },
+  {
+   "id": "CXBisIQm6Lo",
+   "t": "Melted and reconstituted shellac record on homemade record player",
+   "d": "2012-07-21",
+   "v": 3392,
+   "s": 89,
+   "vertical": false,
+   "desc": "An experiment as part of the Crystal World open lab. Shellac record melted with methylated spirit and re-set on a metal disk. Played on a turntable made from a recycled PC fan, with a contact mic stylus.\nMore info: http://grahamdunningcrystalworld.wordpress.com/"
+  },
+  {
+   "id": "8Ov7H7v3olo",
+   "t": "Mark Wagner & Sal Chyamolonskas LIVE on NTS Live",
+   "d": "2012-12-28",
+   "v": 166,
+   "s": 149,
+   "vertical": false,
+   "desc": "Mark Wagner & Sal Chyamolonskas' Thoutography live on Fractal Meat on a Spongy Bone, broadcast by NTS Live and presented by Graham Dunning."
+  },
+  {
+   "id": "RBsiX2AvlOY",
+   "t": "noise=noise /// Retro Death Telegraphy /// Ouija-TV",
+   "d": "2013-01-24",
+   "v": 128,
+   "s": 58,
+   "vertical": false,
+   "desc": "Following the Retro Death Telegraphy workshop, participants' communication devices pick up audio signals, which are fed to the TV-Ouija unit."
+  },
+  {
+   "id": "gqk2Fr8XZLk",
+   "t": "Mouth 4 Rusty - Good Men Now LIVE January 2013",
+   "d": "2013-01-24",
+   "v": 193,
+   "s": 285,
+   "vertical": false,
+   "desc": "Mouth 4 Rusty perform \"Good Men Now\" live at The Finsbury, Manor House, 22nd January 2013"
+  },
+  {
+   "id": "wyWEpqWynQQ",
+   "t": "Don't Get Too Funky - Norway's Greatest Bodypoppers 2012",
+   "d": "2013-01-24",
+   "v": 152,
+   "s": 7,
+   "vertical": false,
+   "desc": "Don't Get Too Funky - Norway's Greatest Bodypoppers 2012"
+  },
+  {
+   "id": "Ej6Tkp6bOw4",
+   "t": "Charanjit Singh - Ten Ragas to a Disco Beat LIVE 2012",
+   "d": "2013-01-24",
+   "v": 2899,
+   "s": 16,
+   "vertical": false,
+   "desc": "A short clip from Charanjit Singh's incredible live set in London in 2012."
+  },
+  {
+   "id": "xTUWkCOsbMY",
+   "t": "The Dead Arms live on Fractal Meat on a Spongy Bone, NTS Live",
+   "d": "2013-02-13",
+   "v": 233,
+   "s": 135,
+   "vertical": false,
+   "desc": "Clip of a live set from Thibault Autheman, aka The Dead Arms, live on Fractal Meat on a Spongy Bone on NTS Live. \nhttp://fractalmeat.wordpress.com"
+  },
+  {
+   "id": "bGgH5fiMaeE",
+   "t": "Vinyl Destruction Sound Art Workshop",
+   "d": "2013-11-25",
+   "v": 1531,
+   "s": 63,
+   "vertical": false,
+   "desc": "Footage from a workshop held by Graham Dunning on 17th November 2013. Filmed by Lena King. Participants shown are Jay Harper, Tina Hibbins, Philip Raymond Goodman, Neil Austin and Karin Weissenbrunner.\n\"Experiment with different ways of destroying, damaging, collaging, altering and re-texturing records, and hear what each adaptation sounds like. Piece together the broken pieces into a Frankenstein audio collage. Explore the physicality of the turntable as an instrument and test its boundaries. Present your work in a euphoric, cacophonous sound performance.\""
+  },
+  {
+   "id": "Z8bWr1T71rM",
+   "t": "Tom White - Live on NTS for Fractal Meat on a Spongy Bone",
+   "d": "2013-12-09",
+   "v": 459,
+   "s": 260,
+   "vertical": false,
+   "desc": "Tom White - Live on NTS for Fractal Meat on a Spongy Bone - Friday 29th November 2013"
+  },
+  {
+   "id": "X7dYACATJ9s",
+   "t": "Shelley Parker - Live for Fractal Meat - Apiary Sunday Salon",
+   "d": "2013-12-09",
+   "v": 647,
+   "s": 110,
+   "vertical": false,
+   "desc": "Shelley Parker performing live for Fractal Meat on a Spongy Bone at Apiary Studios' Sunday Salon,  - 24th November 2013"
+  },
+  {
+   "id": "rOgTD2hCV8c",
+   "t": "Man From Uranus plays Theremin",
+   "d": "2013-12-09",
+   "v": 1270,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RuFl3h1j-yI",
+   "t": "Cup & String Telephone - Electronic/Amplified version - plus Cat Attack",
+   "d": "2013-12-29",
+   "v": 1274,
+   "s": 36,
+   "vertical": false,
+   "desc": "An experiment at making an amplified version of the old cup-and-string telephone. A small speaker plays back a tape (of an Amstrad Studo 100 \"hip hop\" beat) into a long wire, connected at the other end to a suspended, amplified contact mic. The output is pretty good considering the sound has travelled about 15m along the string. The cat thinks so too, and has a pop at the cable with decent timing."
+  },
+  {
+   "id": "09Cz23OdiIE",
+   "t": "Experimental Sound Art students' live soundtrack to Maya Derren's Meshes of the Afternoon",
+   "d": "2014-01-13",
+   "v": 677,
+   "s": 797,
+   "vertical": false,
+   "desc": "Live soundtrack performed by students of the Experimental Sound Art course at Mary Ward Centre, 27th November 2013.\nMaya Deren - Meshes of the Afternoon (1943)"
+  },
+  {
+   "id": "ZlWeh5ZQG6Y",
+   "t": "Mechanical Techno",
+   "d": "2014-01-17",
+   "v": 4308,
+   "s": 55,
+   "vertical": false,
+   "desc": "A clip of the set up for a new techno track, using a turntable as a sequencer."
+  },
+  {
+   "id": "pK4z4TrTt0g",
+   "t": "Colin Webster & Graham Dunning - saxophone/turntable improv",
+   "d": "2014-04-25",
+   "v": 1335,
+   "s": 392,
+   "vertical": false,
+   "desc": "Colin Webster (clarinet/Barritone saxophone) & Graham Dunning (turntable, dental tools, mini amp, dubplates) improvised set, with live visuals from Chromatouch. \nQuadrant Lounge, Wolverhampton, 24th April 2014"
+  },
+  {
+   "id": "wkcm9OZzvvQ",
+   "t": "Two Men One Tuba",
+   "d": "2014-04-26",
+   "v": 827,
+   "s": 28,
+   "vertical": true,
+   "desc": "Colin Webster and Sam Underwood play one tuba at the same time, using tuba and baritone sax mouthpieces"
+  },
+  {
+   "id": "mdzvHc7llC4",
+   "t": "Valerie - Live at Retro Bar Manchester, July 2003",
+   "d": "2014-05-04",
+   "v": 573,
+   "s": 1708,
+   "vertical": false,
+   "desc": "Valerie performing at the Retro Bar, Manchester. July 2003. Filmed by Louise Woodcock."
+  },
+  {
+   "id": "jHsqX03r56M",
+   "t": "Automatic cowbell",
+   "d": "2014-05-24",
+   "v": 943,
+   "s": 37,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "De7Wzpful9I",
+   "t": "Debbie Sharp performance for Stryx, Supersonic 2014",
+   "d": "2014-06-14",
+   "v": 422,
+   "s": 1323,
+   "vertical": false,
+   "desc": "Artist Debbie Sharp - live performance for Stryx Gallery, for Supersonic Festival 2014, Digbeth, Birmingham"
+  },
+  {
+   "id": "-wuwVCEAel8",
+   "t": "Bioni Samp live in session for Fractal Meat",
+   "d": "2014-06-15",
+   "v": 223,
+   "s": 124,
+   "vertical": false,
+   "desc": "Bioni Samp performing live for Fractal Meat on a spongy Bone, NTS Live. Friday 13th June 2014."
+  },
+  {
+   "id": "ao-8rRbdyJQ",
+   "t": "Faulty Oscillator Rave",
+   "d": "2014-06-15",
+   "v": 733,
+   "s": 83,
+   "vertical": false,
+   "desc": "Built a new circuit - it's supposed to be a test tone generator but something's clearly wrong. "
+  },
+  {
+   "id": "wdW08pMkAa0",
+   "t": "Kiss Me Deadly Vinyl Destruction Scene",
+   "d": "2014-06-15",
+   "v": 992,
+   "s": 21,
+   "vertical": false,
+   "desc": "Clip from the 1955 film noir where a shellac record meets its demise."
+  },
+  {
+   "id": "m8HPDchKn9s",
+   "t": "Felix Kubin live at Cafe Oto",
+   "d": "2014-06-15",
+   "v": 184,
+   "s": 72,
+   "vertical": false,
+   "desc": "The closing track from Felix Kubin's epic set at Cafte Oto, London, June 2014."
+  },
+  {
+   "id": "85bxBbiBZpA",
+   "t": "Kenny Love  live in session for Fractal Meat",
+   "d": "2014-06-15",
+   "v": 300,
+   "s": 242,
+   "vertical": false,
+   "desc": "Kenny Love performing live for Fractal Meat on a Spongy Bone, broadcasting live on NTS Live. 30th May 2014"
+  },
+  {
+   "id": "zDDhhIvU858",
+   "t": "Tom Richards live in session for Fractal Meat",
+   "d": "2014-06-15",
+   "v": 186,
+   "s": 234,
+   "vertical": false,
+   "desc": "Tom Richards performing live for Fractal Meat on a Spongy Bone, broadcasting live on NTS Live. 30th May 2014"
+  },
+  {
+   "id": "kyJP3je25gU",
+   "t": "Graham Dunning - Live at Stryx, Birmingham, May 2014 - Supersonic Festival",
+   "d": "2014-09-02",
+   "v": 2481,
+   "s": 1431,
+   "vertical": false,
+   "desc": "ghost in the machine music: a live rhythmical collage made of squeezed record crackle, analogue synthesizer, dubplates of field recordings, dusty shellac records and clumsily triggered drum machines\nLive set at Stryx Gallery, Digbeth, Birmingham for Supersonic Festival, 2014."
+  },
+  {
+   "id": "w8ce08pMYDE",
+   "t": "Turntable sequencer plays cymbal with solenoid",
+   "d": "2014-10-29",
+   "v": 1603,
+   "s": 22,
+   "vertical": false,
+   "desc": "A quick test using a turntable as a rudimentary sequencer, playing a cymbal via solenoid."
+  },
+  {
+   "id": "ZQxCpeQ_b1k",
+   "t": "Rummaging - Supernormal 2014 - Henry Collins & Robin Foster",
+   "d": "2014-11-02",
+   "v": 1045,
+   "s": 15,
+   "vertical": false,
+   "desc": "Henry Collins & Robin Foster perform a live rummaging set at the Sound Shed Stage at Supernormal Festival 2014.\n\nRUMMAGING MISSION STATEMENT\n\n\u201cplay a vibration in the rhythm of the universe\u201d \u2014 Stockhausen,\nAus den sieben Tagen (1968)\n\n\u2022 The purpose of rummaging is the creation of noise.\n\n\u2022 The approach is straightforward: objects placed in a container are played by the hands. The act\nof rummaging creates sound through the collision of objects both with each other and their\ncontainer.\n\n\u2022 Safety equipment may prove useful.\n\n\u2022 The disassociation of rhythmic intuition or instinct is paramount.\n\n\u2022 "
+  },
+  {
+   "id": "mMyIKrcdL_k",
+   "t": "\"Musical\" box for If Wet",
+   "d": "2014-11-22",
+   "v": 1145,
+   "s": 22,
+   "vertical": true,
+   "desc": "Leslie Deere & Graham Dunning built an instrument to make a recording for the If Wet season 2 finale. Consisting of bells, bowls, springs and strings, the \"musical\" box is played here with ping-pong balls, and also with pencils, cocktail sticks, crystals and human bones."
+  },
+  {
+   "id": "336vEbg1msE",
+   "t": "Light synth drone from rotating vintage piano roll",
+   "d": "2015-01-31",
+   "v": 866,
+   "s": 42,
+   "vertical": false,
+   "desc": "Using a Bleep Labs Pico Paso light responsive synth, rehoused and modded to include goose neck LDRs. The paper player piano roll is a song called Wiener Blut Waltz, rotating on a disco ball motor. Additional field recording by Embla Quickbeam, who also supplied the piano roll - part of a tape swap project for collaborative art exhibition, CORRESPONDENCE: http://correspondence-exhibition.com/"
+  },
+  {
+   "id": "bGLvDd-W5aY",
+   "t": "Nil by Nose - Soup",
+   "d": "2015-04-29",
+   "v": 271,
+   "s": 415,
+   "vertical": false,
+   "desc": "Final project by Carl Anderson for the Experimental Sound Art course at Mary Ward Centre."
+  },
+  {
+   "id": "TYzdSbkKzKs",
+   "t": "Live improv soundtrack to two Len Lye animations",
+   "d": "2015-04-29",
+   "v": 734,
+   "s": 784,
+   "vertical": false,
+   "desc": "Students from the Experimental Sound Art course at Mary Ward Centre performing a live, improvised sound track to these two Len Lye films. \nThis was a live performance for Sound Advice UK's Acoustic Sundays event, St Peter's Church Crypt, Hackney."
+  },
+  {
+   "id": "drT7-VtjRo8",
+   "t": "Automated Noisemakers",
+   "d": "2015-05-22",
+   "v": 517,
+   "s": 62,
+   "vertical": false,
+   "desc": "Some results from students' experiments in making automated noisemaking machines. Part of the Experimental Sound Art course at Mary Ward Centre.\nhttp://experimentalsoundart.wordpress.com"
+  },
+  {
+   "id": "BZuj6LVk1Ho",
+   "t": "Automated mandolin - slo-mo",
+   "d": "2015-05-25",
+   "v": 601,
+   "s": 68,
+   "vertical": false,
+   "desc": "A mandolin strummed by a motor on a turntable."
+  },
+  {
+   "id": "TrmU8kRKUDI",
+   "t": "Thunderbolt Machine - motors, ping pong ball & spring reverb",
+   "d": "2015-06-25",
+   "v": 813,
+   "s": 63,
+   "vertical": false,
+   "desc": "A little machine for noise making - slightly unpredictable rhythmically, a nice drone coming from the motors."
+  },
+  {
+   "id": "jIXIuUhd5CU",
+   "t": "Automatic Cowbell 2",
+   "d": "2015-07-21",
+   "v": 1205,
+   "s": 21,
+   "vertical": false,
+   "desc": "Second attempt at an automatic cowbell."
+  },
+  {
+   "id": "j1lP_DLSvJI",
+   "t": "Automatic Noisemakers workshop for LimeWharf Machines Room",
+   "d": "2015-09-05",
+   "v": 913,
+   "s": 84,
+   "vertical": false,
+   "desc": "Participants experimented with turntables, contact mics, ping-pong balls, spring reverb units, simple circuits, motors, light-synths, a slinky spring and tinfoil pie trays to make automatic noisemaking contraptions.\nRun as part of Rhtyhm & Drone // Research & Development residency at LimeWharf Machines room.\nhttp://rhythmanddrone.wordpress.com"
+  },
+  {
+   "id": "9NpgO8lHcUU",
+   "t": "Turntable synth sequencer prototype",
+   "d": "2015-09-08",
+   "v": 3132,
+   "s": 28,
+   "vertical": false,
+   "desc": "Using microswitches on raised platforms to play a Gakken synthesizer. \nPart of the Mechanical Techno project: http://grahamdunning.com/portfolio/mechanical-techno-ghost-in-the-machine-music/"
+  },
+  {
+   "id": "5t9I1q71GvY",
+   "t": "Copper disk sequencer",
+   "d": "2015-09-09",
+   "v": 6547,
+   "s": 42,
+   "vertical": false,
+   "desc": "First test of a synth trigger made with adhesive copper on a record, and laser cut plywood contact/stylus\nMore info here: https://rhythmanddrone.wordpress.com/"
+  },
+  {
+   "id": "rw57oElVRdU",
+   "t": "Three note loop test",
+   "d": "2015-09-09",
+   "v": 1927,
+   "s": 101,
+   "vertical": false,
+   "desc": "A quick test for a forthcoming performance, which will use three individual synths amped separately, triggered in sequence by a single peg on the wheel."
+  },
+  {
+   "id": "A57u3uJ13co",
+   "t": "Bowls collector ASMR",
+   "d": "2015-09-13",
+   "v": 815,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XCLd7OY5kwg",
+   "t": "Modified record: 3/4 blanked out disk",
+   "d": "2015-09-14",
+   "v": 3817,
+   "s": 11,
+   "vertical": false,
+   "desc": "Using adhesive vinyl cut on a plot cutter to blank out three quarters of a record. The tone arm is held from sliding to the centre, here with a crocodile lead.\nThe original record was an unknown UK garage white label."
+  },
+  {
+   "id": "hBCpHb6Tvs8",
+   "t": "Brutal autoreturn",
+   "d": "2015-09-15",
+   "v": 5167,
+   "s": 23,
+   "vertical": false,
+   "desc": "Using a weight to knock back the tone arm to the start of the record"
+  },
+  {
+   "id": "4hebaFRkykM",
+   "t": "Music by the Metre - wonky mechanical rhythm recording",
+   "d": "2015-10-16",
+   "v": 3689,
+   "s": 88,
+   "vertical": false,
+   "desc": "Showing the process of making new Music by the Metre recordings focusing on rhythm.\nListen here: https://soundcloud.com/grahamdunning/1510091409-067m-edit"
+  },
+  {
+   "id": "Ts5eSL5wA4Y",
+   "t": "Far Rainbow - live on NTS",
+   "d": "2015-10-30",
+   "v": 2281,
+   "s": 314,
+   "vertical": false,
+   "desc": "Far Rainbow performing live for Fractal Meat on a Spongy Bone, NTS Radio, May 2015.\nhttps://soundcloud.com/far-rainbow"
+  },
+  {
+   "id": "xpa9mnQQ2ms",
+   "t": "Conspirators of Pleasure - live on NTS",
+   "d": "2015-10-30",
+   "v": 1937,
+   "s": 197,
+   "vertical": false,
+   "desc": "Conspirators of Pleasure (Poulomi Desai & Simon Underwood) performing live for Fractal Meat on a Spongy Bone, NTS Radio, March 2015."
+  },
+  {
+   "id": "0o0A7XH7cKA",
+   "t": "Phantom Chips - live on NTS",
+   "d": "2015-10-30",
+   "v": 1530,
+   "s": 306,
+   "vertical": false,
+   "desc": "Phantom Chips, aka Tara Pattenden performing live for Fractal Meat on a Spongy Bone, NTS Radio, November 2014"
+  },
+  {
+   "id": "Eb7EKlwF8ZY",
+   "t": "Glatze -  doom hosepipe at Supernormal 2014",
+   "d": "2015-10-30",
+   "v": 573,
+   "s": 30,
+   "vertical": true,
+   "desc": "Glatze -  Sam Underwood plays doom hosepipe at Supernormal festival, August 2014"
+  },
+  {
+   "id": "IKSeI9jtQsA",
+   "t": "Anton Mobin & Benedict Taylor - live on NTS",
+   "d": "2015-10-30",
+   "v": 1156,
+   "s": 235,
+   "vertical": false,
+   "desc": "Anton Mobin & Benedict Taylor performing live for Fractal Meat on a Spongy Bone, NTS Radio, January 2015."
+  },
+  {
+   "id": "QwYRvhdOSjs",
+   "t": "Luke Jordan live at the Tin Tabernacle, Feb 2014",
+   "d": "2015-10-30",
+   "v": 188,
+   "s": 122,
+   "vertical": false,
+   "desc": "Luke Jordan performing at eXperimental Electronics, Tin Tabernacle, Kilburn, London, February 2014"
+  },
+  {
+   "id": "clydnvhcR1o",
+   "t": "Roseanne Robertson - live on NTS",
+   "d": "2015-10-30",
+   "v": 1281,
+   "s": 155,
+   "vertical": false,
+   "desc": "Rosanne Robertson performing live for Fractal Meat on a Spongy Bone, NTS Radio, February 2014"
+  },
+  {
+   "id": "g83pNDo6k3c",
+   "t": "Sophie Cooper - live at Cafe Oto July 2014",
+   "d": "2015-10-30",
+   "v": 814,
+   "s": 252,
+   "vertical": false,
+   "desc": "Sophie Cooper performing live at Cafe Oto, London, July 2014."
+  },
+  {
+   "id": "D4OSbpGZnYU",
+   "t": "Romvelope - live on NTS",
+   "d": "2015-10-30",
+   "v": 909,
+   "s": 316,
+   "vertical": false,
+   "desc": "Romvelope aka Bjorn Hattleskog live for Fractal Meat on a Spongy Bone, NTS Radio, Janyary 2014"
+  },
+  {
+   "id": "MY6KS1s5n2g",
+   "t": "Dead Neanderthals - live at Splitting the Atom, Feb 2014",
+   "d": "2015-10-30",
+   "v": 676,
+   "s": 121,
+   "vertical": false,
+   "desc": "Dead Neanderthals - live at Splitting the Atom, Feb 2014"
+  },
+  {
+   "id": "TFj3BpjDCXg",
+   "t": "Sculpture - Dan Hayhurst - live on NTS",
+   "d": "2015-10-30",
+   "v": 1149,
+   "s": 222,
+   "vertical": false,
+   "desc": "Dan Hayhurst of Sculpture, live for Fractal Meat on a Spongy Bone, NTS Radio, January 2014"
+  },
+  {
+   "id": "wl1ZrEza7uY",
+   "t": "MECHANICAL TECHNO DEMONSTRATION",
+   "d": "2015-11-17",
+   "v": 6031728,
+   "s": 365,
+   "vertical": false,
+   "desc": "Mechanical Techno Demonstration by Graham Dunning - info/links below\nhttp://grahamdunning.com\nVideo produced by Michael Forrest. https://squares.tv/\nhttp://michaelforrestmusic.com\n\nBandcamp: https://grahamdunning.bandcamp.com\nTwitter: https://twitter.com/grahamdunning\nInstagram: https://www.instagram.com/grahamdunning\nSoundcloud: https://soundcloud.com/grahamdunning\nMixcloud: https://www.mixcloud.com/grahamdunning/\n\n///////////////////////////////////////////\n\nMECHANICAL TECHNO DEMONSTRATION\nMade at Lime Wharf Machines Room as part of \nRhythm & Drone // Research & Development \nresidency, Septe"
+  },
+  {
+   "id": "TpDa2eFIZVY",
+   "t": "Shiva Feshareki & Jack Jelfs - live on NTS",
+   "d": "2015-12-01",
+   "v": 3627,
+   "s": 400,
+   "vertical": false,
+   "desc": "Shiva Feshareki & Jack Jelfs performing live for Fractal Meat on a Spongy Bone, NTS Radio, November 2015.\nhttps://soundcloud.com/shivafeshareki\nhttps://soundcloud.com/jackjelfs"
+  },
+  {
+   "id": "d4coKpE_48I",
+   "t": "Graham Dunning - Monogon",
+   "d": "2016-01-15",
+   "v": 1972,
+   "s": 460,
+   "vertical": false,
+   "desc": "Mechanical techno track from the album \"Auxon\" released by Seagrave in spring 2016. http://www.seagraverecords.com/\nVideo footage is made as a live mix from automated machines, mirroring the mechanical techno process."
+  },
+  {
+   "id": "BfUtXOGUcow",
+   "t": "Justin Paton - live ACID on NTS",
+   "d": "2016-01-19",
+   "v": 3599,
+   "s": 110,
+   "vertical": false,
+   "desc": "Justin Paton performing live for Fractal Meat on a Spongy Bone, NTS radio, 19th January 2015.\nhttp://www.residentadvisor.net/dj/justinpaton/biography\nhttps://soundcloud.com/justin-paton-701990060"
+  },
+  {
+   "id": "lKTkl75WKS0",
+   "t": "Snare drum test - mechanical techno",
+   "d": "2016-01-27",
+   "v": 4612,
+   "s": 67,
+   "vertical": false,
+   "desc": "First prototype of a mechanism to play a proper snare drum as part of the mechanical techno setup."
+  },
+  {
+   "id": "5pSnGS5XnHk",
+   "t": "Small percussion automation test",
+   "d": "2016-02-03",
+   "v": 3431,
+   "s": 40,
+   "vertical": false,
+   "desc": "Mechanical techno studio experiment"
+  },
+  {
+   "id": "5qCUNwpyi90",
+   "t": "visuals test with cctv cameras",
+   "d": "2016-02-07",
+   "v": 1943,
+   "s": 38,
+   "vertical": false,
+   "desc": "Testing out possibilities for using cameras with the Mechanical Techno setup\nhttp://grahamdunning.com/portfolio/mechanical-techno-ghost-in-the-machine-music/"
+  },
+  {
+   "id": "h3n-xFIhNqg",
+   "t": "Sista Pratesi - The Panel",
+   "d": "2016-03-22",
+   "v": 475,
+   "s": 142,
+   "vertical": false,
+   "desc": "Sista Pratesi: The Panel\nA fictional audio visual lecture.\n(Part of the Waterfall Lectures series)\nsistapratesi.com\n--\nShown at METHOD//RESULTS 2 at Chalton Gallery, London, 21st March 2016\n--\nFinal piece for the individual project, Spring term on composition and recording, part of Experimental Sound Art at Mary Ward Centre"
+  },
+  {
+   "id": "PFVUaZ9trFE",
+   "t": "Sylvia Morgado - Mix tape, And life goes on (live)",
+   "d": "2016-03-22",
+   "v": 1323,
+   "s": 192,
+   "vertical": false,
+   "desc": "Live performance for two cassette players, cut-up tapes and tape loops. Part of METHOD//RESULTS 2 at Chalton Gallery, London, 21st March 2016\n--\n\nFinal piece for the individual project, Spring term on composition and recording, part of Experimental Sound Art at Mary Ward Centre\nhttp://experimentalsoundart.wordpress.com"
+  },
+  {
+   "id": "QHAPTgB7S6E",
+   "t": "Automatic noisemaking installations",
+   "d": "2016-05-16",
+   "v": 5333,
+   "s": 124,
+   "vertical": false,
+   "desc": "Automatic noisemaking installations made in a session of the Experimental Sound Art course at Mary ward centre.\ninfo: https://grahamdunning.com/portfolio/experimental-sound-art-2/"
+  },
+  {
+   "id": "6GVfmbI3yk8",
+   "t": "Down the spiral path (time lapse) - Volskpark Freidrichshain, Berlin",
+   "d": "2016-06-06",
+   "v": 845,
+   "s": 24,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "xCP2lENSOl0",
+   "t": "Cuts from The Gathering 2016",
+   "d": "2016-07-12",
+   "v": 1967,
+   "s": 426,
+   "vertical": false,
+   "desc": "Sporadic selections in chronological order from Honest Electronics' The Gathering festival, Tamassos resevoir, Nicosia, Cyprus, July 2016.\n48hrs, 2 stages, 28 live acts and DJs - not all captured here unfortunately, but some of what I saw."
+  },
+  {
+   "id": "v1PcXrvxkAI",
+   "t": "Embla Quickbeam & Graham Dunning - Floating Worlds",
+   "d": "2016-09-06",
+   "v": 1779,
+   "s": 336,
+   "vertical": false,
+   "desc": "Music by Embla Quickbeam & Graham Dunning\nVideo by Graham Dunning\nFrom the album \"Inside Memory's Head\" released by Third Kind Records, 8th October 2016"
+  },
+  {
+   "id": "Uqdy4lHSxGM",
+   "t": "Virtual Rummaging",
+   "d": "2016-09-16",
+   "v": 11578,
+   "s": 422,
+   "vertical": false,
+   "desc": "A virtual performance following Henry Collins & Robin Foster's Rummaging Mission Statement: http://rummaging.org.uk/\n\"The purpose of rummaging is the creation of noise. The approach is straight forward: objects placed in a container are played by the hands. The act of rummaging creates sound through the collision of objects both with each other and their container. One of our paramount beliefs is the complete and total disassociation of rhythmic intuition. Allow the sounds to improvise with other of their own accord \u2014 when given the opportunity, they will do so. Listen for and enjoy these mome"
+  },
+  {
+   "id": "x25H5wj6HEs",
+   "t": "Radiophonic Laboratory of Antimatter - workshop by Graham Dunning for Colour out of Space 2016",
+   "d": "2016-12-14",
+   "v": 6774,
+   "s": 116,
+   "vertical": false,
+   "desc": "Building lo-fi noisemaking machines towards an abstract, automated sound composition. The workshop is based on the Music By The Metre project: Exploring the ideas behind situationist Giuseppe Pinot-Gallizio\u2019s Industrial Painting, using analogous processes in sound. Participants will have the opportunity to use record players, motors, tape loops, ping-pong balls, synths, pedals and other bits and bobs to make an automated collage of rhythm and drone. The collaborative composition made by the group will be shared with participants digitally after the workshop."
+  },
+  {
+   "id": "NIjRK8D-NsI",
+   "t": "Dismantle Yourself",
+   "d": "2017-04-09",
+   "v": 1745,
+   "s": 80,
+   "vertical": true,
+   "desc": "Somerset House, London: Saturday 15th April 2017\nhttps://www.somersethouse.org.uk/whats-on/dismantle-yourself-curated-graham-dunning"
+  },
+  {
+   "id": "J3mh7rDtX-U",
+   "t": "Galerie Paradise installation timelapse",
+   "d": "2017-05-09",
+   "v": 943,
+   "s": 57,
+   "vertical": true,
+   "desc": "Testing out my new gopro with a timelapse of installing some work at Galarie Paradise, Nantes, France. \nBig thanks to Hugues and Michel for doing all the work!\nAudio is some recording I did in the space earlier in the day.\n--\nExhibition opens Friday 12th May 2017. \nInfo: http://www.galerie-paradise.fr/#obsolete"
+  },
+  {
+   "id": "msEES3SwZrc",
+   "t": "Circular Noise Jam",
+   "d": "2017-05-18",
+   "v": 2677,
+   "s": 1133,
+   "vertical": false,
+   "desc": "Testing a new setup and process based improvisation: adjusting controls on each component in turn, round the table. \nUsing: \n- modified turntable with dubplate of field recording (pigeon shed); \n- EQ + delay aux send effect line; \n- laptop running TidalCycles using percussion samples to make drones;\n- reverb pedal aux send effect;\n- Arturia MicroBrute monosynth\n- kit built/modded signal generator + stereo delay\n- Mixer (to adjust eq and FX sends)\n\nRecorded to stereo with Zoom R16. Video: GoPro Hero3 overhead.\n\nMade during residency at Galerie Paradise, Nantes, France. May/June 2017\nhttp://www."
+  },
+  {
+   "id": "TksNaG4HqlA",
+   "t": "Graham Dunning - \"Tonight\" - Studio live dub - turntable sequencer",
+   "d": "2017-05-20",
+   "v": 5882,
+   "s": 710,
+   "vertical": false,
+   "desc": "Using an iteration of the Mechanical Techno studio setup - all sounds triggered or generated by the turntable.\n- white label live sample (bass thunder hit)\n- white label live sample (female vocal) (through stereo compressor)\n- Nord Drum drum synth: beats\n- Microbrute monosynth: via midi, from Nord drum\n- Yamaha CS-5 monosynth: via CV/gate from microbrute (into delay)\n- 70s condenser mic providing hiss and a bit of feedback, via rhythmically  triggered noisegate from compressor\n- stereo pair of sm57 mic clones on metal plate which was physically triggering all drum sounds (ie, rhtymical with po"
+  },
+  {
+   "id": "fSPexP2pnxw",
+   "t": "Sohne live in Paris part 2",
+   "d": "2017-06-08",
+   "v": 663,
+   "s": 1121,
+   "vertical": false,
+   "desc": "SOHNE is a collective of German improvising musicians, performing at the Cit\u00e9 Internationale des Arts in Paris with two guests on Monday 29th May 2017. \nWith: Pia Abzieher (piano), Sebastian Bauhofer (cello), Sascha Brosamer (gramophone and guitar), guest Graham Dunning (turntable and dubplates), David Leutkart (electronics), Felix Mayer (trombone), Rolph Pifnitzka (saxophone and voice) and guest Luise Volkmann (saxophone)."
+  },
+  {
+   "id": "9BhL83KoAIE",
+   "t": "Sohne live in Paris part 1",
+   "d": "2017-06-08",
+   "v": 939,
+   "s": 1609,
+   "vertical": false,
+   "desc": "SOHNE is a collective of German improvising musicians, performing at the Cit\u00e9 Internationale des Arts in Paris with two guests on Monday 29th May 2017. \nWith: Pia Abzieher (piano), Sebastian Bauhofer (cello), Sascha Brosamer (gramophone and guitar), guest Graham Dunning (turntable and dubplates), David Leutkart (electronics), Felix Mayer (trombone), Rolph Pifnitzka (saxophone and voice) and guest Luise Volkmann (saxophone)."
+  },
+  {
+   "id": "rpaFsRyIqjc",
+   "t": "Real Data (edit)",
+   "d": "2017-06-11",
+   "v": 2936,
+   "s": 285,
+   "vertical": false,
+   "desc": "Video and audio derived from deliberate misinterpretation of numerical data, collected from a survey asking questions about bedroom music production. Made at Galerie Paradise, Nantes, France in May/June 2017 as part of their artist in residence programme.\nThis is a shortened version of the full 22'35 video."
+  },
+  {
+   "id": "ipp6Xh-19ZE",
+   "t": "Louvre Underground 1st July 2017",
+   "d": "2017-07-04",
+   "v": 1421,
+   "s": 1319,
+   "vertical": false,
+   "desc": "Videoworks and Soundart in the Tunnel below Louvre. Curated by Sascha Brosamer\nwith\nFranz Ackermann\nSascha Brosamer\nKat Kaufmann\nShirow Kawasaki\nTroy Curtis Kreiner\nMarcel Odenbach\nLisa Schlenker\nRachel Zaretsky\nStewart Hardie\n\n\"Tourists are money and art is money. So what happens when they combine and potentiate? \n\nMoney\u00b2 = ultimate squareness.\n\nWhen \"libert\u00e9, egalit\u00e9, fraternit\u00e9\" becomes \"libert\u00e9 toujours\" \u0287\u0279\u0250 takes the liberty to move underground. We offer tunnel vision to make you see again. We make the West wild again by deploying the nomad war machine like a cowboy shooting from the hip:"
+  },
+  {
+   "id": "rblBcO8IGQA",
+   "t": "Anomalous Materials - Graham Dunning live at Apologies in Advance",
+   "d": "2017-07-25",
+   "v": 1483,
+   "s": 97,
+   "vertical": false,
+   "desc": "Performance using a version of computer game Half Life with all the sounds replaced with 1990s rave samples. Performed at Apologies in Advance, Iklektik Arts Lab, London, 12/03/17 \n\nFilmed by James Unsworth for short film Sound Gaming, watch here: https://www.youtube.com/watch?v=OcHlsC_wsdw"
+  },
+  {
+   "id": "yiVXTFZOIXA",
+   "t": "Catalogue of Record Collections",
+   "d": "2017-09-24",
+   "v": 3188,
+   "s": 596,
+   "vertical": false,
+   "desc": "Photos of people's record collections, taken by themselves.\nMade Spetember 2017 for the exhibition \"Museum of Peripheral Collections\", Bon Acuiel, Rennes, France.\nhttps://grahamdunning.com/portfolio/catalogue-of-record-collections/\n\nMany thanks to those who contributed photos:\n\n@boxwalla\nAcidTed blog\nAidan Hanratty\nAin Bailey\nAk\u0101shamitra\nAl English\nAlan Gubby\nAlberto Rosso\nAleks Timerick\nAlex Botten\nAlexandra Hiller\nAllon Kaye\nAndrew Page\nAnke Eck\nAnthony Chalmers\nBen Waddington\nBenjamin Young\nC. Reider\nCalum Neill\nCath Aubergine\nCath Roberts & Tom Ward\nCatherine Backhouse\nChris Bounds\nChris W"
+  },
+  {
+   "id": "nLeDufobCyM",
+   "t": "Deconstruct Yourself - De La Warr Pavilion",
+   "d": "2017-10-30",
+   "v": 4190,
+   "s": 22,
+   "vertical": false,
+   "desc": "1st December 2017: An evening of live music and visual performance at De La Warr Pavilion, Bexhill-on-Sea. \nLive AV performances and installations from Joanne Armitage, Leslie Deere, Graham Dunning, Tom Richards.\nTickets/info: https://www.dlwp.com/event/deconstruct-yourself/"
+  },
+  {
+   "id": "swDwELhPlL0",
+   "t": "now - The Pump Room - live at New River Studios",
+   "d": "2018-05-13",
+   "v": 1482,
+   "s": 231,
+   "vertical": false,
+   "desc": "now performing at the Twenty Years of \u201cnow\u201d gig, 12th May 2018"
+  },
+  {
+   "id": "VoE2jz6RukY",
+   "t": "Optical Synth Trigger Demo",
+   "d": "2018-07-08",
+   "v": 23212,
+   "s": 851,
+   "vertical": false,
+   "desc": "Demonstration of the optical sensor to CV unit designed and built by Tom Richards. Used as a rotating sequencer gate trigger in the Mechanical Techno system, to play the Arturia Microbrute analogue synthesizer.\nAbout Tom Richards: https://www.nonclassical.co.uk/tom-richards\nMini Oramics machine: https://www.gold.ac.uk/news/mini-oramics/\nTom's new album Pink Nothing released 13th July on Nonclassical.\nhttps://www.nonclassical.co.uk/events/2018/5/9/monthly-night-curated-by-tom-richards\n [please note, launch party postponed to another date due to football]"
+  },
+  {
+   "id": "ley_V5d7Cos",
+   "t": "Mammoth Beat Organ",
+   "d": "2018-10-01",
+   "v": 5238,
+   "s": 47,
+   "vertical": false,
+   "desc": "Mammoth Beat Organ is a mechanical, modular music contraption by Sam Underwood and Graham Dunning.  \nSee the full video here: https://www.youtube.com/watch?v=9C-Ggcv7GiA\nSubscribe here for updates and more videos: https://www.youtube.com/channel/UCeahmPUDyvDlRXuZrzMhLDA"
+  },
+  {
+   "id": "Ry74b6i1uNY",
+   "t": "Vinyl Destruction Workshop - Estorick Collection, February 2019",
+   "d": "2019-02-15",
+   "v": 10786,
+   "s": 344,
+   "vertical": false,
+   "desc": "Vinyl Destruction Workshop at Estorick Collection of Modern Italian Art, London, February 2019. \nParticipants were invited to destroy, retexture and modify vinyl records, looking for inspiration to artists including Maria Chavez, Milan Knizak and Christian Marclay.\n\nHosted by Estorick Collection education adult evening class programme. https://www.estorickcollection.com/education"
+  },
+  {
+   "id": "Fo9c6vjoyTs",
+   "t": "Graham Dunning - Void Worm (Music for Climbing Walls)",
+   "d": "2019-03-16",
+   "v": 8224,
+   "s": 286,
+   "vertical": false,
+   "desc": "Video made by Ian Watson - http://uhohwatson.com\nMusic by Graham Dunning - http://grahamdunning.com\nNew album \"Music For Climbing Walls\", released by LTR Records -  12th April 2019\nhttp://ltrrecords.com"
+  },
+  {
+   "id": "QSKb-w8dnlw",
+   "t": "Graham Dunning - Live at gnration - April 2019 (audio/stills)",
+   "d": "2019-05-16",
+   "v": 6202,
+   "s": 2382,
+   "vertical": false,
+   "desc": "Recording of a live set at gnration Open Day in Braga, Portugal. Recorded 27th April 2019.\nphotos by Diogo Meira and gnration\n\nUsing: \ndubplates of field recordings,\nlive coding TidalCycles,\n amplified small objects, \ntuning forks, \nNord Drum + triggers, \nwalkman and tapes, \n78rpm 'bells' record recast by Sascha Brosamer,\nping-pong balls."
+  },
+  {
+   "id": "ca3J1cztnrc",
+   "t": "Heavy Lifting x Graham Dunning - Live coding jam",
+   "d": "2019-06-22",
+   "v": 15636,
+   "s": 1769,
+   "vertical": false,
+   "desc": "Improvised live code session using Tidal Cycles and Troop.\nThis was a practice for our debut live set at Algorave Elephant on 20th June 2019.\n\nHeavy Lifting: https://heavy-lifting.github.io/\nGraham Dunning: http://grahamdunning.com\nTidalCycles: https://tidalcycles.org/\nTroop: https://github.com/Qirky/Troop"
+  },
+  {
+   "id": "Dm23yms8BcI",
+   "t": "Mikael Ericsson playing the Millophonia",
+   "d": "2019-07-08",
+   "v": 1039,
+   "s": 385,
+   "vertical": false,
+   "desc": "Mikael Ericsson playing his bespoke mechanical organ the Millophonia, live at Bzzz Sound Art festival, Sweden 2019."
+  },
+  {
+   "id": "G0DTz9Tj_JY",
+   "t": "Amplified Surface - stereo contact mics",
+   "d": "2019-07-10",
+   "v": 32113,
+   "s": 682,
+   "vertical": false,
+   "desc": "Blog post: five ways of using contact mics: https://grahamdunning.com/2024/04/07/five-ways-of-using-contact-mics/ \n---\nTrying out some objects for upcoming live performances. I've been using the drum skin with a contact mic for a whole, today just upgraded to stereo. Testing out some scraping noises and other sounds with:\n- drum felt\n- feather\n- dentistry tools\n- turntable counterweight\n- tuning forks\n- snare drum rattles chopped in half\n- marbles\n- piece of broken crockery\n- 10p coin\n- small electric fan"
+  },
+  {
+   "id": "u8Gc1gB6ov8",
+   "t": "Writing a new tune with Mechanical Techno - Live production",
+   "d": "2019-08-26",
+   "v": 12917,
+   "s": 10111,
+   "vertical": false,
+   "desc": "Join me in the studio as I build a new iteration of the Mechanical Techno machine, in order to create a new track. Recorded live 25th August 2019.\nCheck out Motto Motto records at : https://mottomottorecords.com/ ...more below\n-- \nIf you want to support what I do, have a look at my Patreon page here: https://www.patreon.com/grahamdunning\nSubscribers get access to exclusive recordings, behind the scenes material and more."
+  },
+  {
+   "id": "IatfZAIMU_M",
+   "t": "Mechanical Techno & Live Coding - studio rehearsal",
+   "d": "2019-09-29",
+   "v": 4768,
+   "s": 3515,
+   "vertical": false,
+   "desc": "Recording of a run through my live set for some upcoming gigs. The code on the screen is from TidalCycles, a looping sample player operated by text. The turntable uses modified records to play direct samples, Volca Bass and Nord Drum. \nDetails of upcoming gigs are here: https://grahamdunning.com/news/\n--\nIf you like what I do please consider supporting me on Patreon - you get exclusive things each month and it helps me make more stuff: https://www.patreon.com/grahamdunning\n--\nCheck out TidalCycles here: https://tidalcycles.org\nIt's free and amazing and the live code community is really support"
+  },
+  {
+   "id": "PVBogwNhfBs",
+   "t": "THIS IS WHY PEOPLE O.D. ON PILLS by Jennifer Walshe | performed by Graham Dunning",
+   "d": "2019-10-04",
+   "v": 1604,
+   "s": 547,
+   "vertical": false,
+   "desc": "THIS IS WHY PEOPLE O.D. ON PILLS by Jennifer Walshe\nPerformed by Graham Dunning at Archway Sound Symposium, 13th July 2019\nMore information and a link to the original score, here: https://www.cmc.ie/music/why-people-od-pillsand-jump-golden-gate-bridge\n\nI played using:\n- turntable and dubplates of field recordings\n- contact amplified drum skin and various objects\n- two spring reverb tanks\n- DJ mixer\n- volume pedal (left foot) = turntable gain\n- volume pedal (right foot) = FX send amount to reverb tanks (and later, feedback)\n\nMany thanks to Hannah Dargavel-Leafe and Phill Wilson-Perkin at Archwa"
+  },
+  {
+   "id": "NKsPCCz4JVA",
+   "t": "MUSIC BY THE METRE ARCHIVE TWO preview",
+   "d": "2019-10-17",
+   "v": 526,
+   "s": 121,
+   "vertical": false,
+   "desc": "Download/buy tape: https://grahamdunning.bandcamp.com/album/music-by-the-metre-archive-two-2\nPreview for a new album of Music By The Metre recordings: automated compositions made with a variety of analogue, digital, live and algorithmic sound sources. \n\nThe project is an audio homage to Situationist Giuseppe Pinot Gallizio's \"Industrial Painting\" project: music which is always the same but always different, can be started and stopped at any point and played for any duration. Music designed to be sold off the peg and measured by the metre.\ngrahamdunning.com/portfolio/music-by-the-metre/"
+  },
+  {
+   "id": "rmstjNFeQxQ",
+   "t": "Writing a new tune with Mechanical Techno 2! - Live production",
+   "d": "2019-10-30",
+   "v": 6870,
+   "s": 7215,
+   "vertical": false,
+   "desc": "Join me in the studio as I build a new iteration of the Mechanical Techno machine, in order to create a new track. \n\nCheck out Motto Motto records at : https://mottomottorecords.com/ ...more below\n-- \nIf you want to support what I do, have a look at my Patreon page here: https://www.patreon.com/grahamdunning\nSubscribers get access to exclusive recordings, behind the scenes material and more."
+  },
+  {
+   "id": "UxXKfk8bmsA",
+   "t": "Noisevember 2019 Day 1: Snare wires pinged by a motor",
+   "d": "2019-11-01",
+   "v": 1129,
+   "s": 30,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nThis sound was made with some wires from a snare drum, chopped in half, being twanged by a zip-tie attached to a small motor. The sound is amplified by a contact mic.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "enGDrt1RTUI",
+   "t": "Noisevember 2019 Day 2: Tin Foil record",
+   "d": "2019-11-02",
+   "v": 2122,
+   "s": 33,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying a record coated in tin foil, and using the EQ to change the tone.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "GanEKJF1NJQ",
+   "t": "Noisevember 2019 Day 3: Cymbal on a turntable with a plumb bob",
+   "d": "2019-11-03",
+   "v": 2801,
+   "s": 40,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nSpinning a cymbal on a turntable - the cymbal scrapes against a hanging weight on a plumb line. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "Tas_eIl3ejs",
+   "t": "Noisevember 2019 Day 4: Live code rave stabs noise jam",
+   "d": "2019-11-04",
+   "v": 985,
+   "s": 46,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nA blast of rave stab noise made using live coding program TidalCycles and a single rave stab sample.\nGet TidalCycles here: https://tidalcycles.org/\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "K9STS6NpyNk",
+   "t": "Noisevember 2019 Day 5: Kiwi fruit clock face on a record player",
+   "d": "2019-11-05",
+   "v": 1524,
+   "s": 35,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying the back of a glass clock face on a turntable. The fine laticework texture of the printed kiwifruit in rotation creates unusual interference patterns against the needle, producing these synth-like sounds amongst the harsher noise of the generally rough surface. I'm changing the needle's position by making adjustments to the anti-skate control.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "_Ht1F4h-dhQ",
+   "t": "Noisevember 2019 Day 6: Double melodica balloon drone",
+   "d": "2019-11-06",
+   "v": 9134,
+   "s": 44,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nTwo melodicas, each with three notes taped down, blown by eight deflating balloons.\nOne of the balloons got twisted so didn't go down properly, so I popped it at the end.  \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "AthEGRDs7W8",
+   "t": "Noisevember 2019 Day 7: Marbles on a metal disk on a turntable.",
+   "d": "2019-11-07",
+   "v": 1894,
+   "s": 41,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying a metal disk on a turntable, with some marbles which disrupt the tone arm.  The doorstop forces the tonearm back onto the playyer once the marbles have knocked it aside.\nThe audio is a mix of the feed from the stylus and the mics over the platter. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "CzExHMB4eOQ",
+   "t": "Noisevember 2019 Day 8: Guitar with auto-slide strummed by turntable",
+   "d": "2019-11-08",
+   "v": 2202,
+   "s": 43,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nAn acoustic guitar strummed by a turntable. A crankshaft moves a slide up and down the fretboard changing the pitch of some of the strings. The strings are amplified via a pickup with distortion applied. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "Dh7hUAlW_Mk",
+   "t": "Noisevember 2019 Day 9: Shellac 12\" record at the slowest speed",
+   "d": "2019-11-09",
+   "v": 1557,
+   "s": 32,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPart of Stravinsky's Petrouchka Ballet Suite played as slow as possible, with EQ turned right up to maximise the surface noise and material sound. Thanks to Sam Underwood for donating me this record.\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "gKEDiD2u-do",
+   "t": "Noisevember 2019 Day 10: Vinyl dentistry - cutting a new groove into a blank disk",
+   "d": "2019-11-10",
+   "v": 2370,
+   "s": 62,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nUsing a dentistry tool to cut a new groove into a blank vinyl record as it spins. The audio here is a mix of the acoustic sound of the cutting tool, and the sound from the stylus itself. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "h76ZDcVwU6w",
+   "t": "Noisevember 2019 Day 11: Picture disks and coloured vinyl",
+   "d": "2019-11-11",
+   "v": 3333,
+   "s": 33,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nSnippets of both sides of all the coloured vinyl and picture disks I own, in quick succession.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "xAS7wr_4hCo",
+   "t": "Noisevember 2019 Day 12: Plumb bobs with marbles and other balls on a turntable",
+   "d": "2019-11-12",
+   "v": 2355,
+   "s": 42,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nTwo plum bobs hanging over a metal plate on a record player with various marbles and other balls rolling around. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "uYTYt-FGB9g",
+   "t": "Noisevember 2019 Day 13: Cardboard Record",
+   "d": "2019-11-13",
+   "v": 1961,
+   "s": 47,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nA record made of cutup record sleeves. The stylus drops down onto the next piece of card each quarter to make the rhythm.  Changing the anti-skating control makes the tone arm move towards or away from the centre. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "DFX18Jg2cjA",
+   "t": "Noisevember 2019 Day 14: Record with adhesive vinyl in protozoa design",
+   "d": "2019-11-14",
+   "v": 2115,
+   "s": 37,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nA record with stickyback plastic attached, with a design copied from an illustration of a protazoa from a book called The Invertebrata. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "n2Ielk8KsK4",
+   "t": "Noisevember 2019 Day 15: Half-life with all the sounds replaced with '90s rave samples",
+   "d": "2019-11-15",
+   "v": 1389,
+   "s": 35,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying the computer game Half Life but with all the sounds replaced with 1990s rave samples. Gordon Freeman is standing still in a swamp.\nPart of the ongoing project \"Anomalous Materials\".\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "0K--ewzwEkc",
+   "t": "Noisevember 2019 Day 16: Glockenspiel sequencer on the Mammoth Beat Organ",
+   "d": "2019-11-16",
+   "v": 1509,
+   "s": 31,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPrototype version of an automatic glockenspiel, part of the Mammoth Beat Organ. http://youtube.com/mammothbeatorgan\nThe beater cams and the glockenspiel key barrels each rotate with different cycle lengths, creating a long, slowly shifting sequence. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "Rt5ONhyBYdY",
+   "t": "Noisevember 2019 Day 17: Blank record with blobs of solder",
+   "d": "2019-11-17",
+   "v": 2620,
+   "s": 34,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying a blank record which has blobs of solder on it. \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "pGpYIJBajCo",
+   "t": "Noisevember 2019 Day 18: Four squeaking balloons at one third speed",
+   "d": "2019-11-18",
+   "v": 4474,
+   "s": 45,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nMaking a squeaking noise with a balloon, four times. The four are played together and pitched down to about 1/3 speed (original recordings around 10 seconds each).\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "l_fLtMM857M",
+   "t": "Noisevember 2019 Day 19: Stone scrape on headshell",
+   "d": "2019-11-19",
+   "v": 1850,
+   "s": 34,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nScraping the arm of the headshell with a stone.  \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "p3ZTb-0rXFo",
+   "t": "Noisevember 2019 Day 20: Thames barge field recording with video by Amy Cutler",
+   "d": "2019-11-20",
+   "v": 806,
+   "s": 43,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nRecording over the side of 1920s Thames barge SB Repertor, with video made by Amy Cutler.\nRecordings made on Space Place & Time critical excursion 2019.\n\nAs Above, So Below / As Below, So Above (2019) is a touring audio-visual installation by Amy Cutler, Sapphire Goss, and Melanie King using a pioneering circular film and projection technique.\nhttps://amycutler.net/as-above-so-below\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "2ASah5pnT_k",
+   "t": "Noisevember 2019 Day 21: Talking Viewfinder disk about penguins",
+   "d": "2019-11-21",
+   "v": 1849,
+   "s": 34,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlayback of a disk from a speaking stereoscopic viewfinder. The disk would normally be played back at much higher speed than this.\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "xpmpf6rKYZE",
+   "t": "Noisevember 2019 Day 22: Sinewave record playing very slowly (1.5rpm)",
+   "d": "2019-11-22",
+   "v": 1478,
+   "s": 37,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nThis record consists of a continuous sine tone. Here it's being turned by a disco ball motor at about 1.5 revs per minute. The crystals are there to add a bit of weight/friction.\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "0psfp_B9HYs",
+   "t": "Noisevember 2019 Day 23: Slow sinewave record sped up by 50 times",
+   "d": "2019-11-23",
+   "v": 1825,
+   "s": 31,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nThis record consists of a continuous sine tone. I recorded it playing for about 25 minutes at 1.5rpm then sped it up to fit 30 seconds in the video editor - about 75rpm.\n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "B7tgbxpTgyk",
+   "t": "Noisevember 2019 Day 24: Four cassette tape loops at the same time",
+   "d": "2019-11-24",
+   "v": 2003,
+   "s": 47,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nIn 2017 I joined in with a \"tape loop club\" scheme organised by C. Reider - each participant was supposed to send a cassette tape loop they had made and recorded to each of the others. I feel quite bad still that I never got round to doing it. But I received these four lovely tape loops for free.\nThe tapes are labelled as follows:\n- drip hesitant | tay-ploops 2017\n- Tape loop by C. Reider July 2017\n- Loop by Matthew Simonson\n- by Matt Nix - August 2017 (TC)\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "UT5HeUJ_Dkc",
+   "t": "Noisevember 2019 Day 25:  Rotating Walkman tape drone",
+   "d": "2019-11-25",
+   "v": 1719,
+   "s": 37,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nA walkman playing some synth drone, rotating on a turntable. Recorded with lavalier mics placed each side of the deck.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "JsQ_Wm8n1oM",
+   "t": "Noisevember 2019 Day 26: Improv session with Tansy Spinks",
+   "d": "2019-11-26",
+   "v": 1118,
+   "s": 50,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nAn edit from a studio session improvising with Tansy Spinks on violin, exploring small amplified textural sounds using a close-miked surface and objects. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "ND2v21B1FuM",
+   "t": "Noisevember 2019 Day 27: Pendulums plucking strings, with distortion",
+   "d": "2019-11-27",
+   "v": 1463,
+   "s": 78,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nFour plum bob pendulums each of a different length, plucking four fishing-line bass strings. Amplified with contact mics with lots of distortion added.\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "PY9RV2H0pQ4",
+   "t": "Noisevember 2019 Day 28:  Snare drum pottery scrape",
+   "d": "2019-11-28",
+   "v": 2164,
+   "s": 36,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nScraping the surface of a snare drum with a piece of pottery found in the river Thames. Grit dust was added to the surface for extra crunch. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "rVDsHM4J5xY",
+   "t": "Noisevember 2019 Day 29: Spring reverb feedback drones",
+   "d": "2019-11-29",
+   "v": 4054,
+   "s": 34,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nTwo feedback loops through a pair of spring reverb tanks. \n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "xPI6_Q_Fcno",
+   "t": "Noisevember 2019 Day 30:  Mosaic dug-up shellac cast record",
+   "d": "2019-11-30",
+   "v": 3494,
+   "s": 34,
+   "vertical": false,
+   "desc": "30 seconds of noise per day throughout November 2019.\nPlaying a record which was made from pieces of shellac records, dug up from a former industrial site in Digbeth, Birmingham in 2010, fixed together in a mosaic by casting a record in resin. \nMade for the exhibition Visitor Centre at the Rea Garden residency: https://grahamdunning.com/portfolio/visitor-centre/ \n\n\nMore info on Noisevember here: https://www.facebook.com/events/444856792824958/"
+  },
+  {
+   "id": "4B1UoWzz1Lw",
+   "t": "Graham Dunning - live with graphic scores by Laure Van Minden & Paul Levy",
+   "d": "2019-12-20",
+   "v": 1053,
+   "s": 1530,
+   "vertical": false,
+   "desc": "Live set at Pas De Deux, The Old Shoe Factory, Norwich. Images by Laure Van Minden & Paul Levy images used as graphic scores. Using turntable, dubplates of field recordings, amplifies surface, spring reverbs tanks & objects.\nRecorded live on 7th December 2019.\nThanks to all at NNSAC"
+  },
+  {
+   "id": "RKoxHVP7V4w",
+   "t": "AAS Fungal Mumming",
+   "d": "2019-12-22",
+   "v": 946,
+   "s": 2028,
+   "vertical": false,
+   "desc": "A Solstice Mushing\nby Aas featuring Wrenboy Spore Gobbler and Conkers Slasher, Monarch of the Poal\nhttp://aasgroup.net/event/fungal-mumming/"
+  },
+  {
+   "id": "eJMGgWdV_Wg",
+   "t": "Writing a new tune with Mechanical Techno 3! - Live production",
+   "d": "2020-01-24",
+   "v": 10489,
+   "s": 5067,
+   "vertical": false,
+   "desc": "Join me in the studio as I build a new iteration of the Mechanical Techno machine, in order to create a new track. \n\nCheck out Motto Motto records at : https://mottomottorecords.com/ ...more below\n-- \nIf you want to support what I do, have a look at my Patreon page here: https://www.patreon.com/grahamdunning\nSubscribers get access to exclusive recordings, behind the scenes material and more."
+  },
+  {
+   "id": "qMO-_egZNVA",
+   "t": "Mechanical Techno, live at Galerie Paradise, Nantes, 2017",
+   "d": "2020-01-24",
+   "v": 13648,
+   "s": 2156,
+   "vertical": false,
+   "desc": "Recording of a mechanical techno show using cctv cameras, manually and automatically sequenced.\nLive show at Galerie Paradise, Nantes, France, 15th May 2017. \nExhibited as part of the exhibition immediately afterwards: https://grahamdunning.com/portfolio/obsolete-exhibition/"
+  },
+  {
+   "id": "8NjCpZZo-4E",
+   "t": "Higher State of Consciousness (Mechanical Techno cover version)",
+   "d": "2020-02-03",
+   "v": 6782,
+   "s": 61,
+   "vertical": true,
+   "desc": "Outtake from a studio session recording the Music For Climbing Walls album.\nhttps://grahamdunning.bandcamp.com/album/music-for-climbing-walls\nRecorded at PRAH Studios, Margate, December 2017."
+  },
+  {
+   "id": "tsCFgBAOjUQ",
+   "t": "Live Code Techno & Rave set for Threads Radio",
+   "d": "2020-02-07",
+   "v": 5947,
+   "s": 3221,
+   "vertical": false,
+   "desc": "Live set using TidalCycles for Threads Radio. Broadcast live on 7th February 2020 from Threads in Tottenham, London. Apologies for the low res footage, this is from the livestream.\nThreads Radio: https://threadsradio.com/\nTidalCycles: https://tidalcycles.org/\n--\nIf you like what I do please consider subscribing to my patreon: you can get loads of exclusive material and it helps me make more stuff: https://www.patreon.com/grahamdunning"
+  },
+  {
+   "id": "GTr30z_Tnyo",
+   "t": "Featherphone Spring Zither demo",
+   "d": "2020-02-15",
+   "v": 8345,
+   "s": 351,
+   "vertical": false,
+   "desc": "A percussion instrument using springs from snare drum wires. Amplified with four pairs of contact mics, one pair for each set of springs. On sale here: https://grahamdunning.bigcartel.com/product/featherphone-spring-mbira-kalimba \nRecorded with the springs spread slightly across the stereo field, through a stereo compressor and a bit of EQ. No other effects were added (ie, any reverb sound is from the instrument itself)."
+  },
+  {
+   "id": "Ibm8iHFr_BM",
+   "t": "Graham Dunning - Reachin' [Reach Into Time]",
+   "d": "2020-02-20",
+   "v": 1387,
+   "s": 346,
+   "vertical": false,
+   "desc": "Track from the new album Reach Into Time, released 13th February 2020 on S\u00d8VN Records.\nStream full album / Buy tape / download: https://grahamdunning.bandcamp.com/album/reach-into-time\nS\u00d8VN Records: https://sovnrecords.bandcamp.com/\n----\n\"Graham Dunning is a British musician and artist, who has previously released on labels such as Entr\u2019acte, Seagrave, Tombed Visions and who also teaches Experimental Sound Art at the Mary Ward Centre in London . His many projects have a distinctly experimental flavour and a strong bond with performance. An excellent example of this approach is his Mechanical T"
+  },
+  {
+   "id": "dyK0lEDH-WE",
+   "t": "Graham Dunning: Mechanical Techno live set for Lamour Night",
+   "d": "2020-03-20",
+   "v": 5525,
+   "s": 3136,
+   "vertical": false,
+   "desc": "Live mechanical techno show from my studio in London. Please donate the price of a gig ticket! Links below. Part of Lamour Night, which would have been taking place at Fylkingen in Stockholm Sweden.\nYou can pretend to buy a ticket via paypal here: https://www.paypal.me/grahamdunning\nOr you can donate me the price of a coffee, here: https://ko-fi.com/grahamdunning\nOtherwise you could grab some of my music (some of it for free) from bandcamp, here: https://grahamdunning.bandcamp.com/\nIf you're really interested in what I do you can become a patron for access to loads of live recordings, behind-t"
+  },
+  {
+   "id": "PCvv7C9nvUQ",
+   "t": "Slim Vic: Ten Turntable live set for Lamour Night",
+   "d": "2020-03-20",
+   "v": 1120,
+   "s": 1748,
+   "vertical": false,
+   "desc": "Live mechanical techno show from my studio in London. Please donate the price of a gig ticket! Links below. Part of Lamour Night, which would have been taking place at Fylkingen in Stockholm Sweden.\nYou can buy a ticket for this show via PayPal, here: https://www.paypal.me/ViktorZeidner\nIf you're in Sweden, you can donate by SWISH to this number: 0738517757\nYou can also support Slim Vic by buying music from his bandcamp page, here: https://slimvic.bandcamp.com/\nAlso his excellent label, Lamour: https://www.lamour.se/label/\n\nSlim Vic is one of Swedens leading innovator of the DJ and turntable c"
+  },
+  {
+   "id": "z1rfFVnvHf4",
+   "t": "Home Recording: Drum machine and bass synth",
+   "d": "2020-03-25",
+   "v": 3117,
+   "s": 770,
+   "vertical": false,
+   "desc": "Making some music at home during the covid-19 lockdown. \nThe Volca Sample is providing the beats and percussion, and at some points the subs. I used the panning to send the kickdrums to channel 1 on the mixer and everything else to channel 2. The kickdrum also goes into the RNLA compressor as a sidechain control - the Cathedral reverb goes into the compressor. The Volca Bass plays a bass line but also a top line, using different pattern lengths to change the sequence over time. \nTo make the noise/wash sounds it's just a Monotron Delay set to full feedback, and also some snare wires amplified w"
+  },
+  {
+   "id": "t0Pp0Cofi00",
+   "t": "Phantom Chips - LIVE for Noise Quest",
+   "d": "2020-03-27",
+   "v": 467,
+   "s": 2029,
+   "vertical": false,
+   "desc": "Noise Quest welcomes Phantom Chips performing live. Please donate the price of a gig ticket! Links below.\nYou can by Phantom Chips music here: https://phantomchips.bandcamp.com/\nMore info here: http://www.phantomchips.com/\nFacebook shop to buy Phantom Chips synths: https://www.facebook.com/pg/fantomchips/shop/\n\nPhantom Chips makes wearable synthesizers that can be stretched and squeezed to create sound. Her homemade \u2018lectronix squeals create bent charm\nand harsh mangled tones through tactile electronics.\n\nConcocting rhythms from an array of homemade electronic instruments, samplers and wearabl"
+  },
+  {
+   "id": "nIBdJ-GA93I",
+   "t": "Jo Thomas - LIVE for Noise Quest",
+   "d": "2020-03-27",
+   "v": 3285,
+   "s": 2132,
+   "vertical": false,
+   "desc": "Noise Quest welcomes Jo Thomas performing live. Please donate the price of a gig ticket! Links below.\nYou can support Jo by buying her music here: https://softapple.bandcamp.com\n\nJo Thomas is a composer who works with electronic sound. She is a composer and sound artist. Jo has worked on public commissions, concerts, galleries, sound walks, privately commissioned work. In her process, Jo works to create grit, glitch and fine detail. She has her own imprint Soft Apple and is committed to building a catalogue of interesting electronic/acoustic work.\n\nIn 2012 Jo Thomas won the Prix Ars Electronic"
+  },
+  {
+   "id": "NystTaL0CJo",
+   "t": "My Panda Shall Fly - Studio session recording for Noise Quest",
+   "d": "2020-03-27",
+   "v": 776,
+   "s": 1420,
+   "vertical": false,
+   "desc": "Noise Quest welcomes My Panda Shall Fly with a special studio session for Noise Quest. Please donate the price of a gig ticket! Links below.\nYou can buy My Panda Shall Fly music from his bandcamp page: https://surenseneviratne.bandcamp.com/\n\nHaving no musical background or formal teaching, Sri-Lankan born Londoner Suren Seneviratne aka My Panda Shall Fly had gone through many an incarnation until he found where he was comfortable - from shoe-gaze, post-rock in his early teens to sound manipulation and experimentation in his later years."
+  },
+  {
+   "id": "uGzWDbtl4Jk",
+   "t": "Katie Geradrine O'Neill - LIVE for Noise Quest 1",
+   "d": "2020-03-27",
+   "v": 879,
+   "s": 1636,
+   "vertical": false,
+   "desc": "Noise Quest welcomes Katie Gerardine O\u2019Neill performing live. Please donate the price of a gig ticket! Links below.\nPaypal: https://www.paypal.me/KatieGerardineONeill\nKatie has just released a tape called \u2018Unknown Songs\u2019 which is available on her bandcamp: https://katieoneill.bandcamp.com/\n\nKatie Gerardine O\u2019Neill is a multi-disciplinary artist based in Dublin. She works with photography, film, performance and sound collage and many other things. She runs a night of experimental performance called I Am An Instrument. She is interested in art as therapy and non-traditional forms of making music"
+  },
+  {
+   "id": "GWBg2BFHiYk",
+   "t": "Graham Dunning - Live drone set for Backbone Brisbane",
+   "d": "2020-04-01",
+   "v": 1928,
+   "s": 1151,
+   "vertical": false,
+   "desc": "Live set live streamed on 28th March 2020 for Backbone, Brisbane. \nWalkman, volca bass, volca sample, snare tines, field recordings, delay, reverb."
+  },
+  {
+   "id": "XUQKijy9Cbo",
+   "t": "Mariam Rezaei - LIVE for Noise Quest",
+   "d": "2020-04-09",
+   "v": 5983,
+   "s": 2691,
+   "vertical": false,
+   "desc": "Noise Quest 2 welcomes Mariam Rezaei performing live. Please donate the price of a gig ticket or a drink, links below.\nbuy music from bandcamp: https://mariamrezaei.bandcamp.com/\nMariam Rezaei is a composer, performer and improviser. She runs TOPH, a producing, mixed-use Arts space based in Newcastle, and works predominantly with turntables, electronics, instrumental ensembles and vocals.  She is part of TOPH, Swarm Front, Blue Lamp Foundation, Wax Magnetic (with Posset) and has recently collaborated in duos with Letitia Pleiades, YOL and Kenosist.  Her solo release BLUD is available on Fracta"
+  },
+  {
+   "id": "tY8BmTnlUA0",
+   "t": "Yaxu & hellocatfood - LIVE code for Noise Quest",
+   "d": "2020-04-09",
+   "v": 1216,
+   "s": 2620,
+   "vertical": false,
+   "desc": "Noise Quest 2 welcomes Yaxu & hellocatfood. Please donate the price of a gig ticket or a drink, links below.\nYaxu ko-fi page: https://ko-fi.com/yaxulive\nhellocatfood: https://paypal.me/hellocatfood\nhellocatfood patreon: https://www.patreon.com/hellocatfood\nYaxu, aka Alex McLean, makes live techno with his handmade programming language TidalCycles, using a technique called \"Live Coding\". He has been performing with such algorithmic music since the year 2000, co-founding Algorave in 2011, an algorithmic dance music movement which has already spread to over ten countries.\nhellocatfood is the alia"
+  },
+  {
+   "id": "ggqsr3bG26o",
+   "t": "Tom Richards - LIVE for Noise Quest",
+   "d": "2020-04-09",
+   "v": 547,
+   "s": 2649,
+   "vertical": false,
+   "desc": "Noise Quest 2 welcomes Tom Richards performing live. Please donate the price of a gig ticket or a drink - links below.\nBuy a virtual gig ticket here: https://paypal.me/tomtrsound\nBuy music from bandcamp: https://trsound.bandcamp.com/\nTom makes hardware based electronic music using handbuilt, self-designed instruments. Tom also reimagined and constructed Daphne Oram's unfinished 'Mini Oramics' graphic sound synthesiser system.\nTom Richards is an artist, musician, DJ, researcher and instrument designer working in London UK."
+  },
+  {
+   "id": "0xal-NoCXfc",
+   "t": "Loula Yorke - LIVE for Noise Quest",
+   "d": "2020-04-09",
+   "v": 672,
+   "s": 2383,
+   "vertical": false,
+   "desc": "Noise Quest 2 welcomes Loula Yorke performing live. Please donate the price of a gig ticket! Links below.\nBuy a pretend ticket here: https://paypal.me/loulayorke\nBuy music from bandcamp: https://loulayorke.bandcamp.com/\nLoula Yorke is a live artist and noise-maker whose work harnesses electronic signal as a musical tool.\nAs one half of TR-33N, Loula has performed live at Glastonbury Festival and Boomtown, and had collaborative work broadcast on BBC Radio 1 and 1Xtra. During 2019 Loula has played live in support of Talvin Singh and The Orb, and released her debut solo album \u2018ysmysmysm\u2019 on Detro"
+  },
+  {
+   "id": "DFCTOj8wuag",
+   "t": "Slim Vic & Graham Dunning LIVE for The G\u00e4vle Goat",
+   "d": "2020-04-16",
+   "v": 2147,
+   "s": 2152,
+   "vertical": false,
+   "desc": "The G\u00e4vle Goat welcomes Slim Vic performing live from G\u00e4vle , Sweden, and Graham Dunning playing in London, UK. \nSlim Vic is one of Sweden's leading innovators of the DJ and turntable culture. Studio recordings cross dark ambient, soundscapes and techno. He also DJs with portable turntables and novelty 7\"s from across the globe. Viktor runs Lamour records releasing ambient, electronica and conceptual techno on vinyl, cassette and digital, plus sub labels Tape Lamour, Acid Lamour & Knaften.\nhttps://slimvic.net/\nhttps://www.lamour.se/\nGraham Dunning's live work explores sound as texture, timbre "
+  },
+  {
+   "id": "ikzTiH5g6wU",
+   "t": "AKB LIVE for The G\u00e4vle Goat",
+   "d": "2020-04-16",
+   "v": 664,
+   "s": 1834,
+   "vertical": false,
+   "desc": "Behind the name AKB resides instrumentalist Anna-Karin Berglund from G\u00e4vle, Sweden. Her debut album \u201dMarianergraven\u201d is released on February 28th and it is her own take on the ambient genre, with melodies moving slowly, forming a menacingly areal atmosphere, where the soaring laments are able to float freely across the sonic panorama. The first release under her own name came in April 2016 on the EP S\u00f6ndagsbarn (via Lamour Records), on which the four tracks carries clear influences from the 70-80\u2019s ambient with its space-fragrant, cosmic soundscapes.\nhttps://www.lamour.se/akb/"
+  },
+  {
+   "id": "kn-2xwqCkzo",
+   "t": "Bredbeddle LIVE for The G\u00e4vle Goat",
+   "d": "2020-04-16",
+   "v": 1451,
+   "s": 2006,
+   "vertical": false,
+   "desc": "The G\u00e4vle Goat welcomes Bredbeddle performing live from Nottingham, UK. \nBredbeddle aka Rebecca Lee is a musician, composer and artist based at Primary, Nottingham, working across performance, installation, scores and broadcasts. Her work explores processes of making and forms of listening, drawing from experimental, early, electronic, chamber and improvised musics. Bredbeddle is a project in which Rebecca uses turntable and other playbeack media to collage existing recordings into new compositions. \nhttp://www.rebeccalee.info/"
+  },
+  {
+   "id": "bUGlTIpvQys",
+   "t": "Annie T\u00e5dne LIVE for The G\u00e4vle Goat",
+   "d": "2020-04-17",
+   "v": 892,
+   "s": 2037,
+   "vertical": false,
+   "desc": "The G\u00e4vle Goat welcomes Annie T\u00e5dne performing live from London, UK. \nAnnie T\u00e5dne is a Swedish artist based in London, working within the intersection of art and technology. Her interests lie in the synthesis of art, media, technology and architecture, where music is paramount in all of her creations. She explores spatial and embodied cognition through audiovisual and performative modes of expression.\nhttps://tadne.se/"
+  },
+  {
+   "id": "8prtoG5xNLk",
+   "t": "Li Yilei LIVE for Noise Quest",
+   "d": "2020-04-30",
+   "v": 680,
+   "s": 1891,
+   "vertical": false,
+   "desc": "Noise Quest 3 welcomes Li Yilei with an exclusive studio performance. \nLi Yilei (b. China) is a London/Shanghai based multi-disciplinary artist and musician working primarily with sound, performance and installation. As a gender non-conforming individual with Asperger's, the experience fluctuates between chaos and sometimes painful stillness. Their body of work is plagued with the polarity of minimalist subtle moments that are translated into abstract sonic languages."
+  },
+  {
+   "id": "UIQKDiYKCqM",
+   "t": "Leon Trimble LIVE for Noise Quest",
+   "d": "2020-04-30",
+   "v": 946,
+   "s": 2730,
+   "vertical": false,
+   "desc": "Noise Quest 3 welcomes Leon Trimble performing live. \nLeon Trimble is an Audiovisual Performer currently researching the implications of the performer/conductor/magician through the livecoding of analogue audiovisual circuits and card tricks.\nperformance: Wizard Woden - choose your own (Livecode) adventure!\nLeon will be using polls to create performance - choose letters from the name of the gravity synth and The Wizard will livecode with those letters. The Wizard will then turn these into glyphs to livecode with, and animate the corresponding runes. choose wisely, some of them will not produce"
+  },
+  {
+   "id": "8kX5HNLDAUs",
+   "t": "Graham Dunning live code session for Noise Quest",
+   "d": "2020-04-30",
+   "v": 752,
+   "s": 2507,
+   "vertical": false,
+   "desc": "A special live code set on Noise Quest 3, originally broadcast by Algo:ritmi on Monday ."
+  },
+  {
+   "id": "r_ZLtQhgr-0",
+   "t": "Daphnellc LIVE for Noise Quest",
+   "d": "2020-04-30",
+   "v": 505,
+   "s": 1838,
+   "vertical": false,
+   "desc": "Noise Quest 3 welcomes Daphnellc performing live. \nDephnellc: Drum machine techno made for dancing.\nhttps://linktr.ee/LarryCrywater"
+  },
+  {
+   "id": "ooSO0KCVMqg",
+   "t": "Yellow Henge (Radio Occult)",
+   "d": "2020-05-01",
+   "v": 2244,
+   "s": 369,
+   "vertical": false,
+   "desc": "Graham Dunning - Yellow Henge (Radio Occult)\nfrom the album 'Panopticon'  - https://everycontactleavesatrace.bandcamp.com/album/panopticon\nCassette and download by Every Contact Leaves a Trace\n'Half-Life', all in-game sounds replaced with samples from 90s rave tracks and sample CDs.\n\n\u201cThe research consists of four main phases: The first phase involves extraction of the silhouette of an individual. Calculating the gait period or gait cycle of the individual follows this. Finding the sum of silhouettes is the next step. Finally, similarity score computation and matching process is performed for "
+  },
+  {
+   "id": "u1I7LViRv48",
+   "t": "Motian Capture",
+   "d": "2020-05-08",
+   "v": 2706,
+   "s": 282,
+   "vertical": false,
+   "desc": "Graham Dunning - Motian Capture\nfrom the album 'Panopticon'  - https://everycontactleavesatrace.bandcamp.com/album/panopticon\nCassette and download by Every Contact Leaves a Trace\n'Half-Life', all in-game sounds replaced with samples from 90s rave tracks and sample CDs.\n\n\u201cThe research consists of four main phases: The first phase involves extraction of the silhouette of an individual. Calculating the gait period or gait cycle of the individual follows this. Finding the sum of silhouettes is the next step. Finally, similarity score computation and matching process is performed for recognition. "
+  },
+  {
+   "id": "Ol_uOwfq8Ro",
+   "t": "Void Hands LIVE for Noise Quest",
+   "d": "2020-05-13",
+   "v": 927,
+   "s": 2240,
+   "vertical": false,
+   "desc": "Richard Knight is a data artist, actively involved in music production, composition, and performance in addition to computer software development for artistic means. Currently based in the North of the UK, he is motivated by the interaction of organic and electronic phenomena. He is also known for pioneering a raw techno style purely with mixing desks (sometimes in collaboration with Juergen Ehrmann) and has released experimental pure no-input mixer recordings on the labels Concrete Moniker and Fractal Meat Cuts.\nhttp://rk.1bpm.net/"
+  },
+  {
+   "id": "vOS71RHy1tU",
+   "t": "Andrew Lisle LIVE for Noise Quest",
+   "d": "2020-05-13",
+   "v": 715,
+   "s": 1864,
+   "vertical": false,
+   "desc": "Buy Andrew Lisle music here: https://andrewlisle.bandcamp.com\nAndrew Lisle is a drummer/composer based in London. He works in the fields of Free Jazz and improvisation, performing with the likes of Colin Webster, Alex Ward, John Edwards, John Dikeman and Rodrigo Amado. This performance will be a solo improvisation playing with the concepts of the fluidity and rigidity of time, a subject which has been an extensive study of Andrew's."
+  },
+  {
+   "id": "RdUHwUDF5v0",
+   "t": "Shelly Knotts LIVE for Noise Quest",
+   "d": "2020-05-14",
+   "v": 1105,
+   "s": 2410,
+   "vertical": false,
+   "desc": "You can buy Shelly's most recent album here, a trio with Faye MacCalman & John Pope:  https://johnpope.bandcamp.com/album/no-bones\nShelly Knotts is an improviser who performs with computers and other humans. Interests in code, data and networks have lead her down strange and diverse musical paths from electroacoustic composition, through jazz and noise music to algorave. She experiments with generative and AI techniques and opinionated algorithms to make music. She has performed at numerous Algoraves and other live coding events worldwide, solo and with collaborative projects including algo-po"
+  },
+  {
+   "id": "VyJ4j4D_u5k",
+   "t": "TVO - LIVE for Noise Quest",
+   "d": "2020-05-14",
+   "v": 422,
+   "s": 2136,
+   "vertical": false,
+   "desc": "Buy TVO music here: http://tvo.broken20.com\nTVO is Ruaridh Law; a sound artist and musician based in Paisley, Scotland; over 20 years he has performed in groups, in collaborations and solo across a wide range of festivals, arts spaces, venues and clubs as performer, improviser, DJ and artist, as well as hosting radio shows and writing.\nHe runs the Broken20 multimedia label, which has been releasing experimental music, DVD, cassette, vinyl and mixed media works over 10 years and 50+ releases; he has also recently set up further_in, an online streaming channel dedicated to platforming art from a"
+  },
+  {
+   "id": "1o0yjowvcNo",
+   "t": "Play It Today Side A",
+   "d": "2020-06-09",
+   "v": 2928,
+   "s": 90,
+   "vertical": false,
+   "desc": "Automatic music composition using locked groove foley record, featherphone with twanging roller, sequenced synth throb.\nAvailable on tape and download: https://fractalmeat.bandcamp.com/album/play-it-today"
+  },
+  {
+   "id": "gR9ruj8rfV0",
+   "t": "Ain Bailey - studio session for Noise Quest",
+   "d": "2020-06-18",
+   "v": 1908,
+   "s": 1901,
+   "vertical": false,
+   "desc": "You can buy music by Ain Bailey here: https://resterecords.bandcamp.com/album/call-and-response-1\nAin Bailey is a sound artist and DJ. She facilitates workshops considering the role of sound in the formation of identity and recently held a residency at the ICA, London.  Exhibtions in 2019 included \u2018The Range\u2019 at Eastside Projects, Birmingham; \u2018RE:Respite\u2019 at Transmission Gallery, Glasgow, Scotland, and \u2018And We\u2019ll Always Be A Disco In The Glow Of Love\u2019, a solo show at Cubitt Gallery, London. Last year, Bailey was commissioned by Supernormal and Jupiter festivals to create and perform a new work"
+  },
+  {
+   "id": "5QMvC5T3BR0",
+   "t": "Me, Claudius - studio session for Noise Quest 5",
+   "d": "2020-06-18",
+   "v": 1446,
+   "s": 1595,
+   "vertical": false,
+   "desc": "You an buy music from Me, Claudius here: http://meclaudius.bandcamp.com/merch\nMe, Claudius\nExperimental music.\nSome Welsh, lives in England.\nHates all her clothes.\nThe dog, very displayed,\nThe dog displayed a chance.\nA chance birthday, the dog attentive.\nWe all tasted chance,\nYou can eat outside.\n\nsoundcloud.com/meclaudius\nTwitter: @claudius_me\nFacebook: https://www.facebook.com/ClaudiusMe\nInstagram @theonlymeclaudius\n\nThis episode of Noise Quest is supported by University of Warwick:\nConnecting Cultures GRP and Innovative Manufacturing and Future Materials GRP."
+  },
+  {
+   "id": "GYIXhEiQsx8",
+   "t": "TYPE - The Yorkshire Programming Ensemble - LIVE for Noise Quest 5",
+   "d": "2020-06-18",
+   "v": 912,
+   "s": 2539,
+   "vertical": false,
+   "desc": "You can hear more from TYPE here: https://soundcloud.com/typeensemble\nThe Yorkshire Programming Ensemble (TYPE) is a collection of humans: Lucy Cheesman, Laurie Johnson, Ryan Kirkbride, and Innocent Granger, that meet IRL and URL and enjoy exploring rhythmic music in a collaborative virtual space and generally making a lot of noise.\nhttps://typeensemble.wordpress.com/\n\nThis episode of Noise Quest is supported by University of Warwick:\nConnecting Cultures GRP and Innovative Manufacturing and Future Materials GRP."
+  },
+  {
+   "id": "B-3JMajrZN8",
+   "t": "Sharon Gal studio session for Noise Quest 5",
+   "d": "2020-06-18",
+   "v": 510,
+   "s": 1696,
+   "vertical": false,
+   "desc": "You can buy music from Sharon Gal here: https://sharongal.bandcamp.com/\nSharon Gal is an interdisciplinary artist, performer, experimental vocalist & composer, with experience of free improvisation and large group participatory compositions. \nHer work explores explores presence, listening, embodiment, and the relationship between space, people and sound.   \nHer music was released by various labels, including five solo albums and many collaborations. Past performances include The V&A, Science Museum, ICA, The Whitechapel Gallery, Tate Modern & Tate Britain and Colour out of Space, Borealis, Sup"
+  },
+  {
+   "id": "zmQcGV1ESWI",
+   "t": "SERF - new recordings for Noise Quest 6",
+   "d": "2020-07-09",
+   "v": 651,
+   "s": 2521,
+   "vertical": false,
+   "desc": "You can buy music from SERF here: https://serflondon.bandcamp.com/\nSERF: is a group that plays with melody and experimentalism, they play with the dynamics of storytelling. This 40 minute set has found sounds from summer solstice 2020 as well as the narration of the artists. Making a trippy headspace somewhere between there, space and here."
+  },
+  {
+   "id": "Uw8z1efMacI",
+   "t": "Miri Kat - LIVE for Noise Quest 6",
+   "d": "2020-07-09",
+   "v": 897,
+   "s": 2801,
+   "vertical": false,
+   "desc": "You can buy music by Miri Kat here: https://mirikat.bandcamp.com/\nMiri Kat is a Livecoder / AV Artist / Producer from London. Interested in music tech, web technologies, hacking, creative coding, algorithmic music and generative visuals.\nhttps://mirikat.bandcamp.com/"
+  },
+  {
+   "id": "dnsxjimd3kE",
+   "t": "Colin Webster - studio session for Noise Quest 6",
+   "d": "2020-07-09",
+   "v": 864,
+   "s": 1761,
+   "vertical": false,
+   "desc": "You can buy music by Colin Webster here: https://colinwebster.bandcamp.com/\nLondon based saxophonist Colin Webster is quickly establishing himself on the European avant garde scene. Collaborating with some of the key figures in improvised and experimental music, Webster is known for working from extreme sonic palettes  \u2013 from minimal to maximal, constantly pushing boundaries.\nThis set is based on the idea of 'textural studies' - taking single sonic statements, and exploring them to the fullest extent, and deliberately avoiding notions of structure or development. The idea came off the back of "
+  },
+  {
+   "id": "9bUdTcJhHhM",
+   "t": "Tom Mudd: Gutter Synthesis - LIVE for Noise Quest 6",
+   "d": "2020-07-09",
+   "v": 2110,
+   "s": 2035,
+   "vertical": false,
+   "desc": "You can buy music from Tom Mudd here: http://tommudd.bandcamp.com/\nTom Mudd enjoys working with digital processes for music making. Recent work has explored synthesising sound in ways that mirror acoustic processes in different ways: from direct simulations of guitars and brass objects, to more abstract systems.\n\nThis set is a live performance with the Gutter Synth: a digital synth that explores networked feedback between nonlinear oscillators.\nThe synth is available for free here: https://github.com/tommmmudd/guttersynthesis \n\nMore info: http://tommudd.co.uk"
+  },
+  {
+   "id": "ff28X2qVMZc",
+   "t": "Bell Lungs LIVE for Noise Quest 7",
+   "d": "2020-07-29",
+   "v": 517,
+   "s": 1829,
+   "vertical": false,
+   "desc": "You can buy music from Bell Lungs here: https://bell-lungs.bandcamp.com/\nA mesmeric voice pours into your ears, atop mellotron violin, fingerpicked guitar, omnichord drones, bowed chimes, field recordings & glitchy electronics. Drawing on psychedelic, free improvisation and folk influences, Bell Lungs creates transcendental atmospherically shifting soundscapes interspersed with snippets of songs, musing upon rural idylls, post-industrial heartlands\u200b and\u200b online dating. \nhttps://bell-lungs.com/"
+  },
+  {
+   "id": "knp5EOMhePg",
+   "t": "Lauren Sarah Hayes LIVE for Noise Quest 7",
+   "d": "2020-07-30",
+   "v": 6165,
+   "s": 676,
+   "vertical": false,
+   "desc": "You can buy music from Lauren Sarah Hayes here: https://laurensarahhayes.bandcamp.com/\nLauren Sarah Hayes is a Scottish musician and sound artist based in Arizona who builds and performs with hybrid analogue/digital instruments. She is a \u201cpositively ferocious improvisor\u201d (Cycling \u201874), her music refusing to sit nicely between free improv, experimental pop, techno, and noise. Over the last decade she has developed and honed a deliberately challenging and unpredictable performance system that explores the relationships between bodies, sound, environments, and technology. The Wire described her m"
+  },
+  {
+   "id": "z7ZUVeeiUx0",
+   "t": "Remi Fox-Nov\u00e1k LIVE experimental electronics & techno for Noise Quest 7",
+   "d": "2020-07-30",
+   "v": 2423,
+   "s": 2706,
+   "vertical": false,
+   "desc": "You can buy music by Remi Fox-Nov\u00e1k  here:\nhttps://remifoxnovak.bandcamp.com\nhttps://surfacing.bandcamp.com\nRemi Fox-Nov\u00e1k is a member of electronic experimentalists Surfacing.  Away from the group, his music solo leans harder into the sounds of club music, whilst still informed by Surfacing's spontaneous industrial growl.\nThe set, beamed directly from his home studio, will be a showcase of Remi Fox-Nov\u00e1k's experimental exploration of audio technology as well as his approach to techno. \nhttps://remifoxnovak.bandcamp.com\nhttps://surfacing.bandcamp.com"
+  },
+  {
+   "id": "7snxSxc_zwQ",
+   "t": "Jonathan Higgins - LIVE CDr glitch set for Noise Quest 7",
+   "d": "2020-07-30",
+   "v": 2204,
+   "s": 1871,
+   "vertical": false,
+   "desc": "You can buy music by Jonathan Higgins here: http://jphiggins.bandcamp.com/\nJonathan Higgins is a composer and performer based in London who focuses on finding different ways of utilising noise to create music. He music often looks to communication systems and the noise inherent within them as tool for manipulating and creating sounds.\nThis set will be performed on hacked sony discman players and a CD recorder. Sounds from the CD players will be re-recorded to CD and reused, degrading the sounds on each recursive loop. This is a live interpretation of the process used to make the EP Bootlegs, r"
+  },
+  {
+   "id": "GXXlW_6Jnjo",
+   "t": "Hand-cranked Programmable Acoustic Bass Banjo improvisation",
+   "d": "2020-09-28",
+   "v": 7986,
+   "s": 248,
+   "vertical": false,
+   "desc": "A new module for the Mammoth Beat Organ, commissioned for NIME (New Interfaces for Musical Expression) conference 2020. Making of video: https://www.youtube.com/watch?v=KHJQw1xSO-o \nMe and Sam Underwood worked remotely to each make a new instrument (Sam made a siren disk organ!). \nFind out more on the Mammoth Beat Organ channel: https://www.youtube.com/mammothbeatorgan"
+  },
+  {
+   "id": "iCJsU63Nbkc",
+   "t": "(2017) Real Data",
+   "d": "2020-10-11",
+   "v": 3205,
+   "s": 1356,
+   "vertical": false,
+   "desc": "Video (22\u201935\u201d) made by deliberately misinterpreting data collected from music producers about the extent to which they consider themselves Bedroom Producers (by my own definition).\n\nThe video consists of graphs made in a spreadsheet software, scrolling across the view. The audio is made of 16 drone sounds, each generated by a graph of results from one of the questions. The drones were pitched digitally then fed through oscillating analogue synth filters and left to run for the duration of the recording.\n\nExhibited:\n\u2013 2017: Sch\u00e9ma, Galerie Paradise, Nantes, France\n\u2013 2017: Tusk Festival, Workpla"
+  },
+  {
+   "id": "tdZgD05Bmw4",
+   "t": "Drift: turning out of sync / Drift: internal clocks",
+   "d": "2020-11-16",
+   "v": 5790,
+   "s": 1204,
+   "vertical": false,
+   "desc": "Drift: turning out of sync\nDrift: internal clocks\n\nEach of these two videos is an experiment in creating patterns through error.\n--\nIn Drift: turning out of sync, each note is created by a rotating record which triggers a synth note to play. Each of the four panels shows the turntable playing at a slightly slower rotational speed.\n\nNormally when mixing records together the intention is to beatmatch: to keep the rhythms in sync. Here the mismatched speeds create the patterns.\n--\nIn Drift: internal clocks, each note is played by a person hitting a drum pad. Each player was initially given a shor"
+  },
+  {
+   "id": "PI-uYRhIZIw",
+   "t": "(2017) Verti Forma",
+   "d": "2021-01-05",
+   "v": 2961,
+   "s": 1171,
+   "vertical": false,
+   "desc": "Video using animated found slides, mainly depicting papermaking processes but some other graphs and diagrams from other sources. Audio is a live mixdown of a mechanical techno setup, recorded in one take.\n\nThe idea was to make a monotonous and repetitive bombardment of information, moving too fast to be able to take in, coupled with repetitive and stumbling music.\n\nThe full video is 19\u201930\u201d long, above is an edit.\n\nMade as part of a residency at Galerie Paradise, Nantes, France, 2017.\n\nExhibited:\nSch\u00e8ma, Galerie Paradise, 2017"
+  },
+  {
+   "id": "6nBIoOd3gmE",
+   "t": "Testrack v Analog - live at Module, Heaven & Hell, Liverpool - August 2005",
+   "d": "2021-03-20",
+   "v": 6339,
+   "s": 2775,
+   "vertical": false,
+   "desc": "Live set August 2005 using 2 laptops through a DJ mixer - Testrack running Reason, Analog (me) using fruity loops."
+  },
+  {
+   "id": "uxnQPAktdgc",
+   "t": "Graham Dunning - Breaks in the Wire",
+   "d": "2021-10-01",
+   "v": 1008,
+   "s": 253,
+   "vertical": false,
+   "desc": "From the album \"Mindscape From The 7th Level\" released 1st October 2021 by Third Kind\ndownload/tape/minidisc: https://thirdkindrecords.bandcamp.com/album/mindscape-from-the-7th-level\nMusic by Graham Dunning - http://grahamdunning.com\nPainting by Chris Clover - http://www.chrisclover.com/\n- --- - --- - --- - --- - --- -\nGraham Dunning returns to Third Kind for an exhaustive collection of dance floor creations that reveal a romanticised longing for the return of the euphoric, the psychedelic, but also irrevocably, the grimey club night. The tracks draw heavily from classic underground house and "
+  },
+  {
+   "id": "n0pnw4T-lGg",
+   "t": "Graham Dunning - (We are made out of) Harmonic Light",
+   "d": "2021-10-01",
+   "v": 721,
+   "s": 233,
+   "vertical": false,
+   "desc": "From the album \"Mindscape From The 7th Level\" released 1st October 2021 by Third Kind\ndownload/tape/minidisc: https://thirdkindrecords.bandcamp.com/album/mindscape-from-the-7th-level\nMusic by Graham Dunning - http://grahamdunning.com\nPainting by Chris Clover - http://www.chrisclover.com/\n- --- - --- - --- - --- - --- -\nGraham Dunning returns to Third Kind for an exhaustive collection of dance floor creations that reveal a romanticised longing for the return of the euphoric, the psychedelic, but also irrevocably, the grimey club night. The tracks draw heavily from classic underground house and "
+  },
+  {
+   "id": "lIEqbWBRXYs",
+   "t": "Melodica / Tape Loops / Synth / Drum Machine",
+   "d": "2022-04-10",
+   "v": 1685,
+   "s": 1810,
+   "vertical": false,
+   "desc": "Rehearsal for a live set using Melodica / cassette tape loops / Synth / drum machine  and some effects. Improvised to a preplanned structure.\nMelodica, 4x tape players, 2x low-pass filter modules and multi-lfo, korg monotron duo and monotron delay, korg volca bass and volca sample, 2x eq pedals, 2x delay pedals."
+  },
+  {
+   "id": "zWQWa58dFp8",
+   "t": "Mammoth Beat Organ - Division",
+   "d": "2022-05-20",
+   "v": 1055,
+   "s": 217,
+   "vertical": false,
+   "desc": "Studio recording of the Mammoth Beat Organ at its home in Worcestershire.\nhttps://www.youtube.com/mammothbeatorgan\n'At Home With The Mammoth Beat Organ' single released by Pearl Home Records on lathe cut 7\" and digital, on 19th May 2022.\nhttps://pearlhomerecords.bandcamp.com/album/at-home-with-the-mammoth-beat-organ"
+  },
+  {
+   "id": "LZ3UkKvz8cE",
+   "t": "Graham Dunning - live at Deutsches Phono Museum",
+   "d": "2022-06-22",
+   "v": 2317,
+   "s": 1210,
+   "vertical": false,
+   "desc": "turntable, additional tone arms, synthesizers & effects\nPerformed live 13th May 2022\nDeutsches Phono Museum, Sankt Georgen im Schwartzwald, Germany\n\nTRANSNATIONAL PHONOGRAPHY \nmakes an alternative and complement argument by broadening (and decentring) the understanding of phonography beyond the notion of inscription. It frames phonography as a dynamic and multivalent socio-material practice of recording, collecting, retrieving and passing on sound \u2013 involving a vast variety of intermediaries, materials, machines and localities. It will be a  a multidisciplinary format that brings together indu"
+  },
+  {
+   "id": "VmJviqFLEvc",
+   "t": "DUNNING & UNDERWOOD - Live Machine Jam #1",
+   "d": "2022-06-30",
+   "v": 943,
+   "s": 487,
+   "vertical": false,
+   "desc": "Collaboration with Sam Underwood's -ams- (acoustic modular system) and my Mechanical Techno turntable sequencer. Recorded May 2022\nMade for Tusk TV / first released by Tusk Editions: https://tuskeditions.bandcamp.com/album/tusk-editions-7"
+  },
+  {
+   "id": "GD28VC0-gZY",
+   "t": "DUNNING & UNDERWOOD - Live Machine Jam #2",
+   "d": "2022-07-02",
+   "v": 696,
+   "s": 310,
+   "vertical": false,
+   "desc": "Collaboration with Sam Underwood's -ams- (acoustic modular system) and my Mechanical Techno turntable sequencer. Recorded May 2022\nMade for Tusk TV / first released by Tusk Editions: https://tuskeditions.bandcamp.com/album/tusk-editions-7"
+  },
+  {
+   "id": "btpxrdxf-VA",
+   "t": "Sascha Brosamer - Live at Phonomuseum Paris, May 2022",
+   "d": "2022-07-06",
+   "v": 480,
+   "s": 775,
+   "vertical": false,
+   "desc": "Sascha Brosamer: gramophone, prepared shellac records, guitar & effects\nAdditional amplification via mobile devices using Grainfield by CoSiMa / IRCAM\n\n\nTRANSNATIONAL PHONOGRAPHY \nmakes an alternative and complement argument by broadening (and decentring) the understanding of phonography beyond the notion of inscription. It frames phonography as a dynamic and multivalent socio-material practice of recording, collecting, retrieving and passing on sound \u2013 involving a vast variety of intermediaries, materials, machines and localities. It will be a  a multidisciplinary format that brings together "
+  },
+  {
+   "id": "-pZhgobWqTo",
+   "t": "Sascha Brosamer & Graham Dunning - Live at Phonomuseum Paris for Transnational Phonography",
+   "d": "2022-07-14",
+   "v": 984,
+   "s": 982,
+   "vertical": false,
+   "desc": "Sascha Brosamer: gramophone, prepared shellac records, guitar & effects\nGraham Dunning: turntable, additional tone arms, synthesizers & effects\nAdditional amplification via mobile devices using Grainfield by CoSiMa / IRCAM\n\n\nTRANSNATIONAL PHONOGRAPHY \nmakes an alternative and complement argument by broadening (and decentring) the understanding of phonography beyond the notion of inscription. It frames phonography as a dynamic and multivalent socio-material practice of recording, collecting, retrieving and passing on sound \u2013 involving a vast variety of intermediaries, materials, machines and lo"
+  },
+  {
+   "id": "IK6_YMLrLN0",
+   "t": "Graham Dunning - Anthropomorphic G\u00f6mb\u00f6c",
+   "d": "2022-08-10",
+   "v": 1058,
+   "s": 310,
+   "vertical": false,
+   "desc": "From the album Silo released 31 May 2022 by Fort Evil Fruit\nhttps://fortevilfruit.bandcamp.com/album/silo\nArtwork by Calum Storrie - Isometric 06\nhttps://www.instagram.com/deliriousmuseum\nMusic made with Tidal Cycles\nhttp://TidalCycles.org"
+  },
+  {
+   "id": "bWyI6xlMTvE",
+   "t": "Graham Dunning - Cyborg is exploded into space",
+   "d": "2022-08-10",
+   "v": 341,
+   "s": 176,
+   "vertical": false,
+   "desc": "From the album Silo released 31 May 2022 by Fort Evil Fruit\nhttps://fortevilfruit.bandcamp.com/album/silo\nArtwork by Calum Storrie - Isometric 06\nhttps://www.instagram.com/deliriousmuseum/\nMusic made with Tidal Cycles\nhttp://TidalCycles.org"
+  },
+  {
+   "id": "TLej-Ac5md8",
+   "t": "Graham Dunning - Thermal Regulation",
+   "d": "2022-08-10",
+   "v": 268,
+   "s": 171,
+   "vertical": false,
+   "desc": "From the album Silo released 31 May 2022 by Fort Evil Fruit\nhttps://fortevilfruit.bandcamp.com/album/silo\nArtwork by Calum Storrie - Isometric 06\nhttps://www.instagram.com/deliriousmuseum/\nMusic made with Tidal Cycles\nhttp://TidalCycles.org"
+  },
+  {
+   "id": "FVu00_OlCrE",
+   "t": "Graham Dunning - Searchin'",
+   "d": "2022-08-10",
+   "v": 336,
+   "s": 177,
+   "vertical": false,
+   "desc": "From the album Silo released 31 May 2022 by Fort Evil Fruit\nhttps://fortevilfruit.bandcamp.com/album/silo\nArtwork by Calum Storrie - Isometric 06\nhttps://www.instagram.com/deliriousmuseum/\nMusic made with Tidal Cycles\nhttp://TidalCycles.org"
+  },
+  {
+   "id": "ezSdPIKkp98",
+   "t": "Heavy Lifting vs Graham Dunning - live coding beats & techno improvisation",
+   "d": "2022-09-20",
+   "v": 2629,
+   "s": 1836,
+   "vertical": false,
+   "desc": "Improvisation using Tidal Cycles and Troop - plus 10 samples each. \nThis was a practice for our second gig, at 10 Years of Algorave, Corsica Studios, London on 31/3/22 - the recording of which is available here: https://fractalmeat.bandcamp.com/album/live-at-10-years-of-algorave-corsica-studios \n\nHeavy Lifting: https://heavy-lifting.github.io/\nGraham Dunning: http://grahamdunning.com\nTidalCycles: https://tidalcycles.org/\nTroop: https://github.com/Qirky/Troop"
+  },
+  {
+   "id": "J1EsSF9c9tU",
+   "t": "Cath Roberts (electronics) & Graham Dunning (extended turntable) - Live at Iklectik 12 January 2023",
+   "d": "2023-01-19",
+   "v": 665,
+   "s": 1730,
+   "vertical": false,
+   "desc": "Live set from Cath Roberts (electronics) and Graham Dunning (extended turntable). Played at Iklectik Art Lab, London, on Thursday 12th January 2023.\nhttps://cathrobots.co.uk\nhttps://grahamdunning.com\nLive sound by Isa Ferri. Binaural room recording by Jeff Arden.\nMix and edit by Graham Dunning."
+  },
+  {
+   "id": "Bx7UBWeOjvM",
+   "t": "Dunning & Brosamer - Telescope (excerpt 1) - visuals by Leon Trimble",
+   "d": "2023-03-19",
+   "v": 593,
+   "s": 303,
+   "vertical": false,
+   "desc": "Dunning & Brosamer - Telescope / Microscope: Two extended pieces exploring histories of capturing sound and music, the noise/s of playback technologies, and the cultural resonances of recorded media. \nAnalogue video synthesis visuals by Leon Trimble / Chromatouch.\nFull video here: https://www.youtube.com/watch?v=BGVEHbmqKSM\n\nTELESCOPE\nDislocated, becoming-cosmic thorough manipulation of virtual reverberant spaces, via the no-place of the studio. Reflections across time - the sounds of birdsong played back from 100-year-old shellac disks overlaid with 1970s ornithological recordings from vinyl "
+  },
+  {
+   "id": "57-S3PrZ4m0",
+   "t": "Cath Roberts & Graham Dunning - Live at TACO! 27 July 2023",
+   "d": "2023-08-14",
+   "v": 568,
+   "s": 1576,
+   "vertical": false,
+   "desc": "Cath Roberts - synth and sampler\nGraham Dunning - extended turntable, records of machine sounds, walkman, tapes of field recordings\n\n\"TACO! presents an evening of live musical performances by artists working within experimental music. Each has an approach to performance that employ self-made instruments or sound making devices in the production of their work, fusing electronic, acoustic and analogue sounds and textures, often in improvised sets.  The evening has been curated by sound artist and muscian Kate Carr.\"\n\nhttps://cathrobots.co.uk/\nhttp://grahamdunning.com\nhttps://taco.org.uk/DIY-Expe"
+  },
+  {
+   "id": "G0XdXMDs0RM",
+   "t": "Sam Underwood & Graham Dunning - Live at Galerie Paradise, June 2023",
+   "d": "2023-08-24",
+   "v": 808,
+   "s": 3693,
+   "vertical": false,
+   "desc": "Sam Underwood plays \u2022ams\u2022 (acoustic modular system).\nGraham Dunning plays extended turntable.\nPerformance of new electromechanical pieces, following a week\u2019s residency working on new collabrative recordings and performance. Residency and performance hosted by Galerie Paradise, Nantes, France. \nhttps://www.galerie-paradise.fr/\nhttps://www.mrunderwood.co.uk/\nhttps://grahamdunning.com"
+  },
+  {
+   "id": "HG8qR75R-as",
+   "t": "Mechanical Techno live at Pattern Club Sheffield 28-09-23",
+   "d": "2023-10-17",
+   "v": 7256,
+   "s": 1126,
+   "vertical": false,
+   "desc": "The first half of my live set for the Pattern Club Algorave in Sheffield in September. Here testing out some sequences with 5/4 divisions (or 10 hits per revolution), and segueing into 4/4 after a ping-pong randomisation interlude.\nThanks to Eye Measure, Heavy Lifting and Sam Underwood for the additional footage.\n---\nSheffield Pattern Club is a group of people who meet roughly monthly to explore patterns in craft, technology, music, performing arts etc. Imposters and beginners are welcome.\nhttps://patternclub.org/sheffield/"
+  },
+  {
+   "id": "r6nzKFPseaQ",
+   "t": "Dunning & Brosamer - Telescope (excerpt 2) - visuals by Leon Trimble",
+   "d": "2023-10-23",
+   "v": 335,
+   "s": 204,
+   "vertical": false,
+   "desc": "Dunning & Brosamer - Telescope / Microscope: Two extended pieces exploring histories of capturing sound and music, the noise/s of playback technologies, and the cultural resonances of recorded media. \nAnalogue video synthesis visuals by Leon Trimble / Chromatouch.\nFull video here: https://www.youtube.com/watch?v=BGVEHbmqKSM\n\nTELESCOPE\nDislocated, becoming-cosmic thorough manipulation of virtual reverberant spaces, via the no-place of the studio. Reflections across time - the sounds of birdsong played back from 100-year-old shellac disks overlaid with 1970s ornithological recordings from vinyl "
+  },
+  {
+   "id": "7y5Kh92blTE",
+   "t": "DJ Food & Graham Dunning - modified turntable duel at FogFest 2023",
+   "d": "2023-12-17",
+   "v": 3057,
+   "s": 3211,
+   "vertical": false,
+   "desc": "Debut live show for a collboration between DJ Food and Graham Dunning \u2013 modified turntable back-to-back/soundclash. Visuals by Putty Rubber & Leon Trimble. \n\nDJ Food\nQuadraphonic Turntable, locked groove records and Erica Synths Zen Delay\nhttps://www.djfood.org\n\nGraham Dunning\n'Mechanical Techno' extended turntable\nhttps://grahamdunning.com\n\nPutty Rubber \nVideo feedback \nhttps://linktr.ee/PuttyRubber\n\nLeon Trimble\nmodular video synthesis\nhttps://about.me/chromatouch\n\nFogFest II was curated by Robin the Fog and took place on 5th August 2023, at Iklectik art lab in London. Audio recorded by Isa "
+  },
+  {
+   "id": "Bak5iZnlMSQ",
+   "t": "Mechanical Techno Studio Set (with annotations)",
+   "d": "2024-03-14",
+   "v": 1418,
+   "s": 304,
+   "vertical": false,
+   "desc": "A recording of a live mixdown of a new track, made 8th March 2024. Includes annotations of some of the elements of the instrument and various actions during the recording.\nNote that I did a second pass live mixing effects: reverb on the bass synth and 909 hi-hats, delay on the squelch synth."
+  },
+  {
+   "id": "BgUUW18Iw8Q",
+   "t": "Extended Turntable developments Spring 2024",
+   "d": "2024-04-24",
+   "v": 979,
+   "s": 569,
+   "vertical": false,
+   "desc": "An collection of clips I've uploaded to instagram over the last few months, collated here with annotations explaining what's happening.\nhttps://www.instagram.com/grahamdunning/\nThese contraptions are components for use in performance and recording with the Mechanical Techno setup and various other experimental music collaborations."
+  },
+  {
+   "id": "1EfWWZHavuI",
+   "t": "Mechanical Techno - Live at Iklectik, 19 January 2024",
+   "d": "2024-04-25",
+   "v": 3051,
+   "s": 3126,
+   "vertical": false,
+   "desc": "Live set at Iklectik for their closing events at the Waterloo space.\nThanks to Isa Ferrari for the desk recording and Lia Mice, Kev Foakes and Keith de Mendonca for additional video footage."
+  },
+  {
+   "id": "lU1q1MoeF28",
+   "t": "Sam Underwood & Graham Dunning - Pest Modern +",
+   "d": "2024-08-12",
+   "v": 458,
+   "s": 197,
+   "vertical": false,
+   "desc": "Available to buy on vinyl and download now, via Accidental Editions: https://accidentalrecords.bandcamp.com/album/beaux-timbres \n\nSam plays \u2022ams\u2022 (acoustic modular system)  https://www.mrunderwood.co.uk \nGraham plays turtnable with extensions https://grahamdunning.com \nRecorded at Galerie Paradise, Nantes, France on 2nd June 2023  https://www.galerie-paradise.fr"
+  },
+  {
+   "id": "gK8xAs-u2CI",
+   "t": "Mechanical Techno Live - Entangled Sounds KM28 Berlin - 7 June 2024",
+   "d": "2024-08-30",
+   "v": 1009,
+   "s": 2081,
+   "vertical": false,
+   "desc": "Live set with the Mechanical Techno extended turntable setup.\nPerformance for Entangled Sounds series by Karin Weissenbrunner at  KM28 Berlin, 7th June 2024.\nNewest edition to the set  is the turntable-osciallator: a secondary turntable contollable by CV."
+  },
+  {
+   "id": "J4_ptAUZNLI",
+   "t": "Sam Underwood & Graham Dunning - R\u00f4tation C\u00f4smik",
+   "d": "2024-09-25",
+   "v": 909,
+   "s": 192,
+   "vertical": false,
+   "desc": "Available to buy on vinyl and download now, via Accidental Editions: https://accidentalrecords.bandcamp.com/album/beaux-timbres\n\nSam Underwood & Graham Dunning - R\u00f4tation C\u00f4smik\nSam plays \u2022ams\u2022 (acoustic modular system) https://www.mrunderwood.co.uk\nGraham plays turtnable with extensions https://grahamdunning.com\nRecorded at Galerie Paradise, Nantes, France on 2nd June 2023 https://www.galerie-paradise.fr"
+  },
+  {
+   "id": "rQNQ4FOmhKY",
+   "t": "Protoplasm Daddy - Ding Dong",
+   "d": "2024-12-19",
+   "v": 414,
+   "s": 236,
+   "vertical": false,
+   "desc": "Christmas cover song I made for the 2005 hippocamp.net Christmas compilation. \nHere with a new festive video featuring Mall Santa from the board game Dead of Winter."
+  },
+  {
+   "id": "cTZnvpYxfuM",
+   "t": "Sam Underwood & Graham Dunning - Beaux Timbres",
+   "d": "2025-01-20",
+   "v": 376,
+   "s": 218,
+   "vertical": false,
+   "desc": "Available to buy on vinyl and download now, via Accidental Editions: https://accidentalrecords.bandcamp.com/album/beaux-timbres\nSam Underwood & Graham Dunning - Ecusson\nSam plays \u2022ams\u2022 (acoustic modular system) https://www.mrunderwood.co.uk\nGraham plays turtnable with extensions https://grahamdunning.com\nRecorded at Galerie Paradise, Nantes, France on 2nd June 2023 https://www.galerie-paradise.fr"
+  },
+  {
+   "id": "-vs5hcE5rZo",
+   "t": "Sam Underwood & Graham Dunning  - Les Yeux Avides",
+   "d": "2025-01-20",
+   "v": 575,
+   "s": 259,
+   "vertical": false,
+   "desc": "Available to buy on vinyl and download now, via Accidental Editions: https://accidentalrecords.bandcamp.com/album/beaux-timbres\nSam Underwood & Graham Dunning - Les Yeux Avides\nSam plays \u2022ams\u2022 (acoustic modular system) https://www.mrunderwood.co.uk\nGraham plays turtnable with extensions https://grahamdunning.com\nRecorded at Galerie Paradise, Nantes, France on 2nd June 2023 https://www.galerie-paradise.fr"
+  },
+  {
+   "id": "EA2dcc4cOas",
+   "t": "Sam Underwood & Graham Dunning - Prix Libre",
+   "d": "2025-01-20",
+   "v": 477,
+   "s": 233,
+   "vertical": false,
+   "desc": "Available to buy on vinyl and download now, via Accidental Editions: https://accidentalrecords.bandcamp.com/album/beaux-timbres\nSam Underwood & Graham Dunning - Prix Libre\nSam plays \u2022ams\u2022 (acoustic modular system) https://www.mrunderwood.co.uk\nGraham plays turtnable with extensions https://grahamdunning.com\nRecorded at Galerie Paradise, Nantes, France on 2nd June 2023 https://www.galerie-paradise.fr"
+  },
+  {
+   "id": "hVwn-EuCaJQ",
+   "t": "Hoover and Prisms",
+   "d": "2025-03-14",
+   "v": 287,
+   "s": 357,
+   "vertical": false,
+   "desc": "Testing some stuff out in the studio, I enjoyed playing around with this for much longer than I expected. \nLight dependent resistor controlling the pitch of a Erica Synths Pico Drum with a hoover sample."
+  },
+  {
+   "id": "I8Qx5Y-tmKU",
+   "t": "Heavy Lifting vs Graham Dunning - Live at Peckham Digital Festival",
+   "d": "2025-04-16",
+   "v": 872,
+   "s": 1734,
+   "vertical": false,
+   "desc": "Live performance by Heavy Lifting (live coding) and Graham Dunning (extended turntable) for Peckham Digital Festival, 20th July 2024.\n\nThanks Lena Szenkay and Matt McDonnell for additional video footage."
+  },
+  {
+   "id": "udDtlKdxFx4",
+   "t": "Hand-cranked Penny Shover",
+   "d": "2025-06-09",
+   "v": 489,
+   "s": 190,
+   "vertical": false,
+   "desc": "A hand-cranked \"2p Machine\" or \"Penny Shover\", the type you get at the arcades or on the TV show Tipping Point. Cher themed."
+  },
+  {
+   "id": "p_XASERDMlo",
+   "t": "Writing a track from scratch with Mechanical Techno",
+   "d": "2025-06-14",
+   "v": 1335,
+   "s": 1008,
+   "vertical": false,
+   "desc": "A step-by-step description of how I made the tune \"Hexapod\" using the Mechanical Techno extended turntable system.\nListen to the full track here: https://youtu.be/7rYLkxFw1EY\n\nThe sampled record is \"Terrain\" by Graham Dunning & Colin Webster, available here: https://grahamdunning.bandcamp.com/album/terrain"
+  },
+  {
+   "id": "7rYLkxFw1EY",
+   "t": "Graham Dunning - Hexapod",
+   "d": "2025-06-14",
+   "v": 934,
+   "s": 257,
+   "vertical": false,
+   "desc": "Live mixdown of a new Mechanical Techno track, recorded on 12th June 2025. \nCheck out the full \"making of\" video at https://youtu.be/p_XASERDMlo"
+  },
+  {
+   "id": "dkHvdi8s2jU",
+   "t": "Portable Gramophone DIY Repair Job",
+   "d": "2025-07-08",
+   "v": 2322,
+   "s": 716,
+   "vertical": false,
+   "desc": "Fettling a portable gramophone back into working order. A Viva-tonal Grafonola 211 Z, to be precise.\n\nThanks to Sam for the device itself. \nAnd to RadioMuseum.org for the info: https://www.radiomuseum.org/r/columbia_viva_tonal_grafonola_211_z.html"
+  },
+  {
+   "id": "BGVEHbmqKSM",
+   "t": "Dunning & Brosamer - Telescope (visuals by Leon Trimble)",
+   "d": "2025-08-15",
+   "v": 331,
+   "s": 1287,
+   "vertical": false,
+   "desc": "Dunning & Brosamer - Telescope / Microscope: Two extended pieces exploring histories of capturing sound and music, the noise/s of playback technologies, and the cultural resonances of recorded media. \nAnalogue video synthesis visuals by Leon Trimble / Chromatouch.\n\nTELESCOPE\nDislocated, becoming-cosmic thorough manipulation of virtual reverberant spaces, via the no-place of the studio. Reflections across time - the sounds of birdsong played back from 100-year-old shellac disks overlaid with 1970s ornithological recordings from vinyl records. Electric guitar parts referencing popular music from"
+  },
+  {
+   "id": "3t_3we700UM",
+   "t": "walkman with xylophone tape: turntable rotary speaker",
+   "d": "2025-09-18",
+   "v": 1199,
+   "s": 54,
+   "vertical": true,
+   "desc": "A little clip from a recording session with Sascha Brosamer for Telescope/Microscope - https://totalsilencecologne.bandcamp.com/album/telescope-microscope\n\nI recorded some sounds from a battered xylophone left in the corridor of the studios, (thinking about Julius Eastman's Feminine at the time) direct into the mic on the walkman dictaphone. Playing it back spinning on the turntable, we recorded it with a stereo pair of mics. This sound can be heard at the start of the piece Telescope. I also did another take on the second pass, playing with the tape controls to change pitch etc."
+  },
+  {
+   "id": "cmEtnSQPAQ0",
+   "t": "Graham Dunning - Corruption",
+   "d": "2025-11-12",
+   "v": 1526,
+   "s": 367,
+   "vertical": false,
+   "desc": "Live mixdown of a new Mechanical Techno track, a quick studio jam before a gig with DJ Food for Simple Things festival in Bristol."
+  },
+  {
+   "id": "rkyfG9pVi6w",
+   "t": "Graham Dunning - Live at Sheffield Crucible, November 2024",
+   "d": "2025-12-10",
+   "v": 2432,
+   "s": 2678,
+   "vertical": false,
+   "desc": "Live set for extended turntable. Performed at Sheffield Crucible Tanya Moiseiwitsch Playhouse for Music in the Round, 30th November 2024."
+  },
+  {
+   "id": "sBhGbHVQYvI",
+   "t": "Mechanical Techno 6.1 Technical Developments (PhD documentation)",
+   "d": "2026-03-30",
+   "v": 28104,
+   "s": 1705,
+   "vertical": false,
+   "desc": "Technical video to accompany my PhD thesis: Mechanical Techno: extended turntable as live assemblage, completed between September 2022 and December 2025 at London South Bank University.\nFull thesis and other media available at http://grahamdunning.com/phd\n\nAn album recorded using these methods and devices released on 2/4/26: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "mCk_4JB-Li8",
+   "t": "Mechanical Techno Live - Iklectik Peckham Levels - 7 March 2026",
+   "d": "2026-04-06",
+   "v": 2621,
+   "s": 3053,
+   "vertical": false,
+   "desc": "Live set with the Mechanical Techno setup. First time using two decks and mixing between them. The electric kalimba plucked tines instrument was also new."
+  },
+  {
+   "id": "-VNdfCHRsV8",
+   "t": "slow turntable shellac noise",
+   "d": "2026-04-08",
+   "v": 565,
+   "s": 29,
+   "vertical": false,
+   "desc": "Very slow turntable playing a shellac record to generate textural noise. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "MLsZaRwGNoo",
+   "t": "turntable sequencer: ball-bearing pattern repeated four times",
+   "d": "2026-04-09",
+   "v": 1918,
+   "s": 107,
+   "vertical": false,
+   "desc": "A pattern of ball-bearings activating switches, triggering a MIDI device to play back sounds. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "GM4drb8wL-0",
+   "t": "turntable sequencer: ball-bearings - 16th note triplets to MIDI drum machine",
+   "d": "2026-04-10",
+   "v": 5791,
+   "s": 43,
+   "vertical": false,
+   "desc": "Ball-bearing pattern using 16th note triplets. The ball-bearings activate switches which play a TR-8 drum machine via MIDI.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "zK4joCyACJ8",
+   "t": "turntable sequencer: ball-bearings to drum machine via MIDI",
+   "d": "2026-04-11",
+   "v": 2304,
+   "s": 188,
+   "vertical": false,
+   "desc": "The ball-bearings activate switches which play a TR-8 drum machine via MIDI. The controls on the MIDI device select upper and lower note values. The device then selects available outputs via an even distribution. Changing the values retains the rhythm pattern but changes the output sounds. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these met"
+  },
+  {
+   "id": "MAFeU6usCTE",
+   "t": "turntable sequencer: ball bearings, MIDI string synth, analogue filters",
+   "d": "2026-04-12",
+   "v": 1611,
+   "s": 55,
+   "vertical": false,
+   "desc": "Ball-bearing pattern using 16th notes, playing chords as the switch array is polyphonic. The ball-bearings activate switches which play a Waldorf Streichfett string synth via MIDI. The device also sends analogue CV triggers for each new note: these are used via an envelope generator to filter the output in stereo.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album "
+  },
+  {
+   "id": "TObyAVKi3cE",
+   "t": "Turntable sequencer: geared patterns driven from the turntable",
+   "d": "2026-04-13",
+   "v": 491,
+   "s": 106,
+   "vertical": false,
+   "desc": "Three different patterns driven via gears from the main turntable. The main turntable plays beats via drum triggers and a peg record. The second platter turns at 1:2, playing chords via MIDI on a string synth (note how one of the arc segments slips towards the end of the clip, changing the pattern). The third platter runs at 2:3 playing a bassline with ball-bearings triggering a monosynth via CV. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: "
+  },
+  {
+   "id": "k7gTMadymJE",
+   "t": "Turntable sequencer: geared Lego discs. string synth phasing pattern",
+   "d": "2026-04-14",
+   "v": 866,
+   "s": 92,
+   "vertical": false,
+   "desc": "Two Lego discs each playing part of a sequence. The smaller platter (playing bass notes) runs twice the speed of the larger one (playing top notes). Switches are processed to send MIDI data to a Waldorf Streichfett string synth. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/que"
+  },
+  {
+   "id": "6Lt7eGqYuB8",
+   "t": "turntable sequencer: geared wheels - ball bearings phasing pattern",
+   "d": "2026-04-15",
+   "v": 345,
+   "s": 83,
+   "vertical": false,
+   "desc": "Ball-bearing patterns playing two phasing sequences. Switches converted to MIDI to play a polyphonic string synth.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "fKeEe08rAIE",
+   "t": "Turntable sequencer: Lego bricks as drum triggers",
+   "d": "2026-04-16",
+   "v": 1228,
+   "s": 34,
+   "vertical": false,
+   "desc": "Pattern disc using Lego bricks for drum triggers. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "-0TDQt4dnGI",
+   "t": "Turntable sequencer: Lego bricks, acid 303 bassline",
+   "d": "2026-04-17",
+   "v": 5901,
+   "s": 72,
+   "vertical": false,
+   "desc": "Lego bricks triggering a switch array, playing a monosynth via a DIY eurorack module.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "HxgWSXk2PT8",
+   "t": "turntable sequencer: optical sensor stereo filter",
+   "d": "2026-04-18",
+   "v": 1029,
+   "s": 35,
+   "vertical": false,
+   "desc": "Each eyeball contains a light dependent resistor. The reflecting and refracting light patterns created by the rotating prisms create fluctuating values of resistance from each sensor. This is converted to a control voltage and used to modulate a filter for each stereo channel.  \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and dev"
+  },
+  {
+   "id": "dTcWFb9Ofo4",
+   "t": "turntable sequencer: magnets and springs monosynth pattern",
+   "d": "2026-04-19",
+   "v": 2395,
+   "s": 94,
+   "vertical": false,
+   "desc": "Springs connected by the rotating magnets send varying values of resistance. These are converted to control voltage to affect the pitch and on/off values of a monophonic analogue synthesizer. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "x31B_-XUbnw",
+   "t": "turntable sequencer:  monosynth squawk with stones",
+   "d": "2026-04-20",
+   "v": 5948,
+   "s": 177,
+   "vertical": false,
+   "desc": "Stones playing a sequence of notes on a mono-synth. Varying resistance output by the switch array is processed into control voltage for pitch and on/off signals.  The unreliable contacts of the switch array cause plunges and peaks in pitch and an unusual squawking sound.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: ht"
+  },
+  {
+   "id": "WeOj_NR0VVM",
+   "t": "turntable sequencer: optical synth trigger with mechanical track changer",
+   "d": "2026-04-21",
+   "v": 2118,
+   "s": 42,
+   "vertical": false,
+   "desc": "Optical reflection sensor sends gate patterns to mono synth. Grooved wheel with dwell changes position of sensor arm via a coupling.\nOptical reflection sensor made by Tom Richards: https://trsound.bandcamp.com/\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "hN5LobaNzZY",
+   "t": "turntable sequencer: peg disc 10 beat drum pattern",
+   "d": "2026-04-22",
+   "v": 788,
+   "s": 61,
+   "vertical": false,
+   "desc": "Peg disc pattern playing a beat with ten beats per cycle, via drum triggers.\nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these methods and devices: https://grahamdunning.bandcamp.com/album/quern"
+  },
+  {
+   "id": "o7qcJFEIm-M",
+   "t": "turntable sequencer: prime number ball-bearings disc, wonky 808 beat",
+   "d": "2026-04-23",
+   "v": 1231,
+   "s": 41,
+   "vertical": false,
+   "desc": "Ball-bearing pattern playing 808 drum machine sounds via MIDI. The holes on the disc are in concentric rings, each with prime numbers of divisions. As such, perfect alignment is not possible across \"tracks\" and perfectly equal divisions (eg, of 4/8/16) are not possible. This encourages a slightly off-grid, wonky rhythm pattern. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.co"
+  },
+  {
+   "id": "KzgJjbNpC1U",
+   "t": "Turntable sequencer: worm gear small percussion (long version)",
+   "d": "2026-04-24",
+   "v": 830,
+   "s": 129,
+   "vertical": false,
+   "desc": "Worm gear record playing small percussion, with a mechanical beater also playing the smaller drum in the foreground once per cycle. The drum on the left is hit four times every nine cycles. The one on the right, three times every seven cycles. As such the sequence repeats very infrequently. \nThis is a longer version of a section from my video of technical developments as part of my recently completed PhD, \"Mechanical Techno: extended turntable as live assemblage.\" \nFull technical video: https://youtu.be/sBhGbHVQYvI\nThesis and media: http://grahamdunning.com/PhD\nAn album recorded using these me"
+  },
+  {
+   "id": "zK6-6ADHM4w",
+   "t": "Mammoth Beat Organ - performance rehearsal - November 2023",
+   "d": "2026-04-25",
+   "v": 306,
+   "s": 2701,
+   "vertical": false,
+   "desc": "Running through our live set prior to the performance at the Birley in Preston, 18 November 2023."
+  },
+  {
+   "id": "DPGtuTV35z8",
+   "t": "Graham Dunning -  Drone Cycle (Live at Paradise, Nantes, 2017)",
+   "d": "2026-04-28",
+   "v": 437,
+   "s": 1640,
+   "vertical": false,
+   "desc": "Performance at Galerie Paradise, Nantes, 12 May 2017, as part of an artist residency at the space.\nThe shape of the piece is determined by continuously cycling the table, adjusting each of several continuous processes in turn. As such the physical assemblage of the system is also the score which determines the output. Layers of out-of-phase loops from analogue, digital and virtual sound sources:\nLooping field recording dubplates, walkman with synth drones, analogue synthesizer, laptop running TidalCycles live coding program, analogue modelling digital drum synth triggered by rotating stones (p"
+  },
+  {
+   "id": "udWyItNgVW8",
+   "t": "Leafcutter John - Warm Grit (preview)",
+   "d": "2026-09-14",
+   "v": 467,
+   "s": 43,
+   "vertical": true,
+   "desc": "A behind the scenes clip from the new album \"Warm Grit\" by Leafcutter John.\nReleases 30 September 2026, cassette and download, via Fractal Meat Cuts.\n\nLabel: https://fractalmeat.bandcamp.com/album/warm-grit\nArtist: https://leafcutterjohn.bandcamp.com/album/warm-grit"
+  },
+  {
+   "id": "lBM1Rz2cmbg",
+   "t": "Remixing with Mechanical Techno: Sulu & Excelsior - Nada Man (Graham Dunning remix)",
+   "d": "2026-11-14",
+   "v": 726,
+   "s": 501,
+   "vertical": false,
+   "desc": "How I put together the remix for \"Nada Man\" by Sulu & Excelsior, using the Mechanical Techno turntable sequencer setup.\n10th anniversary remix album: https://suluandexcelsior.bandcamp.com/album/eddie-re-romero-vol-1\nOriginal album: https://suluandexcelsior.bandcamp.com/album/eddie-romero"
+  }
+ ]
+}

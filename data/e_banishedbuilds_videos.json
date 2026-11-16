@@ -1,0 +1,1386 @@
+{
+ "channel": {
+  "id": "UCFO992diSYcnon8D-3Pmr-Q",
+  "title": "Banished Builds",
+  "handle": "@banishedbuilds",
+  "description": "",
+  "since": "2013-06-02",
+  "avatar": "https://yt3.ggpht.com/T8LH99N6O1vxRz2uqVx3SDQHnmvmg3dJu6jtrf0nHDI0vHUqHzW6jwnTDYs2myBL-9gXx7MM_g=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1459085",
+  "subscriberCount": "12000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "151"
+ },
+ "videos": [
+  {
+   "id": "FHU6rwBneng",
+   "t": "LED chipped paint effect tutorial",
+   "d": "2022-05-15",
+   "v": 409,
+   "s": 666,
+   "vertical": false,
+   "desc": "This video is a tutorial on how to add LEDs and a chipped paint look to a project, giving two very cool effects at once. This example is done on the right shoulder of my Mark IV MJOLNIR armor.\nSorry in advance for the bad quality, first time making a tutorial video."
+  },
+  {
+   "id": "nl46uv3Z_dg",
+   "t": "working on my new Peacekeeper from Apex Legends for my Mirage cosplay",
+   "d": "2022-08-05",
+   "v": 1500,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-zAfL6-rhxg",
+   "t": "made my texture coat for my #marvel #apex crossover Peacekeeper to go with my Mirage #cosplay",
+   "d": "2022-09-16",
+   "v": 245,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-pUqzOEPHfE",
+   "t": "I made the shield cell from Apex into a portable Bluetooth speaker to go with my Mirage cosplay",
+   "d": "2022-09-16",
+   "v": 337,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "s1zOQIAiQNU",
+   "t": "finished my Carnage Peacekeeper. build video will be posted in the next couple of weeks",
+   "d": "2022-09-30",
+   "v": 2038,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3pCitPn3Vac",
+   "t": "Wore my Mirage cosplay to VA ComicCon last weekend. #apexlegends #apex #cosplay #3dprinting #marvel",
+   "d": "2022-11-22",
+   "v": 4212,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7KaKKkFnDWI",
+   "t": "Building my Carnage Peacekeeper, Part 1",
+   "d": "2022-12-04",
+   "v": 5245,
+   "s": 504,
+   "vertical": false,
+   "desc": "In this video, I show how I built a Carnage themed Peacekeeper using 3D printing, painting, and other skills.\nThis is part 1 of 2 and explains how I made the base and some of the light system\n\nCults3D Files: https://cults3d.com/@Banished_Builds"
+  },
+  {
+   "id": "oCjUe1OYaZQ",
+   "t": "made Wraiths Heirloom with translucent blade. #apexlegends #apex #3dprinting #cosplay",
+   "d": "2022-12-06",
+   "v": 2441,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tJQoMmIrw9Y",
+   "t": "#apexlegends #cosplay #3dprinting #apex #fyp",
+   "d": "2022-12-07",
+   "v": 2641,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "k_jezSXjmbk",
+   "t": "throwback to testing my Holo Panels almost a year ago \ud83d\ude01 #apexlegends #apex #cosplay #3dprinting",
+   "d": "2022-12-09",
+   "v": 1073,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "j2X6LFnd2ac",
+   "t": "tests seem to be going well so far! #apex #apexlegends #cosplay #3dprinting #electronic #cosplay",
+   "d": "2022-12-16",
+   "v": 2924,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "r9L1_anXbfo",
+   "t": "these Jets are coming together nicely! #cosplay #apex #apexlegends #3dprinting #fyp #electronic #diy",
+   "d": "2023-01-04",
+   "v": 1547,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HOfxaYzT2Vs",
+   "t": "I'm really happy with how these are coming together!   #cosplay #3dprinting #apex #apexlegends #fyp",
+   "d": "2023-01-06",
+   "v": 1667,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "U6kFPxXhWKQ",
+   "t": "working right up to the wire before #katsucon #apex #cosplay #studioghibli #3dprinting #diy",
+   "d": "2023-02-06",
+   "v": 670,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "L-7GOYi2mKg",
+   "t": "prepping for #katsucon and finishing up my #apexlegends #mirage Jump Jets soon. #cosplay",
+   "d": "2023-02-14",
+   "v": 2871,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5yEFEAHAUYg",
+   "t": "Mirage ran into trouble at #katsucon. #apexlegends #ironman #cosplay #3dprinting",
+   "d": "2023-02-19",
+   "v": 6464,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZNDwLNrus8U",
+   "t": "testing the new jet and lighting system at #katsucon as #mirage      #Apex #apexlegends #cosplay",
+   "d": "2023-02-19",
+   "v": 2989,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FVxMfZ0PeOM",
+   "t": "Airsoft/Apex Legends anyone? #apexlegends #apex #3dprinting #airsoft",
+   "d": "2023-03-03",
+   "v": 1056,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ngrucndkafs",
+   "t": "I made an RE-45 inspired upper for an airsoft pistol! #apexlegends #apex #3dprinting #airsoft",
+   "d": "2023-03-04",
+   "v": 1070,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "13E6KK6gsrU",
+   "t": "#apexlegends #3dprinting #apex #cosplay #airsoft #diy",
+   "d": "2023-03-05",
+   "v": 837,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5Lhhaklk8RI",
+   "t": "Airsoft RE-45 built in under 24 hours!   Bringing Apex Legends to life",
+   "d": "2023-03-19",
+   "v": 5467,
+   "s": 1709,
+   "vertical": false,
+   "desc": "I wanted to push myself to finish a project I've been putting off in under 24 hours. Let's try to turn an AAP-01 into an RE-45!\n\n\n#apexlegends #3dprinting #airsoft #cosplay"
+  },
+  {
+   "id": "ktN7xvP-3Wg",
+   "t": "airsoft Apex guns? yes please! #apexlegends #3dprinting #cosplay #airsoft #apex",
+   "d": "2023-04-10",
+   "v": 629,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Dm6CGlPX91o",
+   "t": "Shooting an Airsoft Sentinel from Apex Legends! #apexlegends #3dprinting #airsoft #apex #art #follow",
+   "d": "2023-04-12",
+   "v": 981,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3Bgn-13NcZY",
+   "t": "testing for a new #Halo project! #3dprinting #rocket #prop",
+   "d": "2023-04-16",
+   "v": 5620,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "2SznzobdJJ0",
+   "t": "testing model rocket engines... #halo #cosplay #3dprinting #prop #maker",
+   "d": "2023-04-16",
+   "v": 762,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pt3w0zHzBC0",
+   "t": "Sentinel made for Airsoft!   Bringing Apex Legends to life",
+   "d": "2023-04-23",
+   "v": 7902,
+   "s": 226,
+   "vertical": false,
+   "desc": "I turned one of my favorite guns, the Sentinel, from Apex Legends into an Airsoft gun!\n\nCults3D Files: https://cults3d.com/@Banished_Builds\n\nBase gun is the BBTac M62\nShooting .4 gram BBs"
+  },
+  {
+   "id": "cPQ5F4yfX98",
+   "t": "Can't wait to make metal #avatarthelastairbender / #mandalorian armor for our Sokka and Suki Mandos!",
+   "d": "2023-04-24",
+   "v": 1646,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "laqgEdeRWA4",
+   "t": "starting another \"Bringing Apex Legends to life\" project! #apexlegends #3dprinting #apex #cosplay",
+   "d": "2023-04-26",
+   "v": 782,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Iu8LfpylWY8",
+   "t": "Caustic Ult video should be posted this weekend! #apexlegends #3dprinting #apex #cosplay",
+   "d": "2023-04-27",
+   "v": 1530,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "w1i4z24Dank",
+   "t": "Basics of the Caustic Ult smoke effect! #apexlegends #3dprinting #apex #prop",
+   "d": "2023-04-27",
+   "v": 2828,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xNXeyufxc08",
+   "t": "working on another \"Bring Apex Legends to life\" video. #apexlegends #apex #3dprinting #cosplay #prop",
+   "d": "2023-04-27",
+   "v": 480,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "M6oC3xoTliA",
+   "t": "more testing for the Hydra and Bang tactical. #halo #engineering #3dprinting #apexlegends #apex",
+   "d": "2023-04-28",
+   "v": 1870,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "it7CzPsi6NI",
+   "t": "Caustic's Gas Grenade with real smoke!   Bringing Apex Legends to life",
+   "d": "2023-04-30",
+   "v": 6906,
+   "s": 443,
+   "vertical": false,
+   "desc": "In this video, we replicate Caustic's Ultimate, the gas grenade! (without the death part)\n\nCults3D Files: https://cults3d.com/@Banished_Builds"
+  },
+  {
+   "id": "_Uj6VaIDiU8",
+   "t": "This #Caustic grenade from #apexlegends turned out amazing! #apex #3dprinting #cosplay #gaming",
+   "d": "2023-05-01",
+   "v": 1846,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XqL4BejjtL0",
+   "t": "The best space Sword! #Atla #avatarthelastairbender #mandalorian #starwars #cosplay #3dprinting",
+   "d": "2023-05-01",
+   "v": 1771,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6ysmgOnDoO8",
+   "t": "back to my Mark IV Spartan armor! #3dprinting #cosplay #halo #haloinfinite #halowars",
+   "d": "2023-05-01",
+   "v": 4207,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "01dnDYBZYs4",
+   "t": "The Caustic Ult video is out now! #3dprinting #apexlegends #apex #cosplay #prop #art #caustic",
+   "d": "2023-05-01",
+   "v": 682,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OcLDpfFDbaY",
+   "t": "Apex Legends is slowly becoming possible in real life! #apexlegends #3dprinting #apex #airsoft",
+   "d": "2023-05-02",
+   "v": 7901,
+   "s": 25,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "bYlQdZWQHbQ",
+   "t": "#mandalorian #sokka armor is coming together slowly. #3dprinting #starwars #cosplay #props",
+   "d": "2023-05-03",
+   "v": 539,
+   "s": 25,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "CNQZ2yz5D9w",
+   "t": "May not recharge my shields, but it'll recharge team morale! #apexlegends #apex #3dprinting #cosplay",
+   "d": "2023-05-05",
+   "v": 1606,
+   "s": 32,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PIw6amkdhFc",
+   "t": "working on the #bangalore tactical from #apexlegends    #apex #3dprinting #prop",
+   "d": "2023-05-06",
+   "v": 1562,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IU8wS7ZsiDc",
+   "t": "Not sketchy at all... \ud83d\ude05 #apexlegends #apex #3dprinting #prop #bangalore #art",
+   "d": "2023-05-07",
+   "v": 2050,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "c-2Oyzt0VjE",
+   "t": "bringing #apexlegends to life one revision at a time... #Apex #prop #3dprinting #cosplay",
+   "d": "2023-05-07",
+   "v": 1712,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YRuy5QSTYUU",
+   "t": "short update on the Bangalore smoke launcher. #apexlegends #apex #3dprinting #cosplay #engineering",
+   "d": "2023-05-10",
+   "v": 2192,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "N_jJIn-vmdE",
+   "t": "working on the Functional 22lr R-301! #apexlegends #apex #3dprinting #pewpew #gaming #guns #shooting",
+   "d": "2023-05-15",
+   "v": 1812,
+   "s": 48,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1VAltSLOFvw",
+   "t": "Working on the R-301 a bit! #3dprinting #apex #apexlegends #cosplay #pewpew",
+   "d": "2023-05-18",
+   "v": 3539,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yBDSBSRufuo",
+   "t": "Functional R-301!   Bringing Apex Legends to life",
+   "d": "2023-05-29",
+   "v": 539553,
+   "s": 677,
+   "vertical": false,
+   "desc": "I made a functional R-301 replica inspired by Apex Legends!\n\nCults3D Files: https://cults3d.com/@Banished_Builds"
+  },
+  {
+   "id": "wbBJysF7Yxc",
+   "t": "I made a real R-301! #apexlegends #apex #3dprinting #cosplay #pewpew #pew #gun #cosplay",
+   "d": "2023-05-29",
+   "v": 12110,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sIA7wlOMOts",
+   "t": "I made a WORKING R-301! #apex #apexlegends",
+   "d": "2023-05-31",
+   "v": 8939,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "h9qTr9C5DkI",
+   "t": "First look at the #bambulab #p1p expansion board!  #3dprinting",
+   "d": "2023-06-10",
+   "v": 1760,
+   "s": 49,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5zcrMEJOvsg",
+   "t": "The Working R-301: a review video",
+   "d": "2023-06-11",
+   "v": 4661,
+   "s": 370,
+   "vertical": false,
+   "desc": "In this video we'll be talking about the project from my last video and discussing the future of the channel. The R-301 video blew up more than I would have ever guessed and I'm so thankful for the growth on the channel!\n\nCults3D Files: https://cults3d.com/@Banished_Builds"
+  },
+  {
+   "id": "9OPm5-yZDvw",
+   "t": "Shedding a little more light on the R-301 paint job!     #apex #apexlegends #cosplay",
+   "d": "2023-06-18",
+   "v": 5620,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8CIaw8zsrQY",
+   "t": "Making my 2nd Mirage (from Apex Legends) cosplay: Episode 1",
+   "d": "2023-06-19",
+   "v": 1422,
+   "s": 303,
+   "vertical": false,
+   "desc": "starting a new series for making version 2 of my Mirage cosplay from Apex Legends. this episode will go over the plans for the new costume and problems with the old costume!"
+  },
+  {
+   "id": "c7I3tgF0lCQ",
+   "t": "last year I made my original Mirage cosplay. now I'm starting version 2! #apexlegends #apex #cosplay",
+   "d": "2023-06-19",
+   "v": 2486,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aGS6hEzojOU",
+   "t": "it had to be the expensive filament... #3dprinting #cosplay #bambulab #3dprinter #3dprint",
+   "d": "2023-07-04",
+   "v": 1533,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Q8SW1VUb5tg",
+   "t": "Picked up the 12 gauge Citadel Warthog for the Mastiff project! #apex #apexlegends #pew #gun",
+   "d": "2023-07-13",
+   "v": 4210,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Z8dD1zdoHv4",
+   "t": "Putting some rounds through the R-301 again. #apex #apexlegends",
+   "d": "2023-07-17",
+   "v": 4224,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PuMDeviyd5I",
+   "t": "prepping for Galaxycon Raleigh this weekend! #apex #apexlegends #cosplay #3dprinting",
+   "d": "2023-07-25",
+   "v": 927,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KpBZ7oLQyHM",
+   "t": "Best filament for the P1P?   #Epax3D #3dprinting #bambulab #p1p",
+   "d": "2023-08-06",
+   "v": 1116,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8ENAtJx25l0",
+   "t": "This mag is huge \ud83e\udee0    #apexlegends #apex #paintball #magfedpaintball",
+   "d": "2023-08-13",
+   "v": 2225,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0Om5YQCfcks",
+   "t": "This Kraber is gonna be CHONKY! #apex #apexlegends #3dprinting #paintball #cosplay",
+   "d": "2023-08-16",
+   "v": 2040,
+   "s": 41,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gzHM4mJOZy0",
+   "t": "@MrGhostToast received his V2 Holo-panels and is looking \ud83d\udd25\ud83d\udd25\ud83d\udd25    #apexlegends #apex #cosplay",
+   "d": "2023-08-25",
+   "v": 2191,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "InopyXIqB0o",
+   "t": "This Paintball Kraber is gonna be a huge project! \ud83e\udee0       #apex #apexlegends #3dprinting #paintball",
+   "d": "2023-09-04",
+   "v": 3735,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EZTt8r4cAF0",
+   "t": "This Paintball Kraber is HUGE and I can't wait to use it! #apexlegends #apex #3dprinting #paintball",
+   "d": "2023-09-30",
+   "v": 2100,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "2EkLvUlaIuY",
+   "t": "another Paintball Kraber update!   #apexlegends #apex #titanfall2 #3dprinting #cosplay #paintball",
+   "d": "2023-10-01",
+   "v": 1930,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vYFwX5whAqM",
+   "t": "The #paintball Kraber is looking good so far! #3dprinting #apexlegends #apex #cosplay #titanfall2",
+   "d": "2023-10-28",
+   "v": 2359,
+   "s": 52,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "VxfWYGL5NlU",
+   "t": "shooting the paintball Kraber at 55 yards!   #apex #paintball #titanfall2 #3dprinting #cosplay",
+   "d": "2023-11-02",
+   "v": 1910,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "s3Vp9n1OddQ",
+   "t": "Elegoo Neptune 4 Max honest review",
+   "d": "2023-11-06",
+   "v": 20451,
+   "s": 487,
+   "vertical": false,
+   "desc": "I have very mixed feelings about the Elegoo Neptune 4 Max. This printer was bought with my own money and is not a paid promotion. sorry if it's not my highest quality video but I tried to make this between a few other projects!"
+  },
+  {
+   "id": "Hc2vVjLKZnc",
+   "t": "Paintball Kraber is working well! #3dprinting #apex #apexlegends #titanfall #titanfall2 #paintball",
+   "d": "2023-11-10",
+   "v": 4477,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sZivnabV2cE",
+   "t": "time for another Sentinel! #apex #apexlegends #3dprinting #airsoft",
+   "d": "2023-12-05",
+   "v": 1442,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5HirnRkHGQY",
+   "t": "working on Rev's Heirloom! #apex #apexlegends #3dprinting #cosplay",
+   "d": "2023-12-09",
+   "v": 1154,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Czp--k7YJF0",
+   "t": "Designing a full scale Paintball Kraber! | Bringing Apex Legends to life!",
+   "d": "2023-12-19",
+   "v": 6833,
+   "s": 1676,
+   "vertical": false,
+   "desc": "In this video I designed and built a 1:1 scale paintball Kraber from Titanfall/Apex Legends!\nI tried to step up my editing so please let me know what you guys think in the comments!\n\n#apex #apexlegends #apexlegendsfanart #Titanfall #Titanfall2 #paintball #gaming #cosplay"
+  },
+  {
+   "id": "lTx_XMzQPmA",
+   "t": "So excited to finally start the next stage of this project! #apex #apexlegends #paintball #3dprint",
+   "d": "2023-12-27",
+   "v": 2072,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uXX9TM7RSO0",
+   "t": "My best #Apex project of 2023 and many more #ApexLegends projects coming in 2024!",
+   "d": "2024-01-11",
+   "v": 3312,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PFNOYzRxj-M",
+   "t": "This thing turned out amazing! my 1:1 Scale paintball Kraber from #apex  #apexlegends #titanfall2",
+   "d": "2024-01-19",
+   "v": 2785,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xwn7XwmsC1Y",
+   "t": "What am I doing with my life? \ud83d\ude02    #apexlegends #apex #apexlegendsclips",
+   "d": "2024-01-27",
+   "v": 1652,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZvfmzsmUH8I",
+   "t": "Banished Builds Live Stream",
+   "d": "2024-02-10",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "nnp1wBHdJIM",
+   "t": "This enemy player was actually excited to see me! #paintball #apex #apexlegends",
+   "d": "2024-03-07",
+   "v": 3875,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4HsVR_jAp5w",
+   "t": "Work on my Mark IV MJOLNIR armor has begun!   #halo #haloinfinite #3dprinting #3dprint #cosplay",
+   "d": "2024-03-10",
+   "v": 2813,
+   "s": 51,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0HaYNoYZ_8M",
+   "t": "how I painted my Paintball Kraber | Bringing Apex Legends to Life",
+   "d": "2024-03-30",
+   "v": 1702,
+   "s": 603,
+   "vertical": false,
+   "desc": "In this video we're gonna make my 3D printed paintball Kraber look like the real thing from Apex Legends!\n\nReprinted with Zyltech PLA+, linked here:\nhttps://www.zyltech.com/glossy-black-pla-plus-original-black-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?aff=133\n\nUse \"Banished5Off\" for 5% of your order!\n\nThe Scope I like to use: https://link.amazon/B02xkSYUS"
+  },
+  {
+   "id": "m7D5n6qzsfY",
+   "t": "my Real G7 Scout is finished but not up to par, so round 2 begins! #apexlegends #apex #pewpew",
+   "d": "2024-04-25",
+   "v": 1941,
+   "s": 55,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "kRk03YblejA",
+   "t": "Jerome has joined the Banished \ud83d\udc40 #Halo #haloinfinite #haloreach #cosplay",
+   "d": "2024-05-16",
+   "v": 1669,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FKByPr2y-Ks",
+   "t": "Are my props oversized? #apex #apexlegends #airsoft #cosplay #titanfall2 #cosplay",
+   "d": "2024-06-13",
+   "v": 9412,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "C1ppdfPUiLs",
+   "t": "a beautiful gun like the G7 Scout needs a beautiful case!  #apex #apexlegends #titanfall2 #titanfall",
+   "d": "2024-07-02",
+   "v": 15241,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G6ZGdVB2Em4",
+   "t": "lets make a custom G7 Scout gun case! #apex #apexlegends #titanfall #painting",
+   "d": "2024-07-07",
+   "v": 10782,
+   "s": 57,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nnDk3M0hDw0",
+   "t": "I ran my G7 Scout build at a run and gun event. #apexlegends #apex #apexlegendsclips",
+   "d": "2024-10-06",
+   "v": 2364,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ulBbepV58wE",
+   "t": "The real life G7 Scout from Apex Legends!",
+   "d": "2024-12-03",
+   "v": 49300,
+   "s": 839,
+   "vertical": false,
+   "desc": "In this video, I share with you the G7 Scout build!\n\nThe G7 Scout has been one of my favorite weapons in Apex Legends since launch and I'm so happy to share the real G7 with you all.\n\nYou can support these projects through my Patreon: patreon.com/Banished_Builds\n\nSteel Targets: https://link.amazon/B0bFaqPOX\nSteel Target Stand: https://link.amazon/B0hOH0845\nGun Case: https://link.amazon/B07y4oBLS\n\n\n\n\n#apex #apexlegends #apexlegendsclips #gaming #fps #Titanfall #Titanfall2"
+  },
+  {
+   "id": "4mhMBvg3stQ",
+   "t": "Shooting my G7 Scout chambered in .308! Filmed on a private range #apex #apexlegends #titanfall",
+   "d": "2024-12-12",
+   "v": 1092,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_gcujQkBy5k",
+   "t": "Time to bring Helldivers 2 to the paintball field with the Diligence Counter Sniper!   #helldivers2",
+   "d": "2025-02-23",
+   "v": 7497,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "QTkDnmCwEbg",
+   "t": "I forgot to share this here. Wraith's prestige helmet I made for a friend. #apexlegends #apex",
+   "d": "2025-02-27",
+   "v": 895,
+   "s": 5,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IBJwY0zM3YY",
+   "t": "Using the Paintball Kraber, The Worlds Largest Paintball Sniper | Bringing Apex Legends to life",
+   "d": "2025-03-14",
+   "v": 1775,
+   "s": 554,
+   "vertical": false,
+   "desc": "I brought my Kraber from Apex Legends to \"The Collapse 4\" held at OXCC. Here's how it went...\n\nScope I use: https://link.amazon/B02xkSYUS\n\n\n\n\n#apex #apexlegends #apexlegendsfanart #Titanfall #Titanfall2 #paintball #gaming #cosplay #fps #fpsgames"
+  },
+  {
+   "id": "_TCbwYxL1ls",
+   "t": "Helldivers content incoming thanks to @Polymaker    #helldivers2 #helldivers #3dprinting #cosplay",
+   "d": "2025-03-19",
+   "v": 975,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FxBwEKJ9hFQ",
+   "t": "Answering one of my most annoying comments about my #apexlegends builds. #apex #titanfall #gaming",
+   "d": "2025-06-03",
+   "v": 2592,
+   "s": 41,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "S9suTPCxLL4",
+   "t": "I want to answer your firearm questions!",
+   "d": "2025-06-19",
+   "v": 1809,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9tu17HNVRGA",
+   "t": "PETG support interfaces with PLA+ for 3D printing! #3dprinting #3dprinter #3dprint",
+   "d": "2025-06-26",
+   "v": 2718,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9uyCbi6mv6Y",
+   "t": "starting to plan out the Havoc again while working on the Auto-cannon #3dprint #apex #apexlegends",
+   "d": "2025-07-30",
+   "v": 2182,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PZGhmjPNvEY",
+   "t": "Make sure to try out season 26 of #apexlegends today! #apex #gaming #gamingvideos #gamingcommunity",
+   "d": "2025-08-06",
+   "v": 1196,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hD7bgKDkIts",
+   "t": "The WORST thing to see at the paintball field \u2620\ufe0f #apex #apexlegends #paintball #funny #funnyshorts",
+   "d": "2025-09-01",
+   "v": 2180,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Hv_joA9DLIw",
+   "t": "My one of a kind paintball marker, the underbarrel fed! #paintball #paintballgun #paintball4life",
+   "d": "2025-09-13",
+   "v": 1356,
+   "s": 181,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "QvsenugZFhk",
+   "t": "Let's talk about what 3D printers I've been using! #3dprint #3dprinting #printmaking #cosplay",
+   "d": "2025-10-01",
+   "v": 1745,
+   "s": 106,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nnL1jxHJkqI",
+   "t": "Carbon Fiber has been my go-to lately for reinforcement! #cosplay #cosplayer #3dprinting #3dprint",
+   "d": "2025-10-09",
+   "v": 251,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "qEj2qdvntjY",
+   "t": "idea for an easy Damascus paint finish on metal parts?  #cosplay #3dprint #3dprinting #prop",
+   "d": "2025-11-16",
+   "v": 1589,
+   "s": 97,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "t7rHmxnGyns",
+   "t": "The Elegoo Centauri Carbon, my number one recommendation! #3dprint #3dprinting #3Dprinter",
+   "d": "2025-11-26",
+   "v": 1669,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "q6KSxXXnNuY",
+   "t": "The Elegoo Centauri Carbon: The Best 3D printer for beginners on a budget!",
+   "d": "2025-11-26",
+   "v": 1184,
+   "s": 532,
+   "vertical": false,
+   "desc": "I've absolutely loved the Elegoo Centauri Carbon 3D printer so far, and wanted to give my thoughts for beginner users.\n\nWhere to buy:\nElegoo Website - https://us.elegoo.com/products/centauri-carbon\nAmazon - https://amzn.to/4aK6JsX\n\nSilver PLA Filament used: https://amzn.to/44YNhFg\n\n\nPlease feel free to ask any questions in the comments!\n\n#3dprinting #3dprinter"
+  },
+  {
+   "id": "lLf1vRqKBXo",
+   "t": "scaling your props correctly is subjective! #3dprint #3dprinting #cosplay #prop #cosplayer",
+   "d": "2025-12-05",
+   "v": 552,
+   "s": 127,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "kHlJ35DsJMU",
+   "t": "Getting some juicy hits with my paintball Kraber! #apex #apexlegends #paintball",
+   "d": "2025-12-21",
+   "v": 13855,
+   "s": 54,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nQfYIxDk7_c",
+   "t": "G7 Scout in real life? \ud83d\udc40 #apexlegends #apex #titanfall2 #gaming #pewpew",
+   "d": "2026-01-12",
+   "v": 995,
+   "s": 55,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OVARWsgXyjY",
+   "t": "Choosing lights for your cosplay and props!",
+   "d": "2026-02-01",
+   "v": 4691,
+   "s": 565,
+   "vertical": false,
+   "desc": "Adding lighting to your cosplay or props can be very intimidating, but what if it was easier than you thought?!\n\n\nIndividual single color LED, white: https://amzn.to/49TBiM7\nFairy lights, assorted colors: https://amzn.to/4brrBWj\n5V Single color LED strips: https://amzn.to/3Og7yQS\nEL wire: https://amzn.to/3Og7yQS\n\nSingle point RGB LED: https://amzn.to/4k9yygS\nRGB LED Strips: https://amzn.to/4qeOVue\n\nAddressable LED, Strip: https://amzn.to/4kl35bS\nAddressable LED controller: https://amzn.to/3Oi3xvh\n\nArduino board, Nano: https://amzn.to/4qcbAr2\nChrome Paint on visor: https://amzn.to/4riUDMu\nCospl"
+  },
+  {
+   "id": "A9NDGX8lr5A",
+   "t": "adding realistic blood to your props!  #3dprinting #cosplay #3dprinting #helldivers2 #prop #painting",
+   "d": "2026-04-08",
+   "v": 7126,
+   "s": 73,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hNuJ1LXnzqM",
+   "t": "Newest project getting close to completion! #helldivers2 #helldivers #gaming #cosplay #viral",
+   "d": "2026-04-29",
+   "v": 492,
+   "s": 81,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iHZvkrJlBTE",
+   "t": "More progress on the Liberator! #helldivers #helldivers2 #gaming",
+   "d": "2026-05-15",
+   "v": 509,
+   "s": 69,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "85uYiA_-IbA",
+   "t": "The AR-23 Liberator is painted and ready for the range! #helldivers2 #helldivers #gaming #pewpew",
+   "d": "2026-05-24",
+   "v": 571,
+   "s": 67,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OIJWuryRZRY",
+   "t": "The Liberator got some extra attachments \ud83d\udc40 #helldivers2 #helldivers #gaming #cosplay",
+   "d": "2026-05-26",
+   "v": 2037,
+   "s": 88,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Q4LDy7oxuIw",
+   "t": "I made a REAL AR-23 Liberator!",
+   "d": "2026-06-06",
+   "v": 154024,
+   "s": 614,
+   "vertical": false,
+   "desc": "Enjoy managed democracy? Super Earths most iconic weapon has been made into reality!\n\nThis version is only .22 Long Rifle but the 5.56 version is in the works!\n\n#helldivers2 #helldivers #gaming #cosplay #playstation #xbox #pcgaming #pc"
+  },
+  {
+   "id": "of2rsRRmJDA",
+   "t": "There's always more to do on the Havoc #apex #ApexLegends #apexlegendscommunity #cosplay #3dprint",
+   "d": "2026-08-02",
+   "v": 496,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wmErgUPkduw",
+   "t": "More AR-23 Liberator progress! #helldivers #helldivers2 #gaming #cosplay #gaminglife #fpsgames",
+   "d": "2026-08-03",
+   "v": 2736,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "qQr6uvDDj-E",
+   "t": "Some neat trivia behind the Constitution in Helldivers 2!#helldivers #helldivers2 #gaming",
+   "d": "2026-08-25",
+   "v": 567,
+   "s": 164,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vLP_7BUz3w8",
+   "t": "New build, and possibly future products, for my Helldivers fans!#Helldivers #Helldivers2 #gaming",
+   "d": "2026-09-05",
+   "v": 504,
+   "s": 86,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "E5sV3VVTC7g",
+   "t": "The R-72 Censor kit from Helldivers is looking GOOD! #Helldivers #Helldivers2  #gaming #cosplay",
+   "d": "2026-09-12",
+   "v": 860,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Ko_XllO01KI",
+   "t": "Throwback to when the G7 could take sniper scopes \ud83d\ude0d #apex #apexlegends #cosplay #gaming #titanfall",
+   "d": "2026-09-13",
+   "v": 718,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "VZlsJu6BuyM",
+   "t": "Would you use a full sized Kraber for paintball? #apex #apexlegends #gaming #titanfall #paintball",
+   "d": "2026-09-15",
+   "v": 3116,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_lEq3hZgXJA",
+   "t": "I'll always love the R-301 build! #apex #apexlegends #gaming #cosplay #titanfall",
+   "d": "2026-09-17",
+   "v": 3284,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "54svr2m-Xd0",
+   "t": "A little fun with the G7 Scout at the range today! #apexlegends #apex #cosplay #gaming #titanfall",
+   "d": "2026-09-19",
+   "v": 13878,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FDlFYYXuUjw",
+   "t": "Press X to take ally's Monster... #halo #Halo2 #gaming #cosplay #fpsgaming",
+   "d": "2026-09-28",
+   "v": 2400,
+   "s": 26,
+   "vertical": true,
+   "desc": "Master Chief by @DatBoiBuilds"
+  },
+  {
+   "id": "bIaxriGoeR8",
+   "t": "ODST in enemy territory #halo #halocosplay #cosplay #film #odst",
+   "d": "2026-09-30",
+   "v": 1864,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "96I-uMTL7RU",
+   "t": "Project Ghost has blasters!         #halo #3dprinting #gaming #cosplay #fpsgames",
+   "d": "2026-10-05",
+   "v": 1777,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "n_Rvx19Mfvc",
+   "t": "We are FRT'n with the Liberator now boys! #helldivers2 #helldivers #gaming #fps #fpsgames",
+   "d": "2026-10-07",
+   "v": 287930,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "oWo6drawRqg",
+   "t": "Answering the common comment I get on the Liberator #helldivers #helldivers2 #fps #fpsgames #gaming",
+   "d": "2026-10-10",
+   "v": 5818,
+   "s": 91,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8EHp8tKcc-M",
+   "t": "BTS of Project Ghost! Explaining the gun system to the team! #halo #gaming #fps #fpsgames #cosplay",
+   "d": "2026-10-13",
+   "v": 2438,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Zig7cAIIRBU",
+   "t": "Will I be spreading the democracy? #helldivers #helldivers2 #gaming #fps #shoot",
+   "d": "2026-10-15",
+   "v": 1724,
+   "s": 83,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SNTubrVwJus",
+   "t": "Sorry to say, I do not take commissions... #gaming #fps #fpsgames #apex #apexlegends",
+   "d": "2026-10-16",
+   "v": 407,
+   "s": 53,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "F2BuyyoK9U0",
+   "t": "Still a ton of work to do on the R-72 Censor inspired kits! #helldivers2 #helldivers #gaming #fps",
+   "d": "2026-10-16",
+   "v": 1856,
+   "s": 101,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-PqWbW-ZLLY",
+   "t": "I can't sell these beautiful builds... #gaming #fps #fpsgames #helldivers2 #helldivers",
+   "d": "2026-10-17",
+   "v": 696,
+   "s": 100,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wGAa-cYF7N8",
+   "t": "Should we redo the most popular project on the channel? #apex #apexlegends #gaming #fps #fpsgames",
+   "d": "2026-10-17",
+   "v": 403,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "H5pYGhrqkhg",
+   "t": "So what did we learn from the Censor failure? #gaming #fps #fpsgames #helldivers #helldivers2",
+   "d": "2026-10-18",
+   "v": 807,
+   "s": 106,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KM0d_LWDm3s",
+   "t": "Not everything works on the 1st, 2nd, or even 3rd try... #fail #diy #gaming #fps #helldivers2",
+   "d": "2026-10-18",
+   "v": 1046,
+   "s": 78,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "mqgSEHY9-Io",
+   "t": "Forgot to post this clip of the Reptilian Fury Havoc build! #apex #apexlegends #fps #cosplay #gaming",
+   "d": "2026-10-20",
+   "v": 1756,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "x0DxZZvLVd4",
+   "t": "A lot of you noticed the big boy, so let's talk about it! #apex #apexlegends #gaming #titanfall #fps",
+   "d": "2026-10-20",
+   "v": 2904,
+   "s": 114,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TZuMP2O3qYQ",
+   "t": "Quick overview of my Carnage Peacekeeper! #apex #apexlegends #gaming #cosplay #3dprinting",
+   "d": "2026-10-21",
+   "v": 1871,
+   "s": 161,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "R862oM9cFKU",
+   "t": "Making a life-sized Ghost from Halo!",
+   "d": "2026-10-22",
+   "v": 1050,
+   "s": 515,
+   "vertical": false,
+   "desc": "I've gotten to join in on helping with a life sized Ghost from the best game franchise to ever exist, Halo! This is not my own project, but one I've been invited to help with, and I'm so grateful to work on it.\n\nProject Ghost website: https://www.haloprojectghost.com/\n\nOther guys:\nRyro Studios: https://www.instagram.com/ryrostudios/\nThird Dimension Builds: https://www.instagram.com/thirddimensionbuilds/\nDat_Boi_Builds: https://www.instagram.com/dat_boi_builds/\nGibcencosplay: https://www.instagram.com/gibcencosplay/\nitsredclay: https://www.instagram.com/itsredclay/\n\n#halo #gaming #cosplay #fps "
+  },
+  {
+   "id": "XWjIufogm-o",
+   "t": "The Airsoft Sentinel build!     #airsoft #apex #apexlegends #gaming #cosplay",
+   "d": "2026-10-23",
+   "v": 3316,
+   "s": 112,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9pt2urOj4l8",
+   "t": "my G7 Scout build, chambered in .308!   #apex #apexlegends #titanfall2 #gaming #fps",
+   "d": "2026-10-24",
+   "v": 710,
+   "s": 173,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Xmv0TOrOwy0",
+   "t": "Let's go more in depth on the AR-23 Liberator! #helldivers2 #helldivers #fps #fpsgames #gaming",
+   "d": "2026-10-26",
+   "v": 893,
+   "s": 178,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KMqYQZSjb2A",
+   "t": "I've joined Project Ghost! #halo #cosplay #3dprinting #gaming #fpsgames",
+   "d": "2026-10-28",
+   "v": 3104,
+   "s": 66,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OjdwiLG_2S0",
+   "t": "A better explanation of the scaling issue \ud83d\ude02   #cosplay #3dprinting #doom #helldivers2 #apex",
+   "d": "2026-10-31",
+   "v": 26154,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TYFKRocrgH8",
+   "t": "My favorite Electronics component, the Arduino board  #diy #cosplay #3dprinting #electronics #props",
+   "d": "2026-11-04",
+   "v": 842,
+   "s": 66,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "N5delaTolUs",
+   "t": "Some ideas for the upcoming Helldivers videos! #helldivers #helldivers2 #gaming #fpsgames #cosplay",
+   "d": "2026-11-06",
+   "v": 207,
+   "s": 133,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "dECD1LOso5Y",
+   "t": "Let's talk more about \"Ole' Reliable\", the R-301.   #apex #apexlegends #gaming #fpsgames #cosplay",
+   "d": "2026-11-07",
+   "v": 319,
+   "s": 162,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6bZ8nfQOVSk",
+   "t": "A Liberator's case should look as good as the Liberator! #helldivers #helldivers2 #fpsgames #gaming",
+   "d": "2026-11-10",
+   "v": 130,
+   "s": 158,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hOB7Uh9s1Hs",
+   "t": "I need your help reorganizing... #cosplay #3dprinting #gaming #apex #helldivers2",
+   "d": "2026-11-11",
+   "v": 93,
+   "s": 82,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vyJg9fA_gFo",
+   "t": "My dream rifle isn't from Sci-fi, it's from WW2! #history #ww2 #worldwar2  #fpsgames #historical",
+   "d": "2026-11-15",
+   "v": 80,
+   "s": 180,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "orWn5yxwwUA",
+   "t": "Sorry to disappoint some of you, but I love these! #cosplay #apex #titanfall2 #gaming #halo",
+   "d": "2026-11-15",
+   "v": 93,
+   "s": 96,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

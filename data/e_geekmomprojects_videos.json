@@ -1,0 +1,540 @@
+{
+ "channel": {
+  "id": "UCoqHVFp3uLX0yaB9LUrjJ4A",
+  "title": "geekmomprojects",
+  "handle": "@geekmomprojects",
+  "description": "I make techie projects with (and sometimes without) my kids.  Visit my blog at http://www.geekmomprojects.com",
+  "since": "2011-11-03",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_lrLCmCMFlub8llQPMY9VuArtxeYBI8jSjyYeI-sHkdyg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "469726",
+  "subscriberCount": "1580",
+  "hiddenSubscriberCount": false,
+  "videoCount": "58"
+ },
+ "videos": [
+  {
+   "id": "pj_oD76-ehg",
+   "t": "Light Up Sweatshirt Using Arduino Lilypad",
+   "d": "2013-01-22",
+   "v": 1453,
+   "s": 40,
+   "vertical": false,
+   "desc": "Instructions at http://www.geekmomprojects.com/a-programmable-led-sweatshirt/ This video shows a sweatshirt with our team logo (a fire-breathing chicken) enhanced by LEDs programmed and driven with an Arduino LilyPad micro controller."
+  },
+  {
+   "id": "W1PeSWYvpUE",
+   "t": "Arduino LilyPad Simple Board LED Panel",
+   "d": "2013-01-22",
+   "v": 1146,
+   "s": 84,
+   "vertical": false,
+   "desc": "This video demonstrates a programmable light-up LED panel I sewed to go inside a sweatshirt using an Arudino Lilypad Simple Board and Arduino LEDs.  Details of the project can be found on my blog at http://www.geekmomprojects.com/a-programmable-led-sweatshirt/."
+  },
+  {
+   "id": "Z86FL5UOL8w",
+   "t": "6x6x6 LED Cube",
+   "d": "2013-01-25",
+   "v": 6408,
+   "s": 66,
+   "vertical": false,
+   "desc": "Programmable 6x6x6 LED Cube run by an Arduino Uno"
+  },
+  {
+   "id": "G6QHeNoqe9U",
+   "t": "Arduino LilyPad LED Matrix T-Shirt",
+   "d": "2013-02-07",
+   "v": 66299,
+   "s": 322,
+   "vertical": false,
+   "desc": "Instructions at http://www.geekmomprojects.com/led-matrix-shirt/ Demonstration of a T-shirt with a removable fabric panel that contains an 8x6 matrix of LilyPad LEDs controlled by an Arduino LilyPad controller.  It plays four different games controlled by a small joystick.  For more information on this project, visit my blog at www.geekmomprojects.com"
+  },
+  {
+   "id": "qmd6CVrlHOM",
+   "t": "MPU-6050 Data with a Complementary Filter",
+   "d": "2013-04-02",
+   "v": 175495,
+   "s": 128,
+   "vertical": false,
+   "desc": "Writeup of this project at:  http://www.geekmomprojects.com/gyroscopes-and-accelerometers-on-a-chip/.  Real-time Accelerometer and Gyroscope data from a MPU-6050 IMU is displayed independently as well as combined with a complementary filter.  Other articles can be found at my blog:  http://www.geekmomprojects.com"
+  },
+  {
+   "id": "GvtJgAPyNuI",
+   "t": "Wii Nunchuck Controlled Servos",
+   "d": "2013-04-18",
+   "v": 4478,
+   "s": 105,
+   "vertical": false,
+   "desc": "Instructions at http://www.geekmomprojects.com/wii-nunchuck-controlled-servo-motors/.  Demonstrates using a Wii Nunchuck to control two servo motors."
+  },
+  {
+   "id": "T2igMNMBsjI",
+   "t": "i2cdevlib \"Teapot\" Demo with an MPU-6050 IMU",
+   "d": "2013-06-06",
+   "v": 26293,
+   "s": 163,
+   "vertical": false,
+   "desc": "Writeup of this demo available at:  http://www.geekmomprojects.com/mpu-6050-dmp-data-from-i2cdevlib/.  Demonstration of the \"Teapot\" Demo from i2cdevlib, written by Jeff Rowberg, on an MPU-6050 6DOF IMU."
+  },
+  {
+   "id": "lfQlnkXmIP4",
+   "t": "A Soft Circuit Potentiometer Makes Music",
+   "d": "2013-10-16",
+   "v": 1632,
+   "s": 161,
+   "vertical": false,
+   "desc": "See project write-up at http://www.geekmomprojects.com/a-soft-circuit-potentiometer-makes-music.  Conductive ribbon and a metal ring make a soft-circuit potentiometer, which control the tones played by an Arduino LilyPad buzzer."
+  },
+  {
+   "id": "2RTdWGAm0RI",
+   "t": "Squishy Circuit Color Mixing",
+   "d": "2014-02-27",
+   "v": 551,
+   "s": 336,
+   "vertical": false,
+   "desc": "Use conductive and resistive dough, a battery and an RGB LED to mix different colors of light.  See a write up at http://www.geekmomprojects.com/squishy-circuits-color-mixing-with-light/."
+  },
+  {
+   "id": "uo8BLzKFOcc",
+   "t": "The \"Halfway\" - testing a DIY Segway Clone",
+   "d": "2014-05-16",
+   "v": 230,
+   "s": 106,
+   "vertical": false,
+   "desc": "Test drive of the self-balancing scooter.  Writeup coming soon."
+  },
+  {
+   "id": "sB7AT3vIn4k",
+   "t": "The \"Halfway\" - a DIY Segway Clone",
+   "d": "2014-05-20",
+   "v": 4705,
+   "s": 186,
+   "vertical": false,
+   "desc": "Riding the \"Halfway\", a self-balancing, arduino controlled scooter.  Writeup available at http://www.geekmomprojects.com/the-halfway-a-self-balancing-scooter/"
+  },
+  {
+   "id": "2t-5CCyPJ74",
+   "t": "MPU-6050 Orientation from DMP vs. Complementary Filter",
+   "d": "2014-06-30",
+   "v": 56980,
+   "s": 173,
+   "vertical": false,
+   "desc": "Writeup with code at http://www.geekmomprojects.com/mpu-6050-redux-dmp-data-fusion-vs-complementary-filter/.  Compares the computed orientation of a 6DOF IMU (the MPU-6050) from the complementary filter algorithm to the orientation computed by the MPU-6050 DMP."
+  },
+  {
+   "id": "OwxYyyqTgKE",
+   "t": "Made a PlotClock",
+   "d": "2014-12-29",
+   "v": 4466,
+   "s": 129,
+   "vertical": false,
+   "desc": "Following instructions from Joo and CrazyChicken563 on Thingiverse we combined laser-cut and 3d-printed parts with electronics to build a clock that writes the time in erasible pen, then erases iteslf before starting over again.  Instructions and build files at http://www.thingiverse.com/thing:248009 and http://www.thingiverse.com/thing:346784.  Writeup of my build can be found at http://www.geekmomprojects.com/building-plotclock/"
+  },
+  {
+   "id": "L9eMfZe16cw",
+   "t": "More PlotClock",
+   "d": "2014-12-31",
+   "v": 7197,
+   "s": 99,
+   "vertical": false,
+   "desc": "PlotClock final incarnation.  Uses RTC module DS3231 to keep time.  Arduino Nano clone powered by 9V battery and 3 servos powered by 4 AA batteries.  Instructions and build files at http://www.thingiverse.com/thing:248009 and http://www.thingiverse.com/thing:346784.  Writeup of my build can be found at http://www.geekmomprojects.com/building-plotclock/"
+  },
+  {
+   "id": "xUPZLzWAgos",
+   "t": "Wall Plotter Draws Crosshatch",
+   "d": "2015-01-07",
+   "v": 3020,
+   "s": 63,
+   "vertical": false,
+   "desc": "Wall plotter, based on the Der Kritzler model, makes a crosshatch-style drawing of the Mona Lisa."
+  },
+  {
+   "id": "qmZ3cva2t3U",
+   "t": "Tiny CNC v0.29",
+   "d": "2015-01-09",
+   "v": 2474,
+   "s": 91,
+   "vertical": false,
+   "desc": "We made the Tiny CNC v0.29 published by Maker Block on Thingiverse (http://www.thingiverse.com/thing:200895), and turned it into an Etch-a-Sketch"
+  },
+  {
+   "id": "n6NJcqj8Jwk",
+   "t": "Mini CNC Spirograph",
+   "d": "2015-01-19",
+   "v": 2056,
+   "s": 192,
+   "vertical": false,
+   "desc": "We built the Mini CNC v0.29 by MakerBlock from http://www.thingiverse.com/thing:200895 and programmed an Arduino to make it draw spirograph patterns.  Two 10K pots control the spirograph parameters."
+  },
+  {
+   "id": "74RJb2Mj6Jg",
+   "t": "Made the MeArm",
+   "d": "2015-03-19",
+   "v": 5928,
+   "s": 39,
+   "vertical": false,
+   "desc": "Demo of the MeArm built from the open-source files by Pheoptix at Thingiverse:  http://www.thingiverse.com/thing:360108.  I built a small custom controller with an Arduino and linear and twist potentiometers  to control the four 9g servo motors which make it move.  Write-up of the build at http://www.geekmomprojects.com/making-mearm/"
+  },
+  {
+   "id": "M2_-auIwJdU",
+   "t": "Wall Plotter",
+   "d": "2015-03-19",
+   "v": 6368,
+   "s": 191,
+   "vertical": false,
+   "desc": "An easel-mounted wall-plotter run by a Raspberry Pi and Arduino.  Writeup at http://www.geekmomprojects.com/yawp-yet-another-wall-plotter/"
+  },
+  {
+   "id": "ER6CAe-y81U",
+   "t": "Mandelbrot Set on TinyScreen",
+   "d": "2015-03-24",
+   "v": 634,
+   "s": 49,
+   "vertical": false,
+   "desc": "Just got the TinyScreen and TinyDuino from TinyCircuits and programmed then to display the Mandelbrot set."
+  },
+  {
+   "id": "bsZfN7pkz1U",
+   "t": "TinyScreen Necklace",
+   "d": "2015-03-25",
+   "v": 2089,
+   "s": 35,
+   "vertical": false,
+   "desc": "3D printed casing turns the TinyScreen into a necklace.  3D print files are at http://www.thingiverse.com/thing:739648."
+  },
+  {
+   "id": "GECe6ca5kDE",
+   "t": "TinyScreen Case with Buttons",
+   "d": "2015-04-14",
+   "v": 2273,
+   "s": 62,
+   "vertical": false,
+   "desc": "Added buttons to a new 3D printed version of the TinyScreen necklace case.  Also wrote a program to respond to the button presses by changing the display of a rotating wire-frame shape."
+  },
+  {
+   "id": "TmjbRGDRtyw",
+   "t": "\"Life\" on a SmartMatrix Board",
+   "d": "2015-04-20",
+   "v": 604,
+   "s": 149,
+   "vertical": false,
+   "desc": "An implementation of Conway's Game of Life on a 32x32 pixel SmartMatrix board, using a Teensy 3.1 with a SmartMatrix shield and a custom controller.  Project write up is at http://www.geekmomprojects.com/life-on-a-smartmatrix-board/"
+  },
+  {
+   "id": "Zrv_7BCXdOo",
+   "t": "Arduino/Web Client Interface via Node.js",
+   "d": "2015-06-04",
+   "v": 5991,
+   "s": 104,
+   "vertical": false,
+   "desc": "Used a Node.js server to interface an Arduino circuit with a web client.  Based on a project by Gianluca Guarini (https://youtu.be/_Wo5UExJ_Lk). I modified his project slightly to add a potentiometer and web slider. Modified code found here (https://github.com/geekmomprojects/NodeJSArduinoExample)"
+  },
+  {
+   "id": "RtzVIdq-aQc",
+   "t": "Photoresistor circuit with LED \"eyes\"",
+   "d": "2015-09-10",
+   "v": 857,
+   "s": 8,
+   "vertical": false,
+   "desc": "Simple cirucuit lights up when it gets dark.  Perfect for Halloween.  Instructions at http://www.geekmomprojects.com/halloween-photoresistor-circuit/"
+  },
+  {
+   "id": "NcUoPSsXDQQ",
+   "t": "EtchABot with Joystick Control",
+   "d": "2015-11-20",
+   "v": 2041,
+   "s": 131,
+   "vertical": false,
+   "desc": "Demonstration of controlling the EtchABot, an Arduino controlled CNC Etch A Sketch with a thumb joystick.  Writeup at http://www.geekmomprojects.com/etchabot-a-cnc-etch-a-sketch/"
+  },
+  {
+   "id": "oFGyIJOAb4Q",
+   "t": "EtchABot Analog Clock",
+   "d": "2015-11-20",
+   "v": 15063,
+   "s": 245,
+   "vertical": false,
+   "desc": "The EtchABot, an Arduino controlled CNC Etch A Sketch, demonstrating analog clock mode.  It's not the most dynamic video, but remember, you're watching an analog clock tell time.  Write up of EtchABot at http://www.geekmomprojects.com/etchabot-a-cnc-etch-a-sketch/.\n\nThe music, Rubix Cube by Audionautix, is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://audionautix.com/"
+  },
+  {
+   "id": "bS-zDuRoe_Q",
+   "t": "EtchABot Spirograph",
+   "d": "2015-11-20",
+   "v": 9619,
+   "s": 266,
+   "vertical": false,
+   "desc": "Highly repetitive but soothing video of EtchABot, an Arduino controlled CNC Etch A Sketch, drawing Spirograph patterns and erasing them over and over.  Writeup of EtchABot at http://www.geekmomprojects.com/etchabot-a-cnc-etch-a-sketch/"
+  },
+  {
+   "id": "bkTMifinoYM",
+   "t": "EtchABot Draws a Snowflake (time lapse)",
+   "d": "2015-12-24",
+   "v": 293,
+   "s": 19,
+   "vertical": false,
+   "desc": "Snowflake drawn from vector image file using EtchABot."
+  },
+  {
+   "id": "bbf2wOXC0QI",
+   "t": "LED Matrix Handbag",
+   "d": "2016-03-11",
+   "v": 1573,
+   "s": 261,
+   "vertical": false,
+   "desc": "Demonstration of a Twitter-connected LED Matrix handbag wearables project.  Project writeup at http://www.geekmomprojects.com/tweet-my-purse/"
+  },
+  {
+   "id": "8qWwN1uZo3Y",
+   "t": "LED Matrix Bag v 2.0 Quick Demo",
+   "d": "2016-05-31",
+   "v": 2072,
+   "s": 46,
+   "vertical": false,
+   "desc": "Quick look at version 2.0 of the LED Matrix Handbag.  Writeup coming soon to www.geekmomprojects.com.  Sorry for the vertical video!"
+  },
+  {
+   "id": "lfA74XauPrM",
+   "t": "LED Matrix Handbag 2 0",
+   "d": "2016-08-24",
+   "v": 5185,
+   "s": 410,
+   "vertical": false,
+   "desc": "An updated version of my IOT-connected LED matrix handbag using a removable flexible LED panel.  Project writeup at http://www.geekmomprojects.com/led-matrix-handbag-2-0-how-to. Also a more complete documentation from start to finish is online at http://makezine.com/projects/led-matrix-handbag/"
+  },
+  {
+   "id": "l0JH4HzO2IU",
+   "t": "Fiber Optic LED Dress with Adafruit Circuit Playground Controller",
+   "d": "2017-11-28",
+   "v": 2454,
+   "s": 54,
+   "vertical": true,
+   "desc": "Fiber Optic LED Dress controlled by Adafruit Circuit Playground"
+  },
+  {
+   "id": "lJ0opjQzgGo",
+   "t": "Fiber Optic LED Dress Controlled by Adafruit Circuit Playground",
+   "d": "2017-11-28",
+   "v": 7518,
+   "s": 53,
+   "vertical": true,
+   "desc": "Demonstration of my fiber-optic LED dress with a Circuit Playground controller. The video has already circulated on Twitter, just thought I should add it it to my YouTube Channel."
+  },
+  {
+   "id": "JadMgPY26nA",
+   "t": "LED Headband Workshop",
+   "d": "2018-02-07",
+   "v": 1018,
+   "s": 29,
+   "vertical": false,
+   "desc": "Hey Los Angeles folks, I'm running a fundraising workshop for @PSScience123 to construct, decorate and code your own programmable LED headbands. It's a unique class and supports science education for kids in underserved communities. Link to sign up here: https://psscience.org/2018/02/06/ps-science-presents-a-fundraising-workshop-headband-glam/"
+  },
+  {
+   "id": "DUdDIVON6fM",
+   "t": "WiFi Hotspot LED Jacket",
+   "d": "2018-05-15",
+   "v": 833,
+   "s": 187,
+   "vertical": false,
+   "desc": "LEDs sewn into a jacket controlled by an Adafruit Trinket M0, which is connected to a Raspberry Pi Zero W running a hotspot. The Raspberry Pi runs an Apache web server serving a program I wrote called \"Brightly\" (also at www.geekmomprojects.com/brightly) that generates CircuitPython code to program the LEDs. If you're at Bay Area Maker Faire 2018 - come by my booth (Bright Wearables) and try it out."
+  },
+  {
+   "id": "kBGLyXjIrOQ",
+   "t": "Programmable LED Hat Tutorial",
+   "d": "2018-08-12",
+   "v": 4739,
+   "s": 1135,
+   "vertical": false,
+   "desc": "This tutorial shows how to make a bright and colorful programmable LED baseball cap - no sewing required (some soldering is necessary) This is my first video tutorial but you can find other projects on my blog: www.geekmomprojects.com"
+  },
+  {
+   "id": "bbg-CgU-bBk",
+   "t": "Edge-Lit LED Flower",
+   "d": "2019-01-06",
+   "v": 842,
+   "s": 32,
+   "vertical": true,
+   "desc": "Demonstration of an edge-lit LED acrylic flower project. Details on my blog at: http://www.geekmomprojects.com/edge-lit-acrylic-led-flower/"
+  },
+  {
+   "id": "HO6LkEJmnu8",
+   "t": "Acrylic LED Heart",
+   "d": "2019-01-29",
+   "v": 383,
+   "s": 26,
+   "vertical": false,
+   "desc": "Acrylic heart with embedded LED strips produces an animated \u201cinner glow\u201d for Valentines Day"
+  },
+  {
+   "id": "RUeIZLl3-bs",
+   "t": "Inner Glow LED Hearts",
+   "d": "2019-02-11",
+   "v": 273,
+   "s": 12,
+   "vertical": false,
+   "desc": "Trying out different etching patterns in the \"Inner Glow\" LED acrylic heart. Write up of this project is in progress."
+  },
+  {
+   "id": "THnr-gYRNls",
+   "t": "Edge Lit Pendant Construction",
+   "d": "2019-05-06",
+   "v": 540,
+   "s": 65,
+   "vertical": false,
+   "desc": "Stop motion video of constructing an edge-lit pendant. This is a simple project and great for kids. A post containing a more detailed write-up on this project will be up on my blog, www.geekmomprojects.com shortly."
+  },
+  {
+   "id": "t9mYP_DikMA",
+   "t": "Edge-Lit Seven Segment Clocks",
+   "d": "2019-05-09",
+   "v": 5844,
+   "s": 66,
+   "vertical": false,
+   "desc": "Edge-lit acrylic and skinny SK6812 LED strips are combined to make seven segment displays arranged in clock form. Write up of this project on my blog: www.geekmomprojects.com"
+  },
+  {
+   "id": "bW2RAHQe4us",
+   "t": "LED LBD (Little Black Dress)",
+   "d": "2019-05-21",
+   "v": 480,
+   "s": 73,
+   "vertical": true,
+   "desc": "Unveiled this dress at my talk at Maker Faire Bay Area 2019. Made with an off-the-rack dress enhanced with 5 strips of SK6812 3535 LEDs diffused through a thin layer of muslin and covered by laser cut strips of faux vinyl. Controlled by Adafruit\u2019s Feather NRF52840 board, connected to their Bluefruit app on an iPad."
+  },
+  {
+   "id": "KpumGcMKYs0",
+   "t": "Etched Teeny Tiny Edge Lit Display Project",
+   "d": "2019-06-22",
+   "v": 401,
+   "s": 74,
+   "vertical": false,
+   "desc": "Making the kid-friendliest version of the Teeny-Tiny Edge-Lit Display. Kids can etch their own designs into the acrylic with a small file. Write-up coming soon to my blog, www.geekmomprojects.com"
+  },
+  {
+   "id": "A_0X-ZLOIaU",
+   "t": "Bright Bag Display for Rose Parade Craft Fair",
+   "d": "2019-12-30",
+   "v": 177,
+   "s": 75,
+   "vertical": true,
+   "desc": "Testing out an idea for displaying the Bright Bags at the Rose Parade Craft Fair"
+  },
+  {
+   "id": "2HpK4HF5UF8",
+   "t": "LED Little Black Dress with Sound Reactive Mode and Other Patterns",
+   "d": "2020-01-17",
+   "v": 951,
+   "s": 157,
+   "vertical": true,
+   "desc": "This video displays the different LED modes on my latest Little Black Dress project. The controller is an Adafruit Circuit Playground Bluefruit and the LEDs are from a standard WS2812 LED strip cut into 5 segments and connected by wires in the hem."
+  },
+  {
+   "id": "Mu3Chlfe5Bk",
+   "t": "Layered Edge-Lit Pendants",
+   "d": "2020-03-16",
+   "v": 687,
+   "s": 21,
+   "vertical": false,
+   "desc": "Edge-lit pendants created with layers of laser-cut wood and semi-translucent acrylic. Project write-up at https://www.geekmomprojects.com/layered-edge-lit-pendants"
+  },
+  {
+   "id": "XZODGcOzatA",
+   "t": "microbit Carrying Case",
+   "d": "2020-06-07",
+   "v": 196,
+   "s": 575,
+   "vertical": false,
+   "desc": "Directions to assemble and wear the micro:bit carrying case for PS Science Summer Camp 2020"
+  },
+  {
+   "id": "U5Z9CbSnDVE",
+   "t": "Fairy Light Belt",
+   "d": "2020-06-07",
+   "v": 247,
+   "s": 882,
+   "vertical": false,
+   "desc": "Directions to assemble Fairy Light Belt project for PS Science"
+  },
+  {
+   "id": "zcXqucuBYBg",
+   "t": "Translucent Hanukiyah",
+   "d": "2020-11-28",
+   "v": 147,
+   "s": 30,
+   "vertical": false,
+   "desc": "Edge-lit acrylic illuminated by a double-sided side-emitting LED strip makes a fun and unusual hanukiyah for the holidays."
+  },
+  {
+   "id": "e7B1B16QWYU",
+   "t": "Fiber-Optic Hyperbolic Parabolid",
+   "d": "2021-01-29",
+   "v": 400,
+   "s": 21,
+   "vertical": false,
+   "desc": "Video of my recent illuminated fiber-optic hyperbolic paraboloid project. Build instructions documented on my blog at: https://www.geekmomprojects.com/fiber-optic-hyperbolic-paraboloid/"
+  },
+  {
+   "id": "SrhTTuJCE5E",
+   "t": "Illuminated Infinity Collar Necklace",
+   "d": "2021-02-05",
+   "v": 1700,
+   "s": 45,
+   "vertical": false,
+   "desc": "Video demonstration of a project build for Adafruit Learn Guides. An infinity mirror build from flexible holographic vinyl makes for a creative wearable. Learn how to build your own infinity mirror collar at https://learn.adafruit.com/infinity-mirror-collar"
+  },
+  {
+   "id": "zY7c4jWUfVQ",
+   "t": "Infinity Mirror Octahedron",
+   "d": "2021-03-13",
+   "v": 12417,
+   "s": 49,
+   "vertical": true,
+   "desc": "Frameless infinity mirror octahedron using laser cut two-way mirrored acrylic and 144 LEDs/m WS2812b LED strip cut and soldered around the shape's 12 edges."
+  },
+  {
+   "id": "yDu6Jjd1ah0",
+   "t": "Edge Lit Flower",
+   "d": "2021-05-28",
+   "v": 416,
+   "s": 19,
+   "vertical": true,
+   "desc": "Demo of an edge-lit flower design constructed by embedding an LED strip inside an acrylic layer cut into individually illuminated pieces."
+  },
+  {
+   "id": "9HDyzVgGNhk",
+   "t": "Bendy Boards (Articulated PCBs)",
+   "d": "2021-06-01",
+   "v": 318,
+   "s": 332,
+   "vertical": false,
+   "desc": "Description of how I constructed an articulated PCB assembly"
+  },
+  {
+   "id": "9_KThEDKV3s",
+   "t": "3D Printed LED Bling Ring",
+   "d": "2022-02-20",
+   "v": 491,
+   "s": 35,
+   "vertical": true,
+   "desc": "Demo of 3D print files for an LED modular ring using a CR1225 battery. Print files available at https://www.prusaprinters.org/prints/136889-illuminated-bling-ring"
+  },
+  {
+   "id": "GCXvjJFsTxE",
+   "t": "Pixel Pillows",
+   "d": "2022-06-07",
+   "v": 317,
+   "s": 96,
+   "vertical": false,
+   "desc": "A set of RGB LED enhanced pillows created by sewing a flexible LED string (5cm LED spacing) in a  to a decorative (20\"x20\") pillow insert, covering with a layer of batting and inserting into a white velveteen cover. The set of pillows in this video are controlled by a PixelBlaze controller."
+  },
+  {
+   "id": "YJV57Ew8msk",
+   "t": "January 11, 2024",
+   "d": "2024-01-12",
+   "v": 475,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

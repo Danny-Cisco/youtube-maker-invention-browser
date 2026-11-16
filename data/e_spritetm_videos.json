@@ -1,0 +1,720 @@
+{
+ "channel": {
+  "id": "UCG-vF93KS86_Cm-dwu6AJmA",
+  "title": "Sprite_tm",
+  "handle": "@spritetm",
+  "description": "",
+  "since": "2006-09-07",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mCSMI26rUxePVcGcpc1ngeWFk4c6uShub1jt6gx9jtVA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "3220557",
+  "subscriberCount": "3170",
+  "hiddenSubscriberCount": false,
+  "videoCount": "78"
+ },
+ "videos": [
+  {
+   "id": "J2vcXdDhoAk",
+   "t": "Led-fan-clock; final version",
+   "d": "2007-10-26",
+   "v": 85841,
+   "s": 39,
+   "vertical": false,
+   "desc": "Video of my led-fan-clock. Please visit http://spritesmods.com/?art=ledfanclock for more info."
+  },
+  {
+   "id": "7FbDQAIpc-E",
+   "t": "Led-fan-clock",
+   "d": "2007-10-26",
+   "v": 1853,
+   "s": 15,
+   "vertical": false,
+   "desc": "Led-fan-clock, test 1. Ignore the times the red or green led seems to fall out, that's due to interference with the camera's frame rate."
+  },
+  {
+   "id": "epnZRNjSlB8",
+   "t": "LivingColors-lamp as an ambilight",
+   "d": "2007-12-23",
+   "v": 3758,
+   "s": 27,
+   "vertical": false,
+   "desc": "WiP, just a prototype plus really alpha software"
+  },
+  {
+   "id": "Ywr0A2aC_Jk",
+   "t": "El-cheapo keychain picture frame hacked to do usb2lcd xfers",
+   "d": "2008-01-09",
+   "v": 85129,
+   "s": 44,
+   "vertical": false,
+   "desc": "I hacked the firmware of this E10,- 'digital photoframe keychain', and with the right software it can now display imagery directly from the PC. This display does 8FP, which is quite nice for such an ugly hack."
+  },
+  {
+   "id": "bv4DWMhfoNc",
+   "t": "LivingColors, computer controlled: proto2",
+   "d": "2008-02-05",
+   "v": 6785,
+   "s": 36,
+   "vertical": false,
+   "desc": "Second proto of my usb livingcolor controller."
+  },
+  {
+   "id": "Hot_S1kr4D4",
+   "t": "HD44780-contest invitro",
+   "d": "2008-03-23",
+   "v": 1925,
+   "s": 47,
+   "vertical": false,
+   "desc": "Invitation-demo to a mini HD44780-demo on Gathering of Tweakers"
+  },
+  {
+   "id": "0iirQQ9yEDI",
+   "t": "HD44780 8x2 LCD demo, alpha 1",
+   "d": "2008-03-27",
+   "v": 9857,
+   "s": 38,
+   "vertical": false,
+   "desc": "Video of some demo-effects done on a 8x2 character LCD"
+  },
+  {
+   "id": "b0oe6PJz8Qs",
+   "t": "HD44780 demo, alpha 2",
+   "d": "2008-03-30",
+   "v": 2550,
+   "s": 70,
+   "vertical": false,
+   "desc": "Some more effects, still using only an HD44780 character display and an ATTiny84."
+  },
+  {
+   "id": "uG1zHxAukYs",
+   "t": "Whiteboard plotter",
+   "d": "2008-04-07",
+   "v": 2991,
+   "s": 53,
+   "vertical": false,
+   "desc": "First try. Steppers need to be microstepped and speed-controlled instead of starting/stopping every time, and I still need something to pull the pen away from the whiteboard, but apart from that, the idea works OK."
+  },
+  {
+   "id": "oTm3BrsSpGE",
+   "t": "Whiteboard-plotter, second try",
+   "d": "2008-04-10",
+   "v": 10644,
+   "s": 45,
+   "vertical": false,
+   "desc": "Same plotter as in the first movie, but with optimized display-routines and a little something that turns bitmaps into pen-movements. I still need something to get the pen off the board, tho. This video is a timelapse, btw, with one second between frames. (24x time acceleration)"
+  },
+  {
+   "id": "b9KougCn3mk",
+   "t": "32x16 led-board controlled by an ATMega88",
+   "d": "2008-04-16",
+   "v": 27607,
+   "s": 27,
+   "vertical": false,
+   "desc": "See title :) As you can see, while the board itself seems to be designed for black/red only, it can do monochromes too."
+  },
+  {
+   "id": "uToV0xNadi8",
+   "t": "Simpsons intro on 64x32 LED-display",
+   "d": "2008-04-18",
+   "v": 24873,
+   "s": 118,
+   "vertical": false,
+   "desc": "Expanded my LED-display to 4 boards instead of one. The intro of an episode of the Simpsons is shown here. Each board is controlled by an ATMega88. The boards are interconnected by an 500KBit serial line to an FT232."
+  },
+  {
+   "id": "urecCnv37J8",
+   "t": "Videoclip on an 32x16 led board",
+   "d": "2008-04-18",
+   "v": 67542,
+   "s": 93,
+   "vertical": false,
+   "desc": "32x16 ledboard with an ATMega88 to drive it and a hacked MPlayer to send data to it."
+  },
+  {
+   "id": "FmCWx30g7Ks",
+   "t": "Whiteboard-plotter: text",
+   "d": "2008-04-23",
+   "v": 69123,
+   "s": 180,
+   "vertical": false,
+   "desc": "The text to be drawn on the whiteboard was given in through a web-interface. Unfortunately, the movie is cut short because my camera can't record that long."
+  },
+  {
+   "id": "o4ul6nIojJg",
+   "t": "HD44780 demo, with audio",
+   "d": "2008-04-26",
+   "v": 5561,
+   "s": 42,
+   "vertical": false,
+   "desc": "Same HD44780 demo. Gfx aren't that important; the sound is: I created player-routines to play .mon-files coming out of Trixters Monotone, a PC-Speaker tracker."
+  },
+  {
+   "id": "1CEinrSkwUA",
+   "t": "$10 3d monitor - try1",
+   "d": "2008-07-31",
+   "v": 868,
+   "s": 40,
+   "vertical": false,
+   "desc": "The image on the screen is static, no feedback involved. The image moves because the camera is held at different angles. Howto is in the making :)"
+  },
+  {
+   "id": "feN0rc48lA4",
+   "t": "$10 3d monitor - try2",
+   "d": "2008-08-20",
+   "v": 2015,
+   "s": 74,
+   "vertical": false,
+   "desc": "Picked up the project. This has less unique angles, but waaaaay better recordability. Still, a camera can't capture the way the multiple angles for each eye fool your brain into believing there really is a 3d image..."
+  },
+  {
+   "id": "MqIfd9ModbQ",
+   "t": "3d monitor - laptop variant",
+   "d": "2008-08-22",
+   "v": 1732,
+   "s": 57,
+   "vertical": false,
+   "desc": "This is the final video I'll try to make of the 3d-monitor-project. Fyi: this is just a mini-laptop with a transparency sheet with a custom design printed on it, in combination with a specific image displayed on the laptop-screen. I hope the 3d-effect is visible; it really is much better when viewed IRL, not in the least because you're missing stereo-vision here."
+  },
+  {
+   "id": "ti_soK51y-Q",
+   "t": "Ledboard; expanded once more",
+   "d": "2008-09-28",
+   "v": 10564,
+   "s": 58,
+   "vertical": false,
+   "desc": "I expanded my ledboard to 96x48 pixels. I still need to get me some more bandwith to all AVR's tho', the framerate is visibly lower than it was with the 64x32 board."
+  },
+  {
+   "id": "sPe5RtUOOdc",
+   "t": "Two light-sensitive flickering LEDs: only 4 components",
+   "d": "2008-11-01",
+   "v": 22669,
+   "s": 62,
+   "vertical": false,
+   "desc": "This uses just 4 components: 2 leds, an ATTiny13 and a battery.\r\nSee http://spritesmods.com/?art=minimalism&f=yt for more info."
+  },
+  {
+   "id": "Iy3Ysvk2_tc",
+   "t": "BB on a LED-board",
+   "d": "2008-11-14",
+   "v": 8815,
+   "s": 180,
+   "vertical": false,
+   "desc": "Hacked version of AALib emitting data from the demo BB to my led-board"
+  },
+  {
+   "id": "zGRvccsAH7E",
+   "t": "AVR can modify LaserJets display",
+   "d": "2008-12-11",
+   "v": 20331,
+   "s": 41,
+   "vertical": false,
+   "desc": "Using an AVR (ATTiny2313) to send a message to the display of a LaserJet. See http://spritesmods.com/?art=ljdisplay&f=yt for more info."
+  },
+  {
+   "id": "_6bfGLmmqVY",
+   "t": "13-segment 11-digit vfd, first light",
+   "d": "2008-12-21",
+   "v": 2401,
+   "s": 13,
+   "vertical": false,
+   "desc": "An ATTiny2313 controlling a nice 7-segment display. Howto is in the making."
+  },
+  {
+   "id": "PZH7JRN3BMk",
+   "t": "VFD - final",
+   "d": "2008-12-24",
+   "v": 4273,
+   "s": 27,
+   "vertical": false,
+   "desc": "The Starburst (-ish, 13 segments/digit) VFD with its custom controller in its final position: in the front-panel of my small mp3-player PC. More info: http://spritesmods.com/?art=vfdcontroller&f=yt"
+  },
+  {
+   "id": "jn8DZh0rPHI",
+   "t": "Building a closet - timelapse",
+   "d": "2009-03-16",
+   "v": 8309,
+   "s": 118,
+   "vertical": false,
+   "desc": "This movie is in HD, so please click on the Youtube HD icon. I needed another closet, and I decided on trying out my new 450D combined with a netbook and gphoto2 to make a timelapse. Unfortunately the hard drive filled up, so the movie end when the closet isn't fully completed, but I decided to put it up anyway. Music: Hoxman - All Is Funky, http://magnatune.com/artists/hoxman, which is, like this video, cc-by-nc-sa-licensed."
+  },
+  {
+   "id": "3sOiAxwfLYM",
+   "t": "NovoMini, first proof of concept",
+   "d": "2009-05-12",
+   "v": 380,
+   "s": 50,
+   "vertical": false,
+   "desc": "9 leds, a microcontroller, a phototransistor, some assorted electronics (uC, resistors etc) plus some plexiglass. Sensitivity is a bit low, I improved that later."
+  },
+  {
+   "id": "218S5koE4YA",
+   "t": "NovoMini, final",
+   "d": "2009-05-17",
+   "v": 4567,
+   "s": 147,
+   "vertical": false,
+   "desc": "Demonstration of the NovoMini I built. See also: http://spritesmods.com/?art=novomini . Music is GENS SONG by pdf: http://www.myspace.com/pdfmusic"
+  },
+  {
+   "id": "IQe60kfSGzs",
+   "t": "Caged controllable bristlebot",
+   "d": "2009-06-14",
+   "v": 13463,
+   "s": 53,
+   "vertical": false,
+   "desc": "A bristlebot going only straight isn't much fun, so I decided to cage mine with a whiteboard marker and custom programming. When it detects the line, it'll do a 180 degrees turn so it goes back into the 'cage'."
+  },
+  {
+   "id": "hZs2jMl3WIs",
+   "t": "Controllable bristlebot",
+   "d": "2009-06-14",
+   "v": 7979,
+   "s": 41,
+   "vertical": false,
+   "desc": "This is a bristlebot with two bristles and a mouse sensor in between, tied together with a microcontroller. The idea is to let the mouse sensor detect any aberrations from a straight path, and actuate one of the two motors more to compensate for that. It doesn't completely work out, but on average, the path is much straighter than with a simple bristlebot."
+  },
+  {
+   "id": "8q2JFeTuZhs",
+   "t": "Bristlebot",
+   "d": "2009-06-14",
+   "v": 402,
+   "s": 10,
+   "vertical": false,
+   "desc": "A simple bristlebot. Video is there to show that even on a obstacle-less surface, the bit isn't going in any particular direction."
+  },
+  {
+   "id": "NektsV1EOic",
+   "t": "DIY 3d monitor",
+   "d": "2009-12-13",
+   "v": 34604,
+   "s": 47,
+   "vertical": false,
+   "desc": "3d monitor using transparency sheet and a laptop TFT. Howto will be on Spritesmods.com shortly. The monitor just displays a static image, the 'screen' in front of it makes the image move when I move the camera. The image in real life is better, by the way: the lines on the parralax barrier interfere with the CCD of my camera."
+  },
+  {
+   "id": "YyjDcAzNJQ0",
+   "t": "RGB wall",
+   "d": "2010-02-10",
+   "v": 46310,
+   "s": 28,
+   "vertical": false,
+   "desc": "Eat this, LivingColor/Ambilight! More info on my site: http://spritesmods.com/?art=rgbwall"
+  },
+  {
+   "id": "I4kZ4nEhiuk",
+   "t": "Fireworks in Beijing",
+   "d": "2010-03-02",
+   "v": 275,
+   "s": 35,
+   "vertical": false,
+   "desc": "Fireworks in Beijing at the end of the new Chinese year festival."
+  },
+  {
+   "id": "GTAe72shTFM",
+   "t": "LPC1343 controlling a Macintosh SE/30 monitor",
+   "d": "2010-08-15",
+   "v": 7257,
+   "s": 166,
+   "vertical": false,
+   "desc": "This is for a casemod I'm working on. More details coming up when it's done, at spritesmods.com"
+  },
+  {
+   "id": "9pJHqaF23B8",
+   "t": "Mac-floppy made into a card-reader",
+   "d": "2010-08-18",
+   "v": 12255,
+   "s": 31,
+   "vertical": false,
+   "desc": "I'm needing this for my upcoming casemod."
+  },
+  {
+   "id": "PS-2K6FVor8",
+   "t": "miniVmac on a dockstar interfacing with a homemade gpu controlling a MacSE/30 display",
+   "d": "2010-09-22",
+   "v": 1695,
+   "s": 24,
+   "vertical": false,
+   "desc": "See title. Project will be on spritesmods.com soon. And yes, I know this looks like an ordinary Mac booting, but I assure you that there's no 68K-processor anywhere near this contraption."
+  },
+  {
+   "id": "nvWY7wD8XEg",
+   "t": "Macintosh SE/ARM casemod",
+   "d": "2010-11-03",
+   "v": 22377,
+   "s": 424,
+   "vertical": false,
+   "desc": "A demonstration of my fileserver casemodded in a Macintosh SE/30. The new hardware can still emulate the old machine more or less faithfully, while acting as a full-blown Linux fileserver too."
+  },
+  {
+   "id": "IuC3rB-6RM0",
+   "t": "ZX3 running custom firmware patch",
+   "d": "2010-12-21",
+   "v": 12676,
+   "s": 41,
+   "vertical": false,
+   "desc": "This ZX3 has a few files on its SD-card, causing the firmware to patch itself in RAM with some custom routines. See spritesmods.com (soon) for more info."
+  },
+  {
+   "id": "APTmIr6ezYs",
+   "t": "Tetris on ACAB display",
+   "d": "2010-12-30",
+   "v": 583,
+   "s": 50,
+   "vertical": false,
+   "desc": "Having some fun with the All Colors Are Beautiful setup at 27C3. My friend uses my laptop to play Tetris on the huge-ass wall in front of us; I hacked together the Tertis-app in the half hour before that."
+  },
+  {
+   "id": "joedTMgo4Nk",
+   "t": "Coin validator demo",
+   "d": "2011-02-27",
+   "v": 3320,
+   "s": 117,
+   "vertical": false,
+   "desc": "Home-made coin validator. Article will be on spritesmods.com soon-ish."
+  },
+  {
+   "id": "Avb23FWcEeU",
+   "t": "Scanner line-CCD fashioned into a multitouch touchscreen",
+   "d": "2011-03-13",
+   "v": 41469,
+   "s": 164,
+   "vertical": false,
+   "desc": "Project details: http://spritesmods.com/?art=lineccdts Small demo of my touchscreen, fashioned out of the line-CCD of a flatbed scanner, a few IR LEDs, a microcontroller and some software."
+  },
+  {
+   "id": "FRsh-K8A_ws",
+   "t": "Wav-playing doorbell",
+   "d": "2011-04-13",
+   "v": 10205,
+   "s": 26,
+   "vertical": false,
+   "desc": "Quick demo of the set-up and sound quality. Recorded with my N900. For schematics etc, see http://spritesmods.com/?art=doorbell"
+  },
+  {
+   "id": "PDYlnt7I4r4",
+   "t": "Real-life Minecraft portal",
+   "d": "2011-05-04",
+   "v": 38066,
+   "s": 25,
+   "vertical": false,
+   "desc": "Real-life Minecraft portal using a Nokia LCD and some woodwork. See http://spritesmods.com/?art=mcportal for a complete explanation."
+  },
+  {
+   "id": "-1sksDT-J0I",
+   "t": "Preview for next project.",
+   "d": "2011-06-10",
+   "v": 1023,
+   "s": 101,
+   "vertical": false,
+   "desc": "No after-effects or whatever used, and I'm not doing anything tricky when the camera's looking in the other direction. Both the GBA and the MIDI keyboard are unmodified. And I suck at playing the keyboard :)"
+  },
+  {
+   "id": "TUhZJgKGBd8",
+   "t": "FPGA plus CRT wizardry",
+   "d": "2011-07-31",
+   "v": 1095,
+   "s": 58,
+   "vertical": false,
+   "desc": "Recently I got a couple of broken-ish PCBs from my work. They had a nice FPGA on it, and most of these still worked. Time for some VHDL-hacking! The FPGA is connected to a board with 2 TDA2030s providing the deflection for the 6\" CRT you see here. The complete contraption runs Asteroids, a modified version from fpgaarcade.com The CRT is a color one, so I am planning on porting color games like Major Havoc. Perhaps if I manage to make a VHDL version of the Mathbox, I can even run stuff like I Robot and Tempest..."
+  },
+  {
+   "id": "scgBbHuNVAE",
+   "t": "GBA to MIDI cable",
+   "d": "2011-08-07",
+   "v": 31956,
+   "s": 487,
+   "vertical": false,
+   "desc": "A demonstration of the software contained in the AVR of the GBA-to-MIDI-cable as described on my site: http://spritesmods.com?art=gbamidi Apologies to Martin Galway for the abuse of his song.; the original can be heard e.g. here: http://www.youtube.com/watch?v=nf29ShkoAiA"
+  },
+  {
+   "id": "C8eAUTDx0Ms",
+   "t": "Black Widow on DIY hardware",
+   "d": "2011-12-04",
+   "v": 1309,
+   "s": 139,
+   "vertical": false,
+   "desc": "Sneak peek of the arcade game Black Widow running on custom hardware with a DIY vector monitor + driver. The Zx3 I used to record it unfortunately has fixed focus, so the lines are a bit blurry..."
+  },
+  {
+   "id": "HV6YQ4WKtYY",
+   "t": "FM-transmitter using only two parts",
+   "d": "2012-01-25",
+   "v": 33083,
+   "s": 95,
+   "vertical": false,
+   "desc": "That's an ATTiny45 and a battery (OK, which consists of 2 button cells.) It has a very short range, but can transmit FM-signals. Article about it is on my site: http://spritesmods.com/?art=avrfmtx&f=yt"
+  },
+  {
+   "id": "s0boi8KJw6g",
+   "t": "Reprogramming an FPGA over JTAG using an AVR and a bit of flash",
+   "d": "2012-02-08",
+   "v": 7639,
+   "s": 78,
+   "vertical": false,
+   "desc": "A demonstration of my standalone JTAG device on a NC220 clone. Belongs to this article: http://spritesmods.com/?art=stdalonejtag&f=yt"
+  },
+  {
+   "id": "CroIdhD3veE",
+   "t": "Black Widow on an FPGA: Gameplay",
+   "d": "2012-03-15",
+   "v": 11045,
+   "s": 146,
+   "vertical": false,
+   "desc": "A video to show off how well (or not) the vector CRT and controlling circuitry of my Black-Widow-arcade-in-an-fpga works. Sorry for the artifacts, seems the SD-card isn't as compatible with my camera as I hoped... Article about this build is online at http://spritesmods.com/?art=bwidow_fpga&f=yt"
+  },
+  {
+   "id": "Y9VPMiHnHFo",
+   "t": "Classifying capacitive touchsensor using an ATMega88 and libsvm",
+   "d": "2012-05-08",
+   "v": 10733,
+   "s": 111,
+   "vertical": false,
+   "desc": "I copied the idea of the Disney Research Labs' Touche-sensor with an ATMega88 and some host software built around libsvm. It works fairly well. Full article is online at http://spritesmods.com/?art=engarde&f=yt"
+  },
+  {
+   "id": "69WJuxghAQ8",
+   "t": "SSD1289-based display on a Carambola",
+   "d": "2012-06-24",
+   "v": 18013,
+   "s": 186,
+   "vertical": false,
+   "desc": "More info: http://spritesmods.com/?art=spitft\nWarning in advance: the camera made the colors of the LCD look extremely bad, with blue moire-lines all over. The real image is much better.\nThis is a SSD1289-based display in 16-bit parallel mode connected to a Carambola (350MHz MIPS-architecture board with 32M of RAM, 8M of flash and no intrinsic display support) over the SPI-interface. This concept should be portable to any Linux-device with a (preferably hardware-) SPI port."
+  },
+  {
+   "id": "AzrvO8r8_pU",
+   "t": "2.4\" LCD on Raspberry Pi GPIO",
+   "d": "2012-10-11",
+   "v": 129291,
+   "s": 91,
+   "vertical": false,
+   "desc": "This is a Raspberry Pi with a cheap 320x240 LCD connected to its GPIO. I modified a framebuffer driver I created earlier to support this configuration, and as you can see, it now can be used as a Linux console and a mplayer video output. Full article incorporating a.o. this display: http://spritesmods.com/?art=rpi_arcade"
+  },
+  {
+   "id": "5npkz0xY1fo",
+   "t": "Raspberry Pi-based micro arcade cabinet",
+   "d": "2012-11-25",
+   "v": 366613,
+   "s": 218,
+   "vertical": false,
+   "desc": "Article documenting this: http://spritesmods.com/?art=rpi_arcade&f=yt\nI made a miniature arcade cabinet based on a Raspberry Pi. It has a GPIO-driven 2.4\" LCD, a custom-made PSU to power it from LiIon batteries, 3W of stereo speakers and buttons/joystick."
+  },
+  {
+   "id": "j6n5ftP6hII",
+   "t": "Plasma display driven by an FT2232H",
+   "d": "2012-11-30",
+   "v": 3154,
+   "s": 74,
+   "vertical": false,
+   "desc": "This is a 640x400 monochrome amber plasma display from a Compaq Portable 3, an old 'portable' 286 machine. The plasma display is driven by a FT2232H connected to my main PC. I use a program to read out a virtual framebuffer and send that data (16MBit worth of it!) over USB2 to the FT2232H which then pushes the pixels into the display itself. The display is not intelligent, it needs to be refreshed 50x/second or you get no image. Unfortunately, that interferes a bit with my camera's CCD, giving the black bands you see scrolling over the display... they're not there in real life. The song/clip i"
+  },
+  {
+   "id": "VluX6g63dqk",
+   "t": "3d printer that prints figures in jello shots",
+   "d": "2013-12-23",
+   "v": 672052,
+   "s": 79,
+   "vertical": false,
+   "desc": "This is a close-up of my figures-in-jello-printing 3d-printer hack. Content of the shot glasses is jello (duh), printing fluid is a mixture of banana liquor, food colouring and starch to make it less viscose. Printer is made out of old cdrom drives. Article on how it's made is online at http://spritesmods.com/?art=jello3dprinter&f=yt"
+  },
+  {
+   "id": "WVbBAxcVX3k",
+   "t": "Olinuxino Nano directly controlling four WS2811-based LED-strips",
+   "d": "2013-12-28",
+   "v": 20362,
+   "s": 26,
+   "vertical": false,
+   "desc": "Demonstration of a trick I designed to be able to directly control WS2811-based LED-strips from an iMX233-based Linux-running board. With this, I can theoretically control 16 strips of up to 900 LEDS/strip at 40Hz refresh rate. No other hardware than the strips, the Olinuxino Nano and a 5V PSU is used. The Linux-distro is minifs, a minimal Linux userspace thing, that's why the boot time is so low. And yes, I'll publish an article about this soon."
+  },
+  {
+   "id": "O_alQdXyn1Q",
+   "t": "Magnetic robot substrate thing: final test",
+   "d": "2014-06-06",
+   "v": 15756,
+   "s": 20,
+   "vertical": false,
+   "desc": "Final test of my attempt to replicate the SRI Magnetically Actuated Micro-robot thing (https://www.youtube.com/watch?v=uL6e3co4Qqc). It works, but the active surface is tiny and making the magnet run around for too long burns out the PCBs. Without the diamagnetic trick SRI pulled, I think this is the best I can do. Details of this build are up at http://spritesmods.com/?art=magnmicrobots"
+  },
+  {
+   "id": "65c2otWBws4",
+   "t": "Coolermaster Rapid-I hack: led control over USB",
+   "d": "2014-11-16",
+   "v": 45850,
+   "s": 13,
+   "vertical": false,
+   "desc": "Another part of the hack I did enables modifying the LEDs using USB commands. Here, this is used to allow the connected laptop to generate animations whenever a key is pressed. The laptop runs a fluid simulation influenced by the keys pressed on the keyboard. Article on how I did it: http://spritesmods.com/?art=rapidisnake&f=yt"
+  },
+  {
+   "id": "enzU9u328Fc",
+   "t": "Playing Snake with hacked Coolermaster Rapid-I firmware",
+   "d": "2014-11-16",
+   "v": 622381,
+   "s": 68,
+   "vertical": false,
+   "desc": "I hacked the firmware for my Coolermaster Rapid-I to replace one of the lighting modes with a Snake game. It already does the other modes out of the box. Article on how I did it: http://spritesmods.com/?art=rapidisnake&f=yt"
+  },
+  {
+   "id": "_aFXvoTnsBU",
+   "t": "Bad Apple - Vectrex version",
+   "d": "2015-04-09",
+   "v": 115141,
+   "s": 255,
+   "vertical": false,
+   "desc": "Bad Apple (the Touhou shadowplay clip) digitized, vectorized, compressed, linearized, resampled, rescaled and playing on a cartridge of my own design. Article on how I did it coming up on Spritesmods.com"
+  },
+  {
+   "id": "VuVnoqFF3II",
+   "t": "Doom on a Vectrex",
+   "d": "2015-04-09",
+   "v": 165666,
+   "s": 75,
+   "vertical": false,
+   "desc": "This is straight from the camera, no after-effects or other postprocessing, running on a plain old Vectrex. The Doom version is entirely interactive (although hard to play with the Vectrex controller). And no, a Vectrex normally isn't powerful enough to do 3d rendering like this; I'm cheating in some way :) Article on the specifics is coming up on Spritesmods.com ."
+  },
+  {
+   "id": "OVZnVhBfNuo",
+   "t": "Sega Master System emulator running on an ESP31",
+   "d": "2015-12-18",
+   "v": 10228,
+   "s": 85,
+   "vertical": false,
+   "desc": "See http://esp32.com/viewtopic.php?f=2&t=53 for more details.\n\nSo this is a port of SMSPlus to the a beta board of the Espressif ESP32 processor. It happily runs at 15FPS, mostly limited to that because the LCD isn't willing to receive data any faster over the SPI interface. I developed this as an Espressif employee. (Sorry for the choppy video, by the way, my phone didn't want to cooperate.)"
+  },
+  {
+   "id": "cUnvWy8R8Jo",
+   "t": "Demo of VFD display",
+   "d": "2016-04-20",
+   "v": 7459,
+   "s": 31,
+   "vertical": false,
+   "desc": "A VFD display I recycled. There's some weird jitter going on, but I think that's due to the inevitable interference between frame rate of the camera and frame rate of the VFD. The VFD is controlled using a Raspberry Pi 2 inside the box. For more info, see http://spritesmods.com/?art=vfdrestoration&f=yt"
+  },
+  {
+   "id": "ympmRydFMmE",
+   "t": "Nofrendo NES-emulator ported to the ESP32",
+   "d": "2016-10-10",
+   "v": 27273,
+   "s": 288,
+   "vertical": false,
+   "desc": "This is a demo of the Nofrendo NES-emulator I ported to the ESP32 in about a day. Sound is not available and the display driver is slightly hackish, but otherwise it works fine. Source is available at https://github.com/espressif/esp32-nesemu"
+  },
+  {
+   "id": "9t1qx0uWTSg",
+   "t": "Flashing Light Prize 2017: Servers as Distributed World-wide Delay Elements",
+   "d": "2017-07-02",
+   "v": 3665,
+   "s": 190,
+   "vertical": false,
+   "desc": "My entry in the Flashing Light Prize 2017. Sorry for the crappy production quality; I didn't have any hardware but my non-autofocussing DSLR to shoot this with."
+  },
+  {
+   "id": "Gb_JFDa0AIo",
+   "t": "Esp32-Doom quick demo",
+   "d": "2017-07-03",
+   "v": 38683,
+   "s": 63,
+   "vertical": false,
+   "desc": "Quick and dirty demo of some gameplay of Esp32-Doom. See https://www.esp32.com/viewtopic.php?f=18&t=2338 for what's required to get it running."
+  },
+  {
+   "id": "m2JOs0Aldq0",
+   "t": "Doom on a Rigol MSO5000 oscilloscope",
+   "d": "2019-01-19",
+   "v": 17604,
+   "s": 136,
+   "vertical": false,
+   "desc": "The Rigol MSO5000 is an oscilloscope that runs Linux. People have managed to get access to a root prompt. According to ancient Internet rules, this means someone has to port Doom to it.\n\n\nSources & files to try this yourself are here: https://github.com/Spritetm/prboom-mso5k"
+  },
+  {
+   "id": "UCPUPO21Cwk",
+   "t": "Frekvens eye box thing",
+   "d": "2020-03-28",
+   "v": 5438,
+   "s": 54,
+   "vertical": false,
+   "desc": "This is my Frekvens LED box hack. I effectively removed the brains and replaced it with an ESP-Cam board. Now it shows an eye that tracks any movement around. Yes, it's not very useful, I agree. Article on http://spritesmods.com/?art=frekvens"
+  },
+  {
+   "id": "jtmNOZVrz98",
+   "t": "Tiny DEC VT-102 model containing an ESP32 emulating a PDP11 running 2.11BSD",
+   "d": "2021-01-11",
+   "v": 12680,
+   "s": 399,
+   "vertical": false,
+   "desc": "Article about the build is up: https://spritesmods.com/?art=minipdp11\n\n\n\nThis is a small 3d-printed model of a Dec VT-102 serial terminal, containing an ESP32-based board. The ESP32 runs a stripped down version of SimH which emulates a PDP11 running 2.11BSD. As the WiFi stack of the ESP32 is linked to the PDP11, you can also access the Internet from within 2.11BSD."
+  },
+  {
+   "id": "EpbRpu-3eZs",
+   "t": "DMGPlus project demo",
+   "d": "2021-06-27",
+   "v": 7435,
+   "s": 462,
+   "vertical": false,
+   "desc": "I did some hackery with an original Game Boy. This is a demonstration. If you want to know the technical nitty-gritty, article is on https://spritesmods.com/?art=dmgplus"
+  },
+  {
+   "id": "dB6ook03iDI",
+   "t": "Wcsp chip soldering, attempt 2",
+   "d": "2022-03-12",
+   "v": 1315,
+   "s": 6497,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "VncoUMaP0Mc",
+   "t": "Deadbugging a tiny wcsp chip",
+   "d": "2022-03-12",
+   "v": 261,
+   "s": 1146,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "wOE9K0gox3E",
+   "t": "Soldering a WCSP package to a cheapo 2-layer PCB",
+   "d": "2022-03-16",
+   "v": 6617,
+   "s": 578,
+   "vertical": false,
+   "desc": "In this video I'll solder a HC32L110 WCSP-package chip to a devboard. Note that I don't pretend this is the best or the only way, this is simply the way that works for me. The purpose of this is to demonstrate that soldering even these tiny packages is within the reach of a hobbyist, given you have some tools (microscope and hot air rework station)"
+  },
+  {
+   "id": "0JSB5lK9SYs",
+   "t": "Pinball Fantasies miniature table intro",
+   "d": "2022-07-19",
+   "v": 16223,
+   "s": 57,
+   "vertical": false,
+   "desc": "Introduction to the miniature Pinball Fantasies table I built. Get the full technical details in the article: https://spritesmods.com/?art=pbftable&f=yt"
+  },
+  {
+   "id": "u9ODhV40aEI",
+   "t": "Doom Christmas Bauble - teaser",
+   "d": "2022-12-05",
+   "v": 39438,
+   "s": 91,
+   "vertical": false,
+   "desc": "This is a small teaser of the Doom xmas tree bauble I made. More info, schematics, firmware, and the 3d model are on https://spritesmods.com/?art=doom-bauble ."
+  },
+  {
+   "id": "11tu9p26eIA",
+   "t": "How to replace the flash on an ESP32-C3-Wroom-02 module (or any ESP module)",
+   "d": "2022-12-08",
+   "v": 5819,
+   "s": 339,
+   "vertical": false,
+   "desc": "Simple instructions on how to replace the flash. There's multiple ways to do this, this is how I do it."
+  },
+  {
+   "id": "MxBbElC1VXM",
+   "t": "VapourDeck demonstration",
+   "d": "2026-07-05",
+   "v": 2380,
+   "s": 382,
+   "vertical": false,
+   "desc": "This is a demo of the VapourDeck I made, a portable Steam Deck-style 486 PC. For all the technical details, see https://spritesmods.com/?art=vapourdeck&f=yt"
+  }
+ ]
+}

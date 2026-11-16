@@ -1,0 +1,1044 @@
+{
+ "channel": {
+  "id": "UC56l7uZA209tlPTVOJiJ8Tw",
+  "title": "Low Byte Productions",
+  "handle": "@lowbyteproductions",
+  "description": "Low Byte Productions is a YouTube channel goes deep into the heart of low level programming - messing with ones and zeros.\n\npatreon: https://www.patreon.com/lowleveljavascript\nmailing list: https://tinyletter.com/lowleveljavascript\ntwitter: @lowleveljs\nreddit: reddit.com/r/lowleveljavascript \ndiscord: https://discord.gg/FPWaVgk",
+  "since": "2019-05-14",
+  "avatar": "https://yt3.ggpht.com/3etC-nv8tLWi-SMHlcEZAYpfpsni1wv2tVfwI4-xKgf1_xOrUcIrvn-aSTArze9o9YWPmZKDVA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "2946530",
+  "subscriberCount": "87400",
+  "hiddenSubscriberCount": false,
+  "videoCount": "114"
+ },
+ "videos": [
+  {
+   "id": "6oQLRhw5Ah0",
+   "t": "How Parser Combinators Work [Parser Combinators From Scratch] Episode 1",
+   "d": "2019-07-22",
+   "v": 47983,
+   "s": 1265,
+   "vertical": false,
+   "desc": "In this episode we dive into what a parser combinator library is, and how it is used in practice.\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n- arcsecond : https://gi"
+  },
+  {
+   "id": "1axJDmK_pnE",
+   "t": "Implementing the mechanics [Parser Combinators From Scratch] Episode 2",
+   "d": "2019-07-30",
+   "v": 15399,
+   "s": 1230,
+   "vertical": false,
+   "desc": "In this episode we explore how the primary mechanism of parser combinators works: A function that transforms one parser state into another. We implement the str and sequenceOf parsers, as well as a internal error handling mechanism.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= "
+  },
+  {
+   "id": "xB7lFPMN4dU",
+   "t": "Classes, mapping, and generic parsers [Parser Combinators From Scratch] Episode 3",
+   "d": "2019-08-06",
+   "v": 12333,
+   "s": 1303,
+   "vertical": false,
+   "desc": "In this episode we'll create a Parser class and implement map, a method that will allow us to apply arbitrary structure as we parse.\nWe'll also build more general parsers like letters and digits, as well as combinators like choice and many.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \u26d3 Lin"
+  },
+  {
+   "id": "nqNzWgSRCeg",
+   "t": "Contextual Parsing With The Chain Method  [Parser Combinators From Scratch] Episode 4",
+   "d": "2019-08-13",
+   "v": 7752,
+   "s": 1320,
+   "vertical": false,
+   "desc": "In this episode we will write the method `Parser.chain(fn)` which utilises functional programming concepts to empower our system with contextual abilities!\n\nWhat that really means is that we can look at what we've previously parsed, and choose the next parser accordingly.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective "
+  },
+  {
+   "id": "PzodUuERBZc",
+   "t": "Building A Language Parser and Interpreter [Parser Combinators from Scratch] Episode 5",
+   "d": "2019-08-20",
+   "v": 12449,
+   "s": 1781,
+   "vertical": false,
+   "desc": "In this episode we dive into parsing recursive structures, and build a very simple functional language parser and interpreter.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.co"
+  },
+  {
+   "id": "sRWE5tnaxlI",
+   "t": "JavaScript Is Weird (EXTREME EDITION)",
+   "d": "2019-08-23",
+   "v": 703991,
+   "s": 1289,
+   "vertical": false,
+   "desc": "To offset some of the banana-based JavaScript \"weirdness\" that's making the rounds, I'm bring you a 40 line JSFuck compiler that turns innocent looking JS into a mess of obfuscated symbols.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n- Martin Kleppe's Original JSFuck: http://www.jsfuck.com/\n- Martin on Twitter: https://twitter.com/aemkei\n- Parser Combinators From Scratch Series: https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU\n- Github repo: https://github.com"
+  },
+  {
+   "id": "ZgHlc3Q2YjU",
+   "t": "Ones and Zeros: Binary Part 1 [Parser Combinators from Scratch] Episode 6",
+   "d": "2019-08-27",
+   "v": 4515,
+   "s": 1140,
+   "vertical": false,
+   "desc": "In this episode the parser combinator system is turned on binary data. We learn how to specify and extract  individual bits, Typed Arrays, ArrayBuffers and DataViews, and about important concepts like bit ordering.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: htt"
+  },
+  {
+   "id": "X1sKg0_r4JM",
+   "t": "Ints, Uints, and Parsing an IP Packet Header [Parser Combinators From Scratch] Episode 7",
+   "d": "2019-09-10",
+   "v": 3865,
+   "s": 1938,
+   "vertical": false,
+   "desc": "In this episode we finish up with binary parsing by building (almost) arbitrary precision integer and unsigned integer parsers, as well as a parser for extracting ascii strings.\n\nApologies for my voice in this one - I recorded at the tail end of a chest infection at 6am and it turns out that's when my voice is at it's most Barry White.\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-orie"
+  },
+  {
+   "id": "wPBjd-vb9eI",
+   "t": "Why 0.1 + 0.2 === 0.30000000000000004: Implementing IEEE 754 in JS",
+   "d": "2019-09-18",
+   "v": 72065,
+   "s": 1003,
+   "vertical": false,
+   "desc": "Floating point math is tricky. In this video, we'll learn how these numbers work in computers, and build a software implementation from scratch in JavaScript.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n- Floating Point Arithmetic: https://en.wikipedia.org/wiki/Floating-point_arithmetic\n- 16 Bit Floats: https://en.wikipedia.org/wiki/Half-precision_floating-point_format\n- IEEE 754 Spec: https://ieeexplore.ieee.org/document/30711\n- Fabien Sanglard's awesome blog on the subject: http://fabiensangl"
+  },
+  {
+   "id": "fTBwD3sb5mw",
+   "t": "16-Bit Virtual Machine in JavaScript 001",
+   "d": "2019-10-01",
+   "v": 61075,
+   "s": 1267,
+   "vertical": false,
+   "desc": "In this episode we begin implementing a 16-bit virtual machine from scratch in JavaScript. The concepts of computation are introduced, along with the basics of assembly language and machine code.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like langua"
+  },
+  {
+   "id": "wJ-pu6Iq0B8",
+   "t": "Memory Access and Branching (16-Bit VM in JavaScript 002)",
+   "d": "2019-10-15",
+   "v": 16706,
+   "s": 1102,
+   "vertical": false,
+   "desc": "In this video we establish the core instruction set of the VM, give the VM the capabilities to read and write to main memory, and also to make decisions about how the program should proceed with branching instructions.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A high"
+  },
+  {
+   "id": "mamop8aqFNk",
+   "t": "What is the Stack and why do we need it? (16-Bit VM in JavaScript 003)",
+   "d": "2019-10-31",
+   "v": 16329,
+   "s": 1065,
+   "vertical": false,
+   "desc": "In this episode we understand what a stack is, how it can be implemented on the lowest level, and how it can then be harnessed to allow the Virtual Machine to run subroutines without losing state.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like langu"
+  },
+  {
+   "id": "zAsn8q-X9HM",
+   "t": "Implementing Stack Mechanics (16-Bit VM in JavaScript 004)",
+   "d": "2019-11-13",
+   "v": 14681,
+   "s": 1179,
+   "vertical": false,
+   "desc": "In this episode, we create an implementation for the stack mechanisms that were described in the last episode. If you have seen that, you can find it at https://www.youtube.com/watch?v=mamop8aqFNk\n\n\n=[ \u2139 About \u2139 ]=\n\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like lan"
+  },
+  {
+   "id": "4GpwM8FmVgQ",
+   "t": "Promises From Scratch In A Post-Apocalyptic Future",
+   "d": "2019-11-27",
+   "v": 25084,
+   "s": 1395,
+   "vertical": false,
+   "desc": "=[ \u2139 About \u2139 ]=\n\nIn this installment of Low Level JavaScript we build a Promise implementation from scratch in order to understand exactly how asynchronous abstractions can be built on top of lower level primitives like callbacks.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n- Github Repo: https://github.com/LowLevelJavaScript/Promises-From-Scratch\n- Specification: https://promisesaplus.com\n- Promises (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+  },
+  {
+   "id": "Em2jqwROdZc",
+   "t": "Building Async/Await FROM SCRATCH using Generators",
+   "d": "2019-12-11",
+   "v": 12523,
+   "s": 946,
+   "vertical": false,
+   "desc": "In this episode we build on the Promise abstraction we built in the previous episode to create async/await from scratch using generator functions.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n- Github Repo: https://github.com/LowLevelJavaScript/Promises-From-Scratch\n- Specification: https://promisesaplus.com\n\n- Promises (MDN): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\n- Generator Functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Ref"
+  },
+  {
+   "id": "hLYGTpvoMgE",
+   "t": "What is Memory Mapped I/O? (16-Bit VM in JavaScript 005)",
+   "d": "2019-12-25",
+   "v": 15424,
+   "s": 1044,
+   "vertical": false,
+   "desc": "This this episode we implement memory mapped I/O, where the address space is utilised as common bus for components to communicate.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators "
+  },
+  {
+   "id": "1-1wWZdgZRI",
+   "t": "Powering Up With New Instructions (16-Bit VM in JavaScript 006)",
+   "d": "2020-02-05",
+   "v": 5223,
+   "s": 964,
+   "vertical": false,
+   "desc": "In this episode we add new instructions and capabilities to the VM, including:\n\n\n- More move instructions\n- More arithmetic capabilities for doing math\n- Binary logic instructions\n- Branches\n\n\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language."
+  },
+  {
+   "id": "yPEwjpIWOGg",
+   "t": "EXTRA: Chain Tricks For Sequential Parsing - Parser Combinators From Scratch",
+   "d": "2020-03-12",
+   "v": 3799,
+   "s": 818,
+   "vertical": false,
+   "desc": "In this episode we discover how the .chain() method (one of our monadic ingredients) allows us to turn deeply nested, contextual parser descriptions into flat, readable flows - much the same as async/await does for promises!\n\n=[ \u2139 About \u2139 ]=\n\nDuring this series we will develop an understanding of the concept of parsing, and build our own parser combinator system from scratch. The system we build will be capable of parsing both binary and text data. We'll make use of both object-oriented and function programming principles to develop an effective and intuitive library.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n- \u2b50\ufe0f Pa"
+  },
+  {
+   "id": "KhKq8a1m8r8",
+   "t": "Tour Through The Assembly Language and The Assembler (16-Bit VM in JavaScript 007)",
+   "d": "2020-03-29",
+   "v": 6803,
+   "s": 722,
+   "vertical": false,
+   "desc": "In this episode we're going to take a break from building functionality in the virtual machine and take a tour through the assembly language that this VM will support, and some features of the assembler - which will turn that assembly language into machine code.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly lan"
+  },
+  {
+   "id": "ai63l4OUxSs",
+   "t": "How Are State Machines Used In Parsing? (16-Bit VM in JavaScript 008)",
+   "d": "2020-04-09",
+   "v": 6064,
+   "s": 814,
+   "vertical": false,
+   "desc": "In this episode we begin building the parser for this VMs assembly language. During the process we'll encounter a tricky problem with parser combinators, and how we can solve it using state machines.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like la"
+  },
+  {
+   "id": "anZPHeA0WKU",
+   "t": "Digital Circuit Simulator In JavaScript: 7400 Subscriber Special!",
+   "d": "2020-04-15",
+   "v": 28464,
+   "s": 1038,
+   "vertical": false,
+   "desc": "=[ \u2139 About \u2139 ]=\n\nIn this special 7400 subscriber special of Low Level JavaScript we're going to build a digital logic simulator, inspired by the famous 7400 series logic chips. Starting with logic gates and moving up to Flip Flops, Registers, and more - this simulator could be used to build something as complex as even a CPU!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]=\n\n\n- \u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n- \ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n\n\u00a0- Github Repo: https://github.com/LowLevelJavaScript/Digital-Logic-Simulator\n- Ben Eater: https://www.youtube.com/user/eater"
+  },
+  {
+   "id": "EaUBBDESWCY",
+   "t": "Parsing Nested Expressions and Disambiguating The Order Of Operations (16-Bit VM in JavaScript 009)",
+   "d": "2020-05-06",
+   "v": 4132,
+   "s": 880,
+   "vertical": false,
+   "desc": "In this episode we're continuing with the assembler; finalising the \"Move Literal To Register\" instruction parser, and implementing the rules that govern the order of operations.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and"
+  },
+  {
+   "id": "YYZopr1dr_E",
+   "t": "A parser for every instruction? (16-Bit VM in JavaScript 010)",
+   "d": "2020-05-22",
+   "v": 4754,
+   "s": 785,
+   "vertical": false,
+   "desc": "In this episode we build a parser that can handle every instruction that the VM currently supports.\n\n=[ \u2139 About \u2139 ]=\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C like language. We'll use and expand the library from the parser combinators from scratch series\n- And final"
+  },
+  {
+   "id": "5PXMwvUkOKI",
+   "t": "Generating Machine Code (16-Bit VM in JavaScript 011)",
+   "d": "2020-06-06",
+   "v": 8717,
+   "s": 1145,
+   "vertical": false,
+   "desc": "In this episode we take the AST representation of the assembly code we get from the parser and turn it into real machine code - the bytes in memory that the virtual CPU executes as instructions. Along the way we'll add support for labels, allowing us to write location independent and logically grouped assembly code.\n\n\nBig shout out to patron Max Starr, whose LLJS IDE Project (https://github.com/manmon42/lljsvm-ide) is featured in this episode.\n\n\n\n=[ \u2139 About \u2139 ]=\n\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, "
+  },
+  {
+   "id": "TdPQ-1TEiNI",
+   "t": "Unsigned Numbers! [The Bits And Bytes Of Binary ep. 3]",
+   "d": "2020-06-26",
+   "v": 2179,
+   "s": 246,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "a23wQcaBfpc",
+   "t": "Operations! [The Bits And Bytes Of Binary ep.2]",
+   "d": "2020-06-26",
+   "v": 3175,
+   "s": 381,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "pOM86M1pGb4",
+   "t": "Bits! [The Bits And Bytes Of Binary ep.1]",
+   "d": "2020-06-26",
+   "v": 10285,
+   "s": 268,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "BSktALAB6RQ",
+   "t": "Zero Extension [The Bits And Bytes Of Binary ep.5]",
+   "d": "2020-07-10",
+   "v": 2635,
+   "s": 232,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "VMOyiYRFm8A",
+   "t": "Addition In Digital Logic [The Bits And Bytes Of Binary ep. 4]",
+   "d": "2020-07-10",
+   "v": 2426,
+   "s": 504,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "araYkE3KAms",
+   "t": "Expanding Beyond 64kb of Memory with Bank Switching (16-Bit VM in JavaScript 012)",
+   "d": "2020-07-28",
+   "v": 7809,
+   "s": 617,
+   "vertical": false,
+   "desc": "In this episode we're learning about memory bank switching - a technique common in the retro game console days - that allows us to address more memory than the limited address space that 16 bits provides!\n\n=[ \u2139 About \u2139 ]=\n\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A higher level, C l"
+  },
+  {
+   "id": "9KQ7a-0cSdk",
+   "t": "Interrupts (16-Bit VM in JavaScript 013)",
+   "d": "2020-08-11",
+   "v": 5235,
+   "s": 750,
+   "vertical": false,
+   "desc": "In this episode we're introducing a maskable interrupt mechanism to the VM. This allows the outside world, as well as software, to Interrupt the regular flow of execution and redirect it to somewhere else, immediately.\n\n=[ \u2139 About \u2139 ]=\n\n\nThis series is all about building a powerful virtual machine in JavaScript with the following features:\n\n- A flexible, extensible, register-based virtual machine\n- Support for signed, unsigned and floating point operations\n- A call stack \n- Interrupt capabilities\n- Ability to do memory mapping for IO\n- An assembly language with macro and module support\n- A hig"
+  },
+  {
+   "id": "udbA7u1zYfc",
+   "t": "Making WAVs: Understanding, Parsing, and Creating WAV Files in JavaScript",
+   "d": "2020-08-26",
+   "v": 67418,
+   "s": 1417,
+   "vertical": false,
+   "desc": "The WAVE file format is a binary format that encodes high fidelity audio data. But how is the audio encoded and stored? How can these files be read and created in JavaScript? That's what we'll find out in this video!\n\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/LowLevelJavaScript/Making-WAVs\n\n\nhttps://github.com/francisrstokes/arcsecond\nhttps://github.com/francisrstokes/construct-js\n\n\n\nhttp://soundfile.sapp.org/doc/WaveFormat/\nhttps://en.wikipedia.org/wiki/WAV\nh"
+  },
+  {
+   "id": "TXSgQZsVW8w",
+   "t": "Assembler Hacking: Inline Data And Constants (16-Bit VM in JavaScript 014)",
+   "d": "2020-09-16",
+   "v": 3431,
+   "s": 701,
+   "vertical": false,
+   "desc": "In this episode, we're going to implement 2 new features in the assembly language and assembler of the machine. The first is the ability to specify named, arbitrary data inline with the assembly code. And the second is the ability to specify named constants - whose values can be used meaningfully in the assembly code. \n\n\n\n00:00 - Intro\n01:23 - Parsing data directives\n04:54 - Parsing constant directives\n05:33 - Updating the main parser\n06:03 - Writing a test program in assembly\n07:03 - Refactoring the assembler\n08:02 - Extracting constant and semantics in the assembler\n08:58 - Encoding data blo"
+  },
+  {
+   "id": "GkipKe0S_5E",
+   "t": "Assembler Hacking: Structures (16-Bit VM in JavaScript 015)",
+   "d": "2020-10-05",
+   "v": 4183,
+   "s": 838,
+   "vertical": false,
+   "desc": "In this episode, we're going to implement structures. This feature allows a programmer to treat a symbolic name (referring to a memory address) as a particular kind of structured data.\n\n00:00 - Intro\n00:30 - What do structures do in LLJS Assembly?\n02:17 - Implementing the structure parser\n04:23 - Implementing the \"interpret as structure\" parser\n06:22 - Writing a test program in assembly\n06:43 - Tracking structure types in the assembler\n08:41 - Reinterpreting symbols as structures in the assembler\n10:40 - Testing structures by generating real machine code\n\n =[ \u2139 About \u2139 ]=\n\n\nThis series is all "
+  },
+  {
+   "id": "u01jb8YN2Lw",
+   "t": "How Do Regular Expressions Really Work?",
+   "d": "2020-10-20",
+   "v": 36750,
+   "s": 1750,
+   "vertical": false,
+   "desc": "In this video we're going to build a basic regular expression engine from scratch, in order to illustrate the underlying mechanisms that make them tick. First with a naive attempt, and then implementing the nuanced \"backtracking\" feature.\n\n00:00 - Intro\n\n00:53 - Constraints\n02:40 - Parsing\n10:45 - Writing the regex engine\n17:00 - Testing the engine\n18:40 - Fundamental flaw\n20:20 - Implementing backtracking\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\ud83d\udcbb Github R"
+  },
+  {
+   "id": "vgbOTf8lgTQ",
+   "t": "Twos Complement [The Bits And Bytes Of Binary ep.6]",
+   "d": "2020-11-05",
+   "v": 2898,
+   "s": 575,
+   "vertical": false,
+   "desc": "This mini series is all about binary. Over the course of the series, we'll be building a library that gives us precise control of every bit and operation.\nYou'll learn how the logical and arithmetic operations work, how different kinds of numbers are encoded, how to set, clear and toggle bits, and how we can create representations of structured binary data.\n\n1. Bits\n2. Operations\n3. Unsigned Numbers\n4. Addition\n5. Zero Extension\n6. Twos complement\n7. Overflow Addition and Sign Extension\n8. Shifting\n9. Setting, Clearing, and Toggling Bits\n10. Endianness\n11. Structures\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updat"
+  },
+  {
+   "id": "g29vCtzZPuk",
+   "t": "Building A Fantasy Game Console Emulator: System Overview and Graphics Pipeline",
+   "d": "2020-12-15",
+   "v": 14537,
+   "s": 1271,
+   "vertical": false,
+   "desc": "In this video we explore the details of the fantasy game console, based on the 16 Bit Virtual Machine - and begin coding the graphics pipeline.\n\n\nThe fantasy console serves as a very simple model for an emulator of a classic game console like the NES or the GameBoy, only without all the tricky real world details and limitations that come with such systems. It allows us to contextualise all the topics we've been learning about while building the VM, and gain some understanding about how it must have been to be a programmer in the days of true resource constraint!\n\n00:00 - Series Introduction\n00"
+  },
+  {
+   "id": "Dq_cpyrYI70",
+   "t": "\"Live\" Coding A NES Emulator in C++!",
+   "d": "2021-01-01",
+   "v": 30757,
+   "s": 5748,
+   "vertical": false,
+   "desc": "This video is a little different, for a few reasons - not least because the language being used isn't JS but rather C++!\nTogether we're building a NES emulator that will run on the teensy 4.1 microcontroller - and in this video specifically we're taking a look at the 6502 microcontroller, how it's instructions are organised and decoded, implementing clock cycle accuracy for each instruction.\n\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://g"
+  },
+  {
+   "id": "Otx96lJnLeo",
+   "t": "Building FPGA Hardware Using TypeScript: Driving An RGB LED Panel",
+   "d": "2021-01-14",
+   "v": 7453,
+   "s": 3725,
+   "vertical": false,
+   "desc": "In this video we're taking a look at gateware-ts, a TypeScript library for describing and building digital hardware for FPGAs in TypeScript. Specifically, we're building a driver for a 64x64 RGB LED Panel - the same as those used in large video wall displays.\n\n\nIf you want to try this project out for yourself, you can find the LED panels in many different places - including the 1bitsquared store mentioned in the video, but also sites like adafruit and other general electronics stockists have these kinds of panels available. If you don't mind the wait time, you can order them from China on site"
+  },
+  {
+   "id": "uQXY27d8Pao",
+   "t": "C++ NES Emulator: Investigating The Memory Map",
+   "d": "2021-01-29",
+   "v": 2645,
+   "s": 4190,
+   "vertical": false,
+   "desc": "In this video we're continuing to develop the NES Emulator that will run on a teensy 4.1 microcontroller. Specifically, we're investigating the memory map of the NES, what the different registers are and for what they're used. \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "USvkqF6bMZ4",
+   "t": "Fantasy Console Emulator: System Integration",
+   "d": "2021-03-09",
+   "v": 5868,
+   "s": 1519,
+   "vertical": false,
+   "desc": "In this installment of the Fantasy Game Console Series (an extension to the 16-Bit Virtual Machine Series), we're integrating the system. We'll be covering building out the memory mapped devices, integrating the CPU, taking and mapping input to the address space, and wiring in the graphics pipeline and execution model. We explore the data format for games by setting up all the required data and code in memory, including configuring the interrupt vector and handlers. As a bonus, we implement a caching solution for graphics which greatly improves the performance of drawing and thus of the entire"
+  },
+  {
+   "id": "UkPB1ukAgbI",
+   "t": "Frogger In Assembly: Fantasy Console Part 3",
+   "d": "2021-03-24",
+   "v": 5095,
+   "s": 3911,
+   "vertical": false,
+   "desc": "In this installment of the Fantasy Game Console Series (an extension to the 16-Bit Virtual Machine Series), we're creating a game in assembly! Specifically, we're trying to recreate the mechanics of frogger, a classic which should a bunch of interesting challenges and problems to solve.\n\nThe fantasy console serves as a very simple model for an emulator of a classic game console like the NES or the GameBoy, only without all the tricky real world details and limitations that come with such systems. It allows us to contextualise all the topics we've been learning about while building the VM, and "
+  },
+  {
+   "id": "B3uH517XbPs",
+   "t": "Mage ASCII Game Engine",
+   "d": "2021-04-13",
+   "v": 25431,
+   "s": 5310,
+   "vertical": false,
+   "desc": "In this video we're creating an ASCII game engine that runs in the browser! It should be flexible enough that we can build many different kinds of games in it, but its intended purpose is mainly for rougelike and adventure games.\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/LowLevelJavaScript/mage-ascii-game-engine/"
+  },
+  {
+   "id": "F-fa_yXcJbc",
+   "t": "Adding Method Overloading To Classes In JavaScript?",
+   "d": "2021-05-26",
+   "v": 4032,
+   "s": 3569,
+   "vertical": false,
+   "desc": "In this video we're building a runtime library that allows us to define more powerful classes. More specifically, it'll give us the ability to write strongly typed and overloadable constructors and methods.\n\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/francisrstokes/Classiest"
+  },
+  {
+   "id": "_eu8hFZP0oU",
+   "t": "Writing A Game For The Fantasy Console Emulator",
+   "d": "2021-06-22",
+   "v": 6167,
+   "s": 5302,
+   "vertical": false,
+   "desc": "In this video we're continuing to develop a Frogger-like game for the Fantasy Console, built on top of the 16-Bit Virtual Machine! One thing we're covering is bounds - making sure that when sprites go out of bounds they are correctly placed on the other side of the screen. The other is collision detection - where we can check and react on the idea of sprites intersecting with each other.\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n- First Episode of Frogger Dev: https://www.youtube.com/watch?v=UkPB1ukAgbI\n- 16BitVM Playlist: https://www.youtube.com/watch?v=fTBwD3sb5mw&list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b\n- Fantasy"
+  },
+  {
+   "id": "Vat4p2idDOA",
+   "t": "Hardware RISC-V CPU in TypeScript: First Steps",
+   "d": "2021-10-07",
+   "v": 12701,
+   "s": 5497,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "ER7h4ZTe19A",
+   "t": "Building The Worlds First CPU in TypeScript? (No Really!)",
+   "d": "2021-10-07",
+   "v": 15501,
+   "s": 2389,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nFirst development episode: https://www.youtube.com/watch?v=Vat4p2idDOA\ngateware-ts video: https://www.youtube.com/watch?v=Otx96lJnLeo\n\ngateware-ts repo: https://github.com/gateware-ts/gateware-ts\n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "ppRzESGUspI",
+   "t": "RISC-V Processor In TS: ALU (part 2)",
+   "d": "2021-10-19",
+   "v": 5388,
+   "s": 5426,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "mICAAvCi9Ws",
+   "t": "5 Stage Pipeline: RISC-V Processor In TS (part 3)",
+   "d": "2021-10-26",
+   "v": 4017,
+   "s": 4953,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "RZ9OrIprbUY",
+   "t": "Implementing Store Instructions: RISC-V part 4",
+   "d": "2021-11-01",
+   "v": 2270,
+   "s": 5388,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "NrOdQu8Spxo",
+   "t": "Implementing LOAD instructions: RISC-V ep.5",
+   "d": "2021-11-08",
+   "v": 2572,
+   "s": 4142,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "tjCF5R97pxk",
+   "t": "Unconditional Jumps and Running C code: RISC-V ep.6",
+   "d": "2021-11-16",
+   "v": 2982,
+   "s": 8191,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "RPUSuZwoiGA",
+   "t": "Turing Complete with Conditional Branches: RISC-V ep.7",
+   "d": "2021-11-24",
+   "v": 2070,
+   "s": 4608,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "ykbAKu77n5Q",
+   "t": "Control and Status Registers (CSRs): RISC-V ep.8",
+   "d": "2021-12-01",
+   "v": 5800,
+   "s": 6273,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "132wDVovzhw",
+   "t": "Command Line Hex Editor in TypeScript \ud83e\uddd9\ud83c\udffb",
+   "d": "2021-12-09",
+   "v": 6826,
+   "s": 4292,
+   "vertical": false,
+   "desc": "In this video we're spite-coding a command line hex editor that allows the editing of binary files in a simple and friendly interface like nano.\n\nSince the recording of this video, the development of `bewitched` has continued quite a bit, and you can find the latest code over on github (linked below).\n\nIf you want to try it out for yourself, you can run `npm i -g bewitched` to install. If you have ideas for features or want to report bugs, please use the github issues, or pass by the LLJS discord channel (linked below).\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleve"
+  },
+  {
+   "id": "GgsRQuGSrc0",
+   "t": "Building an ENCODER for the \"Quite OK Image Format\" (QOI)",
+   "d": "2021-12-25",
+   "v": 17619,
+   "s": 4829,
+   "vertical": false,
+   "desc": "The \"Quite OK Image Format\" (qoi) is a lossless compression image format that has similar performance to PNG, but with substantially faster encoding and decoding, making it a great choice for embedded systems.\nIn this video we're going to be writing an encoder in TypeScript, which allows us to take raw RGBA pixels and compress them using the algorithms specified by QOI.\nIn the next video, we'll write the corresponding decoder - and together these two components will allow us to take most common image formats and transform them to QOI, as well as being able to display QOI images in the browser."
+  },
+  {
+   "id": "5bWopQj-oQs",
+   "t": "Building an DECODER for QOI Images (Quite OK Image Format)",
+   "d": "2022-01-04",
+   "v": 7220,
+   "s": 5168,
+   "vertical": false,
+   "desc": "The \"Quite OK Image Format\" (qoi) is a lossless compression image format that has similar performance to PNG, but with substantially faster encoding and decoding, making it a great choice for embedded systems.\nIn this video we're going wrap our encoder implementation into a library, and build the corresponding decoder, which allows us to take a compressed QOI image and turn into a buffer of RGBA pixels. \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n- Encoder Video: https://www.youtube.com/watch?v=GgsRQuGSrc0\n- The QOI format: https://qoiformat.org/\n- Dominic Szablewski (the creator): https://twitter.com/phoboslab\n\n\ud83d\udc8c Up"
+  },
+  {
+   "id": "74co_YG39Bw",
+   "t": "Packing Bits For Compression",
+   "d": "2022-01-12",
+   "v": 9001,
+   "s": 3278,
+   "vertical": false,
+   "desc": "In this video, we're writing a \"Bit Packer\" - a tool that takes data that does not make use of every single bit in its representation, and \"packs\" it into a buffer that takes up the minimal amount of space. Technically this requires quite a bit of bit manipulation, and is trickier than you might think at first glance!\nThis will be needed for some projects in the future, where we'll be exploring methods for compressing data.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patr"
+  },
+  {
+   "id": "--Sgpjc8r6E",
+   "t": "[stream] Bus Pirate Integration With TypeScript / JavaScript",
+   "d": "2022-01-14",
+   "v": 3871,
+   "s": 4326,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "e7_lAcVndNo",
+   "t": "[stream] Driver For SPI Flash + Bus Pirate in TypeScript",
+   "d": "2022-01-22",
+   "v": 3527,
+   "s": 6664,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "_wGYhp6RxQ0",
+   "t": "[stream] More bus piracy, logic analysis, and e-SPI-onage",
+   "d": "2022-01-29",
+   "v": 1233,
+   "s": 5428,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "M6OW0KNkhhs",
+   "t": "Implementing A Generic Priority Queue",
+   "d": "2022-02-01",
+   "v": 8197,
+   "s": 3749,
+   "vertical": false,
+   "desc": "In this video we're going to be building a priority queue - a data structure which allows us to add items and retrieve the highest priority item in an extremely fast and efficient manner. The implementation is generic, meaning we can use any kind of object or structure for our items that we choose.\n\nThis data structure will be used in some upcoming videos about compression.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist:\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://gi"
+  },
+  {
+   "id": "SIIde33EZrA",
+   "t": "[stream] Writing a SPI SD-Card driver in TypeScript",
+   "d": "2022-02-05",
+   "v": 8514,
+   "s": 8180,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nAwesome reference page: http://elm-chan.org/docs/mmc/mmc_e.html\nAdafruit SD card library: https://github.com/arduino-libraries/SD/\nBunny Huang's SD card talk: https://www.youtube.com/watch?v=ruEn7TE4YMM\n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "GMkjey1FTe0",
+   "t": "[stream] File System Hacking: Building A FAT32 Layer On Top Of The SD-Card Driver",
+   "d": "2022-02-12",
+   "v": 4894,
+   "s": 5653,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "giVfqICb2J4",
+   "t": "[stream] File System Hacking: FAT32 Deep Dive",
+   "d": "2022-02-20",
+   "v": 7306,
+   "s": 8890,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "is9wVOKeIjQ",
+   "t": "[stream] USB: Reverse Engineering and Writing Drivers",
+   "d": "2022-02-26",
+   "v": 118492,
+   "s": 9581,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nBook: USB Complete by Jan Axelson\nMarcan reverse engineering a MIDI controller: https://www.youtube.com/watch?v=cUVuTBH51GY\nUSB 2.0 Spec: https://www.usb.org/document-library/usb-20-specification\nBlog with useful resources: https://hackernoon.com/usb-reverse-engineering-down-the-rabbit-hole-c4809a5b55c4\nGreatFET: https://greatscottgadgets.com/greatfet/\n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patre"
+  },
+  {
+   "id": "7Zo3bdaqfbo",
+   "t": "[stream] More USB Reverse Engineering + Drivers",
+   "d": "2022-03-12",
+   "v": 11211,
+   "s": 10196,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nEdgeguard Keyboard Adapter: https://keyboard.gg/\nebpf-usb: https://github.com/francisrstokes/ebpf-usb\neBPF: https://ebpf.io/\nBook: USB Complete by Jan Axelson\nMarcan reverse engineering a MIDI controller: https://www.youtube.com/watch?v=cUVuTBH51GY\nUSB 2.0 Spec: https://www.usb.org/document-library/usb-20-specification\nBlog with useful resources: https://hackernoon.com/usb-reverse-engineering-down-the-rabbit-hole-c4809a5b55c4\nGreatFET: https://greatscottgadgets.com/greatfet/\n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates"
+  },
+  {
+   "id": "DJ-SO0d3sYY",
+   "t": "[stream] Exploring the FT232H and Node Native Addons",
+   "d": "2022-03-27",
+   "v": 4631,
+   "s": 7624,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Stream Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7jg0LgRJYAmHLM6G_6NDw6\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo:"
+  },
+  {
+   "id": "haaa3XEIsFo",
+   "t": "Unpacking squished bits (Bit Packer part 2)",
+   "d": "2022-04-16",
+   "v": 2061,
+   "s": 2204,
+   "vertical": false,
+   "desc": "In this video, we're writing the unpack half of the Bit Packer API, where we can recognise patterns in the bitstream, and return the value they actually represent!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/LowLevelJavaScript/Bit-Packer"
+  },
+  {
+   "id": "1-8oYzL_Thk",
+   "t": "Machine Mode, Traps, Compilation, and Linking: RISC-V ep.9",
+   "d": "2022-04-20",
+   "v": 3721,
+   "s": 6990,
+   "vertical": false,
+   "desc": "In this video, after something of a hiatus, we're getting backing into the RISC-V swing!\nWe're diving into machine mode, the associated CSRs, and how they relate to next big piece of functionality we'll be tackling: Traps - Exceptions and Interrupts.\nWe also take a deep dive into the memory map of the design, relating it to the compilation and linking of the C and assembly code that will run on the processor.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascrip"
+  },
+  {
+   "id": "nwj9PgLEbSo",
+   "t": "Exceptional Trap Handling: RISC-V ep.10",
+   "d": "2022-04-27",
+   "v": 3545,
+   "s": 6048,
+   "vertical": false,
+   "desc": "In this episode of the RISC-V quest, we're implementing the mechanics of trap handling, taking one particularly easy to spot exception as the focus point: Load Address Misaligned.\n\nThe design involves building a new module, as well as a new super-state of the CPU, which controls when the processor is executing the pipeline, and when it is handling the mechanics of traps.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk"
+  },
+  {
+   "id": "mAeF2Fmi1NY",
+   "t": "The Last Instructions!: RISC-V ep.11",
+   "d": "2022-05-09",
+   "v": 1731,
+   "s": 5209,
+   "vertical": false,
+   "desc": "In this installment of the RISC-V series, we're _finally_ implementing the very last instructions! Additionally, we add a reset mechanism to the pipeline stages in order to prevent hazardous conditions when dealing with traps.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "QmHAN1vOtjs",
+   "t": "The Emulator Is Done?!: RISC-V ep.12",
+   "d": "2022-05-18",
+   "v": 7003,
+   "s": 7117,
+   "vertical": false,
+   "desc": "In this final installment of the RISC-V (emulator) series, we implement a multi-cycle memory interface. With this in place, the design is complete enough to move forward and begin design honest-to-goodness FPGA hardware!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/watch?v=ER7h4ZTe19A&list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/LowLevelJavaScript/RISC-V-Emulator"
+  },
+  {
+   "id": "UKd-fqZwl-E",
+   "t": "Announcement: The Low Level Jam!",
+   "d": "2022-06-14",
+   "v": 3116,
+   "s": 134,
+   "vertical": false,
+   "desc": "On Friday June 17 2022, this channel is proud to be hosting the first Low Level Jam!\nOrganised by Nate Catelli (https://github.com/ncatelli), the event takes place over 7 days, with each participant using a maximum of 48 hours to develop their project. You will find everything you need to know about the event on the official github page https://github.com/LowLevelJam/LLJam0001\n\nFind a team, ask for help, or just come to chat over at the discord server https://discord.gg/59tmtaQe3X.\n\nHope to see you there, and can't wait to see what you come up with!"
+  },
+  {
+   "id": "jDaQY6DgKCE",
+   "t": "gateware-ts basics: Digital design for FPGA with TypeScript",
+   "d": "2022-06-24",
+   "v": 3445,
+   "s": 4941,
+   "vertical": false,
+   "desc": "In this video, we're taking going into the basics of modular digital design with the gateware-ts library.\n\nSome of the tools/hardware used in this video, and how to install them:\n\n- https://1bitsquared.com/products/icebreaker\n- http://bygone.clairexen.net/icestorm/\n- http://iverilog.icarus.com/\n- http://gtkwave.sourceforge.net/\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: TODO"
+  },
+  {
+   "id": "cpb02XgX_FA",
+   "t": "The End Of Low Level JavaScript",
+   "d": "2022-10-09",
+   "v": 17347,
+   "s": 805,
+   "vertical": false,
+   "desc": "Low Level JavaScript is no more.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript"
+  },
+  {
+   "id": "R-TGJ-9QSP4",
+   "t": "Binary Patching: How The IPS Format Works",
+   "d": "2022-10-20",
+   "v": 6196,
+   "s": 6857,
+   "vertical": false,
+   "desc": "In this video, we're taking a deep dive into the IPS format, and building a compliant parser and patcher in the C programming language!\n\nIPS is a relatively old and simple format, and not in widespread use these days, but taking a look at the details provides a lot of insight into the subject, as well as a clear direction for the formats that succeeded it.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://pawww.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/IPS-Bin"
+  },
+  {
+   "id": "EDsW08Z-Iak",
+   "t": "ROM Hacking: Exploring The BPS Binary Patch Format",
+   "d": "2022-11-01",
+   "v": 4609,
+   "s": 7132,
+   "vertical": false,
+   "desc": "In this video, we're exploring the BPS binary patch format, used extensively in the ROM hacking scene. BPS has a number of improvements over the IPS format we looked at in a previous installment, offering better composition, compression, and error checking.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/BPS-Patcher"
+  },
+  {
+   "id": "TIlx5nBnx-o",
+   "t": "I wrote a GameBoy game in TypeScript  (And it runs on real hardware!)",
+   "d": "2022-11-28",
+   "v": 17889,
+   "s": 9117,
+   "vertical": false,
+   "desc": "=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo (emulator): https://github.com/francisrstokes/tega\n\n00:00:00 \u2013 Intro\n00:05:23 \u2013 Demo on real hardware\n00:06:48 \u2013 TEGA Overview\n00:08:22 \u2013 Modules! No linker required\n00:11:18 \u2013 Loads, Stores, and instruction representability\n00:21:05 \u2013 Arithmetic and Logic\n00:25:17 \u2013 Jumps, Labels, and Branches\n00:29:45 \u2013 Macro abstraction examples\n00:39:28 \u2013 Building a ROM\n00:45:16 \u2013 The GameBoy Memory Map\n00:56:58 \u2013 Blo"
+  },
+  {
+   "id": "rORPp6vYMsw",
+   "t": "Dumping GameBoy Cartridges The INTERESTING Way",
+   "d": "2022-12-13",
+   "v": 22277,
+   "s": 6286,
+   "vertical": false,
+   "desc": "In this video we're dumping GameBoy cartridges using a non-conventional method; One that uses the GameBoy itself to exfiltrate the data out from under it!\nIt's going to involve building custom software that runs on the console, cartridge swapping, and the fabled link cable.\n\n00:00:00 \u2013 Intro\n00:02:12 \u2013 GameBoy Coding Adventure Book\n00:03:18 \u2013 The plan\n00:09:52 \u2013 Writing the ROM dumper code\n01:14:28 \u2013 The GameBoy link port and cable\n01:17:52 \u2013 Wiring up to the logic analyzer\n01:21:18 \u2013 Logic SPI setup\n01:25:45 \u2013 Dumping the ROM\n01:31:40 \u2013 Processing the dump into a raw binary file\n01:40:12 \u2013 Te"
+  },
+  {
+   "id": "sn9mKSpOcFM",
+   "t": "Hiding Data In Sound",
+   "d": "2023-01-19",
+   "v": 9833,
+   "s": 3017,
+   "vertical": false,
+   "desc": "In this video, we're learning about steganography: the art of hiding data inside other data.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc8c Updates to your inbox: https://tinyletter.com/lowleveljavascript\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/Hiding-Data-In-Sound"
+  },
+  {
+   "id": "06ICtJjPKlA",
+   "t": "Hello World Blinky! Bare Metal Programming Series 1",
+   "d": "2023-03-12",
+   "v": 65384,
+   "s": 2314,
+   "vertical": false,
+   "desc": "This is episode 1 of the bare metal programming series! Over the next few videos, we're going to be building firmware for a Cortex-M4 STM32 processor (STM32F401RE).\n\nWe'll cover:\n- Installing and compiling libopencm3\n- Setting up the core system clock\n- Configuring a GPIO\n- Writing a roughly accurate time delay function\n- Blinking a LED\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare"
+  },
+  {
+   "id": "uQQsDWLRDuI",
+   "t": "Bare Metal Programming Series 0",
+   "d": "2023-03-12",
+   "v": 119855,
+   "s": 1506,
+   "vertical": false,
+   "desc": "This is episode 0 of the bare metal programming series! Over the next few videos, we're going to be building firmware for a Cortex-M4 STM32 processor (STM32F401RE).\n\nThis video introduces:\n- the series\n- what we'll be covering\n- who the intended audience is\n- the goals and the non-goals\n- the hardware you'll need to follow along\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-s"
+  },
+  {
+   "id": "S92ltJ0C59k",
+   "t": "Interrupts and Memory Mapped I/O :: Bare Metal Programming Series 2",
+   "d": "2023-03-21",
+   "v": 33468,
+   "s": 4645,
+   "vertical": false,
+   "desc": "This is episode 2 of the bare metal programming series! In this video, we're taking a deep dive into the memory-mapped I/O mechanism that underpins the CPUs communication with the peripherals on the chip. We also discuss and explore interrupts and the interrupt vector table, as well where to find the fundamental information related to your chip: datasheets and reference manuals.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nBit Hacks (Beginner to Advanced) video by Creel:\u00a0https://www.youtube.com/watch?v=ZRNO-ewsNcQ\nDemystifying bitwise operations blog post by Andrei Ciobanu:\u00a0https://www.andreinc.net/2023/02/01/demystify"
+  },
+  {
+   "id": "kHUGY05ImWU",
+   "t": "PWM and Timers :: Bare Metal Programming Series 3",
+   "d": "2023-04-09",
+   "v": 18341,
+   "s": 4285,
+   "vertical": false,
+   "desc": "in this episode of the bare metal programming series, we're examining PWM, or pulse width modulation: a technique for creating repeating square-wave like signals with a variable duty cycle.\nPWM is just one function of the built in \"Timer\" peripheral, which, as the name implies, is able to keep very accurate time. \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "cfNJ85cX-ms",
+   "t": "Worlds Simplest Bootloader :: Bare Metal Programming Series 4",
+   "d": "2023-04-16",
+   "v": 37631,
+   "s": 4083,
+   "vertical": false,
+   "desc": "In this episode of the bare metal programming series, we're taking our first steps into building a fully fledged bootloader! To do this, we need to split the application in two, build some supporting scripts, learn how to use linker scripts, and understand some of the internal CPU registers for relocating the interrupt vector table at runtime.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductio"
+  },
+  {
+   "id": "nnnEy0w-l_A",
+   "t": "Understanding Assembly Generated From C :: Bare Metal Programming Series 4.1",
+   "d": "2023-04-22",
+   "v": 9463,
+   "s": 1610,
+   "vertical": false,
+   "desc": "In this (micro) episode of the bare metal programming series, we're looking at different ways of expressing the same idea in C, and reading the resulting assembly code in order to make sense of any differences.\n\nBeing able to read assembly (if not write it) is a valuable skill - and can help tremendously in both debugging and making sensible performance optimisations.  \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://"
+  },
+  {
+   "id": "qSUbe_a54gY",
+   "t": "UART Driver From Scratch :: Bare Metal Programming Series 5",
+   "d": "2023-04-30",
+   "v": 33681,
+   "s": 4252,
+   "vertical": false,
+   "desc": "In this episode of the bare metal programming series, we're building a UART driver - an API to the peripheral which will facilitate the fundamental communications we'll need for firmware updates in the bootloader!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "uIJnATS9j_0",
+   "t": "Interrupt Safe Ring Buffer :: Bare Metal Programming Series 6",
+   "d": "2023-05-08",
+   "v": 16613,
+   "s": 3589,
+   "vertical": false,
+   "desc": "In this episode of the bare metal programming series, we're building a ring buffer to back our UART driver. This buffer comes with a set of operations and properties that make it safe and consistent to use from both the main code and interrupt routines.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "VzOPdQukW1Q",
+   "t": "Designing A Packet Protocol :: Bare Metal Programming Series 7.1",
+   "d": "2023-05-15",
+   "v": 8267,
+   "s": 2326,
+   "vertical": false,
+   "desc": "In this episode of the bare metal programming series, we're going over the design of a packet protocol, that runs on top of the UART physical layer we've been building up over the last few videos.\nThis protocol consists of a binary packet format, which includes a mechanism for validating the integrity of a packet, as well as a state machine for processing incoming packets, validating them, and automatically requesting retransmission if the packet fails the check.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://di"
+  },
+  {
+   "id": "RrUyS-gixWk",
+   "t": "Bootloader Packet Protocol Implementation :: Bare Metal Programming Series 7.2",
+   "d": "2023-05-22",
+   "v": 6877,
+   "s": 3173,
+   "vertical": false,
+   "desc": "In this episode of the bare metal programming series, we're implementing the packet protocol we looked at in the previous video inside the bootloader.\nThis protocol is able to automatically process incoming packets, acknowledging or requesting retransmission (or retransmitting when requested), and stuffing the data into a buffer for the application logic to use. \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github."
+  },
+  {
+   "id": "rG1Faau2QuM",
+   "t": "Testing the Packet Protocol :: Bare Metal Programming Series 7.3",
+   "d": "2023-05-30",
+   "v": 5547,
+   "s": 3789,
+   "vertical": false,
+   "desc": "In this installment of the bare metal programming series, we're testing the packet protocol implementation we wrote in the bootloader, using a PC side application which will eventually become the firmware updater!\nTurns out there were a few bugs - but being able to step though both programs at the same time, seeing how the data flows, allows us to iron those out.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github."
+  },
+  {
+   "id": "QcE3Y_8hroU",
+   "t": "Programmatic Flash Control :: Bare Metal Programming Series 8",
+   "d": "2023-06-06",
+   "v": 4510,
+   "s": 2053,
+   "vertical": false,
+   "desc": "In this installment of the bare metal programming series, we're diving into how the flash peripheral of the STM32F401 chip works, and building out a little layer to be able to write a new main application from the bootloader. This serves as an excellent opportunity to cross reference the details of the reference manual with the APIs provided by libopencm3 - going from a register level understanding, to a higher level implementation!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: ht"
+  },
+  {
+   "id": "g4TLA_R_Tk4",
+   "t": "Simple Timer API :: Bare Metal Programming Series 9",
+   "d": "2023-06-17",
+   "v": 4333,
+   "s": 1307,
+   "vertical": false,
+   "desc": "In this installment of the bare metal programming series, we're taking a minute to build a very simple timer API, allowing us to quickly setup, check, and reset software based timers - accounting for any drift that may occur between checks!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "_hd6FITV_Hw",
+   "t": "Bootloader Firmware Update Mechanism :: Bare Metal Programming Series 10",
+   "d": "2023-06-24",
+   "v": 6885,
+   "s": 3611,
+   "vertical": false,
+   "desc": "In this episode, we're finally building the core firmware update mechanism in the bootloader! This involves taking all the elements we've been working on until now - timers, state machines, the packet protocol on top of uart, etc - and putting them together into a bootloader firmware that is able to communicate with a host PC and receive a firmware update.\nIn the next video, we'll build the PC side application, and complete this major milestone, before moving on to implementing a cryptographic code signing mechanism, to ensure only authorised code can be loaded onto the device.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]"
+  },
+  {
+   "id": "fnulMkctAWk",
+   "t": "First Successful Firmware Update! :: Bare Metal Programming Series 11",
+   "d": "2023-07-02",
+   "v": 5316,
+   "s": 4422,
+   "vertical": false,
+   "desc": "In this episode, we're building the firmware updater application, which communicates with the bootloader in order to send a firmware update reliably over USB/UART. It's a fun break from writing low level C, and a chance to write some code in language that provides nice abstractions for sequencing asynchronous code! \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "4-dle5L9REs",
+   "t": "Maintaining Firmware Integrity :: Bare Metal Programming Series 12",
+   "d": "2023-07-15",
+   "v": 4218,
+   "s": 4181,
+   "vertical": false,
+   "desc": "In this episode, we add a mechanism to ensure that a firmware was properly transferred during an update. Problems can occur if power is lost during an update, or the cable connection is dropped. By checking the main application integrity in the bootloader before executing it, we can prevent potentially dangerous situations.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Series Playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/bare-metal-series"
+  },
+  {
+   "id": "OnhtzFJW_4I",
+   "t": "Understanding AES Encryption Mechanics: BMPS",
+   "d": "2023-07-29",
+   "v": 8085,
+   "s": 4928,
+   "vertical": false,
+   "desc": "In this video we're taking some time to grok the mechanics of AES. We cover the core operations of the algorithm, the mathematics of finite fields, and the all-important modes of operation.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nAES Blog Post: https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md\nSpec: https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf\nDeeper justifications and analysis: https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf\nAttacking AES with power analysis: https://www.youtub"
+  },
+  {
+   "id": "Veu_fDPecM8",
+   "t": "Cryptographically Signed Firmware :: Bare Metal Programming Series 14",
+   "d": "2023-08-06",
+   "v": 8696,
+   "s": 7400,
+   "vertical": false,
+   "desc": "In the final episode of the Bare Metal Programming Series, we're implementing signed firmware updates! Everything from using AES in the CBC-MAC configuration in the bootloader, to writing a signing application, to updating the firmware updater to work with the new images.\nAnd of course, where would we be without a false celebration before the ultimate solution \ud83d\ude09 \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nAES Blog Post: https://github.com/francisrstokes/githublog/blob/main/2022/6/15/rolling-your-own-crypto-aes.md\nSpec: https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf\nDeeper justifications and analysis: https:"
+  },
+  {
+   "id": "KkenLT8S9Hs",
+   "t": "How does an OS boot? //Source Dive// 001",
+   "d": "2023-09-09",
+   "v": 484394,
+   "s": 3022,
+   "vertical": false,
+   "desc": "In this installment of //Source Dive//, we're learning about the xv6 Operating System; Specifically the low-level boot code that gets the CPU in the correct state to run the OS!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc0b RISC-V Docker Image: https://github.com/francisrstokes/rv-toolchain-docker/pkgs/container/rv-toolchain-docker\n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/mit-pdos/xv6-riscv"
+  },
+  {
+   "id": "ZE9OODanrDA",
+   "t": "What is a spinlock? //Source Dive// 002",
+   "d": "2023-09-16",
+   "v": 56345,
+   "s": 3266,
+   "vertical": false,
+   "desc": "In this installment of //Source Dive//, we're back in the xv6 OS codebase, exploring timers, the early boot process, and a very useful concurrency primitive: The Spinlock!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc0b RISC-V Docker Image: https://github.com/francisrstokes/rv-toolchain-docker/pkgs/container/rv-toolchain-docker\n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/mit-pdos/xv6-riscv"
+  },
+  {
+   "id": "M_SUcX66SDA",
+   "t": "Programmatic Painting: Flow Fields",
+   "d": "2023-09-23",
+   "v": 6297,
+   "s": 3723,
+   "vertical": false,
+   "desc": "In this video, we're drawing generative art in the form of flow fields! Flow fields are mathematical structures where every point of a space is associated with an angle, and by carefully choosing those angles, we can trace out the path of particles moving across the field, creating some beautiful images.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/flow-fields"
+  },
+  {
+   "id": "uNp4DElDQyY",
+   "t": "Virtual Console and printf() //Source Dive// 003",
+   "d": "2023-09-30",
+   "v": 73483,
+   "s": 4257,
+   "vertical": false,
+   "desc": "In this installment of //Source Dive//, we're back in xv6, looking at how the operating system layers abstractions. The \"console\" is a great example, with a low-level driver rooted in the hardware, to an abstract console, to the printf function that eventually outputs characters to the screen. \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc0b RISC-V Docker Image: https://github.com/francisrstokes/rv-toolchain-docker/pkgs/container/rv-toolchain-docker\n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/mit-pdos/xv6-riscv"
+  },
+  {
+   "id": "NC_qkXznvkg",
+   "t": "How does KERNEL memory allocation work? //Source Dive// 004",
+   "d": "2023-10-13",
+   "v": 62250,
+   "s": 2682,
+   "vertical": false,
+   "desc": "In this installment of //Source Dive//, we're deep in the xv6 operating system, trying to understand how physical memory of the system is tracked, distributed, and returned to the kernel. It's a fascinatingly simple algorithm, which can be paradoxically kind of hard to understand! \n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udc0b RISC-V Docker Image: https://github.com/francisrstokes/rv-toolchain-docker/pkgs/container/rv-toolchain-docker\n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/mit-pdos/xv6-riscv"
+  },
+  {
+   "id": "5vzMgNAzEuA",
+   "t": "Turning Pixels Into Waves",
+   "d": "2023-10-21",
+   "v": 9005,
+   "s": 3547,
+   "vertical": false,
+   "desc": "In this video, we're building an awesome graphical effect, where an image is processed into a series of animated waves. The math behind the technique is fascinating, and will lead us into to  how sine waves work, the magic of linear interpolation, and signal processing techniques like amplitude modulation!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/Turning-Pixels-Into-Waves"
+  },
+  {
+   "id": "iTic6EV4DP8",
+   "t": "The mechanics of VIRTUAL MEMORY //Source Dive// 005",
+   "d": "2023-10-28",
+   "v": 34302,
+   "s": 4494,
+   "vertical": false,
+   "desc": "In this installment of //Source Dive//, we're back in xv6, learning how address translation works with the virtual memory subsystem.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nmore in depth talk: https://youtu.be/dFIqNZ8VbRY?si=ZGKcZRex96AUtwlT\n\n\ud83d\udc0b RISC-V Docker Image: https://github.com/francisrstokes/rv-toolchain-docker/pkgs/container/rv-toolchain-docker\n\n\ud83c\udfa5 Series Playlist: \n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/mit-pdos/xv6-riscv"
+  },
+  {
+   "id": "0ihChIaN8d0",
+   "t": "Getting up in another processes memory",
+   "d": "2023-11-04",
+   "v": 18430,
+   "s": 2814,
+   "vertical": false,
+   "desc": "In this video, we learn how we can read memory belonging to other processes by building a memory dumper from scratch.\nOne of the key components is the /proc file system: an interface that the kernel provides for introspecting processes. Combined with ptrace, a system call that allows attaching to and taking control of another process, we write a program to automate extracting information that would otherwise be completely hidden to us!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\nhttps://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html\n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.c"
+  },
+  {
+   "id": "ieCA4NWk-Do",
+   "t": "Spinning Persistence of Vision",
+   "d": "2023-12-24",
+   "v": 17471,
+   "s": 23,
+   "vertical": true,
+   "desc": "The letters are distorted because the outside of a circle spins faster than the inside. There is currently no syncing to the frequency of rotation, which is why the text processes."
+  },
+  {
+   "id": "KUklOA91nk0",
+   "t": "Bare Metal Bit Banging: WS2812B Driver",
+   "d": "2023-12-30",
+   "v": 12290,
+   "s": 4863,
+   "vertical": false,
+   "desc": "In this video, we examine the WS2812B RGB LED device, and write a bit-banged driver from scratch for an STM32 microcontroller.\n\nChapters\n00:00 What is a WS2812 / NeoPixel\n02:33 Hardware overview\n06:00 What is a \"device driver\"?\n08:35 The signalling protocol\n15:00 Reviewing the datasheet\n22:00 Figuring out the GPIO timing\n49:32 First LED test\n53:36 Implementing the driver interface\n\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83c\udfa5 Bare metal playlist: https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Githu"
+  },
+  {
+   "id": "BBHQu8mF1fw",
+   "t": "Bad Apple \ud83c\udf4e #stm32 #led #ws2812b",
+   "d": "2024-01-14",
+   "v": 3071,
+   "s": 49,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1Y91DioUufA",
+   "t": "Using LEDs As Precise GPIOs",
+   "d": "2024-02-17",
+   "v": 3842,
+   "s": 1422,
+   "vertical": false,
+   "desc": "In this video, we're looking at a technique for precisely analyzing signals from firmware when all you can do is blink a LED. By writing to an LED as if it were a typical GPIO, and building a surprisingly simple receiver, we can probe signals with an oscilloscope without even touching the board!\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript"
+  },
+  {
+   "id": "TAfWea21ooM",
+   "t": "Rendering 3D Graphics On An Oscilloscope",
+   "d": "2024-03-08",
+   "v": 9153,
+   "s": 4744,
+   "vertical": false,
+   "desc": "In this video, we're learning how to draw on an oscilloscope. By utilising the X-Y mode of the scope, combined with some clever firmware to generate the right signals, and a sprinkle of DIY digital-to-analog conversion, we can render animated 3D graphics on a scope in real time!\n\n00:00:00 3D Animated Demo\n00:01:36 Understanding X-Y Mode\n00:05:00 Firmware Architecture Overview\n00:09:52 PWM Digital-to-Analog Conversion\n00:14:48 Manually creating images\n00:21:57 Visualizing the signals\n00:25:03 Writing the static image firmware\n00:48:30 PWM signals on the scope\n00:51:14 Building the low-pass filt"
+  },
+  {
+   "id": "i1phJl-0v54",
+   "t": "Fixed-point math is better than floating point (sometimes)",
+   "d": "2024-06-22",
+   "v": 25807,
+   "s": 5526,
+   "vertical": false,
+   "desc": "In this video, we're learning about fixed-point: A different method for doing non-integer arithmetic without floats!\nFloating point is a ubiquitous standard that works everywhere, but it needs specialised hardware to have any chance of running fast. This can make calculations on low-powered microcontrollers extremely expensive. Fixed-point solves, giving us a method for cheaply computing fractional results with flexible precision! \n\n00:00:00 Intro\n00:03:46 Floating point vs fixed point\n00:10:07 Fixed point bit representation\n00:17:10 Code: Fixed point defines\n00:21:30 Getting to the integer an"
+  },
+  {
+   "id": "tuC0qnyPrvM",
+   "t": "The worlds most convoluted spirograph",
+   "d": "2025-04-11",
+   "v": 4230,
+   "s": 4463,
+   "vertical": false,
+   "desc": "In this video, we're dipping our toes into the world of DSP, and learning about how to interpret the output of the worlds most important algorithm: The fast fourier transform.\nBy building an understanding of all the component parts, we can understand exactly how this mathematical tool can be used to create these wild drawings, based solely on circles of different sizes rotating around one another.\n\n=[ \ud83d\udd17 Links \ud83d\udd17 ]= \n\n\ud83d\udde3 Discord: https://discord.gg/FPWaVgk\n\u2b50\ufe0f Patreon: https://www.patreon.com/lowleveljavascript\n\ud83d\udcbb Github Repo: https://github.com/lowbyteproductions/the-worlds-most-convoluted-spirogr"
+  }
+ ]
+}

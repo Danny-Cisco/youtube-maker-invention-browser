@@ -1,0 +1,171 @@
+{
+ "channel": {
+  "id": "UC0C_GZdjoSzgMmAAgNIwPMg",
+  "title": "Science Shack",
+  "handle": "@scienceshack",
+  "description": "STEM Education and Research with a focus on electronics and mechatronics.",
+  "since": "2007-04-10",
+  "avatar": "https://yt3.ggpht.com/pYaqaMAlly2q3T7jaI0slTlv3RiF2DquIev5RHX1qQDUQj-yHzYpPabpqQIzYcfuL7-KQOW0Pg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "189300",
+  "subscriberCount": "4820",
+  "hiddenSubscriberCount": false,
+  "videoCount": "17"
+ },
+ "videos": [
+  {
+   "id": "pddGR5Eyc0Q",
+   "t": "Building LASER Harp with an Arduino",
+   "d": "2016-04-10",
+   "v": 64451,
+   "s": 259,
+   "vertical": false,
+   "desc": "Homemade DIY Laser Harp using a 200mW green laser. Using an Arduino Microprocessor to control the laser and galvanometer, we produced 7 beams. Detecting reflected light from whatever breaks the beams we can determine which note to play. The MIDI output is fed into a virtual MIDI synthesizer running on a laptop to produce the sounds. Challenging project, but worth the effort.\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\nFollow Us on Social Media: \n\u2705 Twitter: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\nStick around for more cool stuff like electronics and e"
+  },
+  {
+   "id": "vATwzbZwwG8",
+   "t": "Newton's Flaming Laser Sword",
+   "d": "2016-08-14",
+   "v": 13693,
+   "s": 221,
+   "vertical": false,
+   "desc": "Philosophy becomes science in this video where we create a literal interpretation of Alder's Razor. Why? Just because we can...\n\nFollow Us on Social Media: \n\u2705 Twitter: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\nStick around for more cool stuff like electronics and engineering projects. \nVisit Our Channel Here: \nhttps://www.youtube.com/@scienceshack\n\nDon't forget to like and subscribe. \n\nCheck Out Our Other Videos Here: \nhttps://youtu.be/bNJDIov5oV4\nhttps://youtu.be/CDZWztFcAMc\nhttps://youtu.be/pddGR5Eyc0Q"
+  },
+  {
+   "id": "cdmSlp2Mt6Q",
+   "t": "How We Play Music With Tesla Coils - See It In Action!",
+   "d": "2016-09-19",
+   "v": 2926,
+   "s": 385,
+   "vertical": false,
+   "desc": "These are our twin homemade Tesla Coils. They are  dual resonance solid state Tesla coils which are controlled electronically to produce musical notes. Audio signals in MIDI format are fed into the coil through fiberoptic cables, so they can be played as musical instruments."
+  },
+  {
+   "id": "QCiCau2Ivlg",
+   "t": "Building a Drone to Fish With",
+   "d": "2016-12-15",
+   "v": 12606,
+   "s": 186,
+   "vertical": false,
+   "desc": "This is our DIY custom  heavy duty hexacopter drone we use for dropping shark baits out behind the surf line. Can also be used for full size camera videography or other lifting functions.\n\nFollow Us on Social Media: \n\u2705 Twitter: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\nStick around for more cool stuff like electronics and engineering projects. \nVisit Our Channel Here: \nhttps://www.youtube.com/@scienceshack\n\nDon't forget to like and subscribe. \n\nCheck Out Our Other Videos Here: \nhttps://youtu.be/bNJDIov5oV4\nhttps://youtu.be/CDZWztFcAMc\nhttps://youtu.be/pddGR5"
+  },
+  {
+   "id": "o-wjOA72fw8",
+   "t": "Watching Radioactive Decay With a Cheap Cloud Chamber",
+   "d": "2017-06-28",
+   "v": 5396,
+   "s": 563,
+   "vertical": false,
+   "desc": "How to build a simple cloud chamber but get great results. Using just a fish tank and some household items we built this simple cloud chamber and tested some radioactive sources."
+  },
+  {
+   "id": "hliMxjl60wo",
+   "t": "We Converted a Walmart bicycle Into a Speedy E-Bike",
+   "d": "2017-10-10",
+   "v": 14063,
+   "s": 317,
+   "vertical": false,
+   "desc": "We wanted to see if we could convert a cheap Walmart bicycle into an electric bike and how fast it could go. To do this we had to build a custom Lithium battery pack and drive the bike with a large brushless motor controlled with an arduino. Lots of other mods and endless testing to finally get it working. The results exceeded our expectations.\n\nMotor - Turnigy D5035-125KV Sensored Brushless Motor\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\nFollow Us on Social Media: \n\u2705 Twitter: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\nStick around for more cool stuff"
+  },
+  {
+   "id": "by-knPdR8GY",
+   "t": "How We Use High Voltage To Create Unique Lightning Pattern Artwork",
+   "d": "2017-11-05",
+   "v": 7466,
+   "s": 237,
+   "vertical": false,
+   "desc": "Using high voltage to create Lichtenberg Figures in in wood. We used this technique to create coasters each with original patterns.\nWARNING - this project uses very high voltage and should not be attempted."
+  },
+  {
+   "id": "IWD7ihmiMhE",
+   "t": "I Got Shot With An Air Cannon!",
+   "d": "2017-11-07",
+   "v": 895,
+   "s": 174,
+   "vertical": false,
+   "desc": "We decided we needed an air cannon after finding an old compressor tank in the shed out back. By adding a pneumatic cylinder we were able to fire the cannon with the push of a button which is much more efficient than hand opening the valve. Watch the end to see Jason get nailed by it."
+  },
+  {
+   "id": "CDZWztFcAMc",
+   "t": "Just Blowing S#!T Up For Fun With High Voltage",
+   "d": "2018-02-03",
+   "v": 3392,
+   "s": 246,
+   "vertical": false,
+   "desc": "Blowing up stuff with a high voltage capacitor bank. A set of 6 caps each of 33,000uF discharged through a few components. This is just a fun video of making things go boom. It's amazing the amount of electrical power that can be dumped into an object in milliseconds. Don't try this at home - this thing is danger scary.\n\nTwitter: https://twitter.com/Science_Shack"
+  },
+  {
+   "id": "bNJDIov5oV4",
+   "t": "Building a Nuclear Dice Set to Ensure Truly Random Numbers",
+   "d": "2022-02-26",
+   "v": 2614,
+   "s": 390,
+   "vertical": false,
+   "desc": "Using nuclear radiation to generate completely random dice throws in an electronic dice set.\nCheck out @AlphaPhoenixChannel video for a great scientific explanation behind this\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\nhttps://x.com/Science_Shack"
+  },
+  {
+   "id": "MWq_Sb_2myA",
+   "t": "This Robot Connects to Plants...",
+   "d": "2023-04-24",
+   "v": 722,
+   "s": 246,
+   "vertical": false,
+   "desc": "In this video, I will be showcasing a project that I recently completed using the Raspberry Pi Pico W and AWS Lambda function to create a plant watering system. The system is designed to notify me via email whenever the soil of my plant becomes too dry, reminding me to water it.\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\n\nTwitter: https://twitter.com/Science_Shack"
+  },
+  {
+   "id": "Tym3jMrPnRA",
+   "t": "Electric Model Rocket Build with EDF Motor",
+   "d": "2023-08-26",
+   "v": 24033,
+   "s": 597,
+   "vertical": false,
+   "desc": "We built an all electric version of a model rocket to see if we could get something with similar performance without needing conventional rocket engines.\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\nChapters:\n\n0:00 Intro\n0:17 Components\n0:42 Design & Construction\n1:20 Avionics\n2:14 Launch 1\n2:54 Launch 2\n3:12 Revisions\n3:30 Parachute Integration\n4:17 Launch 3 & 4\n5:20 Launch 5\n6:09 Center of Pressure & New Design\n7:44 Final Launch\n8:22 Review and Conclusion\n\nFollow Us on Social Media: \n\u2705 Twitter: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\nStick around fo"
+  },
+  {
+   "id": "oKb-OCkHhak",
+   "t": "Laser Projection Microscope Build",
+   "d": "2023-09-19",
+   "v": 1624,
+   "s": 266,
+   "vertical": false,
+   "desc": "We built a laser microscope using a DVD burner laser to project images onto a screen.\n\nSupport us on Patreon:\nhttps://www.patreon.com/ScienceShack\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\nChapters:\n\n0:00 Project Explanation\n0:18 Electronics Build\n1:59 Optics\n2:35 Mouse Brain\n2:59 Physics Explanation\n3:41 Showcase\n\n\nFollow Us on Social Media: \n\u2705 X: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\u2705 Discord: https://discord.gg/UzKx5gT3aF\n\n\nStick around for more cool stuff like electronics and engineering projects. \nVisit Our Channel Here: \nhttps://www.youtube"
+  },
+  {
+   "id": "AQ12wv9Huxo",
+   "t": "From Scratch to Flame: Building a Fire-Breathing Dragon",
+   "d": "2023-10-31",
+   "v": 3714,
+   "s": 377,
+   "vertical": false,
+   "desc": "Everyone loves a moving halloween prop, and of course everyone loves dragons. What do dragons do? They breathe fire. So with this animatronic dragon head we incorporated some real fire breath.\nhttps://hackaday.io/project/193419-fire-breathing-dragon-head\n\nSupport us on Patreon:\nhttps://www.patreon.com/ScienceShack\n\nNow on Odysee:\nhttps://odysee.com/@ScienceShack\n\n\nFollow Us on Social Media: \n\u2705 X: https://x.com/Science_Shack\n\u2705 Instagram: https://instagram.com/Science_Shack\n\u2705 Discord: https://discord.gg/UzKx5gT3aF\n\n\nStick around for more cool stuff like electronics and engineering projects. \nDon"
+  },
+  {
+   "id": "poJhWZDTKGU",
+   "t": "Worlds Lightest Gaming Mouse | DIY Ultralight Build",
+   "d": "2024-01-20",
+   "v": 6047,
+   "s": 627,
+   "vertical": false,
+   "desc": "I designed and built an ultra small gaming mouse with custom PCB to see how small I could make it. Can it stand up to the requirements of gaming and other tasks?\nCheck out our previous video here: https://youtu.be/AQ12wv9Huxo\nVisit PCBWay: https://pcbway.com"
+  },
+  {
+   "id": "_ymsSmxXcHQ",
+   "t": "Building a REAL Heartbeat Sensor from Modern Warfare 2",
+   "d": "2026-06-08",
+   "v": 25054,
+   "s": 428,
+   "vertical": false,
+   "desc": "Today we are building a real life version of the famous Modern Warfare 2 (2009) heartbeat sensor. Utilizing an LD2450 radar module to detect and track human presence"
+  },
+  {
+   "id": "SUPGqDcc8xo",
+   "t": "I Built the Most Stressful Game Ever Made",
+   "d": "2026-06-26",
+   "v": 813,
+   "s": 496,
+   "vertical": false,
+   "desc": "We took the insanely stressful video game Keep Talking and Nobody Explodes and turned it into a fully functional, self-randomizing hardware briefcase bomb\u2014complete with realistic (but 100% TSA-safe) dynamite, custom laser-cut acrylic panels, a dual-microcontroller brain (Raspberry Pi Pico RP2350 + ESP32), and zero lines of code written by me.\n\nThe biggest engineering hurdle? In the video game, the bomb randomizes itself so you can\u2019t memorize it. To recreate that in the real world, we had to design a complex mathematical matrix of inputs and outputs so the hardware scrambles the puzzles every s"
+  }
+ ]
+}

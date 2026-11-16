@@ -1,0 +1,333 @@
+{
+ "channel": {
+  "id": "UCIvc-jsDq477va62B1qXtRg",
+  "title": "Chris Lynas",
+  "handle": "@chrislynas",
+  "description": "",
+  "since": "2010-05-16",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mGYMiq7FV380vHbY8SCMjc3oXlBo-Zfw2HJ1WzHSJnZw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "535913",
+  "subscriberCount": "1090",
+  "hiddenSubscriberCount": false,
+  "videoCount": "35"
+ },
+ "videos": [
+  {
+   "id": "FSrF2Gh0HrY",
+   "t": "Eggbot based plotter",
+   "d": "2011-09-01",
+   "v": 5391,
+   "s": 73,
+   "vertical": false,
+   "desc": "I made a flat-sheet paper plotter by adapting my Evil Mad Scientist Labs \"Eggbot\" plotter.  The video shows the pen assembly drawing some distorted ellipses (slowly).  The ellipses were circles when I drew them in Inkscape, the geometry of the plotter with it's hanging cable distorts the plot when standard Eggbot movement commands are used.  Working out some software to control movement more precisely is the next step..."
+  },
+  {
+   "id": "8AgtJdaBUhs",
+   "t": "3D Printed Record - 'Still Alive'",
+   "d": "2012-01-23",
+   "v": 5622,
+   "s": 29,
+   "vertical": false,
+   "desc": "A 3D printed custom record for the clockwork Fisher-Price record player playing 'Still Alive' from Portal\n\nCan be purchased at Shapeways: http://www.shapeways.com/model/426154/clockwork_record.html?gid=ug"
+  },
+  {
+   "id": "ElAJJnSvQtk",
+   "t": "3D Printed Record - 'Still Alive'",
+   "d": "2012-01-23",
+   "v": 159666,
+   "s": 54,
+   "vertical": false,
+   "desc": "A 3D printed record for the Fisher-Price record player playing 'Still Alive' from Portal - can be purchased at Shapeways: http://www.shapeways.com/model/426154/clockwork_record.html?gid=ug"
+  },
+  {
+   "id": "a74ko5Yc8rA",
+   "t": "Eggbot Plotter - Driven by StippleGen",
+   "d": "2012-04-22",
+   "v": 2403,
+   "s": 26,
+   "vertical": false,
+   "desc": "Evil Mad Scientist's Eggbot plotter contains most of the parts to make a polargraph/drawbot hanging pen plotter.  This one is being driven by output from EMSL's StippleGen image & path generation sketch in Processing."
+  },
+  {
+   "id": "JdXzXDWdWqQ",
+   "t": "Recursive Trees",
+   "d": "2012-07-08",
+   "v": 285,
+   "s": 24,
+   "vertical": false,
+   "desc": "Drawbot based on Eggbot drawing recursively generated trees."
+  },
+  {
+   "id": "Yl74ub5F3ao",
+   "t": "Drawbot Shading",
+   "d": "2012-08-19",
+   "v": 877,
+   "s": 42,
+   "vertical": false,
+   "desc": "A photo of the beautiful St John's Church in Lunenburg, Nova Scotia shaded with a variable frequency, variable amplitude wave shading pattern at 45deg. Shading is approx 50% complete in the video. The shading pattern is created in Processing, exported to PDF and imported into Inkscape for final checks.  The Inkscape SVG is imported directly into the Processing plot sketch to control the machine. The AM/FM shader class is available at http://www.fastness.co.uk as is the drawbot control sketch"
+  },
+  {
+   "id": "-ftRwzq6b1U",
+   "t": "Impossible Spirograph 2",
+   "d": "2012-08-19",
+   "v": 615,
+   "s": 53,
+   "vertical": false,
+   "desc": "Eggbot-based drawbot drawing computer-generated patterns like a Spirograph - however the Spirograph simulation includes more complex double- and triple-circles than could ever be practically made & pinned to a piece of paper"
+  },
+  {
+   "id": "vO7Rdt6nsjo",
+   "t": "Impossible Spirograph 1",
+   "d": "2012-08-19",
+   "v": 1706,
+   "s": 39,
+   "vertical": false,
+   "desc": "Eggbot-based drawbot drawing computer-generated patterns like a \"Spirograph\" - the simulation includes more complex double and triple circles than could ever be practically made"
+  },
+  {
+   "id": "_KavKzo5TDo",
+   "t": "State of the Art",
+   "d": "2013-10-02",
+   "v": 273,
+   "s": 11,
+   "vertical": false,
+   "desc": "Animated version of an image I made from Mark Salwowski's cover for one of the UK editions of Iain M Banks' \"The State of the Art\" short story collection.\nThis was always my favourite cover and I only found the animation again recently.\nMore (very old now) graphics on this theme at http://www.fastness.co.uk/imb/\n\nRIP IMB"
+  },
+  {
+   "id": "JKT9O29we0M",
+   "t": "Bristol docks (drawbot/polargraph time lapse)",
+   "d": "2014-04-21",
+   "v": 834,
+   "s": 133,
+   "vertical": false,
+   "desc": "A time lapse of a first full image test of my new 3d printed polargraph gondola (available for download and printing on Thingiverse). The picture is of the electric cranes at the Bristol dockside."
+  },
+  {
+   "id": "nLsLxMhf5CQ",
+   "t": "3d printed lithophane lampshade",
+   "d": "2014-08-09",
+   "v": 1460,
+   "s": 38,
+   "vertical": false,
+   "desc": "A 3d printed lithophane lampshade, made as a retirement gift for a colleague who worked on the aircraft shown (the Airbus A400M). Images from Ronnie MacDonald and Julian Herzog via wikimedia commons"
+  },
+  {
+   "id": "0wbuI6lByGg",
+   "t": "2d delta drawbot first moves",
+   "d": "2015-03-07",
+   "v": 1013,
+   "s": 22,
+   "vertical": false,
+   "desc": "First moves of a new 2d delta drawbot. Driven by two easydriver stepper drivers and an Arduino mega."
+  },
+  {
+   "id": "8k7BzzRfje8",
+   "t": "2d delta drawbot",
+   "d": "2016-04-03",
+   "v": 1056,
+   "s": 44,
+   "vertical": false,
+   "desc": "2D delta drawbot shading"
+  },
+  {
+   "id": "JD62AhVg3Pc",
+   "t": "The Sound of Primes",
+   "d": "2016-10-30",
+   "v": 297,
+   "s": 966,
+   "vertical": false,
+   "desc": "Built with Processing and the SoundCipher library.\n\nPrime numbers have no divisors except 1 and themselves. All possible divisors are checked for each number, if any are found they are shown in the pattern to the left of the screen and in the number line across the top.\n\nMusical notes are played based on any divisors of each number, the pitch of the note is based on the number.\n\nAs prime number have no divisors they are shown against silence."
+  },
+  {
+   "id": "ASuk1-8ooXM",
+   "t": "\"ExtruDraw\" 3D Printed Pen Plotter",
+   "d": "2020-11-22",
+   "v": 15216,
+   "s": 1245,
+   "vertical": false,
+   "desc": "This is a full assembly walkthrough for the \"ExtruDraw\" printed pen plotter. STL files, the project poster with additional instructions & drawings and the CAD files can be found on the Thingiverse page for this project: https://www.thingiverse.com/thing:2994920\n\nI watched the video through and realised that I mentioned Eggbot but forgot to mention AxiDraw - this is a proper commercial product with the same kinematics as this machine & which uses a similar (original EiBotBoard) control board and the same software. I don't have an AxiDraw and this is not affiliated in any way but I do have an Eg"
+  },
+  {
+   "id": "OaVlkhIlDBA",
+   "t": "RGB Ripple Solar Garden Lights",
+   "d": "2021-04-11",
+   "v": 126,
+   "s": 1513,
+   "vertical": false,
+   "desc": "This is part 1 of a series of 3 videos\nThis part covers the introduction and 2D CAD for a set of solar powered lights I made for our garden.\nSubsequent parts will cover electronics and the the software.\nAll source files for the design will be open and available on my GitHub page here https://github.com/pittance/SolarLights"
+  },
+  {
+   "id": "sNf9qXuUdUs",
+   "t": "\"Jet Engine\" Desk Fan: Quick Assembly Guide",
+   "d": "2021-07-28",
+   "v": 5934,
+   "s": 428,
+   "vertical": false,
+   "desc": "This is a very quick guide on the assembly of the main parts of my 3d printed \"Jet Engine\" desk fan - it uses a centrifugal compressor to move the air and is powered by a brushless DC motor. If you'd like to make one the files are all available on my Thingiverse (https://www.thingiverse.com/thing:4897735) and Prusaprinters (https://www.prusaprinters.org/prints/70673-jet-engine-desk-fan-v3) pages.\n\nThe CAD is a bit of a patchwork: 2D profiles were designed in SolidEdge 2D drafting, these were imported into Fusion360 for 'lathing' around the central axis, exports are finally processed for fasten"
+  },
+  {
+   "id": "yS-YZyUkDbA",
+   "t": "My Best 3D Printed Fan (and the others)",
+   "d": "2023-03-11",
+   "v": 800,
+   "s": 1526,
+   "vertical": false,
+   "desc": "Assembly video for the latest desk fan, wind tunnel themed with a 120mm desk fan for airflow.\nThe second part of the video is the story of how I've been looking into this kind of aerospace themed fan for a long time, have a look at all of the other fans that you probably shouldn't print.\n\nThis design has STL and source files here: https://www.printables.com/model/258117-wind-tunnel-desk-fan-fan-v5-pc-120mm\n\nHowever I have an updated version so if you'd like to make one I'd suggest this design which is better, more flexible and easier to print: https://www.printables.com/model/890240-wind-tunne"
+  },
+  {
+   "id": "2fh67D114oU",
+   "t": "Quick and Slapdash Tour of the ExtruH Plotter",
+   "d": "2024-09-27",
+   "v": 7590,
+   "s": 764,
+   "vertical": false,
+   "desc": "This is a very shoddy video tour of the main points of the assembly of the ExtruH 3d printed pen plotter. Apologies for not doing something better, I had a bunch of footage ready to edit but I lost a lot with an SSD failure and I haven't found the time to re record everything\n\nI've had a few people ask questions about the assembly and I thought this would be the fastest way to get some information out. It isn't the best way but it's all I have time for at the moment, apologies\n\nTo support this please have a look into the OpenSCAD file that's available in the Thingiverse and Printables pages fo"
+  },
+  {
+   "id": "tY8XKtWAoJY",
+   "t": "Slapdash CoreXY Plotter Tour: \"Sidegrades\" & Upgrades",
+   "d": "2025-03-08",
+   "v": 15345,
+   "s": 407,
+   "vertical": false,
+   "desc": "This is another quick, low effort tour of my plotter and its current status: it's now changed to coreXY from H-bot (the sidegrade) and has a new electrostatic paper holder (the major upgrade)\nLinks to the model if you want to make one are below \n\nCoreXY conversion files:\nhttps://www.printables.com/model/1174835-extruxy-remix-of-extruh\nBase H-bot plotter:\nhttps://www.printables.com/model/734327-extruh-pen-plotter"
+  },
+  {
+   "id": "85vPI0YyMvc",
+   "t": "3d Printed drawing machine: handwriting #3dprinted #diy",
+   "d": "2025-03-19",
+   "v": 40752,
+   "s": 16,
+   "vertical": true,
+   "desc": "3d printed pen plotter (drawing machine) writing the first sections of \"Frankenstein (or, the Modern Prometheus)\" by Mary Shelley"
+  },
+  {
+   "id": "AN7yssFBERM",
+   "t": "Pen plotter experiment - crescent moon shading",
+   "d": "2025-03-19",
+   "v": 3872,
+   "s": 167,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PZg8cKQgm-8",
+   "t": "3d printed drawing machine: spirals #3dprinting",
+   "d": "2025-03-22",
+   "v": 40051,
+   "s": 21,
+   "vertical": true,
+   "desc": "Printing files and details here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh\n\nPhoto converted into wavy spirals based on brightness"
+  },
+  {
+   "id": "DjPsXUIdhBs",
+   "t": "3d printed pen plotter: hatching #3dprinting #3dprinted",
+   "d": "2025-03-30",
+   "v": 69145,
+   "s": 20,
+   "vertical": true,
+   "desc": "One of the the electric cranes in Bristol docks (UK)\nPlotted using hatching at different levels of brightness on my plotter, available here if you'd like to make one: https://www.printables.com/model/1174835-extruxy-remix-of-extruh an enhancement of the base plotter: https://www.printables.com/model/734327-extruh-pen-plotter"
+  },
+  {
+   "id": "brruMgZ-fIU",
+   "t": "3d Printed Pen Plotter: offset spirals #3dprinted",
+   "d": "2025-04-06",
+   "v": 84333,
+   "s": 74,
+   "vertical": true,
+   "desc": "Plotter is here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nPhoto taken in Bristol, UK: the old electric cranes outside of the M-Shed museum at the harbourside\nThe plot is made from spirals that are offset based on image brightness using code written in Processing to generate an SVG that is loaded into Inkscape to drive the plotter. This plot took 1 hour & 34 minutes to complete and the total length of lines drawn was 231 metres (758ft) using a Pilot V Ball Grip 0.5"
+  },
+  {
+   "id": "mSKpU3ufnYo",
+   "t": "3d printed pen plotter: colour halftone with spiral black layer #3dprinted",
+   "d": "2025-04-12",
+   "v": 38503,
+   "s": 18,
+   "vertical": true,
+   "desc": "Plotter is here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nA 4 colour CMYK (cyan, magenta, yellow & black) plot using coarse spiral-filled dots for cyan, magenta and yellow with a higher-resolution black made from a spiral. The pens are Tombow water-based markers and a Pilot V-Ball Grip 0.5\n\nThe magenta layer had a problem where the pen got loose, I decided to keep it as a way to answer some of the comments that these machine made plots are \"too perfect\" - it isn't but even if it were it wouldn't stop me"
+  },
+  {
+   "id": "hwfMWG_cmM4",
+   "t": "3d Printed Pen Plotter: Simulated Pond Ripples #3dprinted #penplotter",
+   "d": "2025-04-20",
+   "v": 13790,
+   "s": 28,
+   "vertical": true,
+   "desc": "Plotter is open source, available here if you want to make one: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nThe pattern is a simulation of pond ripples using a simple 2D wave equation solver, the heights are transformed into an isometric view and drawn from two directions to form a lattice"
+  },
+  {
+   "id": "Bpz_lB0kKuU",
+   "t": "3d Printed Pen Plotter: offset lines #3dprinted #penplotter",
+   "d": "2025-05-03",
+   "v": 5318,
+   "s": 59,
+   "vertical": true,
+   "desc": "The plotter designs are here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nSay hello to our cat, Parsnip - she's a rescue just over 1 year old\n\nThe plot is made from vertical lines that are offset based on image brightness using code written in Processing to generate an SVG that is loaded into Inkscape to drive the plotter. This plot took 1 hour 22 minutes to complete using a Pilot V Ball Grip 0.5\n\nThe missing line in the centre was not intentional: the plotter drive code was set to optimise the plotting or"
+  },
+  {
+   "id": "C89j52tY2YM",
+   "t": "3d Printed Pen Plotter: Stipples & Spirals #3dprinted #plotterart",
+   "d": "2025-05-05",
+   "v": 3800,
+   "s": 92,
+   "vertical": true,
+   "desc": "The plotter designs are here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nThis is a two-technique plot, first stipples made with StippleGen2 https://www.evilmadscientist.com/2012/stipplegen2/ where both stipple size and spacing are varied based on brightness and detail. The second is made of offset spirals that are overlaid on the stipples\n\nThe photo is a room in Tyntesfield, an ornate Victorian house in the West of England https://www.nationaltrust.org.uk/visit/bath-bristol/tyntesfield"
+  },
+  {
+   "id": "MPDe6LsIRRM",
+   "t": "3D Printed Pen Plotter: New Board (& some plotting)",
+   "d": "2025-10-29",
+   "v": 2904,
+   "s": 649,
+   "vertical": false,
+   "desc": "Update: the board was out of stock but is now back in. I keep the electronics section in the Printables ExtruH page as up to date as I can so that's a good place to check\n\nThis video shows my new recommended board for my plotter, about \u00a324 ($30?) from here: https://www.aliexpress.com/item/1005005534718278.html\nThis link should work better for people in the US: https://www.aliexpress.us/item/3256805348403526.html\nIf you want to print this plotter the link to source and STLs is here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh\nThe CoreXY plotter in the video is a modificatio"
+  },
+  {
+   "id": "t1hR-YWTKuU",
+   "t": "Photo Plotting: 4 colours, 4 techniques #3dprinting #diy",
+   "d": "2026-02-21",
+   "v": 1351,
+   "s": 181,
+   "vertical": true,
+   "desc": "A4 colour CMYK plot where each layer has a different technique to turn the colour information into plottable lines. Yellow didn't work properly because the pen slipped\n\nThe pens are random fibre-tipped coloured pens I found, they're not really the right colour for this\n\nThe plotter design and files for printing are available here: https://www.printables.com/model/1174835-extruxy-corexy-remix-of-extruh"
+  },
+  {
+   "id": "4DbMvii9APQ",
+   "t": "3d Printed Pen Plotter: distorted grid halftone spiral dots #3dprinted #plotterart",
+   "d": "2026-03-02",
+   "v": 1521,
+   "s": 53,
+   "vertical": true,
+   "desc": "The plotter designs are here: https://www.printables.com/model/1174835-extruxy-remix-of-extruh & here: https://www.printables.com/model/734327-extruh-pen-plotter\n\nThis image is made from experimental Processing code finalised in the last day or so that transforms the brightness of an image into the size of dots that are filled in with spirals. The dots are arranged in three grids that are distorted into shapes that I thought were interesting and overlaid on top of each other"
+  },
+  {
+   "id": "cvYBpniYfkk",
+   "t": "3d Printed Pen Plotter - ballpoint CMYK colour plot #3dprinted",
+   "d": "2026-04-12",
+   "v": 1005,
+   "s": 84,
+   "vertical": true,
+   "desc": "This plotter is open source - if you want to print this plotter the link to source and STLs are here: https://www.printables.com/model/1174835-extruxy-corexy-remix-of-extruh"
+  },
+  {
+   "id": "Qwu3u70EML4",
+   "t": "Plotter Pen Lifts",
+   "d": "2026-04-22",
+   "v": 1838,
+   "s": 874,
+   "vertical": false,
+   "desc": "This plotter is an open design, CAD and STL files are available here: https://www.printables.com/model/1174835-extruxy-corexy-remix-of-extruh\n\nBrushless servo like the one I have here (not the store I bought it from!): https://www.aliexpress.com/item/1005009176623579.html \n\n(I have not yet uploaded the new servo mount, I don't know how to share the DC-DC converter board I soldered up so until I work that out I'm holding off - I don't want anyone to break their plotter board)"
+  },
+  {
+   "id": "E6YwN_Clrto",
+   "t": "Plotter Pen Lift Servos: open power supply PCB for brushless servos",
+   "d": "2026-06-07",
+   "v": 1345,
+   "s": 402,
+   "vertical": false,
+   "desc": "My previous pen lift video is here: https://www.youtube.com/watch?v=Qwu3u70EML4\n\nFor a while I've been running on a high-voltage brushless servo which can't be supplied with power by the EiBotBoard directly because:\n - It only outputs 5V and the brushless servo really wants 7V+\n - It can only safely output perhaps 200mA at 5V and the brushless servo can easily take 2000mA which would probably make the EiBotBoard very unhappy\n\nAs a result I made a terrible power supply board from perfboard and a cheap DC-DC converter but I wasn't happy to share it because it's easy to get things wrong and this "
+  }
+ ]
+}

@@ -1,0 +1,522 @@
+{
+ "channel": {
+  "id": "UCQy0GbICo23lj_ugObsSQXQ",
+  "title": "Get Circuit Bent",
+  "handle": "@getcircuitbent",
+  "description": "Circuit Bending, Synth Nerdery, Poorly Drawn Cats and sometimes I even remember to make Music!",
+  "since": "2014-12-29",
+  "avatar": "https://yt3.ggpht.com/NACvc16AchECuYD45PqQJbLqK-8QtUUF1TrWQhBAbnvyr9b7T2jqudsSBw42TMGPZfzJ3idjuw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "139352",
+  "subscriberCount": "1760",
+  "hiddenSubscriberCount": false,
+  "videoCount": "56"
+ },
+ "videos": [
+  {
+   "id": "3z0ETmdAh7w",
+   "t": "Fancy New Guitar",
+   "d": "2020-01-21",
+   "v": 55,
+   "s": 97,
+   "vertical": false,
+   "desc": "Am I folk punk now?\n\nSong is a butchered cover of Love in the Time of Human Papillomavirus by AJJ with my sincerest apologies.\n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "cAQTr7w626I",
+   "t": "Embarrassingly Useful Mantras for the End of the World",
+   "d": "2020-03-30",
+   "v": 62,
+   "s": 173,
+   "vertical": false,
+   "desc": "Seeing how much of a live performance I could program, came out pretty ok!\n\nMy camera is garbage but you can kinda tell what the Wobbulator is doing? \u00af\\_(\u30c4)_/\u00af\n\nMake a wobbulator (it's kinda dangerous, please do your homework and don't die):\nhttp://crackedraytube.com/textstutorials.html\n\nLook Mum No Computer's really great video on making one:\nhttps://youtu.be/QWh4wcPNwgM\n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "JRFi7ghMpWs",
+   "t": "Dammit - QChord",
+   "d": "2020-04-20",
+   "v": 499,
+   "s": 145,
+   "vertical": false,
+   "desc": "The Suzuki QChord is a serious instrument for serious people. \n\nSong is Dammit by Blink 182."
+  },
+  {
+   "id": "Nrtb5_hYNc8",
+   "t": "SororityGrlHell.mp3",
+   "d": "2020-04-30",
+   "v": 43,
+   "s": 315,
+   "vertical": false,
+   "desc": "Horrible sounds sampled from sorority girl videos ham-handedly smashed together with some tape loops, an Omnichord, and sundry Casio keyboards.\n\n/////////\nTwitter:\nhttps://twitter.com/po8aster\n\nSoundcloud:\nhttps://soundcloud.com/po8aster"
+  },
+  {
+   "id": "-bzp0Tc3K8I",
+   "t": "Higher Love - Steve Winwood (Chiptune/Synthpop Cover)",
+   "d": "2020-06-14",
+   "v": 148,
+   "s": 218,
+   "vertical": false,
+   "desc": "A chiptuney synthy cover of Steve Winwood's Higher Love. Made for Oliver's Piece. Enjoy!\n\nOliver's Piece:\nhttps://www.youtube.com/channel/UC1j-S_FcC3XlwJ62CsF99PQ\n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "_QH9TjtXYEM",
+   "t": "Glitch Mixer Demo",
+   "d": "2020-07-20",
+   "v": 42,
+   "s": 34,
+   "vertical": false,
+   "desc": "Quick demo of the glitch video mixer I made. \n\nSource material:\nGoku Midnight Eye (streamed digitally)\nThe Amazing Colossal Man (VHS)\n\nAudio is generic Windows movie maker music, but it just so happened to line up with the explosion at the end nicely so I threw a bunch of effects on it and called it a day. \n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "qYESxsGpcq8",
+   "t": "Power Glove MIDI Controller Demo",
+   "d": "2020-07-25",
+   "v": 716,
+   "s": 153,
+   "vertical": false,
+   "desc": "Quick Demo of the Power Glove MIDI Controller I built.\n\nI basically smashed the Power Glove project below together with the excellent NES Library to get the controller working as well. I used the MIDI USB Library and a Pro-Micro board to make mine a wired version of the project.\n\nUnfortunately it only captures the standard controller buttons, so the Numpad isn't usable without creating a custom PCB to directly wire into the Arduino. Maybe I'll get around to that someday?\n\nMaybe if there's interest I'll put together a full blown tutorial. Thanks for watching!\n\nLonks:\nhttps://learn.adafruit.com/"
+  },
+  {
+   "id": "BPM9VEJxe_E",
+   "t": "MSXey Synth Demo",
+   "d": "2020-08-22",
+   "v": 229,
+   "s": 131,
+   "vertical": false,
+   "desc": "I'm calling this synth MSXey mostly because that's easier to say than \"The AY-3-8910 (YM2149) Synth from TheSpodShed's Excellent Instructable\" and because I think I'm clever since the chip was used in the MSX2. I know I'm clever because I explained my own joke.\n\nIf you want to build one, the Instructable is here:\nhttps://www.instructables.com/id/Arduino-MIDI-Chiptune-Synthesizer/\n\nI designed the PCB because a) I am very bad at soldering and b) I wanted to learn how. And shockingly the first attempt actually worked!\n\nOh yeah and the song is Vampire Killer.\n\n/////////General Links///////// \nWebs"
+  },
+  {
+   "id": "PJVe3P9feUc",
+   "t": "Baby Blue Demo",
+   "d": "2020-09-23",
+   "v": 311,
+   "s": 253,
+   "vertical": false,
+   "desc": "Quick demo to give an idea of the sounds this circuit bent keyboard makes.\n\nFree Sample Pack:\nhttps://getcircuitbent.com/shop/sample-packs/baby-blue-sample-pack/\n\nI am not at all good at improvisation, so this is just meant to be a demo of the sounds, not my (lack of) musical talent.\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "hnb99mErlQU",
+   "t": "N64 and GameCube Controller MIDI Interfaces!",
+   "d": "2020-11-25",
+   "v": 371,
+   "s": 133,
+   "vertical": false,
+   "desc": "Demonstration of the N64 and GameCube MIDI interfaces. These allow you to use any N64 or GameCube controller to control any MIDI device (synths, drum machines, DAWs, etc.). This is more meant as a demonstration of the devices than my musical ability, so don't judge me too harshly.\n\nThese are open source, all code, schematics, etc. are available on my GitHub: https://github.com/GetCircuitBent\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "keekv00DHng",
+   "t": "Gator Face",
+   "d": "2021-02-01",
+   "v": 204,
+   "s": 50,
+   "vertical": false,
+   "desc": "The Legend of Gator Face is the best straight-to-VHS gator movie ever made.\nVideo is The Legend of Gator Face x Spirited Away.\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "xgN3C0xfCv8",
+   "t": "Noir Vibes - Sunday Jam",
+   "d": "2021-02-01",
+   "v": 24,
+   "s": 50,
+   "vertical": false,
+   "desc": "Video is The Long Haul x Crying Freeman. \n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "6ITLHbkJ7C4",
+   "t": "Shouty Cat Restive Filter Effect Module Demo",
+   "d": "2021-03-11",
+   "v": 120,
+   "s": 60,
+   "vertical": false,
+   "desc": "Quick demo of a filter effect I created based on the Rattle Crow by Lastgasp Art Laboratories. This is a stripped down clone, intended to be used as a mod for toys/keyboards or in circuit bending projects.\n\nFull details available on my GitHub:\nhttps://github.com/GetCircuitBent/ShoutyCat\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "kHf7WUVE1LU",
+   "t": "Twinkle Echo Echo/Filter Effect Module Demo",
+   "d": "2021-03-11",
+   "v": 179,
+   "s": 58,
+   "vertical": false,
+   "desc": "Quick demo of a very simple Echo/Filter effect I built. Intended to be used as a small mod for toys/keyboards.\n\nFull details on my GitHub:\nhttps://github.com/GetCircuitBent/TwinkleEcho\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "_ONI_Kui6XI",
+   "t": "Bit Bot Robot/Pitch Shift Effect Module Demo",
+   "d": "2021-03-11",
+   "v": 137,
+   "s": 60,
+   "vertical": false,
+   "desc": "Quick demo of a little effect module I built. This is a stripped down clone of the Death by Audio Robot pedal, intended to be put in toys/keyboards as a mod.\n\nComplete details on my GitHub:\nhttps://github.com/GetCircuitBent/BitBot\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "8rj6zfIaVts",
+   "t": "Circuit Bent Casio SK-1 - Complete Demo (Commission for Ness Lake)",
+   "d": "2021-04-18",
+   "v": 10835,
+   "s": 3011,
+   "vertical": false,
+   "desc": "Complete demo of the custom circuit bent Casio SK-1 I did for Ness Lake! \n\nThis is a really long video, but it kind of has to be since we customized everything from an adjustable case to a video synth to a custom built FX section. Oh and I circuit bent it too!\n\nA note on the audio: \nThe audio during the mod demos sucks. I couldn't get my interface to work so that's all done using a $20 guitar amp and a USB mic. So it isn't great but it gets the job done. \n\nThe Patch/Audio Demos were done with an interface so that's what the synth ~actually~ sounds like. I didn't say it in the video, but to be "
+  },
+  {
+   "id": "ycMJNzTI6tg",
+   "t": "Hamberder Soundscape Mangler Demo",
+   "d": "2021-04-28",
+   "v": 281,
+   "s": 112,
+   "vertical": false,
+   "desc": "Hamberder Soundscape Mangler!\n\nThis was a bit of a failed experiment, since what I was going for was closer to a pedal than this turned out. It reacts wildly different to input levels and works best between two sources of amplification (a hot signal off a synth and a mixer pre in this case).\n\nDon't think I'll make a regular product of it, but seems like a fun niche device, and it's pretty fun if wildly impractical.\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "UqKTtgpL9DQ",
+   "t": "Nintendo 64 Controller to MIDI Interface Tech Demo",
+   "d": "2021-06-20",
+   "v": 582,
+   "s": 1401,
+   "vertical": false,
+   "desc": "Full length demo of my N64 to MIDI Interface! Features a Drum mode and Synth mode based on the Ocarina controls from Ocarina of Time that let you use any N64 controller with any MIDI capable device.\n\nSister video for the Gamecube to MIDI interface:\nhttps://youtu.be/ovje4MHV0gs\n\nFor a more musical demonstration:\nhttps://youtu.be/hnb99mErlQU\n\nAnd these are open source! To build your own:\nhttps://github.com/GetCircuitBent/N64MIDIController\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "ovje4MHV0gs",
+   "t": "Gamecube Controller to MIDI  Interface Tech Demo",
+   "d": "2021-06-20",
+   "v": 458,
+   "s": 2153,
+   "vertical": false,
+   "desc": "Full length demo of my GC to MIDI Interface! Features a Drum, Synth, and DK Bongo mode to interface any Gamecube Controller with any MIDI capable device.\n\nSister video for the N64 MIDI Interface:\nhttps://youtu.be/UqKTtgpL9DQ\n\nFor a more musical demonstration:\nhttps://youtu.be/hnb99mErlQU\n\nAnd these are open source! To build your own:\nhttps://github.com/GetCircuitBent/GCMIDIController\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "yBJW7OZHVmU",
+   "t": "Vampire Princess x Record of Lodoss War",
+   "d": "2021-08-06",
+   "v": 339,
+   "s": 41,
+   "vertical": true,
+   "desc": "Little glitch mixer video using Vampire Princess and Record of Lodoss War as the sources.\n\nMusic is just a modded Casio MT-400V, nothing fancy.\n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "G-_FRUykGnU",
+   "t": "Circuit Bent Casio MT-400V",
+   "d": "2021-08-13",
+   "v": 3347,
+   "s": 1091,
+   "vertical": false,
+   "desc": "Demo for my latest commission, a circuit-bent/modded Casio MT-400V!\n\nWe used the video and site below as references for the project. This was a really fun one!\n\n0:00 Intro\n1:10 Mod Demonstration\n13:07 Sound Demos\n\nVideo:\nhttps://youtu.be/jHZL4Okc2CM\nReference Info:\nhttp://weltenschule.de/TableHooters/Casio_CT-410V.html\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "DUhVnB_wbo0",
+   "t": "Clock Modder Demo",
+   "d": "2021-10-14",
+   "v": 859,
+   "s": 50,
+   "vertical": false,
+   "desc": "Clock Modder demo!\n\nThis mod board allows you to easily add a tunable LTC1799 to your project! Pre-Built version available so you don't have to deal with sourcing chips or SMD Soldering!\n\nFull details and to Order:\nhttps://getcircuitbent.com/shop/bending-diy/clock-modder-ltc1799-module/\n\n/////////General Links/////////\nWebsite: https://getcircuitbent.com/\nSocials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "4epmUKdBZ0A",
+   "t": "Glitch Cam Demo - MC Chris",
+   "d": "2022-09-21",
+   "v": 305,
+   "s": 55,
+   "vertical": true,
+   "desc": "A short video taken at an MC Chris show on one of my Glitch Cams.\n\nThis is the raw footage to show the glitches in real time and also give a realistic idea of the (extremely lo-fi) audio quality.\n\nFor full details on these cameras, check  them out my website: https://www.petercatproductions.com/product-category/glitch-cameras/\n\n/////////General Links/////////\nWebsite:\nhttps://www.petercatproductions.com/\n\nSocials & All That Jazz:\nhttps://linktr.ee/Po8aster"
+  },
+  {
+   "id": "DeTOcwbkaoE",
+   "t": "Hello Kitty Karaoke Glitch Mixer - Initial Bend",
+   "d": "2022-12-02",
+   "v": 1128,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Ng7-lD5mub4",
+   "t": "How to Pitch Mod a Meowsic!",
+   "d": "2023-01-18",
+   "v": 22485,
+   "s": 119,
+   "vertical": true,
+   "desc": "Pitch mod a Meowsic with a Clock Modder LTC1799 Mod Board!\nUpdated video for newer Meowsics:\nhttps://youtu.be/yqVU0I47wjY?si=MPi8gGYb8Z-gkIPE\n\nClock Modders are available here:\nhttps://getcircuitbent.com/shop/bending-diy/clock-modder-ltc1799-module/\n\nIf you want a completely exhaustive tutorial, check out Episode 1 of the Super Circuit Bending Super Show where I show the entire process: https://www.youtube.com/playlist?list=PLZj2L2sVGCrZVBZ2crrUY3vZ2mojfncXl\n\n/////////General Links/////////\nWebsite:\nhttps://getcircuitbent.com/\n\nSocials & All That Jazz:\nhttps://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "yqVU0I47wjY",
+   "t": "How to Pitch Mod a Meowsic: Updated",
+   "d": "2024-05-08",
+   "v": 8407,
+   "s": 90,
+   "vertical": true,
+   "desc": "How to Pitch Mod a Meowsic - Updated for new version of the keyboard!\n\nPrevious Video: https://youtu.be/Ng7-lD5mub4\nClock Modder: https://getcircuitbent.com/shop/bending-diy/clock-modder-ltc1799-module/\n\nIf you want a completely exhaustive tutorial, check out Episode 1 of the Super Circuit Bending Super Show where I show the entire process: https://www.youtube.com/playlist?list=PLZj2L2sVGCrZVBZ2crrUY3vZ2mojfncXl\n\n/////////General Links/////////\nWebsite:\nhttps://getcircuitbent.com/\n\nSocials & All That Jazz:\nhttps://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "AezP-8t-TKI",
+   "t": "Circuit Bending a Cat Keyboard: Pitch Mod and LFO | SCBSS 1.1",
+   "d": "2024-07-27",
+   "v": 7240,
+   "s": 8777,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I circuit bend a Meowsic Cat Keyboard, adding an LTC1799 Pitch Bend/Clock Mod "
+  },
+  {
+   "id": "ZF0-4DFcV10",
+   "t": "Circuit Bending a Cat Keyboard: Pitch Mod and LFO | SCBSS 1.2",
+   "d": "2024-08-10",
+   "v": 1742,
+   "s": 12421,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I circuit bend a Meowsic Cat Keyboard, adding an LTC1799 Pitch Bend/Clock Mod "
+  },
+  {
+   "id": "WXOeDEXKspU",
+   "t": "Super Circuit Bending Super Show Episode 1!",
+   "d": "2024-08-12",
+   "v": 6462,
+   "s": 42,
+   "vertical": true,
+   "desc": "Build your own Pitch Modded Meowsic with LFO Control!\nFollow along with the (exhaustive) process in Episode 1 of the Super Circuit Bending Super Show!\n #circuitbending #electronics #catpiano"
+  },
+  {
+   "id": "rCbWeOV460k",
+   "t": "Fixing a Numark Video Mixer | Makin' It Work 1",
+   "d": "2024-08-18",
+   "v": 303,
+   "s": 2942,
+   "vertical": false,
+   "desc": "Description:\n\nMakin\u2019 It Work is a series where I take broken or messed up stuff and, well, make it work! The goal isn't really to restore things to how they came from the factory, just get them working well enough to be Circuit Bent or otherwise re-purposed so they don\u2019t end up in a landfill. \n\nIn this Episode, I fix up a Numark Video Mixer that I got for super cheap since it wouldn\u2019t power on. I want to get it working well enough that I can use it in my video art rig since it has the ability to use Luma and Chroma Key.\n\nFeel free to ask any questions about the process in the comments, I do my"
+  },
+  {
+   "id": "SF-VT3cLmXY",
+   "t": "Makin\u2019 It Work Ep. 1 Demo!",
+   "d": "2024-08-19",
+   "v": 444,
+   "s": 25,
+   "vertical": true,
+   "desc": "Video I made with the Numark mixer I fixed in my most recent video!\n\nCheck out Episode 1 of Makin\u2019 It Work on my YouTube channel to see how I fixed this busted mixer I got for $30 and how I set it up for glitch videos like this one!\n\nVideo: Ayane\u2019s High Kick and a sweet skull gif\nAudio: Boxing by Ben Folds via Gauss Field Looper\n\n#glitchart #glitchvideo #vhsaesthetic #glitch #diyelectronics #electronicsrepair #gauss"
+  },
+  {
+   "id": "sCVJS1uQUMQ",
+   "t": "Circuit Bending an Effects Unit/Pedal (Yamaha REX50) | SCBSS 2.1",
+   "d": "2024-08-24",
+   "v": 946,
+   "s": 5907,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I bend a Yamaha REX50: adding a patchbay, patchable controls, Clock and LFO mo"
+  },
+  {
+   "id": "cdvh6Fc6TZg",
+   "t": "Super Circuit Bending Super Show Ep. 2.1 Demo",
+   "d": "2024-08-25",
+   "v": 2776,
+   "s": 56,
+   "vertical": true,
+   "desc": "Quick sample of what we're building in Episode 2 of the Super Circuit Bending Super Show!\n\nIn Part 1 of Episode 2, I go through identifying bend points and component values on a Yamaha REX50 Multi Effect unit. Check out the full video to see the full process!"
+  },
+  {
+   "id": "gfwk4rlzZZ0",
+   "t": "Repairing a Califone Card Master Card Recorder | Makin' It Work 2",
+   "d": "2024-09-01",
+   "v": 326,
+   "s": 2127,
+   "vertical": false,
+   "desc": "Makin\u2019 It Work is a series where I take broken or messed up stuff and, well, make it work! The goal isn't really to restore things to how they came from the factory, just get them working well enough to be Circuit Bent or otherwise re-purposed so they don\u2019t end up in a landfill. \n\nIn this Episode, I fix up a Califone Card Master that I picked up on Marketplace for super cheap. I want to get it working well enough that I can use it for making lo-fi samples and fun analog scratching effects \u00e0 la Baby Driver!\n\nFeel free to ask any questions about the process in the comments, I do my best to read "
+  },
+  {
+   "id": "HzVtS21Y0wA",
+   "t": "Califone Cardmaster Demo: MIW Ep.2",
+   "d": "2024-09-02",
+   "v": 1863,
+   "s": 58,
+   "vertical": true,
+   "desc": "I fixed this Califone Card Recorder: see how in Episode 2 of Makin' It Work!\n\n#circuitbending #diyelectronics #synthdiy"
+  },
+  {
+   "id": "ShdLWItzjb0",
+   "t": "Circuit Bending an Effects Unit/Pedal (Yamaha REX50) | SCBSS 2.2",
+   "d": "2024-09-08",
+   "v": 309,
+   "s": 6080,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I bend a Yamaha REX50: adding a patchbay, patchable controls, Clock and LFO mo"
+  },
+  {
+   "id": "bdlrjQqG1pI",
+   "t": "Repairing a Junk Store Windows XP Laptop | Makin' It Work 3",
+   "d": "2024-10-03",
+   "v": 379,
+   "s": 1226,
+   "vertical": false,
+   "desc": "Makin\u2019 It Work is a series where I take broken or messed up stuff and, well, make it work! The goal isn't really to restore things to how they came from the factory, just get them working well enough to be Circuit Bent or otherwise re-purposed so they don\u2019t end up in a landfill. \n\nIn this Episode, I try my hand at being a vintage computing guy, trying to fix a $10 junk store HP laptop and get it up and running with Windows XP. I want to get it working well enough that I can use it to run old software and hardware in my studio.\n\nFeel free to ask any questions about the process in the comments, "
+  },
+  {
+   "id": "GxCzBL-be7I",
+   "t": "(Glitch Video) Be Cool About Fire Safety",
+   "d": "2024-10-11",
+   "v": 190,
+   "s": 77,
+   "vertical": false,
+   "desc": "Glitch Video I made for Glitchtober 2024. Theme: Hot.\n\nOnly the finest in insurance-funded 90s edutainment home videos for my followers \ud83d\ude3d\n\nFeaturing the vocal talents of Little Richard and Gilbert Gottfried!\n\nVideo Sources:\nBe Cool About Fire Safety (1996)\nA low-res gif of fire from Google image search\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "wk36qJ6shR4",
+   "t": "Medical Imaging Thermal Printer Repaired and Repurposed!",
+   "d": "2024-10-17",
+   "v": 301,
+   "s": 168,
+   "vertical": true,
+   "desc": "In this quick video I show how I repaired and repurposed an old medical imaging thermal printer to print video signals! It will make it's formal debut as part of my Glitch Photo Booth at Maker Faire (Bay Area) 2024.\n\nI'm super pleased with how it came out! Let me know how you all like the shorter format, and as always feel free to ask any questions in the comments, I'm usually pretty good about reading them all.\n\n/////////General Links///////// \nWebsite: https://www.petercatproductions.com/ \nSocials & All That Jazz: https://linktr.ee/Po8aster"
+  },
+  {
+   "id": "glWDAbDxrLY",
+   "t": "Circuit Bending an Effects Unit/Pedal (Yamaha REX50) | SCBSS 2.3",
+   "d": "2024-10-31",
+   "v": 605,
+   "s": 6789,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I bend a Yamaha REX50: adding a patchbay, patchable controls, Clock and LFO mo"
+  },
+  {
+   "id": "B_s_CKk9xFk",
+   "t": "Circuit Bent Yamaha REX50 Demo",
+   "d": "2024-10-31",
+   "v": 1661,
+   "s": 59,
+   "vertical": true,
+   "desc": "Demo of the REX50 I circuit bent in Episode 2 of the Super Circuit Bending Super Show!\n\nWatch the full episode to see how I bent it, or check out the end of Episode 2.3 if you just want to see more wacky noises. This 80's guitar pedal/multi-effects unit is now a super cool machine that can make glitchy noises out of whatever you put into it!"
+  },
+  {
+   "id": "MM1pTe1W9Wo",
+   "t": "Troubleshooting Power Issues - Suzuki QChord | Makin' It Work 4",
+   "d": "2024-11-14",
+   "v": 771,
+   "s": 1494,
+   "vertical": false,
+   "desc": "Makin\u2019 It Work is a series where I take broken or messed up stuff and, well, make it work! The goal isn't really to restore things to how they came from the factory, just get them working well enough to be Circuit Bent or otherwise re-purposed so they don\u2019t end up in a landfill. \n\nIn this Episode, I\u2019ll troubleshoot a power issue on my trusty Suzuki QChord. This video went in a very different direction than I thought it would, but I think it makes for a great example on how to troubleshoot and repair power issues for a device that won\u2019t power up. There are a ton of great deals to be had on old "
+  },
+  {
+   "id": "qfKpkMrxo50",
+   "t": "Musical Moose Demo - SCBSS XMAS 2024 Demo",
+   "d": "2024-12-25",
+   "v": 336,
+   "s": 160,
+   "vertical": true,
+   "desc": "Merry Christmas from Uncle Dwayne and the Musical Moose!\n\nI was up until like 4AM fighting a Premiere bug, but the first ever Super Circuit Bending Super Show Christmas Special is up now! I couldn\u2019t fix this junk store moose (definitely not a reindeer) so I repurposed him into an audio-reactive Bluetooth speaker, seen here amplifying our turntable.\n\nCheck out the full video to see the build process!\n\n#circuitbending #circuitbent #diyelectronics #musicalmoosemoment"
+  },
+  {
+   "id": "hNkBwkQFk20",
+   "t": "Circuit Bending a Musical Moose: Building Audio Reactive Circuits | SCBSS XMAS 2024",
+   "d": "2024-12-25",
+   "v": 280,
+   "s": 2898,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Super Special Christmas Episode, I bend a musical moose toy (yes it\u2019s actually a reinde"
+  },
+  {
+   "id": "yab0vFGAiJ8",
+   "t": "Easy-Mode Circuit Bent Glitch Camera - Part 1",
+   "d": "2025-01-07",
+   "v": 18007,
+   "s": 926,
+   "vertical": false,
+   "desc": "A short video experimenting with a Flex PCB breakout board designed by me and provided by @PCBWay (a big thanks to them for these prototypes!)\n\nThe idea is to make circuit bending cameras easier to do by making more accessible solder points. I also share my schematic/recipe for bending these cheapo Amazon toy cameras!\n\nIntro: 00:00:00\nCamera Overview and Sample Photos: 00:01:05\nBreakout Board Overview: 00:02:35\nAttaching the Board/Hall of Failure: 00:05:01\nDemonstration: 00:09:09\nSchematic/Thoughts/Plans/Etc.: 00:10:52\n\n/////////Video Specific Links/////////\nVersion 3 is out now! Check out the"
+  },
+  {
+   "id": "bhPbMFmWr3E",
+   "t": "Saving a $700 Lamp for $60",
+   "d": "2025-01-22",
+   "v": 282,
+   "s": 164,
+   "vertical": true,
+   "desc": "In this video my wife Leah and I recycle/restore a fancy lamp we found at the salvage store! It\u2019s a pretty quick and easy project, so hopefully it will help folks recycle/repair things themselves!"
+  },
+  {
+   "id": "VcH2L6oIcsE",
+   "t": "Converting a Tape Player into a Tube Amp",
+   "d": "2025-02-14",
+   "v": 538,
+   "s": 1491,
+   "vertical": false,
+   "desc": "In this video, me and my hot wife, Leah, convert an old Wollensak reel-to-reel tape player into a tube amp! We'll go through the whole process of designing and building the converter boxes we need to use the player as an amp and to use the mic with any music equipment we want.\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "zg-kOUHmbnk",
+   "t": "Building a Digital Glitch Mixer (Karl Klomp Video Mixer) | SCBSS 3",
+   "d": "2025-04-10",
+   "v": 1514,
+   "s": 1122,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I\u2019m building a Digital Glitch Mixer for an exhibition! It\u2019s basically a Dirty "
+  },
+  {
+   "id": "kYdP_ZgYEJs",
+   "t": "Clot. (Bent//Broken 2025)",
+   "d": "2025-04-16",
+   "v": 138,
+   "s": 671,
+   "vertical": false,
+   "desc": "This is a video I made for @bentbrokenfest 2025!\n\nI used angiogram and CT images from my stroke to create the source video (along with sundry VHS clips) run through a variety of circuit bent video gear. So that's what my brain looks like. Neat!\n\nThe audio was made entirely with clips from a 90s edutainment game Journey into the Brain and a trusty circuit bent Casio SK-1.\n\nJourney into the Brain: https://archive.org/details/jib_20241225\n\n/////////General Links///////// \nWebsite: https://getcircuitbent.com/\nContact, Socials & All That Jazz: https://getcircuitbent.com/bio/"
+  },
+  {
+   "id": "vuC6QAmMsQs",
+   "t": "Easy-Mode Circuit Bent Glitch Camera - Part 2",
+   "d": "2025-05-01",
+   "v": 8230,
+   "s": 1842,
+   "vertical": false,
+   "desc": "A new video experimenting with version 2 of a Flex PCB breakout board designed by me and provided by  @PCBWay (a big thanks to them for these prototypes!) \n\nThe idea is to make circuit bending cameras easier to experiment with and build by making more accessible solder points. Version 2 works great with this model of toy camera, it\u2019s much easier to solder on than Version 1. I\u2019m hoping Version 3 will work with a wider variety of cameras!\n\nVersion 3 is out now! Check out the latest video here:\nhttps://youtu.be/7vLm8fvA-UU?si=gwP5OqU35Lmx6DvN\n\nIntro: 00:00:00\nBoard Overview: 00:02:20\nCamera Disas"
+  },
+  {
+   "id": "EbMWyWU8nX0",
+   "t": "Circuit Bending a VTech VideoPainter | SCBSS 4",
+   "d": "2025-06-11",
+   "v": 755,
+   "s": 1113,
+   "vertical": false,
+   "desc": "It\u2019s the Super Circuit Bending Super Show! In this series, I teach you how to Circuit Bend by showing projects and builds in full. Since I cover everything step-by-step, it\u2019s great for beginners or experienced benders/makers looking for their next project! The goal is to make circuit bending and hobby electronics more accessible by demystifying electronics (as well as the techniques, processes, tools, circuits, and jargon) so you can dive right into revitalizing old stuff and building weird things!\n\nIn this Episode, I\u2019m bending a VTech VideoPainter for my booth at@sauceplusofficial!\nThe VideoP"
+  },
+  {
+   "id": "7vLm8fvA-UU",
+   "t": "Easy-Mode Circuit Bent Glitch Camera - Part 3",
+   "d": "2025-07-16",
+   "v": 4395,
+   "s": 774,
+   "vertical": false,
+   "desc": "A new video experimenting with version 3 of a Flex PCB breakout board designed by me and provided by @JLCPCB \n\nThe idea is to make circuit bent cameras easier to experiment with and build by making more accessible solder points. Version 3 is totally solder free! You just sandwich the board between the camera sensor and the sensor connector and you should have a flexible breakout board for all the pins. \n\nThis video is just a quick demonstration of how to install and test the board. Check out Part 2 of this series for more specifics about adding identifying bends and adding controls.\n\nThis new "
+  },
+  {
+   "id": "HOe42E8aoCc",
+   "t": "\ud83e\udd18Metal\ud83e\udd18",
+   "d": "2025-08-05",
+   "v": 189,
+   "s": 60,
+   "vertical": true,
+   "desc": "Music by \u200b@obededom5186 \nMade for Glitch Guild weekly prompt\n\n#glitch #glitchart #vhs #vhsaesthetic #metal"
+  },
+  {
+   "id": "s4wwnGqcuuc",
+   "t": "How to Circuit Bend a Glitch Camera!",
+   "d": "2025-08-12",
+   "v": 25542,
+   "s": 175,
+   "vertical": true,
+   "desc": "Here's a short video showing how to make your very own circuit bent point and shoot digital camera! I use a toy camera in this one, but the same principle applies to just about any little camera. \n\nSee my channel for links or visit GetCircuitBent.com for the Easy Mode Glitch Cam breakout board I use in this video. You don\u2019t need it, but it makes things much, much easier! \n\n#glitch #camera #circuitbending #digitalphotography #retro"
+  },
+  {
+   "id": "IDVD0XXiGhY",
+   "t": "Recapping Old Electronics: When, Why & How to Replace Capacitors (Full Demo) | Skill Builds 1",
+   "d": "2026-03-25",
+   "v": 615,
+   "s": 1476,
+   "vertical": false,
+   "desc": "$30 Coupon: 6-Layer PCBs Starting at $2:\nhttps://jlcpcb.com/6-layer-pcb?from=GetCircuitBent\n\nNever used JLCPCB? Register with the link below to get a $123 coupon:\nhttps://jlcpcb.com/?from=GetCircuitBent\n\n/////////Description///////// \nKnowing basic electronics theory and repair skills is super valuable for circuit benders and other artists who work with circuitry. These skills will help you design and ideate projects, and being able to make repairs can save you a lot of money.  In Skill Build videos I use a small project to demonstrate a useful skill or technique and the basic principals behin"
+  },
+  {
+   "id": "DOhLlTGjxwg",
+   "t": "Maker Faire 2026",
+   "d": "2026-10-13",
+   "v": 177,
+   "s": 31,
+   "vertical": true,
+   "desc": "Maker Faire 2026!\nWe had a blast as always; thanks to @makerfaire for having us and to @zackwebsite for helping with the booth and doing video edits!"
+  }
+ ]
+}

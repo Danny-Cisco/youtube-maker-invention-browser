@@ -1,0 +1,297 @@
+{
+ "channel": {
+  "id": "UC7iBdyxIp3uJVIFIl6XTA6w",
+  "title": "Shawn Hymel",
+  "handle": "@shawnhymel",
+  "description": "Expert instructor and creative course developer in embedded systems, IoT, and machine learning | Empowering tech communities through innovative education and engagement",
+  "since": "2013-09-22",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nCAh4zNXWF2BmmU3ckYyxOG3l9eIzpsMn8BxjMZlcBnw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "1220143",
+  "subscriberCount": "17700",
+  "hiddenSubscriberCount": false,
+  "videoCount": "31"
+ },
+ "videos": [
+  {
+   "id": "ZIW_6rxYNBg",
+   "t": "micro:bit Tutorial Series Part 1: Getting Started",
+   "d": "2016-08-15",
+   "v": 532065,
+   "s": 399,
+   "vertical": false,
+   "desc": "Get started using the micro:bit with BBC's online MicroPython code editor. In this episode, we examine the micro:bit and program it to scroll the phrase \"Hello!\" across the LED display.\n\nmicro:bit online editor: https://www.microbit.co.uk/app\nCode: https://gist.github.com/ShawnHymel/c052ac191935a7df17905462c3d5add3\nChallenge answer: https://gist.github.com/ShawnHymel/83b8bf04ccd66b888660fc3557c81c18"
+  },
+  {
+   "id": "XMr6Fg74fZY",
+   "t": "micro:bit Tutorial Series Part 2: Images, Buttons, and Conditionals",
+   "d": "2016-08-29",
+   "v": 147815,
+   "s": 557,
+   "vertical": false,
+   "desc": "Let's make some faces! In this episode, we interact with the micro:bit by pressing buttons to display different images on the LED array.\n\nmicro:bit online editor: https://www.microbit.co.uk/app\nmicro:bit MicroPython documentation: https://microbit-micropython.readthedocs.io/en/latest/\nCode: https://gist.github.com/ShawnHymel/689a6c59938dffeac0e9d42d7cd1d40a\nChallenge 1 answer: https://gist.github.com/ShawnHymel/bf1104f133e4071cde23b6df1edad353\nChallenge 2 answer: https://gist.github.com/ShawnHymel/715a5225674904088a0d12bee3cace5f"
+  },
+  {
+   "id": "ZbX-l1Dl4N4",
+   "t": "How to Make an Arduino WebSocket Server with an ESP32",
+   "d": "2018-11-01",
+   "v": 77835,
+   "s": 358,
+   "vertical": false,
+   "desc": "The WebSocket protocol is a useful tool for communicating between servers and clients without the need for HTTP. Here, I show how to create an Arduino WebSocket server on an ESP32 that echoes simple text messages back to connected clients. I test the server with a basic Python script.\n\nArduino and Python code from the video can be found here: http://shawnhymel.com/1675/arduino-websocket-server-using-an-esp32/"
+  },
+  {
+   "id": "mkXsmCgvy0k",
+   "t": "How to Create a Web Server (with WebSockets) Using an ESP32 in Arduino",
+   "d": "2019-09-09",
+   "v": 171036,
+   "s": 762,
+   "vertical": false,
+   "desc": "This is a continuation of the ESP32 WebSocket Server video: https://www.youtube.com/watch?v=ZbX-l1Dl4N4. Let's take it to the next level! We begin by hosting a web server and WebSocket server on an ESP32 using Arduino. Next, we use SPIFFS to upload a simple index.html page that we write separately. This page will open a WebSocket connection back to the ESP32, where we can use the page's button to toggle an LED (relatively quickly).\n\nNote that we use the ESP32 as an access point (AP) here to simplify the process. You can do away with the access point, if you wish to have the web server on your "
+  },
+  {
+   "id": "IYvLr-H5bME",
+   "t": "Hack a Pumpkin: Spoopy Poopy, the Gaseous Gourd",
+   "d": "2019-10-28",
+   "v": 1534,
+   "s": 295,
+   "vertical": false,
+   "desc": "Here is my official entry to Tech-nic-Allie's #HackAPumpkin challenge: Spoopy Poopy, the Farting Pumpkin. I can disgust those Trick-or-Treaters with this wonderfully flatulent trick--now with fart-flavored fragrance! This ceramic gourd is stuffed with electronics to emit light, sound, fog, and a little bit of stink.\n\nA passive infrared (PIR) sensor detects the presence of warm bodies and triggers the whole fart sequence. An Adafruit Feather M0 Express running #CircuitPython controls the lights (NeoPixels) and plays an audio clip out through pin A0. The fog machine is a vape pen loaded with hal"
+  },
+  {
+   "id": "WHite8vdcbE",
+   "t": "Getting Started with Mozilla WebThings Part 1: Setup on a Raspberry Pi",
+   "d": "2019-12-20",
+   "v": 19669,
+   "s": 467,
+   "vertical": false,
+   "desc": "Mozilla (the makers of Firefox) have created a custom Internet of Things (IoT) hub that can run on a single-board computer (SBC). In this tutorial, I show you how to install the WebThings gateway on a Raspberry Pi and then control  smart plug using your smart phone.\n\nOn the next episode, we'll create a custom IoT device using Arduino and an ESP8266 device that can communicate with the WebThings gateway server.\n\nReferences:\nMozilla WebThings: https://iot.mozilla.org/\nWeb of Things standard: https://www.w3.org/WoT/"
+  },
+  {
+   "id": "papxaeII0vo",
+   "t": "Getting Started with Mozilla WebThings Part 2: Building an ESP8266 Temperature Sensor with Arduino",
+   "d": "2019-12-23",
+   "v": 11265,
+   "s": 474,
+   "vertical": false,
+   "desc": "In the last episode (https://www.youtube.com/watch?v=WHite8vdcbE), I showed you how to set up the Mozilla WebThings project on a Raspberry Pi and toggle a simple smart plug. This time, we dig even deeper and build our own IoT device with Arduino on an ESP8266.\n\nThe ESP8266 is connected to a digital temperature sensor, which we can query using the I2C protocol. We then use the WebThings library for Arduino to construct a request that automatically updates the displayed temperature value in the WebThings interface.\n\nArduino code: https://gist.github.com/ShawnHymel/327f9fc4cc57594e4f482b868be02e9"
+  },
+  {
+   "id": "HRaRQ1Vcrgg",
+   "t": "Keysight DSOX1204G Oscilloscope Review",
+   "d": "2020-06-08",
+   "v": 31827,
+   "s": 396,
+   "vertical": false,
+   "desc": "The Keysight DSOX1204G is a 4-channel oscilloscope with 70-200 MHz bandwidth (depending on the options selected). It is one of Keysight's entry-level scopes and could be a great addition to any professional engineer's workbench or for universities. However, it is more expensive than most other entry-level oscilloscopes, as you're paying for the Keysight name and customer support.\n\nIn the video, I cover some of the oscilloscope's features, talk about what it might be used for, and give my opinions on it. Considering it is an entry-level oscilloscope, I compare it to 2 other entry-level oscillos"
+  },
+  {
+   "id": "DdFBMtq2jso",
+   "t": "Custom Wake Word Part 1: Capturing Data | TinyML",
+   "d": "2020-06-30",
+   "v": 8037,
+   "s": 779,
+   "vertical": false,
+   "desc": "Welcome to the first part in my series on creating a custom wake word for Edge AI and TinyML! I'll be working through a longer project to create a machine learning model that can be deployed on single board computers (e.g. Raspberry Pi) and microcontrollers (e.g. Arduino). We will train this model to recognize one or more key phrases, known as \"wake words\" or \"hotwords.\" You probably recognize common wake words such as \"Alexa,\" \"Hey Siri,\" and \"OK Google.\"\n\nSubmit your own voice to this project! If you can spare 5 min, please visit this site to record a few phrases to help us out (note that th"
+  },
+  {
+   "id": "rsK8oRaAqio",
+   "t": "Custom Wake Word Part 2: Curating Data | TinyML",
+   "d": "2020-07-30",
+   "v": 4906,
+   "s": 910,
+   "vertical": false,
+   "desc": "Let's continue our machine learning and Edge AI journey! I'm working on a system to train my own wake words (like \"Alexa\" or \"Hey Siri\"). The difference is that I want it to be something fun: \"hadouken.\" The ultimate goal is have a microcontroller respond to this custom wake word to control something (say, a video game).\n\nOn the previous episode (https://www.youtube.com/watch?v=DdFBMtq2jso), I created a web page that allowed people to submit snippets of their own voice.\n\nOn this episode, I need to curate all that data. I use Audacity to slice out 1 second snippets from each recorded sample and"
+  },
+  {
+   "id": "a_osS0VdkzE",
+   "t": "Wio Terminal TinyML - Speech Recognition",
+   "d": "2021-03-20",
+   "v": 9019,
+   "s": 461,
+   "vertical": false,
+   "desc": "The Wio Terminal is a development platform by Seeed Studio (https://www.seeedstudio.com/Wio-Terminal-p-4509.html). It combines a SAMD51 microcontroller with Bluetooth/WiFi connectivity, various sensors, an LED screen, a buzzer, and some buttons. While it makes for a fine IoT development kit, I wanted to see how well it would run embedded machine learning applications (TinyML). Specifically, I wanted to test its ability to handle speech recognition (or more specifically, keyword spotting).\n\nDisclosure: Seeed Studio sent me a Wio Terminal to play with and create a video about.\n\nI trained a convo"
+  },
+  {
+   "id": "GKre2KIrkWo",
+   "t": "PID controllers solve lots of problems in #robotics (especially those caused by ROS latency)",
+   "d": "2025-04-22",
+   "v": 27138,
+   "s": 45,
+   "vertical": true,
+   "desc": "When your robot logic has a little too much latency, PID controllers can be a lifesaver. My #ROS bot now tracks blue objects with noticeably more grace \ud83e\udd16 If you\u2019re curious, the PID tuning video can be found here: https://youtu.be/hRnofMxEf3Q?si=pI3PgZnjCAA8RY6r\n\n#robotics #RaspberryPi #engineering #maker #programming #controltheory"
+  },
+  {
+   "id": "h7VfpoJvIpg",
+   "t": "ESP32 - Getting Started with ESP-IDF",
+   "d": "2025-08-12",
+   "v": 78384,
+   "s": 2366,
+   "vertical": false,
+   "desc": "I'll show you how to get started with the Espressif IoT Development Framework (ESP-IDF), the official Espressif toolset for building professional, production-ready firmware for the ESP32.\n\nIf you would like to go further, check out my full IoT Firmware Development with ESP32 and ESP-IDF course: https://learnembedded.dev/courses/iot-firmware-development-with-esp32-and-esp-idf/?utm_source=youtube&utm_medium=video&utm_campaign=esp32_iot_course_evergreen\n\nThe GitHub repository used in the video can be found here: https://github.com/ShawnHymel/course-iot-with-esp-idf \n\nCheck out the written tutoria"
+  },
+  {
+   "id": "uJ9RtAxStpo",
+   "t": "ESP32 - CMake with ESP-IDF Tutorial",
+   "d": "2025-08-26",
+   "v": 10201,
+   "s": 1337,
+   "vertical": false,
+   "desc": "Learn how to use CMake with ESP-IDF to configure, build, and link projects for the ESP32 manually and without relying on idf.py build. We\u2019ll start with a simple, standalone CMake project to understand the basics and then show how ESP-IDF uses the same system under the hood to manage components, dependencies, and targets.\n\nIf you\u2019d like to go further, check out my full IoT Firmware Development with ESP32 and ESP-IDF course:\nhttps://learnembedded.dev/courses/iot-firmware-development-with-esp32-and-esp-idf/?utm_source=youtube&utm_medium=video&utm_campaign=esp32_iot_course_evergreen\n\nThe GitHub re"
+  },
+  {
+   "id": "KsrDYfQ9geU",
+   "t": "ESP32 - Kconfig with ESP-IDF Tutorial",
+   "d": "2025-09-09",
+   "v": 8972,
+   "s": 1535,
+   "vertical": false,
+   "desc": "In this video, I\u2019ll show you how to use Kconfig with ESP-IDF to make your ESP32 projects configurable and easier to maintain. Kconfig is the system behind the familiar idf.py menuconfig tool, allowing you to enable or disable features, set parameters, and even create your own configuration options without manually editing source files.\n\nWe\u2019ll start by creating a simple ESP-IDF project and adding a custom component with a Kconfig file. You\u2019ll learn how to define new configuration symbols, expose them in menuconfig, and use them in your code with conditional compilation. Along the way, I\u2019ll demo"
+  },
+  {
+   "id": "FDscfXLesjQ",
+   "t": "ESP32 - I2C with ESP-IDF Tutorial",
+   "d": "2025-09-23",
+   "v": 11193,
+   "s": 1542,
+   "vertical": false,
+   "desc": "In this video, I\u2019ll show you how to use I2C communication in ESP-IDF to read temperature data from the TMP102 sensor. This tutorial covers the fundamentals of the I2C protocol, how to configure ESP-IDF's I2C master driver, and how to properly read and convert temperature data from a real sensor. \n\nIf you would like to go further, check out my full IoT Firmware Development with ESP32 and ESP-IDF course: https://learnembedded.dev/courses/iot-firmware-development-with-esp32-and-esp-idf/?utm_source=youtube&utm_medium=video&utm_campaign=esp32_iot_course_evergreen\n\nThe GitHub repository with the com"
+  },
+  {
+   "id": "j1ve8mYjUoU",
+   "t": "ESP32 - WiFi Driver with ESP-IDF Tutorial",
+   "d": "2025-10-07",
+   "v": 14529,
+   "s": 3276,
+   "vertical": false,
+   "desc": "Learn how to build a robust WiFi driver for ESP32 using ESP-IDF from scratch. This tutorial breaks down the ESP-IDF WiFi stack into its core building blocks, showing you how to create a custom component that handles station mode connections, event-driven callbacks, and DHCP for both IPv4 and IPv6. Unlike simplified examples that use convenience functions, we'll implement the network interface, driver attachment, and event handlers step-by-step so you understand exactly what's happening under the hood.\n\nIf you would like to go further, check out my full IoT Firmware Development with ESP32 and E"
+  },
+  {
+   "id": "ZQatV_Fi0Vc",
+   "t": "ESP32 - HTTP GET with ESP-IDF Tutorial",
+   "d": "2025-10-21",
+   "v": 8299,
+   "s": 2308,
+   "vertical": false,
+   "desc": "Learn how to make HTTP GET requests from an ESP32 microcontroller using ESP-IDF and low-level BSD sockets in this comprehensive tutorial. We'll start with the fundamentals of HTTP communication and socket programming, then build a complete application that connects to WiFi, performs DNS lookups, establishes socket connections, sends HTTP requests, and processes server responses. This hands-on project will give you the essential networking skills needed to build IoT devices that communicate with web servers and REST APIs.\n\nIf you would like to go further, check out my full IoT Firmware Developm"
+  },
+  {
+   "id": "QSeMT4RK62M",
+   "t": "What is Transport Layer Security (TLS)?",
+   "d": "2025-11-04",
+   "v": 5040,
+   "s": 1215,
+   "vertical": false,
+   "desc": "In this video, I\u2019ll explain what Transport Layer Security (TLS) is, how it relates to Secure Sockets Layer (SSL), and how it keeps our internet communications safe. We\u2019ll look at how encryption, authentication, and digital certificates work together to ensure that the data we send stays private, unaltered, and verified (whether you\u2019re browsing a website or connecting an IoT device to the cloud).\n\nWe\u2019ll start by reviewing the problems with unencrypted communication and symmetric key exchange, then explore how asymmetric cryptography, certificate authorities, and the TLS handshake solve those is"
+  },
+  {
+   "id": "LTAm1R_4YYE",
+   "t": "What is MQTT?",
+   "d": "2025-11-18",
+   "v": 11816,
+   "s": 1216,
+   "vertical": false,
+   "desc": "MQTT (Message Queuing Telemetry Transport) is a lightweight, publish/subscribe messaging protocol designed for low-power, low-bandwidth, or unreliable networks. From the early days of monitoring oil pipelines over satellite links to today\u2019s massive IoT deployments, MQTT has evolved into a flexible and powerful messaging system used around the world.\n\nYou can find a written version of this overview here: https://shawnhymel.com/3046/what-is-mqtt-an-introduction-to-the-lightweight-iot-messaging-protocol/?utm_source=youtube&utm_medium=video&utm_campaign=esp32_iot_course_evergreen\n\nWe\u2019ll walk throu"
+  },
+  {
+   "id": "-bKEWqcyEBY",
+   "t": "Getting Started with the Mosquitto MQTT Broker (with SSL/TLS)",
+   "d": "2025-12-02",
+   "v": 13742,
+   "s": 2084,
+   "vertical": false,
+   "desc": "In this video, we show how to configure and use Mosquitto, one of the most widely adopted open-source MQTT brokers. Mosquitto is lightweight, easy to install, and maintained by the Eclipse Foundation. While it doesn\u2019t include dashboards or databases like full-featured IoT platforms, it provides a solid, minimal broker that you can extend however you like, which is perfect for prototyping or building a self-hosted IoT system from scratch. Because it\u2019s small and reliable, Mosquitto is a great option for developers running local servers, lab setups, or containerized deployments.\n\nYou can find a w"
+  },
+  {
+   "id": "GdWItne6OR8",
+   "t": "Interview with Sid Deliwala (ECEDHA 2026): Teaching Edge AI from Day One",
+   "d": "2026-04-02",
+   "v": 404,
+   "s": 1289,
+   "vertical": false,
+   "desc": "In this interview from the ECEDHA 2026 conference, I spoke with Professor Siddharth Deliwala from the University of Pennsylvania about how he\u2019s introducing edge AI concepts to students as early as their freshman year. Instead of waiting for advanced coursework, his approach focuses on top-down, project-based learning by getting students to build real systems with hardware, software, and networking components from the start.\n\nA key theme in this conversation is using early exposure to motivate deeper learning. Students quickly run into real-world constraints like latency, memory limits, and com"
+  },
+  {
+   "id": "av-J61aduJA",
+   "t": "Interview with Omiya Hassan (ECEDHA 2026): Preparing Students for Edge AI",
+   "d": "2026-04-02",
+   "v": 302,
+   "s": 1389,
+   "vertical": false,
+   "desc": "In this interview from the ECEDHA 2026 conference, I spoke with Omiya Hassan, Assistant Professor of Electrical and Computer Engineering at Boise State University, about how edge AI is being taught from both the software and hardware perspectives. We discuss the growing need for ECE students to understand machine learning fundamentals, as well as the equally important need for computer science students to understand the hardware their models run on.\n\nA big theme in this conversation is bridging the gap between disciplines. Omiya shares how she structures her edge AI course to pair CS and ECE s"
+  },
+  {
+   "id": "DvKmxQYcc6I",
+   "t": "Interview with Mario Simoni (ECEDHA 2026): AI in Engineering Education",
+   "d": "2026-04-02",
+   "v": 173,
+   "s": 1069,
+   "vertical": false,
+   "desc": "In this interview from the 2026 ECEDHA conference, I spoke with Mario Simoni, Department Head of Electrical and Computer Engineering at Rose-Hulman, about how AI is being integrated into engineering education. We discuss where AI naturally fits within ECE (like control systems, embedded systems, and resource-constrained environments), as well as the growing importance of understanding how to deploy machine learning on real hardware rather than relying on the cloud.\n\nA major theme that came up is the tension between teaching fundamental engineering skills and introducing powerful AI tools that "
+  },
+  {
+   "id": "oKf5MG7Z_Qk",
+   "t": "Domain randomization is a powerful technique #Arduino #robotics #engineering #education #AI #ML",
+   "d": "2026-05-18",
+   "v": 1346,
+   "s": 125,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jSWUEDTICnc",
+   "t": "Training a balance bot with reinforcement learning",
+   "d": "2026-06-18",
+   "v": 2518,
+   "s": 62,
+   "vertical": true,
+   "desc": "Meet my new robot, Aiden \ud83e\udd16 I wanted to explore how to use #ReinforcementLearning to tackle an old balance bot problem. Simulating the bot was pretty simple. Training the #AI and deploying it to real hardware was another thing entirely. The fun part is seeing how an AI control system responds when the real world gets messy. The sim2real gap is real and really tricky! More testing, tuning, and probably a few crashes ahead.\n\n#robotics #machinelearning #engineering #education #Arduino #esp32 @digikey @M5Stack @EspressifSystems"
+  },
+  {
+   "id": "yqJCVyzOd0M",
+   "t": "SenseCAP P1 Meshtastic Repeater With Grove Sensor",
+   "d": "2026-06-26",
+   "v": 3856,
+   "s": 89,
+   "vertical": true,
+   "desc": "The \u200b\u200b\u2060@SeeedStudioSZ SenseCAP P1 #Meshtastic repeater has a single Grove connector in the enclosure, which is perfect for something like a BME680 environment sensor. It\u2019s great for broadcasting temperature, humidity, etc. in your area! #LoRa #electronics @digikey"
+  },
+  {
+   "id": "mvfsA3UIqL8",
+   "t": "Open Sauce 2026 Projects",
+   "d": "2026-07-20",
+   "v": 5000,
+   "s": 67,
+   "vertical": true,
+   "desc": "I had an amazing time at #OpenSauce this past weekend. Here are some of my favorite projects that I saw throughout. I\u2019m thrilled to see the #maker world still going strong \ud83e\uddbe #electronics #robotics #3dprinting @digikey @Arduino @virginiatech"
+  },
+  {
+   "id": "vSu1brEBTYU",
+   "t": "Curriculum learning to train a balance bot",
+   "d": "2026-07-28",
+   "v": 1325,
+   "s": 44,
+   "vertical": true,
+   "desc": "Curriculum learning helps #ReinforcementLearning agents to behave in ways you intend and avoid stumbling on random (unintended) actions that technically accomplish the goal. #AI #MachineLearning #robotics"
+  },
+  {
+   "id": "QJ4b08dlG9g",
+   "t": "M5Stack BalaC balancing from reinforcement learning",
+   "d": "2026-08-10",
+   "v": 654,
+   "s": 64,
+   "vertical": true,
+   "desc": "The demo balance bot is working! Want to chat about it? Come hang out this Thursday to see how I used #ReinforcementLearning to teach it to balance. \n\n\ud83d\udc49 Register for the webinar here: https://event.on24.com/wcc/r/5384134/958EFFE494BF1C6A2AD94F9B093DC01B?partnerref=sh3\n\n#robotics #AI #embedded #Arduino @digikey @M5Stack"
+  },
+  {
+   "id": "vbkPWHdQpZ4",
+   "t": "Desk mod for headphones",
+   "d": "2026-08-25",
+   "v": 436,
+   "s": 74,
+   "vertical": true,
+   "desc": "Finally got around to doing the headphone/speaker switch mod on my #desk \ud83d\ude01 \n\n#headphones #maker #3Dprinting"
+  }
+ ]
+}

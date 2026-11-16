@@ -1,0 +1,2223 @@
+{
+ "channel": {
+  "id": "UCG7yIWtVwcENg_ZS-nahg5g",
+  "title": "CNLohr",
+  "handle": "@cnlohr",
+  "description": "Science is my verb. Christ is my light.",
+  "since": "2006-09-10",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_lrhGAC5TKKtsVwG9pBTwcU_35vRUIexq_H97uSoSEJ3A=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "9982714",
+  "subscriberCount": "74900",
+  "hiddenSubscriberCount": false,
+  "videoCount": "244"
+ },
+ "videos": [
+  {
+   "id": "ZrwmfHde-fU",
+   "t": "GPGPU Cloth",
+   "d": "2007-11-09",
+   "v": 5990,
+   "s": 127,
+   "vertical": false,
+   "desc": "This is a simulation of cloth using eight mass springs per point, and a total of 64x64 points.  It was written using my cppgpgpu application and runs at about 500FPS on my GeForce 6600 Mobile."
+  },
+  {
+   "id": "n3DfQfNHmdE",
+   "t": "GPGPU Ray Tracing Demo",
+   "d": "2007-11-09",
+   "v": 19714,
+   "s": 39,
+   "vertical": false,
+   "desc": "This is another demo from the cppgpgpu app I wrote. This is ray tracing on a GeForce 7600@15FPS. There are 8 spheres, two lights, and 5 secondary bounces."
+  },
+  {
+   "id": "vuRLsB2q7QY",
+   "t": "PS3 GPU Use in Linux",
+   "d": "2007-11-15",
+   "v": 96998,
+   "s": 42,
+   "vertical": false,
+   "desc": "This is an example of some code running on Linux, under the hypervisor talking to the Nvidia RSX (video card) on the PlayStation 3.  This is done entirely without proprietary drivers.\n\nShown is 3 animated quads, drawn in immediate mode as well as a series of triangles in the background drawn using an index buffer.  This demo is a modified version of IronPeter's libps3rsx from ps3dev.org as of November 13th.  It's running using a patched 2.6.24 experimental, unofficial kernel on Gentoo Linux.\n\nUntil recently, not enough was known about how to use the RSX to make any headway to usable, free acce"
+  },
+  {
+   "id": "zxEsyukiRw4",
+   "t": "Ray Tracing on the GPU Part II",
+   "d": "2008-04-01",
+   "v": 14551,
+   "s": 62,
+   "vertical": false,
+   "desc": "I was playing around a little while longer, and am now using a texture to hold the location of all of the balls, so the balls can move around interactively.\r\n\r\nThe ray tracer itself is about 150 lines of GLSL code. Who ever said OpenGL Didn't support ray tracing?\r\n\r\nHardware: GeForce 8600\r\n\r\nYou can download this project (source code and all) in the cppgpgpu project on sourceforge.net It is not available by the downloads option.  You need to check out the trunk in the subversion repository.  http://sf.net/projects/cppgpgpu Also, it only has makefile for Linux and Mac, so you would have do add "
+  },
+  {
+   "id": "5Nw8j8Xw9_Y",
+   "t": "Optical Pads and StepMania Machine",
+   "d": "2008-04-18",
+   "v": 7675,
+   "s": 282,
+   "vertical": false,
+   "desc": "StepMania running on a nondescript arcade cabinet with Generation 3 infrared optical pads.  Location is Level Xero in Ellicott City, Maryland.\r\n\r\nrrwoods007 on right pad, various people on left.  This video was just recorded showing off the machine.\r\n\r\nGeneral note: the fundamental optical pad technology is free and open.  The Generation 3 and Generation 4 pad technology is licensable (potentially freely) if there are any interested manufacturers."
+  },
+  {
+   "id": "AkUjjO1vEEU",
+   "t": "Face Net Project Preview (re-upload)",
+   "d": "2008-07-27",
+   "v": 1657,
+   "s": 208,
+   "vertical": false,
+   "desc": "I wrote up a proposal for doing this project at the beginning of summer, and am only now getting some free time to dabble with it.  While I've only worked for about 20 hours so far on it, you can already see some progress.  Once complete, I expect to release the source code.\r\n\r\nNOTE: All of the images for the friends are the images used from the publicly viewable profiles.\r\n\r\nThe rules are very simple.  All nodes repel each other.  All nodes are attracted toward me.  I am fixed. All nodes that are friends with each other generate a mass spring.  All friends then become attracted to each other."
+  },
+  {
+   "id": "u3op6MTprUI",
+   "t": "SceneDepth GPU Ray Tracer",
+   "d": "2008-12-23",
+   "v": 2820,
+   "s": 57,
+   "vertical": false,
+   "desc": "This is a run of my \u00a8SceneDepth\u00a8 GPU-Based Ray Tracer.  It\u00b4s source is not currently posted.  It was run on a GeForce 9800 GT, at a 480x360 resolution and varied in framerate between as low as 10 and as high as 30 FPS depending on what I was looking at.  It was written entirely in OpenGL + GLSL, While this runs on a GeForce card, I plan to run this on an ATI some time; I currently do not have access to any.  Before you guys ask - THIS IS NOT USING CUDA.  The method used was to do a bounding-volume hierarchy.  There are three lights, 2 x ~800 poly models, 2 spheres and the ground plane.  It was"
+  },
+  {
+   "id": "XVPosY72sRI",
+   "t": "TPTracer GPU Ray Tracer",
+   "d": "2008-12-23",
+   "v": 1782,
+   "s": 55,
+   "vertical": false,
+   "desc": "This is a run of my \u00a8TPTracer\u00a8 GPU-Based Ray Tracer.  It\u00b4s publically available and tested on Linux.  It can be found in the trunk SVN on the cppgpgpu sourceforge project.  It was run on a GeForce 9800 GT on Linux, at a 480x360 resolution and varied in framerate between as low as 15 and as high as 40 FPS depending on what I was looking at, this scene has over 9,000 balls, three lights and up to 3 2ndary reflections.\n  \nIt was written entirely in OpenGL + GLSL, While this runs on a GeForce card, I plan to run this on an ATI some time; I currently do not have access to any."
+  },
+  {
+   "id": "-zna06sckS0",
+   "t": "Distributed Ray Tracing",
+   "d": "2009-05-08",
+   "v": 1968,
+   "s": 42,
+   "vertical": false,
+   "desc": "I took the same system as showing the balls in a previous demo and applied Distributed Ray Tracing to it (\"Distributed Ray Tracing\" Robert L. Cook, Thomas Porter, Loren Carpenter Siggraph 1984.)\n\nThe appearance of additional rays was achieved by blending frames together.  Frame rate ~100FPS on a GeForce 9800GT."
+  },
+  {
+   "id": "DsQMzF876Vk",
+   "t": "Supertux Speed Run",
+   "d": "2009-05-11",
+   "v": 4108,
+   "s": 74,
+   "vertical": false,
+   "desc": "I've been playing a lot of supertux recently.  I am right now working on \"entrance to the cave.\"  I still have 3 glaring flaws in this speed run, but I'm working on it.  This is SuperTux 0.1.3, which can be found on all popular Linux distributions as well as downloads for windows.  I am unsure as to why the sound didn't record."
+  },
+  {
+   "id": "aFexroOUG_g",
+   "t": "GPU Music",
+   "d": "2009-05-13",
+   "v": 9965,
+   "s": 119,
+   "vertical": false,
+   "desc": "**NEW** Youtube apparently didn't link this and the new video.  To see this being used as a musical instrument go here: http://www.youtube.com/watch?v=ZAd8Oe9dDbU\r\n\r\nI use my GPU and cut it on and off at my FPS.  I draw a particularly hard-to-draw square and depending on its size, it changes my FPS.  I set a desired FPS for a series of notes (in jingle bells) and the computer learns how big it needs to make the square in order to get that frame rate.  I put my laptop (in particular the GPU) on top of the guitar where the pickups are and amplify it.  You can hear the GPU shuttering on and off a"
+  },
+  {
+   "id": "E0hHsMvG9Lo",
+   "t": "Charles on Powerisers",
+   "d": "2009-05-17",
+   "v": 1113,
+   "s": 76,
+   "vertical": false,
+   "desc": "I saw some videos online of people on these things so I got myself a pair.  You can see how easy they are to use - this is my second day."
+  },
+  {
+   "id": "br1lWxin1cE",
+   "t": "Andrew on Powerisers",
+   "d": "2009-05-17",
+   "v": 905,
+   "s": 114,
+   "vertical": false,
+   "desc": "Second time up - he was up and around for less than five minutes before this.  It helps show how you can get going really fast."
+  },
+  {
+   "id": "V7NvoJs_R6M",
+   "t": "GPU Boids Flock Simulation",
+   "d": "2010-01-07",
+   "v": 6716,
+   "s": 117,
+   "vertical": false,
+   "desc": "There's only 1,024 \"birds\" in this flock, but I have tested the system with much larger flocks at high framerates.  This current simulation runs on a GeForce GT 9600+ at 140 FPS.  This, as most others GPU things I do uses OpenGL + GLSL.  This also can be found in cppgpgpu's subversion repository.  It's only tested on NVIDIA GPUs in Linux.\n\nAlso, the algorithm isn't quite a Boids flock algorithm."
+  },
+  {
+   "id": "L06F7QkQ4T8",
+   "t": "WaterWorks Global Game Jam 2010; UMBC Site",
+   "d": "2010-01-31",
+   "v": 1117,
+   "s": 382,
+   "vertical": false,
+   "desc": "This is a demonstration of WaterWorks! One of the video games from the UMBC site.  It's a puzzle game performed using manipulations of the environment of many small particles that behave 'water-like.'\r\n\r\nWe performed:\r\nEGA Lives, Alternate Control, The Hack, and Instant Online Gratification\r\n\r\nThe theme was: Deception\r\nThe constraints were: Rain, Spain and Plain\r\n\r\nThe website this can be played at is http://waterworks.cjntaylor.com\r\nOur site on the 2010 Global Game Jam is:  http://www.globalgamejam.org/2010/waterworks\r\n\r\nThe participants were:\r\nJonathan Morarity (Game Design and Level Design)"
+  },
+  {
+   "id": "8RZIExyHFcY",
+   "t": "Snowpocalypse 2010 @ UMBC Time Lapse",
+   "d": "2010-02-08",
+   "v": 7440,
+   "s": 89,
+   "vertical": false,
+   "desc": "I took a shot every minute or so with my QuickCam Pro 9000 on Linux then mashed it all together into this video."
+  },
+  {
+   "id": "ZAd8Oe9dDbU",
+   "t": "GPU Music 2",
+   "d": "2010-02-20",
+   "v": 1779,
+   "s": 128,
+   "vertical": false,
+   "desc": "So, this time I came back and modified the program to, instead of playing a pre-recorded song, I can play it like an instrument."
+  },
+  {
+   "id": "l3KFdrUVzy4",
+   "t": "AVR + LEDs In Dome Light of 1989 Ford Ranger",
+   "d": "2010-03-11",
+   "v": 3310,
+   "s": 207,
+   "vertical": false,
+   "desc": "I figured I've modded some of my truck so far, why not keep it up by changing my dome and bed lights to LEDs.  And, for good measure throw in a 8-bit AVR microcontroller."
+  },
+  {
+   "id": "lUB7TUrPpvs",
+   "t": "Dr. Rocker by Mayhem on ColorChord",
+   "d": "2010-11-15",
+   "v": 2551,
+   "s": 197,
+   "vertical": false,
+   "desc": "This is a video of Dr. Rocker by Mayhem hooked up to the ColorChord effects lighting system.\r\n\r\nThis song really shows off a lot of the features of ColorChord.  You can really pick out the presence of many of the sounds in the song in the colors.  Around 2:40 you can see the harmonies really working together and shortly thereafter you can see the pitch shifting causing the color changes.\r\n\r\nFor more information, see http://cnlohr.blogspot.com/2010/11/colorchord-sound-lighting.html or look at the other ColorChord videos on Youtube.\r\n\r\nSpecial thanks goes out to Renard Queenston for giving me pe"
+  },
+  {
+   "id": "TB50nDPfWzg",
+   "t": "Canticle of the Turning with ColorChord",
+   "d": "2010-11-19",
+   "v": 2879,
+   "s": 134,
+   "vertical": false,
+   "desc": "David Chapman, Natasha Hagemeyer, and myself playing Canticle of the Turning, an old church hymn with ColorChord active on the guitar and separately on the background lights. \r\n\r\nFor more information, see http://cnlohr.blogspot.com/2010/11/colorchord-sound-lighting.html or look at the other ColorChord videos on Youtube.\r\n\r\nPatent Pending"
+  },
+  {
+   "id": "Gzr31N2eWPM",
+   "t": "Un moto di gioia with ColorChord Lighting Technology",
+   "d": "2010-11-19",
+   "v": 1197,
+   "s": 58,
+   "vertical": false,
+   "desc": "Natasha Hagemeyer sings Un moto di gioia by Mozart while standing in front of a ColorChord system.\r\n\r\nFor more information, see http://cnlohr.blogspot.com/2010/11/colorchord-sound-lighting.html or look at the other ColorChord videos on Youtube."
+  },
+  {
+   "id": "o_i6bse7SKw",
+   "t": "Clear Guitar with LEDs Running ColorChord",
+   "d": "2010-11-19",
+   "v": 10533,
+   "s": 153,
+   "vertical": false,
+   "desc": "Alfred Ramil plays a Galveston Stratocaster with LEDs inside hooked up to laptop running ColorChord, a system for converting sound into color.  Take note of how the colors respond to his playing.  How his pitch bends modify the colors.\r\n\r\nPlease note that this video was taken on an early version of the software.\r\n\r\nCheck out  http://cnlohr.blogspot.com/2010/11/colorchord-sound-lighting.html for more information.\r\n\r\n(Was provisional patented but the patent expired)"
+  },
+  {
+   "id": "up61H9_mWcc",
+   "t": "ColorChord live automated lightshow for Amazing Grace",
+   "d": "2010-11-20",
+   "v": 1553,
+   "s": 131,
+   "vertical": false,
+   "desc": "Anne Marie Porter, David Chpman, Natasha Hagemeyer, and myself playing Amazing Grace by John Newton with ColorChord active on the guitar and separately on the background lights. This demonstrates the system's ability to handle chords and harmony. This demonstrates the system's ability to handle chords and harmony.\n\nFor more information, see http://cnlohr.blogspot.com/2010/11/colorchord-sound-lighting.html  or look at the other ColorChord videos on Youtube.\n\nPatent Pending"
+  },
+  {
+   "id": "ACeY3tgp3iY",
+   "t": "Still Alive by Gamer Symphony Orchestra",
+   "d": "2011-05-08",
+   "v": 216065,
+   "s": 289,
+   "vertical": false,
+   "desc": "This is a video from the May 7, 2011 College Park Gamer Symphony Orchestra concert.  This is their rendition of Still Alive from the video game Portal."
+  },
+  {
+   "id": "kWCsBwKYi9E",
+   "t": "AVR Capacitive Touch Sensor  Slider and Spinner",
+   "d": "2011-06-17",
+   "v": 11604,
+   "s": 149,
+   "vertical": false,
+   "desc": "This is a demonstration of a firmware-based AVR slider and spinner using capacitive touch sensing. It uses two zones to create a slider object and three to create the pinwheel object.\n\nThis is an ATTiny44 (not 24 like I said) running at 5v, and 8 MHz.  It's communicating through the USBTinyISP via a tinyispterm program I wrote.\n\nSomeone asked about the code.  Sadly, I don't have very good instructions on it, but I believe I have the source code here: https://cnlohr.net/pubsvn/electrical/Touch/Touch4"
+  },
+  {
+   "id": "qV9FyWvUvdU",
+   "t": "Semantic Light Technical Details",
+   "d": "2011-06-24",
+   "v": 1281,
+   "s": 369,
+   "vertical": false,
+   "desc": "This is a video going into depth regarding how this implementation of Semantic Light works.\n\nSemantic Light: Building Blocks was a thesis at the University of Maryland, Baltimore County by Charles Lohr, Chaired by Dr. Zary Segall with a Committee including Dr. Marc Olano and Dr. Yelena Yesha.\n\nThe paper and associated code can be accessed at http://cnlohr.net/projects/semanticlight/"
+  },
+  {
+   "id": "NzzKCUFqoaM",
+   "t": "Semantic Light PDF Documents Demo",
+   "d": "2011-06-24",
+   "v": 1290,
+   "s": 239,
+   "vertical": false,
+   "desc": "This is a video demonstrating the PDF Documents feature of my thesis. \n\nSemantic Light: Building Blocks was a thesis at the University of Maryland, Baltimore County by Charles Lohr, Chaired by Dr. Zary Segall with a Committee including Dr. Marc Olano and Dr. Yelena Yesha.\n\nThe paper and associated code can be accessed at http://cnlohr.net/projects/semanticlight/"
+  },
+  {
+   "id": "0pmSPlYHxoY",
+   "t": "Non Euclidean GPU Ray Tracing Test",
+   "d": "2011-07-16",
+   "v": 561411,
+   "s": 170,
+   "vertical": false,
+   "desc": "Do not use this tool, please see No! Euclid!: https://www.youtube.com/watch?v=tl40xidKF-4\n \n\nI wrote a GPU-based minecraft raytracer a while back, and I decided to do something with it that cannot be done using traditional rendering (at least to my knowledge).  The minecraft raytracer treats the entire world as a large uniform grid with a jumpmap. \n\nI made a non-Euclidean world.   It uses all the same technology, only, in addition, it can manipulate and bend the rays around the scene while it's rendering.  This means single primitives can be warped visually. \n\nAnother neat thing was I made the"
+  },
+  {
+   "id": "9M9xW2KpvGc",
+   "t": "Ubuntu Desktop QR Code Reader",
+   "d": "2011-08-02",
+   "v": 7573,
+   "s": 106,
+   "vertical": false,
+   "desc": "I threw together xosc + the Gtk tray demo + screen capture + zbar and this popped out.  A neat little tool that lets you see what all the QR codes are on your screen. \r\n\r\nUPDATE: You can now install it via PPA, see the guide here: http://cnlohr.blogspot.com/2011/08/desktop-qr-code-reader-for-ubuntu.html"
+  },
+  {
+   "id": "Rf5HBLzDGQA",
+   "t": "How to make Clear Glass PCBs",
+   "d": "2011-09-08",
+   "v": 859354,
+   "s": 1264,
+   "vertical": false,
+   "desc": "***NOTE*** This process has changed over the last few years.  Please see the new video here: https://www.youtube.com/watch?v=rj4qe6bdu7k it shows the updated process!\n\n\nThis is a video on how I make my clear glass PCBs.  I'll be making a blog post sooner or later with more detail.\n\n***ADDED*** Here's the source file + (PCB/SCH (For ExpressPCB)) and the PDFs of them. \nhttps://cnlohr.net/pubsvn/electrical/Touch/\n***\n\n\nUV Glue: http://www.glass-etching-kits.com/uv_glass_glue_orders.htm (GM689)\nCopper: You can buy this -- but I'm worried since there aren't may left, so you can just ask and I'll se"
+  },
+  {
+   "id": "_k3hjU4WQpU",
+   "t": "Time lapse Clear PCB Etch",
+   "d": "2011-09-08",
+   "v": 1567,
+   "s": 34,
+   "vertical": false,
+   "desc": "This is a time lapse of me etching a glass PCB.  It's roughly 10:1 time compression.  Bath is ferric chloride at room temperature.  Board is suspended using surface tension.  Board was made using toner transfer method."
+  },
+  {
+   "id": "5ZH1-eScY0M",
+   "t": "Clear Glass PCB AVR Touch Sensor",
+   "d": "2011-09-08",
+   "v": 37261,
+   "s": 127,
+   "vertical": false,
+   "desc": "I made a clear glass printed circuit board to help with an upcoming project.  It's crystal clear, and has circuitry printed, and parts soldered directly to one side.  I made it using a Celestron microscope slide, copper leaf (if you want you can buy some off me), UV Glue and a toner transfer method.\n\nThe how-to is here: http://www.youtube.com/watch?v=Rf5HBLzDGQA\n\nNimrod hall copper is available here: http://www.nimrodhall.com/1-4mil.php Look under pre-cut copper sheets."
+  },
+  {
+   "id": "aqoeMwyFi68",
+   "t": "AVR PS2 Computer Keyboard Synth",
+   "d": "2011-09-15",
+   "v": 8442,
+   "s": 322,
+   "vertical": false,
+   "desc": "I made this thing called an \"8-bit yellow box\" a while back that has DMX-512, MIDI in/out, an effects processor -- and what's featured here, a synth feature.  I didn't take a video of it for the longest time and it's from way back in the day when I didn't know how to make PCBs.\n\nI don't think I have schematics or anything left of this other than source code, but at Dom's request, I may be making another one of similar design.\n\nSorry about the audio quality - I'm still on my cheap Woot.com polaroid camera.\n\nExpressPCB designs and full source available in the synth/ folder here: https://cnlohr.n"
+  },
+  {
+   "id": "HghTHD3RYKQ",
+   "t": "Eye of the Tiger on the 8-bit AVR synth",
+   "d": "2011-09-15",
+   "v": 9931,
+   "s": 185,
+   "vertical": false,
+   "desc": "Dom and Will trying to play Eye of the Tiger by Survivor on the 8-Bit keyboard synth and Will on drums.  You can check out Dom shredding away."
+  },
+  {
+   "id": "vUPaznV91PU",
+   "t": "AVR Case Deflection Detection",
+   "d": "2012-03-23",
+   "v": 2097,
+   "s": 200,
+   "vertical": false,
+   "desc": "I used a 15-UFBGA ATTiny44A from Digikey and mounted it to a circuit board with a programming header.  I found out that I could output NTSC video (Albeit no Chroma).  I tried turning it into a thermometer but noticed as I deflect the case, the value of the reading on the internal ADC changed.  Anyone know what could cause this?\n\nAlso, that's my micro-tiny-isp in there.  It's 50% Lady Ada's design."
+  },
+  {
+   "id": "RmvtCUbiIa8",
+   "t": "Mom's LED Butterfly",
+   "d": "2012-03-25",
+   "v": 3324,
+   "s": 49,
+   "vertical": false,
+   "desc": "A butterfly I made for my mom a while ago - recently fixed it up and video taped it.  Running an ATTiny44 with software LED PWM.\r\n\r\nNo, I did not print this circuit board myself, it was printed by Express PCB.  I can post designs, etc. if requested.  There is no schematic. (at least not yet)"
+  },
+  {
+   "id": "ZBM7p78B27k",
+   "t": "GBC-H220 Gear Modification for Printing Circuit Boards",
+   "d": "2012-05-17",
+   "v": 25857,
+   "s": 468,
+   "vertical": false,
+   "desc": "My old GBC-H220 finally died after shoving all sorts of crazy materials through it.  I loved it so much, I bought another one.  Here's how to do the gear modifications.  While Pulsar has a guide on their site, I figured why not make a complete video guide to show it really only takes 8 minutes to get your laminator ready for prime time circuit board printing!"
+  },
+  {
+   "id": "8UAlHatuFXE",
+   "t": "Sealing electronics in silicone using Tegaderm",
+   "d": "2012-06-02",
+   "v": 44373,
+   "s": 217,
+   "vertical": false,
+   "desc": "When you're potting electronics, sometimes you have irregular surfaces, side entries, and other problems that would prohibit you from sinking the electronics in a container to pot them with.  I wanted to find a solution for this.\n\nThe solution came when I was in the ER for one of the many things I end up there for, and I noticed on my IV, the skin could breathe.  I was curious if this meant silicone could breathe, too.  After asking for some from the ER, I tried it out, the answer was YES!\n\nI found some tegaderm online for real cheap (less than $1/patch) bought it and now I'm potting all of my"
+  },
+  {
+   "id": "VV8kLLn0g88",
+   "t": "Peeling Tegederm off the Silicone",
+   "d": "2012-06-04",
+   "v": 8881,
+   "s": 54,
+   "vertical": false,
+   "desc": "This is a few days later, when I finally peeled the Tegederm off, you can see the final results."
+  },
+  {
+   "id": "l2ZbOQaq5C4",
+   "t": "OLED Display and Accelerometer Pocket Watch (WiP)",
+   "d": "2012-06-07",
+   "v": 6933,
+   "s": 122,
+   "vertical": false,
+   "desc": "A friend had a broken pocket watch, gutted it, gave the case to me.  I measured it, and did a rough draft of a board with a densitron display, accelerometer, AVR and LED.\n\nThis is just a first crack at it.  I haven't hooked up any of the power circuitry to the battery and haven't figured a lot of other things out, but I'll post things as they come.\n\nDisplay: http://www.newark.com/jsp/search/productdetail.jsp?SKU=83R9566\n\nAccelerometer: http://www.digikey.com/scripts/DkSearch/dksus.dll?keywords=MMA7660FCT-ND\n\nAlbum: https://plus.google.com/u/0/photos/110520978303193127914/albums/575114806398503"
+  },
+  {
+   "id": "XrUzAKZEHjY",
+   "t": "Etching copper to make a birthday gift",
+   "d": "2012-06-12",
+   "v": 3048,
+   "s": 567,
+   "vertical": false,
+   "desc": "Kelsey wanted to make something for her father, she saw a copper etch I did a while back and decided to make one of her own.\n\nAfter a few minutes, she had the idea together and was ready to etch a new one.\n\nThe paper is Pulsar Toner Transfer Paper, available from here: http://www.digikey.com/product-detail/en/50-1101/182-1003-ND/3386\n\nWe printed it out on a laser printer."
+  },
+  {
+   "id": "zmdg7JSnrQY",
+   "t": "Tinning Circuit Boards with Liqud Tin",
+   "d": "2012-07-10",
+   "v": 14234,
+   "s": 97,
+   "vertical": false,
+   "desc": "Ever since I started tinning my circuit boards with liquid tin, they have been working better and solder more reliably.  Here's a quick how-to to show you how easy it is!\n\nHere's the chemical I use: http://shop.willyselectronics.com/browse.cfm/-mg-liquid-tin-for-copper-circuits-125-ml-/4,7363.html\n\nSee a high res after shot: https://plus.google.com/photos/110520978303193127914/albums/5751148063985036641/5751148122864594082"
+  },
+  {
+   "id": "P7Bk9UHOlLI",
+   "t": "Low Latency USB AVR Sound Card",
+   "d": "2012-07-15",
+   "v": 9460,
+   "s": 134,
+   "vertical": false,
+   "desc": "We needed some very low latency sound output.  ALSA, Jack, etc... they couldn't do it.  Our solution was to make an AVR USB sound card.  It uses control messages.  So, we know exactly how much latency there is.\n\nAdditionally, we don't need to be realtime or use any other special extensions to get our period to 16, and a maximum buffer of 128.    Correction from video, it was actually 2.73 kHz, not 273 Hz.\n\nSource (AVR and topside for Linux) https://cnlohr.net/pubsvn/electrical/avr_my32u/soundcard\n\nPictures available here: https://plus.google.com/u/0/photos/110520978303193127914/albums/56447988"
+  },
+  {
+   "id": "-9TS1OC-yqw",
+   "t": "AVR Clear Glass PCB Clock",
+   "d": "2012-07-15",
+   "v": 67831,
+   "s": 55,
+   "vertical": false,
+   "desc": "1) I bought 1,000 LEDs from SatisLED http://www.satisled.com/Wholesale-Discount-smdsmt-led-0805-smd-leds_c68.html\n2) I wanted to find out if the 74LV164AD chip actually current limited the outputs.  It does. You can control these extra LEDs without a resistor per pair.\n3) I wanted to do something with the process improvements I've been making with clear glass PCBs.\n4) I have my design, etc here: https://cnlohr.net/pubsvn/electrical/avr_7seg/  it's 7seg_2.pcb\n\nPictures here: https://plus.google.com/photos/110520978303193127914/albums/5765128172418992689/5765128498569723810"
+  },
+  {
+   "id": "alBHtmm964E",
+   "t": "Zapper with Color Light Sensor (short version)",
+   "d": "2012-09-24",
+   "v": 2789,
+   "s": 348,
+   "vertical": false,
+   "desc": "See the long version here:  https://www.youtube.com/watch?v=gyejLFW_TCg\n\nI added an ADJD-S311-CR999 photo sensor, a LSM303DLHCTR accelerometer/magnetometer/thermometer, and an ATMega8u2 in to a Nintendo Zapper.  Results: Suitable for use on other TLO's than just CRT's.  This turns out to be surprisingly easy to do.\n\nCheck out the google photo album: https://plus.google.com/u/0/photos/110520978303193127914/albums/5787870630247886145\n\nThanks to Nikola Whallon for the song: http://soundcloud.com/nikola-whallon\nThanks to The Save Point in Westminster, MD: https://www.facebook.com/SavePointMD"
+  },
+  {
+   "id": "gyejLFW_TCg",
+   "t": "Nintendo Zapper with Color Light Sensor (Long version)",
+   "d": "2012-09-24",
+   "v": 4657,
+   "s": 801,
+   "vertical": false,
+   "desc": "This is the long version, the short version is available here: http://youtu.be/alBHtmm964E\n\nI added an ADJD-S311-CR999 photo sensor, a LSM303DLHCTR accelerometer/magnetometer/thermometer, and an ATMega8u2 in to a Nintendo Zapper.  Results: Suitable for use on other TLO's than just CRT's.  This turns out to be surprisingly easy to do.\n\nCheck out the google photo album: https://plus.google.com/u/0/photos/110520978303193127914/albums/5787870630247886145\n\nThanks to Nikola Whallon for the song: http://soundcloud.com/nikola-whallon\nThanks to The Save Point in Westminster, MD: https://www.facebook.co"
+  },
+  {
+   "id": "QocotG3T4zg",
+   "t": "Capacitive coupling masks real design error",
+   "d": "2012-09-29",
+   "v": 2533,
+   "s": 113,
+   "vertical": false,
+   "desc": "See the video about this modded nintendo zapper: https://www.youtube.com/watch?v=alBHtmm964E\n\nIn the development of my color-gun nintendo zapper mod, my trigger appeared to work, but seemed faulty, like the switch was bad.  When I clicked, it would only hold down momentarily.  Little did I know the bug was far stranger.\n\nI was, in software looking at an adjacent pin.  It made me believe all was well because it was capacitively coupled to the right pin, when in fact the design was completely wrong.\n\nThe fix was as simple as changing the pin in firmware."
+  },
+  {
+   "id": "7jpj2HRG4oU",
+   "t": "A DDR Cabinet with 80 Watts of LED Upgrades",
+   "d": "2012-10-04",
+   "v": 18026,
+   "s": 179,
+   "vertical": false,
+   "desc": "Google album is here: https://plus.google.com/u/0/photos/110520978303193127914/albums/5795320286840750977\n\nWe started upgrade the DDR pads on the machine at Save Point in Westminster, MD.  We got several 10W LEDs from satisled, hooked them up to some resistors and dropped them right in.\n\nLike them on facebook! https://www.facebook.com/SavePointMD\n\nWe also used lexan from mcmaster carr to improve durability, and rust-oleum frosted glass spray to complete the look.\n\nThe LEDs are here:\nhttp://www.satisled.com/10w-high-power-led-red-250350lm_p138.html\nhttp://www.satisled.com/10w-high-power-led-blu"
+  },
+  {
+   "id": "pWGX3HVb_zc",
+   "t": "My 100 Watt LED Flashlight",
+   "d": "2012-10-18",
+   "v": 247303,
+   "s": 76,
+   "vertical": false,
+   "desc": "About two years ago, my friend Will purchased a 100W LED from ebay with a plug-in power adapter.  I thought I could do better, so I got a bunch of 18650 ultrafire lithium ion batteries, hooked them in series and made a buck mode power supply using an AVR to control it.\n\nPhoto album here: https://plus.google.com/u/0/photos/110520978303193127914/albums/5800524841292618337\n\nI didn't post the schematics anywhere... but I do have the layouts for Express PCB.  Sadly it doesn't seem to have too many details: https://cnlohr.net/pubsvn/electrical/avr_smps/"
+  },
+  {
+   "id": "hr_lSV8eqpk",
+   "t": "Network-based IR Trigger for NEX-5N",
+   "d": "2012-10-22",
+   "v": 1747,
+   "s": 171,
+   "vertical": false,
+   "desc": "I misplaced my IR trigger for time lapses at home and all I had was a network board I was writing a TCP/IP stack for.\n\nRadio Shack + Really cool lab at the University of Alaska, Fairbanks = new time lapse device!\n\nI guess sometimes when you're up a creek you can find a paddle :)\n\nIf you want the code, you can get it here: https://cnlohr.net/pubsvn/electrical/avr_sony_alpha_shutter/"
+  },
+  {
+   "id": "E98H6oejEKM",
+   "t": "Pumpkin with 100W worth of LEDs",
+   "d": "2012-11-01",
+   "v": 1876,
+   "s": 27,
+   "vertical": false,
+   "desc": "I slapped a 100W led in a pumpkin my friend Amanda made... Then a 10W set of RGB LEDs I made."
+  },
+  {
+   "id": "K11rOOcilaY",
+   "t": "Toaster oven reflow soldering a glass PCB",
+   "d": "2012-11-10",
+   "v": 23701,
+   "s": 150,
+   "vertical": false,
+   "desc": "I decided to take some video of me toaster-ovening another one of my glass circuit boards.  It starts to reflow about 1:15 in."
+  },
+  {
+   "id": "PSSZavQjcXk",
+   "t": "Web and Minecraft server on my AVR",
+   "d": "2012-11-15",
+   "v": 6397,
+   "s": 39,
+   "vertical": false,
+   "desc": "This is a video response from a little later after my video on my minecraft server on an AVR... Video is pretty much self explanatory.  Source, schematics, etc. Available here: https://github.com/cnlohr/avrcraft  (Hardware in the hardware folder)"
+  },
+  {
+   "id": "EZRLOanNQ_w",
+   "t": "Minecraft Server on a Microscope Slide",
+   "d": "2012-11-15",
+   "v": 66825,
+   "s": 158,
+   "vertical": false,
+   "desc": "**UPDATE: I've run this server on an actual redstone block: https://www.youtube.com/watch?v=R1zx0xV0pWw and on a wood rounter!  https://www.youtube.com/watch?v=G5eo5d8F5DU ***\n\nI continued work with my TCP/IP stack and needed a way of testing it... Logically Minecraft was the best solution.  I wrote a minimal minecraft server on my PC, avoiding all floating point and only doing the bare bones of what needed to be done (no mining, placing blocks, etc) and made some levers that let me talk into the AVR's IO ports, itself.  Here's the video of it in action!\n\nIt's an 8-bit AVR processor running ov"
+  },
+  {
+   "id": "bHbeFnSWSxI",
+   "t": "Simple way to profile functions on embedded systems",
+   "d": "2012-11-18",
+   "v": 5745,
+   "s": 110,
+   "vertical": false,
+   "desc": "I wanted to increase the performance of my HTTP server on my AVR/minecraft server.  I spent a while doddling around when I realized I have a light that turns on when I'm in the function in question and off when I'm not!  This made profiling trivial to do with just a regular camera!  No oscilloscope, complicated hardware or anything."
+  },
+  {
+   "id": "gUx6iEN1hOo",
+   "t": "Kelvin 50LE Multimeter Review",
+   "d": "2012-12-02",
+   "v": 5386,
+   "s": 198,
+   "vertical": false,
+   "desc": "I decided to do a review on a box of Kelvin 50LE multimeters I got.  I say that because it's unreasonable NOT to buy ten of them.  That's why I keep saying $2.75 in the video, because you would never buy less than ten of them.  Needless to say, it's a spectacular product.  Go buy them.\n\nhttp://www.kelvin.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=990177\n\nOh yeah, that power supply's awesome, too.  Don't be a fool and buy a dual rail power supply for more than twice the price of this supply.  Here's the link:\n\nhttp://www.mpja.com/0-30V0-5A-Mini-Bench-Supply/productinfo/9617+PS/"
+  },
+  {
+   "id": "ixH8MSoqEoM",
+   "t": "Kelvin 50LE Multimeter vs 3,500 volts, 14' drop and more.",
+   "d": "2012-12-04",
+   "v": 4620,
+   "s": 422,
+   "vertical": false,
+   "desc": "**WARNING** I am using this meter outside of expected guidelines.  I am testing the meter's functionality, not safety.  I personally would not trust this meter with my safety, measuring more than 220V.\n\nSo, some people didn't understand how deadly serious I was about Kelvin 50LEs being the best volt meters I've ever used.  They work when you put 1kV into them, they finally break somewhere between 1.5 and 2kV.  It takes more than 2A in the 200mA port to fry the current circuitry and even after a 14' drop, you can just tape the back back on and it works.\n\nJust wait to see how I finally kill it."
+  },
+  {
+   "id": "jotEgcEY6-w",
+   "t": "\"Meteors\" from landmark Atari lawsuit unveiled 30 years later.",
+   "d": "2012-12-16",
+   "v": 28442,
+   "s": 435,
+   "vertical": false,
+   "desc": "In 1979, Atari made Asteroids... But, in 1981, Amusement World produced Meteors - a clone of Asteroids.  This lead to Amusement World getting sued.  When the case went to court, the judge sided with Amusement world.  This landmark case ruled that you cannot copyright a genre of game.\n\nStephen Holniker, CEO of Amusement World passed away in October, 2012.\n\nAfter 30 years, Eric Holniker, his son uncovered the actual Meteors arcade.\n\nCheck out The Save Point on facebook https://www.facebook.com/SavePointMD or come in and play the game!\n\nInteresting blog post about the case: http://www.bogost.com/"
+  },
+  {
+   "id": "OazKYxhtsB8",
+   "t": "Help! Large sheets of copper and toner transfer not working!",
+   "d": "2012-12-17",
+   "v": 2111,
+   "s": 258,
+   "vertical": false,
+   "desc": "I am trying to get the toner transfer method to work on sheets of copper, and it works great for smaller sheets, but on these larger sheets, I'm having serious issues getting the copper to stick.  Does anyone have any ideas that could help me out?\n\nHere's some of the things I've tried so far."
+  },
+  {
+   "id": "RDGAWYDzIUI",
+   "t": "Hijacking a locked Philips 25u604 TV for composite in.",
+   "d": "2012-12-23",
+   "v": 2545,
+   "s": 80,
+   "vertical": false,
+   "desc": "MAGFest acquired 108 of these TVs from some local hotel.  They seemed like a great deal... Until we found out most of them only have RF in, and are locked down like crazy.\n\nMaking them... Useless.\n\nSo, I decided to override this one's normal sources of video, etc."
+  },
+  {
+   "id": "RPFABhl5nlI",
+   "t": "Those aren't drill marks, those are miniature trash cans!",
+   "d": "2012-12-30",
+   "v": 3961,
+   "s": 23,
+   "vertical": false,
+   "desc": "A friend once told me I should get a nice clean work bench.  Well, where would I put my surface mount parts?"
+  },
+  {
+   "id": "5rhXUWMOKPk",
+   "t": "How-to Construct your MAGFest 11 Staff or Supporter Badge",
+   "d": "2013-01-01",
+   "v": 1864,
+   "s": 382,
+   "vertical": false,
+   "desc": "This video covers how to turn your bare badge into a functional (yet totally useless) attiny85 development platform!\n\nhttps://github.com/cnlohr/magfestbadges"
+  },
+  {
+   "id": "LT3mv_EQp5Q",
+   "t": "MAGFest Supporter and Staff Badges",
+   "d": "2013-01-01",
+   "v": 2099,
+   "s": 78,
+   "vertical": false,
+   "desc": "At MAGFest, if you are a supporter or super supporter, you'll be getting a PCB for a badge.\n\nIf you happen to want to, your badge can be a functional useless development environment for an AVR.\n\nCheck out MAGFest:  http://magfest.org\n\nhardware/etc info https://github.com/cnlohr/magfestbadges"
+  },
+  {
+   "id": "GdECYJA4iF0",
+   "t": "Touchpad Funtennas: FM Transmitter from a MAGFest 11 Staff Badge (ATTiny85)",
+   "d": "2013-01-06",
+   "v": 2041,
+   "s": 107,
+   "vertical": false,
+   "desc": "The staff and supporter MAGFest 11 badges have a touch sensor on them, which is neat and all, but I was curious if they could be re-purposed as a funtenna.  The answer is yes.\n\nI've used the two large touch sensor areas on the board to act as an FM transmitter.  They are using OC1B's outputs and everything's hooked to the system clock through a PLL x8.\n\nThe project that inspired this:\nhttp://spritesmods.com/?art=avrfmtx&page=1\nhttp://www.youtube.com/watch?v=HV6YQ4WKtYY\n\nThe video on the badges is here:\nhttp://www.youtube.com/watch?v=LT3mv_EQp5Q\n\nThe music is very similar to what is here:\nhttp:"
+  },
+  {
+   "id": "zRPUIm3DlS8",
+   "t": "ITG at MAGFest 11: Project 100",
+   "d": "2013-01-08",
+   "v": 738,
+   "s": 130,
+   "vertical": false,
+   "desc": "This is an excerpt from Rick Woods' Legend of the Black Shawarma by Infected Mushroom course.  Him and Eric Holniker completed the full course at MAG11.\n\nThis was done on the 80 watt LED machine.\n\nRick Woods is a programmer and wrote programs to generate the steps and course mods to the song to be in time and rhythm with the music."
+  },
+  {
+   "id": "FNpVPPACFWk",
+   "t": "Slow Mo - Top DDR/ITG Players - How fast are they?",
+   "d": "2013-01-11",
+   "v": 45537,
+   "s": 233,
+   "vertical": false,
+   "desc": "I was at The Save Point - http://www.facebook.com/SavePointMD - a few weeks ago and some of the top DDR/ITG players were there. \n\nI also had my NEX-5N, ready to go at 60 FPS.  I was curious just how fast they were.  The answer surprised even me!"
+  },
+  {
+   "id": "PHNphoskSTQ",
+   "t": "DIY PCBs on thermal tape - Put them on heat sinks!",
+   "d": "2013-01-15",
+   "v": 25639,
+   "s": 1076,
+   "vertical": false,
+   "desc": "Ever want to print your own PCBs for high power LEDs, other SMT power devices, but regular PCBs can't sink enough heat?  Fear no more!  You can print them right onto silicone thermal tape!\n\nI use the very thin thermal tape - it seems to carry the heat better if you aren't constantly under pressure.\n\nThermal Tape:\nhttp://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&KeyWords=BER246-ND\n\nPulsar Paper used for toner transfer:\nhttp://www.digikey.com/product-detail/en/50-1101/182-1003-ND/3386"
+  },
+  {
+   "id": "-wWmrTFdC5A",
+   "t": "Getting the orientation of objects inches away!",
+   "d": "2013-01-26",
+   "v": 4270,
+   "s": 143,
+   "vertical": false,
+   "desc": "Ever wanted to know the orientation of a shaft?  Or maybe some user interface device?  Turns out it's not that hard!  You can use a magnetic rotary encoder.   What's even cooler is the thing you're measuring doesn't even have to be in-plane with the sensor!\n\nSee it's performance against actual stepper motors here: http://www.youtube.com/watch?v=retIFktkRW4\n\nHigh res pic of new magnetometer board: http://i.imgur.com/QmnLJJ5"
+  },
+  {
+   "id": "retIFktkRW4",
+   "t": "Magnetic rotary encoders with stepper motors",
+   "d": "2013-01-27",
+   "v": 10019,
+   "s": 188,
+   "vertical": false,
+   "desc": "Some people wanted to know what happens when you get the magnetic rotary encoder near a motor.  Well I found myself near one and decided to find out.  Answer: It works surprisingly well.\n\nWatch a more detailed video here: http://www.youtube.com/watch?v=-wWmrTFdC5A"
+  },
+  {
+   "id": "h-NG8Vk1aC0",
+   "t": "How I surface mount my PCB components.",
+   "d": "2013-01-30",
+   "v": 79612,
+   "s": 458,
+   "vertical": false,
+   "desc": "A few people have asked me how /I/ do my surface mount...well, it took me a long time to really settle on a process, and this is it.  Feel free to hit me up with any questions.\n\nCase can be purchased here: http://www.jameco.com/1/1/2672-se-128-fliptop-case-small-components-material-plastic.html\n\nFor more info on the timing of my toaster oven process, you can watch the video here: https://www.youtube.com/watch?v=5rhXUWMOKPk#t=188\n\nPictures:\nhttp://imgur.com/a/6ePKc"
+  },
+  {
+   "id": "CO6y6bjFfmY",
+   "t": "Fun With a Non-Contact Magnetic Joystick",
+   "d": "2013-02-02",
+   "v": 5064,
+   "s": 100,
+   "vertical": false,
+   "desc": "So, I am now using another LSM303 $5 magnetometer. This time I'm trying to use it as a joystick.  The results are surprisingly good!  Still needs some refinement, but I think it has some potential!\n\nHigh res picture here: http://imgur.com/QmnLJJ5\n\nDesigns, etc. here: https://cnlohr.net/pubsvn/electrical/avr_hidcompass/"
+  },
+  {
+   "id": "h8hNIdiwxCg",
+   "t": "Digi-Key and USPS are the only two competent companies in America.",
+   "d": "2013-02-14",
+   "v": 3476,
+   "s": 61,
+   "vertical": false,
+   "desc": "Seriously.  5 States away. $5.93 shipping. 42 hours.  Why can't anyone else be this awesome?"
+  },
+  {
+   "id": "ENNZ5QNrHNQ",
+   "t": "Linux on a Microscope Slide AVR (sort of)",
+   "d": "2013-02-16",
+   "v": 11781,
+   "s": 253,
+   "vertical": false,
+   "desc": "This is Linux running on my Microscope Slide Minecraft Server... Sort of...\n\nI took Fabrice Bellard's JSLinux and modded it to support a new range of x86 IO Ports that I remapped to the IO ports on the AVR that is serving the webpage.  This leads to some unusual outcomes.  You can write C code in a virtual x86 environment running on a webpage that is being served off of an AVR that can also affect the IO ports on the AVR... Or something weird like that.\n\nAnyway, github is here, I probably won't ever be updating this since I'm not sure why I did it in the first place: https://github.com/cnlohr/"
+  },
+  {
+   "id": "tHo86cIvjeU",
+   "t": "Adam Bugeyes on 100W LED Lenses",
+   "d": "2013-02-26",
+   "v": 3738,
+   "s": 22,
+   "vertical": false,
+   "desc": "...I have no idea why, but it's one of these:\n\n http://www.ebay.com/itm/220791009527?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1497.l2649"
+  },
+  {
+   "id": "yhUCM9N-OKc",
+   "t": "Color NTSC video on an AVR without an AD723",
+   "d": "2013-03-25",
+   "v": 24021,
+   "s": 119,
+   "vertical": false,
+   "desc": "Ever wanted to output NTSC with your AVR?  Well, that's not difficult.  Want to output color video?  That's a little harder.  You'll either want an AD723, or to do this little trick.\n\nThis requires a 28.636 MHz Crystal!\n\nSource code here: \nhttps://cnlohr.net/pubsvn/electrical/GameSystem/game/\n\nThis only uses the pins as GPIO!\n\nNOTE: This can be done even easier by using a PWM output signal. \nAn example of this can be seen in this source code:\nhttps://cnlohr.net/pubsvn/electrical/GameSystem/ntsctest2/\n\nBoard design for this synth/game thing can be found here: \nhttps://cnlohr.net/pubsvn/electric"
+  },
+  {
+   "id": "zaAr-h0KB4w",
+   "t": "Let's Code: NTSC Part 2B (Chroma)",
+   "d": "2013-03-29",
+   "v": 8800,
+   "s": 1211,
+   "vertical": false,
+   "desc": "I'm trying something new, I'm trying a let's learn / let's code series.  This one is about NTSC. And the basics.  If you haven't already watched the previous two videos I mention, I recommend doing so.\n\nThis is the page that I referenced when I was learning NTSC: http://www.kolumbus.fi/pami1/video/pal_ntsc.html\n\nSource code is available here:\nhttps://cnlohr.net/pubsvn/electrical/GameSystem/"
+  },
+  {
+   "id": "mHXDX0MXcyk",
+   "t": "Let's Learn: NTSC Part 2A (Chroma)",
+   "d": "2013-03-29",
+   "v": 14872,
+   "s": 558,
+   "vertical": false,
+   "desc": "I'm trying something new, I'm trying a let's learn / let's code series.  This one is about an intro to NTSC Chroma and a really cheap/poor way to encode it.\n\nThis is the page that I referenced when I was learning NTSC: http://www.kolumbus.fi/pami1/video/pal_ntsc.html"
+  },
+  {
+   "id": "xxqXcTstmHE",
+   "t": "Let's Code: NTSC Part 1B (Basics)",
+   "d": "2013-03-29",
+   "v": 9481,
+   "s": 1233,
+   "vertical": false,
+   "desc": "I'm trying something new, I'm trying a let's learn / let's code series.  This one is about NTSC. And the basics.  If you haven't already watched the learn portion, I recommend you do so.\n\nThis is the page that I referenced when I was learning NTSC: http://www.kolumbus.fi/pami1/video/pal_ntsc.html\n\nSource code is available here:\nhttps://github.com/cnlohr/avrcraft"
+  },
+  {
+   "id": "X24zDXz8Xgc",
+   "t": "Let's Learn: NTSC Part 1A (Basics)",
+   "d": "2013-03-29",
+   "v": 27923,
+   "s": 661,
+   "vertical": false,
+   "desc": "I'm trying something new, I'm trying a let's learn / let's code series.  This one is about NTSC.\n\nThis is the page that I referenced when I was learning NTSC: http://www.kolumbus.fi/pami1/video/pal_ntsc.html"
+  },
+  {
+   "id": "RAr5ib21_4I",
+   "t": "Time Jitter on AVR Interrupts",
+   "d": "2013-04-14",
+   "v": 3553,
+   "s": 132,
+   "vertical": false,
+   "desc": "Some instructions on the AVR take longer than others.  This can prove to be a problem if you want interrupts to fire at exact times and you don't want to sleep() all the time.\n\nThe solution is to stick some code in the interrupt that examines the timer and waits for a specific number of cycles to even it out to always take exactly the same amount of time.\n\nSource: https://github.com/cnlohr/avrcraft/tree/master/terminal"
+  },
+  {
+   "id": "VGFBCLX_NXw",
+   "t": "Video and ethernet at the same time on an AVR",
+   "d": "2013-04-14",
+   "v": 2874,
+   "s": 196,
+   "vertical": false,
+   "desc": "I decided to keep tweaking my NTSC code and my ethernet code until I could get them to co-exist.  And sure enough... it works!  I can update my ethernet code in the areas of the screen that nothing is going on and still display the NTSC video.\n\nAs always, code is available here: https://github.com/cnlohr/avrcraft/tree/master/terminal\n\nThe PCB and schematics are available here: https://github.com/cnlohr/avrcraft/tree/master/avr_hardware/kicad (avrcraft-microsd-glass) NOTE: 2nd layer is not needed."
+  },
+  {
+   "id": "-iUfZYPd-d0",
+   "t": "Fun With Rolling Shutters and Fast LEDs",
+   "d": "2013-04-20",
+   "v": 6185,
+   "s": 77,
+   "vertical": false,
+   "desc": "I am helping my friend Paul try to balance his hexacopter motors for one of his projects.  We are trying to use a strobe and an accelerometer to help us observe the imbalances.  \n\nWe ran into an unusual artifact with my NEX-5N camera.\n\nWe're further along now, check out the next video: http://www.youtube.com/watch?v=avJG8Bd0Tx0"
+  },
+  {
+   "id": "avJG8Bd0Tx0",
+   "t": "(WiP) Trying to use a strobe to balance a hexacopter motor",
+   "d": "2013-04-21",
+   "v": 3848,
+   "s": 95,
+   "vertical": false,
+   "desc": "We're still working on using this strobe to help balance the motor.  We've got an accelerometer, too.  The results are promising.  We'll be giving more effort next weekend, hopefully."
+  },
+  {
+   "id": "txF_MYcvT70",
+   "t": "Failed chainsaw power source attempt #2",
+   "d": "2013-05-04",
+   "v": 2176,
+   "s": 213,
+   "vertical": false,
+   "desc": "My next project needs a chainsaw engine to get enough power.  The first test ended badly.  So did this one, but I figured it looked pretty cool so I uploaded it."
+  },
+  {
+   "id": "CeV4K5kYCI8",
+   "t": "More Failed Attempts at a Chainsaw Engine Power Source",
+   "d": "2013-05-10",
+   "v": 2326,
+   "s": 251,
+   "vertical": false,
+   "desc": "Well, things have been going better now that I've used lots of threadlocker, and it appears this other type of coupling works better... I have some work to do, but hopefully I will soon be able to test this out more."
+  },
+  {
+   "id": "cWpdxGBB5ao",
+   "t": "Why I wax my car.",
+   "d": "2013-05-13",
+   "v": 36173,
+   "s": 15,
+   "vertical": false,
+   "desc": "Friction.  Who needs it?"
+  },
+  {
+   "id": "6kN0ybFioYE",
+   "t": "Nerds in the Woods: MAGStock 2013 Promo Video #1",
+   "d": "2013-05-24",
+   "v": 2165,
+   "s": 33,
+   "vertical": false,
+   "desc": "MAGStock 3 is coming up this July.  If you are around the Maryland, Virginia or North Carolina area and are a nerd, come check it out!\n\nFacebook Event: http://www.facebook.com/events/563947733615561/?fref=ts\nMore info at http://magstock.net"
+  },
+  {
+   "id": "86QWwPGmY88",
+   "t": "Retro Green Monitor loading Retro Hackaday is Retro.",
+   "d": "2013-06-02",
+   "v": 18332,
+   "s": 114,
+   "vertical": false,
+   "desc": "Well, I don't know if it counts as a submission to  retro.hackaday.com, but, I have my AVR with NTSC video out from the black and white demo working on this ridiculously old retro monochrome green monitor. \n\nAmazingly enough, even though it is from August 1983, everything worked out of box.\n\nThis is using my AVR terminal server for the video output."
+  },
+  {
+   "id": "BO3umH4Ht8o",
+   "t": "Capacitive Touch Sensors on an AVR without QTouch (Let's Learn and Code 3)",
+   "d": "2013-06-10",
+   "v": 36389,
+   "s": 1398,
+   "vertical": false,
+   "desc": "I've received a number of requests about how I do my touch sensors.  I decided to finally post the full how-to on it.  This is my third in my let's learn/let's code series, and my first one where I am combining them into one video (since it was short enough).\n\nSource code is available here: https://github.com/cnlohr/magfestbadges/tree/master/basictouch\n\nSince the schematic at 7:00 is somewhat confusing, and for explaination purposes I should have wired the capacitor to ground, the circuit still works even with it wired to 5V.  It is because the voltage slope becomes shallow as the voltage acro"
+  },
+  {
+   "id": "-Z9TrZQw16s",
+   "t": "AVR Communicating with Transcend WiFi SD",
+   "d": "2013-10-09",
+   "v": 26311,
+   "s": 357,
+   "vertical": false,
+   "desc": "Transcend makes some cool WiFi SD cards, and they are super open.  THANKS, TRANSCEND!  Anyway, they are kind of locked in their own little case.  I decided to use an AVR to act as a host to configure the card and allow it to access an I2C bus.\n\nThis is effectively a motherboard for the WiFi SD card.\n\nUnfortunately the Transcend card does not support SPI, or 1-bit SD, so, you need to do a lot of ugly stuff to get the AVR to talk 4-bit to it.  Luckily, I've done all of this for you.\n\n\nA BIG Thanks to Dmitry Grinberg for the development he did and Tobias Diedrich for helping me out specifically w"
+  },
+  {
+   "id": "HT4W3CPlnAU",
+   "t": "OLED Display and Internet Status on Transcend WiFi with Motherboard",
+   "d": "2013-10-17",
+   "v": 6522,
+   "s": 148,
+   "vertical": false,
+   "desc": "I used my transcend wifi motherboard to make an internet status light for flakey internet connections.  Also, it now it supports an OLED display.\n\nAbout architecture changes:  I want to make a broker server to handle sending data out the I2C bus, in order to prevent collisions, as of now, there is no protection.  Also, this would help make the communications mechanism more robust.\n\nOLED Display: http://imall.iteadstudio.com/im130625003.html\nSource code, SD root data, designs: https://cnlohr.net/pubsvn/electrical/SDComputer/\nPictures: http://imgur.com/a/hRphz"
+  },
+  {
+   "id": "hVxDJbmCN8o",
+   "t": "Use Bismuth Low-Temp Solder Paste!",
+   "d": "2013-11-08",
+   "v": 23566,
+   "s": 239,
+   "vertical": false,
+   "desc": "I was browsing digikey and came across this:\n\nhttp://www.digikey.com/product-detail/en/SMDLTLFP/SMDLTLFP-ND/2682721\n\nIt is some awesome stuff, and I highly recommend it so far, though my boards have only been in service about one month!  It makes reflowing a lot easier!"
+  },
+  {
+   "id": "5Rr9kSqjX98",
+   "t": "Mini Host and Display for Transcend Wifi SD Card",
+   "d": "2014-01-28",
+   "v": 5454,
+   "s": 143,
+   "vertical": false,
+   "desc": "Next video: https://www.youtube.com/watch?v=HT4W3CPlnAU\n\nI decided to get a two-layer version of my transcend wifi sd card motherboard printed.  It actually worked out.  Now, I have a tiny computer (of sorts).  I am still having stability issues with the display and the SD card for continuous writing, but it's getting better.\n\nSource and designs are here: https://cnlohr.net/pubsvn/electrical/SDComputer\n\nPictures, etc are here: http://imgur.com/a/OnEm3"
+  },
+  {
+   "id": "CnIKviw3szM",
+   "t": "How I do my projects - Part 1 - Designing the PCB",
+   "d": "2014-01-30",
+   "v": 47380,
+   "s": 360,
+   "vertical": false,
+   "desc": "Designs and source code here:  https://cnlohr.net/pubsvn/electrical/avr_erc12864-4/\n\nI decided to do a video that shows how I do my projects.  This is part 1.  Part 2 is available now, and there may be a part 3 and maybe 4 at some point.\n\nKiCad is used for schematic capture and board placement/layout.\n\nTopoR is used for autorouting.  Keep in mind the free version of TopoR is only good for simple designs.  Too many parts and you'll have to shell out a few thousand dollars.\n\nHope y'all like it! If you have any questions leave them in the comments section below."
+  },
+  {
+   "id": "pbYDQuALOeY",
+   "t": "How I do my projects - Part 2 - Producing the PCB",
+   "d": "2014-01-30",
+   "v": 178321,
+   "s": 531,
+   "vertical": false,
+   "desc": "Designs and source code here:  https://cnlohr.net/pubsvn/electrical/avr_erc12864-4/\n\nI decided to do a video that shows how I do my projects.  This is part 2.  Part 1 is available now, and there may be a part 3 and maybe 4 at some point.\n\nI made an overexposure mistake in this video.  Often I make small mistakes, but thankfully it's easy to recover from problems in the PCB printing process.\n\nHope y'all like it! If you have any questions leave them in the comments section below.\n\nRiston and developer can be found here: http://www.tech-place.com/en/index\nYou can get blank copper PCBs from Ebay."
+  },
+  {
+   "id": "EfBwz_SiK8s",
+   "t": "Vector Display Output from a VGA Port",
+   "d": "2014-02-14",
+   "v": 33634,
+   "s": 247,
+   "vertical": false,
+   "desc": "My roommate was playing \"Trace Vector\" and it's done in the style of old vector-based arcade systems.  It had me thinking:  How would I make a vector display:  Answer, VGA ports aren't limited to rasterized images.\n\nTrace vector trailer: http://www.youtube.com/watch?v=N1Dlhg6bea8\n\nhttps://cnlohr.net/pubsvn/electrical/vga_multi/\n\nNOTE: I use a custom video mode (available in SVN) that's 1920x128 with very few sync lines.\n\nSomeone beat me on this by 10 years!: http://emergent.unpythonic.net/01115494353"
+  },
+  {
+   "id": "vw1-E3Dxodc",
+   "t": "Vector HackADay logo on oscilloscope via VGA port.",
+   "d": "2014-02-19",
+   "v": 9359,
+   "s": 87,
+   "vertical": false,
+   "desc": "I decided to use my VGA output to draw the HackADay logo and show what the X and Y inputs look like.\n\n\nNOTE: I use a custom video mode (available in SVN) that's 1920x128 with very few sync lines.\n\nSomeone beat me on this by 10 years!: http://emergent.unpythonic.net/01115494353"
+  },
+  {
+   "id": "XuWqDn0uBtQ",
+   "t": "Initial tests with my friend's 12'x8' mill",
+   "d": "2014-03-30",
+   "v": 2117,
+   "s": 59,
+   "vertical": false,
+   "desc": "My friend has the mechanical parts of a 12' x 8' mill... I'm giving a shot at adding the smarts.  The spindle still isn't working, so I decided to do something just stupid."
+  },
+  {
+   "id": "JEq1Mkk1bcc",
+   "t": "Wood you like a trashcan?",
+   "d": "2014-04-21",
+   "v": 2572,
+   "s": 276,
+   "vertical": false,
+   "desc": "We're finishing up some final tests with the huge wood mill at my friend's warehouse.  We needed something to test with, and what don't you know?  We needed a trash can.  So we decided to get this thing moving!"
+  },
+  {
+   "id": "5VFd9w-IKrA",
+   "t": "Mill Update + Time Lapse + Neon FM Button Panel",
+   "d": "2014-04-27",
+   "v": 2489,
+   "s": 147,
+   "vertical": false,
+   "desc": "The primary reason we're using the mill is to help with NeonFM production.  I decided to take some video and chop up the cooler bits.  You can hear the mill almost making music during the circular cuts."
+  },
+  {
+   "id": "G5eo5d8F5DU",
+   "t": "Running Minecraft on a CNC Wood Router",
+   "d": "2014-05-25",
+   "v": 22808,
+   "s": 222,
+   "vertical": false,
+   "desc": "In my ever increasing effort to do unusual things with Minecraft, I decided to run my AVR minecraft server on a router... on a router.  The router (internet) is a TP-LINK TL-WR841N.\n\n\nAll source code is available here: \nhttps://cnlohr.net/pubsvn/projects/bigmill/"
+  },
+  {
+   "id": "-lGb04wxbB0",
+   "t": "Nathan Roasting a Marshmallow in a Campfire That is Entirelly Too Big",
+   "d": "2014-05-31",
+   "v": 2018,
+   "s": 16,
+   "vertical": false,
+   "desc": "I just stole 15 seconds of your life.\n\nMan, that was a long title.  I wonder if I got the capitalization correct?"
+  },
+  {
+   "id": "X22zRAZDcYE",
+   "t": "Safer PS3 Controller CNC Mill Pendent",
+   "d": "2014-08-01",
+   "v": 3743,
+   "s": 198,
+   "vertical": false,
+   "desc": "We've been working away with NeonFM and have been using the CNC mill more and more.  Since we decided to write everything else our ourselves, we just kept going. \n\nWe use a PS3 Controller using PS3 PPA available at https://help.ubuntu.com/community/Sixaxis\n\nWe have safeties to stop motion in the event our software doesn't see motion from the accelerometers."
+  },
+  {
+   "id": "mwcvElQS-hM",
+   "t": "Bit-banging Ethernet on an ATTiny85",
+   "d": "2014-08-29",
+   "v": 41209,
+   "s": 278,
+   "vertical": false,
+   "desc": "NOTE: I have done significantly better.  Check out my half-duplex project here!!! https://www.youtube.com/watch?v=m4f4OzEyueg\n\nNOTE: As has been graciously pointed out by some users at HackADay, Someone has already done this, about TEN YEARS AGO! http://www.cesko.host.sk/IgorPlugUDP/IgorPlug-UDP%20%28AVR%29_eng.htm\n\nSo, I found a really terrible way of getting my ATTiny85 to send ethernet packets.  No, like REALLY terrible.  If you aren't cringing when you watch this video, you're not an engineer.\n\nNOTE: The reason this is so dangerous is because some POE switches are wired to be \"always on\" o"
+  },
+  {
+   "id": "m4f4OzEyueg",
+   "t": "Half-Duplex Ethernet with just an ATTiny85",
+   "d": "2014-09-05",
+   "v": 12362,
+   "s": 166,
+   "vertical": false,
+   "desc": "Github: https://github.com/cnlohr/ethertiny\n\nTX and RX actually works.  The only reason I felt challenged to do the RX portion was because Igor \u010ce\u0161ko said that the AVR wasn't fast enough to RX.  His AVR, that might be true, but not the ATTiny85!!!\n\nIgor's page: http://www.cesko.host.sk/IgorPlugUDP/IgorPlug-UDP%20%28AVR%29_eng.htm"
+  },
+  {
+   "id": "oh4ZDkBHFYM",
+   "t": "(FULL) Adding wifi to a desk lamp with the Wi07C (ESP8266)",
+   "d": "2014-09-19",
+   "v": 34678,
+   "s": 2837,
+   "vertical": false,
+   "desc": "I added Wifi to my desk lamp and videoed the whole thing, spend it up for y'all.  Hope you like it.\n\nhttps://github.com/cnlohr/wi07clight\n\nThe case in the video is available here: http://www.jameco.com/webapp/wcs/stores/servlet/Product_10001_10001_164267_-1"
+  },
+  {
+   "id": "TtcukdDiaDI",
+   "t": "Wifi on my desk lamp!  With the ESP8266/Wi07C",
+   "d": "2014-09-19",
+   "v": 6398,
+   "s": 135,
+   "vertical": false,
+   "desc": "I got a Wi07C module from Electrodragon recently, and decided to take my broken desk lamp and add wifi to it.  No idea why, maybe I'm just nuts.  I also videoed the whole thing for those who like REALLY BORING VIDEOS.\n\nGithub: https://github.com/cnlohr/wi07clight"
+  },
+  {
+   "id": "7BYdZ_24yg0",
+   "t": "ESP8266 Wifi Range/Distance Tests (Wi07C)",
+   "d": "2014-09-21",
+   "v": 174291,
+   "s": 419,
+   "vertical": false,
+   "desc": "I bought some Wi07C modules from electrodragon recently:\nhttp://www.electrodragon.com/product/esp8266-wi07c-wifi-module/\n\nWe wanted to know how far they could communicate, the answer is a lot longer than I expected!!!\n\nThe ESP8266 is pretty awesome.  The firmware needs a LOT of work, but it is pretty cool!  Check it out!"
+  },
+  {
+   "id": "R1zx0xV0pWw",
+   "t": "ESP8266 Minecraft server running ON a redstone block!",
+   "d": "2014-09-28",
+   "v": 89537,
+   "s": 119,
+   "vertical": false,
+   "desc": "My friend Natan gave me a redstone block a while back.  I took an ESP8266 http://www.electrodragon.com/product/esp8266-wi07c-wifi-module/ and slapped it to the inside with a big red LED.  Wrote some code, and BAM! Minecraft!  The server's actually running on the block. \n\n\n\nIf you're seeing this in 2020 and want to know how to do it yourself, check this out: https://youtu.be/LiKNRBIcGII\n\n\n\nESP8266 Forums: http://www.esp8266.com\nMCDevs' Minecraft Protocol: http://wiki.vg/Protocol\n\nSource is here: https://github.com/cnlohr/avrcraft/tree/master/usb_minecraft"
+  },
+  {
+   "id": "__ECzxnvEg8",
+   "t": "ATTiny85 four-component megaphone.",
+   "d": "2014-10-04",
+   "v": 35835,
+   "s": 539,
+   "vertical": false,
+   "desc": "Github: https://github.com/cnlohr/t85loudspeaker\n\nI was curious if an ATTiny85's differential PWM outputs could be used to directly drive a speaker without any drive components.  the answer was surprisingly, YES!  Here's how I did it.\n\nLink to the inspiree's site: http://rdimitrov.twistedsanity.net/blog/show.php?entry=Microcontroller%20Class%20D%20Amplifier"
+  },
+  {
+   "id": "tl40xidKF-4",
+   "t": "\"No! Euclid!\" GPU Ray Tracer gets an upgrade!",
+   "d": "2014-10-14",
+   "v": 320138,
+   "s": 603,
+   "vertical": false,
+   "desc": "I've been working on my non-euclidean GPU-based ray tracer, and made a lot of progress.  I've been adding a multitidue of features and it's now available on github.  I've only been compiling it for Linux, but it might work in Windows, though I can't really test that.\n\nhttps://github.com/cnlohr/noeuclid"
+  },
+  {
+   "id": "qQMy9jFz4AI",
+   "t": "Cheap LED Strip lighting for our warehouse.",
+   "d": "2014-11-03",
+   "v": 5939,
+   "s": 175,
+   "vertical": false,
+   "desc": "Sellers on ebay sell these super cheap 5M flexable LED strips, and have been for some time.  They are surprisingly good! Well, the backing is awful, but the LED strips themselves are spectacular.\n\nSearch ebay for: 5050 White 5m 300 - As of Nov 2, 2014, the cost was under $8/strip!!!\n\nMcmaster code: 7598A66"
+  },
+  {
+   "id": "3LiMAG4viWA",
+   "t": "My Wifi Cup - ESP8266 Link Tests",
+   "d": "2014-11-06",
+   "v": 13515,
+   "s": 358,
+   "vertical": false,
+   "desc": "I decided to add wifi to one of my roommate's cups.  I wanted to see how long it takes to link and where in my house I still get link, as a more practical wifi range test.  The results were pretty sweet.\n\nESP8266 code (for using a few WS2812's on it): https://github.com/cnlohr/ws2812esp8266\nWARNING: It is SHODDY!\n\nThis project: https://cnlohr.net/pubsvn/electrical/esp8266_pingpainter/"
+  },
+  {
+   "id": "m6rEhPwUq2s",
+   "t": "Removing Protective Plastic from NeonFM Machines.",
+   "d": "2014-11-24",
+   "v": 3315,
+   "s": 184,
+   "vertical": false,
+   "desc": "We got to IAAPA in Orlando, selling our NeonFM Arcade machines... It was time to pull off the protective coatings."
+  },
+  {
+   "id": "YNrFOClrzTA",
+   "t": "World's Smallest Minecraft Server",
+   "d": "2014-11-27",
+   "v": 881883,
+   "s": 245,
+   "vertical": false,
+   "desc": "Code is here: https://github.com/cnlohr/avrcraft/tree/master/usb_minecraft\n\nBoard is .46\" x .64\"  (12mm x 16mm) - though I think I can make it smaller."
+  },
+  {
+   "id": "pWo-ErpVZC4",
+   "t": "Making your own C programs for the ESP8266",
+   "d": "2014-12-06",
+   "v": 120609,
+   "s": 1004,
+   "vertical": false,
+   "desc": "NOTE: Many USB to Serial dongles cannot provide sufficient 3.3v rail to power an ESP.  Please use a 3.3V supply to power the ESP.\n\nThis is a how-to video on the build environment for the ESP8266.\n\nLink to the esp8266 forum post: http://www.esp8266.com/viewtopic.php?f=5&t=744\n\nThe newer way to do most of these things: https://github.com/esp8266/esp8266-wiki/wiki/Toolchain  (You may want to read this to see if it works out better for you)\n\nThere is an alternative build environment here you should probably also check out: https://github.com/pfalcon/esp-open-sdk\n\nIf you want what I have in this vi"
+  },
+  {
+   "id": "Y5ldIov4JmM",
+   "t": "AVR Code Piplining: To do what may seem impossible.",
+   "d": "2014-12-16",
+   "v": 17205,
+   "s": 306,
+   "vertical": false,
+   "desc": "Inverse Phase, is one of my room mates and is trying to up his stage presence. You should check out some of his music over here: http://inversephase.com\n\nI based my libraries off of this page: https://www.pjrc.com/teensy/usb_keyboard.html\n\nAwesome site for the WS2812B timings: https://cpldcpu.wordpress.com/2014/01/14/light_ws2812-library-v2-0-part-i-understanding-the-ws2812/\n\nThis project's code: https://github.com/cnlohr/usb2812"
+  },
+  {
+   "id": "UI4eqOP2AU0",
+   "t": "Color Chord 2 Preview",
+   "d": "2014-12-27",
+   "v": 9568,
+   "s": 195,
+   "vertical": false,
+   "desc": "ColorChord, a project I worked on a number of years back is back on my plate.  This time, it runs entirely on the CPU, and is much cleaner!\n\nColorChord links sound to light, but in a way that's largely ignored.  Notes in a key are mapped onto the color wheel, such that a note, no matter what the octave will always have the same color of light.  That means colors, and sets of colors correspond to the same notes, and sets of notes throughout the entire song.  It lets your brain pick up on patterns in the music using light!\n\nThe current output uses Voronoi diagrams, but, it could be mapped to any"
+  },
+  {
+   "id": "s8qWqYTpCN4",
+   "t": "ColorChord 2: Fugue In D Minor",
+   "d": "2015-01-20",
+   "v": 18549,
+   "s": 263,
+   "vertical": false,
+   "desc": "ColorChord is an open source sound-to-light mapper.  It's not quite \"done\" yet, though it will probably never be fully done.\n\nMore updates to come!\n\nSource code: https://github.com/cnlohr/colorchord"
+  },
+  {
+   "id": "cJF5Q9F8tm0",
+   "t": "PCBs of Projects Past",
+   "d": "2015-02-08",
+   "v": 8245,
+   "s": 1151,
+   "vertical": false,
+   "desc": "Here's my electronics graveyard.  Tons of PCBs, tons of projects.  I am admitting defeat of"
+  },
+  {
+   "id": "aqqEYz38ens",
+   "t": "High Res Wifi Signal Mapping",
+   "d": "2015-02-14",
+   "v": 551017,
+   "s": 400,
+   "vertical": false,
+   "desc": "Special Thanks to Unit-E technologies and Eric Holniker for letting me use their mill.\n\nCheck out Neon FM here: https://www.youtube.com/watch?v=ADV7C16356c\n\nVoxeltastic: http://cnlohr.github.io/voxeltastic/\nHackADay IO: http://hackaday.io/project/4329-wifi-power-mapping\nImgur: http://imgur.com/gallery/jdNA6\n\nGithub:\n\nWebGL Visualization tool: https://github.com/cnlohr/voxeltastic\n\nData Compositing: https://github.com/cnlohr/wificompositer\n\nFirmware for ESP8266: https://github.com/cnlohr/ws2812esp8266\n\nSoftware for reading data from mill and getting wifi RX power: https://github.com/cnlohr/wifi"
+  },
+  {
+   "id": "DJyQi0aUqVQ",
+   "t": "ATTiny85 NTSC/VHF Encoding",
+   "d": "2015-02-15",
+   "v": 22889,
+   "s": 180,
+   "vertical": false,
+   "desc": "I took an ATTiny85 and abused its hardware to do real-time AM modulation of an NTSC signal into VHF then send it over to a TV.\n\nThe the designs and you can buy straight from OSHPark: https://github.com/cnlohr/attiny85_tb\nCheck it out on github: https://github.com/cnlohr/avr_vhf\nAnd check it out on HackADay IO: http://hackaday.io/project/4348-attiny85-does-ntsc-over-vhf"
+  },
+  {
+   "id": "3n76iMTHXuE",
+   "t": "Trying to make WiFlier, a Wifi enabled Quadcopter",
+   "d": "2015-06-16",
+   "v": 23950,
+   "s": 511,
+   "vertical": false,
+   "desc": "Github: https://github.com/cnlohr/wiflier/\n\nIf you want the ping tool I am using, use this: https://github.com/cnlohr/cnping (linux only for now, but porting should be easy)\n\nIf you want the wifi strength monitoring tool, it's here: https://github.com/cnlohr/wifirxpower  (linux only, now)\n\nI'm working on making an ESP8266-based quadcopter.  Okay, well I don't know if I'll ever actually be able to make it, but I'm trying... and learning a lot!  This is just some video so far of what I've been doing with it."
+  },
+  {
+   "id": "KBb8JxHrNEE",
+   "t": "How to properly remove double sided foam tape",
+   "d": "2015-07-01",
+   "v": 26308,
+   "s": 12,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "2eRdbvGXkio",
+   "t": "PCBs done quick.",
+   "d": "2015-08-06",
+   "v": 362199,
+   "s": 1455,
+   "vertical": false,
+   "desc": "***warning this video is not a complete guide and for demonstration only*** \n\nThere's been a lot of hubbub on the internet about making PCBs using these new PCB printers.  They sound all cool.  They're only thousands of dollars, they take less than an hour, have okay precision and seem to produce tolerably durable boards.\n\nWHY?\n\nMaking PCBs isn't rocket science.  People've been doing it for decades at home.  Heck, my first PCBs were made using some mid-90's radioshack kit. \n\nIn fact, they can be made cheaper, more durably, and faster using traditional methods!\n\nMaterials:\n(1) FR4 (or CEM) 0.06"
+  },
+  {
+   "id": "6zqGwxqJQnw",
+   "t": "Using I2S on the ESP8266 to drive WS2812Bs.",
+   "d": "2015-08-10",
+   "v": 74779,
+   "s": 314,
+   "vertical": false,
+   "desc": "This project: https://github.com/cnlohr/esp8266ws2812i2s\n\nAwesome page about WS2812 timings: https://cpldcpu.wordpress.com/2014/01/14/light_ws2812-library-v2-0-part-i-understanding-the-ws2812/\n\nCheck out the ESP8266 Forums at: http://www.esp8266.com\n\nThat MP3 Decoder: https://github.com/espressif/esp8266_mp3_decoder/\n\nEarly control of WS2812's: http://spritesmods.com/?art=imx233-ws2811\n\nSPI + DMA Control of WS2812 on a PIC: http://blog.gitmi.com/interfacing-ws2812b-ws2811-rgb-leds-with-a-pic32mx-250f128b-micro-controller-spi-700-khz-update-3/"
+  },
+  {
+   "id": "8ISbmQTbjDI",
+   "t": "WebSockets for awesome on the ESP8266",
+   "d": "2015-08-18",
+   "v": 132113,
+   "s": 414,
+   "vertical": false,
+   "desc": "Websockets are ... just ... awesome.  So, I started implementing them on the ESP8266.  The configuration interface on my esp8266ws2812spi tool uses them so does ColorChord:\n\nWS2812I2S: https://github.com/cnlohr/esp8266ws2812i2s\nColorChord: http://github.com/cnlohr/colorchord"
+  },
+  {
+   "id": "L-ReAvSfAiQ",
+   "t": "When single-layer PCBs aren't enough.",
+   "d": "2015-08-31",
+   "v": 20336,
+   "s": 202,
+   "vertical": false,
+   "desc": "I tried making a single layer PCB for my ESP8266 projects.  It ... didn't work.  I mean it sort of worked, but yugh... It was just awful."
+  },
+  {
+   "id": "SSiRkpgwVKY",
+   "t": "Broadcasting Analog TV on an ESP8266!",
+   "d": "2016-01-31",
+   "v": 222695,
+   "s": 223,
+   "vertical": false,
+   "desc": "Using a digital pin, shifting out a signal at 80 MHz to broadcast analog tv to an analog tv on channel 3.  Whooh!\n\nGithub: http://github.com/cnlohr/channel3\n\nI was playing around with the I2S bus on the ESP8266 and found that it could output the I2S port at 80 MHz and still maintain the DMA!\n\nThis is actually generating disruptions at the right frequency to be picked up by my analog TV and display NTSC video!"
+  },
+  {
+   "id": "bcez5pcp55w",
+   "t": "Broadcasting  COLOR Channel 3 on an ESP",
+   "d": "2016-02-08",
+   "v": 90728,
+   "s": 869,
+   "vertical": false,
+   "desc": "I had a great time getting my ESP8266 to broadcast analog television!  I went ahead and listened to a lot of comments,  and got color working along with a much more expository explanation. \n\n\n\nIf you're seeing this in 2020 and want to know how to do it yourself, check this out: https://youtu.be/LiKNRBIcGII\n\n\n\nAs always, here's the github. https://github.com/cnlohr/channel3\n\nP.S. The cnping network monitor is available here: http://github.com/cnlohr/cnping\n\nI now have a patreon, I am still trying to figure out how all this works! https://www.patreon.com/cnlohr\n\nThe SDR software I used was from "
+  },
+  {
+   "id": "fGdcJJt9XXM",
+   "t": "CNLohr Youtube Channel Trailer",
+   "d": "2016-02-10",
+   "v": 50928,
+   "s": 59,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "oQcHhw4oTLo",
+   "t": "Pylotron: ESP8266 Multiplayer First Person Shooter",
+   "d": "2016-03-01",
+   "v": 27549,
+   "s": 801,
+   "vertical": false,
+   "desc": "Ever wonder how to develop a first person shooter that runs on an ESP8266?  Well, this is that video.  Complete with demo, explanation and source code link.\n\nCode here: http://github.com/cnlohr/pylotron\n\nBTW I now have a patreon account: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "XKnyAYKP434",
+   "t": "Using Wired Ethernet on the ESP8266",
+   "d": "2016-04-01",
+   "v": 107723,
+   "s": 491,
+   "vertical": false,
+   "desc": "It's pronounced E S peethernet.    It's a way to communicate with ESP8266's via 10BASE-T Ethernet instead of via the wifi interface.  This project is still in its infancy but it works.  Somehow, it works!  Check out the hackaday article: http://hackaday.com/2016/04/01/ethernet-controller-discovered-in-the-esp8266/\n\nGithub link for the web interface: http://cnlohr.github.io/espthernet/web/page\nGithub project link: http://github.com/cnlohr/espthernet\nPatreon: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "-7jlRfqaYuY",
+   "t": "Broadcasting AM Radio with Ethernet on the ESP8266",
+   "d": "2016-04-03",
+   "v": 30157,
+   "s": 376,
+   "vertical": false,
+   "desc": "Ever wonder if you can tune into and hear packets flowing on a network?  Turns out, at least with 10base-T it's easy! \nEspthernet HaD Article: http://hackaday.com/2016/04/01/ethernet-controller-discovered-in-the-esp8266/"
+  },
+  {
+   "id": "_GQMZg_5FPE",
+   "t": "Remote Wifi Sniffing Station with an ESP8266",
+   "d": "2016-04-05",
+   "v": 80835,
+   "s": 423,
+   "vertical": false,
+   "desc": "You can use ESPthernet to turn an ESP8266 into a remote wifi sniffing station.  Turns out it's not that hard.\nHackaday article on ESPthernet: http://hackaday.com/2016/04/01/ethernet-controller-discovered-in-the-esp8266/\n\nGithub: http://github.com/cnlohr/espthernet\n\nPatreon: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "YWJOpnQS1_s",
+   "t": "AVR Non-Contact Temperature Projector",
+   "d": "2016-05-02",
+   "v": 7239,
+   "s": 359,
+   "vertical": false,
+   "desc": "I decided to slap a non-contact thermal sensor (an mlx90614) to an AVR along with a couple mcp23008's with a boatload of LEDs to print a number.  Put it in front of a lens and you can see the temperature of the thing you're pointing at!  Had a ton of fun with this one, took over a year to get out of my \"todo\" pile and get it produced.\n\nGithub: https://github.com/cnlohr/avr_ledprojector\n\nPatreon: http://patreon.com/cnlohr"
+  },
+  {
+   "id": "rZeBjSgqb40",
+   "t": "MAGStock 6 Promo Video",
+   "d": "2016-05-30",
+   "v": 4208,
+   "s": 113,
+   "vertical": false,
+   "desc": "Something many of you might not know is that I am chair of a small games and music outdoor festival in Louisa, Virginia.  http://magstock.org/ - if any of y'all are near there, should totally come out, I think you'll have fun!"
+  },
+  {
+   "id": "LUYSfEL9E8I",
+   "t": "Ethernet: Unnaturally Robust",
+   "d": "2016-06-06",
+   "v": 8084,
+   "s": 87,
+   "vertical": false,
+   "desc": "I am well known for buying awful things from the cheapest suppliers available.  My ethernet cables are no exception.   I buy the worst, cheapest cables I can get my hands on.  It's okay, because Ethernet is more than robust enough to make up for it!"
+  },
+  {
+   "id": "j7u3SwlVAhg",
+   "t": "Soldering a 0.4mm BSC Accelerometer",
+   "d": "2016-06-27",
+   "v": 8401,
+   "s": 143,
+   "vertical": false,
+   "desc": "Ever afraid of the new 0.4mm parts?  Like the MMA8653?  Can't find bigger packages for what you want?  Don't fear!!! It'll be fine.  No, really it's easy.  Check out how."
+  },
+  {
+   "id": "w2ibvgTD18c",
+   "t": "ESP8266 Range Test Part 1",
+   "d": "2016-06-29",
+   "v": 33295,
+   "s": 581,
+   "vertical": false,
+   "desc": "I decided to do some more maximum range tests with my ESP8266's on my little carriers.  These are the ESP-12-E and ESP-12-F as well as an awful glass design I did.  I tested at Hollins Ferry Road, near Halethorpe Farms Road in Halethorpe, Maryland.  I tested against a TP-Link WR-841N As I said in the video, spoilers are here: \n\nESP-12E: 425m / 1400 ft\nESP-12F: 470m / 1540 ft\nSingle Layer: 352m / 1150 ft\n\nSource code: http://github.com/cnlohr/esp8266_link_test"
+  },
+  {
+   "id": "ekSsi83-x8M",
+   "t": "ESP8266 Range Testing Part 2",
+   "d": "2016-06-29",
+   "v": 37938,
+   "s": 507,
+   "vertical": false,
+   "desc": "How far can an ESP8266 talk to another ESP8266?  The answer is insane.  You can click the ... to see spoilers below.  But, this is part two of my two-part series on modern ESP8266 carriers (no more ESP-01's!)\n\nI took the first test in the same location and the second test on WB&A Boulevard near Severn, MD.\n\nThey can link at about 1.13km!!!  How far can you link?\n\nhttps://github.com/cnlohr/esp8266_link_test"
+  },
+  {
+   "id": "2aHfd6WhCjw",
+   "t": "ESP8285 at 460 meters.  First impressions.",
+   "d": "2016-07-05",
+   "v": 28674,
+   "s": 167,
+   "vertical": false,
+   "desc": "I decided to bring a little ESP8285 board I printed right before going to Creation 2016.  There was a really easy to test two points I could range test on.  I decided to first check against the ESP8266, which was a little rough and the on the ESP8285 which wasn't much worse.\n\nBut it did work!  As always, source code available on github: http://github.com/cnlohr/esp8266_link_test\n\nYou can buy these on my ebay listing here:\nhttp://www.ebay.com/itm/172263272606\n\nAnd, don't forget I have a patreon, feel free to support me via that:\nhttps://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "s_r8QfjhWlo",
+   "t": "Part 3: Getting glass circuit boards to work!",
+   "d": "2016-07-17",
+   "v": 29797,
+   "s": 527,
+   "vertical": false,
+   "desc": "Part 1: https://www.youtube.com/watch?v=vlrccFVsQXA\nPart 2: https://www.youtube.com/watch?v=rj4qe6bdu7k\n\nThis is part 3 in my 3-part series about glass circuit board design cycles.  In this video I how how I put my parts on and actually make a glass PCB into a full circuit boards.  I will update the description as people comment.\n\nIf you liked this series, feel free to support me on patreon: http://patreon.com/cnlohr\n\ndesign: https://cnlohr.net/pubsvn/electrical/esp_onelayer/ esp_onelayer4"
+  },
+  {
+   "id": "rj4qe6bdu7k",
+   "t": "Part 2: Printing Glass Circuit Boards",
+   "d": "2016-07-17",
+   "v": 53395,
+   "s": 792,
+   "vertical": false,
+   "desc": "Part 1: https://www.youtube.com/watch?v=vlrccFVsQXA\nPart 3: https://www.youtube.com/watch?v=s_r8QfjhWlo\n\nHere I am showing how I actually make my glass circuit boards.  The process is very similar to making regular circuit boards, but there is some extra care taken in a few steps.   I will add links and notes here as people comment on the video.\n\nIf you like videos like this feel free to support me on patreon: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "vlrccFVsQXA",
+   "t": "Part 1: How I work with and debug my glass PCBs",
+   "d": "2016-07-17",
+   "v": 10696,
+   "s": 624,
+   "vertical": false,
+   "desc": "Part 2: https://www.youtube.com/watch?v=rj4qe6bdu7k\nPart 3: https://www.youtube.com/watch?v=s_r8QfjhWlo\n\nThis is part one of my three-part series on glass circuit boards.  It's been a long time since my last video on glass circuit boards and it's time to update the community!  Anyway, I hope you guys enjoy this.  I will be adding links, etc. to the description as people comment, asking.\n\nP.S. For these really long videos, it takes a lot of effort to create, edit and close caption.  I do have a patreon! http://patreon.com/cnlohr So, feel free to support me, there."
+  },
+  {
+   "id": "DYoK4cZoZ_0",
+   "t": "ColorChord 2 - David Chapman Plays Sax",
+   "d": "2016-07-23",
+   "v": 17390,
+   "s": 147,
+   "vertical": false,
+   "desc": "This is a video of my friend Dave playing Saxophone with an ESP8266 running my websockets system from this video: https://www.youtube.com/watch?v=8ISbmQTbjDI , battery, microphone and 24 WS2812Bs attached.  If you are curious about the story behind this, check out my IEEE Article.\n\nhttp://spectrum.ieee.org/geek-life/hands-on/how-to-turn-music-into-colors-with-a-wifi-bridge\n\nWant the source code?\n\nhttps://github.com/cnlohr/colorchord\n\nThere will be more colorchord videos, soon!"
+  },
+  {
+   "id": "-NxoNdTj_7U",
+   "t": "Musings on writing a software USB stack",
+   "d": "2016-08-08",
+   "v": 29455,
+   "s": 2089,
+   "vertical": false,
+   "desc": "Software-only USB stack for the ESP8266!  I am hoping to work on it more, too!\n\nhttps://github.com/cnlohr/espusb\n\nSpeeds:\nhttps://github.com/cnlohr/espusb/blob/master/usb_notes.txt"
+  },
+  {
+   "id": "aaB4Afyh5z0",
+   "t": "Lora Harrison - Come Thou Fount of Every Blessing (ColorChord)",
+   "d": "2016-08-15",
+   "v": 8309,
+   "s": 175,
+   "vertical": false,
+   "desc": "Lora performs her rendition of the old hymn by Robert Robinson with seven additional versions of ... herself. She's singing it while being illuminated by ColorChord of her own voice. Check out the how-it-was-made video here: https://www.youtube.com/watch?v=P4oBZnAu4XI \n\nDownload Link / Soundcloud: https://soundcloud.com/user-840877606/lora-harrison-come-thou-fount-of-every-blessing"
+  },
+  {
+   "id": "qE3zEM8qM00",
+   "t": "What is ColorChord?",
+   "d": "2016-08-15",
+   "v": 16467,
+   "s": 630,
+   "vertical": false,
+   "desc": "I've posted some vague videos about ColorChord before, but this kind of kicks off my \"what is ColorChord\" videos!   I don't know when/if there will be more, depends on how it's all received.  Keep your eyes peeled for more ColorChord 2!\n\nIEEE Spectrum Article: http://spectrum.ieee.org/geek-life/hands-on/how-to-turn-music-into-colors-with-a-wifi-bridge\nGithub Project: http://github.com/cnlohr/colorchord\n\nSupport my patreon here: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "P4oBZnAu4XI",
+   "t": "Behind the Scenes - Come Thou Fount with Lora Harrison (ColorChord)",
+   "d": "2016-08-17",
+   "v": 3163,
+   "s": 119,
+   "vertical": false,
+   "desc": "Curious how the acapella version of \"Come Thou Fount of Every Blessing\" was done? https://www.youtube.com/watch?v=aaB4Afyh5z0\n\nHere I show off what technology we used to make this happen!"
+  },
+  {
+   "id": "tz7tK7O42Tw",
+   "t": "Making an ESP8266 Wifi Keyboard+Mouse",
+   "d": "2016-08-21",
+   "v": 24710,
+   "s": 22342,
+   "vertical": false,
+   "desc": "http://github.com/cnlohr/espusb\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "FPBzOaLbWhM",
+   "t": "Wifi Controlled USB Mouse and Keyboard (ESP8285)",
+   "d": "2016-08-31",
+   "v": 115024,
+   "s": 405,
+   "vertical": false,
+   "desc": "NOTE: Only the raw chips are available on ebay right now...\n\nUsing espusb, now I can emulate a USB mouse+keyboard able to hook up to any computer in the USB port.  It functions as a normal USB HID keyboard+mouse so it doesn't need drivers.  It run on an ESP8285, the ESP8266's integrated-flash cousin.\n\nhttp://github.com/cnlohr/esp82xx\nhttp://github.com/cnlohr/espusb\nhttp://esp8266.com/espusb"
+  },
+  {
+   "id": "ka-MDno5woI",
+   "t": "What does this Y USB thing do?",
+   "d": "2016-09-04",
+   "v": 16118,
+   "s": 539,
+   "vertical": false,
+   "desc": "Or, more specifically, what happens when you plug it into cell phones and find the best way I've ever found to make a tweet?\n\nhttp://github.com/cnlohr/espusb\nI have a patreon, too: http://patreon.com/cnlohr"
+  },
+  {
+   "id": "RSQK5w6LMSc",
+   "t": "Trying to do 3D Localization using ESP8266's",
+   "d": "2016-09-29",
+   "v": 52255,
+   "s": 381,
+   "vertical": false,
+   "desc": "Whelp, I tried.  I had some successes.  I can now send/receive arbitrary packets while connected to an AP!  Also, I can intercept the interrupts to get the exact time of when many of these operations happen.\n\nGithub: http://github.com/cnlohr/esp8266rawpackets \nPatreon (Thanks, guys!): http://patreon.com/cnlohr"
+  },
+  {
+   "id": "ey8oNmq9mjw",
+   "t": "20k Subs: The Keytar that Never Was",
+   "d": "2016-11-21",
+   "v": 12841,
+   "s": 309,
+   "vertical": false,
+   "desc": "I started work several years ago on a clear acrylic keytar.  I had no idea where it would lead me.  I wanted that keytar.  But what I got was much better.  You guys.  P.S. Also, Josh Allen did a ton of work on this too, and I feel bad I didn't name drop him!"
+  },
+  {
+   "id": "AWT2w7v9szs",
+   "t": "ESP8266s without the big SDK \"nosdk8266\"",
+   "d": "2016-11-30",
+   "v": 75624,
+   "s": 464,
+   "vertical": false,
+   "desc": "HackADay Article: http://hackaday.com/2016/11/30/the-esp-a-new-1kb-contender-appears/\n\nIf you're thinking \"no wifi? no problem!\" then this hack is for you!  nosdk8266 allows you to use your ESP8266 with very, very little overhead.  This enables rapid development cycles, crazy high speeds and more I/D RAM than you've ever imagined.  You'll still need the esp open sdk, but not a ton more!\n\nGithub: http://github.com/cnlohr/nosdk8266\nHaD Article: Still in discussion..."
+  },
+  {
+   "id": "sv_AVI9kHN4",
+   "t": "HTC Vive USB Protocol Reverse Engineering",
+   "d": "2016-12-04",
+   "v": 11787,
+   "s": 18086,
+   "vertical": false,
+   "desc": "http://github.com/cnlohr/libsurvive\n\nAttempting to finish reverse engineering of the raw HTC vive data.\n\nA surprise viewer appears an hour or two in!\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "gFyEbGQ88s4",
+   "t": "USB Messages on an HTC vive (2nd Event)",
+   "d": "2016-12-06",
+   "v": 3671,
+   "s": 14606,
+   "vertical": false,
+   "desc": "Trying to finish decoding the stream from the watchmen controllers.\n\nLook at the data as I am decoding it:\n\nhttps://gist.github.com/cnlohr/581c433f36f4249f8bbc9c2b6450ef0e\n\nGithub project:\nhttps://github.com/cnlohr/libsurvive\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "oHJkpNakswM",
+   "t": "\"Reverse Engineering\" the HTC Vive.",
+   "d": "2016-12-09",
+   "v": 34301,
+   "s": 1381,
+   "vertical": false,
+   "desc": "No one had yet gotten the protocol for the watchman controller on the HTC Vive. We wanted to. This is a story about the two livestreams that found that protocol.  Ben who helped us along and the protocol itself.  \n\nGist: https://gist.github.com/cnlohr/581c433f36f4249f8bbc9c2b6450ef0e\nLibSurvive: https://github.com/cnlohr/libsurvive\nLivestream 1: https://www.youtube.com/watch?v=sv_AVI9kHN4\nLivestream 2: https://www.youtube.com/watch?v=gFyEbGQ88s4\nPatreon: http://patreon.com/cnlohr"
+  },
+  {
+   "id": "RExji5EtSzE",
+   "t": "HTC Vive Livestream: Phase 2: Getting Camera Positions",
+   "d": "2016-12-13",
+   "v": 3599,
+   "s": 15077,
+   "vertical": false,
+   "desc": "This time, broadacst from a cabin in the middle of nowhere, Virginia!  We learn more about the lighting data from the HTC vive, and get some realtime interaction with the lightcap data from the headset.\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "fces1O7kWGY",
+   "t": "Vive Hacking Livestream: Episode 2.2 - More Lighthouse Shenanigans",
+   "d": "2016-12-18",
+   "v": 3967,
+   "s": 17434,
+   "vertical": false,
+   "desc": "Another round of live hacking trying to make forward progress with finding the locations of the lighthouses.  This is for the libsurvive project.  Check it out and participate in the community project over at http://github.com/cnlohr/libsurvive !\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "hHt3twW5_fI",
+   "t": "Vive Live Stream #5: Let's collect some data and fix some bugs",
+   "d": "2016-12-24",
+   "v": 3390,
+   "s": 11619,
+   "vertical": false,
+   "desc": "Well, some of the bugs have finally caught up with us and it's time we go take a fresh look at some aspects of libsurvive.  Join us!\n\nGithub issue pertaining to this livestream: https://github.com/cnlohr/libsurvive/issues/3\n\nGithub project:\nhttps://github.com/cnlohr/libsurvive\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "rcULgXu4OSs",
+   "t": "Battery + IMU + ESP = esplocalizer",
+   "d": "2016-12-30",
+   "v": 18619,
+   "s": 234,
+   "vertical": false,
+   "desc": "Ever want to do a project with an ESP where having a battery would be helpful?  Measure magnetic flux?  Which way is down?  What's going on now?  Altitude?  Temperature?  Well, this is it.  Here is the ESPLocalizer!\n\nhttp://www.ebay.com/itm/112253286481\n\nhttp://github.com/cnlohr/esplocalizer"
+  },
+  {
+   "id": "sQcOFtQBlzw",
+   "t": "Adding Wifi to a $3 Multimeter: Fireside Hacks",
+   "d": "2017-02-06",
+   "v": 21997,
+   "s": 19110,
+   "vertical": false,
+   "desc": "Will we succeed?  Probably not.  Let's try anyway!\n\nGithub will be here: https://github.com/cnlohr/kelvindmmwifi\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "JsfkNRFkFM4",
+   "t": "Vive Live Stream #6 - Progress summary and intersections!",
+   "d": "2017-02-07",
+   "v": 3107,
+   "s": 13490,
+   "vertical": false,
+   "desc": "BIG THANKS TO  @stareintheair on Twitter for fixing the sync for this video!!!  I've started using OBS, so hopefully this kind of problem won't continue. -- A lot has been done since Livestream #5.   We do a recap of what's been done and make some headway.  Then, we start making inroads to actual tracking.  Finding intersections and the like!\n\nhttps://github.com/cnlohr/libsurvive\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "DbjlStyMmaY",
+   "t": "A very wifi lawn - real-time signal strength",
+   "d": "2017-02-16",
+   "v": 31557,
+   "s": 742,
+   "vertical": false,
+   "desc": "We took about 175 MAGFest 2017 Swadges and put them on my lawn.  Then we had one badge that controlled the rest.  Depending on the signal strength to each swadge, they would light up a different color with purple being the strongest and red being the weakest.\n\nPatreon (to support videos like this one): https://www.patreon.com/cnlohr\n\nVideo 1 (an explanation) https://www.youtube.com/watch?v=8WCIu-3OFEQ"
+  },
+  {
+   "id": "8WCIu-3OFEQ",
+   "t": "2,000 ESP8266's for MAGFest",
+   "d": "2017-02-16",
+   "v": 20159,
+   "s": 2154,
+   "vertical": false,
+   "desc": "At MAGFest 2017, we wanted to do something special for the supporters and staff.  We got 2,000 swadges made.  Not just any old swag badges, but ones that could wirelessly communicate and light up!  Here's our story of how.\n\nPart 2: https://www.youtube.com/watch?v=DbjlStyMmaY"
+  },
+  {
+   "id": "EKSHvO3QSWY",
+   "t": "libsurvive Livestream #7 - Review and Path Forward",
+   "d": "2017-02-26",
+   "v": 2303,
+   "s": 4642,
+   "vertical": false,
+   "desc": "We went for another livestream, with Axlecrusher! This time covering what has been done and little bits of the way forward!\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "Qo7BD2Os6Xs",
+   "t": "The making of CNLohr's Computer Case",
+   "d": "2017-03-10",
+   "v": 28309,
+   "s": 720,
+   "vertical": false,
+   "desc": "Figured I'd go make this video and put it up, since I had tons of video footage.  I made my own computer.  First time in a long time I've owned anything more than a laptop.  GTX 970, Intel Core i5 6600K... I wish I knew Ryzen was about to come out when I put it all together.\n\n1/4\" thick acrylic, with some beefy #10 standoffs make this case quite sturdy.   Don't forget to check out the video of it running colorchord! https://www.youtube.com/watch?v=EkZlxNQg4ag\n\nCredit for the sound used later in the video goes here: https://freesound.org/people/dobroide/sounds/100387/\n\nThanks Adam Geary for doi"
+  },
+  {
+   "id": "EkZlxNQg4ag",
+   "t": "CNLohr's new computer case, running ColorChord!",
+   "d": "2017-03-10",
+   "v": 7511,
+   "s": 177,
+   "vertical": false,
+   "desc": "\"Fall Down to You\" by Electric Joy Ride (feat. Brenton Mattheus) https://www.facebook.com/ElectricJoyRide\n\nRunning on my new custom computer case.  Here's the video about the making of the case and details about it: https://www.youtube.com/watch?v=Qo7BD2Os6Xs"
+  },
+  {
+   "id": "nSbEltdH9vM",
+   "t": "Let's get some work done! LibSurvive #8",
+   "d": "2017-03-12",
+   "v": 4126,
+   "s": 21997,
+   "vertical": false,
+   "desc": "We have a lot done, time to start duct taping things together and seeing what we can come up with!\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "IIYj1Ig_gz8",
+   "t": "LibSurvive #9B: I am not an analog engineer",
+   "d": "2017-03-27",
+   "v": 3355,
+   "s": 8799,
+   "vertical": false,
+   "desc": "My first stab at looking at making some hardware.\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "60sGTd8T-KY",
+   "t": "LibSurvive #9: I am not an analog engineer",
+   "d": "2017-03-27",
+   "v": 3942,
+   "s": 12525,
+   "vertical": false,
+   "desc": "My first stab at looking at making some hardware.\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "l0u_nH1MrKQ",
+   "t": "LameNet - Simulating Awful Internet (Neon FM)",
+   "d": "2017-04-22",
+   "v": 8184,
+   "s": 299,
+   "vertical": false,
+   "desc": "When selling NeonFM globally, we run into situations where the internet is awful, we needed to make the gaming experience smooth. It took some re-working to get the system to run well.  We decided to simulate awful internet at our office.  You can now simulate awful internet, too.\n\nGet NeonFM Yourself:\nhttps://itunes.apple.com/us/app/neon-fm-music-gaming-arcade-rhythm-game/id1020882693?mt=8\nhttps://play.google.com/store/apps/details?id=com.Unite.NeonFM\n\nSource code for shown tools:\nhttp://github.com/cnlohr/lamenet\nhttp://github.com/cnlohr/cnping"
+  },
+  {
+   "id": "2Z4ZzfL5ahY",
+   "t": "RGB + Yellow (RGBY) Addressable LEDs (SK6812-style)",
+   "d": "2017-05-07",
+   "v": 13139,
+   "s": 148,
+   "vertical": false,
+   "desc": "I recently found a provider who claimed to sell SK6812 addressable LEDs, like \"neopixels\" but instead of just having an R, G and B channel, they included a yellow/amber channel. \n\nBuy it on ebay! http://www.ebay.com/itm/-/172664995172\n\nDiagrams are from the WS2812B Datasheet, SK6812 Datasheet and from Wikipedia's page on CIE1931."
+  },
+  {
+   "id": "dVXpHKktbzM",
+   "t": "libsurvive - May 2017",
+   "d": "2017-05-11",
+   "v": 5637,
+   "s": 359,
+   "vertical": false,
+   "desc": "Check out libsurvive: http://github.com/cnlohr/libsurvive\n\nGive it a shot.\n\nWhat will you contribute?"
+  },
+  {
+   "id": "8hqviGMlU7I",
+   "t": "libsurvive livestream #10 - bring up the ESP",
+   "d": "2017-05-15",
+   "v": 4592,
+   "s": 12647,
+   "vertical": false,
+   "desc": "After getting the bugs out of stream #9, stream 10 explores being able to actually sample the lighthouse data on the ESP.  Not much processing yet, but at the end once the ground loop is destroyed, the data is gorgeous!  Check it out! \n\nhttps://github.com/cnlohr/libsurvive/issues/65\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "NfeDs5ce1PA",
+   "t": "PCBs from PCBWay in 108 hours?!?!",
+   "d": "2017-05-23",
+   "v": 12400,
+   "s": 230,
+   "vertical": false,
+   "desc": "Check out the RGBY LED video here: https://www.youtube.com/watch?v=2Z4ZzfL5ahY\n\nPatreon here: http://patreon.com/cnlohr\n\nYou can buy this board here (limited quantity): http://www.ebay.com/itm/-/172691743065?  (relisted)"
+  },
+  {
+   "id": "vH42GIDszHY",
+   "t": "Vive development prototypes from Valve.",
+   "d": "2017-06-20",
+   "v": 22285,
+   "s": 767,
+   "vertical": false,
+   "desc": "Much to my surprise Alan Yates from Valve sent me two boxes.  Boxes chock full of awesome Vive gear from their prototypes.  Check it out as I open it all up!"
+  },
+  {
+   "id": "Jhh1sttnUpE",
+   "t": "CNLohr's Vive Box",
+   "d": "2017-06-29",
+   "v": 4998,
+   "s": 353,
+   "vertical": false,
+   "desc": "I love taking my Vive everywhere.  Letting everyone experience the wonder of room-scale VR.  Often I take it to youth group at my church.  When I do, it takes a long time to break down, several boxes, and difficult to set up.  I solved that by making my vive box.  An all-in one container for my whole VR setup!\n\nSource: https://cnlohr.net/pubsvn/projects/things/tightbox/"
+  },
+  {
+   "id": "XCxtt0gh_ps",
+   "t": "I'm a MAGLabs 2017 (Sept 2,3)",
+   "d": "2017-09-02",
+   "v": 4479,
+   "s": 132,
+   "vertical": false,
+   "desc": "I've been helping out a lot with MAGLabs.  Mostly with the ESP8266-based swadges!  But I'm hoping to hang out!  Come on by!  http://labs.magfest.org\n\nSwadges/ESP8266 Badges for full-weekend tickets only (not single-day passes)\n\nThanks to Greg and Sheva for recording most of the footage!  And to the whole research team here at MAGLabs for putting this crazy event on!"
+  },
+  {
+   "id": "o7CYATVZTmE",
+   "t": "I got tantalum caps from the wrong source",
+   "d": "2017-12-12",
+   "v": 14709,
+   "s": 446,
+   "vertical": false,
+   "desc": "First: Anyone have a legit high-speed camera.  I'd love to see some of them goin off on a real high speed camera!\n\nI am working on a project where I'll need to be making very large orders, so I figured I would try some sources first before going whole-hog.  Thankfully, I DID!  By checking this source beforehand, I was able to find out that the capacitors were grossly mis-marked.\n\nPS.  Awesome talk on capacitor technology: https://hackaday.com/2016/07/09/capacitors-are-simple-right/"
+  },
+  {
+   "id": "CGKOtI00NQ4",
+   "t": "Straightening out Christmas lights with a reflow station",
+   "d": "2017-12-12",
+   "v": 18914,
+   "s": 35,
+   "vertical": false,
+   "desc": "I hate squirrel-y Christmas lights.  Not on my house.\n\nRealistically, this is totally unnecessary.  In the long run it only makes them a little straighter.  I don't recommend this.\n\nextra info:  Temp setting was 380, air flow was pretty high.  Be careful! Leaving it on one part of the string too long will cause it to turn black!"
+  },
+  {
+   "id": "_LnZrXrdC00",
+   "t": "Cypress FX3 as a Possible Logic Analyzer",
+   "d": "2017-12-31",
+   "v": 20488,
+   "s": 684,
+   "vertical": false,
+   "desc": "(Or how I leaned what spite coding is!)\n\nUpdate Dec 31 @ 3AM: Now, client-side stuff works in Linux and Windows.  Same sweet sweet 200 MB/sec stream.\n\nhttp://github.com/cnlohr/fx3fun\nPatreon: https://www.patreon.com/cnlohr\nCypress FX3 Devkit: https://www.digikey.com/product-detail/en/cypress-semiconductor-corp/CYUSB3KIT-003/428-3347-ND/4989179\n\nSoftware is working in windows with the canned CyUSB3.sys drivers in Windows."
+  },
+  {
+   "id": "I3lJWcRSlUA",
+   "t": "Aggressively Low Power with the ESP8266",
+   "d": "2018-01-16",
+   "v": 81368,
+   "s": 618,
+   "vertical": false,
+   "desc": "I wanted to see how low power the ESP8266 could be if it was no longer constrained by the infrastructure of 802.11.  The results were shocking.  Power savings was INCREDIBLE.  Watch this video to see the results and my process.\n\nTo support projects like this and get early access, visit my patreon:  http://patreon.com/cnlohr\n\nRepositories of interest:\nhttps://github.com/cnlohr/tplink-raw-wifi\nhttps://github.com/cnlohr/MinEspSDKLib\n\nWatch my test, live: https://docs.google.com/spreadsheets/d/1oay41nWtpytSJAVGPSehMkfOp5g8D0GKNWIzqUzic_0/edit?usp=sharing  (NOTE: I will be trying different calibrat"
+  },
+  {
+   "id": "OZ_YPILt_Jo",
+   "t": "Serial terminal into a vive lighthouse.",
+   "d": "2018-01-26",
+   "v": 12793,
+   "s": 754,
+   "vertical": false,
+   "desc": "This video was recorded on May 27, 2017.  I just didn't get to uploading it until now.  Sorry guys.\n\nESP8266 Lighthouse: https://github.com/cnlohr/esp8266lighthouse\n\nDiscord invite: https://discordapp.com/invite/7QbCAGS"
+  },
+  {
+   "id": "t8fBcNmglhc",
+   "t": "Using Livechat to control X10 Home Automation Devices",
+   "d": "2018-03-04",
+   "v": 4384,
+   "s": 32809,
+   "vertical": false,
+   "desc": "Watch as viewers hack the X10 protocol using livechat, live! Skip to 8:30:05 for where success happens!\n\nhttps://github.com/cnlohr/cnlohr_social_media_tools/\n\nDylan's ESP8266 x10 code:  https://github.com/dylwhich/esp82x10\n\nor join the discord : https://discordapp.com/invite/7QbCAGS\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "4QZOskGOzoE",
+   "t": "libsurvive livestream #11 - Let's get our bearings again!",
+   "d": "2018-03-14",
+   "v": 2447,
+   "s": 27150,
+   "vertical": false,
+   "desc": "Mark, Dylan and now we're including Abhijeet doing some more wacky lighthouse-related experiments.\n\nDiscord: https://discordapp.com/invite/7QbCAGS\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "7JmnJ2LWCaM",
+   "t": "LibSurvive Livestream #12 - OrangePi Madness!",
+   "d": "2018-03-23",
+   "v": 2047,
+   "s": 22720,
+   "vertical": false,
+   "desc": "Edited down from the original livestream, we cover everything that's happened in libsurvive the last few weeks, port rawdraw to the orange pi _and_ get VR running on it!\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "azyt_Vt96bg",
+   "t": "Wireless Vive with an Orange Pi (libsurvive #13)",
+   "d": "2018-04-01",
+   "v": 4285,
+   "s": 10109,
+   "vertical": false,
+   "desc": "Tune in today, April 1st to see us trying to make a totally wireless Vive setup using an Orange Pi! \n\nSpreadgine: https://github.com/cnlohr/spreadgine\nlibsurvive: https://github.com/cnlohr/libsurvive\n\nHint: It worked!\n\nDon't forget to join libsurvive! https://discordapp.com/invite/7QbCAGS\n\nSupport me on Patreon https://www.patreon.com/cnlohr.\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "edgF01qTudw",
+   "t": "Vive without the tether (or desktop PC!)",
+   "d": "2018-04-02",
+   "v": 7238,
+   "s": 146,
+   "vertical": false,
+   "desc": "Yep.  Totally.  No wires.  Just vive.  (And an OrangePi One) :-D\n\nLivestream: https://www.youtube.com/watch?v=azyt_Vt96bg\nSpreadgine: https://github.com/cnlohr/spreadgine\nlibsurvive: https://github.com/cnlohr/libsurvive\nJoin libsurvive! https://discordapp.com/invite/7QbCAGS"
+  },
+  {
+   "id": "eSN8ArUFUzc",
+   "t": "Two algorithms: head-to-head (libsurvive april 2018)",
+   "d": "2018-04-13",
+   "v": 6512,
+   "s": 347,
+   "vertical": false,
+   "desc": "LibSurvive is an open source lighthouse tracking system aimed at supporting the HTC Vive.  Check out the github here: http://github.com/cnlohr/libsurvive\n\nSee the video about the OrangePi being connected to vive here: https://www.youtube.com/watch?v=edgF01qTudw\n\nJoin our discord: https://discordapp.com/invite/7QbCAGS"
+  },
+  {
+   "id": "16NSQORHRqU",
+   "t": "Making tools to make programming livestreams more fun",
+   "d": "2018-05-09",
+   "v": 4222,
+   "s": 13620,
+   "vertical": false,
+   "desc": "We're going to be working on my \"cnlohr_social_media_tools\" toolset in this livestream today... Including the legal use of music!  Come out to see some live coding as well as maybe picking up some tricks for your livestreams! \n\nAll code will be updated periodically here: https://github.com/cnlohr/cnlohr_social_media_tools\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "8YPdmgOXnPM",
+   "t": "Vive 2.0 Lighthouse Reverse Engineering Pt 2",
+   "d": "2018-07-22",
+   "v": 5767,
+   "s": 6864,
+   "vertical": false,
+   "desc": "We're going to be opening the Vive 2.0 prototype lighthouses and try reading the bitstream with an esp8266 and a TS4231.  Let's see where we get!\n\nJoin the issue: https://github.com/cnlohr/esptracker/issues/1\nOR Join the discussion in Discord: https://discordapp.com/invite/7QbCAGS\n\nAll songs in video are shown on-screen while the song is playing. Specific songs included for copyright purposes are as follows:\n\nTobu - Calling\nTobu - Melomania\nTobu - Colors\nTobu - Cacao\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "FtXkjPcmENA",
+   "t": "Vive 2.0 Lighthouse Reverse Engineering Pt 1.",
+   "d": "2018-07-22",
+   "v": 8177,
+   "s": 9584,
+   "vertical": false,
+   "desc": "We're going to be opening the Vive 2.0 prototype lighthouses and try reading the bitstream with an esp8266 and a TS4231.  Let's see where we get!\n\n\nJoin the issue: https://github.com/cnlohr/esptracker/issues/1\nOR Join the discussion in Discord: https://discordapp.com/invite/7QbCAGS\n\nAll songs in video are shown on-screen while they are playing.  Specific additional songs (listed below for copyright rules)\n\nTobu - Calling\nTobu - Melomania\nTobu - Colors\nTobu - Cacao\nDeclan DP - Journey\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "JP5maGaumYo",
+   "t": "Tearing down a Vive Lighthouse 2.0.",
+   "d": "2018-07-27",
+   "v": 19867,
+   "s": 9350,
+   "vertical": false,
+   "desc": "We're going to be opening the Vive 2.0 prototype lighthouses and seeing if we can get a source for the data stream.\n\nCheck out what we know here: https://github.com/cnlohr/esptracker/issues/1\nOr join us on discord here: https://discordapp.com/invite/7QbCAGS\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "Ij1oqvcllUs",
+   "t": "First shot at trying to decode Lighthouse 2.0 Data",
+   "d": "2018-08-06",
+   "v": 5882,
+   "s": 8902,
+   "vertical": false,
+   "desc": "We got a lighthouse open, got an FX3 to read the data.  Now, we need to decode that data. Let's get started.\n\nCheck out what we know here: https://github.com/cnlohr/esptracker/issues/1\nOr join us on discord here: https://discordapp.com/invite/7QbCAGS\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "aKgLqIW65oc",
+   "t": "My Pive, more on Raspberry Pi + Vive.",
+   "d": "2018-08-08",
+   "v": 15613,
+   "s": 356,
+   "vertical": false,
+   "desc": "I recorded another video, to extend my teaser sort of thing https://www.youtube.com/watch?v=b6TABljtaGA\n\nAll source code is available: Spreadgine: \nhttps://github.com/cnlohr/spreadgine\nLibSurvive: https://github.com/cnlohr/libsurvive commit 7a16dc316c23d55453174c56fbff89f043db3552\n\nYou will need to tweak your system settings to output on the pi. Please see the \"docs\" folder in spreadgine. You can also get a copy of the Raspi 8GB SD Card image, follow directions over at the spreadgine docs folder."
+  },
+  {
+   "id": "b6TABljtaGA",
+   "t": "My Raspberry Pive (Pi running the HTC Vive) Part 1",
+   "d": "2018-08-08",
+   "v": 16461,
+   "s": 65,
+   "vertical": false,
+   "desc": "More explanation here: https://youtu.be/aKgLqIW65oc\n\nAll source code is available: \nSpreadgine: https://github.com/cnlohr/spreadgine\nLibSurvive: https://github.com/cnlohr/libsurvive commit 7a16dc316c23d55453174c56fbff89f043db3552 \n\nYou will need to tweak your system settings to output on the pi. Please see the \"docs\" folder in spreadgine.  You can also get a copy of the Raspi 8GB SD Card image, follow directions over at the spreadgine docs folder."
+  },
+  {
+   "id": "2eOsN096ZbE",
+   "t": "Fun with the ESP8266's BBPLL",
+   "d": "2019-01-03",
+   "v": 34843,
+   "s": 236,
+   "vertical": false,
+   "desc": "I tried underclocking the BBPLL (Baseband PLL) inside an ESP8266, which slows all of its peripherals, INCLUDING the baseband circuitry.  This royally messes with all of the RF circuitry, but somehow the ESPs can still talk to each other despite horribly violating the 802.11 standards!   \n\nhttps://github.com/cnlohr/esp8266oddclock"
+  },
+  {
+   "id": "MOP8I-7rA_8",
+   "t": "Unit-E's Luxetron running ColorChord",
+   "d": "2019-01-14",
+   "v": 11474,
+   "s": 179,
+   "vertical": false,
+   "desc": "Decided to make a colorchord mode that would run on Unit-E's luxehedron ( http://luxehedron.com/ ). It worked out surprisingly well!\n\nColorChord is an open source chromatic sound-to-light conversion tool for assigning LEDs to sound intensity mapped into an HSV colorspace. https://github.com/cnlohr/colorchord If you want to add colorchord to any of your own projects commercial or non-commercial, it is free for use!\n\nCheck out Declan DP's video (And channel!) Much thanks for him granting permission to use!\n\nMusic | Adventure by Declan DP\nWatch: https://youtu.be/Tlqtaf8wp8k\nLicense: https://licen"
+  },
+  {
+   "id": "TjCUs_oYcsY",
+   "t": "SpyTag an ESP8266 Humans v Zombies-like game",
+   "d": "2019-02-01",
+   "v": 27891,
+   "s": 349,
+   "vertical": false,
+   "desc": "At MAGStock last year, I saw a bunch of people playing a game, and I had to meet its creator, Aaron https://twitter.com/adangert - It was an ESP8266-based game, written on the Arduino IDE which made use of the browse-for-networks feature and putting ESPs in to AP+STA mode.  The game has evolved a bit, and you can check it out here: http://www.spytaggame.com/"
+  },
+  {
+   "id": "j2ntU1xiDCg",
+   "t": "Reali\u035f\u0329\u0325\u035at\u031fy\u035e\u0356\u0348\u0326\u0316 \u034d\u032f\u031f\u0318I\u0327\u0348\u033c\u032e\u0318s\u0320\u0339\u035an'\u0331\u0329\u0324\u0333\u0345\u0324t\u0360\u0319 \u0328\u032e\u031c\u0318\u035a\u0345\u032eB\u0338\u0351\u0323\u0353r\u0335\u034c\u033co\u0335\u0357\u031b\u0328k\u0335\u0300\u035ce\u0335\u0357\u032dn\u0335\u0314\u0340\u0322\u034d",
+   "d": "2020-01-07",
+   "v": 11751,
+   "s": 309,
+   "vertical": false,
+   "desc": "cnovr 2020-01-06 22 44 28 source material obs raw capture\nEverything seems ok now\nReality isn't broken\n\n\nJosh's channel https://www.youtube.com/user/axlecrusher\nAnother video https://www.youtube.com/watch?v=BgvZzKsObTY"
+  },
+  {
+   "id": "Z4mfnhCiAjA",
+   "t": "CNOVR Live Stream #1 (Getting Set Up)",
+   "d": "2020-01-28",
+   "v": 3115,
+   "s": 14892,
+   "vertical": false,
+   "desc": "We will be experimenting in VR with cnovr and mixed reality. https://github.com/cnlohr/cnovr\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback."
+  },
+  {
+   "id": "2kFVJMzMXdc",
+   "t": "CNOVR Livestream #2 - Throwing Science At The Wall",
+   "d": "2020-02-05",
+   "v": 3021,
+   "s": 11990,
+   "vertical": false,
+   "desc": "We're working with cnovr in the second VR livestream - https://github.com/cnlohr/cnovr come check it out hang out for some coding and VR misadventures.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://dec"
+  },
+  {
+   "id": "a2DjjG9wVY0",
+   "t": "What is CNOVR (Intro #1)",
+   "d": "2020-02-08",
+   "v": 16889,
+   "s": 793,
+   "vertical": false,
+   "desc": "Give it a shot: https://github.com/cnlohr/cnovr\n\n\nI recently made a video, Reali\u035f\u0329\u0325\u035at\u031fy\u035e\u0356\u0348\u0326\u0316 \u034d\u032f\u031f\u0318I\u0327\u0348\u033c\u032e\u0318s\u0320\u0339\u035an'\u0331\u0329\u0324\u0333\u0345\u0324t\u0360\u0319 \u0328\u032e\u031c\u0318\u035a\u0345\u032eB\u0338\u0351\u0323\u0353r\u0335\u034c\u033co\u0335\u0357\u031b\u0328k\u0335\u0300\u035ce\u0335\u0357\u032dn\u0335\u0314\u0340\u0322\u034d https://youtu.be/j2ntU1xiDCg that used CNOVR, and had some livestreams.  I made a trailer for this video:  https://youtu.be/j2ntU1xiDCg - so finally - here is an explanation of what CNOVR actually is."
+  },
+  {
+   "id": "fCiY-6XVcvE",
+   "t": "CNOVR Trailer #1",
+   "d": "2020-02-08",
+   "v": 9576,
+   "s": 77,
+   "vertical": false,
+   "desc": "cnovr is an open source C VR game engine.  https://github.com/cnlohr/cnovr \n\nCheck the video explaining cnovr here: https://www.youtube.com/watch?v=a2DjjG9wVY0\n\nAnd the livestreams:\nhttps://www.youtube.com/watch?v=Z4mfnhCiAjA\nhttps://www.youtube.com/watch?v=2kFVJMzMXdc\n\nThe song used was Declan DP - Indiana https://www.youtube.com/watch?v=hQnap_waSWo"
+  },
+  {
+   "id": "YVNRo8xhyEQ",
+   "t": "CNOVR #3 - Let's Marathon Making a Game",
+   "d": "2020-02-16",
+   "v": 6536,
+   "s": 25506,
+   "vertical": false,
+   "desc": "https://github.com/cnlohr/cnovr\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/expedition\n\nMusic | Wonderful by Declan DP\nWatch: https://youtu.be/c91Y9IsJDhM\nLicense: https://license.decland"
+  },
+  {
+   "id": "Cz_LvaN36Ag",
+   "t": "Android WITHOUT JAVA",
+   "d": "2020-05-04",
+   "v": 120516,
+   "s": 118,
+   "vertical": false,
+   "desc": "Apparently I forgot to make a youtube video about this, but I have a new process by which I make android apps in C.  You can check it out and not have to worry about a line of Java code ever again! No ninja, cmake, etc.  No need to use the weird wizards or studio to configure things, just edit your XML, say \"make run\" and go.\n\n\nhttps://github.com/cnlohr/rawdrawandroid"
+  },
+  {
+   "id": "Y3O6m3otNO0",
+   "t": "Tensegrity Lamp Running ColorChord on Android with USB in C",
+   "d": "2020-05-20",
+   "v": 17914,
+   "s": 613,
+   "vertical": false,
+   "desc": "There's a bunch of links for what's going on in this project.  Links are all below. At the time of this video being published only one person claimed one of the tensigral lamps.\u00a0\n\nPatreon: https://www.patreon.com/cnlohr\n\nAndroid Play Link: https://play.google.com/store/apps/details?id=org.cnlohr.colorchord\n\nJoin the discord! https://discord.com/invite/ZUWdwXk\n\nhttps://github.com/cnlohr/rawdrawandroid\nhttps://github.com/cnlohr/androidusbtest\nhttps://github.com/cnlohr/colorchord\nhttps://github.com/cnlohr/tensigral_lamp"
+  },
+  {
+   "id": "5SrSwjO9qD0",
+   "t": "CNOVR #4 - Making an Art in VR",
+   "d": "2020-07-26",
+   "v": 7055,
+   "s": 15253,
+   "vertical": false,
+   "desc": "https://github.com/cnlohr/cnovr\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/expedition\n\nMusic | Wonderful by Declan DP\nWatch: https://youtu.be/c91Y9IsJDhM\nLicense: https://license.decland"
+  },
+  {
+   "id": "foLtcEs4Uos",
+   "t": "Discussing moving No! Euclid! to VR.",
+   "d": "2020-08-03",
+   "v": 7022,
+   "s": 25115,
+   "vertical": false,
+   "desc": "We're going to examine the possibility of moving No! Euclid! to VR.\n\n\nAll songs in video are shown on-screen while they are playing.  Specific additional songs (listed below for copyright rules)\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license."
+  },
+  {
+   "id": "KZWIiaFzfQA",
+   "t": "Making an ePaper gift for mom",
+   "d": "2020-08-06",
+   "v": 4632,
+   "s": 7725,
+   "vertical": false,
+   "desc": "Using the waveshare full color ePaper Display.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/expedition\n\nMusic | Wonderful by Declan DP\nWatch: https://youtu.be/c91Y9IsJDhM\nLicense: https://"
+  },
+  {
+   "id": "8-8mtGOQ-V4",
+   "t": "Making a gift for mom, with e-Paper",
+   "d": "2020-08-06",
+   "v": 3133,
+   "s": 2540,
+   "vertical": false,
+   "desc": "Music | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/expedition\n\nMusic | Wonderful by Declan DP\nWatch: https://youtu.be/c91Y9IsJDhM\nLicense: https://license.declandp.info\nDownload/Stream: https://de"
+  },
+  {
+   "id": "uIqrubOE1GA",
+   "t": "Playing with Minecraft on an ESP8266",
+   "d": "2020-08-14",
+   "v": 8895,
+   "s": 8295,
+   "vertical": false,
+   "desc": "And gonna see if we can get an ePaper display in the mix.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/expedition\n\nMusic | Wonderful by Declan DP\nWatch: https://youtu.be/c91Y9IsJDhM\nLicens"
+  },
+  {
+   "id": "LiKNRBIcGII",
+   "t": "Installing the esp82xx toolchain (ESP8266 development)",
+   "d": "2020-08-17",
+   "v": 12304,
+   "s": 774,
+   "vertical": false,
+   "desc": "Minecraft, Channel3 and all of my other projects.  Now you can build them, too!\n\nCheck it out: https://github.com/cnlohr/esp82xx\nMinecraft server in a redstone block: https://www.youtube.com/watch?v=R1zx0xV0pWw \nChannel 3: https://www.youtube.com/watch?v=bcez5pcp55w\n\nThis was a per-charge video on Patreon, given several days in advance.  If you want to see videos in advance, check out my patreon here: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "FrPT_xJY5Cg",
+   "t": "Swadge Team 4: MAGFest Swadges in VR",
+   "d": "2020-09-17",
+   "v": 3202,
+   "s": 181,
+   "vertical": false,
+   "desc": "This year,  @MAGFest   might not be happening but we're still making swadges (with ESP8266s)!  I decided to see how hard it would be to take the swadge and bring it into VR.  It only took about 3 hours.  So, here goes.\n\nhttps://github.com/cnlohr/vrswadge\n\n\nhttp://magfest.org"
+  },
+  {
+   "id": "fbVMzmAWoGo",
+   "t": "esp8266_dmx_explorer: DMX with a web-based frontend + accepts raw UDP packets",
+   "d": "2020-09-21",
+   "v": 15222,
+   "s": 130,
+   "vertical": false,
+   "desc": "I hooked some ipixelLED LEDs up to an esp8266 swadge today.  It worked out quite well :)\n\nhttps://github.com/cnlohr/esp8266_dmx_explorer\nhttp://ipixel-leds.com/index.php?id=489\nDeclan DP With you: https://www.youtube.com/watch?v=Cr5RK_F5E84\nPATREON: https://patreon.com/cnlohr"
+  },
+  {
+   "id": "YawP9RjPcJA",
+   "t": "Trolling My Mom With an E-Paper Picture",
+   "d": "2020-10-28",
+   "v": 766666,
+   "s": 665,
+   "vertical": false,
+   "desc": "Ben, over at Applied Science made a video on e-paper displays and got me hooked on this thing.\nHere is the link to the code for this project: https://github.com/cnlohr/epaper_projects/tree/master/atmega168pb_waveshare_color\n\n\n\nSchematic: https://github.com/cnlohr/what_im_up_to/tree/master/atmega168_tb2 \n\n\nHere is the module:\nhttps://www.waveshare.com/product/displays/e-paper/epaper-1/5.65inch-e-paper-module-f.htm\n\n\nPatreon: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "CU8ugPsuXG8",
+   "t": "Poly LMN: Nanomaterials for Making Stretchy Circuit Boards",
+   "d": "2020-11-19",
+   "v": 16914,
+   "s": 776,
+   "vertical": false,
+   "desc": "**NEW** You can reach out to the research crew here: https://www.ues.com/elmnt\n\nPolyLMN is short for Polymerized Liquid Metal, a new nanomaterial that unlocks a world of new flexible conductive electronics with some crazy properties.\n\nSome publications:\n\nThrasher, C. J., Farrell, Z. J., Morris, N. J., Willey, C. L., Tabor, C. E., Mechanoresponsive Polymerized Liquid Metal Networks. Adv. Mater. 2019, 31, 1903864. https://doi.org/10.1002/adma.201903864 Page # 1903864\n\nhttps://www.af.mil/News/Article-Display/Article/1978632/air-force-scientists-discover-unique-stretchable-conductor/ \n\nTo contact "
+  },
+  {
+   "id": "5-lBJS9pKvM",
+   "t": "Refactoring Rawdraw Livestream",
+   "d": "2020-11-27",
+   "v": 5753,
+   "s": 19112,
+   "vertical": false,
+   "desc": "Rawdraw is a cross-platform (Or no platform at all) graphics library. We are going to be refactoring rawdraw, a complete overhaul, to take advantage of some of what I've learned more recently on conversion to WASM.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLice"
+  },
+  {
+   "id": "_H2ZX-y5J70",
+   "t": "Who's my little star, Friday?",
+   "d": "2020-12-16",
+   "v": 5307,
+   "s": 33,
+   "vertical": false,
+   "desc": "Normal content to continue next month."
+  },
+  {
+   "id": "slRmpTbchEI",
+   "t": "WebLIBC inital pass - Let's code a minimal Wasm libc replacement.",
+   "d": "2021-01-17",
+   "v": 5865,
+   "s": 19888,
+   "vertical": false,
+   "desc": "Wasm doesn't natively have a libc.  For both rawdrawwasm and espwebc3, I'd like to have access to a basic libc.  This is an effort to make that as minimal as possible.\n\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | E"
+  },
+  {
+   "id": "XeQkCKbch7c",
+   "t": "Writing a custom plaid shader for this goose in Unity for VRChat",
+   "d": "2021-02-21",
+   "v": 4677,
+   "s": 10242,
+   "vertical": false,
+   "desc": "My friend made this goose.  They drew it with some plaid, so I want to make an obnoxious plaid shader.\n\nMusic provided by http://spoti.fi/NCS - for NCS tracks, all other tracks are included in livechat playback.\n\n\nMusic | Everywhere by Declan DP\nWatch: https://youtu.be/70r7oqYmMFE\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/everywhere\n\n\nMusic | Invisible by Declan DP\nWatch: https://youtu.be/MwKIoX-DjSs\nLicense: https://license.declandp.info\nDownload/Stream: https://decdp.co.uk/invisible\n\nMusic | Expedition by Declan DP\nWatch: https://youtu.be/fDZ-LmExEXo\nLicense"
+  },
+  {
+   "id": "r6kM3tR03g4",
+   "t": "One hour. Two ways. C in Windows. OpenVR overlays from scratch.",
+   "d": "2021-04-07",
+   "v": 11095,
+   "s": 3355,
+   "vertical": false,
+   "desc": "Text Instructions Based On Video: https://gist.github.com/cnlohr/b0145b1a37c35015424a8fd99c1c7eed\nReference C OpenVR Overlay Implementation: https://gist.github.com/cnlohr/6e452dc6cc2df7f48d5ade66059358d9\nUse Discord link found here: https://github.com/cnlohr/cnovr\n\n\n0:00 Intro\n3:02 Installing TCC + Notepad++\n6:27 Installing GCC + VSCode\n13:32 Starting OpenVR Battery Monitor\n15:45 Getting started with rawdraw\n19:10 Setting up OpenVR\n21:08 Making a basic overlay\n38:01 Making the battery monitor"
+  },
+  {
+   "id": "hVWlgh8QP5s",
+   "t": "A Deep Dive into VR - A new Social Reality",
+   "d": "2021-12-02",
+   "v": 49991,
+   "s": 1641,
+   "vertical": false,
+   "desc": "Join me on my one year journey descending deep into the world of VRChat.  It was an incredible insight into the lives of hundreds of thousands of people who call this digital world their home.\n\nMaplist Below\n\nPlease do your own research before purchasing equipment!\n\nJoin the VRChat Discord here: https://discord.gg/vrchat\n\nJoin my Discord here: https://discord.gg/CCeyWyZ\n\n00:00 Introduction\n03:16 The Platform\n07:10 Avatars\n13:31 Creators\n20:52 My Story\n23:36 Connections\n25:34 TinyTurtles Interview\n\nMerlin - Camera Test https://vrchat.com/home/world/wrld_91805f98-fd56-497a-bf7e-772e434efb84\n1001"
+  },
+  {
+   "id": "YT5vB3UqU_E",
+   "t": "Writing a Really Tiny RISC-V Emulator",
+   "d": "2022-11-29",
+   "v": 74862,
+   "s": 1199,
+   "vertical": false,
+   "desc": "Github Project: https://github.com/cnlohr/riscv_emufun\nThe Assembly talk: https://www.youtube.com/watch?v=Gelf0AyVGy4\nTCC Installer: https://github.com/cnlohr/tinycc-win64-installer / https://github.com/cntools/Install-TCC\n.exe file was compressed with UPX (Alternate EXE Packer) for thumbnail.\n\nDiscord link: https://discord.gg/CCeyWyZ\n\nTerminal Font: AudioLink Console Heavy https://audiolink.dev/"
+  },
+  {
+   "id": "ThdOH-Z5KRI",
+   "t": "What if you emulate the emulator? #linux #riscv #shorts",
+   "d": "2022-11-30",
+   "v": 8988,
+   "s": 50,
+   "vertical": true,
+   "desc": "https://youtu.be/YT5vB3UqU_E\nTerminal Font: AudioLink Console Heavy https://audiolink.dev/"
+  },
+  {
+   "id": "uZMNK17VCMU",
+   "t": "But, Can It Run Doom?",
+   "d": "2022-12-04",
+   "v": 96392,
+   "s": 517,
+   "vertical": false,
+   "desc": "Original Video: https://www.youtube.com/watch?v=YT5vB3UqU_E\nRepo: https://github.com/cnlohr/mini-rv32ima\nJoshua Ashton's Video: https://www.youtube.com/watch?v=zi6osAtyaio\nTerminal Font: AudioLink Console Heavy https://audiolink.dev/\nEmdoom Repo: https://github.com/cnlohr/embeddedDOOM/"
+  },
+  {
+   "id": "VnZac6lA1_k",
+   "t": "Game Made for VR on a $1 Processor?",
+   "d": "2023-02-23",
+   "v": 24613,
+   "s": 1008,
+   "vertical": false,
+   "desc": "I document the process of making a multiplayer-cross-platform video game that has parts that run on everything from a tiny microcontroller to a high end VR setup.\n\nGithub links:\nhttps://github.com/cnlohr/swadge-vrchat-bridge\nhttps://github.com/cnlohr/esp32s2_dmx512_usb"
+  },
+  {
+   "id": "-4d3PgEXhdY",
+   "t": "Powering a Nixie Tube from USB with a 10\u00a2 RISC-V, the CH32V003",
+   "d": "2023-04-30",
+   "v": 63803,
+   "s": 595,
+   "vertical": false,
+   "desc": "Running a Nixie Tube off USB with a software-defined flyback power supply running on the CH32V003 RISC-V microcontroller.\n\nConsole Font: https://audiolink.dev/\nPatreon: https://www.patreon.com/cnlohr\nch32v003: https://github.com/cnlohr/ch32v003fun\ncnixxi: https://github.com/cnlohr/cnixxi  (Look in the firmware and nixitest1 folders)"
+  },
+  {
+   "id": "x73uFmvcBwI",
+   "t": "Trying to write a Bit-Banged USB Stack from Scratch",
+   "d": "2023-05-14",
+   "v": 11315,
+   "s": 25911,
+   "vertical": false,
+   "desc": "I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun\n\nWe will see how far we can get in about 6 hours."
+  },
+  {
+   "id": "M2s9SNby_bM",
+   "t": "2.5 Bit-Banged USB Stack from Scratch",
+   "d": "2023-05-17",
+   "v": 2252,
+   "s": 9028,
+   "vertical": false,
+   "desc": "I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "q4RMlwLv2F8",
+   "t": "2. Bit-Banged USB Stack from Scratch",
+   "d": "2023-05-17",
+   "v": 2342,
+   "s": 8231,
+   "vertical": false,
+   "desc": "I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "sZHF-vvelYY",
+   "t": "3: USB Bit Banging From Scratch: Bit Timings + CRC",
+   "d": "2023-05-19",
+   "v": 2425,
+   "s": 17454,
+   "vertical": false,
+   "desc": "I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun // Source code for this project: https://github.com/cnlohr/rv003usb\n\nDiscord: https://discord.gg/hdaxvfGd\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "vED38C6SaXQ",
+   "t": "3.0 USB Stack from Scratch (Bit Timings + CRC)",
+   "d": "2023-05-19",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": "I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun // Source code for this project: https://github.com/cnlohr/rv003usb\n\nDiscord: https://discord.gg/hdaxvfGd\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "AvJLSiZl7uw",
+   "t": "4: USB Bit Banging From Scratch: Reading in Frames",
+   "d": "2023-05-21",
+   "v": 2577,
+   "s": 19690,
+   "vertical": false,
+   "desc": "][.I am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun // Source code for this project: https://github.com/cnlohr/rv003usb\n\nDiscord: https://discord.gg/hdaxvfGd\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "qbfnBAqssxI",
+   "t": "5: USB Bit Banging From Scratch: Enumeration!",
+   "d": "2023-05-27",
+   "v": 4213,
+   "s": 26436,
+   "vertical": false,
+   "desc": "TL;DR: Goto 6:49:21\n\nI am going to be trying to write a software-only USB stack for the CH32V003, using this toolset: https://github.com/cnlohr/ch32v003fun // Source code for this project: https://github.com/cnlohr/rv003usb\n\nDiscord: https://discord.gg/djXHfbjj\n\nWe will see how far we can get in about 5 hours."
+  },
+  {
+   "id": "j-QazXghkLY",
+   "t": "rv003usb - bit banged USB on the ch32v003",
+   "d": "2023-06-01",
+   "v": 29587,
+   "s": 72,
+   "vertical": false,
+   "desc": "I believe I now have made the cheapest USB enabled microcontroller.  Check out this project's github here: https://github.com/cnlohr/rv003usb\n\nPatreon: https://patreon.com/cnlohr"
+  },
+  {
+   "id": "eIdHBDSQHyw",
+   "t": "How far can I broadcast LoRa packets WITHOUT a radio? - LoLRa",
+   "d": "2024-03-25",
+   "v": 224171,
+   "s": 2278,
+   "vertical": false,
+   "desc": "Code/Writeup/Resources: https://github.com/cnlohr/lolra\nLoLRa Merch: https://cnlohr-shop.fourthwall.com/\nPatreon: https://patreon.com/cnlohr\n\nMemes, in order of appearance: Tiny Paper Senior Chang, Trollface Rage Comic, Nerdy RF Mixer, 69-420, Sanic Gotta Go Fast, Midwit IQ Bell Curve, \u201cY U NO\u201d Guy, Feels Good, This Is Fine, Great Gatsby Reaction\n\nIf anyone wants to join my discord, feel free to ping me directly, we are open, but not public."
+  },
+  {
+   "id": "KNDRUWlsu0k",
+   "t": "Bit Banging LCD + Touch + USB on the ch32v003",
+   "d": "2024-12-17",
+   "v": 139101,
+   "s": 717,
+   "vertical": false,
+   "desc": "In this video, I use some insanely cheap parts to make a sub-$1-bill-of-materials device using ch32v003, RISC-V 48MHz ~10 cent processor to drive a raw LCD, as well as turning it into a touch sensor, and also communicating over USB back to a PC.\nSource Code / Docs: https://github.com/cnlohr/ch32v003_3digit_lcd_usb/\n\nSupport video creation on Patreon, here. My Patreon is per-video. https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "1vs_WxC2Odo",
+   "t": "The Worlds Cheapest Time Domain Reflectometer",
+   "d": "2026-05-29",
+   "v": 41697,
+   "s": 1033,
+   "vertical": false,
+   "desc": "What can you do with DMA, a timer and an ADC in a $0.12 ch32v006 microcontroller?  Turns out... a lot.  Using the technique used by sampling scopes, we can help an ADC bat wayyyy above its pay grade. \n\nhttps://github.com/cnlohr/ch32fun\nhttps://github.com/cnlohr/cntools (for usefulcmd/dyngraph)\nPatreon: https://www.patreon.com/cnlohr"
+  },
+  {
+   "id": "M0APqHxFpB8",
+   "t": "Tradcoding bittymips + funbox, an embedded OS",
+   "d": "2026-08-16",
+   "v": 3539,
+   "s": 20204,
+   "vertical": false,
+   "desc": "A livestream where I work through some of my current project, a hand-written novelty OS."
+  },
+  {
+   "id": "QDciS8xn6jo",
+   "t": "Tradcoding an OS into Shadertoy",
+   "d": "2026-08-31",
+   "v": 9780,
+   "s": 22279,
+   "vertical": false,
+   "desc": "A livestream where I work through some of my current project, a hand-written novelty OS... And this time we're trying to get it running in shadertoy."
+  },
+  {
+   "id": "LTdoipbQEHo",
+   "t": "Can we run funbox on Shadertoy?",
+   "d": "2026-09-01",
+   "v": 5059,
+   "s": 14582,
+   "vertical": false,
+   "desc": "A livestream where I work through some of my current project, a hand-written novelty OS... And this time we're trying to get it running in shadertoy."
+  }
+ ]
+}

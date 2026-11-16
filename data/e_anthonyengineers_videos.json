@@ -1,0 +1,54 @@
+{
+ "channel": {
+  "id": "UCy0D5Le7zQgZny9ntH0nSHw",
+  "title": "Anthony Engineers",
+  "handle": "@anthonyengineers",
+  "description": "My name is Anthony Limiero, and sometimes I like to engineer things.",
+  "since": "2024-06-13",
+  "avatar": "https://yt3.ggpht.com/BQrgpetWZrqueHaq45ZTS_uscoL06U8pwDhIXBTzNNSODe7y2hkBGir9uqCeJcvb6V3JK0oF0Q=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "5019",
+  "subscriberCount": "186",
+  "hiddenSubscriberCount": false,
+  "videoCount": "4"
+ },
+ "videos": [
+  {
+   "id": "ml6ICW4JX5o",
+   "t": "World's Strangest Tricycle Race - Georgia Tech Mini 500",
+   "d": "2024-06-15",
+   "v": 877,
+   "s": 691,
+   "vertical": false,
+   "desc": "For more than 50 years, Georgia Tech has been racing tricycles as a homecoming tradition. Follow our team through the journey of building a trike and attempting to win the race during the hilariously ridiculous tradition that is \"The Mini 500.\"\n\n----------------------------\n\nMy name is Anthony Limiero, and I make engineering content on YouTube. I'm also an extreme unicyclist and a self-published fantasy author. If you're interested in any of those things, check out the links below:\n\nAnthony Engineers: https://www.youtube.com/@AnthonyEngineers\nThe Unicrew: https://www.youtube.com/c/TheUnicrew\nS"
+  },
+  {
+   "id": "eZeFFtx8C50",
+   "t": "I'm Building a Robot to Explore Underwater Caves!",
+   "d": "2025-07-17",
+   "v": 1473,
+   "s": 55,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OoYbfQlmSkQ",
+   "t": "Underwater Robot for Exploring Caves - Is it waterproof?  #underwaterrobotics #cave #robot",
+   "d": "2025-09-01",
+   "v": 748,
+   "s": 95,
+   "vertical": true,
+   "desc": "Don't want my robot to be a no-mo-bot if you know what I mean..."
+  },
+  {
+   "id": "WY50zlz6pQ4",
+   "t": "Building an Underwater Robot for Cave Exploration!",
+   "d": "2026-07-18",
+   "v": 1922,
+   "s": 59,
+   "vertical": true,
+   "desc": "What one year of building, testing, rebuilding, and re-testing looks like!"
+  }
+ ]
+}

@@ -1,0 +1,756 @@
+{
+ "channel": {
+  "id": "UCRBc18ggB23ryfJhkhiPGIw",
+  "title": "MohitBhoite",
+  "handle": "@mohitbhoite",
+  "description": "Exploring the space between art and electronics through free-formed circuit sculptures and experimental hardware.",
+  "since": "2007-08-12",
+  "avatar": "https://yt3.ggpht.com/TSpWr_JS3-SMPX-gJd-H7sbxB9aiixmRfkVWSIwpBcemum3wISzT3-1cZB6kIEaucptpiXTKmQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "6877727",
+  "subscriberCount": "24500",
+  "hiddenSubscriberCount": false,
+  "videoCount": "81"
+ },
+ "videos": [
+  {
+   "id": "QmVXmJhwRBI",
+   "t": "Basanti:  Line Following Robot",
+   "d": "2007-08-15",
+   "v": 2825,
+   "s": 25,
+   "vertical": false,
+   "desc": "Test run of Basanti (Mar 2006)"
+  },
+  {
+   "id": "M_ircnSOfbE",
+   "t": "Micromouse 2006 test run",
+   "d": "2007-08-16",
+   "v": 3698,
+   "s": 24,
+   "vertical": false,
+   "desc": "micromouse straight run test"
+  },
+  {
+   "id": "B5S73ukiDmQ",
+   "t": "Artbot, Bodhi Space, Mumbai",
+   "d": "2008-10-13",
+   "v": 861,
+   "s": 34,
+   "vertical": false,
+   "desc": "The robot was part of an art show put up by Shilpa Gupta here in Mumbai"
+  },
+  {
+   "id": "etZ7wwkVjNc",
+   "t": "Coin Dispenser (Ideation 2)",
+   "d": "2011-02-24",
+   "v": 1446,
+   "s": 16,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "uwsr4HMdi8c",
+   "t": "Coin Dispenser (Ideation 1)",
+   "d": "2011-02-24",
+   "v": 1254,
+   "s": 9,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "rwG-sG27360",
+   "t": "Coin Dispenser",
+   "d": "2011-02-24",
+   "v": 30124,
+   "s": 27,
+   "vertical": false,
+   "desc": "This was part of my IPD 511 class (Creative Thinking & Functional Iteration in Design) . We had to design a dispenser and I ended up building a coin dispenser."
+  },
+  {
+   "id": "ZX5BGySqA2A",
+   "t": "Ball Zzz",
+   "d": "2011-03-06",
+   "v": 302,
+   "s": 15,
+   "vertical": false,
+   "desc": "We built a machine that sorts out randomly mixed golf balls + ping pong balls and sequences them into pairs staring with the ping pong ball. The video is a little unclear since both balls are of the same color."
+  },
+  {
+   "id": "mBtTErNPkmI",
+   "t": "Responds to clap.avi",
+   "d": "2011-05-05",
+   "v": 507,
+   "s": 9,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "l5z6diu-xEs",
+   "t": "Wall Following.avi",
+   "d": "2011-05-05",
+   "v": 536,
+   "s": 76,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "rxRaRrZxkL8",
+   "t": "Obstacle Avoding.avi",
+   "d": "2011-05-05",
+   "v": 197,
+   "s": 11,
+   "vertical": false,
+   "desc": " "
+  },
+  {
+   "id": "5_0mUmTz588",
+   "t": "Line Following.avi",
+   "d": "2011-05-05",
+   "v": 306,
+   "s": 196,
+   "vertical": false,
+   "desc": "an experimental robot controlled purely through logic elements."
+  },
+  {
+   "id": "QElHxFjl_Bg",
+   "t": "Brushless Motor",
+   "d": "2012-10-24",
+   "v": 455,
+   "s": 14,
+   "vertical": false,
+   "desc": "Andrew was trying out the microchip brushless motor controller kit. The hall effect sensors on the back of the motor were misaligned which resulted in a rather unusual sound effect."
+  },
+  {
+   "id": "PTuwtvXbU0k",
+   "t": "Phone mount for bikes",
+   "d": "2014-12-26",
+   "v": 431,
+   "s": 17,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "XqfA3rPGVK0",
+   "t": "Mini Kossel Auto Bed Leveling using Force Sensors",
+   "d": "2014-12-26",
+   "v": 2637,
+   "s": 33,
+   "vertical": false,
+   "desc": "Experimenting with FSRs for auto bed leveling for my mini kossel 3d printer"
+  },
+  {
+   "id": "Dv2BK-0asSY",
+   "t": "Experimenting with custom bokeh",
+   "d": "2015-01-07",
+   "v": 1336,
+   "s": 11,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "oPaFNXm0eTI",
+   "t": "Spark ISS Monitor",
+   "d": "2015-01-07",
+   "v": 1376,
+   "s": 35,
+   "vertical": false,
+   "desc": "This Spark Core powered project notifies you when the international space station is passing over your location."
+  },
+  {
+   "id": "TpqhSoQkl1Y",
+   "t": "SevenSeg",
+   "d": "2015-08-04",
+   "v": 21495,
+   "s": 17,
+   "vertical": false,
+   "desc": "A Particle Photon powered, internet enabled seven segment display."
+  },
+  {
+   "id": "UtOGwiuXJeQ",
+   "t": "MohitBhoite Live Stream",
+   "d": "2016-10-12",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": ""
+  },
+  {
+   "id": "tOTDQtTzt9c",
+   "t": "LED sand animation",
+   "d": "2018-01-25",
+   "v": 9939,
+   "s": 22,
+   "vertical": false,
+   "desc": "LED sand animation using Adafruit's M0 feather, CharlieWing, and ADXL362 accelerometer."
+  },
+  {
+   "id": "xZvvPWYbvN4",
+   "t": "Neopixel Lightbar",
+   "d": "2018-11-09",
+   "v": 7009,
+   "s": 43,
+   "vertical": false,
+   "desc": "I made a neopixel lightbar controller to add color to my macro photographs. I usually just use mono colored LEDs to accomplish that, but thought something like this will give me more control.\n\nDetailed tutorial available here: https://github.com/mohitbhoite/neopixel-lightbar\n\nMusic Credit: Komiku - Sunset On The Beach"
+  },
+  {
+   "id": "5wjAme-22aI",
+   "t": "SMD LED ladder build time lapse",
+   "d": "2018-11-12",
+   "v": 25475,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eeJuC-WH6c4",
+   "t": "Hexagonal LED matrix sculpture",
+   "d": "2018-11-12",
+   "v": 6321,
+   "s": 24,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "P15u4t-c7bM",
+   "t": "555 bcd demux free form sculpture",
+   "d": "2018-11-12",
+   "v": 22665,
+   "s": 19,
+   "vertical": false,
+   "desc": "A simple LED scrolling sculpture. More information on my Instagram account: https://www.instagram.com/mohitbhoite/"
+  },
+  {
+   "id": "mCZMqLMOtJM",
+   "t": "Xenyan light painting robot sculpture",
+   "d": "2018-11-18",
+   "v": 1475,
+   "s": 10,
+   "vertical": false,
+   "desc": "Test run of Xenyan"
+  },
+  {
+   "id": "F9J1rFmMcYY",
+   "t": "Dot 88 R1",
+   "d": "2018-11-24",
+   "v": 2991,
+   "s": 10,
+   "vertical": false,
+   "desc": "This a freeformed 8\u00d78 LED matrix sculpture that is controlled by a Particle Photon and connected to the Internet over WiFi.\n\nhttps://www.bhoite.com/sculptures/dot-88-r1/\n\nMusic: Richard Jonas, Hoodratzz Mix 93"
+  },
+  {
+   "id": "UVtOAVd9WlE",
+   "t": "Dot 57",
+   "d": "2018-11-24",
+   "v": 8893,
+   "s": 21,
+   "vertical": false,
+   "desc": "This is an Internet connected dot matrix display sculpture. It is based around a Particle Photon (that is connected to the Internet via WiFi) and a TA07-11SRWA 5\u00d77 dot matrix LED module.\n\nhttps://www.bhoite.com/sculptures/dot-57/\n\nMusic: Azureflux"
+  },
+  {
+   "id": "L5AoaqwUZK0",
+   "t": "LM3915 based VU Meter",
+   "d": "2018-12-04",
+   "v": 11832,
+   "s": 30,
+   "vertical": false,
+   "desc": "LM3915N based VU meter Sculpture\n\nSchematic and description: https://www.bhoite.com/sculptures/lm3915-vu-meter/"
+  },
+  {
+   "id": "70L6OnLX0LE",
+   "t": "Handheld gaming console",
+   "d": "2019-01-03",
+   "v": 19498,
+   "s": 55,
+   "vertical": true,
+   "desc": "A 8x8 bicolored handheld gaming console sculpture."
+  },
+  {
+   "id": "CySwNy804cA",
+   "t": "How to straighten a brass wire into a rod",
+   "d": "2019-02-28",
+   "v": 19372,
+   "s": 61,
+   "vertical": false,
+   "desc": "Using a few simple tools you can straighten a brass wire into a rod. I saw this method being used else where for straightening piano and copper wire, so I decided to try it for brass, and it seems to work very well."
+  },
+  {
+   "id": "Xw_pPEh2gxY",
+   "t": "Numitron Clock",
+   "d": "2019-11-04",
+   "v": 10197,
+   "s": 13,
+   "vertical": false,
+   "desc": "A simple numitron display clock.\n\nhttps://www.bhoite.com/sculptures/numitron-clock/"
+  },
+  {
+   "id": "G8FtUTOAH_8",
+   "t": "Handle with care - Flash light",
+   "d": "2019-11-04",
+   "v": 6470,
+   "s": 29,
+   "vertical": false,
+   "desc": "Second in the series of \u201chandle with care\u201d, I made a hexagonal matrix flash light. It\u2019s controlled by @adafruit Trinket M0 and powered by a small LiPo.\n\n I wrote a simple code in Arduino for the onboard @adafruit Trinket M0. The LEDs are driven by three MOSFETs and powered by a small LiPo. The LEDs together consume around 5W peak.\n\nI used a 3D printed hexagon matrix jig to solder the LEDs together. I uploaded the design on thingiverse. Look up \u201cLED matrix soldering jig\u201d if you are interested.\n\nEach LED has a 10 ohm current limiting resistor. A total of 37 LEDs.\n\nConnections are made out of 0.5"
+  },
+  {
+   "id": "dBtd6RrsYKA",
+   "t": "Chintoo v2",
+   "d": "2021-01-26",
+   "v": 9522,
+   "s": 16,
+   "vertical": true,
+   "desc": "Running through a few test patterns."
+  },
+  {
+   "id": "2KVX_AxLG3g",
+   "t": "pixel invaders",
+   "d": "2021-02-08",
+   "v": 3576,
+   "s": 4,
+   "vertical": false,
+   "desc": "8x8 matrix made out of square LEDs and controlled by a Particle Photon"
+  },
+  {
+   "id": "TMj_0AWkfXM",
+   "t": "Experimenting with geared micro linear stepper motor",
+   "d": "2021-02-16",
+   "v": 24630,
+   "s": 12,
+   "vertical": false,
+   "desc": "Running basic tests on a geared micro linear stepper motor."
+  },
+  {
+   "id": "_-Au_sUVYPk",
+   "t": "Experiments with micro linear stepper motor",
+   "d": "2021-02-16",
+   "v": 10013,
+   "s": 16,
+   "vertical": false,
+   "desc": "Running some basic tests on the micro linear stepper motor."
+  },
+  {
+   "id": "ldnkfMXvckk",
+   "t": "Peeling off the screen protector on the TFT display",
+   "d": "2022-05-28",
+   "v": 19897,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aBau9lsBRwg",
+   "t": "GNSS Synchronized Clock",
+   "d": "2022-05-28",
+   "v": 9032,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "N4hWlLDAg1s",
+   "t": "Weekend Vibes",
+   "d": "2022-07-22",
+   "v": 6810,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KW648wXl8gw",
+   "t": "Having fun with the new lander sculpture showing the weather forecast data",
+   "d": "2023-05-08",
+   "v": 12012,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_ESZJzc-5XY",
+   "t": "R2D2 face for the latest lander sculpture",
+   "d": "2023-05-08",
+   "v": 24144,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DAGJnNT-RS0",
+   "t": "Darth Vader time",
+   "d": "2023-05-08",
+   "v": 7138,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "U6IrSBTo9m0",
+   "t": "Lander circuit sculpture",
+   "d": "2023-05-12",
+   "v": 19916,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XTKdFcZ-7l4",
+   "t": "Boron Lander #electronics #circuitsculpture #arduino #iot #space",
+   "d": "2023-09-10",
+   "v": 15060,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9W9Y8QP0Xls",
+   "t": "A beautiful wall full of bougainvillea makes for a nice backdrop \ud83c\udf09\ud83d\ude80",
+   "d": "2023-09-11",
+   "v": 10625,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EdCSN860Nfs",
+   "t": "Building an internet connected display console. #iot #arduino",
+   "d": "2023-11-11",
+   "v": 10407,
+   "s": 61,
+   "vertical": true,
+   "desc": "Assembling a Particle Photon 2 powered internet connected display console. Here is the breakdown of the components for the Photon 2 based display widget. I\u2019ll release the design files along with the code on my website soon.\n\nMP34DT05: This is an MEMS microphone with a PDM (Pulse Density Modulation) interface.\n\nAPDS9960: This is an all in one proximity, light, color, and gesture sensor.\n\nSGP40: This is a VOC sensor for air quality measurements.\n\nBMI270: This is a 6-axis IMU that combines a 16-bit tri-axial gyroscope and a 16-bit tri-axial accelerometer.\n\nDisplay: This is a 320x240 IPS display b"
+  },
+  {
+   "id": "mTifpV0Tkuo",
+   "t": "Boron lander can now listen to BLE packets from the nEF52840 based sensor #arduino #electronics #ble",
+   "d": "2023-11-18",
+   "v": 14496,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ym-m_GTd6v8",
+   "t": "Particle Photon 2 display widget #iot #arduino",
+   "d": "2023-11-21",
+   "v": 11274,
+   "s": 82,
+   "vertical": true,
+   "desc": "Made a makeshift enclosure out of the spare PCBs from the build. This widget has onboard microphone, speaker, IMU, gesture sensor, VOC air quality sensor, and an SD card. The display is 320x240 IPS based on the ST7789.\n\nMP34DT05: This is an MEMS microphone with a PDM (Pulse Density Modulation) interface.\n\nAPDS9960: This is an all in one proximity, light, color, and gesture sensor.\n\nSGP40: This is a VOC sensor for air quality measurements.\n\nBMI270: This is a 6-axis IMU that combines a 16-bit tri-axial gyroscope and a 16-bit tri-axial accelerometer.\n\nDisplay: This is a 320x240 IPS display based "
+  },
+  {
+   "id": "AZWxkTfZRNs",
+   "t": "Playing with gauge design to display temperature, humidity, and VOC air quality. #arduino #iot",
+   "d": "2023-11-26",
+   "v": 19323,
+   "s": 10,
+   "vertical": true,
+   "desc": "Playing with gauge design to display temperature, humidity, and VOC air quality.\n\nI\u2019ll publish the code and design on my website soon!\n\nThis is @particle_iot Photon 2 based internet connected display widget I designed last month. It has onboard microphone, speaker, IMU, gesture sensor, VOC air quality sensor, and micro SD card connector. It\u2019s currently fetching weather forecast for today, and the next three days from weather.gov API. Find more details in my previous posts! #iot #arduinoproject #arduino #esp32 #circuitboard #pcbdesign"
+  },
+  {
+   "id": "AXcaJP_5O60",
+   "t": "Same circuit, different vibes. Tiny blinking satellite.",
+   "d": "2023-11-30",
+   "v": 17847,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3OnculJIoT4",
+   "t": "Building a tiny satellite to monitor temperature and humidity #arduino #nasa #satellite",
+   "d": "2023-11-30",
+   "v": 1165294,
+   "s": 20,
+   "vertical": true,
+   "desc": "An ATtiny85 based temperature monitoring satellite circuit sculpture. You can find more information along with the code on my website: https://www.bhoite.com/sculptures/satellite-2202/\n\n#circuitsculpture #satellite #tinysatellite #nasa #spacetechnology #arduino #arduinoproject #solarpower"
+  },
+  {
+   "id": "BD7U5-xi4Wo",
+   "t": "Building a tiny solar powered lander #circuitsculpture #arduino #nasa",
+   "d": "2023-12-03",
+   "v": 73287,
+   "s": 17,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Y9PSHxGTlYY",
+   "t": "KT-15 - a lander inspired kitchen timer #circuitsculpture #attiny #arduino #space #lander",
+   "d": "2023-12-05",
+   "v": 15668,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zQh-RlkEYOc",
+   "t": "Auto screen rotate using the internal IMU #iot #arduino #esp32 #ai #arduinoproject",
+   "d": "2023-12-09",
+   "v": 11786,
+   "s": 24,
+   "vertical": true,
+   "desc": "Added orientation detection using the internal IMU. Took a little bit of calibration but not too bad. The transparent enclosure really brings out the cyberpunk synthwave vibe I was going for. Working on playing videos from the SD card next!\n\nThis is @particle_iot Photon 2 based internet connected display widget I designed last month. It has onboard microphone, speaker, IMU, gesture sensor, VOC air quality sensor, and micro SD card connector. It\u2019s currently fetching weather forecast for today, and the next three days from weather.gov API. Find more details in my previous posts!\n\nDesign files an"
+  },
+  {
+   "id": "dNDjmfDEsvU",
+   "t": "BLE Satellite \ud83d\udef0\ufe0f #circuitsculpture #arduino #nasa #solar",
+   "d": "2023-12-10",
+   "v": 1916573,
+   "s": 8,
+   "vertical": true,
+   "desc": "When simple shapes turn into fun forms \ud83d\udef0\ufe0f I made a little solar powered \u201csatellite\u201d that transmits temperature and humidity data as BLE beacon packets. The heart of the build is the nRF52840 SoC dev board from @seeedstudio. I\u2019m using a 50F 3.8V hybrid super capacitor, which is charged by couple of solar cells, to power the system. A fully charged capacitor powers the device for little over a month. More information and videos to follow!\n\n#circuitsculpture #satellite #ble #bluetooth #spacetech #nasa #freeformsoldering #flywire #soldering #nrf52840 #nordicsemi #solarpower #ardunioproject #xiao #"
+  },
+  {
+   "id": "E5FN45WdsHs",
+   "t": "Took the BLE satellite on a very low earth orbit \ud83d\ude05\ud83d\udef0\ufe0f #circuitsculpture",
+   "d": "2023-12-21",
+   "v": 18804,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lwcxG8fc6eQ",
+   "t": "New year, new lander. Meet Cumin!",
+   "d": "2024-01-15",
+   "v": 57211,
+   "s": 9,
+   "vertical": true,
+   "desc": "Cumin is a little lander built around the @seeedstudio XIAO nRF52840 dev board. It measures temperature, humidity, and pressure using a BME280 sensor and displays it on a 128x32 OLED. The whole thing is powered by a single 14250 Lithium Ion battery. \n\n#circuitsculpture #lander #nasa #space #spacetechnology #sculpture #freeformcircuit #soldering #ble #bluetooth #embeddedsystem #arduino #nrf52840 #arduinoproject #diy #cyberpunk #synthwave"
+  },
+  {
+   "id": "QrFqAn-awa8",
+   "t": "Setting time on the Cumin Lander over BLE #arduino #circuitsculpture",
+   "d": "2024-01-26",
+   "v": 45407,
+   "s": 24,
+   "vertical": true,
+   "desc": "Setting time on Cumin Lander over BLE. After the time is set, the nRF52840\u2019s internal RTC takes over. I\u2019m using the @adafruit Bluefruit app which opens up a UART interface over BLE on the device. Going to add more features using this technique! What should we do next?"
+  },
+  {
+   "id": "t4adEiQMWxc",
+   "t": "Same circuit, different vibes #circuitsculpture #nasa #arduino",
+   "d": "2024-01-29",
+   "v": 479946,
+   "s": 7,
+   "vertical": true,
+   "desc": "It\u2019s always fun to see how a simple, mundane circuit can be completely transformed when reimagined as a three dimensional circuit sculpture. How would you reimagine it?\u2728\n\nThis is a little lander sculpture I built around the nRF52840 based dev board. It measures temperature, humidity, and pressure. It displays that on a 128x32 OLED module along with time. The BLE connection allows me to configure the device remotely. Build tutorial coming up soon on my website! \ud83d\ude4f\ud83c\udffc\ud83d\ude80"
+  },
+  {
+   "id": "RDWsCv5dWH8",
+   "t": "New Photon 2 Lander! #circuitsculpture #space #spaceexploration #arduino #ai",
+   "d": "2024-12-23",
+   "v": 23140,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6gYsctE2fpI",
+   "t": "Photon 2 Lander #space #nasa #arduino #esp32 #soldering #electronics #spacetravel",
+   "d": "2024-12-26",
+   "v": 28968,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "QAa5ZWcQMWE",
+   "t": "Pepper\u2019s Ghost using a beam splitting cube #peppersghost #holocube #esp32 #hologram #cyberpunk",
+   "d": "2025-01-01",
+   "v": 96239,
+   "s": 11,
+   "vertical": true,
+   "desc": "A simple pepper's ghost demonstration using a beam splitting prism cube and a 240x240 TFT display."
+  },
+  {
+   "id": "zWohqt-DL1I",
+   "t": "Silly little pong clock #retrogaming #space #soldering #arduinoproject #esp32 #cyberpunk",
+   "d": "2025-01-02",
+   "v": 24835,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HW6BMIbwLp0",
+   "t": "Playing with Beam Splitting Cubes #peppersghost  #esp32 #space #arduinoproject #cyberpunk",
+   "d": "2025-01-08",
+   "v": 24042,
+   "s": 16,
+   "vertical": true,
+   "desc": "These little prisms are so much fun! They can transform any small, high-resolution screen into a floating display using the classic Pepper\u2019s ghost effect\u2014though, let\u2019s be honest, it\u2019s not really a hologram.\n\nI\u2019m using a @seeedstudio Xiao ESP32S3 board to drive a 240x240 IPS TFT display over SPI. The 25mm beam-splitting cube? I picked it up on Amazon over a year ago and am finally putting it to good use! You can also find them on AliExpress if you\u2019re curious.\n\nSure, you can buy a fully assembled desktop gadget using an ESP32 to do the same thing, but where\u2019s the fun in that? \ud83d\ude05\n\nNext up: I\u2019m tur"
+  },
+  {
+   "id": "2Dmlm6knzQs",
+   "t": "Part 1: How to solder a copper cuboid #circuitsculpture",
+   "d": "2025-01-16",
+   "v": 38706,
+   "s": 85,
+   "vertical": true,
+   "desc": "Learn how to solder a cuboid using 20AWG copper wire! This simple technique can also be used with brass and is perfect for creating shapes for sculptures. I use this design in many of my creations\u2014watch the video for the full process and let me know if you have any questions!"
+  },
+  {
+   "id": "2qe9k2UoKEo",
+   "t": "Part2: Adding battery contacts #circuitsculpture",
+   "d": "2025-01-21",
+   "v": 13618,
+   "s": 85,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9g3-eVGP4bc",
+   "t": "Part 4: Final Assembly",
+   "d": "2025-02-06",
+   "v": 18502,
+   "s": 92,
+   "vertical": true,
+   "desc": "Final Assembly Reveal! \n\nHere\u2019s the transformation of an old sculpture! \ud83c\udf1f Originally powered by a supercapacitor, it\u2019s now running on a chonky CR2477 coin cell. Lots of build tips along the way!\n\n\ud83d\udca1 About the original design:\nThe display is driven by a 74HC47 BCD-to-seven-segment decoder. Fun fact: before adopting hexadecimal characters (A, B, C, D, E, F), TI and Siemens used modified versions of the numbers 2, 3, 4, 5, and 6 to represent 10\u201314, with 15 left as a blank. The 74HC4060 ripple counter at the base feeds the seven-segment decoder with BCD numbers for the display. \n\nLet me know what y"
+  },
+  {
+   "id": "7-FGTmM4CRY",
+   "t": "Part3: Making Lander Legs #circuitsculpture #diyprojects #solderingtips",
+   "d": "2025-02-06",
+   "v": 15045,
+   "s": 85,
+   "vertical": true,
+   "desc": "Here is a look at how I put together the lander legs. You can play with proportions and shapes to come up with our own variation!\n\n(Apologies for some of the out of focus moments)"
+  },
+  {
+   "id": "tQjZj61RAg4",
+   "t": "BCD Lander upgrade #circuitsculpture",
+   "d": "2025-02-08",
+   "v": 45613,
+   "s": 16,
+   "vertical": true,
+   "desc": "This project was a fun upgrade to a sculpture I originally built in 2021. Now reimagined in a space lander form factor, it has quickly become one of my favorites. You can find the build videos as a series of reels in my previous posts.\n\nThe display is powered by a 74HC47 BCD-to-seven-segment decoder. Fun fact: before adopting hexadecimal characters (A, B, C, D, E, F), TI and Siemens used modified versions of the numbers 2, 3, 4, 5, and 6 to represent 10\u201314, leaving 15 as blank. At the base of the sculpture, a 74HC4060 ripple counter generates BCD numbers that drive the decoder and the seven-se"
+  },
+  {
+   "id": "pBH07Lsbkdw",
+   "t": "Should we be worried? #hal9000 #circuitsculpture",
+   "d": "2025-02-21",
+   "v": 21903,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "VQXWTlmozrQ",
+   "t": "Lander R2 #circuitsculpture #space #satellite #lander #arduino #spacetravel",
+   "d": "2025-09-29",
+   "v": 779890,
+   "s": 12,
+   "vertical": true,
+   "desc": "I finally got around to documenting this project on my site \u2014 and while at it, I\u2019ve been slowly migrating everything from WordPress to Docusaurus.\n\nThis one has been a fun build, and I hope the write-up is useful or inspiring if you\u2019re into circuit sculpture or just curious about the process.\n\nTake a look here \ud83d\udc49 bhoite.com/sculptures/lander-r2\n\nWould love to hear what you think \u2014 drop your questions, thoughts, or feedback below! \u2728\n\n#circuitsculpture #space #arduinoproject #nasa #arduino #spacetravel #soldering #electronics #embeddedsystems #lander #satellite #cubesat"
+  },
+  {
+   "id": "u6YrzenfeuM",
+   "t": "A Tiny Satellite Beaming Data from My Garden \ud83c\udf1e\ud83d\udef0\ufe0f #cubesat #satellite #spaceexploration #BLE",
+   "d": "2025-10-06",
+   "v": 100262,
+   "s": 9,
+   "vertical": true,
+   "desc": "A small solar-powered \u201csatellite\u201d enjoying the last warm days in the garden \ud83c\udf1e \ud83d\udef0\ufe0f\n\nIt transmits temperature and humidity readings via BLE beacons \u2014 built around the Seeed Studio XIAO BLE.\n\nFull build: https://bhoite.com/sculptures/ble-satellite/"
+  },
+  {
+   "id": "lYdMtOw4UQE",
+   "t": "Cumin Lander Construction Timelapse #lander #circuitsculpture #arduino #spaceexploration #cubesat",
+   "d": "2025-10-16",
+   "v": 58733,
+   "s": 63,
+   "vertical": true,
+   "desc": "Here is a never before seen timelapse of the entire build of Cumin lander sculpture. I usually don\u2019t like taking videos while I\u2019m working on projects. I feel like it gets in the way of enjoying the process. But I\u2019m trying to slowly get comfortable with this idea since so many of you have shown interest in knowing how these circuits are put together.\n\nComplete build details: https://bhoite.com/sculptures/cumin-lander/"
+  },
+  {
+   "id": "wSmjg0DDnjM",
+   "t": "Building the Lander R2 circuit sculpture #circuitsculpture #spaceexploration #cubesat",
+   "d": "2025-10-18",
+   "v": 321953,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "JVK-kXaeYpo",
+   "t": "FM radio #circuitsculpture #arduino #tea5767 #pam8302",
+   "d": "2025-10-22",
+   "v": 29751,
+   "s": 43,
+   "vertical": true,
+   "desc": "A fully functional FM radio built as a circuit sculpture \ud83d\udcfb\u2728\nPowered by a TEA5767 receiver and an Adafruit ItsyBitsy, this piece blends art and electronics into one elegant form."
+  },
+  {
+   "id": "5r_m_ANgJXc",
+   "t": "An ATtiny85 based VU meter #circuitsculpture #arduino #spaceexploration #vumeter #attiny85",
+   "d": "2025-10-28",
+   "v": 121132,
+   "s": 23,
+   "vertical": true,
+   "desc": "Watch this tiny VU meter come alive! \ud83c\udf9b\ufe0f\nBuilt around an ATtiny85 and a strip of SK6812 LEDs, this coin-cell-powered lander reacts beautifully to sound \u2014 turning audio into light in real time.\n\nSee the full build, schematic, code, and photos here \ud83d\udc49 bhoite.com/sculptures/a-tiny-vu-lander"
+  },
+  {
+   "id": "Pcb_gP1NEFU",
+   "t": "Death Star Pumpkin #Throwback #halloween #deathstar #starwars",
+   "d": "2025-10-31",
+   "v": 16934,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yCMArAppgVQ",
+   "t": "The scariest thing I\u2019ve done this Halloween #halloween #spooky #circuitsculpture #arduino #space",
+   "d": "2025-10-31",
+   "v": 34715,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uGQJjSfcCT4",
+   "t": "How many USB adapters can you spot on this Frankenstein of a project? #hallowing #halloween #butwhy",
+   "d": "2025-11-02",
+   "v": 63248,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0aWMpwuh7X0",
+   "t": "It\u2019s fascinating how much emotion can be conveyed through a simple 7-segment display.",
+   "d": "2025-11-05",
+   "v": 478953,
+   "s": 12,
+   "vertical": true,
+   "desc": "Detailed documentation and code available here: https://bhoite.com/sculptures/chintoo"
+  },
+  {
+   "id": "VukmmiwxcKk",
+   "t": "Throwback to the WS2812B based VU craft sculpture #circuitsculpture #electronicmusic #ws2812b",
+   "d": "2025-11-08",
+   "v": 89418,
+   "s": 21,
+   "vertical": true,
+   "desc": "You can find more photos here: https://bhoite.com/sculptures/ws2812b-vu-craft\nI'm still working on adding the schematic and code for this project."
+  },
+  {
+   "id": "65JfoeJl_9s",
+   "t": "GSC-X1 was my first lander built with a color display #circuitsculpture #space #lander #nasa",
+   "d": "2025-11-13",
+   "v": 112733,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7Fj9dMvpH44",
+   "t": "My custom gadget fetching today\u2019s forecast in real time \ud83c\udf26\ufe0f #arduino #weatherforecast",
+   "d": "2025-11-15",
+   "v": 68434,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}
