@@ -140,8 +140,9 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 .sortbtn span{color:var(--text2)}
 .sortbtn b{font-weight:600}
 .sortbtn i{width:7px;height:7px;border-right:2px solid var(--text2);border-bottom:2px solid var(--text2);transform:translateY(-2px) rotate(45deg);margin-left:6px}
-.menu{position:absolute;right:0;top:calc(100% + 6px);min-width:280px;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.18);padding:6px;margin:0;list-style:none;z-index:20}
+.menu{position:absolute;right:0;top:calc(100% + 6px);min-width:min(280px,calc(100vw - 32px));max-width:calc(100vw - 32px);background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,.18);padding:6px;margin:0;list-style:none;z-index:20}
 .menu[hidden]{display:none}
+.menu.left{right:auto;left:0}
 .menu:focus{outline:none}
 .menu li{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:10px 14px;border-radius:8px;cursor:pointer;font-size:15px}
 .menu li:hover,.menu li.kb{background:var(--chip)}
@@ -433,7 +434,11 @@ let kbIdx = 0;
 const paintKb = () => opts().forEach((li, i) => li.classList.toggle("kb", i === kbIdx));
 function openMenu(open){
   menu.hidden = !open; btn.setAttribute("aria-expanded", open);
-  if (open) { kbIdx = opts().findIndex(li => li.dataset.k === (onMakers() ? st.mSort : st.sort)); paintKb(); menu.focus(); }
+  if (open) {
+    // Open towards whichever side has room, so the menu never runs off a narrow screen.
+    menu.classList.remove("left");
+    if (menu.getBoundingClientRect().left < 8) menu.classList.add("left");
+    kbIdx = opts().findIndex(li => li.dataset.k === (onMakers() ? st.mSort : st.sort)); paintKb(); menu.focus(); }
 }
 function chooseSort(k){
   openMenu(false); btn.focus();
