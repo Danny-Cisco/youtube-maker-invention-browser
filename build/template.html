@@ -118,20 +118,20 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 .chips button[aria-pressed="true"]{background:var(--text);border-color:var(--text);color:var(--bg);font-weight:600}
 
 /* grid of project cards */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;padding:20px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));grid-auto-rows:1fr;gap:18px;padding:20px 0}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;transition:transform .15s,box-shadow .15s}
 .card:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.08)}
 .img{position:relative;aspect-ratio:16/9;background:var(--chip)}
 .img img{width:100%;height:100%;object-fit:cover;display:block}
-.strip{display:grid;grid-template-columns:repeat(4,1fr);gap:3px;background:var(--card);padding:3px 3px 0}
-.strip img{width:100%;min-width:0;aspect-ratio:16/9;object-fit:cover;border-radius:3px;background:var(--chip)}
-.strip .more{aspect-ratio:16/9;border-radius:3px;background:var(--chip);display:grid;place-items:center;font-size:13px;font-weight:600;color:var(--text2)}
 .rank{position:absolute;left:10px;top:10px;background:rgba(0,0,0,.75);color:#fff;font-weight:700;font-size:13px;border-radius:8px;padding:1px 8px}
 .body{padding:12px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}
 .top{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
 h2{font-size:19px;line-height:1.2;margin:0;letter-spacing:-.01em}
 .yr{color:var(--muted);font-size:14px;white-space:nowrap}
 .tags{display:flex;gap:6px;flex-wrap:wrap;font-size:12px}
+.tt{display:inline-flex;align-items:center;gap:5px}
+.tt i{width:7px;height:7px;border-radius:50%;background:var(--s1)}
+.tt.short i{border-radius:1.5px;background:var(--s2)}
 .tag{background:var(--chip);color:var(--text2);border-radius:999px;padding:1px 9px;font-variant-numeric:tabular-nums}
 .desc{margin:0;color:var(--text2);font-size:14.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .yearh{font-size:28px;letter-spacing:-.02em;margin:26px 0 -6px}
@@ -217,7 +217,12 @@ const median = a => { const s = [...a].sort((x, y) => x - y), h = s.length >> 1;
 const span = days => days < 14 ? plural(Math.round(days), "day") : days < 60 ? plural(Math.round(days / 7), "week") : days < 548 ? plural(Math.round(days / 30.4), "month") : (days / 365.25).toFixed(1) + " years";
 const C = DATA.creator, I = DATA.inventions;
 [...I].sort((a, b) => b.views - a.views).forEach((x, i) => x.popRank = i + 1);
-I.forEach(x => { x.slug = slug(x.name); x.last = x.videos[x.videos.length - 1].d; x.sources = x.videos.length + x.links.length; });
+I.forEach(x => { const L = x.videos.filter(v => !v.short), S = x.videos.filter(v => v.short);
+  Object.assign(x, { nLong: L.length, nShort: S.length, vLong: L.reduce((a, v) => a + v.v, 0), vShort: S.reduce((a, v) => a + v.v, 0) });
+  x.slug = slug(x.name); x.last = x.videos[x.videos.length - 1].d; x.sources = x.videos.length + x.links.length; });
+const typeTags = (x, withViews) => [x.nLong ? `<span class="tag tt long"><i></i>${x.nLong} long-form${withViews ? ` · ${fmt(x.vLong)} views` : ""}</span>` : "",
+  x.nShort ? `<span class="tag tt short"><i></i>${plural(x.nShort, "Short")}${withViews ? ` · ${fmt(x.vShort)} views` : ""}</span>` : ""].join("");
+const typeText = x => [x.nLong ? x.nLong + " long-form" : "", x.nShort ? plural(x.nShort, "Short") : ""].filter(Boolean).join(" + ");
 const KINDS = ["All", ...new Set(I.map(x => x.kind))];
 
 // Grid sort options, grouped "Field: direction". Chronology lives on the timeline chart instead.
@@ -225,7 +230,8 @@ const SORTS = [
   { k:"views",  label:"Views: highest first", cmp:(a,b) => b.views - a.views },
   { k:"viewsLo",label:"Views: lowest first",  cmp:(a,b) => a.views - b.views },
   { sep:true },
-  { k:"videos", label:"Videos: most first",   cmp:(a,b) => b.videos.length - a.videos.length || b.views - a.views },
+  { k:"long",   label:"Long-form: most first", cmp:(a,b) => b.nLong - a.nLong || b.views - a.views },
+  { k:"shorts", label:"Shorts: most first",    cmp:(a,b) => b.nShort - a.nShort || b.views - a.views },
   { k:"links",  label:"Coverage: most first", cmp:(a,b) => b.sources - a.sources || b.views - a.views }
 ];
 const SORT = Object.fromEntries(SORTS.filter(o => !o.sep).map(o => [o.k, o]));
@@ -303,7 +309,7 @@ function inventionPoints(curX){
   return [...I].sort((a, b) => a.start.localeCompare(b.start)).map(x => ({
     t: ms(x.start), v: x.views, cur: x === curX,
     cls: [seen.has(x.slug) ? "seen" : "", inList.has(x) ? "" : "out"].join(" "),
-    tip: `<img src="${thumb(x.hero)}" alt=""><b>${esc(x.name)}</b>${date(x.start)} · ${fmt(x.views)} views · ${plural(x.videos.length, "video")}${inList.has(x) ? `<br><span class="mut">${cpos.get(x)} of ${ch.length} in time · #${rank.get(x)} by views</span>` : `<br><span class="mut">Hidden by filter</span>`}${x === curX ? `<br><em>You are here</em>` : ""}`,
+    tip: `<img src="${thumb(x.hero)}" alt=""><b>${esc(x.name)}</b>${date(x.start)} · ${fmt(x.views)} views · ${typeText(x)}${inList.has(x) ? `<br><span class="mut">${cpos.get(x)} of ${ch.length} in time · #${rank.get(x)} by views</span>` : `<br><span class="mut">Hidden by filter</span>`}${x === curX ? `<br><em>You are here</em>` : ""}`,
     pick: x === curX ? null : () => location.hash = "#/" + x.slug
   }));
 }
@@ -417,14 +423,11 @@ function updateHome(){
   $("gridWrap").innerHTML = list.length ? `<div class="grid">${list.map((x, i) => card(x, i + 1)).join("")}</div>` : `<p class="empty">No inventions match.</p>`;
 }
 function card(x, pos){
-  const rest = x.videos.filter(v => v.id !== x.hero);
-  const strip = rest.length ? `<div class="strip">${rest.slice(0, 4).map(v => `<img src="${thumb(v.id)}" alt="" loading="lazy">`).join("")}${rest.length > 4 ? `<div class="more">+${rest.length - 4}</div>` : ""}</div>` : "";
   return `<a class="card" href="#/${x.slug}">
     <div class="img"><img src="${thumb(x.hero, "hqdefault")}" alt="" loading="lazy"><span class="rank">${pos}</span></div>
-    ${strip}
     <div class="body">
       <div class="top"><h2>${esc(x.name)}</h2><span class="yr">${date(x.start)}</span></div>
-      <div class="tags"><span class="tag">${x.kind}</span><span class="tag">${fmt(x.views)} views</span><span class="tag">${plural(x.videos.length, "video")}</span>${x.links.length ? `<span class="tag">${plural(x.links.length, "link")}</span>` : ""}</div>
+      <div class="tags"><span class="tag">${x.kind}</span><span class="tag">${fmt(x.views)} views</span>${typeTags(x)}${x.links.length ? `<span class="tag">${plural(x.links.length, "link")}</span>` : ""}</div>
       <p class="desc">${esc(x.desc)}</p>
     </div>
   </a>`;
@@ -491,7 +494,7 @@ function renderProject(vid){
   main.innerHTML = `<div class="wrap" style="padding-top:20px">
     <div class="eyebrow">${x.kind} · ${date(x.start)}${x.last !== x.start ? " – " + date(x.last) : ""}</div>
     <h2 class="ptitle">${esc(x.name)}</h2>
-    <div class="tags"><span class="tag">#${x.popRank} most viewed</span><span class="tag">${fmt(x.views)} views</span><span class="tag">${plural(x.videos.length, "video")}</span>${x.links.length ? `<span class="tag">${plural(x.links.length, "article/file link")}</span>` : ""}</div>
+    <div class="tags"><span class="tag">#${x.popRank} most viewed</span><span class="tag">${fmt(x.views)} views total</span>${typeTags(x, true)}${x.links.length ? `<span class="tag">${plural(x.links.length, "article/file link")}</span>` : ""}</div>
     <p class="pdesc">${esc(x.desc)}</p>
     <div class="layout">
       <div><div class="player${cur.short ? " short" : ""}" id="player">${embed(cur)}</div>${CAN_EMBED ? "" : `<p class="note">Videos open on YouTube because this page was opened as a file. YouTube only allows in-page playback when the site is served from a web address.</p>`}<div class="now" id="now"></div></div>
