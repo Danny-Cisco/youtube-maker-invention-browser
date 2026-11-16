@@ -6,6 +6,7 @@ Makers so far:
 
 | Maker | Inventions | Uploads |
 |---|---|---|
+| Simone Giertz | 76 | 260 |
 | Emily The Engineer | 44 | 83 |
 | Look Mum No Computer | 107 | 857 |
 
@@ -38,7 +39,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/emily data/lmnc
+python3 build/build.py index.html data/simone data/emily data/lmnc
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write `data/<name>_inventions.py` (copy an existing one for the format), and add `data/<name>` to the build command.
