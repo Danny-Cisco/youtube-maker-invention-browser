@@ -1,0 +1,981 @@
+{
+ "channel": {
+  "id": "UC06HVrkOL33D5lLnCPjr6NQ",
+  "title": "Breaking Taps",
+  "handle": "@breakingtaps",
+  "description": "Exploring material science and machining\n\nFor Youtube business, sponsorships, etc: breakingtaps@nebula.tv\n\nOptical Microscopes:\n- Amscope 40X-800X Trinocular Dual-illumination Metallurgical Microscope with Polarization\n- Amscope 3.5X-180X Simul-Focal Stereo Zoom Microscope\n\nAtomic Force Microscope:\n- ICSPI nGauge AFM (100nm wedge tips and 20nm DLC tips)\n\nScanning Electron Microscope:\n- Thermo Phen",
+  "since": "2017-12-06",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mBXzgHSibG4qKDtDGVn1tU4qs6_cBWVv49EkDBA3uKwEQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "150381315",
+  "subscriberCount": "581000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "107"
+ },
+ "videos": [
+  {
+   "id": "jaOa9lyAIH4",
+   "t": "Rockwell Horizontal/Vertical Mill Rebuild",
+   "d": "2017-12-08",
+   "v": 41509,
+   "s": 691,
+   "vertical": false,
+   "desc": "I found a Rockwell 21-122 Horizontal/Vertical milling machine on craigslist in great condition.  I purchased it from an estate sale, along with a lot of tooling.\n\nOver the next few episodes, I'll be cleaning, degreasing, stripping, repainting and re-lubricating all the important bits."
+  },
+  {
+   "id": "Ue0A-zXS4Ko",
+   "t": "Rockwell Mill Clean/Repaint - Part 2",
+   "d": "2017-12-15",
+   "v": 17583,
+   "s": 865,
+   "vertical": false,
+   "desc": "Part two of the Rockwell 21-122 Horizontal/Vertical mill project.  This time we clean up the fine feed quill control, the head rotation mechanism and extract the pulleys from the head."
+  },
+  {
+   "id": "rDOg2gRQ6hM",
+   "t": "Rockwell Mill Clean/Repaint - Part 3",
+   "d": "2018-01-05",
+   "v": 14524,
+   "s": 606,
+   "vertical": false,
+   "desc": "Finally removed the table, derusted the surface and stoned it.  Also fully stripped the mill body and masked it, ready for painting.  Almost done!"
+  },
+  {
+   "id": "F0AhpD3VnUA",
+   "t": "Rockwell Mill Clean/Repaint - Part 4",
+   "d": "2018-04-18",
+   "v": 15960,
+   "s": 974,
+   "vertical": false,
+   "desc": "In this last episode of cleaning the Rockwell, I spray all the parts and re-assemble.  \n\nSince there were a number of questions about the power-feed, I spent a few minutes detailing the custom mount that someone fabricated for the power feed.  \n\nPower-feed details start at 7m47s: https://youtu.be/F0AhpD3VnUA?t=7m47s  (the audio is a bit quiet, apologies)"
+  },
+  {
+   "id": "WGt6BOioNvU",
+   "t": "Installing a TouchDRO on the Rockwell",
+   "d": "2018-05-17",
+   "v": 10183,
+   "s": 662,
+   "vertical": false,
+   "desc": "After I started using the Rockwell mill, it quickly became apparent that a digital readout would be very useful.  In this episode I fabricate mounting hardware for some cheap Shars scales, and solder up a TouchDRO kit.\n\n- Scales are 6\", 12\" and 24\" \"Digital Machine Aluminum Scales\" from Shars: http://www.shars.com/6-digital-machine-aluminum-scale\n\n- DRO controller is a \"DRO Mixed Scale Controller Kit\" from TouchDRO: http://www.yuriystoys.com/2016/04/touchdro-mixed-scale-controller-kit.html?m=1"
+  },
+  {
+   "id": "1eJYipwwlrA",
+   "t": "Milling a \"Quick-change\" Horizontal Overarm Support - Part 1",
+   "d": "2018-06-04",
+   "v": 8359,
+   "s": 783,
+   "vertical": false,
+   "desc": "The horizontal feature of my Rockwell 21-122 is awesome... except for the hassle of setting it up.  The vertical head and motor are heavy, a pain to remove and re-install, and irritating to re-tram.\n\nInspired by a horizontal adapter seen in a magazine (Home Shop Machinist, Sept/Oct 2014 edition), I'm building a \"quick-change\" horizontal overarm support which will mount on the same shaft as the vertical head.\n\n4:30 Chips start to fly if you want to skip the explanation of the project."
+  },
+  {
+   "id": "oWTl5Yofkak",
+   "t": "As the Rotary Table Turns - \"Quick-change\" Overarm - Part 2.",
+   "d": "2019-01-04",
+   "v": 4848,
+   "s": 814,
+   "vertical": false,
+   "desc": "Only 6 months late.  Milling and then boring out the larger hole, realizing I'm terrible at measuring, attempting to correct issues and making everything worse.  Fun!\n\nBonus: While editing, I noticed the vertical head shifting substantially during some of the heavy/deep milling.  Guess I need to lock the head down tighter!"
+  },
+  {
+   "id": "yTHoegrspT0",
+   "t": "Motorizing a leather patcher - V-Belt Pulley Fabrication",
+   "d": "2019-01-29",
+   "v": 16251,
+   "s": 671,
+   "vertical": false,
+   "desc": "I picked up a cheap chinese leather patcher -- a Singer 29k clone -- for some leather work because my little entry-level sewing machine is not sufficient for leather.  DIY is an illness, so I decided to add a motor to the hand crank. :)\n\nI fabricate a v-wheel pulley on the mill (I really need a lathe!), which will be driven by a modified \"hoverboard\" hub motor.\n\nApologies for the audio levels, was having some microphone difficulties :("
+  },
+  {
+   "id": "sjHQLpGtB7U",
+   "t": "Motorizing a Leather Patcher - Mounting the hub motor",
+   "d": "2019-02-04",
+   "v": 11565,
+   "s": 1166,
+   "vertical": false,
+   "desc": "We disassemble the \"hoverboard\" hub motor, fabricate an adapter and mount a small v-belt pulley.  As usual, most things do not go according to plan - DRO goes crazy, center punch goes through the casting, misaligned holes, bad taps.  Yunno... business as normal :)\n\nThe adapter is a piece of mild steel, not because it needed to be, but because I wanted some practice at machining steel."
+  },
+  {
+   "id": "5XAhw0c_8YM",
+   "t": "Motorizing a leather patcher - Finishing and testing",
+   "d": "2019-02-14",
+   "v": 14505,
+   "s": 443,
+   "vertical": false,
+   "desc": "Quick video, just milling a mounting bracket for the motor shaft.  Rather than a grub screw, the d-shaft is sandwiched between two plates, and the whole thing screwed down to a 2x4 for testing.  A cheap EST and PWM servo tester later, and the patcher is moving on it's own volition!\n\nThe ESC is under-rated and insufficient.  Spec'ed at only 14v (4s lipo) the motor is too slow.  Overvolting to 20v speeds it up a bit closer to realistic RPM, but the ESC grows very hot.  In reality the motor would prefer 30-48v, so I need to get a larger ESC for actual usage.\n\nThe PWM generator is just a simple se"
+  },
+  {
+   "id": "eWmX6pZ1bA4",
+   "t": "Does it sew? Testing out the motorized leather patcher",
+   "d": "2019-02-21",
+   "v": 66028,
+   "s": 642,
+   "vertical": false,
+   "desc": "Does it sew? Testing out the motorized leather patcher\n\nI had several requests to see the leather patcher in action, so here's a quick video showing it sewing through a few different thickness of leather.  I also cover the needles I'm using, since they are a bit non-standard.\n\nThe leather I tested on was probably ~4oz oil-tanned pullup leather.  The second test was 4 layers totaling about 8mm of thickness.  The leather is moderately supple.  I should have grabbed a few pieces of thick tooling leather but didn't think about it at the time, sorry :(\n\nTest thread is #69 polyester, needle is 134-3"
+  },
+  {
+   "id": "kRB5T4-S9Rc",
+   "t": "A Taig MicroMill followed me home",
+   "d": "2019-03-26",
+   "v": 26120,
+   "s": 1161,
+   "vertical": false,
+   "desc": "I wasn't looking for a CNC mill... but somehow this little Taig ended up in my garage.\n\nSometimes there's a deal you just can't pass up.  This little guy showed up on my local CL for a great price and I grabbed it.  Spent a few nights after work knocking together an enclosure, added flood coolant and now have a mostly-working little CNC mill.\n\nBeing a Taig it's super limited and I'll probably only use it for aluminum and plastic.  But it'll help out with small intricate parts like motor mounts."
+  },
+  {
+   "id": "6QOigBUlY4s",
+   "t": "Rockwell Mill brushless motor upgrade",
+   "d": "2019-04-29",
+   "v": 15927,
+   "s": 1061,
+   "vertical": false,
+   "desc": "The 3/4hp induction motor on my Rockwell mill is OK, but it has a bent shaft and mismatched step pulley. I'm upgrading the motor to use a 4kW brushless hobby motor, which is roughly 5hp peak.  Realistically, I expect around 1kW continuous (1-1/3hp).  I chose a BLDC over VFD induction drive because A) I had the motor on hand, B) they have better low-speed torque and C) brushless motors are fun :)\n\nIn this first part I mill out the motor mounting plates and struggle to drill/tap some stainless pipe.  Many broken taps and drills later I have the mount roughed out, ready to start mounting electron"
+  },
+  {
+   "id": "LublRVxjb9M",
+   "t": "Weld'ya look at that: I built a welding table",
+   "d": "2019-05-28",
+   "v": 19078,
+   "s": 606,
+   "vertical": false,
+   "desc": "Did I really need a welder?  No.  But what has that ever stopped anyone from buying a fun new toy for the shop?  A welder needs a welding table (at least, that's my story and I'm sticking to it), so my first project was to make a small welding table for my shop.\n\nWelder is a Harbor Freight \"Unlimited 200 Titanium\".  Multi-process entry-level welder that can do Mig, DC stick, DC Tig.\n\nTable is constructed from 1.5\" angle iron and a 5/8\" thick plate for the work surface.  Heavy duty casters were cut and welded into a useful shape, and leveling bolts (with plasti-dip) were used for the rest of th"
+  },
+  {
+   "id": "UZ7OFrvY6jk",
+   "t": "DIY Leather Flip Flops",
+   "d": "2019-08-08",
+   "v": 44538,
+   "s": 862,
+   "vertical": false,
+   "desc": "DIY Leather Flip Flops\n\nIt's summer time, which means getting out of the shop and out to the beach.  But my flip flops were beat, and I needed a new pair. Time to make some!\n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nTop and bottom layer are ~6oz veg tanned leather, two inner layers forming the contoured surface are lightweight (~2-3oz?) suede splits, and the sole is semi-hard traction rubber.  The straps are ~4oz oil-tanned pullup."
+  },
+  {
+   "id": "onFxRLCTlDI",
+   "t": "CNC'ing a Motor Mount - Brushless Motor Upgrade Part 2",
+   "d": "2019-11-09",
+   "v": 8477,
+   "s": 668,
+   "vertical": false,
+   "desc": "The brushless motor comes with an adapter for mounting, but where's the fun in that? I wanted to play with the new Taig, so I removed the top of the motor can and replicated the features in Fusion.  I then cut this profile into the top of the motor housing manufactured in the last episode.\n\nAll in all, things went mostly according to plan. The mill cut well (if very slowly), and the coolant system generally worked as intended (albeit with a few hiccups and small leaks)."
+  },
+  {
+   "id": "qiM20-woEOk",
+   "t": "Avid CNC Benchtop Pro - Aluminum chatter analysis",
+   "d": "2020-01-15",
+   "v": 70185,
+   "s": 1372,
+   "vertical": false,
+   "desc": "Avid CNC Benchtop Pro - Aluminum chatter analysis\n\nConfession time: I upgraded from the Taig to an Avid CNC Benchtop Pro 2x3 desktop CNC, and added a CNCDepot S30C spindle + Fogbuster to round it out.  The BenchtopPro is somewhere between a desktop CNC and a small VMC.  It weighs a few hundred pounds, has linear rails and ballscrews on all axis.  The CNCDepot spindle is 24k RPM, 2.2kW (~3hp) and has pneumatic toolchanging.  In this video I'm testing out some recipes to see where the mill is happy, introduce a range of end mills I plan on testing in the future, and do some spectrogram chatter a"
+  },
+  {
+   "id": "rTFn84UwFCM",
+   "t": "Can we cut steel on a desktop gantry router?",
+   "d": "2020-01-26",
+   "v": 253816,
+   "s": 712,
+   "vertical": false,
+   "desc": "Avid CNC Benchtop Pro vs Mild Steel - can we cut steel on a desktop gantry router?\n\nTesting out recipes for cutting A36 mild steel on my Avid CNC Benchtop Pro CNC router, using the CNCDepot S30C 2.2kW spindle and a Fogbuster.  Aluminum is comparatively more forgiving than steel, and it really becomes apparent on lighter desktop gantry routers.  My Aluminum testing had some chatter, but generally cut well even on poorly optimized recipes.  But steel took a lot more tuning and tweaking to find a recipe.  \n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nIn this video I walk through my thought proce"
+  },
+  {
+   "id": "ErSbP0O4RBo",
+   "t": "3D printed tool rack for my ISO30 ATC Spindle",
+   "d": "2020-02-24",
+   "v": 14054,
+   "s": 606,
+   "vertical": false,
+   "desc": "Prototyping and testing a 14-position, 3D printed \"pocket\" tool rack for my CNCDepot S30C ATC spindle.  The system is modular and holds 12 tools, a probe and a 3\" facemill that I plan to use a single-point flycutter.  The rack sits at the back of my Avid CNC Benchtop Pro 2x3 cnc router.  \n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nThe current iteration of the rack is probably about 80% complete... there are some bugs to work out, but it's reliable enough to start using.  Lua modules and macros control the tool replacement, M6 tool change and probing routines in Mach 4.  The probing reuses t"
+  },
+  {
+   "id": "fEJ0z1uuni0",
+   "t": "More steel cutting tests on the Benchtop Pro",
+   "d": "2020-03-13",
+   "v": 42337,
+   "s": 747,
+   "vertical": false,
+   "desc": "More steel cutting tests on the Benchtop Pro\n\nY'all left a ton of great suggestions on the last steel cutting video, so we're trying a few of them out in this video!  Testing better conventional recipes, giving conventional a shot, and seeing how High Feed end mills work on a lightweight gantry router.  By the end I think I have a recipe that approximates \"good enough\".\n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nIf you're new here, the router is an AvidCNC Benchtop Pro 2x3, equipped with a CNCDepot S30C ATC spindle and Fogbuster.  \n\n0:24: Climb cutting test #1\n3:24: Conventional cutting\n5:0"
+  },
+  {
+   "id": "IYm613Nrd0A",
+   "t": "Tips and Tricks for HDPE machining on a desktop router",
+   "d": "2020-05-04",
+   "v": 50386,
+   "s": 572,
+   "vertical": false,
+   "desc": "Tips and Tricks for HDPE machining on a desktop router\n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nA quick video describing some tips and tricks for machining HDPE on my AvidCNC Benchtop Pro.  Not surprisingly, plastic is super easy machine relative to metal... but there are a few tricks that ensure a good finish and accurate dimensions\n\nThe project in question is another set of face shield molds for some viewers that requested them (tweaked slightly to use Smoothcast 65D, hence the different/thinner shape).  But the objective of this video is to give general tips for machining HDPE, not spe"
+  },
+  {
+   "id": "JNXgHbBIRYQ",
+   "t": "Machining an injection mold for acrylic lenses",
+   "d": "2020-07-02",
+   "v": 150303,
+   "s": 1258,
+   "vertical": false,
+   "desc": "Injection molding: a lot harder than you'd think!  I picked up a benchtop injection molding machine to play with, and thought a \"simple\" double convex singlet lens would be a good first project.  \n\n\ud83d\udce2 Twitter: https://twitter.com/BreakingTaps\n\nThis video is a mix of machining, injection molding theory chat, molding some acrylic lenses, and then analyzing their stress concentrations with polarized light and birefringence.  Hold on to your butts!  Oh, and we played with a new polycrystalline diamond (PCD) end mill too.\n\nThe machine I have is a Proto-Ject 150HP: it can deliver ~9k PSI injection pr"
+  },
+  {
+   "id": "Ww2grGsl3Dk",
+   "t": "Let's build a TBot cartesian motion platform",
+   "d": "2020-07-25",
+   "v": 66388,
+   "s": 1594,
+   "vertical": false,
+   "desc": "Let's build a TBot cartesian motion platform\n\nI needed an XY motion platform for an upcoming project, and had some prior CAD work for a \"T-Bot\" parallel cartesian mechanism.  Let's machine some parts and assemble!  Not as simple as v-wheels and extrusions, but a lot more fun :) We do some milling, some drilling with carbide 2.5mm drills and full profile threadmilling.\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\nThis mechanism uses three MGN12 linear rails, GT2 steel-reinforced belt and two Anaheim Automation DC brushless servo motors.  I'll be wiring this up with some encoders and an ODrive f"
+  },
+  {
+   "id": "tpO5DgiCgyM",
+   "t": "Ultralight Metallic Microlattices",
+   "d": "2020-08-12",
+   "v": 145528,
+   "s": 812,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nA team of researchers created ultralight metallic microlattices back in 2011... and I tried to replicate their result using commercially available, off-the-shelf materials.\n\nThe authors used a special self-propagating photocurable resin, electroless nickel plating and a special solution to dissolve the resin.  I have a cheap resin printer and some DIY copper/ni"
+  },
+  {
+   "id": "w3jV58_Vv24",
+   "t": "Copper metalization with a diode laser",
+   "d": "2020-09-29",
+   "v": 127155,
+   "s": 1104,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nThree laser experiments today: laser-induced electroless copper plating, laser-assisted electroplating on stainless steel, and laser-induced chemical liquid phase deposition onto glass. Whoo!  I'm using a \"20W\" 450nm blue laser etching machine for these experiments, and while a bigger or pulsed laser would work better, it did a pretty ok job.\n\n0:00 Intro\n1:03 L"
+  },
+  {
+   "id": "aog0syGaZzQ",
+   "t": "Endmill chatter at 20,000 Frames-per-Second",
+   "d": "2020-10-20",
+   "v": 208639,
+   "s": 551,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nWhat does it look like when an endmill starts chattering?  How about at 20,000 frames-per-second?  I'm in the shop playing with a high speed camera, filming Online Carbide 1/4\" 4FL variable helix end mill on mild steel with my AvidCNC Benchtop Pro.\n\nReally amazing footage, pretty impressive to see the workpiece, vice and spindle/endmill moving around so much!\n\n"
+  },
+  {
+   "id": "RKcUgdXUf9Y",
+   "t": "Kapton Tape Supercapacitor?",
+   "d": "2020-11-10",
+   "v": 237423,
+   "s": 675,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nCan you make a supercapacitor from kapton tape?  Yep!  Using a laser, we can decompose the Kapton (polyimide) into a graphene \"foam\" via a process known as Laser Induced Graphene.  This form of graphene makes an excellent material for electrostatic double-layer supercapacitors.  It has reasonable conductivity and a very large surface area due to the foamy natur"
+  },
+  {
+   "id": "eW-_h6JjirU",
+   "t": "Single Flute end mill at 15,000 FPS",
+   "d": "2020-12-11",
+   "v": 35114,
+   "s": 673,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \u25bahttp://bit.ly/Subscribe_Breaking_Taps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nDATRON Cross Cutter and Single Flute end mill filmed at 15,000 FPS.\n\nToday we're cutting some 6061 with single flute tooling provided by DATRON, recorded at high speed.  And it looks glorious!  Apologies about the audio, I had some microphone difficulties that weren't discovered until later :(\n\nTools used:\n- 6mm single flute carbide: 0068460E (https://www.datron.com/product/single-flute-end-mills/)\n- 6mm Cross Cutter rougher: 00688006E (https://www.da"
+  },
+  {
+   "id": "leh8RjVg0Js",
+   "t": "Nanosecond explosions will cut glass",
+   "d": "2021-01-03",
+   "v": 111933,
+   "s": 949,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nToday we're (micro)-machining glass with a fiber laser.  Using a copper sulfate solution, we can etch glass with a pulsed laser like the relatively common Nd:YAG fiber lasers.  The CuSO4 solution absorbs laser pulses, vaporizes and forms copper oxide on the surface of the glass.  In turn, this oxide absorbs even more of the next laser pulse and generates small explosions of plasma which melt a few microns of glass.  The process repeats until you are happy.\n\nThis process is known as Laser"
+  },
+  {
+   "id": "cp_EOxEyNHs",
+   "t": "Stronger 3D Printed Parts with Electroplating",
+   "d": "2021-02-22",
+   "v": 113506,
+   "s": 877,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nDouble the ultimate tensile strength of resin prints with electroplating. Vastly improve the stiffness as well!\n\nIn this video we electroplate SLA samples with Acid Copper and Bright Nickel, then test their tensile and ultimate strength using a universal testing machine.  Stress measurements are done with a load cell and arduino, strain measuresments are done u"
+  },
+  {
+   "id": "9TYlQ4urcg8",
+   "t": "DIY Scanning Laser Microscope",
+   "d": "2021-04-21",
+   "v": 492616,
+   "s": 1325,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nI built a 3D printed, scanning laser confocal microscope so I could collect 3D surface topology and profilometry data!  The microscope stage is based on an OpenFlexure \"Delta\" stage, and the confocal optics are constructed with a 3D printed body, some lenses, a 405nm laser, pinhole and photodiode.  The microscope is controlled by a Raspberry Pi (which controls "
+  },
+  {
+   "id": "RRzFryVrvw8",
+   "t": "Laser etching stencils for vapor deposition",
+   "d": "2021-05-16",
+   "v": 24446,
+   "s": 845,
+   "vertical": false,
+   "desc": "Shadow masks! We're making micro stencils to use in my sputter coater, and talking about how to fabricate them quickly and easily on a fiber laser.  Then some examples to see how it works and what kind of results you can get.\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\n\nA system of vapor deposition interlinked within\nMasks interlinked within masks interlinked\nWithin one chamber. And dreadfully distinct"
+  },
+  {
+   "id": "2Kv6KwADn7Q",
+   "t": "1,000,000x Magnification with Atomic Force Microscope",
+   "d": "2021-06-05",
+   "v": 551462,
+   "s": 1360,
+   "vertical": false,
+   "desc": "Today we're looking at Atomic Force Microscopy! I built a \"macro-AFM\" to demonstrate the principles of an atomic force microscope, then we look at a real AFM (an nGauge AFM from ICSPI) and do a few scans in the shop to see how it works.\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\n\nAFM is a complimentary technique to SEM.  Both can provide nanometer resolution images, but their different mechanisms (phy"
+  },
+  {
+   "id": "m0UK7LVSZ8g",
+   "t": "Microscopic view of Tungsten Disulfide",
+   "d": "2021-06-07",
+   "v": 28762,
+   "s": 525,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nStart of a new segment, Micrograph Monday! In these short segments, I would like to share some cool scans from the AFM, optical microscopes or other instruments I have around the shop.  Basically just a way for me to share interesting findings without a full blown project video. Hope you enjoy!\n\n======= Background Information =======\nThis first video is about T"
+  },
+  {
+   "id": "2qpIkayVC0s",
+   "t": "Microscopic view of an Opal Gemstone",
+   "d": "2021-06-14",
+   "v": 22672,
+   "s": 398,
+   "vertical": false,
+   "desc": "CONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n======= Background Information =======\nOpals! Photonic crystals! Structural color!  Opals are examples of natural photonic crystals. They are composed of small silica nanoparticles ranging in size from 50-300nm, and packed tightly together in a semi-regular \"lattice\"\n\nThe individual silica nanoparticles (glass beads, basically) are clear, but when packed togeth"
+  },
+  {
+   "id": "m_ScOUNAdlM",
+   "t": "Why aren't Gold Nanoparticles Gold?",
+   "d": "2021-07-02",
+   "v": 132627,
+   "s": 852,
+   "vertical": false,
+   "desc": "Why do gold nanoparticles appear red or purple? Let's make some and find out!  But please don't drink this \ud83d\ude09\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nThe color of gold nanoparticles depends on their physical size, ranging from light red to a dark bluish/purple. This phenomenon is caused by Plasmon Resonance. There is a cloud of delocalized electrons flying around a metal, and these electrons can reac"
+  },
+  {
+   "id": "2cZ0XJWxyH0",
+   "t": "What is the Flattest Material?",
+   "d": "2021-07-19",
+   "v": 1175760,
+   "s": 642,
+   "vertical": false,
+   "desc": "Scanning a variety of precision optical and metrology equipment to find the flattest and smoothest material\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\nIn the very first AFM video, I showed a \"precision\" gage block and everyone was surprised how rough it looked. So today we are scanning a variety of surfaces (gage block, mirrors, silicon, mica) to see how they compare in flattness and roughness.  The fl"
+  },
+  {
+   "id": "U885cIhOXBM",
+   "t": "Microscopic view of an Intel i486",
+   "d": "2021-08-15",
+   "v": 2671301,
+   "s": 429,
+   "vertical": false,
+   "desc": "The Intel i486 might be over 30 years old, but it's still an incredible piece of technology.  Especially when viewed up close with a scanning electron microscope.\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\u2705 Sources\n\u2022 https://www.tech-insider.org/microprocessors/research/1989/0411.html\n\u2022 https://en.wikipedia.org/wiki/I486\n\u2022 http://www.cpu-collection.de/?l0=co&l1=Intel&l2=i486%20SX"
+  },
+  {
+   "id": "1tf--Fy5YJw",
+   "t": "Molding a Microlens Array",
+   "d": "2021-09-02",
+   "v": 229788,
+   "s": 1175,
+   "vertical": false,
+   "desc": "Microlenses are tiny optical devices used to focus light onto cameras and fiber optics.  While debugging a different project, I stumbled on a technique that made hemispherical depressions.  So I made some microlenses.\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Laser Parameters ====\nHad some requests for more details about the laser parameters. I'm not sure how much this is dependent on my particul"
+  },
+  {
+   "id": "6XfB2j-pGO8",
+   "t": "Extracting Microplastics with Olive Oil",
+   "d": "2021-10-29",
+   "v": 61291,
+   "s": 1057,
+   "vertical": false,
+   "desc": "Today we're extracting and purifying microplastics from my local lake using Olive Oil!  This is part of the #TeamSeas campaign, to raise awareness around the issues of plastic in our oceans, beaches and rivers.\n\nAll adsense revenue from this video will be donated to #TeamSeas, and you can donate directly at https://teamseas.org/\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Details ====\nThere are multip"
+  },
+  {
+   "id": "mfAGivG9Koc",
+   "t": "Make Your Own Optical Lenses",
+   "d": "2021-12-06",
+   "v": 704213,
+   "s": 1469,
+   "vertical": false,
+   "desc": "Today we're making lenses with epoxy, using a replication molding technique. It... mostly works \ud83d\ude07\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Details ====\nWe can replicate lenses using silicone molds and optical epoxy resin. But there are a lot of caveats to this technique, and little hiccups that will ruin the optical finish. To achieve an optical finish, you need surface roughness and figure devi"
+  },
+  {
+   "id": "ZAu3sXXCZuo",
+   "t": "Doping Silicon with Lasers",
+   "d": "2021-12-24",
+   "v": 203799,
+   "s": 1097,
+   "vertical": false,
+   "desc": "Today we're doping silicon wafers with a phosphoric acid and a fiber laser.\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Details ====\nImpurity dopants are traditionally introduced into a wafer via thermal diffusion, or ion implant. There is an alternate method using lasers to drive the dopant into the wafer, a sort of targeted thermal diffusion. This technique is used in the solar panel industry to "
+  },
+  {
+   "id": "5MxH1sfJLBQ",
+   "t": "How to achieve nanometer precision in space?",
+   "d": "2022-02-07",
+   "v": 749975,
+   "s": 667,
+   "vertical": false,
+   "desc": "The cryogenic mirror actuators on JWST are amazing feats of engineering. Capable of long travel and nanometer precision, able to survive rocket launch, cryogenic temperatures and hard vacuum... they are really impressive devices. And they use flexures!\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Links ====\n- \"Cryogenic Nano-Actuator for JWST\": https://www.esmats.eu/amspapers/pastpapers/pdfs/2006/wa"
+  },
+  {
+   "id": "XJ9w7DjI_Bc",
+   "t": "DIY Semiconductor Patterning",
+   "d": "2022-03-19",
+   "v": 337401,
+   "s": 1308,
+   "vertical": false,
+   "desc": "DIY photolithography using a direct write laser machine. \n\nThis is a maskless technique (similar to projection lithography) to create patterns in a photosensitive resin (photoresist). This is a common step in many microfabrication operations like transistor/semiconductor fabrication, MEMS devices, microfluidics, etc. \n\nThe advantage of maskless litho over traditional masked lithography is that you don't need to generate a mask first (which often itself requires photolithography). Maskless is faster for one-off and prototype work, but mask is superior once you need to create millions of devices"
+  },
+  {
+   "id": "NfjQO9_9C1U",
+   "t": "3D Printing Optomechanical Components",
+   "d": "2022-03-30",
+   "v": 68843,
+   "s": 1115,
+   "vertical": false,
+   "desc": "Tips and tricks about 3D printing optomechanical parts. Many components can be printed which helps reduce cost, leaving your money to buy lenses and mirrors instead. But some things are hard to print or not well suited.\n\nThis is a companion video to the DIY Laser Lithography project: https://youtu.be/XJ9w7DjI_Bc\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 "
+  },
+  {
+   "id": "TrYhy8Pll-0",
+   "t": "Laser cutting Silicon Wafers",
+   "d": "2022-04-19",
+   "v": 165639,
+   "s": 798,
+   "vertical": false,
+   "desc": "Micromachining silicon with lasers (but no sharks)! Today we're exploring different properties and parameters involved with cutting silicon with a pulsed nanosecond laser\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Links ====\n- Photon sieve design is from: Andersen, Geoff, and Drew Tullson. \"Broadband antihole photon sieve telescope.\" Applied optics"
+  },
+  {
+   "id": "hrnAsfalL9o",
+   "t": "Fruit Fly inside an Electron Microscope",
+   "d": "2022-06-04",
+   "v": 64462,
+   "s": 521,
+   "vertical": false,
+   "desc": "A closer look at the common fruit fly might surprise you.\n\nThis was originally hosted on my Micrographia sub-channel, but I've decided to pause that channel for now and just host the episodes here.  Enjoy!\n\nCONSIDER SUBSCRIBING \ud83e\udd70\n\u2615Buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\ud83d\udd2cOr Patreon if that's your jam: https://www.patreon.com/breakingtaps\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\u2705 Sources\n\u2022 Kohler, Robert E. \"Drosophila: A life in the laboratory.\" Journal of the History of Biology (1993): 281-310.  https://www.jstor.org/stable/43312"
+  },
+  {
+   "id": "2eiaW2Memqc",
+   "t": "Moving mirrors with heat",
+   "d": "2022-07-23",
+   "v": 362046,
+   "s": 722,
+   "vertical": false,
+   "desc": "Deformable mirror using thermal actuators. Route to DIY adaptive optics for hobbyists? Maybe not, but it is an interesting demonstration project!\n\nAlso, new shop who dis? Apologies for audio and sketchy camera work. Crisp cinematography and audio will be back soon \ud83d\ude05\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Links ====\n- Vdovin, G., and M. Loktev. "
+  },
+  {
+   "id": "pVq0egb9uKc",
+   "t": "Orbital vacuum in a box - high vacuum chamber",
+   "d": "2022-08-08",
+   "v": 153390,
+   "s": 1091,
+   "vertical": false,
+   "desc": "Let's look at a high vacuum chamber and all the associated components \ud83d\ude42\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\n==== Timeline ====\n0:00 Intro\n1:10 Roughing pump\n3:22 Control electronics\n3:50 Valves, gas inlets\n5:29 Turbomolecular pump\n8:14 Door, windows, ports, flanges\n10:45 KF/NW quick change flanges vs Conflat\n15:44 Pumpdown procedure"
+  },
+  {
+   "id": "Vq_6mAAbfFY",
+   "t": "Metal Alloys of the Future?",
+   "d": "2022-08-24",
+   "v": 821620,
+   "s": 925,
+   "vertical": false,
+   "desc": "High Entropy Alloys are a fascinating new area of research, so today we're going to try and make some HEA nanoparticles and explain what makes this research so exciting\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Resources ====\n- Multi-component High Entropy Alloys (Brian Cantor): https://www.youtube.com/watch?v=hB2qrIGJjSc\n- HEA Lecture Part 1: htt"
+  },
+  {
+   "id": "zIbyxtJ1H8k",
+   "t": "Analog Nanotechnology",
+   "d": "2022-09-02",
+   "v": 73636,
+   "s": 430,
+   "vertical": false,
+   "desc": "Today we're looking at RCA's ill-fated attempt to put video on vinyl records!  SelectaVision, aka the Capacitance Electronic Disc. This was a system that encoded nanoscale features onto carbon-filled vinyl records, and measured the minute changes in height using an elaborate system to detect changes in capacitance.\n\nConsidering how old this technology is, the (nano)scale of features achieved is truly staggering!\n\nThis is a migration of the Micrographia channel. \ud83d\ude42\n\n\ud83d\udcda Sources\n\u2022 Technology Connection's CED Playlist: https://www.youtube.com/playlist?list=PLv0jwu7G_DFVP0SGNlBiBtFVkV5LZ7SOU\n\u2022 https:"
+  },
+  {
+   "id": "3KXkcFcjcfY",
+   "t": "Drawing Microscopic Patterns with Electrons",
+   "d": "2022-12-02",
+   "v": 199378,
+   "s": 1477,
+   "vertical": false,
+   "desc": "Today we're looking at Electron Beam Lithography using a scanning electron microscope\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== More E-Beam Litho! ====\npeterbjornx has recently been converting his SEM to run litho patterns. Particularly interesting since it's very DIY (vs the python api for my machine): \n- https://twitter.com/peterbjornx/status/14"
+  },
+  {
+   "id": "KDdcsYp-gRM",
+   "t": "A year of failed experiments",
+   "d": "2022-12-10",
+   "v": 58219,
+   "s": 964,
+   "vertical": false,
+   "desc": "Over the years I've worked on a lot of projects, and many of them never made it onto the channel. Looking at a few of my failed or otherwise shelved projects today!\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n==== Misc ====\nCAD model for the XY Flexure stage: https://www.thingiverse.com/thing:5698841\n\n==== Timeline ====\n0:00 Intro\n1:05 VAST Project\n1:56 "
+  },
+  {
+   "id": "gsmqijBjBAc",
+   "t": "More rigorous analysis of \"Ceramic\" car spray",
+   "d": "2023-01-06",
+   "v": 46482,
+   "s": 769,
+   "vertical": false,
+   "desc": "So in the prior video, there were a lot of questions and suggestions. Here's a quick clarification video with some followup experiments!\n\nPrevious Video: https://www.youtube.com/watch?v=up_iNN3cQ-A\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\n==== Timeline ====\n0:00 Intro\n0:26 Did you shake it?\n0:56 Does it work?\n1:22 Screen Protectors\n2:12 Ceramic != Gl"
+  },
+  {
+   "id": "up_iNN3cQ-A",
+   "t": "Ceramic Spray is (probably) useless",
+   "d": "2023-01-06",
+   "v": 106837,
+   "s": 729,
+   "vertical": false,
+   "desc": "I purchased some \"ceramic\" (amorphous silicon dioxide) hydrophobic spray and was curious if the marketing matched the reality. We'll look at the spray under the Atomic Force Microscope and Scanning Electron Microscope\n\nThere's a followup video! https://www.youtube.com/watch?v=gsmqijBjBAc\n\nNote: This is the only \"ceramic\" spray I've tested, there are several on the market. Perhaps others are better, and perhaps I just analyzed this product poorly! Suffice to say I was unimpressed though \ud83d\ude42\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a co"
+  },
+  {
+   "id": "8Wp82__0XUE",
+   "t": "Machining a Mars Crater in Aluminum",
+   "d": "2023-01-18",
+   "v": 86849,
+   "s": 29,
+   "vertical": true,
+   "desc": "Machining a topo map of Gale Crater (on Mars) using my 5 axis CNC \ud83d\ude42\n\n#shorts"
+  },
+  {
+   "id": "-PTPNi-i0kI",
+   "t": "Making Microscopic Pictures",
+   "d": "2023-01-18",
+   "v": 12105503,
+   "s": 60,
+   "vertical": true,
+   "desc": "Longer explanation video: https://youtu.be/3KXkcFcjcfY\n\nJust testing out a new electron beam lithography setup in my shop \ud83d\ude07 The final pattern that's etched is about the width of a human hair, if that helps provide some context\n\n#shorts"
+  },
+  {
+   "id": "g--OkGVTc9k",
+   "t": "Capacitance Electronic Discs",
+   "d": "2023-01-18",
+   "v": 2204622,
+   "s": 60,
+   "vertical": true,
+   "desc": "Capacitive Electronic Discs are a cool tech from RCA that ultimately failed due to competition from VHS and Betamax, and gross managerial incompetence inside RCA. But the tech is very cool and utilized nanoscale engineering which was quite revolutionary for its time!\n--------------------------------\n\n\n#shorts"
+  },
+  {
+   "id": "vb1dciVAM_w",
+   "t": "Adaptive Milling aluminum on my Desktop CNC",
+   "d": "2023-01-18",
+   "v": 87843,
+   "s": 22,
+   "vertical": true,
+   "desc": "Just chewing up some aluminum using an AvidCNC \n\n#shorts"
+  },
+  {
+   "id": "B8ohDNBsR_o",
+   "t": "Cutting Steel on a Desktop CNC",
+   "d": "2023-01-18",
+   "v": 3100506,
+   "s": 37,
+   "vertical": true,
+   "desc": "Can we cut steel on a desktop CNC? Yes, but it takes some tuning to get there \ud83d\ude01\n\n#shorts"
+  },
+  {
+   "id": "S2QGnMVoN2U",
+   "t": "End mill breaking at 20,000 FPS",
+   "d": "2023-01-18",
+   "v": 151004,
+   "s": 40,
+   "vertical": true,
+   "desc": "What does it look like when an endmill starts chattering?  How about at 20,000 frames-per-second?  I'm in the shop playing with a high speed camera, filming Online Carbide 1/4\" 4FL variable helix end mill on mild steel with my AvidCNC Benchtop Pro.\n\n#shorts"
+  },
+  {
+   "id": "YLgGQnEaigQ",
+   "t": "Making Microlenses smaller than a human hair",
+   "d": "2023-01-18",
+   "v": 1767087,
+   "s": 46,
+   "vertical": true,
+   "desc": "Microlenses are tiny optical devices used to focus light onto cameras and fiber optics.  While debugging a different project, I stumbled on a technique that made hemispherical depressions.  So I made some microlenses.\n-----------------------------\n\n#shorts \n\nFull video on Breaking Taps channel (I made lenses smaller than a fly's eye): https://www.youtube.com/watch?v=1tf--Fy5YJw&t=0s"
+  },
+  {
+   "id": "snmIKpjg6Wo",
+   "t": "Making Gold Nanoparticles with Lasers",
+   "d": "2023-01-18",
+   "v": 6463224,
+   "s": 45,
+   "vertical": true,
+   "desc": "The color of gold nanoparticles depends on their physical size, ranging from light red to a dark bluish/purple. This phenomenon is caused by Plasmon Resonance. There is a cloud of delocalized electrons flying around a metal, and these electrons can react in a coordinated manner to electromagnetic fields (like light).  But when the surface of the metal is very small -- like in a nanoparticle -- the electron cloud is can begin to oscillate across the surface.  \n\nIf the wavelength of light is just right it will resonate with the electron cloud, and that wavelength of light is reflected while all "
+  },
+  {
+   "id": "4Ua6gCrrofI",
+   "t": "I Hacked My SEM to See Graphene",
+   "d": "2023-01-20",
+   "v": 90686,
+   "s": 1155,
+   "vertical": false,
+   "desc": "Using a STEM-in-SEM conversion holder, we can convert a scanning electron microscope into a scanning transmission microscope. Neat!\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\u2615Or buy me a coffee? https://www.buymeacoffee.com/Breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4 \n\n\n==== Timeline ====\n0:00 Intro\n0:27 How an SEM works\n1:50 Backscattered Electrons\n3:38 Secondary Electrons\n6:08 How a TEM works\n9:33 STEM-in-SEM Conversion Holder\n12:40 Calibration"
+  },
+  {
+   "id": "_Aa_4wGsHNg",
+   "t": "Wasp inside an Electron Microscope",
+   "d": "2023-01-31",
+   "v": 42162,
+   "s": 409,
+   "vertical": false,
+   "desc": "Common Hoverfly Parasitoid Wasps! Today we're looking at a wasp I found in my backyard. This little insect lays its eggs inside of other hosts (hoverflys), which consumes the hoverfly larva from the inside out before bursting forth. Like a real life Alien! \n\nThe anatomy and morphology is absolutely fascinating under the SEM, especially compared to the fruit fly we saw in a prior episode.\n\n(This was previously on my second channel, Micrographia, but will now live here)\n\n\ud83d\udcda Sources\n\u2022 http://www.waspweb.org/Ichneumonoidea/Ichneumonidae/Diplazontinae/Diplazon/Diplazon_laetatorius.htm\n\u2022 https://en.w"
+  },
+  {
+   "id": "gCIGS2HX_PY",
+   "t": "Goldenrod inside an Electron Microscope",
+   "d": "2023-01-31",
+   "v": 26471,
+   "s": 506,
+   "vertical": false,
+   "desc": "Goldenrod: harbinger of allergies or misunderstood wildflower? \n\n(This was moved from my old Micrographia channel)\n\n\u2705 Sources\n\u2022 Perez, B., Carrettoni, D. M., Lus, B. A., & Ap\u00f3stolo, N. M. (2019). Morphoanatomy of the inflorescence and flowers of Solidago chilensis (Asteraceae). Brazilian Journal of Botany. doi:10.1007/s40415-019-00555-w \n\u2022 Evans, W. C., & Evans, D. (2009). Cell differentiation and ergastic cell contents. Trease and Evans\u2019 Pharmacognosy, 551\u2013562. doi:10.1016/b978-0-7020-2933-2.00042-3 \n\u2022 Anderson, Loran C., and Jessica B. Creech. \"Comparative leaf anatomy of Solidago and relate"
+  },
+  {
+   "id": "X0-xo-2Jrlg",
+   "t": "Parasitic Wasp",
+   "d": "2023-02-03",
+   "v": 2087273,
+   "s": 48,
+   "vertical": true,
+   "desc": "Common Hoverfly Parasitoid Wasp. It injects it's eggs into a host larva (hoverflys), and as the wasp grows it devours the host from the inside out. \ud83d\ude31\n\n#shorts"
+  },
+  {
+   "id": "rZXCbHa8vjk",
+   "t": "Slow Motion Tuning Fork",
+   "d": "2023-02-14",
+   "v": 253930,
+   "s": 57,
+   "vertical": true,
+   "desc": "Have you ever seen a tuning fork at 10,000 FPS?\n\nSmall clarification: the large fork has a 180hz tone when analyzed with a frequency detector (and held up to your ear), but also higher overtones which is mostly what's heard on the microphone. I should have mentioned the overtones but slipped my mind when filming. Sorry!\n\n#shorts"
+  },
+  {
+   "id": "xKlqsv4nCao",
+   "t": "Atomic Force Microscope",
+   "d": "2023-02-17",
+   "v": 30391205,
+   "s": 57,
+   "vertical": true,
+   "desc": "Longer explanation video: https://youtu.be/2Kv6KwADn7Q\n\nAn atomic force microscope (AFM) taps on samples with a tiny probe, instead of using light like a regular microscope. They can generate 3D images with nanometer precision.\n\nThe AFM in this video is an nGauge by ICSPI\n\n#shorts"
+  },
+  {
+   "id": "9X4frIQo7x0",
+   "t": "The Micro Mechanisms in Your Phone",
+   "d": "2023-03-05",
+   "v": 1313725,
+   "s": 1171,
+   "vertical": false,
+   "desc": "Win oscilloscopes and more at Keysight's Live from the Lab Event! https://www.keysight.com/us/en/events/keysight-world/live-from-the-lab-breakingtaps.html\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-how-your-phone-knows-up-from-down\n\n======================\n\nHow does your phone track its position in space? MEMS devices! Phones use small micro mechanical chips called MEMS, to monitor accelerations and rotations. These are fabricated using semiconductor technology, but are tiny little moving mechanisms.\n\nToday we're decapping a six axis IMU (MPU-6050, on a GY-521 br"
+  },
+  {
+   "id": "jsROO9wQqQc",
+   "t": "Spiral flexure bearing",
+   "d": "2023-03-15",
+   "v": 2221021,
+   "s": 34,
+   "vertical": true,
+   "desc": "Spiral flexure bearings are pretty cool \ud83d\ude0e\n\n#shorts"
+  },
+  {
+   "id": "H4YZxb2E5PA",
+   "t": "NASA's clever technique to make combustion chambers",
+   "d": "2023-04-21",
+   "v": 1603485,
+   "s": 979,
+   "vertical": false,
+   "desc": "Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/breakingtaps\n\nWatch my exclusive video on Electroplating Diamond Tools for CNC machining glass: https://nebula.tv/videos/breakingtaps-electroplating-diamond-coatings-for-cnc-glass-machining\n\n--------------------------\nEtsy shop: https://www.etsy.com/listing/1451656792/rs-25-main-combustion-chamber-model\n\nPrintables STL download: https://www.printables.com/model/459122-space-shuttle-main-combustion-chamber\n--------------------------\n\nToday we're looking at how the regenerative cooling channels on Space Shuttle's m"
+  },
+  {
+   "id": "cQ8Q4ETkIAg",
+   "t": "Space Shuttle Combustion Chamber",
+   "d": "2023-04-27",
+   "v": 10177420,
+   "s": 60,
+   "vertical": true,
+   "desc": "Longer video! https://www.youtube.com/watch?v=H4YZxb2E5PA\n\nToday we're looking at how the regenerative cooling channels on Space Shuttle's main combustion chamber were manufactured. They used a combination of conventional machining with electroplating, in a really clever technique to mimic what we can do with 3D printing nowadays.\n\nEtsy shop: https://www.etsy.com/listing/1451656792/rs-25-main-combustion-chamber-model\n\nPrintables STL download: https://www.printables.com/model/459122-space-shuttle-main-combustion-chamber"
+  },
+  {
+   "id": "aF7ltBT_atA",
+   "t": "Cutting Metal inside an Electron Microscope",
+   "d": "2023-05-31",
+   "v": 1923352,
+   "s": 792,
+   "vertical": false,
+   "desc": "Head to https://brilliant.org/BreakingTaps/ to get a 30-day free trial. The first 200 people will get 20% off their annual subscription.\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-cutting-metal-inside-an-electron-microscope\n\n-------------------------------------------------------\n\nToday we are machining some metal inside the scanning electron microscope! By creating a custom fixture, we can manually advance a carbide cutter and cut metal inside the vacuum chamber of my SEM. Then we can construct a timelapse of those images to see what metal looks like under extr"
+  },
+  {
+   "id": "7Vulr7k24a0",
+   "t": "Cutting metal under Extreme Magnification",
+   "d": "2023-06-06",
+   "v": 6244901,
+   "s": 60,
+   "vertical": true,
+   "desc": "Full video here: https://www.youtube.com/watch?v=aF7ltBT_atA\n\nI made a widget to cut metal inside of a scanning electron microscope. The resulting timelapse is pretty cool!\n\n#shorts"
+  },
+  {
+   "id": "_YztreLmIlI",
+   "t": "Micro mechanisms in your phone",
+   "d": "2023-06-08",
+   "v": 878486,
+   "s": 60,
+   "vertical": true,
+   "desc": "Longer video: https://www.youtube.com/watch?v=9X4frIQo7x0\n\nMicro electromechanical systems (MEMS) are tiny mechanical contraptions inside your phone which detect accelerations and rotation, using accelerometers and gyroscopes machined out of pure silicon.\n\n#shorts"
+  },
+  {
+   "id": "lJYufx0bfpw",
+   "t": "A problem so hard even Google relies on Random Chance",
+   "d": "2023-06-28",
+   "v": 1515212,
+   "s": 726,
+   "vertical": false,
+   "desc": "Head to https://brilliant.org/BreakingTaps/ to get a 30-day free trial. The first 200 people will get 20% off their annual subscription.\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-the-algorithm-that-embraces-random-chance\n\n-------------------------------------------------------\n\nToday we're looking at HyperLogLog, an algorithm that leverages random chance to count the number of distinct items are in a dataset. It does this by tracking the longest run of zeros in a binary sequence, and uses that as an estimate of cardinality.\n\nHLL is a probabilistic algorithm, me"
+  },
+  {
+   "id": "0HZ35CyHVxQ",
+   "t": "The Microspheres Hiding in your Phone's Screen",
+   "d": "2023-07-31",
+   "v": 809196,
+   "s": 669,
+   "vertical": false,
+   "desc": "The first 1,000 people to use the link will get a 1 month free trial of Skillshare https://skl.sh/breakingtaps07231\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-conducting-electricity-in-only-one-dimension\n\n-------------------------------------------------------\n\nToday we're looking at Anisotropic Conductive Film (ACF) or tape. This is a special tape that's used widely in LCD/OLED products to bond the electrical connectors to the glass display.\n\nIt uses small plastic microspheres coated in metal to create the electrical connection, and the arrangement allows a sin"
+  },
+  {
+   "id": "DbdxeuI1r7A",
+   "t": "Prototyping (Tiny) Rocket Injectors",
+   "d": "2023-09-02",
+   "v": 390118,
+   "s": 1028,
+   "vertical": false,
+   "desc": "\u2b50 Get Nebula for 40% off an annual subscription: https://go.nebula.tv/BreakingTaps\n\n\ud83d\ude80 Watch my Injector BTS Engineering video: https://nebula.tv/videos/breakingtaps-prototyping-a-tiny-rocket-injector-engineering-bts?ref=BreakingTaps\n\ud83d\ude9a Real Engineering's Hypersonic Uhaul BTS: https://nebula.tv/videos/realengineering-behind-the-scenes-i-made-a-hypersonic-uhaul?ref=BreakingTaps\n\n--------------------------------\n\nToday we're prototyping some rocket injectors for a monopropellant thruster that I'm building! The two types of injectors we are looking at are Showerhead and Impinging injectors, and ana"
+  },
+  {
+   "id": "9eDAJt4d9k4",
+   "t": "Impinging Rocket Injector",
+   "d": "2023-09-05",
+   "v": 5571459,
+   "s": 23,
+   "vertical": true,
+   "desc": "High speed footage of a \"like-doublet\" impinging injector.  This kind of injector smashes to streams of liquid into each other to generate a fine, atomized mist. This is often used to mix fuel and oxidizer to ensure a good combustion in the rocket engine.\n\nMore details about these injectors: https://youtu.be/DbdxeuI1r7A\n\n#shorts"
+  },
+  {
+   "id": "nNNv04I-el8",
+   "t": "Ion beam etching #science",
+   "d": "2023-09-19",
+   "v": 161024,
+   "s": 60,
+   "vertical": true,
+   "desc": "Quick look at my ion beam etching / milling setup. This is used to gently erode or etch a sample with an accelerated beam of ions.\n\n#shorts"
+  },
+  {
+   "id": "jyUCWq-wCDI",
+   "t": "Cut anything, even diamond",
+   "d": "2023-11-01",
+   "v": 1256920,
+   "s": 787,
+   "vertical": false,
+   "desc": "Head to https://brilliant.org/BreakingTaps/ for a free 30-day trial. The first 200 people will also get 20% off their annual subscription.\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-etch-anything-even-diamond\n\n\n\nToday we're looking at an ion milling machine. This instrument accelerates argon particles to high velocities and then slam them into your sample, acting as an atomic sandblaster. The sample is slowly etched due to the transfer of kinetic energy from the argon gas molecules.  It can etch literally any material, even diamond!\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cP"
+  },
+  {
+   "id": "wQkrD2D-XFA",
+   "t": "Microscopic Marvel in your Earbuds",
+   "d": "2023-12-19",
+   "v": 1066723,
+   "s": 588,
+   "vertical": false,
+   "desc": "What does the microphone inside of an earbud look like? It's a surprisingly cool bit of technology!\n\nWatch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-microscopic-marvel-in-your-earbuds\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "JVPbMYC2JIQ",
+   "t": "Microphone in your Earbud is Amazing Technology",
+   "d": "2023-12-20",
+   "v": 22893567,
+   "s": 56,
+   "vertical": true,
+   "desc": "What does the microphone inside of an earbud look like? It's a surprisingly cool bit of technology!"
+  },
+  {
+   "id": "O7xH9ZSp_B4",
+   "t": "I tried to make a camera sensor",
+   "d": "2024-04-30",
+   "v": 1666437,
+   "s": 1800,
+   "vertical": false,
+   "desc": "Can we make photosensitive pixels from Copper Oxide?\n\nHuge thanks to Molecular Vista for helping out with their Vista 200 microscope! https://molecularvista.com/\n\n==== Links ====\n\n- Background on PiFM and PiF-IR: https://molecularvista.com/technology/pifm-and-pif-ir/scientific-principles/\n- Electron Beam Lithography: https://www.youtube.com/watch?v=3KXkcFcjcfY\n- ProjectsInFlight video on Semiconductors: https://www.youtube.com/watch?v=-lHXZk5M6cI\n- Watch this video ad free on Nebula: https://nebula.tv/videos/breakingtaps-i-made-camera-pixels-from-copper\n\n- \"High-Performance Copper Oxide Visibl"
+  },
+  {
+   "id": "TQiLLcumqDw",
+   "t": "Stealing biology for tiny robots",
+   "d": "2024-05-15",
+   "v": 1384345,
+   "s": 725,
+   "vertical": false,
+   "desc": "Quick video talking about rolling contact/compliant joints. These emulate how joints in nature work (two rolling surfaces held together with tension).\n\nOpenSauce! https://opensauce.live/\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "RuVS7MsQk4Y",
+   "t": "Speedrunning 30yrs of lithography technology",
+   "d": "2024-07-31",
+   "v": 1923307,
+   "s": 2767,
+   "vertical": false,
+   "desc": "Try SendCutSend 15% off for your next project! https://sendcutsend.com/breakingtaps/\n\nMy descent into madness, chasing one micrometer.\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-speedrunning-30yrs-of-semiconductor-history\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4\n\n=== Links ===\n- Zaber X-ADR stage: https://www.zaber.com/products/scanning-microscope-stages/X-ADR-AE?utm_source=youtube&utm_cam"
+  },
+  {
+   "id": "lGa8rRrwTTY",
+   "t": "Making Mirrors with Diamonds",
+   "d": "2024-08-17",
+   "v": 9743201,
+   "s": 39,
+   "vertical": true,
+   "desc": "Diamond tools have such a sharp edge, they can create mirror finishes in metals like copper and aluminum.\n\nTo do that, we \"scribe\" the metal with very shallow cuts, ranging from 2-10 microns deep. \n\nThese parts are then coated with 200nm of aluminum and will be used in a quantum device called a Magneto Optical Trap"
+  },
+  {
+   "id": "ZPTFFPLOzCw",
+   "t": "Cutting Mirrors with Diamonds",
+   "d": "2024-08-28",
+   "v": 2649868,
+   "s": 1153,
+   "vertical": false,
+   "desc": "Let's make some optical mirrors using diamonds \ud83d\udc8e\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-monocrystalline-diamond-machining\n\n- Open Quantum: https://www.open-quantum.org/\n- Fresnel Mirror paper: https://pubs.aip.org/aip/rsi/article/95/1/013202/3105992/Achromatic-planar-Fresnel-reflector-for-a-single\n\n- NHMicro: https://www.instagram.com/nhmicro/\n- Cylo's Garage: https://www.youtube.com/@cylosgarage\n\n- Fireball Tool Shaper: https://www.youtube.com/watch?v=I86XFZlje0c\n- Strontium MOT: https://www.youtube.com/watch?v=vcwzOrakWPQ\n\n- ICSPI nGauge AFM: https://www.icspico"
+  },
+  {
+   "id": "O0-6g6NJMmE",
+   "t": "Low-tech coating is a microscopic marvel",
+   "d": "2024-09-08",
+   "v": 534803,
+   "s": 424,
+   "vertical": false,
+   "desc": "Let's look at how Phosphate Conversion Coating / Parkerizing looks at the microscopic level\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-low-tech-coating-is-a-microscopic-marvel\n\nICSPI nGauge AFM: https://www.icspicorp.com/ngauge/\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "IpzBdVeJ_jo",
+   "t": "Voiding my warranty to fix the Insta360",
+   "d": "2024-09-24",
+   "v": 97700,
+   "s": 666,
+   "vertical": false,
+   "desc": "I got tired of my insta360 overheating. So I over-engineered a giant heatsink to fix the problem\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-my-camera-will-never-overheat-again\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "GqANTVk0dBI",
+   "t": "camera will never overheat again",
+   "d": "2024-09-25",
+   "v": 50827,
+   "s": 60,
+   "vertical": true,
+   "desc": "I got tired of my insta360 overheating. So I over-engineered a giant heatsink to fix the problem"
+  },
+  {
+   "id": "KIxZ1AESBRU",
+   "t": "Prototyping on a 5-axis CNC",
+   "d": "2024-10-16",
+   "v": 102912,
+   "s": 1435,
+   "vertical": false,
+   "desc": "I'm making a robot bird, and wanted to talk about the manufacturing process\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-manufacturing-in-five-dimensions\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "dfYSBlV90NQ",
+   "t": "I made a liquid metal electric thruster",
+   "d": "2024-12-06",
+   "v": 865326,
+   "s": 1711,
+   "vertical": false,
+   "desc": "I made a liquid metal field emission electric thruster. It nearly broke me \ud83d\ude05\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-i-made-a-satellite-ion-thruster\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4\n\nApplied Ion Systems: https://appliedionsystems.com/ (https://twitter.com/applied_ion)"
+  },
+  {
+   "id": "wiRMdRi0LrI",
+   "t": "A motor with no moving parts (sorta)",
+   "d": "2025-01-16",
+   "v": 698175,
+   "s": 759,
+   "vertical": false,
+   "desc": "Can we make a reaction wheel using liquid metal and the Magnetohydrodynamic effect?\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-a-unique-satellite-reaction-wheel\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4\n\n=== References ===\n- Polzin, Kurt A. Liquid-metal pump technologies for nuclear surface"
+  },
+  {
+   "id": "v7r7nbIJnYI",
+   "t": "R&D Tour: The engineering behind SLA/SLS Printers",
+   "d": "2025-01-29",
+   "v": 62263,
+   "s": 3567,
+   "vertical": false,
+   "desc": "Ever wonder what goes into manufacturing 3D printers? I had a chance to tour Formlabs and got to poke around all of their departments. Manufacturing, material properties, setting optimization, chemistry, even a small biosafety lab! \n\nI was surprised how much Formlabs does inhouse, and came away from the tour really impressed with their operation. Had a chance to talk to a lot of really smart folks and ask about their work. Hope you find this interesting!\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-what-it-takes-to-manufacture-3d-printers\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatr"
+  },
+  {
+   "id": "kXa0vUy2Tlg",
+   "t": "Designing Space Hardware is Hard",
+   "d": "2025-02-28",
+   "v": 873498,
+   "s": 2111,
+   "vertical": false,
+   "desc": "What does it take to design a hinge for space applications? Let's find out by designing and manufacturing a few!\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-designing-space-hardware-is-hard\n\nThe pocketqube at the beginning was from Alba Orbital: https://www.albaorbital.com/ (https://www.youtube.com/watch?v=n67COM0Eggs)\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: http"
+  },
+  {
+   "id": "J0NNO91WyXM",
+   "t": "DIY Metal-on-Glass traces",
+   "d": "2025-05-21",
+   "v": 106705,
+   "s": 930,
+   "vertical": false,
+   "desc": "Let's deposit metal on glass using a laser! Silver, aluminum, copper, invar, titanium and even niobium. Fun!\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-laser-deposition-of-metal-on-glass\n\nCome to OpenSauce! https://opensauce.com/\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "Y3h0vZ2PYl8",
+   "t": "Tiny bird leg kicks my butt",
+   "d": "2025-10-14",
+   "v": 189978,
+   "s": 2019,
+   "vertical": false,
+   "desc": "Enjoy my struggle to get custom electromagnetic bird actuators to work on the Bird Bot. \ud83e\udd74\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-making-a-robotic-muscle-is-hard\n\nhttps://www.youtube.com/watch?v=KIxZ1AESBRU\nhttps://www.youtube.com/watch?v=TQiLLcumqDw\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uC"
+  },
+  {
+   "id": "y_SEZJPieWc",
+   "t": "Channel Update: Custom Silicon and Cubesats",
+   "d": "2026-03-09",
+   "v": 42395,
+   "s": 871,
+   "vertical": false,
+   "desc": "I'm still alive! Been working on a few things, and planning out new projects\n\nhttps://wafer.space/ is the MPW shuttle I used.\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83e\udd8bBluesky: https://bsky.app/profile/breakingtaps.com\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4"
+  },
+  {
+   "id": "q6ytRHaTEXI",
+   "t": "Designing Silicon From Scratch",
+   "d": "2026-09-20",
+   "v": 541161,
+   "s": 1989,
+   "vertical": false,
+   "desc": "I made my own microprocessor, and want to tell you all about it.\n\nWant a BTTAPs chip for yourself? https://forms.gle/EM9XdxubpN3nbfBN6\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4\n\n-----\nLinks!\nWafer.space: https://wafer.space/\nTinyTapeout: https://tinytapeout.com/\nSpade: https://spade-lang.org/\n\nBreakingTTAPs (Spade code): https://github.com/polyfractal/BreakingTTAPs-Spade\nBreakingTTAPs (verilog): https://github.c"
+  },
+  {
+   "id": "z1ddeiJ2LKs",
+   "t": "caffeinated",
+   "d": "2026-10-18",
+   "v": 25025,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "fi9qm_36ooY",
+   "t": "Why would I deceive you?",
+   "d": "2026-10-18",
+   "v": 17630,
+   "s": 20,
+   "vertical": true,
+   "desc": "My animatronic eyes are definitely human."
+  },
+  {
+   "id": "GbcN0bPs-Ig",
+   "t": "I made tiny robot eyes",
+   "d": "2026-10-18",
+   "v": 151609,
+   "s": 1590,
+   "vertical": false,
+   "desc": "Let's design and build the world's smallest animatronic eye mechanism! We'll need some custom-built electromagnetic actuators to get the job done.\n\nWatch this ad-free on Nebula: https://nebula.tv/videos/breakingtaps-making-the-smallest-animatronic-eyes\n\n\n\ud83e\udd70 CONSIDER SUBSCRIBING \ud83e\udd70\n\ud83d\udd2cPatreon if that's your jam: https://www.patreon.com/breakingtaps\n\n\ud83d\udce2Twitter: https://twitter.com/BreakingTaps\n\ud83d\udc18Mastodon: https://universeodon.com/@breakingtaps\n\ud83d\udcf7Instagram: https://instagram.com/breakingtaps\n\ud83d\udcbbDiscord: https://discord.gg/R45uCXcEv4\n\n---------\nLINKS\n\n- Will's amazing channel: https://www.youtube.com/watch"
+  },
+  {
+   "id": "vGTg6pOGZkY",
+   "t": "Microchips are tricky",
+   "d": "2026-10-19",
+   "v": 61564,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "smRYZXrVB_Q",
+   "t": "Microchip Design",
+   "d": "2026-10-19",
+   "v": 42752,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7GfyVqJF4ao",
+   "t": "JWST Mirror Actuator",
+   "d": "2026-10-22",
+   "v": 150195,
+   "s": 128,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

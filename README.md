@@ -35,6 +35,23 @@ Makers so far:
 | Littlejem | 18 | 293 |
 | Mr. Volt | 15 | 57 |
 | Estefannie | 6 | 29 |
+| Adam Savage (Tested) | 19 | 7,071 |
+| Jimmy DiResta | 28 | 910 |
+| Austin Bradley | 13 | 160 |
+| Thea Ulrich | 9 | 19 |
+| Jabrils | 25 | 238 |
+| Ali Spagnola | 25 | 750 |
+| Nate From the Internet | 12 | 367 |
+| NileRed | 17 | 402 |
+| Alex Ernst | 7 | 119 |
+| ElectroBOOM | 26 | 395 |
+| CuriousMarc | 14 | 678 |
+| Applied Science | 30 | 280 |
+| Breaking Taps | 25 | 107 |
+| Jeff Geerling | 8 | 585 |
+| CNC Kitchen | 18 | 258 |
+| Made with Layers | 7 | 597 |
+| 3D Printing Nerd | 10 | 1,525 |
 
 ## View it
 
@@ -65,9 +82,9 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton data/wintergatan data/integza data/hacksmith data/rober data/idat data/nerdforge data/diyperks data/styropyro data/unnecessary data/shay data/tony data/becky data/kis data/brothers data/jem data/volt data/estefannie
+python3 build/build.py index.html $(cat build/makers.txt)
 ```
 
-To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.
+To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.
 
 For a maker whose `OTHER` is an explicit list (Emily), the build stops and lists any new uploads so they can be assigned. For a maker whose `OTHER` is `None` (Look Mum No Computer), unassigned uploads go to "Other uploads" automatically.

@@ -569,10 +569,19 @@ function drawLengths(){
   // running median length per type (window of up to 15 videos), so each type's trend can be read separately
   const trendOf = list => {
     if (list.length < 3) return [];
-    // median length of this type within ~4 months either side (widened until it holds 7+ videos)
-    return list.map(u => { const t = ms(u.d); let r = 120 * DAY, w;
-      do { w = list.filter(x => Math.abs(ms(x.d) - t) <= r); r *= 1.5; } while (w.length < Math.min(7, list.length));
-      return [X(t), Y(quant(w.map(x => x.s).sort((a, b) => a - b), .5))]; }); };
+    // Median length of this type within ~4 months either side (widened until it holds 7+ videos).
+    // Videos are in date order, so each window is found by binary search; big channels are sampled
+    // to at most ~600 trend points so the line stays fast to compute.
+    const T = list.map(x => ms(x.d)), S = list.map(x => x.s), n = list.length, need = Math.min(7, n);
+    const lb = v => { let lo = 0, hi = n; while (lo < hi) { const m = (lo + hi) >> 1; if (T[m] < v) lo = m + 1; else hi = m; } return lo; };
+    const step = Math.max(1, Math.ceil(n / 600)), out = [];
+    for (let i = 0; i < n; i += step) {
+      let r = 120 * DAY, a, b;
+      do { a = lb(T[i] - r); b = lb(T[i] + r + 1); r *= 1.5; } while (b - a < need);
+      out.push([X(T[i]), Y(quant(S.slice(a, b).sort((x, y) => x - y), .5))]);
+    }
+    if ((n - 1) % step) { const i = n - 1, a = lb(T[i] - 120 * DAY); out.push([X(T[i]), Y(quant(S.slice(Math.min(a, n - need), n).sort((x, y) => x - y), .5))]); }
+    return out; };
   const line = (pts, cls) => pts.length ? `<polyline class="trendline ${cls}" points="${pts.map(p => p[0].toFixed(1) + "," + p[1].toFixed(1)).join(" ")}"/>` : "";
   const pts = U.map(u => ({ u, cx: X(ms(u.d)), cy: Y(u.s) }));
   const dots = pts.filter(p => p.u.short).map(p => `<rect class="nd short" x="${(p.cx - 3).toFixed(1)}" y="${(p.cy - 3).toFixed(1)}" width="6" height="6" rx="1"/>`).join("")

@@ -3,7 +3,7 @@
 Candidates to add to the browser. Stats from the YouTube Data API, November 2026.
 "Fit" is a rough call on how much of the channel is inventions or builds (vs science, reviews, comedy).
 
-**Already on the site:** Simone Giertz, Emily The Engineer, Look Mum No Computer.
+**Status (Nov 2026):** every maker on this list is now on the site (46 in total). This file is kept as a record of where they came from.
 
 ## Suggested order
 
