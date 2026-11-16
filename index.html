@@ -25,7 +25,10 @@ header h1 a{text-decoration:none}
 .who h1{margin:0 0 4px}
 .who .lead{margin:0}
 .avatar{width:72px;height:72px;border-radius:50%;object-fit:cover;background:var(--chip);flex:none}
-body.makers-page .topbar{display:none}
+body.makers-page #chips,body.makers-page #path{display:none}
+.mline{font-size:13px;color:var(--text2);margin-top:-4px}
+.mline b{color:var(--text);font-weight:600}
+.mline .hl{color:var(--accent);font-weight:600}
 .makers{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,500px),1fr));gap:18px;padding-top:6px}
 .maker{display:flex;flex-direction:column;gap:14px}
 .mhead{display:flex;gap:14px;align-items:center;text-decoration:none}
@@ -269,6 +272,8 @@ CREATORS.forEach(c => {
   c.invOf = {}; I.forEach(x => { x.runtime = x.videos.reduce((a, v) => a + v.s, 0); x.videos.forEach(v => c.invOf[v.id] = x); });
   c.longLens = c.uploads.filter(u => !u.short && u.s > 0).map(u => u.s).sort((a, b) => a - b);
   c.nLongUploads = c.uploads.filter(u => !u.short).length;
+  c.totalViews = c.uploads.reduce((a, u) => a + u.v, 0);
+  c.lastUpload = c.uploads[c.uploads.length - 1].d;
 });
 const SITE = "Maker Invention Browser";
 const fmtDur = s => { const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = s % 60; return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(x).padStart(2, "0"); };
@@ -295,7 +300,24 @@ const SORTS = [
   { k:"runShort",label:"Runtime: shortest first", cmp:(a,b) => a.runtime - b.runtime }
 ];
 const SORT = Object.fromEntries(SORTS.filter(o => !o.sep).map(o => [o.k, o]));
-const st = { sort:"views", kind:"All", q:"", creator:"" };
+const st = { sort:"views", kind:"All", q:"", creator:"", mSort:"subs", mq:"" };
+// Front-page sorts, same "Field: direction" style as the project sorts.
+const progressOf = c => { const seen = getSeen(); return c.inventions.filter(x => isSeen(seen, c, x)).length / c.inventions.length; };
+const MAKER_SORTS = [
+  { k:"subs",    label:"Subscribers: most first",   cmp:(a,b) => b.subs - a.subs },
+  { k:"views",   label:"Total views: most first",   cmp:(a,b) => b.totalViews - a.totalViews },
+  { k:"inv",     label:"Inventions: most first",    cmp:(a,b) => b.inventions.length - a.inventions.length },
+  { k:"uploads", label:"Uploads: most first",       cmp:(a,b) => b.uploads.length - a.uploads.length },
+  { sep:true },
+  { k:"recent",  label:"Latest upload: newest first", cmp:(a,b) => b.lastUpload.localeCompare(a.lastUpload) },
+  { k:"oldest",  label:"First upload: oldest first",  cmp:(a,b) => a.since.localeCompare(b.since) },
+  { k:"newest",  label:"First upload: newest first",  cmp:(a,b) => b.since.localeCompare(a.since) },
+  { sep:true },
+  { k:"progress",label:"Your progress: most first",   cmp:(a,b) => progressOf(b) - progressOf(a) },
+  { k:"fresh",   label:"Your progress: least first",  cmp:(a,b) => progressOf(a) - progressOf(b) }
+];
+const MSORT = Object.fromEntries(MAKER_SORTS.filter(o => !o.sep).map(o => [o.k, o]));
+const onMakers = () => !C;
 try { Object.assign(st, JSON.parse(sessionStorage.getItem("ma.list") || "{}")); } catch {}
 if (!SORT[st.sort]) st.sort = "views";
 const saveSt = () => { try { sessionStorage.setItem("ma.list", JSON.stringify(st)); } catch {} };
@@ -397,9 +419,12 @@ function renderHeader(){
     <div class="facts"><span><b>${I.length}</b> inventions</span><span><b>${C.uploadCount}</b> uploads since ${new Date(C.since).getFullYear()}</span><span><b>${fmt(C.subs)}</b> subscribers</span><a href="${C.url}" target="_blank" rel="noopener">${esc(C.handle)} ↗</a></div>`;
 }
 function renderControls(){
-  $("sortName").textContent = SORT[st.sort].label;
-  $("sortMenu").innerHTML = SORTS.map(o => o.sep ? `<li class="sep" role="presentation"></li>`
-    : `<li role="option" data-k="${o.k}" aria-selected="${o.k === st.sort}">${o.label}</li>`).join("");
+  const list = onMakers() ? MAKER_SORTS : SORTS, curK = onMakers() ? st.mSort : st.sort;
+  $("sortName").textContent = (onMakers() ? MSORT : SORT)[curK].label;
+  $("sortMenu").innerHTML = list.map(o => o.sep ? `<li class="sep" role="presentation"></li>`
+    : `<li role="option" data-k="${o.k}" aria-selected="${o.k === curK}">${o.label}</li>`).join("");
+  $("q").placeholder = onMakers() ? "Search makers and inventions" : "Search inventions";
+  $("q").value = onMakers() ? st.mq : st.q;
   $("chips").innerHTML = KINDS.map(k => `<button data-kind="${k}" aria-pressed="${st.kind === k}">${k}</button>`).join("");
 }
 const menu = $("sortMenu"), btn = $("sortBtn");
@@ -408,9 +433,13 @@ let kbIdx = 0;
 const paintKb = () => opts().forEach((li, i) => li.classList.toggle("kb", i === kbIdx));
 function openMenu(open){
   menu.hidden = !open; btn.setAttribute("aria-expanded", open);
-  if (open) { kbIdx = opts().findIndex(li => li.dataset.k === st.sort); paintKb(); menu.focus(); }
+  if (open) { kbIdx = opts().findIndex(li => li.dataset.k === (onMakers() ? st.mSort : st.sort)); paintKb(); menu.focus(); }
 }
-function chooseSort(k){ st.sort = k; saveSt(); openMenu(false); btn.focus(); if (current) location.hash = home(); else update(); }
+function chooseSort(k){
+  openMenu(false); btn.focus();
+  if (onMakers()) { st.mSort = k; saveSt(); renderControls(); renderMakers(); return; }
+  st.sort = k; saveSt(); if (current) location.hash = home(); else update();
+}
 btn.onclick = () => openMenu(menu.hidden);
 menu.onclick = e => { const li = e.target.closest("[role=option]"); if (li) chooseSort(li.dataset.k); };
 menu.onkeydown = e => {
@@ -423,7 +452,10 @@ menu.onkeydown = e => {
 document.addEventListener("click", e => { if (!menu.hidden && !e.target.closest(".sort")) openMenu(false); });
 $("chips").onclick = e => { const b = e.target.closest("[data-kind]"); if (!b) return; st.kind = b.dataset.kind; saveSt();
   if (current && !filtered().includes(current)) location.hash = home(); else update(); };
-$("q").oninput = e => { st.q = e.target.value; saveSt(); if (current) location.hash = home(); else update(); };
+$("q").oninput = e => {
+  if (onMakers()) { st.mq = e.target.value; saveSt(); renderMakers(); return; }
+  st.q = e.target.value; saveSt(); if (current) location.hash = home(); else update();
+};
 
 // ---------- home: timeline, release schedule, grid ----------
 function cadence(){
@@ -578,8 +610,14 @@ function card(x, pos){
 function renderMakers(){
   document.title = SITE;
   const seen = getSeen();
-  main.innerHTML = `<div class="wrap makers">${CREATORS.map(c => {
-    const top = [...c.inventions].sort((a, b) => b.views - a.views).slice(0, 3);
+  if (!MSORT[st.mSort]) st.mSort = "subs";
+  const t = st.mq.trim().toLowerCase();
+  const matchInv = c => t ? c.inventions.filter(x => (x.name + " " + x.desc).toLowerCase().includes(t)) : [];
+  const shown = CREATORS.filter(c => !t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length).sort(MSORT[st.mSort].cmp);
+  const ago = d => { const days = (Date.now() - ms(d)) / DAY; return days < 1 ? "today" : days < 2 ? "yesterday" : days < 14 ? Math.round(days) + " days ago" : days < 60 ? Math.round(days / 7) + " weeks ago" : days < 730 ? Math.round(days / 30.4) + " months ago" : Math.round(days / 365) + " years ago"; };
+  main.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers or inventions match “${esc(st.mq)}”.</p>`) + `<div class="wrap makers">${shown.map(c => {
+    const hits = matchInv(c);
+    const top = (hits.length ? hits : [...c.inventions]).sort((a, b) => b.views - a.views).slice(0, 3);
     const viewed = c.inventions.filter(x => isSeen(seen, c, x)).length, pct = Math.round(viewed / c.inventions.length * 100);
     return `<article class="maker panel">
       <a class="mhead" href="#/${c.slug}"><img class="avatar" src="${esc(c.avatar)}" alt="" referrerpolicy="no-referrer"><div><h2>${esc(c.name)}</h2><p>${esc(c.tagline)}</p></div></a>
@@ -590,8 +628,9 @@ function renderMakers(){
         <div><b>${new Date(c.since).getFullYear()}</b><span>first upload</span></div>
         <div><b>${fmt(c.subs)}</b><span>subscribers</span></div>
       </div>
+      <div class="mline">${fmt(c.totalViews)} total views · last upload <b>${ago(c.lastUpload)}</b></div>
       <div class="pchart mchart" data-c="${c.slug}"></div>
-      <div class="mtop"><h4>Biggest inventions</h4>${top.map(x => `<a href="#/${c.slug}/${x.slug}"><img src="${thumb(x.hero)}" alt="" loading="lazy"><span><b>${esc(x.name)}</b><span>${date(x.start)} · ${fmt(x.views)} views</span></span></a>`).join("")}</div>
+      <div class="mtop"><h4>${hits.length ? `${plural(hits.length, "matching invention")}` : "Biggest inventions"}</h4>${top.map(x => `<a href="#/${c.slug}/${x.slug}"><img src="${thumb(x.hero)}" alt="" loading="lazy"><span><b>${esc(x.name)}</b><span>${date(x.start)} · ${fmt(x.views)} views</span></span></a>`).join("")}</div>
       <div class="mfoot"><div class="prog"><div class="bar"><i style="width:${pct}%"></i></div><span>${viewed ? `You've viewed ${viewed} of ${c.inventions.length}` : "Not started yet"}</span></div>
         <a class="go" href="#/${c.slug}">Browse ${c.inventions.length} inventions →</a></div>
     </article>`; }).join("")}</div>
@@ -743,7 +782,7 @@ function route(){
   if (page === "maker") gridScroll = window.scrollY;
   if (!maker) {
     page = "makers"; current = null; C = null;
-    document.body.className = "makers-page"; renderHeader(); renderPath(); renderMakers(); window.scrollTo(0, 0); return;
+    document.body.className = "makers-page"; renderHeader(); renderControls(); renderPath(); renderMakers(); window.scrollTo(0, 0); return;
   }
   const switched = C !== maker; setCreator(maker);
   const x = b && I.find(p => p.slug === b);
