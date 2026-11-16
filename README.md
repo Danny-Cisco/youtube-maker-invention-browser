@@ -18,6 +18,11 @@ Makers so far:
 | Colin Furze | 133 | 414 |
 | Laura Kampf | 42 | 556 |
 | James Bruton | 60 | 802 |
+| Wintergatan | 5 | 501 |
+| Integza | 17 | 278 |
+| Hacksmith Industries | 46 | 1,380 |
+| Mark Rober | 40 | 277 |
+| I Did A Thing | 54 | 126 |
 
 ## View it
 
@@ -48,7 +53,7 @@ YOUTUBE_API_KEY=your-key python3 build/fetch_videos.py @LookMumNoComputer data/l
 ```
 
 ```bash
-python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton
+python3 build/build.py index.html data/simone data/emily data/lmnc data/smh data/reeves data/allen data/osman data/backyard data/xyla data/furze data/kampf data/bruton data/wintergatan data/integza data/hacksmith data/rober data/idat
 ```
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), and add `data/<name>` to the build command.
