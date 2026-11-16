@@ -12,9 +12,11 @@
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}}
 :root[data-theme="dark"]{color-scheme:dark;--bg:#111110;--card:#1b1b1a;--line:#2f2e2b;--text:#f1f0ec;--text2:#c4c2b9;--muted:#8d8b83;--accent:#ff7a3d;--chip:#262624;--s1:#3987e5;--s2:#199e70;--s1-ink:#9cc3f5;--s2-ink:#7fd9b5}
 *{box-sizing:border-box}
+:root{--wmax:1120px}
+body.makers-page{--wmax:2240px}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:inherit}
-.wrap{max-width:1120px;margin:0 auto;padding:0 16px}
+.wrap{max-width:var(--wmax);margin:0 auto;padding:0 16px}
 button,select,input{font:inherit;color:inherit}
 button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .eyebrow{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
@@ -45,8 +47,8 @@ body{overflow-x:clip}
 .slide .cap span img{width:22px;height:22px;border-radius:50%;background:#444}
 .cnav{position:absolute;top:calc(50% - 24px);width:44px;height:44px;border-radius:50%;border:0;background:var(--card);color:var(--text);box-shadow:0 2px 10px rgba(0,0,0,.2);font-size:22px;line-height:1;cursor:pointer;opacity:.92}
 .cnav:hover{opacity:1}
-.cnav.prev{left:max(12px,calc(50vw - 560px - 22px))}
-.cnav.next{right:max(12px,calc(50vw - 560px - 22px))}
+.cnav.prev{left:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
+.cnav.next{right:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .cbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:10px;font-size:13px;color:var(--muted)}
 .cbar button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
 .cbar button:hover{color:var(--text)}
@@ -187,7 +189,8 @@ h1{font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.02em;margin:
 .facts b{color:var(--text)}
 
 /* toolbar */
-.topbar{position:sticky;top:0;z-index:10;background:var(--bg);border-bottom:1px solid var(--line)}
+.topbar{position:sticky;top:0;z-index:10;background:var(--bg);border-bottom:1px solid transparent;transition:border-color .2s}
+.topbar.stuck{border-bottom-color:var(--line)}
 .bar{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;padding-top:12px;padding-bottom:12px}
 .bar input[type=search]{flex:1 1 220px;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
 .sort{position:relative}
@@ -758,7 +761,7 @@ function renderMakers(){
   const rows = Math.max(1, rowsEnd.length), dotTop = 30, trackTop = dotTop + rows * 13 + 10;
   const ticks = []; for (let e = SIZE_LO; e <= SIZE_HI; e++) ticks.push(e);
   main.innerHTML = `
-  <section class="wrap panel sizef" aria-label="Filter by channel size">
+  <div class="wrap"><section class="panel sizef" aria-label="Filter by channel size">
     <div class="ph"><h3>Channel size</h3><span class="sub" id="sizeLabel"></span></div>
     <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
       const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
@@ -771,7 +774,7 @@ function renderMakers(){
       <button class="hdl" id="hHi" role="slider" aria-label="Maximum subscribers" style="top:${trackTop + 2}px"></button>
       ${ticks.map(e => `<span class="tick" style="left:${sizePct(e)}%;top:${trackTop + 14}px">${fmt(10 ** e)}</span>`).join("")}
     </div>
-  </section>
+  </section></div>
   <div id="makerGrid"></div>
   <p class="wrap sub small" style="margin:18px auto 50px">Each maker's inventions are hand-curated from their full upload history and press coverage. Size bands follow YouTube's Play Button awards: Silver at 100K subscribers, Gold at 1M, Diamond at 10M.</p>`;
   wireSize();
@@ -1008,6 +1011,10 @@ window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(()
 }, 150); });
 $("q").value = st.q;
 window.addEventListener("hashchange", route);
+// The bar under the search only gets its dividing line once it is stuck to the top of the screen.
+const topbar = document.querySelector(".topbar");
+const markStuck = () => topbar.classList.toggle("stuck", topbar.getBoundingClientRect().top <= 0 && window.scrollY > 0);
+window.addEventListener("scroll", markStuck, { passive: true });
 route();
 </script>
 </body>
