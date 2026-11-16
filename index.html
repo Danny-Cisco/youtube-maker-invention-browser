@@ -33,7 +33,7 @@ body.makers-page header.wrap{padding-top:36px}
 .crumb .mini svg{width:18px;height:18px;vertical-align:-4px;margin-right:7px}
 body{overflow-x:clip}
 .brand b em{font-style:normal;color:var(--accent)}
-.carousel{position:relative;margin:24px calc(50% - 50vw) 0;width:100vw;overflow:hidden;padding:4px 0 8px;outline:none}
+.carousel{position:relative;margin:12px calc(50% - 50vw) 0;width:100vw;overflow:hidden;padding:4px 0 8px;outline:none}
 .ctrack{display:flex;gap:16px;will-change:transform;transition:transform .9s cubic-bezier(.65,0,.35,1),opacity .35s ease}
 .ctrack.jump{transition:none}
 .ctrack.fade{opacity:0}
@@ -42,6 +42,8 @@ body{overflow-x:clip}
 .slide img.th{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:scale(1.02);transition:transform 6s ease-out}
 .slide.on img.th{transform:scale(1.12)}
 .slide .cap{position:absolute;left:0;right:0;bottom:0;padding:40px 16px 14px;background:linear-gradient(transparent,rgba(0,0,0,.82))}
+.carousel.small .slide .cap b{font-size:16px}
+.carousel.small .cnav{width:38px;height:38px;font-size:19px;top:calc(50% - 19px)}
 .slide .cap b{display:block;font-size:20px;line-height:1.2;letter-spacing:-.01em;text-shadow:0 1px 3px rgba(0,0,0,.4)}
 .slide .cap span{display:flex;align-items:center;gap:7px;margin-top:5px;font-size:13px;color:rgba(255,255,255,.85)}
 .slide .cap span img{width:22px;height:22px;border-radius:50%;background:#444}
@@ -49,9 +51,13 @@ body{overflow-x:clip}
 .cnav:hover{opacity:1}
 .cnav.prev{left:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .cnav.next{right:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
-.cbar{display:flex;justify-content:flex-end;align-items:center;gap:12px;margin-top:10px;font-size:13px;color:var(--muted)}
-.cbar button{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
-.cbar button:hover{color:var(--text)}
+.crow{margin-top:26px}
+.rhead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.rhead h2{margin:0;font-size:22px;letter-spacing:-.015em}
+.rhead span{font-size:13px;color:var(--muted)}
+.rhead .rshuf{margin-left:auto}
+.rshuf{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
+.rshuf:hover{color:var(--text)}
 @media (max-width:600px){.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
 @media (prefers-reduced-motion:reduce){.ctrack,.slide,.slide img.th{transition-duration:.01s!important}}
 .crumb{display:inline-block;font-size:14px;color:var(--text2);text-decoration:none;margin-bottom:10px}
@@ -469,69 +475,92 @@ function inventionPoints(curX){
 }
 
 
-// ---------- front-page carousel: random inventions, eased slide-to-slide motion ----------
-let car = null;
+// ---------- front-page slideshows (Netflix-style rows): most watched, and deep cuts ----------
 const shuffled = a => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
-function pickSlides(){
+const recentGet = k => { try { return JSON.parse(localStorage.getItem(k) || "[]"); } catch (e) { return []; } };
+const recentPut = (k, out, recent, keep) => { try { localStorage.setItem(k, JSON.stringify([...out.map(o => o.c.slug + "/" + o.x.slug), ...recent].slice(0, keep))); } catch (e) {} };
+const ALL_INV = CREATORS.flatMap(c => c.inventions.map(x => ({ c, x })));
+function pickPopular(){
+  // The 200 most-watched inventions on the site, 14 at random, at most 2 per maker, recent repeats skipped.
+  const recent = recentGet("ma.recentTop"), skip = new Set(recent), per = {}, out = [];
+  const pool = [...ALL_INV].sort((a, b) => b.x.views - a.x.views).slice(0, 200);
+  const fresh = pool.filter(o => !skip.has(o.c.slug + "/" + o.x.slug));
+  for (const o of shuffled(fresh.length >= 14 ? fresh : pool)) {
+    if ((per[o.c.slug] || 0) >= 2) continue; per[o.c.slug] = (per[o.c.slug] || 0) + 1; out.push(o); if (out.length === 14) break; }
+  recentPut("ma.recentTop", out, recent, 100);
+  return out.sort((a, b) => b.x.views - a.x.views);
+}
+function pickDeep(){
   // 14 makers at random, one invention each from that maker's top third by views (at least their top 3),
-  // skipping anything shown in the last few slideshows so each visit looks fresh.
-  let recent = []; try { recent = JSON.parse(localStorage.getItem("ma.recentSlides") || "[]"); } catch (e) {}
-  const skip = new Set(recent), out = [];
+  // never one of the site-wide most-watched, and skipping anything shown in the last few slideshows.
+  const recent = recentGet("ma.recentSlides"), skip = new Set(recent), out = [];
+  const famous = new Set([...ALL_INV].sort((a, b) => b.x.views - a.x.views).slice(0, 200).map(o => o.x));
   for (const c of shuffled(CREATORS)) {
-    const top = [...c.inventions].sort((a, b) => b.views - a.views).slice(0, Math.max(3, Math.ceil(c.inventions.length / 3)));
-    const fresh = top.filter(x => !skip.has(c.slug + "/" + x.slug));
-    const pool = fresh.length ? fresh : top;
+    const top = [...c.inventions].filter(x => !famous.has(x)).sort((a, b) => b.views - a.views).slice(0, Math.max(3, Math.ceil(c.inventions.length / 3)));
+    if (!top.length) continue;
+    const fresh = top.filter(x => !skip.has(c.slug + "/" + x.slug)), pool = fresh.length ? fresh : top;
     out.push({ c, x: pool[Math.floor(Math.random() * pool.length)] });
     if (out.length === 14) break;
   }
-  try { localStorage.setItem("ma.recentSlides", JSON.stringify([...out.map(o => o.c.slug + "/" + o.x.slug), ...recent].slice(0, 120))); } catch (e) {}
+  recentPut("ma.recentSlides", out, recent, 120);
   return out;
 }
+const ROWS = [
+  { k: "top", title: "Most watched", sub: "Big hits from across the catalogue", pick: pickPopular, big: true, every: 4000 },
+  { k: "deep", title: "Deep cuts", sub: "Lesser-known builds worth finding", pick: pickDeep, big: false, every: 5000 },
+];
+const car = {};
 function drawHero(fresh){
   const el = $("hero"); if (!el) return;
-  if (!car || fresh) car = { items: pickSlides(), i: 0 };
-  const N = car.items.length, sw = Math.min(480, Math.round(window.innerWidth * (window.innerWidth < 600 ? .84 : .42)));
-  const slide = ({ c, x }, k) => `<a class="slide" href="#/${c.slug}/${x.slug}" data-k="${k}" draggable="false"><img class="th" src="https://i.ytimg.com/vi/${x.hero}/hqdefault.jpg" alt="" loading="${k < N + 4 ? "eager" : "lazy"}" draggable="false" onerror="this.style.opacity=0">
+  el.innerHTML = ROWS.map(r => `<section class="crow" id="row-${r.k}" aria-label="${r.title}"></section>`).join("");
+  ROWS.forEach(r => drawRow(r, fresh));
+}
+function drawRow(R, fresh){
+  const el = $("row-" + R.k); if (!el) return;
+  if (!car[R.k] || fresh) car[R.k] = { items: R.pick(), i: 0 };
+  const st8 = car[R.k], N = st8.items.length, vw = window.innerWidth, gap = 16;
+  const sw = R.big ? Math.min(480, Math.round(vw * (vw < 600 ? .84 : .42))) : Math.min(340, Math.round(vw * (vw < 600 ? .66 : .3)));
+  const slide = ({ c, x }, k) => `<a class="slide" href="#/${c.slug}/${x.slug}" draggable="false"><img class="th" src="https://i.ytimg.com/vi/${x.hero}/hqdefault.jpg" alt="" loading="${k < N + 5 ? "eager" : "lazy"}" draggable="false" onerror="this.style.opacity=0">
     <div class="cap"><b>${esc(x.name)}</b><span><img src="${esc(c.avatar)}" alt="" referrerpolicy="no-referrer" onerror="this.style.opacity=0">${esc(c.name)} · ${new Date(x.start).getFullYear()} · ${fmt(x.views)} views</span></div></a>`;
   // Three copies of the strip, so the motion can loop forever: after passing the middle copy we jump back by N invisibly.
-  el.innerHTML = `<div class="carousel" tabindex="0" aria-roledescription="carousel" aria-label="Random inventions"><div class="ctrack jump" style="--sw:${sw}px">${[0, 1, 2].flatMap(r => car.items.map((it, j) => slide(it, r * N + j))).join("")}</div>
-    <button class="cnav prev" aria-label="Previous">‹</button><button class="cnav next" aria-label="Next">›</button></div>
-    <div class="cbar"><button id="shuffle">Shuffle slideshow ↻</button></div>`;
+  el.innerHTML = `<div class="rhead"><h2>${R.title}</h2><span>${R.sub}</span><button class="rshuf">Shuffle ↻</button></div>
+    <div class="carousel${R.big ? "" : " small"}" tabindex="0" aria-roledescription="carousel" aria-label="${R.title}"><div class="ctrack jump" style="--sw:${sw}px">${[0, 1, 2].flatMap(r => st8.items.map((it, j) => slide(it, r * N + j))).join("")}</div>
+    <button class="cnav prev" aria-label="Previous">‹</button><button class="cnav next" aria-label="Next">›</button></div>`;
   const root = el.querySelector(".carousel"), track = el.querySelector(".ctrack"), slides = [...track.children];
-  let pos = N + car.i;
-  const left = () => { const r = $("hdr").getBoundingClientRect(); return r.left + 16; };
-  const place = (anim) => {
+  let pos = N + st8.i, paused = false, holdUntil = 0;
+  const left = () => $("hdr").getBoundingClientRect().left + 16;
+  const place = anim => {
     track.classList.toggle("jump", !anim);
-    track.style.transform = `translateX(${left() - pos * (sw + 16)}px)`;
-    slides.forEach((s, k) => s.classList.toggle("on", k >= pos && (k - pos) * (sw + 16) < window.innerWidth - left() - sw * .5));
-    car.i = ((pos - N) % N + N) % N;
+    track.style.transform = `translateX(${left() - pos * (sw + gap)}px)`;
+    slides.forEach((s, k) => s.classList.toggle("on", k >= pos && (k - pos) * (sw + gap) < window.innerWidth - left() - sw * .5));
+    st8.i = ((pos - N) % N + N) % N;
   };
   const go = d => { pos += d; place(true); };
+  const hold = () => holdUntil = Date.now() + 8000;
   track.addEventListener("transitionend", ev => { if (ev.target !== track || ev.propertyName !== "transform") return;
-    if (pos >= 2 * N || pos < N) { pos = N + car.i; place(false); } });
+    if (pos >= 2 * N || pos < N) { pos = N + st8.i; place(false); } });
   place(false); requestAnimationFrame(() => track.classList.remove("jump"));
   el.querySelector(".prev").onclick = () => { go(-1); hold(); };
   el.querySelector(".next").onclick = () => { go(1); hold(); };
   root.onkeydown = ev => { if (ev.key === "ArrowRight") { go(1); hold(); } if (ev.key === "ArrowLeft") { go(-1); hold(); } };
-  $("shuffle").onclick = () => { track.classList.add("fade"); setTimeout(() => drawHero(true), 350); };
+  el.querySelector(".rshuf").onclick = () => { track.classList.add("fade"); setTimeout(() => drawRow(R, true), 350); };
   // Swipe / drag: the strip follows the finger, then eases to the nearest slide.
   let sx = null, moved = 0;
   root.onpointerdown = ev => { if (ev.button) return; sx = ev.clientX; moved = 0; paused = true; };
-  root.onpointermove = ev => { if (sx === null) return; moved = ev.clientX - sx; if (Math.abs(moved) > 4) { track.classList.add("jump"); track.style.transform = `translateX(${left() - pos * (sw + 16) + moved}px)`; } };
-  const end = () => { if (sx === null) return; sx = null; paused = false; const d = Math.abs(moved) > 40 ? (moved < 0 ? 1 : -1) * Math.max(1, Math.round(Math.abs(moved) / (sw + 16))) : 0;
+  root.onpointermove = ev => { if (sx === null) return; moved = ev.clientX - sx; if (Math.abs(moved) > 4) { track.classList.add("jump"); track.style.transform = `translateX(${left() - pos * (sw + gap) + moved}px)`; } };
+  const end = () => { if (sx === null) return; sx = null; paused = false; const d = Math.abs(moved) > 40 ? (moved < 0 ? 1 : -1) * Math.max(1, Math.round(Math.abs(moved) / (sw + gap))) : 0;
     track.classList.remove("jump"); go(d); hold(); };
   root.onpointerup = end; root.onpointercancel = end; root.onpointerleave = ev => { if (ev.pointerType === "mouse") { end(); paused = false; } };
   root.onclick = ev => { if (Math.abs(moved) > 6) ev.preventDefault(); };
   root.onmouseenter = () => paused = true;
   root.onfocusin = () => paused = true; root.onfocusout = () => paused = false;
-  // Auto-advance every 4 s, unless hovered, recently touched, off screen, or the viewer prefers reduced motion.
-  let paused = false, holdUntil = 0;
-  function hold(){ holdUntil = Date.now() + 8000; }
-  clearInterval(drawHero.timer);
-  if (!matchMedia("(prefers-reduced-motion: reduce)").matches) drawHero.timer = setInterval(() => {
-    if (!document.body.contains(track)) return clearInterval(drawHero.timer);
-    if (!paused && !document.hidden && Date.now() > holdUntil && root.getBoundingClientRect().bottom > 0) go(1);
-  }, 4000);
+  // Auto-advance unless hovered, recently touched, off screen, or the viewer prefers reduced motion.
+  clearInterval(drawRow[R.k]);
+  if (!matchMedia("(prefers-reduced-motion: reduce)").matches) drawRow[R.k] = setInterval(() => {
+    if (!document.body.contains(track)) return clearInterval(drawRow[R.k]);
+    const r = root.getBoundingClientRect();
+    if (!paused && !document.hidden && Date.now() > holdUntil && r.bottom > 0 && r.top < window.innerHeight) go(1);
+  }, R.every);
 }
 
 // ---------- shell ----------
