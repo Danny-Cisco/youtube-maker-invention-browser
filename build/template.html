@@ -62,7 +62,7 @@ body.makers-page header.wrap{padding-bottom:4px}
 .rhead .rshuf{margin-left:auto}
 .rshuf{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:5px 14px;cursor:pointer;font-size:13px;color:var(--text2)}
 .rshuf:hover{color:var(--text)}
-@media (max-width:600px){.rhead span,.browse span{order:3;width:100%;margin-top:-6px}.rhead h2,.browse h2{font-size:20px}.crow{margin-top:32px}.browse{margin-top:48px}.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
+@media (max-width:600px){.sizef .presets{display:none}.rhead span,.browse span{order:3;width:100%;margin-top:-6px}.rhead h2,.browse h2{font-size:20px}.crow{margin-top:32px}.browse{margin-top:48px}.brand b{font-size:26px}.brand small{font-size:14px}.brand svg{width:42px;height:42px}.cnav{display:none}.slide .cap b{font-size:17px}}
 @media (prefers-reduced-motion:reduce){.ctrack,.slide,.slide img.th{transition-duration:.01s!important}}
 .crumb{display:inline-block;font-size:14px;color:var(--text2);text-decoration:none;margin-bottom:10px}
 .crumb:hover{color:var(--text)}
@@ -74,6 +74,8 @@ body.makers-page #chips,body.makers-page #path{display:none}
 .sizef{margin-top:12px;margin-bottom:48px;padding:22px 26px!important}
 .fh{display:flex;align-items:center;gap:8px}
 .ficon{width:18px;height:18px;fill:var(--accent);flex:none}
+.mob-only{display:none}
+@media (max-width:600px){.desk-only{display:none}.mob-only{display:inline}}
 .fhint{margin:3px 0 0;font-size:13px;color:var(--muted)}
 .sizef .ph{align-items:flex-start}
 .presets{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
@@ -819,7 +821,7 @@ function renderMakers(){
   const ticks = []; for (let e = SIZE_LO; e <= SIZE_HI; e++) ticks.push(e);
   main.innerHTML = `
   <div class="wrap"><section class="panel sizef" aria-label="Filter by channel size">
-    <div class="ph"><div><h3 class="fh"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18l-7 8.5V19l-4 2v-7.5z"/></svg>Filter by channel size</h3><p class="fhint">Pick a preset, or drag the orange handles along the subscriber scale. Each dot is a maker.</p></div><span class="sub" id="sizeLabel"></span></div>
+    <div class="ph"><div><h3 class="fh"><svg class="ficon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18l-7 8.5V19l-4 2v-7.5z"/></svg>Filter by channel size</h3><p class="fhint"><span class="desk-only">Pick a preset, or drag</span><span class="mob-only">Drag</span> the orange handles along the subscriber scale. Each dot is a maker.</p></div><span class="sub" id="sizeLabel"></span></div>
     <div class="presets" role="group" aria-label="Size presets">${SIZE_PRESETS.map(([k, l, a, b]) => {
       const n = CREATORS.filter(c => { const v = LG(c.subs); return v >= a && (v < b || b >= SIZE_HI); }).length;
       return `<button data-preset="${k}" title="${k === "all" ? "Every maker" : `${fmt(10 ** a)}–${b >= SIZE_HI ? "" : fmt(10 ** b)} subscribers`}">${l}<span>${k === "all" ? "" : `${a <= SIZE_LO ? "<" + fmt(10 ** b) : fmt(10 ** a) + (b >= SIZE_HI ? "+" : "–" + fmt(10 ** b))} · `}${n}</span></button>`; }).join("")}</div>
