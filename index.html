@@ -72,6 +72,21 @@ body{overflow-x:clip}
 .cnav.prev{left:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .cnav.next{right:max(12px,calc(50vw - var(--wmax) / 2 - 22px))}
 .crow{margin-top:40px}
+.junk{margin-top:64px;padding-top:28px;border-top:1px solid var(--line);transition:opacity .3s}
+.junk.fade{opacity:0}
+.jrow{margin:12px calc(50% - 50vw) 0;width:100vw;overflow:hidden}
+.jtrack{display:flex;width:max-content;animation:jscroll var(--dur) linear infinite}
+.jrow.rev .jtrack{animation-direction:reverse}
+.jrow:hover .jtrack,.jrow:focus-within .jtrack{animation-play-state:paused}
+.jset{display:flex;gap:12px;padding-right:12px}
+@keyframes jscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.slide.jt{border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,.12)}
+.slide.jt img.th{transform:none;transition:transform .4s ease}
+.slide.jt:hover img.th{transform:scale(1.06)}
+.slide.jt .cap{padding:26px 10px 8px}
+.slide.jt .cap b{font-size:14px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.slide.jt .cap span{font-size:11.5px;margin-top:2px}
+@media (prefers-reduced-motion:reduce){.jtrack{animation:none}.jrow{overflow-x:auto}.jset+.jset{display:none}}
 .browse{margin-top:72px;padding-top:28px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
 .browse h2{margin:0;font-size:22px;letter-spacing:-.015em}
 .browse span{font-size:13px;color:var(--muted)}
@@ -544,26 +559,42 @@ function pickDeep(){
   recentPut("ma.recentSlides", out, recent, 120);
   return out;
 }
-function pickJunk(){
-  // The other two-thirds: for 14 random makers, one invention from below their top third (never a Most watched or Deep cuts candidate).
-  const recent = recentGet("ma.recentJunk"), skip = new Set(recent), out = [];
+function pickJunk(n = 48){
+  // The other two-thirds: one invention per random maker from below their top third (never a Most watched or Deep cuts
+  // candidate), going round the makers again if there aren't enough.
+  const recent = recentGet("ma.recentJunk"), skip = new Set(recent), out = [], used = new Set();
   const famous = new Set([...ALL_INV].sort((a, b) => b.x.views - a.x.views).slice(0, 200).map(o => o.x));
-  for (const c of shuffled(CREATORS)) {
-    const sorted = [...c.inventions].sort((a, b) => b.views - a.views), bottom = sorted.slice(Math.max(3, Math.ceil(sorted.length / 3))).filter(x => !famous.has(x));
-    if (!bottom.length) continue;
-    const fresh = bottom.filter(x => !skip.has(c.slug + "/" + x.slug)), pool = fresh.length ? fresh : bottom;
-    out.push({ c, x: pool[Math.floor(Math.random() * pool.length)] });
-    if (out.length === 14) break;
-  }
-  recentPut("ma.recentJunk", out, recent, 200);
+  const pools = shuffled(CREATORS).map(c => { const sorted = [...c.inventions].sort((a, b) => b.views - a.views);
+    return { c, bottom: sorted.slice(Math.max(3, Math.ceil(sorted.length / 3))).filter(x => !famous.has(x)) }; }).filter(o => o.bottom.length);
+  for (let round = 0; out.length < n && round < 4; round++)
+    for (const { c, bottom } of pools) {
+      const left = bottom.filter(x => !used.has(x)), fresh = left.filter(x => !skip.has(c.slug + "/" + x.slug)), pool = fresh.length ? fresh : left;
+      if (!pool.length) continue;
+      const x = pool[Math.floor(Math.random() * pool.length)]; used.add(x); out.push({ c, x });
+      if (out.length === n) break;
+    }
+  recentPut("ma.recentJunk", out, recent, 300);
   return out;
 }
 const ROWS = [
   { k: "top", title: "Most watched", sub: "Big hits from across the catalogue", pick: pickPopular, big: true, every: 4000 },
   { k: "deep", title: "Deep cuts", sub: "Lesser-known builds worth finding", pick: pickDeep, big: false, every: 5000 },
-  { k: "junk", title: "Junk Drawer", sub: "Rummage through each maker's least-watched builds", pick: pickJunk, big: false, every: 6000 },
 ];
 const car = {};
+// Junk Drawer: four rows of tiles drifting continuously, alternate rows in opposite directions. Hover pauses a row.
+let junk = null;
+function drawJunk(fresh){
+  const el = $("junk"); if (!el) return;
+  if (!junk || fresh) junk = pickJunk(48);
+  const vw = window.innerWidth, tw = vw < 600 ? 190 : 250, gap = 12, per = Math.ceil(junk.length / 4);
+  const tile = ({ c, x }) => `<a class="slide on jt" href="#/${c.slug}/${x.slug}" style="width:${tw}px"><img class="th" src="https://i.ytimg.com/vi/${x.hero}/mqdefault.jpg" alt="" loading="lazy" onerror="this.style.opacity=0">
+    <div class="cap"><b>${esc(x.name)}</b><span>${esc(c.name)} · ${fmt(x.views)} views</span></div></a>`;
+  const rows = [0, 1, 2, 3].map(r => junk.slice(r * per, r * per + per)).filter(r => r.length);
+  el.innerHTML = `<div class="rhead wrap"><h2>Junk Drawer</h2><span>Rummage through each maker's least-watched builds</span><button class="rshuf" id="junkShuf">Shuffle ↻</button></div>
+    ${rows.map((r, i) => { const len = r.length * (tw + gap);   // one copy of the row, in px; ~38 px a second
+      return `<div class="jrow${i % 2 ? " rev" : ""}"><div class="jtrack" style="--dur:${Math.round(len / 38)}s">${[0, 1].map(k => `<div class="jset"${k ? ' aria-hidden="true"' : ""}>${r.map(tile).join("")}</div>`).join("")}</div></div>`; }).join("")}`;
+  $("junkShuf").onclick = () => { el.classList.add("fade"); setTimeout(() => { drawJunk(true); el.classList.remove("fade"); }, 300); };
+}
 function drawHero(fresh){
   const el = $("hero"); if (!el) return;
   el.innerHTML = ROWS.map(r => `<section class="crow" id="row-${r.k}" aria-label="${r.title}"></section>`).join("");
@@ -897,10 +928,12 @@ function renderMakers(){
     <div class="pchart" id="allLenChart"></div>
   </div></section>
   <div id="makerGrid"></div>
-  <p class="wrap sub small" style="margin:18px auto 50px">Each maker's inventions are hand-curated from their full upload history and press coverage. Size bands follow YouTube's Play Button awards: Silver at 100K subscribers, Gold at 1M, Diamond at 10M.</p>`;
+  <section class="junk" id="junk" aria-label="Junk Drawer"></section>
+  <p class="wrap sub small" style="margin:18px auto 50px">Inventions are grouped from each maker's full upload history: hand-curated (with press coverage) for the first makers, auto-drafted from video titles and descriptions for later additions. Size bands follow YouTube's Play Button awards: Silver at 100K subscribers, Gold at 1M, Diamond at 10M.</p>`;
   wireSize();
   updateSizeUI();
   renderMakerGrid();
+  drawJunk();
 }
 function updateSizeUI(){
   const lo = sizePct(st.sMin), hi = sizePct(st.sMax), sel = $("sel"); if (!sel) return;
