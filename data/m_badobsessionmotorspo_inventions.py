@@ -55,36 +55,29 @@ INVENTIONS = [
    "qVN3DRkn9ig",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Swansea Bay SS5 Tyle
   ],
  ),
- dict(name="Project Binky - The Outtakes. Strong language and cocking about", kind="Build",
+ dict(name="Project Binky: Turbocharged 4WD Mini", kind="Build",
   desc="These are some of the outtakes from the shooting of the trailer for Project Binky.",
   videos=[
    "C0JfHyj04no",  # 2013-06-28 Project Binky - The Outtakes. Strong language and cocking about.
-  ],
- ),
- dict(name="Project Binky - - Austin Mini GT-Four - Turbo Charged 4WD Mini", kind="Build",
-  desc="In the first episode of Project Binky, we take a rotten old Austin Mini and strip it down to a bare shell.",
-  videos=[
    "7hCPODjJO7s",  # 2013-08-17 Project Binky - Episode 1  - Austin Mini GT-Four - Turbo Charged 4WD M
    "9VKegYsSRG0",  # 2013-10-18 Project Binky - Episode 2 - Austin Mini GT-Four - Turbo Charged 4WD Mi
    "ksbtdPgQM00",  # 2013-12-24 Project Binky - Episode 3 - Austin Mini GT-Four - Turbo Charged 4WD Mi
    "93JcDqxAOK0",  # 2014-02-19 Project Binky - Episode 4 - Austin Mini GT-Four - Turbo Charged 4WD Mi
-  ],
- ),
- dict(name="Project Binky - - Austin Mini GT-Four - Turbocharged 4WD Mini", kind="Build",
-  desc="In episode 5 of Bad Obsession Motorsport's Project Binky, we finally manage to get the front bulkhead finished and make a start on making good the rear end.",
-  videos=[
    "NSbo6E5zycc",  # 2014-04-19 Project Binky - Episode 5 - Austin Mini GT-Four - Turbocharged 4WD Min
    "KsuYQoqCZeY",  # 2014-06-13 Project Binky - Episode 6 - Austin Mini GT-Four - Turbocharged 4WD Min
    "r0wMIF6EPfY",  # 2014-09-26 Project Binky - Episode 7 - Austin Mini GT-Four - Turbocharged 4WD Min
    "n_H8bK8o3UM",  # 2014-12-24 Project Binky - Episode 8 - Austin Mini GT-Four - Turbocharged 4WD Min
    "7v59dDxCk9w",  # 2015-04-17 Project Binky - Episode 9 - Austin Mini GT-Four - Turbocharged 4WD Min
+   "uSTbnT8D_DI",  # 2015-05-10 Project Binky - The Outtakes Part 2. Strong language.
    "X3DTTL9xRQ0",  # 2015-07-31 Project Binky - Episode 10 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "ob-FUF0Sh_E",  # 2015-12-04 Project Binky - Episode 11 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "NMT9Ykmneiw",  # 2016-04-08 Project Binky - Episode 12 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "I_ajcKhHLjU",  # 2016-07-22 Project Binky - Episode 13 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "mB4NXA_vNWs",  # 2016-11-25 Project Binky - Episode 14 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "hViplB84We4",  # 2017-03-17 Project Binky - Episode 15 - Austin Mini GT-Four - Turbocharged 4WD Mi
+   "lVV_za4wkEc",  # 2017-06-24 Project Binky - The Outtakes Part 3. Strong language.
    "hR1nU9IJsoM",  # 2017-10-13 Project Binky - Episode 16 - Austin Mini GT-Four - Turbocharged 4WD Mi
+   "OxJc57T_dwU",  # 2017-12-16 Project Binky - The Outtakes Part 4. Strong language
    "M7aZzkqLtFM",  # 2018-05-18 Project Binky - Episode 17 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "NX4lBvHDMs8",  # 2018-08-01 Project Binky - Episode 18 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "QBXT1sHP92w",  # 2018-10-01 Project Binky - Episode 19 - Austin Mini GT-Four - Turbocharged 4WD Mi
@@ -95,10 +88,12 @@ INVENTIONS = [
    "ulmmJlhecdQ",  # 2019-05-12 Project Binky - Episode 24 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "LtLmuTgYTZw",  # 2019-06-30 Project Binky - Episode 25 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "wKeCH5QQPXk",  # 2019-09-29 Project Binky - Episode 26 - Austin Mini GT-Four - Turbocharged 4WD Mi
+   "0C1z1MtHAU4",  # 2019-10-12 Project Binky - An Understanding Enhancement
    "QqhoTkDS_KA",  # 2019-12-08 Project Binky - Episode 27 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "oKtQEFoexFk",  # 2019-12-24 Project Binky - Episode 28 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "UMZ8_pqJgek",  # 2020-02-09 Project Binky - Episode 29 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "cN8DYQIuW9Y",  # 2020-03-01 Project Binky - Episode 30 - Austin Mini GT-Four - Turbocharged 4WD Mi
+   "EzxcuBJUE7E",  # 2020-04-01 Project Binky - The Outtakes Part 5. Strong language.
    "4mCmv0jrya4",  # 2020-05-02 Project Binky - Episode 31 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "Yo0oqVtCJt8",  # 2020-06-20 Project Binky - Episode 32 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "PE9UP2NbIVU",  # 2021-01-29 Project Binky - Episode 33 - Austin Mini GT-Four - Turbocharged 4WD Mi
@@ -113,15 +108,6 @@ INVENTIONS = [
    "DhCvB_C6Y6Y",  # 2025-11-28 Project Binky - Episode 42 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "6WaPEUnV0ts",  # 2026-09-26 Project Binky - Episode 43 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "4uLI2G7YfQw",  # 2026-10-30 Project Binky - Episode 44 - Austin Mini GT-Four - Turbocharged 4WD Mi
-  ],
- ),
- dict(name="Project Binky - The Outtakes. Strong language", kind="Build",
-  desc="We make many mistakes, we shoot many takes, we swear - a lot.",
-  videos=[
-   "uSTbnT8D_DI",  # 2015-05-10 Project Binky - The Outtakes Part 2. Strong language.
-   "lVV_za4wkEc",  # 2017-06-24 Project Binky - The Outtakes Part 3. Strong language.
-   "OxJc57T_dwU",  # 2017-12-16 Project Binky - The Outtakes Part 4. Strong language
-   "EzxcuBJUE7E",  # 2020-04-01 Project Binky - The Outtakes Part 5. Strong language.
   ],
  ),
  dict(name="How to Fix a Porcelain Mug with a TIG Welder", kind="Build",
@@ -158,12 +144,6 @@ INVENTIONS = [
   desc="Howie Did It - Hydraulic Lifting Platform.",
   videos=[
    "FmZ6eNj-IzQ",  # 2019-05-26 Howie Did It - Hydraulic Lifting Platform
-  ],
- ),
- dict(name="Project Binky - An Understanding Enhancement", kind="Build",
-  desc="We try and answer some of the more frequent questions we get asked across our social media platforms.",
-  videos=[
-   "0C1z1MtHAU4",  # 2019-10-12 Project Binky - An Understanding Enhancement
   ],
  ),
  dict(name="Rallying History Track Day", kind="Build",
