@@ -1,0 +1,1530 @@
+{
+ "channel": {
+  "id": "UCjdHbo8_vh3rxQ-875XGkvw",
+  "title": "3DSage",
+  "handle": "@3dsage",
+  "description": "I make 3D printing, 3D coding, 3D animation, and beyond!\n\nContact Me: Message me on Instagram - 3dsagepix",
+  "since": "2010-09-27",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_kdm2Qu8oSL4pUlEkWxglkonDz7BeChiT3_xRcAufYNldA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "19458108",
+  "subscriberCount": "139000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "168"
+ },
+ "videos": [
+  {
+   "id": "ElTRn4uBde4",
+   "t": "If all the world were apple pie",
+   "d": "2010-12-07",
+   "v": 9191,
+   "s": 41,
+   "vertical": false,
+   "desc": "my Junior year fall 2010 final. Created in 3Ds Max, and compositing and After Effects."
+  },
+  {
+   "id": "6Uhj2E7FVE4",
+   "t": "Goldberg Machine",
+   "d": "2011-01-31",
+   "v": 1036,
+   "s": 46,
+   "vertical": false,
+   "desc": "Made from paper, corks, wire, shish kabob sticks, and lots of glue."
+  },
+  {
+   "id": "MjH9v_7p-0E",
+   "t": "Project: Boat",
+   "d": "2011-01-31",
+   "v": 1021,
+   "s": 50,
+   "vertical": false,
+   "desc": "This was never even graded. Oscar and I used only scrap materials."
+  },
+  {
+   "id": "-4SToYea3G4",
+   "t": "3D Game Maker (C++ and OpenGL)",
+   "d": "2012-03-02",
+   "v": 20756,
+   "s": 311,
+   "vertical": false,
+   "desc": "This is something I have been working on as a hobby for several months. It's my game engine I have been programming from scratch. I have a lot more I would like to add but here is what I have so far."
+  },
+  {
+   "id": "3-pgxF40YRg",
+   "t": "Cup Of Coffee",
+   "d": "2012-05-03",
+   "v": 1855,
+   "s": 57,
+   "vertical": false,
+   "desc": "This is my last school project. I filmed, edited, animated, and composited everything. I used 3Ds max and after effects."
+  },
+  {
+   "id": "TQgTi1YrrLE",
+   "t": "C++ OpenGL 3D Game Engine",
+   "d": "2012-12-06",
+   "v": 110225,
+   "s": 420,
+   "vertical": false,
+   "desc": "I started programming this engine from scratch in my spare time about a year and a half ago. I've learned a lot about programming by making the engine myself. I hope to release it online but I still have more I want to add and bugs to fix but here is my tech demo showing what it can do so far!\n\nUpdated video here:\nhttps://www.youtube.com/watch?v=3cRI9mHe6co\n\nI'm also working on a 3rd person perspective: \nhttps://www.youtube.com/watch?v=tjWUBUzWePE\n\nHere is my first Tutorial!\nhttp://www.youtube.com/watch?v=exQ43PFWJBU\nsecond tutorial\nhttps://www.youtube.com/watch?v=ODztO2gKkyA"
+  },
+  {
+   "id": "_hxnKGPgOd0",
+   "t": "SageHansen - demoreel 2013",
+   "d": "2013-02-04",
+   "v": 1117,
+   "s": 66,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "VPueVCTueKs",
+   "t": "15 kilobyte game OpenGL",
+   "d": "2013-02-27",
+   "v": 7928,
+   "s": 92,
+   "vertical": false,
+   "desc": "This is my 15 kilobyte progress. I tried to make this game demo as efficient as I could. It was just a personal challenge to make it a small file. All textures are coded in the file. I would like to make it a full level with 3d rigged enemies and sound for under 100k. Programmed in C++ and OpenGL."
+  },
+  {
+   "id": "tjWUBUzWePE",
+   "t": "OpenGL 3D Floating Camera",
+   "d": "2013-05-31",
+   "v": 6609,
+   "s": 55,
+   "vertical": false,
+   "desc": "I started to program from scratch a 3rd person floating camera that's similar to the one in Mario 64. I used c++ and opengl. So far, it has ground collisions, player jumping with gravity, and smooth camera following all under 17 kilobytes. Next I'd like to bring in a character obj to replace the square there right now."
+  },
+  {
+   "id": "AxEdZiQlSOA",
+   "t": "Evolution of my MD2 Reader",
+   "d": "2013-06-10",
+   "v": 4423,
+   "s": 60,
+   "vertical": false,
+   "desc": "the evolution of my c++ openGL MD2 reader. I wrote the code for the program but the model and its animation is not mine."
+  },
+  {
+   "id": "K-MRRuuQ01E",
+   "t": "3ds Max Rain (No Plugins)",
+   "d": "2013-07-11",
+   "v": 6235,
+   "s": 9,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "exQ43PFWJBU",
+   "t": "How to Make a Simple 3D Modeling Program | OpenGL Tutorial",
+   "d": "2014-03-22",
+   "v": 141650,
+   "s": 479,
+   "vertical": false,
+   "desc": "Thank you for watching my first programming tutorial! My goal was to make a video tutorial that was different, fun, and entertaining to watch and hopefully learn something from. I apologize for moving so fast, but I felt an 8 minute video that you can pause, study, and learn from is better than a 25 minute video that is at a slow pace. And of course since I love making 3D animation too, I wanted to help by creating visuals since I am a visual learner. Thank you and have a great day programming!\n\nThe song was created by this talented guy so check out his channel if you like it. \nLink: https://w"
+  },
+  {
+   "id": "ODztO2gKkyA",
+   "t": "How to Make 3D using only 2D | OpenGL Tutorial",
+   "d": "2014-08-07",
+   "v": 14221,
+   "s": 312,
+   "vertical": false,
+   "desc": "Here is my second opengl tutorial! Since i am a visual learner, I wanted to created some 3D visuals to show what I am trying to accomplish. I will try to create more tutorials that are fun easy to make. Enjoy and see ya next time."
+  },
+  {
+   "id": "I4XqlH9n1nc",
+   "t": "Myself In a Gameboy Advanced Game",
+   "d": "2014-08-24",
+   "v": 6250,
+   "s": 56,
+   "vertical": false,
+   "desc": "I've been teaching myself how to program my own game for the Game Boy Advance. Its been challenging but fun and I'm glad to see it running on the actual system. Thanks for watching.\n\nsong by: 216V0 https://www.youtube.com/user/216V0/videos"
+  },
+  {
+   "id": "RCKznrG7d-g",
+   "t": "3D Camera Tracking - 3ds Max and Voodoo",
+   "d": "2014-10-06",
+   "v": 1669,
+   "s": 9,
+   "vertical": false,
+   "desc": "I haven't done any 3d tracking in a while so I thought i would do a quick test. Voodoo was really easy to use and exports a camera that 3ds max can then import."
+  },
+  {
+   "id": "RTk6W67dyR4",
+   "t": "Install Dev C++ and OpenGL | It Works",
+   "d": "2014-12-29",
+   "v": 166346,
+   "s": 343,
+   "vertical": false,
+   "desc": "How to Install the free compiler Dev C++ and the free graphics library OpenGL on Windows 10. \n\nDownload Dev C++:  http://www.mediafire.com/download/jvca73gqgg0l783/Setup_DEVC%2B%2B+5.4.1.rar\nRight click this link to download zip of glutming: http://chortle.ccsu.edu/Bloodshed/glutming.zip\n\nRaycaster Part 1 tutorial: https://youtu.be/gYRrGTC7GtA\n\n-lglu32 -lglut32 -lopengl32\n\nReplace less than sign with actual less than sign. YouTube prevents me from adding it here.\n\n---C Code---\n#include \"LESS THAN SIGN\" stdio.h \"GREATER THAN SIGN\"\nint main()\n{\n printf(\"Hello World!!!\\n\\n\");\n system(\"pause\");\n}\n"
+  },
+  {
+   "id": "3cRI9mHe6co",
+   "t": "C++ OpenGL 3D Game Engine - 1990's Doom Style",
+   "d": "2015-01-12",
+   "v": 48852,
+   "s": 358,
+   "vertical": false,
+   "desc": "My game engine made with C++ and OpenGL. I made the textures in another program but everything else is created, animated, and runs in the game engine.\n\n\nmusic by: 216V0\nhttps://www.youtube.com/watch?v=4z25dqsA5jg"
+  },
+  {
+   "id": "zkEniI53KaI",
+   "t": "Super Mario Sounds Super Scary 3D Printed \ud83d\udc7b",
+   "d": "2015-01-21",
+   "v": 4970055,
+   "s": 55,
+   "vertical": false,
+   "desc": "Play it at 0.5 speed\n\nI found this model on Thingiverse\nLink for file: http://www.thingiverse.com/thing:72787\n#mariomovie"
+  },
+  {
+   "id": "N-dZ0eYe0wc",
+   "t": "3D Printed Alien Cube",
+   "d": "2015-01-27",
+   "v": 26441,
+   "s": 50,
+   "vertical": false,
+   "desc": "I modeled this in 3ds Max and printed the STL on my Cube 2! It was just for fun. I printed this on my Cube 2 3D printer.\n\n3D File: https://www.thingiverse.com/thing:912315\n\n\nmusic by: 216V0\nhttps://www.youtube.com/watch?v=JnKSC6Wq6gI"
+  },
+  {
+   "id": "5NgvaYKTKUk",
+   "t": "Building 3D Printer DIY sound Proof Booth",
+   "d": "2015-02-01",
+   "v": 14269,
+   "s": 83,
+   "vertical": false,
+   "desc": "I built a sound proof booth for my Cube 2nd generation 3D printer to help lower the noise. I can really tell a difference.\n\n\nmusic by: 216V0\nhttps://www.youtube.com/watch?v=wNQJyHAdS48\n"
+  },
+  {
+   "id": "J8EWAtIxSxc",
+   "t": "First Tool 3D Printed in Space",
+   "d": "2015-04-20",
+   "v": 3865,
+   "s": 51,
+   "vertical": false,
+   "desc": "This is the first tool 3D printed in space. The wrench prints as a single part that only ratchets in the clockwise tightening rotation direction. NASA then released the model file in January of 2015 to everyone for free. I printed this on my Cube 2 3D printer.\n\nArticle:\nhttp://www.nasa.gov/mission_pages/station/research/news/3Dratchet_wrench\n\nThe .SLT model file:\nhttp://nasa3d.arc.nasa.gov/detail/wrench-mis"
+  },
+  {
+   "id": "Lt_YuQoHG6M",
+   "t": "3D Printed Link from The Legend Of Zelda",
+   "d": "2015-04-29",
+   "v": 11606,
+   "s": 42,
+   "vertical": false,
+   "desc": "Link From The Legend of Zelda Ocarina of Time. I printed this on my Cube 2 3D printer."
+  },
+  {
+   "id": "TrtFS6CSamk",
+   "t": "OpenGL C++ programming rigging and skinning",
+   "d": "2015-05-03",
+   "v": 6400,
+   "s": 21,
+   "vertical": false,
+   "desc": "I'm trying to create an N64 style game using OpenGL and C++ and  i'm working on programming rigging and skinning and learning about bones, hierarchy, vertex weights, linking, pivot rotation, and attaching vertices to bones."
+  },
+  {
+   "id": "-1FsPtyUYd0",
+   "t": "3D Printed barrel",
+   "d": "2015-05-05",
+   "v": 1144,
+   "s": 30,
+   "vertical": false,
+   "desc": "3D Printed donkey kong style barrel. Printed on a Cube 2 printer."
+  },
+  {
+   "id": "Uu5MVtevnFg",
+   "t": "3D Animated Morphing",
+   "d": "2015-05-12",
+   "v": 4897,
+   "s": 35,
+   "vertical": false,
+   "desc": "I found this animation I made about 4 years ago. I have no idea why I made it. But it exists. :P"
+  },
+  {
+   "id": "0uU54SjNYEs",
+   "t": "Happy Birthday Song - 3D Printed",
+   "d": "2015-07-22",
+   "v": 148551,
+   "s": 42,
+   "vertical": false,
+   "desc": "My dad was on vacation so I mailed this to him so he could play this on his birthday.\nFound on Thingiverse: http://www.thingiverse.com/thing:1563499"
+  },
+  {
+   "id": "9LpKurCszNo",
+   "t": "My Old Animations as a Movie Trailer",
+   "d": "2015-09-09",
+   "v": 1561,
+   "s": 156,
+   "vertical": false,
+   "desc": "I recently found my old hard drive with around 20 minutes of old animations i made a long time ago just for fun. The time stamp on the files are from 2007 -2011 so i was just learning and yes they look bad. I have greatly improved over the years.\n I was just trying to create a story and didn't spend time polishing up the animation. I never showed them to anyone and they were never on my demo reel. \nIt took years and countless hours and late nights to make these animations in my spare time so I thought i would at least cut my favorite scenes together into a movie trailer."
+  },
+  {
+   "id": "wAuzwxH0y_4",
+   "t": "3D Printed Retractable Wolverine Claws",
+   "d": "2015-11-15",
+   "v": 67957,
+   "s": 50,
+   "vertical": false,
+   "desc": "I did not design this, I found it on Thingiverse and I was really impressed with how well it works so I wanted to make this video.\nIt works great for Halloween or cosplay costume. \n\nlink: http://www.thingiverse.com/thing:524223"
+  },
+  {
+   "id": "EAEEbDudA-g",
+   "t": "Blues Box Slide Guitar | My New Favorite Guitar",
+   "d": "2015-11-30",
+   "v": 34457,
+   "s": 56,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "_yQ-DFCYeas",
+   "t": "3D Printed One Man Band Sounds Terrible",
+   "d": "2015-12-07",
+   "v": 5814,
+   "s": 58,
+   "vertical": false,
+   "desc": "I designed and printed this musical instrument for a challenge on Thingiverse. Here I am testing it out."
+  },
+  {
+   "id": "9L9JSQwgPxk",
+   "t": "Crystal Radio No Battery Needed - Scientific Explorer",
+   "d": "2015-12-24",
+   "v": 14514,
+   "s": 86,
+   "vertical": false,
+   "desc": "I found this DIY radio that you can build out of just a few simple parts and it actually works without a battery. I hooked it up to a mini guitar amp so you can hear it better. I think this is more of a learning tool than a practical device but I had fun making it and learning about it so I thought i would upload this video."
+  },
+  {
+   "id": "ki4FqiUxBRA",
+   "t": "How to Make a 3D Printed Rotating Box",
+   "d": "2016-01-11",
+   "v": 8921,
+   "s": 161,
+   "vertical": false,
+   "desc": "Thingiverse files: http://www.thingiverse.com/thing:1259889\n\n2 AAA battery holder:  http://www.ebay.com/itm/Battery-Holder-2-AAA-By-Radioshack-270-0398-New-/151936853974?hash=item23602467d6:g:ZusAAOSwyQtVmDEt\nDC voltage controller:  http://www.ebay.com/itm/Low-Voltage-DC-1-8V-3V-5V-6V-12V-2A-Motor-Speed-Controller-PWM-/151681732135\nVelleman 3V DC electric motor 13800rpm: https://www.vellemanstore.com/en/3vdc-motor-350ma-13800rpm?utm_source=google_shopping&gclid=CMiqsMzQwMoCFc2CfgodOYsLwA\n\nIdeas:\nHappy birthday sign\nFood at a party\nScience fair project\n3D print\nGarage sale item\nCat toy\nEngageme"
+  },
+  {
+   "id": "bmT21EHKQuM",
+   "t": "3D Printed Speaker Tutorial",
+   "d": "2016-02-28",
+   "v": 8291,
+   "s": 155,
+   "vertical": false,
+   "desc": "Thingiverse: http://www.thingiverse.com/thing:1378399\n\nMaterials:\n3 neodymium magnets 18x3mm\n1 male to male stereo cable 3.5mm\nmagnet wire 32 gauge\n2 Alligator clips"
+  },
+  {
+   "id": "kT_MhOC_ex0",
+   "t": "3D Printed Speaker",
+   "d": "2016-02-28",
+   "v": 5255,
+   "s": 39,
+   "vertical": false,
+   "desc": "My 3D printed DIY speaker design. \nTutorial: https://youtu.be/bmT21EHKQuM"
+  },
+  {
+   "id": "wdGPC-sCg-A",
+   "t": "How to Make a 3D Printed Battery",
+   "d": "2016-04-03",
+   "v": 9510,
+   "s": 194,
+   "vertical": false,
+   "desc": "The video will show you what you will need and the steps to make a battery that has enough power to light up a small LED.\n\nSTL file to download: http://www.thingiverse.com/thing:1468667\n\n\nSome notes not in the video:\nYou can use cloth, napkins, or cardboard as a replacement for the grill wipes, I just had the best results the wipes.\nThe zinc will oxidize, the vinegar will evaporate causing the battery to stop working after a few hours.\nAdd salt to the vinegar and stir until it dissolves. This will create a stronger acid and give you a higher voltage.\nYou don't have to use all 9 pennies. Just s"
+  },
+  {
+   "id": "zUuDz39zLCY",
+   "t": "3D Printed Binary Watch | How it Works",
+   "d": "2016-04-18",
+   "v": 8847,
+   "s": 127,
+   "vertical": false,
+   "desc": "Link to the creator of the watch: https://www.youtube.com/watch?v=0YdMxOjTrLs"
+  },
+  {
+   "id": "qdXPSHWHg78",
+   "t": "555 timer Keyboard | Name That Tune Challenge",
+   "d": "2016-05-31",
+   "v": 10501,
+   "s": 75,
+   "vertical": false,
+   "desc": "I'm trying to learn the basics of electronics and I just built this music keyboard with a 555 timer and tuned it to the C Major scale. \nI'm also 3D printing a body and keys and i will upload that soon."
+  },
+  {
+   "id": "LEwXuzs5feI",
+   "t": "DIY 555 Timer Electronic Music Keyboard 8 Bit Style",
+   "d": "2016-07-06",
+   "v": 5908,
+   "s": 208,
+   "vertical": false,
+   "desc": "This is less of a tutorial video and more of a personal challenge of mine to see if it was possible to create a 3D printed musical keyboard with a 555 timer circuit. \nThis was not easy to make so I want to refine my design and make it easier to build with less parts and then post an actual tutorial video so you can make your own.\n\nThe next video will be OpenGL"
+  },
+  {
+   "id": "Jw3G2XvTE00",
+   "t": "Easy Cross Platform Picking Technique",
+   "d": "2016-08-19",
+   "v": 3261,
+   "s": 185,
+   "vertical": false,
+   "desc": "How to select or pick buttons or items in 2D or 3D."
+  },
+  {
+   "id": "J9K_DfxWLdw",
+   "t": "3D Printed Alien Cube",
+   "d": "2016-08-28",
+   "v": 30268,
+   "s": 168,
+   "vertical": false,
+   "desc": "I designed this small alien looking cube and I show you how to 3D print and put it together with lights.\nThe files can be found here:\nhttp://www.thingiverse.com/thing:1741021\n\nI updated this design and sell it on Etsy! https://www.etsy.com/listing/470613498/alien-cube?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=alien%20cube&ref=sr_gallery_1"
+  },
+  {
+   "id": "hmD_puQzWvQ",
+   "t": "Maker Ultimate 3D Printer - My first Thoughts",
+   "d": "2016-09-26",
+   "v": 19358,
+   "s": 119,
+   "vertical": false,
+   "desc": "My new Maker Ultimate 3D Printer arrived so I wanted to compare its quality to my old 3d printer.\n\n3D Printer: http://www.monoprice.com/product?p_id=15710\nthingiverse test model: http://www.thingiverse.com/thing:1363023"
+  },
+  {
+   "id": "nJthaFcqhOU",
+   "t": "The Making of My Briefcase Arcade System",
+   "d": "2016-10-17",
+   "v": 17295,
+   "s": 114,
+   "vertical": false,
+   "desc": "The making of my arcade system built inside a briefcase. I didn't have any instructions to follow, I just made it up as I went and had to change my design several times. In the end, I was pretty happy with how it turned out. Thank you for watching."
+  },
+  {
+   "id": "zM8IzPbQlKI",
+   "t": "Optical Illusion Cube - 3D Printed",
+   "d": "2016-11-13",
+   "v": 24722,
+   "s": 17,
+   "vertical": false,
+   "desc": "I design this 3D print to look completely random from the side but the lines come together to form a perspective cube when viewed from the front.\nThingiverse: http://www.thingiverse.com/thing:1889022\n\nDisclaimer: This video is exclusively managed by Caters News. To license or use in a commercial player please contact info@catersnews.com or call +44 121 616 1100 / +1 646 380 1615"
+  },
+  {
+   "id": "ZSKw-dSO_rw",
+   "t": "3D Printed Animation!",
+   "d": "2016-12-26",
+   "v": 6171,
+   "s": 49,
+   "vertical": false,
+   "desc": "I just got a dual extruder 3d printer and I wanted to make something that I havent seen online. I designed 3 different frames of animation and modeled each one to each side of the model."
+  },
+  {
+   "id": "eGrWqlXZBZU",
+   "t": "3D Printed Goldeneye Remote Mine Prop",
+   "d": "2017-01-17",
+   "v": 2909,
+   "s": 30,
+   "vertical": false,
+   "desc": "\"Set timers: six minutes. Six minutes. Check.\"\nAh... Goldeneye. One of my favorite movies and video games. I loved playing it on n64 and when I saw this prop on thingiverse, I had to print it for myself. It combined my love for the movie, video game, electronics, and 3d printing all in one project that was really fun to make.\n\nThingiverse pictures \nhttp://www.thingiverse.com/make:289586\n\nCreated by ComradeQuiche on thingiverse.\nhttp://www.thingiverse.com/thing:54528"
+  },
+  {
+   "id": "L0lJWAO_zLk",
+   "t": "Full Body 3D Scan Shenanigans",
+   "d": "2017-02-05",
+   "v": 15215,
+   "s": 105,
+   "vertical": false,
+   "desc": "I had my body scanned at the Shapify booth at the Adobe Max conference and downloaded the model. I used the website Mixamo to auto-rig the model and now I cant stop thinking of new ways to use my 3D mini me."
+  },
+  {
+   "id": "uRupnjm6g2M",
+   "t": "MadLab's Electronics",
+   "d": "2017-03-17",
+   "v": 9677,
+   "s": 178,
+   "vertical": false,
+   "desc": "I found these 3 electronics kits from MadLab. I thought it would be fun to make a video of the assembly and testing of each one to see what they can do."
+  },
+  {
+   "id": "g8Kp3kNc_8c",
+   "t": "3D Animation Demo Reel 2017",
+   "d": "2017-04-22",
+   "v": 5919,
+   "s": 109,
+   "vertical": false,
+   "desc": "It's about that time again for my new demo reel. I still love working on 3D printing and programming but I found time to compile some of my recent past 3D animations.\nMore fun random projects coming soon!"
+  },
+  {
+   "id": "BpPBwziz-88",
+   "t": "Zelda Ocarina of Time Gameboy Advance -Work in Progress Part 1",
+   "d": "2017-04-25",
+   "v": 14708,
+   "s": 123,
+   "vertical": false,
+   "desc": ".\nNew close up video link:  https://www.youtube.com/watch?v=g-m5jMHGPyo\n\nNow I know what you are thinking. OOT in 3D on the GB. How could that be? Well sadly, this game never was. The Game Boy Advance came out in 2001 and has far less power than any computer device you use today.\nI started to teach myself how in the world to program a game on this device and it has been a challenging experience. I had to use a lot of tricks to create a 3D programs on such a slow processor. I have seen people recreating Ocarina of Time with the Unreal Engine and that looks absolutely beautiful, but it is a real"
+  },
+  {
+   "id": "g-m5jMHGPyo",
+   "t": "Zelda Ocarina of Time Gameboy Advance -Work in Progress Part 1 Close Up",
+   "d": "2017-04-26",
+   "v": 11753,
+   "s": 92,
+   "vertical": false,
+   "desc": "This is part 1 of my progress of trying to create Ocarina of Time on the Game Boy Advance in 3D."
+  },
+  {
+   "id": "HAm-YL2z7cc",
+   "t": "VFX Demo Reel 2017",
+   "d": "2017-05-04",
+   "v": 2358,
+   "s": 107,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "XfhlZuw5mDs",
+   "t": "CNC | Complete Assembly and First Print!",
+   "d": "2017-06-19",
+   "v": 501566,
+   "s": 589,
+   "vertical": false,
+   "desc": "00:00 - 04:10 Is the assembly of the cnc machine.\n04:10 - 06:42 I install and use the free software GCAM to create an .nc file to be printed. There are many other good cam software out there. I like GCAM because you can create files or load in svg or gerber files, or import a png image. \n06:42 - 07:05 - Make sure to really tighten the small black bolts. The vibrations could cause them to unscrew and the bit to fall out which you dont want to happen.\n07:05 - 07:20 I chose basswood for this first print because it is soft. Harder wood would be better but it is more expensive and could be harder t"
+  },
+  {
+   "id": "0Ytbq7y8l9o",
+   "t": "Zelda Ocarina of Time Gameboy Advance -Work in Progress Part 2",
+   "d": "2017-07-07",
+   "v": 13055,
+   "s": 68,
+   "vertical": false,
+   "desc": "I was finally able to optimize my custom 3D engine for the GBA! This early test scene might look weird, but it shows that I can walk around in a 3D environment, load animation, calculate depth of field, color polygons, object rotation and grass sprites that  always face the camera. Pretty hard to do on the GBA which makes it so rewarding for me to have gotten this far and I hope to keep improving and adding more!"
+  },
+  {
+   "id": "8_zdadsRoks",
+   "t": "How I Make Circuit Boards",
+   "d": "2017-08-28",
+   "v": 20274,
+   "s": 356,
+   "vertical": false,
+   "desc": "Note: This is just what I have learned so far. Please do your own research on chemicals, proper disposal, and safety procedures. Thank you.\n\nI designed this model to hold a permanent marker on my CNC machine to draw the traces of my custom circuit boards.\nYou don't have to use this just for circuit boards. You could also use this to draw art.\n\n3D file to print: https://www.thingiverse.com/thing:2505524\nPCB Holder: https://www.thingiverse.com/thing:1623014\n\nThis machine goes by many names but here is a wiki to the same cnc machine I bought. http://linksprite.com/wiki/index.php5?title=DIY_CNC_3_"
+  },
+  {
+   "id": "O4k6NLZz2OU",
+   "t": "Mechanical Writing Machine | No Computer",
+   "d": "2017-10-09",
+   "v": 37876,
+   "s": 162,
+   "vertical": false,
+   "desc": "I was so intrigued and impressed with this handwriting robotic hand that operates without any computer chips. It uses 3 discs to push and pull the hand to make it draw. I had to 3d printed my own discs to try out. Overall, I was really impressed so I wanted to make a video to share what this can do."
+  },
+  {
+   "id": "3355kdFs2oI",
+   "t": "3D Printed Assembly of Christmas Ornaments",
+   "d": "2017-11-22",
+   "v": 15085,
+   "s": 147,
+   "vertical": false,
+   "desc": "Find these ready to order on my Etsy shop! https://www.etsy.com/shop/3DSage\n\nAssembly of Paper Wall Lantern: 00:04\nAssembly of Glowing Gift Box:     01:06\n\n3D File of Paper Wall Lantern: https://www.thingiverse.com/thing:2663662\n3D File of Glowing Gift Box: https://www.thingiverse.com/thing:2653098\ninstagram: https://www.instagram.com/3dsagepix/\n\nMusic by: https://www.bensound.com"
+  },
+  {
+   "id": "1waCQOGqxgI",
+   "t": "Optical Illusion | 3D Printed Cube",
+   "d": "2017-12-11",
+   "v": 5541,
+   "s": 94,
+   "vertical": false,
+   "desc": "I was inspired by forced perspective chalk art and I wanted to see if I could 3D print my own design so that it looks very random from most angles but aligns to make a cube from the correct angle. \n\nDisclaimer:  This video is exclusively managed by Caters News. To license or use in a commercial player please contact  info@catersnews.com  or call  +44 121 616 1100  /  +1 646 380 1615"
+  },
+  {
+   "id": "DsIOXCZwFp4",
+   "t": "DIY Solder Fume Extractor",
+   "d": "2017-12-21",
+   "v": 14853,
+   "s": 89,
+   "vertical": false,
+   "desc": "Why use a fume extractor? When soldering, \"Exposure to rosin can cause eye, throat and lung irritation, nose bleeds and headaches. Repeated exposure can cause respiratory and skin sensitization, causing and aggravating asthma. Rosin is a serious occupational health hazard.\"\n\nWhat can you do? Make this simple fume extractor! Just two main pieces and easy to assemble. The carbon will help filter the hazardous fumes. \nI hope you find this helpful and have fun soldering!\n\nInstructables: http://www.instructables.com/member/3DSage/\nMusic by: https://www.bensound.com"
+  },
+  {
+   "id": "KGhe3OrNIlI",
+   "t": "3D Printed Radio | No Batteries",
+   "d": "2018-01-10",
+   "v": 1838668,
+   "s": 422,
+   "vertical": false,
+   "desc": "I'm thrilled to unveil my new 3D printed AM radio! I was inspired by the diy crystal and foxhole radios of the early 1900's, but I created my own design to be as simple as possible. I made a few animations to help assist in explaining how this mystifying device can work with so few parts. I hope you like it and thank you for watching!\n\nDownload 3D file:\nhttps://www.thingiverse.com/thing:2752141\n\nMaterials:\n1 Piezo Earphone\n1 Coil of 24 AWG Magnet Wire (aka Enamel Wire) \n1 1N34A germanium diode\n1 aluminum foil\n1 paper clip\n1 package of Hildie & Jo 45 Cord Ends (5x10mm Springs)\n\nThese should be "
+  },
+  {
+   "id": "7FK3CEqVpqA",
+   "t": "Zonestar Dual Extruder 3D Printer From GearBest Review",
+   "d": "2018-02-07",
+   "v": 13038,
+   "s": 350,
+   "vertical": false,
+   "desc": "ZONESTAR P802QR2 Dual Extruder: https://www.gearbest.com/3d-printers-3d-printer-\n\nFull Disclosure: GearBest  sent me this 3D printer to review under the agreement that I may give my honest personal opinions. The above link is an affiliate link, meaning by purchasing the product I will receive a small commission by the company. This helps me to keep producing entertaining videos.\n\nSpecifications:\nBrand and model number: ZONESTAR P802QR2 \nNozzle quantity: Double \nNozzle diameter: 0.4mm \nProduct forming size: 220x220x240mm (7.8x7.8x9.4inches)\nLayer thickness: 0.1-0.36mm \nMemory card offline print"
+  },
+  {
+   "id": "zOxB2BLxgdk",
+   "t": "How a Computer Works | Visual Learners",
+   "d": "2018-03-10",
+   "v": 64673,
+   "s": 700,
+   "vertical": false,
+   "desc": "Electronics are not by background. I recently started to learn about it so I feel like that put me in the right place to be able to explain these concepts in the best way. \nI am a visual learner and I need to see it working. I hope this kind of content helps you and keeps you inspired!"
+  },
+  {
+   "id": "_odmY7NrjHY",
+   "t": "GBA 3D Game Maker With Download Link",
+   "d": "2018-04-03",
+   "v": 48359,
+   "s": 161,
+   "vertical": false,
+   "desc": "I wanted to make my own 3D raycaster game for the GBA but it turned into a level creator where you can make your own level, textures, doors, and play it in 3D! \nMaybe next I could make Minecraft for the GBA? Let me know what you think. \nAnd yes I am still working on a 3D Zelda for the GBA. :)\n\nDownload the ROM: https://www.gbadev.org/demos.php?showinfo=1508\n\nMusic by: Quincas Moreira"
+  },
+  {
+   "id": "neFI0S6djuo",
+   "t": "3D Printed Hacking Computer Prop",
+   "d": "2018-04-10",
+   "v": 17435,
+   "s": 98,
+   "vertical": false,
+   "desc": "So you want a cool cell phone holder but don't want to use programming or a raspberry pi.\nNever fear, the Sci-Fi Computer Phone Holder is here!\nI created the model and animations so they align and fit together.\n\nYou might be thinking, will this fit my phone? It can! If your phone's screen is 5.3in then simply print and assemble. If your phone size is different, I created a very fast printing template so you can test different size scaling. For example, if you scale the template to 105% and that fits perfect, then print just the control panel to that same scale and it should fit your screen. Th"
+  },
+  {
+   "id": "zcsmHkKJgbE",
+   "t": "Logic Gates | Visual Learners",
+   "d": "2018-05-14",
+   "v": 100055,
+   "s": 169,
+   "vertical": false,
+   "desc": "This device is available on Etsy! \nHow a computer works: https://youtu.be/zOxB2BLxgdk\n\nWhile I was teaching myself the fundamentals of electronics and computers, I was surprised that I couldn't find a simple handheld device like this anywhere. So I decided to create my own! \n\nIf you organize transistors into these arrangements called logic gates, with many thousands of logic gates, you can create an entire computer. That concept is so amazing to me I had to immortalize these logic gate rock stars into a fun electronics kit. \n\nThank you for watching!\n\nAvailable on Etsy: https://www.etsy.com/lis"
+  },
+  {
+   "id": "ZVYYz3htFSo",
+   "t": "Robotic Arm | VFX on a Budget",
+   "d": "2018-05-30",
+   "v": 198554,
+   "s": 70,
+   "vertical": false,
+   "desc": "I felt like it was time for me to jump back into 3D animation and visual effects after seeing Cable in Deadpool 2. I wanted to see if I could create my own computer generated arm on a budget. I found the tights at Party City and I used 3Ds Max to render the arm and After Effects to composite it all together. \nThis is less of a step by step tutorial and more of a general overview of the short project and how it turned out. Thank you for watching!"
+  },
+  {
+   "id": "rn4edNztaPU",
+   "t": "Smooth PLA | No Sanding",
+   "d": "2018-06-07",
+   "v": 1308236,
+   "s": 170,
+   "vertical": false,
+   "desc": "I have been 3D printing for about 4 years now and I have always struggled to find a way to smooth PLA filament. After mistakenly spraying Polyurethane on my 3D model, I decided to see if it was thick enough and would dry fast enough to fill in the layers and I'm happy to say that it does! I hope someone out there find this helpful! Thank you for watching and for your support! More fun projects coming soon!\n\nNote: I did print the skull at a layer height of 0.3 which means detail was lost during printing. A height 0.1 would have been better and taken less time to smooth but I needed an extreme l"
+  },
+  {
+   "id": "ZVqwXtX0-DU",
+   "t": "Easy 3D Printed Levitation",
+   "d": "2018-07-11",
+   "v": 47383,
+   "s": 393,
+   "vertical": false,
+   "desc": "I'm thrilled to unveil my new 3D printed Levitation device! How crazy is that? It's possible and actually not too difficult to make. I really had a lot of fun with this project and I am so happy with how it turned out. I hope you enjoy it! Stay tuned for more fun and random projects! \n\nLink to 3D files to download! \nhttps://www.thingiverse.com/thing:2999263\n\nMaterials:\nMOSFET IRFZ44N N-Channel                    Jameco#669951\nHall Effect Sensor A3144 Unipolar           Jameco#1718701\n4x AA Battery Holder Cover & Switch      Jameco#216187\nNeodymium Ring Magnets 9.5x1.5mm   (Or any small strong "
+  },
+  {
+   "id": "I1qB0rt267Q",
+   "t": "3D Printed PlayStation Watch",
+   "d": "2018-10-05",
+   "v": 9011,
+   "s": 192,
+   "vertical": false,
+   "desc": "I love the original PlayStation and the games of that time period. So many good memories and with the new PlayStation Classic, I was surprised that this doesn't already exist. No problem, 3D printer to the rescue! \nI see this as something fun to wear to a convention, video game event or conference where you will be the only one with this retro console watch. Hope you enjoy it and thank you for watching!\n\n3D file: https://www.thingiverse.com/thing:3137486#"
+  },
+  {
+   "id": "rPtF1Axbin4",
+   "t": "3DSage 2018",
+   "d": "2018-12-13",
+   "v": 5030,
+   "s": 208,
+   "vertical": false,
+   "desc": "2018 has been a very productive year for my personal projects and I'm glad I can share them with you. I wanted to edit this highlight reel showing some of my favorite parts from YouTube and Instagram this year. I've got a lot more projects involving 3D printing, 3D programming, and 3D animation so I am looking forward to 2019! Stay tuned."
+  },
+  {
+   "id": "XmSSfCv5q-Q",
+   "t": "GBA Minecraft | Pushing The GBA to the Limit",
+   "d": "2019-01-31",
+   "v": 1244897,
+   "s": 228,
+   "vertical": false,
+   "desc": "New video and download link: https://youtu.be/UJLk7uiTBdk\n\nI have been teaching myself to program my own games for the Nintendo Gameboy Advance. I was challenged to program a simple 3D Minecraft style block building game on this old and slow console and it has been a fun and rewarding experience. \nI hope you like my progress so far and let me know if you want me to make more updates on this and please list a few other games you might like to see simplified down to the GBA! \nThank you for watching!"
+  },
+  {
+   "id": "Cc81sqo9URs",
+   "t": "Film Projector | 3D Printed",
+   "d": "2019-03-19",
+   "v": 19406,
+   "s": 384,
+   "vertical": false,
+   "desc": "I got this idea to design a working 3D printed projector after watching a video by Maker's Muse where he showcased the Geneva Mechanism. I honestly didn't know if this would work at all so I am happy with how it turned out and I hope you enjoy this video and subscribe for future videos! Thank you.\n\nMaker's Muse Geneva Mechanism - https://www.youtube.com/watch?v=Le-PVXUCl0M\n\n3D file - https://www.thingiverse.com/thing:3502365\n\nMaterials:\nLS-3006 Servo Motor 360 degrees\n3CH Digital Multi Servo Tester\n4x AA Battery Holder with 6 Inch Wired 2P Connector. (Jameco Part: 2278463)\nNebo 6272-A Micro Re"
+  },
+  {
+   "id": "bihdwYPO10E",
+   "t": "The Only Game Boy Cartridge Console!",
+   "d": "2019-05-21",
+   "v": 71065,
+   "s": 118,
+   "vertical": false,
+   "desc": "The original Game Boy turns 30 years old this year and I wanted see if it was possible to fit my own designed console inside the Game Boy cartridge!\n\nIt really shows how far technology has evolved that a self taught electronics hobbyist can tightly pack 4 buttons, a speaker, battery, display screen, power button, and micro controller with interchangeable games all inside the original Game Boy Cartridge. \n\nI documented the making of this fun project from start to finish and I will release that video within the next couple weeks so subscribe to be notified or tune back in for that video. Thank y"
+  },
+  {
+   "id": "P8G4gc2O4F0",
+   "t": "Ender 3 Complete Assembly and First 3D Print!",
+   "d": "2019-06-25",
+   "v": 4187,
+   "s": 391,
+   "vertical": false,
+   "desc": "I entered my 3D printed projector into the Remix contest on the Instructables website and I was surprised to see that I won the first place Creality Ender 3 3D printer! \n\nI know this is a very popular 3D printer both for the quality prints it produces and for the affordable price. I wanted to document each step of the assembly up to the first print. \n\nIf you follow along, then please double check your version number and your instructions that they provided you. But hopefully this video will be helpful to all you visual learners like myself.\n\n3D printed projector: https://www.youtube.com/watch?"
+  },
+  {
+   "id": "Ou__GfG6Qgc",
+   "t": "Zelda 3D Demake | Game Boy Advance",
+   "d": "2019-07-19",
+   "v": 431625,
+   "s": 111,
+   "vertical": false,
+   "desc": "This is a fan made game I created that is running on a real GBA. I've taught myself to write C code and compile it with devkitadv to create a GBA file that can be played on the real Official Game Boy Advance!\n\nThe GBA was very slow and not designed for 3D graphics but i figured out how to program my own highly optimized 3D engine.\nLink is made of 238 shaded polygons all in a 3D perspective\nwith pre-rendered backgrounds similar to the first 3 resident evil games.\n\nLet me know what you want to see added to this, and what other games you want to see on the GBA! \n\nThank you for watching!\n\nMinecraf"
+  },
+  {
+   "id": "Go_5v92a9-s",
+   "t": "The Making of the Game Boy Cartridge Console | ASMR",
+   "d": "2019-08-11",
+   "v": 282528,
+   "s": 484,
+   "vertical": false,
+   "desc": "I wanted this video to be a little different and experimental. I've been watching the YouTube channel Primitive Technology and I'm always in awe as I watch the oddly satisfying building process while only listening to the sounds.\n\nI wanted this to be similar. None of my voice or bad jokes getting in the way of the peaceful and almost ASMR sounds of the creating process. You get to see my process and failures like me getting stuck on opening the cartridge.\n\nIf you want more details on this video, I will list it below.\n0:14 I was surprised this old and non-backlight screen took a whopping 4 AA b"
+  },
+  {
+   "id": "vdwuiXw9qHg",
+   "t": "Double Bottle Cap Trick Shot",
+   "d": "2019-09-04",
+   "v": 36839,
+   "s": 20,
+   "vertical": false,
+   "desc": "I made this video for Instagram not knowing how much it would be liked and shared! I calculated it's over 15 million views! I couldn't even keep up with all the channels sharing this video so I wanted to post a larger and better resolution on my YouTube channel. Thank you for watching!"
+  },
+  {
+   "id": "zdJ3R0TxHqk",
+   "t": "Smallest Steam Engine!",
+   "d": "2019-12-09",
+   "v": 8121,
+   "s": 158,
+   "vertical": false,
+   "desc": "I'm always trying to get better and this video was a great project to practice and try to achieve a clean and cinematic look. \nI also focused on sound which really seemed to bring this to life. I would like to make a video with this steam engine to generate electricity so let me know if you are interested in that.\nHopefully more of my future videos will have this quality. \nThank you for watching! :)\n\nThe RGB lights: YONGNUO YN360 II\nThe steam engine: Mini steam engine\n\nDisclosure: Nobody is sponsoring this video. I found these products  and I wanted to make this video on my own. I'm pretty hap"
+  },
+  {
+   "id": "jmWH_cJwrPQ",
+   "t": "3DSage - Highlight Reel",
+   "d": "2020-01-17",
+   "v": 21581,
+   "s": 60,
+   "vertical": false,
+   "desc": "I'm so glad I get to share my personal projects with you! I wanted to edit this highlight reel showing some of my favorite parts from YouTube and Instagram. Your support makes me want to keep making cool stuff. I've got a lot more projects and fun ideas so see you again soon. :)"
+  },
+  {
+   "id": "gYRrGTC7GtA",
+   "t": "Make Your Own Raycaster Part 1",
+   "d": "2020-03-13",
+   "v": 541558,
+   "s": 1012,
+   "vertical": false,
+   "desc": "I'm happy to share my raycaster video with you! I hope you learn something, or find it interesting and stay tuned for more fun videos! \n \nInstall C and OpenGL  https://www.youtube.com/watch?v=RTk6W67dyR4&t=19s\nMinecraft GBA             https://www.youtube.com/watch?v=XmSSfCv5q-Q&t=164s\nZelda GBA                    https://www.youtube.com/watch?v=Ou__GfG6Qgc&t=3s\nPart 2 with textures!   https://youtu.be/PC1RaETIx3Y\nDoom tutorial              https://www.youtube.com/watch?v=huMO4VQEwPc\n\nDownload this source code, but follow the video first!\nhttps://github.com/3DSage/OpenGL-Raycaster_v1\n\nIf you m"
+  },
+  {
+   "id": "N94paYmG4-E",
+   "t": "3D Printed Face Shield | Soda Bottle",
+   "d": "2020-03-29",
+   "v": 12279,
+   "s": 102,
+   "vertical": false,
+   "desc": "I\u2019m not an expert in this area and I didn't create this design, but I wanted to bring awareness to the fact that you can create a face shield using a 3D printer and a clear 2 liter soda bottle. This design can help prevent yourself from touching your face and can be used in conjunction with a surgical mask. \n\n3D File on Thingiverse:\nhttps://www.thingiverse.com/thing:4233193"
+  },
+  {
+   "id": "NKwu_Xs0oQ8",
+   "t": "Spaceship Made from Trash",
+   "d": "2020-04-14",
+   "v": 8214,
+   "s": 442,
+   "vertical": false,
+   "desc": "I had a lot of fun making this spaceship out of trash and the filming and editing. This was a great chance to be creative and try something new and I wanted to share my ship and experience with you. \nI hope you enjoyed this as much as I did making it! More fun videos coming soon! \n\nI posted the small 3D printed parts here:\nhttps://www.thingiverse.com/thing:4292425"
+  },
+  {
+   "id": "hoYCt1jiLUE",
+   "t": "Cadet 3D Printer Review | \"For Students and Beginners\"",
+   "d": "2020-05-25",
+   "v": 25463,
+   "s": 359,
+   "vertical": false,
+   "desc": "I am happy to share my video review of the Cadet 3D Printer from Monoprice! \n\nThis printer was provided to me free of charge by Monoprice for this review.\n\nThis printer is marketed for students and beginners. It has several nice design and safety features that are nice to see on a 3D printer. The build area is small compared to most 3D printers but I was very happy with the print quality and print speed. \nIf you are new to 3D printing, let me know your thoughts and interesting things you have learned. I hope you enjoy this video and thank you for watching!\n\nCadet spool holder: https://www.thin"
+  },
+  {
+   "id": "_9IuhtzC2vs",
+   "t": "Alien Cube | 3D Printed",
+   "d": "2020-06-11",
+   "v": 16981,
+   "s": 207,
+   "vertical": false,
+   "desc": "I love how I can think of an idea, model it on the computer, 3D print it on my printer, then share the file with you! I think this looks awesome and would make a cool gift, movie prop, or decoration. I hope you enjoy the video and thank you for watching!\n\nLED strip, search: (1M USB LED strip Light 5050 RBG)\nDownload 3D Model: https://www.thingiverse.com/thing:4445774"
+  },
+  {
+   "id": "abki1Tp1maM",
+   "t": "Realistic GBA Tech Demo in 2020 | Download Link",
+   "d": "2020-08-14",
+   "v": 269622,
+   "s": 168,
+   "vertical": false,
+   "desc": "I figured out how to program my own games on the old and slow GBA and now I\u2019m excited to share my progress with you! \nThis is what I can push the console to do so far. I want to make it look even better in the next version. This level of detail was very difficult to achieve and this really has taught me extreme optimization and how to fight for every last frame per second.\n\nComment below what games you would like to see remade on the GBA!\nThank you for all the positive support!\n\nLink to download this ROM and other program.\nhttps://github.com/3DSage/GBA-Tech-Demo-V1.0\n\n:)"
+  },
+  {
+   "id": "vcMF4CA8eSs",
+   "t": "Let's Check Out the Lepow Portable Monitor",
+   "d": "2020-09-12",
+   "v": 7574,
+   "s": 273,
+   "vertical": false,
+   "desc": "Lepow sent me their 15.6\u201d Portable Display at no cost to me if I make a video review. I thought this was something I would use so I am happy to show you what it is and what it can do. \n\nThe monitor is full HD at 1920x1080 60Hz with stereo speakers that can be completely run off your electronic device or be powered by a portable power bank or power cable. Not all USB-C ports are the same so check if your device exports power and or video signals through the USB-C or has an HDMI port.\n\nAmazon link: https://www.amazon.com/dp/B07V1SQ966\nDetailed user guide: https://www.tokgadget.com/lepow-z1-revie"
+  },
+  {
+   "id": "TABnMK7joRw",
+   "t": "Extreme Game Boy Repair | Restore | Enhance \ud83d\ude03",
+   "d": "2020-10-13",
+   "v": 22507,
+   "s": 604,
+   "vertical": false,
+   "desc": "My cousin gave me her old broken Game Boy to see if I could repair it. These consoles are so important to video game history and are becoming more valuable and rare so I really wanted to try fix it and even make it look better than the day it was born.\n\nI show you everything I did but if you follow this, please read and follow all safety warning. At the very least, I hope you find this entertaining. I\u2019m honored you stopped by my channel to see what I\u2019m working on. \nI\u2019ve got more fun projects and Game Boy Advance programming so I hope to hang out with you again soon! \n\nThere was no sponsor or p"
+  },
+  {
+   "id": "AQ6hzj_LojA",
+   "t": "Modern Games on the Game Boy Advance Vol 1",
+   "d": "2020-11-28",
+   "v": 33605,
+   "s": 102,
+   "vertical": false,
+   "desc": "Note: This is not images or video. It's 3D textured polygons being calculated in real time. Same thing as watching a real time cutscene in Zelda on N64 or Metal Gear Solid on the PS1. But you can download and spin the 3D models around. The next step will be a game!\nDownload: https://github.com/3DSage/GBA-Jampack-v1\n\nI wanted to see how far I can push the old console and force it to draw hundreds of animated textured 3D polygons showing modern games we know and love today. I created everything from scratch including the 3D animated models, textures, and the highly optimized game engine called t"
+  },
+  {
+   "id": "85S8xzQ_aiI",
+   "t": "Elegoo Mars 2 Pro | Complete 5 Minute Review",
+   "d": "2020-12-06",
+   "v": 18643,
+   "s": 300,
+   "vertical": false,
+   "desc": "The company Elegoo sent me the Mars 2 Pro 3D printer at no cost to me if I make this video review. This is my first resin 3D printer and I am very happy with the print quality and speed so I wanted to share my thoughts and results with you.\n\nSafety first: https://all3dp.com/2/sla-3d-printing-is-3d-printer-resin-toxic/\n\nThe results of this printer speak for themselves. I am very impressed with the print quality. This is my only experience with a resin 3D printers but I see myself enjoying it and printing with it often so I would recommend if this seems like something you would use too. Feel fre"
+  },
+  {
+   "id": "PC1RaETIx3Y",
+   "t": "Make Your Own Raycaster Part 2",
+   "d": "2020-12-31",
+   "v": 140781,
+   "s": 826,
+   "vertical": false,
+   "desc": "Thank you so much for all the support from my part 1 raycaster tutorial video! It made me want to make this part 2 video and If you like this, I'll make a part 3!\n\nI have the code on my github but please do try to follow the video so you will know how it works. I hope seeing this helps all you visual learners out there like me.\n\nInstall C and OpenGL: https://youtu.be/RTk6W67dyR4\nRaycaster Part 1: https://youtu.be/gYRrGTC7GtA\nDownload this source code, but follow the video first!\nhttps://github.com/3DSage/OpenGL-Raycaster_v2\nModern games on the GBA: https://youtu.be/AQ6hzj_LojA\nGBA raycaster: h"
+  },
+  {
+   "id": "UJLk7uiTBdk",
+   "t": "GBACRAFT | My Homebrew Minecraft on the Game Boy Advance",
+   "d": "2021-02-14",
+   "v": 242838,
+   "s": 287,
+   "vertical": false,
+   "desc": "This is NOT an official port from the manufacturer of the original Minecraft.\nGBACRAFT is a Homebrew game for the Nintendo Game Boy Advance.\nI programmed this 3D textured polygon block building game on the GBA. \nI made everything myself and in my own style with some unique features.\nDownload: https://www.gbadev.org/demos.php?showinfo=1527\nThank you for watching!\nLet me know what else you want to see on the GBA!\nOfficial Minecraft webpage: http://www.minecraft.net/\n#minecraft #videogames #gameboy"
+  },
+  {
+   "id": "9_5dnHZRMWM",
+   "t": "I Made a Goldeneye Dollar Store Toy",
+   "d": "2021-03-31",
+   "v": 9068,
+   "s": 433,
+   "vertical": false,
+   "desc": "I've always thought it would be so cool to one day walk into a store and see a product I created. It takes a lot of different skills to put this all together so I wanted to film the process for you to see! \nI've had this idea for a long time and I'm so happy to see it finally come together and I hope you enjoy it!\n\nThank you for watching! :)"
+  },
+  {
+   "id": "CIbWX6fcrB4",
+   "t": "Multiplayer GoldenEye 007 | Game Boy Advance | Fan Made",
+   "d": "2021-05-08",
+   "v": 19353,
+   "s": 112,
+   "vertical": false,
+   "desc": "I'm working on a few different personal projects and haven't posted in a while so here is a quick preview of my fan made GoldenEye on the Game Boy Advance! \n\nIt would be so much fun to play 4 player multiplayer with some of my favorite GBA youtubers and possibly the original Goldeneye creators!  \n\nI didn't think I could program this much on the 20 year old handheld console. I really had to optimize every single line of code to push the most out of the GBA. \n\nLet me know what you would like to see next on the GBA!\n\nBy the way, the gbadev website is having a gba programming competition if you ar"
+  },
+  {
+   "id": "WlYbBn4rgSI",
+   "t": "Glow In The Dark Robotic Clock | DIY 3D Printed",
+   "d": "2021-05-22",
+   "v": 4910,
+   "s": 336,
+   "vertical": false,
+   "desc": "This is my clock design I made from scratch for the Instructables clocks contest. My idea is to robotically control a light to draw the current time on a glow in the dark screen. I was so nervous about making this and if it would work since it was my first time programming servos. \nThis project involved 3D printing, circuit board design, and microcontroller programming. I'm happy with how it turned out and had a lot of fun making it and I hope you enjoy watching the video!\n\nInstructables:\nhttps://www.instructables.com/Glow-in-the-Dark-Robotic-Clock/"
+  },
+  {
+   "id": "OeKRekP4n_I",
+   "t": "Making Game Boy S'mores",
+   "d": "2021-06-27",
+   "v": 7122,
+   "s": 239,
+   "vertical": false,
+   "desc": "I see the chocolate and marshmallows in s'mores as the perfect opportunity to create, melt, and mold into something new and exciting. \nShaped into a Game Boy with edible drawings on the marshmallow screen seemed like a fun idea. Thank you for watching!\n\nLink to download my 3D printed vacuum form:\nhttps://www.thingiverse.com/thing:4895433\n\nThe portable campfire at the beginning. No affiliation.\nhttps://citybonfires.com/\n\nI have a new Minecraft on the GBA and I want to include your builds in the next video so stay tuned for details!"
+  },
+  {
+   "id": "IvhNyLISI0Q",
+   "t": "DIY Speaker with Lights | Easy to Make",
+   "d": "2021-07-21",
+   "v": 3362,
+   "s": 189,
+   "vertical": false,
+   "desc": "Hi there!\nI was holding an empty bottle of disinfecting wipes and felt like turning it into something fun! It's not the best sound quality but sometimes making something yourself is more rewarding and it was fun to learn how a speaker works. \nI hope you enjoy the video and let's hang out again sometime! \n\n-Sage"
+  },
+  {
+   "id": "Nsb300cpQXc",
+   "t": "Unboxing the World's Cutest Console",
+   "d": "2021-09-12",
+   "v": 19828,
+   "s": 291,
+   "vertical": false,
+   "desc": "I wanted to make my own video game console and why not make the cutest one!\n\nThis is like a dream come true. I have taught myself the skills needed to create everything you see. I had to design the packaging and the functional video game console using a variety of skills.\nI can make a full video showing how I made this if you are interested.\n\nLet me know what you think and if you are subscribed, thank you for the support! And if not, let's hang out again sometime!"
+  },
+  {
+   "id": "w0Bm4IA-Ii8",
+   "t": "Make Your Own Raycaster Part 3",
+   "d": "2021-10-29",
+   "v": 80473,
+   "s": 1498,
+   "vertical": false,
+   "desc": "Finally part 3! I made this because it\u2019s fun and I enjoy making videos but also because of your strong support, comments, likes, and subscribes. And I hope this answers a few programming questions I see in the comments and that it inspires you to program! \nLet me know what you want to see next! \n\nLinks\nInstall OpenGL: https://www.youtube.com/watch?v=RTk6W67dyR4\nTutorial 1: https://www.youtube.com/watch?v=gYRrGTC7GtA\nTutorial 2: https://www.youtube.com/watch?v=PC1RaETIx3Y\nItch.io textures: https://itch.io/game-assets/tag-textures\nAir: link coming soon\n\nThank you for watching and I hope to see y"
+  },
+  {
+   "id": "3JsQ5FkIWRI",
+   "t": "I Made a Game on the Smallest Console | Thumby",
+   "d": "2021-11-20",
+   "v": 34897,
+   "s": 108,
+   "vertical": false,
+   "desc": "TinyCircuits created a Kickstarter for their smallest console called the Thumby. I feel lucky to have received an early free sample with no expectation but I wanted to make my own video to show you.\nhttps://thumby.us/pages/beta\n\nI'm most impressed with their user friendly browser editor where you can program a game, create the graphics, test on the emulator or actual hardware, save the code to your desktop. \n\nLet me know if you want to see a programming tutorial where we can make a game together step by step. \n\nThanks for watching! Subscribe to hang out again sometime.    \nRaycaster: https://w"
+  },
+  {
+   "id": "Mo1X-7GHcfM",
+   "t": "The 3DSage Engine 2 | Game Boy Advance 3D Graphics",
+   "d": "2021-12-11",
+   "v": 17592,
+   "s": 38,
+   "vertical": false,
+   "desc": "Sneak peek at my new Game Boy Advance 3D game engine! I'm calling it the 3DSage Engine 2. The first game engine was my 3D GBA Minecraft but this is more advanced with a floating 3rd person camera that avoids wall collisions, particles, variable wall heights, textured polygons, and I'll be adding a lot more!\nI started programming it from the ground up and created some creative optimizations to make this run around 30fps but I'm throttling it at 15fps for constancy and to show more on screen. The console hardware came out around 2001 so I'm trying to see how far I can push it.\nI know there's not"
+  },
+  {
+   "id": "qrrZgFD47QY",
+   "t": "New 3D Game on the 20 Year Old Game Boy Advance | Download Link",
+   "d": "2021-12-26",
+   "v": 24126,
+   "s": 240,
+   "vertical": false,
+   "desc": "I'm very proud of this game I made and I want you to play it too! My homebrew 3D game runs smoothly on an emulator or the original Nintendo Game Boy Advance and I think it's pretty fun to play.\n\nIn this game, you play as Tank and your objective is to clear the snow as fast as you can to gain the highest score. Comment what your highest score is!\n\nThere is the potential for me to make more games or port modern games into this pixelated retro style.\n\nDownload: https://www.gbadev.org/demos.php?showinfo=1551\nMy GitHub: https://github.com/3DSage/GBA-3D-Snow-Tank-v1\n\nThank you for watching and see y"
+  },
+  {
+   "id": "CcNCgmVJiBY",
+   "t": "3DSage Explains 3D",
+   "d": "2021-12-31",
+   "v": 18722,
+   "s": 350,
+   "vertical": false,
+   "desc": "3D is everywhere. It can be so common we don't even think about it but I think I can simply explain how simple the fundamentals are for 3D.\n\nI have been wanting to make this video for a while and I'm glad you found it and thank you for watching! Let's hang out again sometime."
+  },
+  {
+   "id": "narbWolaHs4",
+   "t": "Let's Talk About OpenLara | 3D Game Boy Advance Tomb Raider",
+   "d": "2022-01-25",
+   "v": 50634,
+   "s": 325,
+   "vertical": false,
+   "desc": "This is beyond amazing! This port of the original Tomb Raider game was made by XProger for the Game Boy Advance. I wanted to play the game and give you my thought on it since I have experience programming 3D on the GBA. \n\nXProger video & Links: https://www.youtube.com/watch?v=igEUjEci-eg\n\nGBADev: https://www.gbadev.org/index.php\n\nGBA Competitions: https://itch.io/jam/gbajam21\n\nTonc tutorials: https://www.coranac.com/tonc/text/first.htm\n\n#tombraider #videogames #gameboy"
+  },
+  {
+   "id": "EPTn6Ezmuw8",
+   "t": "My Mini Duck Hunt VR",
+   "d": "2022-03-27",
+   "v": 8857,
+   "s": 568,
+   "vertical": false,
+   "desc": "I feel like I\u2019ve been watching this video in my head for a long time and I wanted to make it so you can see it too!\n\nThis fun project really contains so much of me and the things I like. I can't thank my friends enough for staring in the commercial. This was such a blast to make and I\u2019m proud of how it turned out.\n\nThank you for all the support and I hope to see you next time!\n\n#duckhunt #videogames #retro"
+  },
+  {
+   "id": "-0gccsR1EEs",
+   "t": "I Made My Own Computer | Let's See How It Works",
+   "d": "2022-04-16",
+   "v": 1462095,
+   "s": 471,
+   "vertical": false,
+   "desc": "This computer is easily the most difficult project I have ever worked on but it's also one of my favorites. It broke me down to quitting so many times but I am so happy I finished it, I learned so many things, and I'm glad I can share with you how it works!\n\nYou can show support by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\nThank you for watching and let's hang out again sometime!\n\nHow a computer works: https://www.youtube.com/watch?v=zOxB2BLxgdk&t=390s  \n\n#computer #electronics #diy #technology"
+  },
+  {
+   "id": "pQj-TRhedGY",
+   "t": "3D Printed Rotation | Make Anything Rotate",
+   "d": "2022-05-15",
+   "v": 34805,
+   "s": 384,
+   "vertical": false,
+   "desc": "Sometimes you just want to make something rotate slowly. I didn't find what I wanted online, so I designed 4 different types of rotating boxes. I made the assembly easy with no electronics skills or soldering needed! I will add a link for you to download the files to 3D print so you can use this in your projects. I hope it helps and thank you for watching! \n\nDownload 3D files and parts list: https://www.thingiverse.com/thing:5386600\n\n3D printed projector: https://www.youtube.com/watch?v=Cc81sqo9URs\nBinary counter: https://www.youtube.com/watch?v=-0gccsR1EEs&t=3s\nWriting machine: https://www.yo"
+  },
+  {
+   "id": "3reCQ3QCtdE",
+   "t": "Smallest Resident Evil 4 | Thumby Fan-Made",
+   "d": "2022-06-06",
+   "v": 30169,
+   "s": 104,
+   "vertical": false,
+   "desc": "I'm super excited about the new Resident Evil 4 remake! It's one of my favorite games. RE4 has been ported to a lot of consoles but I was thinking how funny it would look on the Thumby. A tiny keychain Game Boy that's only 40 black and white pixels tall. I quickly programmed it in Python using their browser editor. It's not a complete game but just a short fan-made demo and something fun for you to see.\nI'll be back soon with some fun 3D printing and programming tutorials! See ya next time! \n\nhttps://www.indiegogo.com/projects/thumby-the-tiny-playable-keychain#/"
+  },
+  {
+   "id": "huMO4VQEwPc",
+   "t": "Let's Program Doom - Part 1",
+   "d": "2022-07-13",
+   "v": 621286,
+   "s": 1513,
+   "vertical": false,
+   "desc": "I might be the most excited about this video. I really wanted to learn how the original Doom game engine works. l spent a long time learning the basic concepts but created the code myself from scratch and how I wanted to design it. You can follow along or convert this code to any other programming language since I kept it simple in C that draws a pixel at x and y coordinates. \n\nLet me know if you enjoy this series! Thank you for all your great ideas and I hope to see what you make from this tutorial series. Send me a link so I can share it in part 2! \n\nHow to install OpenGL: https://www.youtub"
+  },
+  {
+   "id": "t4nwxgFkoLU",
+   "t": "My 3D Printed Camera Slider",
+   "d": "2022-08-12",
+   "v": 10969,
+   "s": 334,
+   "vertical": false,
+   "desc": "This might be my most useful and functional 3D printed design. I really do like the smooth and steady cinematic camera movements. I will be using this in my future videos to stabilize shots. \n\nI have a couple edits I want to make to the 3D prints but then I will add a link here for you to download and use!\nDownload Link: Coming soon\n \nRotating boxes: https://www.youtube.com/watch?v=pQj-TRhedGY\n\nDon't worry I'm still working on the Doom Part 2 tutorial video!\nThanks for watching and for all of your support!"
+  },
+  {
+   "id": "6ecgELrwAnQ",
+   "t": "Let's Make a Game Boy Advance Game | GBA Jam 2022",
+   "d": "2022-08-27",
+   "v": 151026,
+   "s": 613,
+   "vertical": false,
+   "desc": "Let's make and enter a GBA game in the GBA Jam competition! \nThere is a great homebrew Game Boy Advance community online so I hope you enjoy this video and possibly enter a fun game! Thank you for watching! \n\nGBA JAM: https://itch.io/jam/gbajam22\nFile download link: https://github.com/3DSage/GBA_Mode_5_Starter\n\n01:47 gbadev mode examples\n03:05 Batch file compile\n03:51 My starter file \n07:08 My simple game\n08:24 Make Textures\n09:10 Music and sounds"
+  },
+  {
+   "id": "L4rr1gKjJRo",
+   "t": "Coding 3D on Game Boy Advance #Shorts",
+   "d": "2022-09-03",
+   "v": 32570,
+   "s": 29,
+   "vertical": true,
+   "desc": "https://www.youtube.com/watch?v=huMO4VQEwPc"
+  },
+  {
+   "id": "IL8ngZADWe8",
+   "t": "3D CG Robot Arm #shorts",
+   "d": "2022-09-07",
+   "v": 23987,
+   "s": 23,
+   "vertical": true,
+   "desc": "One of my favorite vfx projects. Let me know if you want a full tutorial of this or something similar.\nhttps://www.youtube.com/watch?v=ZVYYz3htFSo"
+  },
+  {
+   "id": "zzBjsXJRQjc",
+   "t": "My New Favorite 3D Printer | Neptune 3",
+   "d": "2022-09-11",
+   "v": 10172,
+   "s": 354,
+   "vertical": false,
+   "desc": "I'm glad Elegoo sent me the new Neptune 3 3D printer and I want to show you the nice features it has and why I like it.\n\nNeptune 3: https://www.elegoo.com/collections/3d-printing/products/elegoo-neptune-3-fdm-3d-printer\n\n3D Prints\nFan: https://www.thingiverse.com/thing:4885441\nDaredevil: https://www.thingiverse.com/thing:3303939\nTie Fighter: https://www.thingiverse.com/thing:4708937\nClaw: https://www.thingiverse.com/thing:3416421/makes\n\nThanks for watching! See ya next time!"
+  },
+  {
+   "id": "C3nLf08Wt9w",
+   "t": "COIN FALL | Fall Guys Inspired 3D GBA Game",
+   "d": "2022-10-13",
+   "v": 18566,
+   "s": 86,
+   "vertical": false,
+   "desc": "I made a Fall Guys inspired 3D platformer obstacle course for the GBA. \nThis game is my entry for the GBA Jam 2022: https://itch.io/jam/gbajam22\nI made everything you see from scratch including the highly optimized 3D game engine and levels.\nDownload link: https://3dsage.itch.io/coin-fall\n\nYou play as an arcade coin that needs to get to the end of the course in under 60 seconds. \nBronze metal  30-40 seconds\nSilver metal     20-30 seconds\nGold metal under 20 seconds\nCollect all 4 gold metals to unlock 2X speed and jumping.\n\nTo cross a further distance, you can double jump if you walk off a surf"
+  },
+  {
+   "id": "xBEFvZqRn2w",
+   "t": "3D Printed Hacker Computer #shorts",
+   "d": "2022-10-30",
+   "v": 5753,
+   "s": 24,
+   "vertical": true,
+   "desc": "I designed this 3D printed hacker computer. All you need is a cell phone.\nDownload link: https://www.thingiverse.com/thing:2855723 \n#halloween #prop #cellphone #diy"
+  },
+  {
+   "id": "9TFHx1pvRuo",
+   "t": "My Wireless Game Boy Remote Control | How It Works",
+   "d": "2022-11-30",
+   "v": 9850,
+   "s": 242,
+   "vertical": false,
+   "desc": "I can't believe I get to share this fun project with you! I thought it would be exciting to somehow control items in my house with the old Game Boy Advance. I tried to think of a unique way the GBA could communicate and I'm pretty happy with the results!\nI hope you enjoy it and thank you for watching! \nSee you next time with more Doom programming tutorials.\n\n-Sage"
+  },
+  {
+   "id": "zCqkFf7Mc00",
+   "t": "My Game Boy Can Control My Home",
+   "d": "2022-12-04",
+   "v": 5034,
+   "s": 27,
+   "vertical": true,
+   "desc": "#shorts"
+  },
+  {
+   "id": "fMyYAdTNCoE",
+   "t": "Diorama Enhanced With Electronics",
+   "d": "2022-12-30",
+   "v": 10851,
+   "s": 461,
+   "vertical": false,
+   "desc": "I remember seeing epic toy commercials when I was a kid and I wanted to challenge myself to enhance this diorama with my own electronics and film a dramatic commercial. I had a lot of fun working on this and I learned a few new skills.\n\nDiorama name: SIB-09 BAZAAR DIORAMA\nJerry Cans video link: https://www.youtube.com/watch?v=XwUkbGHFAhs\n\nI look forward to also working on fun new programming tutorials so see you next time!\n\n-Sage"
+  },
+  {
+   "id": "2NhKD3vxQLo",
+   "t": "Garage Green Screen Fun!",
+   "d": "2023-01-27",
+   "v": 6226,
+   "s": 28,
+   "vertical": true,
+   "desc": "Testing out my new green screen. I should make a fun tutorial!\n#shorts"
+  },
+  {
+   "id": "-HjcnOoomsQ",
+   "t": "Doom Tutorial - Part 2 Work In Progress",
+   "d": "2023-02-25",
+   "v": 29096,
+   "s": 17,
+   "vertical": true,
+   "desc": "#shorts \nThank you for waiting for my part 2 tutorial! It will be coming soon.\n-Sage"
+  },
+  {
+   "id": "fRu8kjXvkdY",
+   "t": "Let's Program Doom - Part 2",
+   "d": "2023-03-11",
+   "v": 136861,
+   "s": 1225,
+   "vertical": false,
+   "desc": "I might be the most excited about this video. I really wanted to learn how the original Doom game engine works. l spent a long time learning the basic concepts but created the code myself from scratch and how I wanted to design it. You can follow along or convert this code to any other programming language since I kept it simple in C that draws a pixel at x and y coordinates. \n\nLet me know if you enjoy this series! Thank you for all your great ideas and I hope to see what you make from this tutorial series. Send me a link so I can share it in part 3! \n\nGrid2D overview: 01:22\nSave textures: 02:"
+  },
+  {
+   "id": "qkNzJxXbKzU",
+   "t": "Does My 3D Printed Radio Work 5 Years Later?",
+   "d": "2023-04-13",
+   "v": 204552,
+   "s": 402,
+   "vertical": false,
+   "desc": "I can't believe it's been 5 years since I posted my 3D printed radio. I really wanted to know if it still works and compare it to a brand new build.\nThis is one of my favorite projects and I hope you enjoy revisiting it.\nThanks for watching and let's hang out again!\n\n-Sage \n\nOriginal video: \nhttps://www.youtube.com/watch?v=KGhe3OrNIlI\n\nlinks to build it yourself!\nhttps://www.thingiverse.com/thing:2752141\nhttps://www.instructables.com/3D-Printed-Radio-That-Works-Easy-to-Make/"
+  },
+  {
+   "id": "cEOkq8E6QaU",
+   "t": "Resident Evil 4 Terminal Puzzle | Game Boy Advance",
+   "d": "2023-04-30",
+   "v": 8191,
+   "s": 28,
+   "vertical": true,
+   "desc": "#shorts"
+  },
+  {
+   "id": "k2_CmBSLee0",
+   "t": "3D Scanning for 3D printing and VFX | CR-Scan Ferret Review",
+   "d": "2023-05-19",
+   "v": 73079,
+   "s": 487,
+   "vertical": false,
+   "desc": "I want a 3D scanner to help with my 3D printing and 3D animation projects so thank you, Creality for sending me the CR-Scan Ferret to review. \nI hope you enjoy seeing my experience and results with this 3D scanner.\n\nProduct links with discounts:\nAmazon US 15%OFF\nCode: 153dcreality\nhttps://amzn.to/3M5ZcGR\n\nPergear official web 14%OFF\nhttps://bit.ly/41efiUF\n\nCheck out my friend David's creative work on Instagram carpedm.art\nhttps://www.instagram.com/carpedm.art/?hl=en"
+  },
+  {
+   "id": "aqRcEOtXWQ4",
+   "t": "Zelda Ocarina Flute that Plays Itself",
+   "d": "2023-07-04",
+   "v": 36434,
+   "s": 438,
+   "vertical": false,
+   "desc": "This personal project has everything like robotics, 3d printing, programming, flutes, cats, Zelda, bloopers, and more! \nI really didn't think it was possible for me to make this but here we are and I feel lucky to share this video with you!\nYou may share my video if you tag me!\n\nThank you for watching and let's hang out again sometime. See ya next time!\n\nFerret 3D Scanner Video\nhttps://www.youtube.com/watch?v=k2_CmBSLee0\n\nSTL Ocarina (the Rupee Tenor is my personal favorite)\nhttps://www.stlocarina.com/collections/for-legend-of-zelda-fans\n\nCNCTOPBAOS DIY Mini 1610 PRO with offline controller\nht"
+  },
+  {
+   "id": "NaoWuklwGM8",
+   "t": "Self Playing Zelda Ocarina Highlights | Hear it in Full Video",
+   "d": "2023-07-08",
+   "v": 8653,
+   "s": 22,
+   "vertical": true,
+   "desc": "#shorts"
+  },
+  {
+   "id": "dgb7nTBi6Cs",
+   "t": "Open Sauce Live 2023 | The First Year Highlights",
+   "d": "2023-07-19",
+   "v": 7678,
+   "s": 48,
+   "vertical": true,
+   "desc": "It was overwhelming to be surrounded by so many talented creators and creative people at the first ever Open Sauce Live in San Francisco. I just had to share some clips with you and I hope to see you there next year!  \n#shorts"
+  },
+  {
+   "id": "khrrrxdIXAc",
+   "t": "My Best Functional and Useful 3D Prints",
+   "d": "2023-08-06",
+   "v": 63444,
+   "s": 429,
+   "vertical": false,
+   "desc": "It's about time I recapped and shared some of my functional and useful 3D prints with you! Some of these I have never shown on camera. I hope my projects help inspire you and your 3D printing.\nLet's hang out again sometime. Thank you for watching!\n\n-Sage\n\nLink to 3D files. More to come!\nhttps://www.thingiverse.com/3dsage/designs"
+  },
+  {
+   "id": "7S-cIq0rZBM",
+   "t": "This Simple 3D Print can Count!",
+   "d": "2023-08-15",
+   "v": 6744,
+   "s": 26,
+   "vertical": true,
+   "desc": "I made this for my homemade computer project to demonstrate how simple counting can be with simple logic.\nhttps://www.youtube.com/watch?v=-0gccsR1EEs\n\n#shorts"
+  },
+  {
+   "id": "6QPxZahuJxc",
+   "t": "Huge 12K Resin Printer and My Experience | The Saturn 3",
+   "d": "2023-08-24",
+   "v": 19348,
+   "s": 373,
+   "vertical": false,
+   "desc": "I wanted to share my thoughts, experience, and final print results with you from this Saturn 3 12K resin printer. \nThank you for watching and I hope to see you next time.\nhttps://www.elegoo.com/products/elegoo-saturn-3-resin-3d-printer-12k\n\n3D Models sculpted by my friends\nhttps://www.youtube.com/@AnaCarolinaArt/videos\nhttps://www.youtube.com/@AlexAntuna/videos\nhttps://www.instagram.com/carpedm.art/\n\n-Sage"
+  },
+  {
+   "id": "lJ2lhDoc8JA",
+   "t": "My newest GBA 3D Game Engine | Early Progress",
+   "d": "2023-09-09",
+   "v": 14668,
+   "s": 34,
+   "vertical": true,
+   "desc": "I'll add much more to this game engine. Let me know what demake you want to see or an original game! \n\n#shorts #viral #youtubeshorts #doom #dukenukem #games"
+  },
+  {
+   "id": "uEh6BEGsQQk",
+   "t": "Programming Wall Sliding | Recreating Glitches",
+   "d": "2023-09-30",
+   "v": 9104,
+   "s": 780,
+   "vertical": false,
+   "desc": "I reprogrammed my collision and wall sliding from the ground up and I want to share it with you. You can port this to any language you like or just watch me code to see how it works. I will also be recreating common video game glitches to show why they happen. \n\nThank you so much for subscribing and watching! I hope we can hang out again sometime. \n-Sage\n\n2:00 Starter file\n3:03 Vertical slide \n5:28 Horizontal slide\n7:05 Angled slide\n9:43 Sectors\n\nLinks:\ncode: https://github.com/3DSage/OpenGL_Wall_Slide_Collisions/tree/main\ninstall: https://www.youtube.com/watch?v=RTk6W67dyR4\nraycaster: https:/"
+  },
+  {
+   "id": "Ob7QbQmmQTw",
+   "t": "My 3DSage GBA Game Engine Update part 2",
+   "d": "2023-10-12",
+   "v": 11351,
+   "s": 80,
+   "vertical": true,
+   "desc": "I'll add more to my game engine but let me know what demakes you want to on the Game Boy Advance! #shorts #3d #doom #gamedev"
+  },
+  {
+   "id": "VDYw24p3JeU",
+   "t": "Scissors + Nightgown = Sub-Zero | Easy Quick Costume",
+   "d": "2023-10-22",
+   "v": 5984,
+   "s": 187,
+   "vertical": false,
+   "desc": "Need a quick and easy costume? Here's how I made Sub-Zero from Mortal Kombat with just scissors and a nightgown. I can also sometime share the green screen and compositing of this project too.\nI hope you enjoyed this fun and quick video and see you next time for more programming and 3D printing projects! \n\n-Sage\n\nlinks:\nSWOMOG Men's Nightshirt Long Sleeve Nightgown Soft Loose: (They are baggy so I ordered a size smaller)\nhttps://www.amazon.com/SWOMOG-Sleepwear-Nightshirt-Nightgown-Pajamas/dp/B088T6XRB8\n\nFun Central - 24 Pack - Clear, White LED Light Up Jelly Bumpy Rings:\nhttps://www.amazon.com"
+  },
+  {
+   "id": "wO76-FUMDXM",
+   "t": "I Added Textures to my GBA Game Engine",
+   "d": "2023-11-12",
+   "v": 12619,
+   "s": 31,
+   "vertical": true,
+   "desc": "I finally had some time to optimize textures to run smoothly on the GBA. The next update will have a download link for you to try! And I will continue my programming tutorials to show you how to make this.\nAlso, how cool is this aluminum metal GBA! I found it on Etsy by DNA Games.\n\n#shorts #GBA #gamedev #3d #programming #gameboy"
+  },
+  {
+   "id": "2PufZ8tBB4E",
+   "t": "Can I Cook Food with Magnets?",
+   "d": "2023-11-17",
+   "v": 172704,
+   "s": 408,
+   "vertical": false,
+   "desc": "Can I spin magnets fast enough to cook small food? Let's find out!\n\nJBV Creative: https://www.youtube.com/@JBVCreative\n3D Printed squeeze fan: https://www.thingiverse.com/thing:4885441\n\nMore programming tutorials coming soon! \nThank you for watching, subscribing, and for all the kind support!\n\n-Sage\n\n#tinyfood #3dprinting #food"
+  },
+  {
+   "id": "0R6Q_h3NE0k",
+   "t": "GameBoy Advance 3D Progress Update #Shorts",
+   "d": "2023-12-03",
+   "v": 9114,
+   "s": 49,
+   "vertical": true,
+   "desc": "My GBA game engine progress! I can't wait to make demakes and new games and let you play it on an emulator or the real hardware! And I'll be explaining how I got this to run on the GBA and I'll make some programming tutorials about it too!\n\n-Sage"
+  },
+  {
+   "id": "kEdYeQ3NJyQ",
+   "t": "Let's 3D Print Electronic Cases",
+   "d": "2023-12-23",
+   "v": 44310,
+   "s": 301,
+   "vertical": false,
+   "desc": "I made these cases to help hold my electronics but I want to share the files with you. I hope you enjoy the video and see you next time! The next video will be a cool programming tutorial!\n\nDownload the 3D files\nThingiverse: https://www.thingiverse.com/thing:6395406\nInstructables: https://www.instructables.com/3D-Print-Electronic-Cases/\n\nThank you for watching!\n-Sage"
+  },
+  {
+   "id": "JfyenTYp3a4",
+   "t": "My GBA 3D Game Maker",
+   "d": "2023-12-30",
+   "v": 33459,
+   "s": 43,
+   "vertical": true,
+   "desc": "#shorts #gameengine #gamedev #doom #gameboyadvance"
+  },
+  {
+   "id": "msM_oYqUMT0",
+   "t": "Quick update",
+   "d": "2024-01-07",
+   "v": 76989,
+   "s": 90,
+   "vertical": false,
+   "desc": "Quick update to show you some of the features of my 3DSage GBA game engine. I'm excited to see what you will make with this when it's ready.\nThank you for watching and for your support!\n\n-Sage\n\nYou can show support by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n#gamedev #doom #gameboy #GBA"
+  },
+  {
+   "id": "kyKkrwEkGY0",
+   "t": "The 3DSage Game Engine Trailer 1",
+   "d": "2024-01-23",
+   "v": 21785,
+   "s": 80,
+   "vertical": false,
+   "desc": "I'm very excited to show you what my retro 3D game engine can do! I plan to add more, then let you use this to design your own games! I can also make programming tutorials and show you how it works! \n\nSupport by subscribing or just buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage\n\n#gamedev #doom #gameboy #GBA"
+  },
+  {
+   "id": "5RVe_H0AYS0",
+   "t": "Silver Play Button Highlight Reel",
+   "d": "2024-02-15",
+   "v": 15677,
+   "s": 186,
+   "vertical": false,
+   "desc": "I'm so blessed to receive the Silver Play Button award on my Birthday today! That's so crazy and it\u2019s hard to put into words how special that makes me feel.\nI\u2019m a maker who likes to create and post my projects to share with you. \nI\u2019m so grateful to have connected with so many people and I have to genuinely thank you for watching and for your support. I appreciate this destination just as much as the journey to get here. I have grown and learned so much myself while always maintained a passion for projects I enjoy making.\nI\u2019m not a perfectionist but someone who just wants to create a video that"
+  },
+  {
+   "id": "ql5edE8zje4",
+   "t": "The 3DSage Game Engine Demo | Download Link",
+   "d": "2024-03-29",
+   "v": 98755,
+   "s": 804,
+   "vertical": false,
+   "desc": "Let me know in the comments what you think. I can't wait to see what you create with the next version coming soon!\n\nDownload Link: https://www.gbadev.org/demos.php?showinfo=1575\n(The .sav save file must be next to the rom. If you use a flashcart, place the save file in the correct folder)\n\nSupport by subscribing or just buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage\n\n#gamedev #GBA #doom"
+  },
+  {
+   "id": "VnIJHzVoM6k",
+   "t": "Cheapest Bullet Time with a 9 Dollar Camera",
+   "d": "2024-04-28",
+   "v": 1172012,
+   "s": 419,
+   "vertical": false,
+   "desc": "Bullet time photography on a budget with a VHS retro style just makes me smile and I hope you enjoy my journey to make it happen.\n\nMore programming videos coming soon! \n\nLink to camera. No affiliation.\nhttps://www.amazon.com/dp/B0CLGX51WD\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage"
+  },
+  {
+   "id": "CdFmgnc0bu4",
+   "t": "Real or 3D Scan Challenge",
+   "d": "2024-05-24",
+   "v": 4886,
+   "s": 334,
+   "vertical": false,
+   "desc": "What a cool new tool I have for my projects! I had fun and I hope you enjoy my review video of the Creality Otter 3D scanner.\n\nAmazon: https://www.amazon.com/dp/B0CZNQB9YG?ref=myi_title_dp\nWebsite: bit.ly/3QBbZEi\n\nMore programming videos coming soon! \n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage"
+  },
+  {
+   "id": "0h9wEQCrv6M",
+   "t": "My #diy #fallout Pip-Boy!",
+   "d": "2024-06-11",
+   "v": 20849,
+   "s": 28,
+   "vertical": true,
+   "desc": "More content coming soon! :)"
+  },
+  {
+   "id": "ZlteFvZaOus",
+   "t": "I Made a Fallout Watch for Open Sauce",
+   "d": "2024-06-28",
+   "v": 22294,
+   "s": 762,
+   "vertical": false,
+   "desc": "This is my homemade Fallout inspired watch I wore to Open Sauce where I was surrounded by super talented creators and makers. This build was a journey with highs and lows and I want to share the creation process with you.\nI hope we can hang out again sometime. See ya next time! \n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage"
+  },
+  {
+   "id": "69XhpBlb38U",
+   "t": "3D Zipline Zapper | GBA Jam 2024",
+   "d": "2024-08-18",
+   "v": 16063,
+   "s": 280,
+   "vertical": false,
+   "desc": "\u200bI'm excited to share my 3D Game Boy Advance game with you! My entry into the 2024 GBA jam.\nRide the zipline through the beautiful detailed and textured 3D environments while aiming your zapper at the targets to gain points.\n\nDownload link: https://3dsage.itch.io/zipline-zapper\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage"
+  },
+  {
+   "id": "64eW6oQ2kOc",
+   "t": "I Bought a Couch on Amazon",
+   "d": "2024-08-25",
+   "v": 6421,
+   "s": 55,
+   "vertical": true,
+   "desc": "I never thought I would buy a couch online but after trying and rejecting dozens of couches from multiple stores, I wanted to give this couch on Amazon a try. I liked it's many features like cup holders, USB charging ports, multiple storage, and it converts into a bed. And the L shape can be moved to either side.\nNo affiliation! I just wanted to share my video edit with you.\n\nAMERLIFE 84 Inch sleeper sofa\nwww.amazon.com/dp/B0CWH6LRGN\n\nPUNCIA Adjustable Pneumatic Mobile Overbed Table\nwww.amazon.com/dp/B0CM61LKV9\n\n#amazon #furniture #assembly"
+  },
+  {
+   "id": "8j0gakEHJuI",
+   "t": "Make Your Own Raycaster Part 4",
+   "d": "2024-10-04",
+   "v": 22159,
+   "s": 1064,
+   "vertical": false,
+   "desc": "Thank you for all your nice comments and motivating me to continue making programming tutorials! Thank you for sharing with me what you make. I really enjoy seeing your creativity.\nLet me know what you want to see next! \n\nPart 1: https://www.youtube.com/watch?v=gYRrGTC7GtA&t=594s\nPart 2: https://www.youtube.com/watch?v=PC1RaETIx3Y&t=679s\nPart 3: https://www.youtube.com/watch?v=w0Bm4IA-Ii8&t=2s\n\nDownload Link: https://github.com/3DSage\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage"
+  },
+  {
+   "id": "r1dFaTfSiRE",
+   "t": "Custom Metal Game Boy Advance",
+   "d": "2024-10-20",
+   "v": 25137,
+   "s": 59,
+   "vertical": true,
+   "desc": "Metal shell by Boxy Pixel and assembled by DNAGames\n#gba #metal #games #retrogaming"
+  },
+  {
+   "id": "z97vaPfO9VE",
+   "t": "Making 3 Costumes in 3 Days",
+   "d": "2024-10-27",
+   "v": 80066,
+   "s": 605,
+   "vertical": false,
+   "desc": "Three costumes in just three days. Let me know what you think.\nSee you again soon!\n\nHappy Halloween \ud83c\udf83\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\n-Sage\n#halloween #cosplay #costume"
+  },
+  {
+   "id": "Jv44pDHvL1Y",
+   "t": "I Made Star Wars Walkie Talkies",
+   "d": "2024-11-29",
+   "v": 24338,
+   "s": 771,
+   "vertical": false,
+   "desc": "This project has been a long time coming. Big thanks to Ben for collaborating and being a part of this fun adventure!\nLet me know your thoughts and let's hang out again sometime.\n\nBen's channel: https://www.youtube.com/@BenWithoutAPlan\n\nYellow walkie talkie: https://www.amazon.com/Rechargeable-Talkies-Toddler-Christmas-Birthday/dp/B0C6DQXWB5\n\nFallout Watch at Open Sauce: https://www.youtube.com/watch?v=ZlteFvZaOus\n\n\"We got something. It ain't a lot, but it ain't nothing.\" -Sage\n\n#starwars #disney #diy"
+  },
+  {
+   "id": "EKEsAYJbhw0",
+   "t": "I Made My Own Walkie Talkie",
+   "d": "2024-11-30",
+   "v": 18821,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SWlRy9lUAvs",
+   "t": "My Quest to find the First 3D Video Game",
+   "d": "2025-04-08",
+   "v": 72114,
+   "s": 986,
+   "vertical": false,
+   "desc": "Join me on an epic quest to find the first 3D video game. Let me know your pick. \n\nRaycaster tutorials: https://www.youtube.com/watch?v=gYRrGTC7GtA&t=594s\nDoom tutorials: https://www.youtube.com/watch?v=huMO4VQEwPc&t=51s\n\nMyst interview: https://www.youtube.com/watch?v=5qxg0ykOcgM\nUltima Underworld commentary: https://www.youtube.com/watch?v=6sh_DY28wl4\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\nThe dates I show are the very first release date. That could be first in Japan or on arcade.\n\nMy original sandwiches I photographed looked bad and inconsistent so"
+  },
+  {
+   "id": "k7FyAnAV_MU",
+   "t": "I Made The Metal Gear Solid Codec",
+   "d": "2025-05-27",
+   "v": 37643,
+   "s": 447,
+   "vertical": false,
+   "desc": "The Metal Gear Solid Codec always made my imagination inspired and curious what it might look like. I finally have some experience and tools to build my own personal fan-made communicator and I'm excited to share the journey and results with you! \n\nI think you are pretty cool so let's hang out again sometime. See ya next time!\n\"Over\"\n\n-Sage\n\n\n---------------------------------\nno affiliation \n#metalgearsolid #diy #retrogaming"
+  },
+  {
+   "id": "XfM9c1XOM_4",
+   "t": "DIY MGS Codec that actually works",
+   "d": "2025-05-31",
+   "v": 12937,
+   "s": 60,
+   "vertical": true,
+   "desc": "I felt inspired to make my own fan-made inspired Codec that actually works! #metalgearsolid #diy #electronics"
+  },
+  {
+   "id": "PDbV_w3dyKE",
+   "t": "My Thumby Color and Doom Experience",
+   "d": "2025-07-18",
+   "v": 20930,
+   "s": 398,
+   "vertical": false,
+   "desc": "I want to say thank you to anyone who still enjoys seeing retro gaming! I hope you enjoy seeing the Thumby Color and Doom programming. Let me know your thoughts.\nLet's hang out again sometime. See ya next time!\n\n-Sage\n\nThumby color:\nhttps://color.thumby.us/home/\n\nCoder Space: \nhttps://www.youtube.com/@CoderSpaceChannel\n\nTinkercad\nhttps://www.tinkercad.com/\n\n3D print my watch:\nhttps://www.thingiverse.com/thing:7094661\n\n#doom #3d #retrogaming"
+  },
+  {
+   "id": "rFu830S6U7I",
+   "t": "Open Sauce recap, badge, and stop motion",
+   "d": "2025-07-30",
+   "v": 20801,
+   "s": 455,
+   "vertical": false,
+   "desc": "I wanted to make a recap video capturing the unique and creative Open Sauce experience to share with you, my friend.\nLet's hang out again sometime. See ya next time!\n\n-Sage\n\nWren stop motion: https://www.youtube.com/watch?v=h-6rXCtHb_U\n\nCorridor Crew: https://www.youtube.com/@CorridorCrew/videos\n\nOpen Sauce: https://opensauce.com/\n\nCreality scanners: https://store.creality.com/collections/scanners\n\n#opensauce #diy #stopmotion"
+  },
+  {
+   "id": "1Djr9POSkD0",
+   "t": "A 3D Print Can Count",
+   "d": "2025-08-25",
+   "v": 27309,
+   "s": 18,
+   "vertical": true,
+   "desc": "I'll share the files in my new simple breadboard computer tutorial soon!"
+  },
+  {
+   "id": "8aiYJxvh4r0",
+   "t": "Let's Build a Simple Breadboard Computer",
+   "d": "2025-09-05",
+   "v": 112760,
+   "s": 929,
+   "vertical": false,
+   "desc": "This one is special to me and I hope you enjoy it!\n\nBinary Counter 3D Print - https://www.thingiverse.com/thing:7137326\n\nMaterials (Amazon, Ebay, or Mouser)\n555 Timer\n74HC161\nCDP1824\n10k potentiometer\n7805 voltage regulator\n1 push button\nResistors, 1x 1k, 5x 10k, 4x 22k, 3x 2.2k\n47uf capacitor\n4pin dip switch, 3pin dip switch\n2 button cell battery holders with power switch. (a 9v battery also works but needs a switch)\n6 pack of mini multicolor breadboards https://www.amazon.com/dp/B0B827VM95\n1 long breadboard for detachable power strips\nWires for connections \nColorful LEDs\n1 slide switch\n3 Lon"
+  },
+  {
+   "id": "tmN_-gYq6mo",
+   "t": "Becoming a Bioshock Bunny Mask Splicer",
+   "d": "2025-10-22",
+   "v": 6468,
+   "s": 57,
+   "vertical": true,
+   "desc": "\"Would you kindly\" watch me become a bunny mask Splicer from Bioshock. One of my top favorite video game experiences. I hope you have a wonderful Halloween and enjoy it! \ud83c\udf83 \n\nParts\nAmazon rechargable pet brush steamer. (Room temp water mister)\nOrange El Wire\nMask by the very talented dysaniaprops\nWrench 3d file by Falling_Rainbows on Thingiverse \n\n#bioshock #halloween #costume #diy"
+  },
+  {
+   "id": "H4xWnGigzHo",
+   "t": "Laser Engraving my Sequencer Created in 1 Program",
+   "d": "2026-02-02",
+   "v": 11694,
+   "s": 660,
+   "vertical": false,
+   "desc": "Sometimes we convince ourselves that the possible is impossible. We make up reasons to hold ourselves back. Know that you are the captain and can go in any direction you want. I believe in you so you can too.\n\nList of products I used:\nCubiko CNC\nG2 30W Fiber Laser\nRATTMMOTOR CNC Vacuum\nRP2040-Zero microcontroller\nBambu P1S 3D Printer\n\nCoworker: http://www.instagram.com/lejitdesign\n\nSupport by subscribing or buy me a coffee! \nhttps://www.buymeacoffee.com/3dsage\n\nSafety should always be a top priority so follow all safety info about these machines.\n\n-Sage\n\n#cnc #diy #electronicmusic"
+  },
+  {
+   "id": "u_q4jcp7qdc",
+   "t": "Droppin' Sick Beats on my DIY Sequencer",
+   "d": "2026-02-06",
+   "v": 3043,
+   "s": 59,
+   "vertical": true,
+   "desc": "#3dprinting #laserengraving #electronics #synth #gweikelaser #cnc #diy #pcb"
+  },
+  {
+   "id": "suoGkSDWrkg",
+   "t": "Let's Build a Game Console Together",
+   "d": "2026-05-21",
+   "v": 53556,
+   "s": 648,
+   "vertical": false,
+   "desc": "My goal is to use one simple program to build both the 3D printed enclosure and the circuit board.\n\nSponsored by https://jlcpcb.com\nNew user $123 coupon:\nhttps://jlcpcb.com?from=3Dsage2\n6-layer PCB $30 coupon:\nhttps://jlcpcb.com/6-layer-pcb?from=3Dsage\n\nTinkercad\nhttps://www.tinkercad.com\n\nImage to PCB\nhttps://imagetopcb.com\n\nGrabcad\nhttps://grabcad.com\n\nI hope you are doing well. Stay inspired, take care of your body, your mind, and enjoy the day.\n-Sage\n\n00:00 - What this video is about\n00:33 - Sponsored by JLCPCB\n01:21 - Tinkercad basics\n02:40 - Battery solution\n03:40 - Grabcad components\n04"
+  },
+  {
+   "id": "DXztDnXUsBs",
+   "t": "I really enjoyed Siggraph. I left inspired and fired up \ud83d\udd25",
+   "d": "2026-07-26",
+   "v": 1839,
+   "s": 53,
+   "vertical": true,
+   "desc": "#siggraph #technology #animation"
+  },
+  {
+   "id": "RrWw1gm3UEo",
+   "t": "Let's Make a Clear Retro Music Sequencer | 3D Printed Transparency",
+   "d": "2026-08-14",
+   "v": 4688,
+   "s": 869,
+   "vertical": false,
+   "desc": "JLCPCB: New users receive $123 in coupons. Order now: https://jlcpcb.com/?from=3Dsage2 \nJLCPCB provides seamless workflows, transparent pricing, and verified quality for 1-4 layer PCBs. \n\nLet's learn new things together and stay inspired to create!\n\nNew items on sale https://www.etsy.com/shop/3DSage\n\nHow to convert a PNG into a PCB https://www.youtube.com/watch?v=suoGkSDWrkg&t=35s\n\nJitin, the musical coworker https://www.instagram.com/lejitdesign\n\nBuy me a coffee https://buymeacoffee.com/3dsage\n\nThank you for the support, and let's hang out again sometime.\n-Sage\n\n#3dprinting #electronicmusic  "
+  },
+  {
+   "id": "cZk8bShEivc",
+   "t": "3D Zelda | Game Boy Advance",
+   "d": "2026-09-09",
+   "v": 5183,
+   "s": 61,
+   "vertical": true,
+   "desc": "My old 3D polygon tech demo I programmed from scratch running on the Game Boy Advance.\n.\n#zelda\n#ocarinaoftime\n#nintendo"
+  },
+  {
+   "id": "xw9MyMwermA",
+   "t": "Happy Halloween! \ud83c\udf83",
+   "d": "2026-10-29",
+   "v": 2114,
+   "s": 52,
+   "vertical": true,
+   "desc": "No affiliation, just an excuse to have a mustache."
+  }
+ ]
+}

@@ -1,0 +1,594 @@
+{
+ "channel": {
+  "id": "UCX981hh-RI_L1QOwV08osNA",
+  "title": "Aaed Musa",
+  "handle": "@aaedmusa",
+  "description": "I like to build stuff, especially robots.",
+  "since": "2018-08-14",
+  "avatar": "https://yt3.ggpht.com/o3Fu2FkXHObdjo07XnIOy2hk58_AYqFo1nVCerXcvuwPS-ofrGf11f86Y0tsYcYVBXmK8eI3=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "12470196",
+  "subscriberCount": "277000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "64"
+ },
+ "videos": [
+  {
+   "id": "BAxYj-h0lB0",
+   "t": "Motorized Nerf Gauntlet",
+   "d": "2019-08-08",
+   "v": 6424,
+   "s": 66,
+   "vertical": false,
+   "desc": "Homemade NERF gauntlet called The NERF Rival Assist\nAbout the project: https://www.myminifactory.com/object/3d-print-nerf-rival-assist-106762"
+  },
+  {
+   "id": "kvsU6-gOC1g",
+   "t": "Nerf gauntlet Mk3 Build",
+   "d": "2020-04-29",
+   "v": 3996,
+   "s": 883,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "98Llchzygx8",
+   "t": "Basic Bot",
+   "d": "2020-08-03",
+   "v": 3977,
+   "s": 271,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "06LlqRsLDFg",
+   "t": "3D Printed Robotic Actuator",
+   "d": "2021-02-20",
+   "v": 17350,
+   "s": 1053,
+   "vertical": false,
+   "desc": "Hackaday Project (with files) : https://hackaday.io/project/177599-3d-printed-robotic-actuator"
+  },
+  {
+   "id": "d-KMRckBQrs",
+   "t": "Shooting Test",
+   "d": "2021-02-20",
+   "v": 4736,
+   "s": 172,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "ztjZDpbVqf8",
+   "t": "3D printed Actuator Torque Test (6.8 Nm)",
+   "d": "2021-02-20",
+   "v": 3543,
+   "s": 173,
+   "vertical": false,
+   "desc": "In this video I test the Torque of my fully 3D printed Robotic Actuator."
+  },
+  {
+   "id": "1ggUXlYrNng",
+   "t": "3D Printed Robotic Actuator Assembly",
+   "d": "2021-03-01",
+   "v": 5228,
+   "s": 426,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "qDtFj4PE3-o",
+   "t": "Parametric Cycloidal Gear Drive (Fusion 360)",
+   "d": "2021-04-19",
+   "v": 21053,
+   "s": 918,
+   "vertical": false,
+   "desc": "Hackaday Project (files included): https://hackaday.io/project/179246-parametric-cycloidal-gear-drive\nInspired by Levi Jansen's Tutorial: https://www.youtube.com/watch?v=jQ6LQBFZXmU&t=776s"
+  },
+  {
+   "id": "KdGkQ9Kb8Jk",
+   "t": "Cycloidal Actuator Toggle",
+   "d": "2021-05-24",
+   "v": 3163,
+   "s": 24,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "ycqgwixEzEs",
+   "t": "Cycloidal Robotic Actuator",
+   "d": "2021-05-24",
+   "v": 9183,
+   "s": 767,
+   "vertical": false,
+   "desc": "3D files  - https://www.thingiverse.com/thing:4867474"
+  },
+  {
+   "id": "HUYeWwfZO0c",
+   "t": "Servo Actuator Position Mapping",
+   "d": "2021-06-01",
+   "v": 1910,
+   "s": 86,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "r6VSVCb_3mo",
+   "t": "35 kg Servo Testing",
+   "d": "2021-08-21",
+   "v": 5913,
+   "s": 297,
+   "vertical": false,
+   "desc": "In this video I conduct 2 tests (torque and speed) to measure the efficiency of a 35kg servo motor that I have adapted into a Servo Actuator."
+  },
+  {
+   "id": "Iq7BIvdjDnM",
+   "t": "Proportional Control Turning with spike prime",
+   "d": "2021-09-04",
+   "v": 33952,
+   "s": 1363,
+   "vertical": false,
+   "desc": "In this video I will show how to  create a program in Spike prime classroom that allows you to turn a robot to a given angle using the built in gyro sensor, and a proportional controller."
+  },
+  {
+   "id": "7Ee2DimSPwg",
+   "t": "5 bar linkage (for quadrupedal robot)",
+   "d": "2021-10-19",
+   "v": 9078,
+   "s": 48,
+   "vertical": false,
+   "desc": "5 bar linkage made from coreless servo motors, AS5600 encoders, BTS7960 motor drivers, a teensy 4.1, and 3D printed parts. This is a test leg setup for my future quadrupedal robot project. Contact me at printedgadgets@gmail.com if you want more information."
+  },
+  {
+   "id": "3UthF45Twrs",
+   "t": "3D printed quadrupedal robot demonstration",
+   "d": "2022-01-02",
+   "v": 2940,
+   "s": 15,
+   "vertical": false,
+   "desc": "This is my 3D-printed quadrupedal robot named ZEUS."
+  },
+  {
+   "id": "J_UTZypgVkI",
+   "t": "Compliant Servo Actuator",
+   "d": "2022-01-04",
+   "v": 9029,
+   "s": 400,
+   "vertical": false,
+   "desc": "Hackaday Page: https://hackaday.io/project/183393-compliant-servo-actuator"
+  },
+  {
+   "id": "Nfo2iKi_8YU",
+   "t": "MIT Makers Portfolio (3D Printed Quadrupedal Robot) - Rejected",
+   "d": "2022-01-04",
+   "v": 15277,
+   "s": 120,
+   "vertical": false,
+   "desc": "This is the video that I submitted on the creative portfolio for my MIT application. All information about this project can be found in the files section of my Hackaday page.\nhttps://hackaday.io/project/183391-3d-printed-quadrupedal-robot"
+  },
+  {
+   "id": "-Gtw1KFiQsc",
+   "t": "2 DOF Quadrupedal Robot Leg Test",
+   "d": "2022-03-08",
+   "v": 20225,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nTYyQoMi3TI",
+   "t": "3D printed quadrupedal robot v3",
+   "d": "2022-05-14",
+   "v": 5281,
+   "s": 103,
+   "vertical": false,
+   "desc": "Third robot dog. \n \n- 12 DOF \n- 12 x 20kg servos (only $150 altogether) \n- more dynamic than v1 or v2\n- walks like a newborn deer"
+  },
+  {
+   "id": "XExeQqSq_7o",
+   "t": "3D printed quadrupedal robot v2",
+   "d": "2022-05-14",
+   "v": 3519,
+   "s": 14,
+   "vertical": false,
+   "desc": "This is my second attempt at a robot dog. \n\n- 8 DOF \n- light weight \n- 8 x 35kg servos \n- no controller"
+  },
+  {
+   "id": "Q3_HFzhqLwk",
+   "t": "3D Printed Robot Dog",
+   "d": "2022-06-06",
+   "v": 48632,
+   "s": 105,
+   "vertical": false,
+   "desc": "This is a 12 DOF 3D printed quadrupedal robot that I designed. It uses 12 servo motors, a Polulu maestro servo controller, and a Teensy 4.1 microcontroller.  For more information, check out my instructable.\n\nhttps://www.instructables.com/3D-Printed-Robot-Dog/"
+  },
+  {
+   "id": "A-Q2NJdNv5Y",
+   "t": "Electronic Wolverine Claws",
+   "d": "2022-07-17",
+   "v": 16009,
+   "s": 31,
+   "vertical": true,
+   "desc": "3D printed wolverine claws made with an Arduino Nano, a servo, and a pushbutton \n\nThingiverse: https://www.thingiverse.com/thing:5434566\nBuilding Instructions: https://www.instructables.com/Electronic-Wolverine-Claws/\nGitHub repository: https://github.com/printedgadgets/Electronic-Wolverine-Claws"
+  },
+  {
+   "id": "3PN_b1KqNLg",
+   "t": "Maker's Module",
+   "d": "2022-07-19",
+   "v": 6151,
+   "s": 529,
+   "vertical": false,
+   "desc": "This is a video showing my entry to the Make it Modular student design challenge. \n\nChallenge: https://www.instructables.com/contest/makeitmodular2022/\nMy entry: https://www.instructables.com/Affordable-Community-Maker-Spaces/\nPrototype files: https://www.thingiverse.com/thing:5436684"
+  },
+  {
+   "id": "kAaYaZcpbLo",
+   "t": "Ball Balancing Robot pt.1",
+   "d": "2023-01-04",
+   "v": 62667,
+   "s": 338,
+   "vertical": false,
+   "desc": "In this video, I show how I made a ball-balancing robot that uses object detection to prevent a ball from falling. \n\nPart 2: https://www.youtube.com/watch?v=NwRuQ7r6xLQ\nInstructables: https://www.instructables.com/Ball-Balancing-Robot/"
+  },
+  {
+   "id": "NwRuQ7r6xLQ",
+   "t": "Ball Balancing Robot pt.2",
+   "d": "2023-01-11",
+   "v": 19638,
+   "s": 268,
+   "vertical": false,
+   "desc": "In this video, I show the effects of tuning the PD algorithm that this ball balancing robot uses.\n\nPart 1: https://youtu.be/kAaYaZcpbLo\nInstructable: https://www.instructables.com/Ball-Balancing-Robot/"
+  },
+  {
+   "id": "BWSH7EnjaQE",
+   "t": "I Made a 3D Printed Servo Motor",
+   "d": "2023-01-18",
+   "v": 60759,
+   "s": 257,
+   "vertical": false,
+   "desc": "In this video, I'll show you how I made a 3D-printed servo motor with position feedback. If you'd like to build this check out my instructable. \n\nInstructable: https://www.instructables.com/3D-Printed-Servo-Motor/"
+  },
+  {
+   "id": "V8gHTKWw--Y",
+   "t": "I Built a Rubik's Cube Solver",
+   "d": "2023-03-16",
+   "v": 64219,
+   "s": 554,
+   "vertical": false,
+   "desc": "In this video, I'll show you how I made a Rubik's Cube Solver that solves Rubik's cubes in under 5 seconds. \nDIY Instructions: https://www.instructables.com/Rubiks-Cube-Solver-2/\nHackaday Page: https://hackaday.io/project/190071-rubiks-cube-solver"
+  },
+  {
+   "id": "v4F-cGDGiEw",
+   "t": "I Built a Ball Balancing Robot",
+   "d": "2023-04-26",
+   "v": 1235490,
+   "s": 535,
+   "vertical": false,
+   "desc": "In this video, I'll explain how I created a ball-balancing robot that's able to move a ball around in different patterns.\n\n**CORRECTION** This is actually a 3RRS parallel manipulator and not a 3RPS parallel manipulator as I mentioned in the video.\n\nProject Info: https://www.aaedmusa.com/projects/project-three-sng7y-gaslp\nStep by Step Instructions: https://www.instructables.com/Ball-Balancer/\nInspired by: https://www.youtube.com/watch?v=ASe9uZmp-y0\n\nMusic from #Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/prigida/cozy\nLicense code: 6CQPUPIYFC1QZAMA\n\nMusic from #Uppbeat (free for Creators!"
+  },
+  {
+   "id": "gxXatMr0LX4",
+   "t": "I Built a Robotic Actuator.......Lets Test it!",
+   "d": "2023-06-21",
+   "v": 324852,
+   "s": 481,
+   "vertical": false,
+   "desc": "Instructions, CAD, Code, Specs: https://www.aaedmusa.com/projects/openqdd\n\nMusic:\nMusic from #Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/matrika/overdrive\nLicense code: ANCYIAVEXOR9LS7Q\n\nMusic from #Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/prigida/mellow-bop\nLicense code: FQHYJQYQIQIBTCQJ\n\nMusic from #Uppbeat (free for Creators!):\nhttps://uppbeat.io/t/giulio-fazio/dance-of-gypsy-monkey\nLicense code: 4VYAF4G0QJABXOJM"
+  },
+  {
+   "id": "cqpYpj8EaDY",
+   "t": "Robot Dog Part 1: Leg Day",
+   "d": "2023-07-28",
+   "v": 67999,
+   "s": 601,
+   "vertical": false,
+   "desc": "In part 1 of building a quadrupedal robot, I'll be designing, building, and programming a 3DOF leg. I'll cover topics like inverse kinematics, gait sequences, and future plans for the project. Subscribe for part 2!\n\nWebsite (Project Overview and Interactive Models): http://aaedmusa.com/projects/tops\nHackaday (Project Logs): http://hackaday.io/project/192122-top...\nGitHub (CAD, Code, BOM, etc...): https://github.com/aaedmusa/TOPS"
+  },
+  {
+   "id": "bdJuIe2igCI",
+   "t": "Robot Dog Part 2: Leg Redesign",
+   "d": "2023-08-25",
+   "v": 38955,
+   "s": 361,
+   "vertical": false,
+   "desc": "In part 2 of building a robot dog, I'll be redesigning the leg, switching motor control from UART to CAN bus, continuing to program step sequences, and making the leg jump! Subscribe for part 3 where I'll be designing and building the full robot.\n\nWebsite (Project Overview and Interactive Models): http://aaedmusa.com/projects/tops\nHackaday (Project Logs): http://hackaday.io/project/192122-top...\nGitHub (CAD, Code, BOM, etc...): https://github.com/aaedmusa/TOPS"
+  },
+  {
+   "id": "VhUvoV5XyRg",
+   "t": "I Built a Robot Dog and Made it Dance",
+   "d": "2023-10-06",
+   "v": 592502,
+   "s": 901,
+   "vertical": false,
+   "desc": "In this video, I'll be building TOPS ,  my robot dog. While I have attempted a couple of robot dogs in the past, nothing has come close to having the natural gait of an actual dog. In this project, the goal is to make a more dynamic quadrupedal robot. Be sure to watch parts 0, 1, and 2 for context. Subscribe if you enjoyed the video!\n\nWebsite (Project Overview and Interactive Models): http://aaedmusa.com/projects/tops\nHackaday (Project Logs): http://hackaday.io/project/192122-top...\nGitHub (CAD, Code, BOM, etc...): https://github.com/aaedmusa/TOPS"
+  },
+  {
+   "id": "m0bMMALYMYk",
+   "t": "I Built a Rubik's Cube Solving Robot",
+   "d": "2023-12-01",
+   "v": 132037,
+   "s": 1061,
+   "vertical": false,
+   "desc": "You and your company can try Onshape for Free here: https://Onshape.pro/AaedMusa\n\nProject Overview: https://www.aaedmusa.com/projects/rubikscuberobotv2\nCAD and Code: https://github.com/aaedmusa/Rubik-s-Cube-Solver-2.0\nBen Katz's Blog: https://build-its-inprogress.blogspot.com/2018/03/the-rubiks-contraption.html"
+  },
+  {
+   "id": "q9dPwyPL-EI",
+   "t": "Solving a Rubik\u2019s cube in under 1.5 seconds",
+   "d": "2023-12-06",
+   "v": 26357,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GakFB8Tdd98",
+   "t": "I Built an Internal Cycloidal Robotic Actuator",
+   "d": "2024-02-14",
+   "v": 1306081,
+   "s": 1141,
+   "vertical": false,
+   "desc": "Get your projects made with PCBWay today by going to: https://www.pcbway.com/ \nProject Overview: https://www.aaedmusa.com/projects/internalcycloidalactuator\nCAD and BOM: https://github.com/aaedmusa/Internal-Cycloidal-Actuator\nBLDC Winding Configuration: https://www.bavaria-direct.co.za/scheme/calculator/"
+  },
+  {
+   "id": "MwIBTbumd1Q",
+   "t": "High Precision Speed Reducer Using Rope",
+   "d": "2024-05-31",
+   "v": 3048082,
+   "s": 1219,
+   "vertical": false,
+   "desc": "Gears are old-school. Today I'll be exploring the idea of a rope-driven reducer called a Capstan Drive.\n\nGet your projects made today using PCBWay: https://www.pcbway.com/\nRead about this project on my website: https://www.aaedmusa.com/projects/capstandrive\nDownload the test stand CAD files and BOM: https://github.com/aaedmusa/Capstan-Drive\nFollow me on Instagram: https://www.instagram.com/aaedmusayt/\nCheck out the Stanley quadruped: https://hackaday.io/project/176726-stanley-the-capstan-based-quadruped-kit"
+  },
+  {
+   "id": "WIU8gnqQJJM",
+   "t": "This Robot Glides Like an Ice Skater",
+   "d": "2025-01-13",
+   "v": 649364,
+   "s": 1127,
+   "vertical": false,
+   "desc": "For the past 6 months, I have been building a wheeled bipedal robot. Meet Impulse!\n\nRead more on the technical details of this build: https://www.aaedmusa.com/projects/impulse\nDownload the Free Impulse Project Files: https://www.patreon.com/aaedmusayt/posts/impulse-project-161214729?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nHappy FlexiSpot New Year Sale, Up to 50% OFF! Use my code \"YTE7P50\" to get $50 discounts on E7pro, E7 Plus or E7L standing desk!\n\nFlexiSpot E7 Plus standing desk:\nhttps://bit.ly/3BVkVjT (US)\nhttps://bit.ly/3BVl2vP (C"
+  },
+  {
+   "id": "E864U9bP1H4",
+   "t": "Meet Impulse!",
+   "d": "2025-01-20",
+   "v": 16026,
+   "s": 60,
+   "vertical": true,
+   "desc": "I built a wheeled bipedal robot. Full video on my channel."
+  },
+  {
+   "id": "1c8U_gmQOyE",
+   "t": "Why Engineers Love Triangles",
+   "d": "2025-01-27",
+   "v": 272436,
+   "s": 49,
+   "vertical": true,
+   "desc": "Triangles are a really strong shape."
+  },
+  {
+   "id": "Hem6aPPuO0M",
+   "t": "Size Matters\u2026For Robots",
+   "d": "2025-02-03",
+   "v": 24831,
+   "s": 47,
+   "vertical": true,
+   "desc": "The height of a balancing robot is very important. Full video on my channel."
+  },
+  {
+   "id": "RVKNQdN7XBc",
+   "t": "Wrist Mounted CD Launcher - Built to DESTROY!",
+   "d": "2025-04-18",
+   "v": 341054,
+   "s": 1111,
+   "vertical": false,
+   "desc": "I built a wrist mounted CD launcher that rapid fires CDs at 33 mph!\n\nRead more on the technical details of this build: https://aaedmusa.com/projects/wrist-mounted-cd-launcher\nFollow me on Instagram: https://www.instagram.com/aaedmusayt/\n\nGet your parts made at PCBWay today: https://member.pcbway.com/specials/referrals\n\nCoupon Code: PCBWay-Aaed Musa\nCoupon Value: $10 off orders over $30\nApplicability: PCB-(A)s/CNC/3DP, etc., on order prices over $30 (shipping cost excluded)\nValidity: Code is valid for 6 months from activation and will expire 3 months after redemption.   Each person can redeem i"
+  },
+  {
+   "id": "StH1y1_daz4",
+   "t": "I Weaponized CDs",
+   "d": "2025-04-25",
+   "v": 9463,
+   "s": 94,
+   "vertical": true,
+   "desc": "I built a Wrist Mounted CD Launcher. Check it out! The full build is on my channel."
+  },
+  {
+   "id": "HQlx3_QHQdY",
+   "t": "What's a Flywheel?",
+   "d": "2025-05-02",
+   "v": 77800,
+   "s": 71,
+   "vertical": true,
+   "desc": "I used flywheels to build my Wrist Mounted CD Launcher; but what is a flywheel? The full build is on my channel."
+  },
+  {
+   "id": "Cgcu_IZPz4g",
+   "t": "Wrist Mounted CD Launcher FPV",
+   "d": "2025-05-09",
+   "v": 7077,
+   "s": 107,
+   "vertical": true,
+   "desc": "First Person View (FPV) of my Wrist Mounted CD Launcher in action. The full build is on my channel."
+  },
+  {
+   "id": "8s9TjRz01fo",
+   "t": "I Built a Robot Dog Using... Rope?",
+   "d": "2025-07-11",
+   "v": 1104195,
+   "s": 1320,
+   "vertical": false,
+   "desc": "Meet CARA, my latest robot dog. Unlike most robot dogs, CARA doesn't use any gears or pulleys. Instead, she uses rope!\n\nSubscribe to my Patreon: https://www.patreon.com/aaedmusayt\nBuy the 8:1 capstan drive project files: https://www.patreon.com/posts/8-1-capstan-test-133816478?source=storefront\nFollow me on Instagram: https://www.instagram.com/aaedmusayt/\nRead more technical details about CARA: https://aaedmusa.com/projects/cara\n\nGet a Bambu Lab Printer:\nBambu Lab A1 mini: https://shrsl.com/4x5nm\nBambu Lab A1: https://shrsl.com/4x5no\nBambu Lab X1C: https://shrsl.com/4x5np\n\n#robotics  #engineer"
+  },
+  {
+   "id": "_Ba5bdM01CI",
+   "t": "I Built a Robot Dog Using\u2026 Rope?",
+   "d": "2025-07-12",
+   "v": 51171,
+   "s": 40,
+   "vertical": true,
+   "desc": "Meet CARA, my rope-driven robot dog! Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "xq2m21NyS2M",
+   "t": "This Isn't Your Average Robot Dog",
+   "d": "2025-07-14",
+   "v": 28116,
+   "s": 55,
+   "vertical": true,
+   "desc": "Check out CARA, my rope-driven robot dog! Watch the full video on my channel now.\n#shorts #robotics  #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "bAYAWDMDU04",
+   "t": "This \"Gearbox\" Has No Gears",
+   "d": "2025-07-16",
+   "v": 886173,
+   "s": 56,
+   "vertical": true,
+   "desc": "Capstan drives are rope-driven speed reducers with zero backlash, high torque transparency, low inertia, low cost, and quiet operation. Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "fsNZjyL05oA",
+   "t": "How I Built a Rope-Driven Robot Dog",
+   "d": "2025-07-23",
+   "v": 117040,
+   "s": 33,
+   "vertical": true,
+   "desc": "I built CARA, my rope-driven robot dog, over the course of a year. Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "pnh2_c4xKXs",
+   "t": "Giving My Robot The Boston Dynamics Treatment",
+   "d": "2025-07-25",
+   "v": 30584,
+   "s": 30,
+   "vertical": true,
+   "desc": "Taking a page out of the Boston Dynamics handbook. Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "4GEApeer48A",
+   "t": "My Robot Dog\u2019s Design",
+   "d": "2025-07-28",
+   "v": 44315,
+   "s": 31,
+   "vertical": true,
+   "desc": "CARA is a rope-driven robot dog that I built. This is what her design looks like. Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "Wp5NodfvvF4",
+   "t": "I Overengineered a Spinning Top",
+   "d": "2026-01-16",
+   "v": 695621,
+   "s": 1004,
+   "vertical": false,
+   "desc": "Spinning tops don't spin long enough. Today we fix that!\n\nSubscribe to my Patreon: https://www.patreon.com/aaedmusayt\nBuy the Infinite Spinning Top project files: https://www.patreon.com/posts/infinite-top-148344475\nRead more technical details about the build: https://aaedmusa.com/projects/infinite-spinning-top\n\nGet 6 free months of Onshape Professional Today: https://onshape.pro/AaedMusa\nGet your parts made with PCBWay Today: https://www.pcbway.com/\n\nCheck out my website: https://www.aaedmusa.com/\nFollow me on Instagram: https://www.instagram.com/aaedmusayt/\nFollow me on TikTok: https://www.t"
+  },
+  {
+   "id": "j8vkzQu0qN8",
+   "t": "I Overengineered a Spinning Top",
+   "d": "2026-01-17",
+   "v": 16200,
+   "s": 57,
+   "vertical": true,
+   "desc": "Spinning tops don't spin long enough. Today, we fix that! Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinning #spinningtop #innovation"
+  },
+  {
+   "id": "b_pQts2fDiI",
+   "t": "I Built the Spinning Top from Inception",
+   "d": "2026-01-19",
+   "v": 16358,
+   "s": 57,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinning #spinningtop #innovation #inception"
+  },
+  {
+   "id": "qKIXccf9ozw",
+   "t": "What's a Reaction Wheel?",
+   "d": "2026-01-21",
+   "v": 44037,
+   "s": 69,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinning #space  #innovation #reactionwheel"
+  },
+  {
+   "id": "obba3Hybc0s",
+   "t": "This Device Creates \"Infinite\" Spin",
+   "d": "2026-01-23",
+   "v": 83641,
+   "s": 53,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinningtop  #innovation #inception"
+  },
+  {
+   "id": "DL86gY9NSuU",
+   "t": "How Do You Design the Ideal Spinning Top?",
+   "d": "2026-01-25",
+   "v": 23123,
+   "s": 48,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinningtop  #innovation #inception"
+  },
+  {
+   "id": "t_IZvusf1lI",
+   "t": "Building an Infinite Spinning Top",
+   "d": "2026-01-27",
+   "v": 22772,
+   "s": 77,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now. \n\n#engineering   #technology #3dprinting  #diy  #mechanicalengineering #innovation #spin #spinningtop  #innovation #inception"
+  },
+  {
+   "id": "GFLa1b1juUo",
+   "t": "I Built an Even Better Ropebot Dog",
+   "d": "2026-05-01",
+   "v": 200468,
+   "s": 1332,
+   "vertical": false,
+   "desc": "Let's make another Ropebot dog!\n\nSubscribe to my Patreon: https://www.patreon.com/aaedmusayt\nBuy the CARA 2.0 project files: https://www.patreon.com/posts/cara-2-0-project-155326366\nRead more technical details about the build: https://aaedmusa.com/projects/cara2\n\nGet your parts made from Justway: https://member.justway.com/specials/referrals\n- Coupon Code: Justway@AaedMusa-10\n- Coupon Value: $10 off orders over $30\n- Applicability: 3DP/CNC services on orders over $30 (excluding shipping costs)\n- Validity: The code is valid for 3 months from activation and will expire 6 months after redemption."
+  },
+  {
+   "id": "8UXc5ImYeZc",
+   "t": "I Built a Better Robot Dog",
+   "d": "2026-05-03",
+   "v": 12201,
+   "s": 89,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "yIYb0EdqA9c",
+   "t": "Building a Robot Dog",
+   "d": "2026-05-05",
+   "v": 16793,
+   "s": 82,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "V3cL6s3VPCs",
+   "t": "Meet CARA 2.0",
+   "d": "2026-05-07",
+   "v": 25340,
+   "s": 155,
+   "vertical": true,
+   "desc": "Watch the full video on my channel now.\n#shorts #robotics #engineering #technology #robotdog #3dprinting  #gear #diy  #mechanicalengineering #innovation"
+  },
+  {
+   "id": "gB9RWnWNd1Y",
+   "t": "I Made Real Spider-Man Web-Shooters",
+   "d": "2026-08-31",
+   "v": 274661,
+   "s": 1065,
+   "vertical": false,
+   "desc": "I'm a huge Spider-Man Fan, so let's make a Web-Shooter!\n\n\ud83c\udf0f Upgrade your online protection with an all-in-one security app! \u27b5  https://NordVPN.com/aaed It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\u270c\n\nSubscribe to my Patreon: https://www.patreon.com/aaedmusayt\nProject overview: https://www.aaedmusa.com/projects/spider-man-web-shooters\n\nBuy a Formlabs Form 4 3D printer: https://tidd.ly/4cTr8wx\nBuy Formlabs High Temp Resin: https://tidd.ly/3UnMg7f\n\nCheck out my website: https://www.aaedmusa.com/\nFollow me on Instagram: https://www.instagram.com/aaedmusayt/\nFollow me on TikTok: https://ww"
+  },
+  {
+   "id": "5LNYhtvf3hU",
+   "t": "I Made Real Spider-Man Web-Shooters",
+   "d": "2026-09-04",
+   "v": 141547,
+   "s": 45,
+   "vertical": true,
+   "desc": "Check out the full build on my channel"
+  }
+ ]
+}

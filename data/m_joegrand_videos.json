@@ -1,0 +1,2277 @@
+{
+ "channel": {
+  "id": "UCqGONXW1ORgz5Y4qK-0JdkQ",
+  "title": "Joe Grand",
+  "handle": "@joegrand",
+  "description": "Hacking, electronics, and other projects featuring Joe Grand, a computer engineer, hardware hacker, and former member of L0pht Heavy Industries, sometimes known as Kingpin. \n\nBEWARE OF SCAMMERS AND IMPERSONATORS! I DO NOT RESPOND TO PUBLIC COMMENTS AND WILL NOT SEND ANY UNSOLICITED MESSAGES.\n",
+  "since": "2008-08-26",
+  "avatar": "https://yt3.ggpht.com/7z7QsAFocw_8Aet_AcfCUU5JEGuGgB0BsnNUjcikEizzyB2HbSwa2yOURCXvkhcGfc4eEko0aQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "25677520",
+  "subscriberCount": "454000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "251"
+ },
+ "videos": [
+  {
+   "id": "CZzG-u1eUYw",
+   "t": "DC16 Badge Hack: Human Password Generator",
+   "d": "2008-08-26",
+   "v": 11311,
+   "s": 153,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This was the winning contest entry by the Greek Geeks. They created a Human Password Generator using the badge that tracked the motion of the LEDs via a webcam and performed a calculation of the motion hash-to-password on the badge's JM60 MCU. (Sorry, the audio is a bit messed up)"
+  },
+  {
+   "id": "T19A-TAUjpA",
+   "t": "DC16 Badge Hack: POV displaying \"DC16 HACKER\"",
+   "d": "2008-08-26",
+   "v": 7213,
+   "s": 10,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware hack to use persistence-of-vision (POV) to display \"DC16 HACKER\" on the LEDs."
+  },
+  {
+   "id": "htvUCBg-g30",
+   "t": "DC16 Badge Hack: IR distance increase & audio generation",
+   "d": "2008-08-27",
+   "v": 2055,
+   "s": 144,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry, by Solder Guy, was a hardware hack to enhance the IR transmit/TV-B-Gone distance via multiple high-power IR LEDs. He also attempted audio generation in firmware via pulse-width modulation (PWM) and an external low-pass filter, but ran out of time and didn't get it completely working."
+  },
+  {
+   "id": "iKsdAOH5mPc",
+   "t": "DC16 Badge Hack: LED animations & high-level scripting",
+   "d": "2008-08-27",
+   "v": 766,
+   "s": 54,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry, by charliex, was a firmware hack containing a number of animation sequences for the 8 LEDs. He also created a high-level, Logo-style scripting language for LED patterns to make it easy for anyone to modify their badge."
+  },
+  {
+   "id": "ZuHpC4mPOBQ",
+   "t": "DC16 Badge Hack: PRNG w/ PWM dimming",
+   "d": "2008-08-27",
+   "v": 430,
+   "s": 24,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware modification for a pseudorandom number generator (PNRG), displaying the bits on the 8 LEDs. Dimming of the LEDs was also enabled using pulse-width modulation (PWM)."
+  },
+  {
+   "id": "W2WAYIVheBk",
+   "t": "DC16 Badge Hack: Nikon camera remote control/trigger",
+   "d": "2008-08-27",
+   "v": 6007,
+   "s": 31,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware modification to change the IR transmit code to emulator a Nikon camera remote control/trigger. This remote control will remotely enable the shutter of Nikon D40, D40X, D70S, D50, 8400, 8800, F75, F65, F55, N65, N75, Nuvis S, and Lite Touch cameras. Good for legitimate use or mischief. :)"
+  },
+  {
+   "id": "y8cAdfwgvOk",
+   "t": "DC16 Badge Hack: Real-time binary clock with IR time sync",
+   "d": "2008-08-27",
+   "v": 795,
+   "s": 58,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware modification to turn the badge into a real-time binary clock displaying the time on the 8 LEDs. Time could be synchronized with another badge via infrared (IR) and could be set using the USB debug port and a PC terminal program."
+  },
+  {
+   "id": "WmjXJvQ5XJs",
+   "t": "DC16 Badge Hack: Optical trojan/covert channel via LED",
+   "d": "2008-08-27",
+   "v": 1732,
+   "s": 54,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was created by the guys at University of Delaware's CVORG group (http://www.cvorg.ece.udel.edu/defcon-16). They modified the badge to leak information via the LEDs. Known as an \"optical trojan\" or \"covert channel,\" the badge's LEDs are blinking at a very fast rate undetectable to the human eye and transmitting \"HELLO DEFCON\" in Morse Code. The optical transmission can be picked up with simple optical receiver circuitry connected to a PC."
+  },
+  {
+   "id": "9urEBoTeAmU",
+   "t": "DC16 Badge Hack: Fiber optics + POV displaying \"DEFCON\"",
+   "d": "2008-08-27",
+   "v": 955,
+   "s": 12,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware hack to use persistence-of-vision (POV) to display \"DEFCON\" on the LEDs. The entrant also modified their badge with fiber optics."
+  },
+  {
+   "id": "qKZ7rMu85Tc",
+   "t": "DC16 Badge Hack: Cellular Automaton",
+   "d": "2008-08-27",
+   "v": 908,
+   "s": 64,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a firmware modification to create a Cellular Automaton with two models: Rule 30, random number generator, and Rule 110, Turing-complete \"spaceship pattern.\" Submitted by Patrick Cruce and Michael McGraw-Herdeg. More details here: http://ssl.berkeley.edu/~pcruce/"
+  },
+  {
+   "id": "KIRK_k6-8Ho",
+   "t": "DC16 Badge Hack: Multicolor LEDs & IR distance hack",
+   "d": "2008-08-27",
+   "v": 1076,
+   "s": 130,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry, by Unknown, is an LED pattern generator with added multicolor LEDs. Animation sequences include, but not limited to, Walking LEDs, Knight Rider, Reverse Knight Rider, Binary Counter, Pseudorandom, and Circular."
+  },
+  {
+   "id": "cYkq1mznEko",
+   "t": "DC16 Badge Hack: LED animations & music generator",
+   "d": "2008-08-27",
+   "v": 705,
+   "s": 45,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry consists of a firmware hack for a variety of LED animations (binary counter + police light bar emulation) and a music generator created with external hardware (Parallax BS2sx)."
+  },
+  {
+   "id": "wHgqgdS_BeA",
+   "t": "DC16 Badge Hack: Camera shock and flash circuit addition",
+   "d": "2008-08-27",
+   "v": 1159,
+   "s": 35,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This is a hardware addition of a camera flash charging/discharging circuit by Unknown."
+  },
+  {
+   "id": "Nle9NMj27eU",
+   "t": "DC16 Badge Hack: Motion-generated/context-sensitive music",
+   "d": "2008-08-27",
+   "v": 1038,
+   "s": 98,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry was a combination hardware/firmware hack and was the 3rd place winner in the contest. Motion-generated/context-sensitive music using an external accelerometer connected to the JM60 MCU. Also features \"snooze alert\" by making sound if a tilt is detected. (Sorry, the audio is crappy on this one)"
+  },
+  {
+   "id": "waA2tHzhQOs",
+   "t": "DC16 Badge Hack: Mac Front Row and HP Laptop 0wning",
+   "d": "2008-08-27",
+   "v": 5504,
+   "s": 193,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This is the 2nd place contest entry by BonzoESC, Sterling, Critta, and Jymbolia. The hack uses the badge's IR transmitter to emulate Macintosh Front Row and HP Pavilion DV series laptop remote controls, allowing general mischief. Source code for the hack can be found here: http://github.com/bkerley/dc16_badge"
+  },
+  {
+   "id": "ZuSSVAQ9Cw0",
+   "t": "DC16 Badge Hack: TV-B-A.D.D.",
+   "d": "2008-08-28",
+   "v": 1472,
+   "s": 44,
+   "vertical": false,
+   "desc": "From the DEFCON 16 Badge Hacking Contest. This entry by Major Malfunction replaces the TV-B-Gone (www.tvbgone.com) functionality of the badge with TV-B-A.D.D., which continuously changes the channel of any TV within its range."
+  },
+  {
+   "id": "EtNZjXMae1U",
+   "t": "BSODomizer",
+   "d": "2008-09-02",
+   "v": 73050,
+   "s": 322,
+   "vertical": false,
+   "desc": "A short video of the BSODomizer (www.bsodomizer.com) in action. This was the first test of the unit against a real-world target. Sorry Mike!"
+  },
+  {
+   "id": "XK_cCug4zzQ",
+   "t": "DC15 Badge Hack: Slot Machine",
+   "d": "2008-12-18",
+   "v": 8608,
+   "s": 32,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. Slot machine application created by unknown. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "GniWtk2MER8",
+   "t": "DC15 Badge Hack: Audio Line-Level Meter and Rap Song",
+   "d": "2008-12-18",
+   "v": 3185,
+   "s": 118,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. The winning contest entry by Team Osogato (Len Sassaman, Meredith Patterson, Dustin Cooper, Martin Murray, Tongen, and Maxinux). The team hacked the badge into a line-level meter for under $10 in additional components that used the LED matrix to display the peak levels of an audio signal fed into one channel of the A/D. The two capacitive sensors are used to adjust the levels of the input signal and three shades of \"greyscale\" are used to create a fading effect on the display. For the icing on the cake, the team worked with The Brothers Grimm to create"
+  },
+  {
+   "id": "IuCPL4PX18k",
+   "t": "DC15 Badge Hack: Single Sign-On Generator",
+   "d": "2008-12-18",
+   "v": 925,
+   "s": 68,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. The 2nd place entry. Botten and Dov (Team Slackers) created a single sign-on generator which displayed the password on the badge and worked in conjunction with the Windows-based, open source pGina user authentication scheme. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "YPt_sQm1VQc",
+   "t": "DC15 Badge Hack: DEFCON 15 Closing Ceremonies",
+   "d": "2008-12-18",
+   "v": 500,
+   "s": 60,
+   "vertical": false,
+   "desc": "House lights go out at the DEFCON 15 Closing Ceremonies. The song being played in the background is part of Team Osogato's winning Badge Hacking Contest entry. It is a rap song by The Brothers Grimm based on my (Joe Grand's) Ode to the DEFCON Badge poem that appeared in the DEFCON program. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "fmpLBxf7Luo",
+   "t": "DC15 Badge Hack: Conway's Game of Life",
+   "d": "2008-12-18",
+   "v": 506,
+   "s": 9,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. Conway's Game of Life created by unknown. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "5VZPjOUnqU8",
+   "t": "DC14 Badge Hack: Flame Thrower",
+   "d": "2008-12-18",
+   "v": 756,
+   "s": 14,
+   "vertical": false,
+   "desc": "From the DEFCON 14 Badge Hacking Contest. A badge turned into a flame thrower by Zane. More details of the DEFCON 14 badge at http://www.grandideastudio.com/portfolio/defcon-14-badge/"
+  },
+  {
+   "id": "naxq9KmJ3HM",
+   "t": "DC15 Badge Hack: Accelerometer Demonstrations",
+   "d": "2008-12-18",
+   "v": 564,
+   "s": 34,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. Dustin Cooper added a Freescale MMA7260 3-axis accelerometer to the badge and created a number of nice demonstrations. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "kpH43S2tIkM",
+   "t": "DC14 Badge Hack: Event Generator Ghoul (EGG)",
+   "d": "2008-12-18",
+   "v": 1286,
+   "s": 26,
+   "vertical": false,
+   "desc": "From the DEFCON 14 Badge Hacking Contest. The winning Badge Hacking contest entry by Scott Scheferman (Shagghie) called the Event Generator Ghoul (EGG). Scott modified the LEDs on his badge to serve as event generators into his analog synthesizer. He connected the hacked badge to his Cwejman synthesizer's envelope generator and LPF cutoff frequency modulation jacks via a 1/4\" stereo plug. He also installed two piezo buzzers/tweeters onto the badge to verify his initial concept and for debugging purposes. More details of the DEFCON 14 badge at http://www.grandideastudio.com/portfolio/defcon-14-"
+  },
+  {
+   "id": "6gK_QnISo5U",
+   "t": "DC14 Badge Hack: House Lights Go Out at the DEFCON 14 Awards Ceremony",
+   "d": "2008-12-18",
+   "v": 768,
+   "s": 13,
+   "vertical": false,
+   "desc": "House lights go out at the DEFCON 14 Awards Ceremony. The music in the background was created by Shagghie's winning Badge Hacking Contest badge, the Event Generator Ghoul (EGG). More details of the DEFCON 14 badge at http://www.grandideastudio.com/portfolio/defcon-14-badge/"
+  },
+  {
+   "id": "EQXuC7dPBTM",
+   "t": "DC14 Badge Hack: Multi-Colored Blinking LEDs",
+   "d": "2008-12-18",
+   "v": 641,
+   "s": 7,
+   "vertical": false,
+   "desc": "From the DEFCON 14 Badge Hacking Contest. Dr. Volts' multi-colored blinking badge hack. More details of the DEFCON 14 badge at http://www.grandideastudio.com/portfolio/defcon-14-badge/"
+  },
+  {
+   "id": "FQOF9jcPRlA",
+   "t": "Audio-Synchronized RGB LED Lamp: Music",
+   "d": "2008-12-19",
+   "v": 4309,
+   "s": 16,
+   "vertical": false,
+   "desc": "This is a prototype of an audio-synchronized lamp I built just for fun. It is based on a National Semiconductor LM4970 and uses three LEDs (red, green, and blue) to create a combination of randomized colors that pulse brighter and dimmer in response to the pitch and rhythm of music or ambient sound. The music in this video is a part of Mars' Peaceful Warrior.\n\nThe design includes both a standard 1/8\" stereo audio input, so users can connect their favorite music-playing device, and also a microphone input, which will detect ambient noise, talking, or music without the need for a physical, wired"
+  },
+  {
+   "id": "Z8CGhP67SsM",
+   "t": "Audio-Synchronized RGB LED Lamp: Voice Detection",
+   "d": "2008-12-19",
+   "v": 1932,
+   "s": 14,
+   "vertical": false,
+   "desc": "This is a prototype of an audio-synchronized lamp I built just for fun. It is based on a National Semiconductor LM4970 and uses three LEDs (red, green, and blue) to create a combination of randomized colors that pulse brighter and dimmer in response to the pitch and rhythm of music or ambient sound.\n\nThe design includes both a standard 1/8\" stereo audio input, so users can connect their favorite music-playing device, and also a microphone input, which will detect ambient noise, talking, or music without the need for a physical, wired connection.\n\nFull details at www.grandideastudio.com/portfol"
+  },
+  {
+   "id": "uGuvnDink8o",
+   "t": "RoboFlush: The Automatic Toilet Flusher",
+   "d": "2008-12-19",
+   "v": 4829,
+   "s": 13,
+   "vertical": false,
+   "desc": "What happens when an engineer's toilet breaks? Fix it with electronics, of course! \n\nThis is a quick-and-dirty hack to solve a nagging problem with a toilet that requires its handle to be held down for the entire flush cycle. Could the toilet have been fixed the right way with a trip to the hardware store? Sure, but that's no fun.\n\nThe system uses a BASIC Stamp 1, servomotor, and serial LCD. A high-torque Hitec servo attaches directly to the flushing handle of the toilet and the control electronics are mounted in a plastic project case. The servo is fixed into place using a large steel L brack"
+  },
+  {
+   "id": "YWWB9sIAsC8",
+   "t": "DC15 Badge Hack: \"Stacker\" Amusement Game",
+   "d": "2008-12-19",
+   "v": 3234,
+   "s": 36,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. This is a port of the highly-addicting Stacker amusement park game by Zoz. He also added some extra text and animation modes. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "VUzZbIP_1jk",
+   "t": "DC15 Badge Hack: Real-Time Clock",
+   "d": "2008-12-19",
+   "v": 859,
+   "s": 69,
+   "vertical": false,
+   "desc": "From the DEFCON 15 Badge Hacking Contest. Real-time clock and extra display modes created by sunshine. More details of the DEFCON 15 badge at http://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "qsEAMmudfMI",
+   "t": "Prototype This: 6x6 All-Terrain Robot joystick control testing",
+   "d": "2009-02-21",
+   "v": 3055,
+   "s": 38,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Six-Legged All-Terrain Vehicle episode. This was a test of our joystick control system that ultimately would be used to control the real vehicle. The arcade-style PC joystick uses two potentiometers (one for each axis) and had a number of buttons. The joystick was connected to a hacked Stelladaptor interface (Atari 2600-to-USB circuit) that connected to a PC laptop which controlled the Little RHex robot over a wireless interface. More info here: http://www.grandideastudio.com/portfolio/pt-six-legged-vehicle/"
+  },
+  {
+   "id": "Y8h8dc7XWlA",
+   "t": "Prototype This: 6x6 All-Terrain Robot stand-up test",
+   "d": "2009-02-21",
+   "v": 1651,
+   "s": 19,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Six-Legged All-Terrain Vehicle episode. Late night testing the night before our final demonstration. Each leg had a custom drivetrain with closed loop control system. Here, the robot is using all six legs to lift itself up and self-balance itself to maintain static stability. More info here: http://www.grandideastudio.com/portfolio/pt-six-legged-vehicle/"
+  },
+  {
+   "id": "WPnTm_ETxlM",
+   "t": "Prototype This: Autonomous Pizza Delivery Robot",
+   "d": "2009-02-22",
+   "v": 10710,
+   "s": 42,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. Here's a video of our Pizza Pie Pack riding on top of a Marathon Robotics autonomous platform. It had left the pizza place a few blocks away and it approaching me, but has to first avoid an obstacle (Mike). More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "2vZ5jfxCSSg",
+   "t": "Prototype This: Get Up and Go testing #2",
+   "d": "2009-02-22",
+   "v": 1016,
+   "s": 32,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Get Up and Go episode. Late night testing of our Get Up and Go sleeping pod before the public demonstration the next day. It is completely computer controlled and uses hydraulics, among other things. More info here: http://www.grandideastudio.com/portfolio/pt-get-up-and-go/"
+  },
+  {
+   "id": "H1ag8FVcNIs",
+   "t": "Prototype This: Taking off in the Goodyear Blimp, outside view",
+   "d": "2009-02-22",
+   "v": 19722,
+   "s": 55,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. I had never really thought about how a blimp takes off. This was a great day courtesy of Goodyear! More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "8nDFSUAhoUw",
+   "t": "Prototype This: Real car controlled with Playstation driving controller testing #1",
+   "d": "2009-02-22",
+   "v": 5706,
+   "s": 34,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Mind Controlled Car/Anger Management Demolition Derby episode. Testing the control system for our remote control cars. Each car is controlled by a Playstation 2 Driving Controller and custom electronics. The signals are fed into a BASIC Stamp, which processes the commands and sends them in a UDP packet over the network to a PC which sends the proper remote control commands to move the car. It was a weird feeling to drive a real car while not being in it. More details here: http://www.grandideastudio.com/portfolio/pt-mind-controll"
+  },
+  {
+   "id": "81EZVf_6iBs",
+   "t": "Prototype This: Taking off in the Goodyear Blimp, inside view",
+   "d": "2009-02-22",
+   "v": 10900,
+   "s": 40,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. Taking off and riding the Goodyear Blimp! This was part of a day experimenting with pizza delivery via dropping a pizza out of a blimp. It was a silly idea, but was made to look very serious on the show. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "b7kUW4X3rSs",
+   "t": "Prototype This: Dropping a pizza from the Goodyear Blimp",
+   "d": "2009-02-22",
+   "v": 2616,
+   "s": 45,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. This was part of a day experimenting with pizza delivery via dropping a pizza out of a blimp. It was a silly idea, but was made to look very serious on the show. Terry was throwing the pizza and it landed only a few feet from me and Mike. I was more worried about getting hit by the blimp! More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "t4gfF63IL-U",
+   "t": "Prototype This: Scrolling sign inside the Goodyear Blimp",
+   "d": "2009-02-22",
+   "v": 783,
+   "s": 5,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. The folks at Goodyear had programmed the blimp's scrolling sign to read out \"PROTOTYPE THIS!\" which could be seen far and wide as we cruised high above Long Beach, California. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "6CQeeZn1Pf0",
+   "t": "Prototype This: Real car controlled with Playstation driving controller testing #2",
+   "d": "2009-02-22",
+   "v": 2033,
+   "s": 16,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Mind Controlled Car/Anger Management Demolition Derby episode. Testing the control system for our remote control cars. Each car is controlled by a Playstation 2 Driving Controller and custom electronics. The signals are fed into a BASIC Stamp, which processes the commands and sends them in a UDP packet over the network to a PC which sends the proper remote control commands to move the car. It was a weird feeling to drive a real car while not being in it. More details here: http://www.grandideastudio.com/portfolio/pt-mind-controll"
+  },
+  {
+   "id": "KuERPRzmEHk",
+   "t": "Prototype This: Flying in the Goodyear Blimp #3",
+   "d": "2009-02-22",
+   "v": 1527,
+   "s": 41,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. More video of riding inside the Goodyear Blimp. This was a fantastic experience and it just felt like we were floating. This was part of a day experimenting with pizza delivery via dropping a pizza out of a blimp. It was a silly idea, but was made to look very serious on the show. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "oyk77Sz3Wwg",
+   "t": "Prototype This: Flying in the Goodyear Blimp #2",
+   "d": "2009-02-22",
+   "v": 1771,
+   "s": 15,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. More video of riding inside the Goodyear Blimp. This was a fantastic experience and it just felt like we were floating. This was part of a day experimenting with pizza delivery via dropping a pizza out of a blimp. It was a silly idea, but was made to look very serious on the show. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "eZcuLeTN68U",
+   "t": "Prototype This: Flying in the Goodyear Blimp #1",
+   "d": "2009-02-22",
+   "v": 1471,
+   "s": 29,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. More video of riding inside the Goodyear Blimp. This was a fantastic experience and it just felt like we were floating. This was part of a day experimenting with pizza delivery via dropping a pizza out of a blimp. It was a silly idea, but was made to look very serious on the show. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "QY9lOzMtezk",
+   "t": "Prototype This: Autonomous Pizza Delivery Car (Google's Self-Driving Car)",
+   "d": "2009-02-22",
+   "v": 3790,
+   "s": 12,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. Testing of the 510 Systems' autonomous car (which was holding our Pizza Pie Pack unit) This was filmed on a Sunday at 6am on the Bay Bridge in San Francisco, CA. You can see a large amount of traffic behind us, as Caltrans was amazing in shutting down the bridge while this car drove completely by itself. It was a sight to see and I was just expecting it to drive off the bridge :) This autonomous car, created by Anthony Levandowsky, became Google's first Self-Driving Car. More info here: http://w"
+  },
+  {
+   "id": "9JG9dA41ZFs",
+   "t": "Prototype This: Real car controlled with Playstation driving controller testing #3",
+   "d": "2009-02-22",
+   "v": 7730,
+   "s": 60,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Mind Controlled Car/Anger Management Demolition Derby episode. Testing the control system for our remote control cars. Each car is controlled by a Playstation 2 Driving Controller and custom electronics. The signals are fed into a BASIC Stamp, which processes the commands and sends them in a UDP packet over the network to a PC which sends the proper remote control commands to move the car. It was a weird feeling to drive a real car while not being in it. In this video, our esteemed producer, John Tessier, is behind the wheel. Mor"
+  },
+  {
+   "id": "RqOwvcVDEfo",
+   "t": "Prototype This: Get Up and Go testing #1",
+   "d": "2009-02-22",
+   "v": 1948,
+   "s": 35,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Get Up and Go episode. Late night testing of our Get Up and Go sleeping pod before the public demonstration the next day. It is completely computer controlled and uses hydraulics, among other things. More info here: http://www.grandideastudio.com/portfolio/pt-get-up-and-go/"
+  },
+  {
+   "id": "mgrYbEZxcs4",
+   "t": "Prototype This: Get Up and Go testing #3",
+   "d": "2009-02-22",
+   "v": 6581,
+   "s": 128,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Get Up and Go episode. After filming the public demonstration, I was finally able to try out the Get Up and Go pod (except for the showering part). It felt nice to be done with this episode after a few weeks of very late nights. More info here: http://www.grandideastudio.com/portfolio/pt-get-up-and-go/"
+  },
+  {
+   "id": "IpVB6gZrwdQ",
+   "t": "Prototype This: Human climbs cinderblock wall with Gecko Claws",
+   "d": "2009-02-22",
+   "v": 32945,
+   "s": 20,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Gecko Superhuman Suit episode. This is a live, human test of Lyn climbing up a vertical cinderblock wall with our Gecko Claws. More info here: http://www.grandideastudio.com/prototype-this/"
+  },
+  {
+   "id": "5DOdNk4gev0",
+   "t": "Prototype This: Blowing off some steam",
+   "d": "2009-02-22",
+   "v": 1459,
+   "s": 33,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Gecko Superhuman Suit episode. Engineering is stressful. Making TV is stressful. Combine both together like we did and you have some pretty bad days. But, not this day! Somehow, Terry ended up in a gecko suit. The rest speaks for itself. More info here: http://www.grandideastudio.com/prototype-this"
+  },
+  {
+   "id": "0-XhrbWaqmk",
+   "t": "Prototype This: SRI's wall-climbing robot",
+   "d": "2009-02-22",
+   "v": 7224,
+   "s": 16,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Gecko Superhuman Suit episode. We were given a demonstration of this electrostatic adhesion robot created by the folks at SRI in California. This video shows the robot climbing up a vertical surface created by segments of varying materials. More info here: http://www.grandideastudio.com/prototype-this"
+  },
+  {
+   "id": "5yygcz9OnkE",
+   "t": "Prototype This: Future Lifesaver rocket launch test",
+   "d": "2009-02-22",
+   "v": 1320,
+   "s": 36,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Future Lifesaver episode. This is a test of the custom-built rocket sled used to launch our airplane in a very short run-up distance. It was *really* windy that day and, after this crash, the producers canceled the shoot and we all got to go home. More info here: http://www.grandideastudio.com/prototype-this/"
+  },
+  {
+   "id": "0sMuGE33snk",
+   "t": "Prototype This: Coast Guard C-130 Fly-By",
+   "d": "2009-02-22",
+   "v": 2419,
+   "s": 15,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Future Lifesaver episode. During the initial research for this project, Zoz and I were invited to tag along on a real Coast Guard training mission. Zoz is flying in the C-130 above and I'm down on the boat in the middle of Monterey Bay. The goal of this mission was to drop packets of materials (food, gear, etc.) from an airplane to a boat in distress, just like we were going to try and do autonomously (with no human control). More info here: http://www.grandideastudio.com/prototype-this"
+  },
+  {
+   "id": "xKSqB_VnsI4",
+   "t": "Prototype This: Giant Boxing Robots testing",
+   "d": "2009-02-22",
+   "v": 2465,
+   "s": 21,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Boxing Robots episode. Testing of our robots before the final boxing match. These 10-foot robots are controlled by players outside of the ring using accelerometers to determine punch type and optical glyph tracking to sense body position. This data is transmitted to a control PC which will move the hydraulic-based robots in the proper sequences. A Hall Effect sensor is mounted to each robot's head and is used to detect when the robot has been punched hard enough to deplete its \"health.\"  More info here: http://www.grandideastudio"
+  },
+  {
+   "id": "_FU1qBd5Xtw",
+   "t": "Prototype This: Giant Boxing Robots testing",
+   "d": "2009-02-22",
+   "v": 9742,
+   "s": 63,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Boxing Robots episode. Testing of our robots before the final boxing match. These 10-foot robots are controlled by players outside of the ring using accelerometers to determine punch type and optical glyph tracking to sense body position. This data is transmitted to a control PC which will move the hydraulic-based robots in the proper sequences. A Hall Effect sensor is mounted to each robot's head and is used to detect when the robot has been punched hard enough to deplete its \"health.\"  More info here: http://www.grandideastudio"
+  },
+  {
+   "id": "54oMNNkZbGE",
+   "t": "Prototype This: Personal Airbag testing",
+   "d": "2009-02-22",
+   "v": 3143,
+   "s": 7,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. This project was designed to prevent someone from serious injury at a fall of thirty feet. The system used a custom electronic system consisting of a Freescale microprocessor and accelerometer to detect freefall, which triggered a series of solenoids and valves to quickly dump compressed air into the bags. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "rC4W0BPbYG4",
+   "t": "Prototype This: Personal Airbag silly string/accelerometer test",
+   "d": "2009-02-22",
+   "v": 2176,
+   "s": 18,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. A quick hack thrown together to demonstrate the concepts of triggering a solenoid based on motion detected via an accelerometer. The system is based on a DEFCON 15 badge, which has a Freescale QG8 microprocessor and MMA7260 accelerometer. When motion is detected in any of the three axis above a defined threshold, the solenoid is triggered and Silly String spews out. The can was almost empty by the time I took this video. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "1A9Z7UIpces",
+   "t": "Prototype This: Personal Airbag freefall detection test",
+   "d": "2009-02-22",
+   "v": 1631,
+   "s": 82,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. This video is a test of the freefall detection circuitry of our project (which used a Freescale QG8 microprocessor and MMA7260 accelerometer). When freefall is detected for a given amount of feet, an old car airbag is detonated inside this box of popcorn. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "gOYSw-r00sA",
+   "t": "Prototype This: Car Airbag on a Dummy #2, High-Speed Camera",
+   "d": "2009-02-22",
+   "v": 2039,
+   "s": 83,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. Testing various car airbags on poor little Timmy, our plastic dummy. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "EhPEEWu-bp0",
+   "t": "Prototype This: Car Airbag on a Dummy #1, High-Speed Camera",
+   "d": "2009-02-22",
+   "v": 11911,
+   "s": 62,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. Testing various car airbags on poor little Timmy, our plastic dummy. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "884_yDCtXWI",
+   "t": "Prototype This: Car Airbag on a Dummy #1",
+   "d": "2009-02-22",
+   "v": 975,
+   "s": 19,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. Testing various car airbags on poor little Timmy, our plastic dummy. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "7qWw7ctKu9Y",
+   "t": "Prototype This: Car Airbag in a 55 Gallon Drum of Water",
+   "d": "2009-02-22",
+   "v": 3274,
+   "s": 38,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. Ever wonder what happens when you explode a car airbag inside a 55 gallon drum filled with water? We did, too. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/"
+  },
+  {
+   "id": "RRXxQeI1FKs",
+   "t": "Prototype This: 6x6 All-Terrain Robot leg testing",
+   "d": "2009-02-22",
+   "v": 3387,
+   "s": 16,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Six-Legged All-Terrain Vehicle episode. Testing the leg control mechanism. Each leg had a custom drivetrain with closed loop control system that was individually computer controlled. This was a very difficult project to say the least. More info here: http://www.grandideastudio.com/portfolio/pt-six-legged-vehicle/"
+  },
+  {
+   "id": "FT_WMsor9LY",
+   "t": "Prototype This: Waterslide Simulator interior projection",
+   "d": "2009-02-23",
+   "v": 16496,
+   "s": 17,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Backyard Waterslide Simulator episode. This is the projection inside of the waterslide simulator showing the course that the rider is riding. This visual indication, coupled with the movement of the waterslide, really gives the feeling that you're riding. More info here: http://www.grandideastudio.com/portfolio/pt-waterslide-simulator/"
+  },
+  {
+   "id": "0BDHsKMGOEE",
+   "t": "Prototype This: Waterslide Simulator first human test",
+   "d": "2009-02-23",
+   "v": 565833,
+   "s": 38,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Backyard Waterslide Simulator episode. The first human test of our giant 30-foot waterslide simulator by Zoz late at night before the payoff. More info here: http://www.grandideastudio.com/portfolio/pt-waterslide-simulator/"
+  },
+  {
+   "id": "M8Z6rHX4qEI",
+   "t": "Prototype This: Magnetic sensor-controlled ROV, final testing",
+   "d": "2009-02-23",
+   "v": 4196,
+   "s": 41,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Virtual Sea Adventure episode. Final test of the control system for our underwater ROV controller. Control is achieved by using two Melexis MLX90333 3-D Joystick Position Sensors. The user, under water, wears gloves with magnets embedded in the thumbs and moves his thumbs over the sensors to control the various aspects of the ROV. The analog outputs of the sensor's X- and Y-axis are fed through an A/D, into a BASIC Stamp, processed into the proper commands required to control the Seabotix ROV, and transmitted over the network in "
+  },
+  {
+   "id": "-tKP_FjUQ60",
+   "t": "Prototype This: Magnetic sensor demonstration",
+   "d": "2009-02-23",
+   "v": 2990,
+   "s": 16,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Virtual Sea Adventure episode. Simple demonstration of the MLX90333 3-D Magnetic Joystick sensor. The oscilloscope is set to X/Y mode and the X- and Y-axis analog output voltages of the sensor are connected to the channel 1 and 2 inputs, respectively, of the scope. This device was ultimately used to control an ROV while being underwater. More info here: http://www.grandideastudio.com/portfolio/pt-virtual-sea-adventure/"
+  },
+  {
+   "id": "Wqm45YF8igo",
+   "t": "Prototype This: Magnetic sensor connected to an Etch-a-Sketch",
+   "d": "2009-02-23",
+   "v": 5746,
+   "s": 23,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Virtual Sea Adventure episode. This is a simple demonstration of using a Melexis MLX90333 3-D Joystick Position sensor to control the two axis of an Etch-a-Sketch. The sensor detects a position of a magnet over its face in X and Y dimensions. The analog output signals are fed through an A/D into a BASIC Stamp which sends the proper PWM pulses to the servos. This system was ultimately used in the build to control the ROV while under water. More info here: http://www.grandideastudio.com/portfolio/pt-virtual-sea-adventure/"
+  },
+  {
+   "id": "bTZgHtkd_WM",
+   "t": "Prototype This: Traffic Busting Truck testing",
+   "d": "2009-02-23",
+   "v": 52571,
+   "s": 16,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Traffic Busting Truck episode. Testing our truck that can elevate itself, drive over traffic, move in any direction, and autonomously park. This video was the first time we had it up on its legs and we had no idea what would happen. More info here: http://www.grandideastudio.com/portfolio/pt-traffic-busting-truck/"
+  },
+  {
+   "id": "N-ETKfkhta8",
+   "t": "Prototype This: Omni-directional couch testing",
+   "d": "2009-02-23",
+   "v": 40972,
+   "s": 37,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Traffic Busting Truck episode. This was a test couch that we built to verify the functionality and control of the Airtrax omnidirectional (Mecanum) wheels. Control is achieved by a wireless Playstation 2 controller, its data being received by a BASIC Stamp and processed to send the required analog voltages to the Airtrax control box. More info here: http://www.grandideastudio.com/portfolio/pt-traffic-busting-truck/"
+  },
+  {
+   "id": "cTwZkb5nEZA",
+   "t": "Prototype This: Couch surfing",
+   "d": "2009-02-23",
+   "v": 4325,
+   "s": 33,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Traffic Busting Truck episode. Surf's up for Zoz as he rides our omnidirectional couch. Control is achieved by a wireless Playstation 2 controller, its data being received by a BASIC Stamp and processed to send the required analog voltages to the Airtrax control box. More info here: http://www.grandideastudio.com/portfolio/pt-traffic-busting-truck/"
+  },
+  {
+   "id": "I8wc4Sc6Qbk",
+   "t": "Prototype This: Autonomous parking couch",
+   "d": "2009-02-23",
+   "v": 21687,
+   "s": 27,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Traffic Busting Truck episode. This video shows our first successful test of the autonomous parking couch. The system uses Airtrax omnidirectional (Mecanum) wheels and a variety of sensors (ultrasonic, infrared, and stereo vision) to move forward along a length of cars until it detects a space large enough for it to slide into. Then, it moves sideways until it detects a curb (or, in our case, a piece of wood). There is absolutely no human interaction here at all. More info here: http://www.grandideastudio.com/portfolio/pt-traffic"
+  },
+  {
+   "id": "5Kj0WNs5RUE",
+   "t": "Prototype This: Waterslide Simulator testing",
+   "d": "2009-02-23",
+   "v": 4734958,
+   "s": 14,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Backyard Waterslide Simulator episode. This video was taken during the many days of control system testing and tweaking of our 30-foot computer-controlled waterslide simulator. The system had a series of hydraulics to lift, tilt, and spin the simulator. I still can't believe it actually worked! More info here: http://www.grandideastudio.com/portfolio/pt-waterslide-simulator/"
+  },
+  {
+   "id": "BtdoSM2ggPI",
+   "t": "Prototype This: The Pizza Pie Pack",
+   "d": "2009-02-24",
+   "v": 3105,
+   "s": 58,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Autonomous Pizza Delivery episode. Here's a short video I made showing the features of the Pizza Pie Pack (magnetic stripe reading, motor control, optical sensing) the night before our big payoff. Based on a Parallax BS2. More info here: http://www.grandideastudio.com/portfolio/pt-automated-pizza-delivery/"
+  },
+  {
+   "id": "Z1P5QDgR2tw",
+   "t": "Prototype This: Robo Dog Sitter testing",
+   "d": "2009-02-24",
+   "v": 5126,
+   "s": 32,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Robo Dog Sitter episode. This system is a fully autonomous robotic dog sitter complete with video conferencing capabilities, remote tug-o-war, ball fetch mechanism, and treat dispenser. It can remotely trigger a door to open, which is what we were testing here before the payoff. More info here: http://www.grandideastudio.com/prototype-this/"
+  },
+  {
+   "id": "gID5sXMURoQ",
+   "t": "Prototype This: Personal Airbag PCB fabrication",
+   "d": "2009-04-02",
+   "v": 4480,
+   "s": 73,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This from the Wearable Airbag episode. This is a video of fabricating the freefall detection circuit board of our project using the T-Tech Quickcircuit 5000 PCB prototyping machine. This video is at 20x speed. The actual board only took about 20 minutes to complete, which was a lifesaver in the \"need it now\" world of TV production. More info here: http://www.grandideastudio.com/portfolio/pt-wearable-airbag/ and http://www.t-tech.com"
+  },
+  {
+   "id": "1Rw6yL0OsF8",
+   "t": "DC17 Badge Hack: Pseudo Random Lighty Pathy Thing",
+   "d": "2009-08-11",
+   "v": 463,
+   "s": 51,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Pseudo Random Lighty Pathy Thing by Lunin. LED movement based on some PRNG * Fibonacci sequence wackiness."
+  },
+  {
+   "id": "yY1r0x8Drfk",
+   "t": "DC17 Badge Hack: External OLED Display",
+   "d": "2009-08-11",
+   "v": 888,
+   "s": 95,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. OLED Display playing DEFCON videos via SD card (no badge connection) by Scott"
+  },
+  {
+   "id": "3lzvi9prqho",
+   "t": "DC17 Badge Hack: Breathalyzer Add-on",
+   "d": "2009-08-11",
+   "v": 1894,
+   "s": 59,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Breathalyzer Add-on (no badge connection) by Kajer."
+  },
+  {
+   "id": "imv3VvzsK8o",
+   "t": "DC17 Badge Hack: CD Player",
+   "d": "2009-08-11",
+   "v": 1083,
+   "s": 22,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. DEFCON \"CD Player\" by John & Nathan"
+  },
+  {
+   "id": "5wYG92ULTq0",
+   "t": "DC17 Badge Hack: Complete Seven-Badge LED Animation",
+   "d": "2009-08-11",
+   "v": 1207,
+   "s": 86,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Super Mekka Uber Badge Hack by Smitty & The Minions/Team Halibut. This was the only team to combine all seven badges together and take advantage of the badge-to-badge communication feature. They modified the stock firmware to perform some LED animations across all of the badges. Honorable Mention in the DC17 Badge Hacking Contest."
+  },
+  {
+   "id": "2qAgzQ_osf0",
+   "t": "DC17 Badge Hack: White LED Bling",
+   "d": "2009-08-11",
+   "v": 544,
+   "s": 25,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. White LED bling w/ pedometer hack (no badge connection) by Amber"
+  },
+  {
+   "id": "qZM1XXWF0jc",
+   "t": "DC17 Badge Hack: BBBS (Badge Bulletin Board System)",
+   "d": "2009-08-12",
+   "v": 1272,
+   "s": 234,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. BBBS (Badge Bulletin Board System) by Jason Scott and Mark Renouf. Unfortunately, they ran into problems and couldn't complete the hack, but it would have been epic!"
+  },
+  {
+   "id": "h9yZt9_XwI4",
+   "t": "DC17 Badge Hack: OLED Display w/ Bluetooth Scanner",
+   "d": "2009-08-12",
+   "v": 1947,
+   "s": 39,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. OLED Display w/ Bluetooth Scanner and Real-time Microphone Input Power Meter by Sunshine"
+  },
+  {
+   "id": "DL97t5qGhoA",
+   "t": "DC17 Badge Hack: Light Beer Fetcher",
+   "d": "2009-08-12",
+   "v": 616,
+   "s": 54,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Light (based) Beer Fetcher (did not completely function) by Team :(){:|:&amp;};:"
+  },
+  {
+   "id": "qmyxucZOkOI",
+   "t": "DC17 Badge Hack: Multifunction Dialer & Voice Amplifier",
+   "d": "2009-08-12",
+   "v": 1185,
+   "s": 67,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Multifunction Dialer & Voice Amplifier by 501d3r Guy. Three different modes:\r\n1) Blue box/MF\r\n2) DTMF\r\n3) Voice amplifier\r\n\r\nCould easily be expanded to support other tone/frequency generation. 3rd place winner in the DC17 Badge Hacking Contest."
+  },
+  {
+   "id": "i6lOUM3YTAU",
+   "t": "DC17 Badge Hack: Anti-Surveillance System",
+   "d": "2009-08-12",
+   "v": 5689,
+   "s": 195,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Anti-Surveillance System by Zoz. 1st place winner in the DC17 Badge Hacking Contest. This entry comprised two phases:\r\n\r\n1) Defeating automated facial recognition systems by generating alternating colors and patterns of light (based on research demonstrated at the 2006 ACE, Advances in Computer Entertainment) at a frequency slightly less than 60Hz.\r\n\r\n2) Defeating PIR motion sensors ala the movie Sneakers using the DEFCON 16 Badge. This badge had a temperature sensor to let you know when the room was the proper ambient temperature (body temperature is "
+  },
+  {
+   "id": "OmkUjiEKGyE",
+   "t": "DC17 Badge Hack: WiFi Jammer",
+   "d": "2009-08-12",
+   "v": 18130,
+   "s": 53,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. WiFi Jammer by EZ$. External VCO hacked from digital camera and controlled from the badge's RGB LED output."
+  },
+  {
+   "id": "TqDVnGOWvUk",
+   "t": "DC17 Badge Hack: Polygraph Test",
+   "d": "2009-08-12",
+   "v": 732,
+   "s": 63,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Polygraph Test (GSR & heart rate) by Whopis. Sorry, I stopped the video before he started asking all sorts of incriminating questions!"
+  },
+  {
+   "id": "fMLzOcnfUSU",
+   "t": "DC17 Badge Hack: Pseudo Accelerometer LED Output",
+   "d": "2009-08-12",
+   "v": 376,
+   "s": 35,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Pseudo Accelerometer LED Output by Matt (intended to be a musical device, but he ran out of time)"
+  },
+  {
+   "id": "2_gEeffx8t8",
+   "t": "DC17 Badge Hack: Geiger Counter RNG",
+   "d": "2009-08-12",
+   "v": 564,
+   "s": 69,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Geiger counter-based RNG w/ serial output by Optimized Tomfoolery"
+  },
+  {
+   "id": "2Ozeearn_PU",
+   "t": "DC17 Badge Hack: Shake to Reset",
+   "d": "2009-08-12",
+   "v": 522,
+   "s": 21,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Mercury Switch Reset (\"Shake to reset\" to avoid sleep mode) by Austin"
+  },
+  {
+   "id": "Wg26R7zBJRI",
+   "t": "DC17 Badge Hack: 32-bin FFT",
+   "d": "2009-08-12",
+   "v": 724,
+   "s": 41,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. 32-bin FFT (\"Fffft!\") by Simap. Features 15 LED FFT output (from 32 audio samples), PWM output for the 15 LEDs, & selective display of stronger frequencies (otherwise all of the LEDs light up and you can't really tell) but can show multiple frequencies."
+  },
+  {
+   "id": "JNID79AzlCc",
+   "t": "DC17 Badge Hack: Sound-Fearing Blimp",
+   "d": "2009-08-12",
+   "v": 1193,
+   "s": 77,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. Sound-Fearing Blimp (Vector Thrust w/ 3 badges) by Team Hack The Badge. This was the 2nd place winner in the DC17 Badge Hacking Contest."
+  },
+  {
+   "id": "mfoKBLRm1cw",
+   "t": "Dutch Hacker Video via 2600 Magazine (1991, Part 1 of 3)",
+   "d": "2009-11-26",
+   "v": 23916,
+   "s": 541,
+   "vertical": false,
+   "desc": "The infamous home video released by 2600 Magazine in Autumn 1991 showing Dutch hackers accessing US Department of Defense (military) computers. The video was meant to exemplify the poor state of computer security. No harm was done to the systems. More details here:\r\n\r\nhttp://servv89pn0aj.sn.sourcedns.com/~gbpprorg/2600/hacker_video.txt\r\n\r\nThis was transferred from an original VHS tape and, as such, the audio and video are of sub-standard quality. \r\n\r\nThanks to YouTube's 10 minute limit, this video is part 1 of 3."
+  },
+  {
+   "id": "gHQ5DZFJ1Dg",
+   "t": "Dutch Hacker Video via 2600 Magazine (1991, Part 3 of 3)",
+   "d": "2009-11-27",
+   "v": 4364,
+   "s": 409,
+   "vertical": false,
+   "desc": "The infamous home video released by 2600 Magazine in Autumn 1991 showing Dutch hackers accessing US Department of Defense (military) computers. The video was meant to exemplify the poor state of computer security. No harm was done to the systems. More details here:\r\n\r\nhttp://servv89pn0aj.sn.sourcedns.com/~gbpprorg/2600/hacker_video.txt\r\n\r\nThis was transferred from an original VHS tape and, as such, the audio and video are of sub-standard quality. \r\n\r\nThanks to YouTube's 10 minute limit, this video is part 3 of 3."
+  },
+  {
+   "id": "3ZU2DHcjrcI",
+   "t": "Dutch Hacker Video via 2600 Magazine (1991, Part 2 of 3)",
+   "d": "2009-11-27",
+   "v": 3575,
+   "s": 541,
+   "vertical": false,
+   "desc": "The infamous home video released by 2600 Magazine in Autumn 1991 showing Dutch hackers accessing US Department of Defense (military) computers. The video was meant to exemplify the poor state of computer security. No harm was done to the systems. More details here:\r\n\r\nhttp://servv89pn0aj.sn.sourcedns.com/~gbpprorg/2600/hacker_video.txt\r\n\r\nThis was transferred from an original VHS tape and, as such, the audio and video are of sub-standard quality. \r\n\r\nThanks to YouTube's 10 minute limit, this video is part 2 of 3."
+  },
+  {
+   "id": "jYlmAZmb-Nc",
+   "t": "DC18 Badge Hack: Web-of-Trust",
+   "d": "2010-08-08",
+   "v": 4739,
+   "s": 219,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Web-of-Trust by Bo. Sharing of unique IDs between badges over USB. Determines degrees of separation using Bloom filter."
+  },
+  {
+   "id": "2Ikr2Za28-8",
+   "t": "DC18 Badge Hack: XXX Interactive",
+   "d": "2010-08-08",
+   "v": 38200,
+   "s": 53,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. By Team Tardfest. Not for the faint of heart! Adult-themed game."
+  },
+  {
+   "id": "HS31gsd3a9M",
+   "t": "DC18 Badge Hack: Virus Propagation",
+   "d": "2010-08-08",
+   "v": 3402,
+   "s": 147,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. 2nd place winner. \"STD In\" by Team Redacted. Virus propagation and social network analysis. Passing \"friendly\" virus between DC17 or DC18 badges with capability to track propagation path and originator."
+  },
+  {
+   "id": "gmcSNHbBhvI",
+   "t": "DC18 Badge Hack: TV-B-Gone",
+   "d": "2010-08-08",
+   "v": 3225,
+   "s": 77,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Long-range TV-B-Gone implementation by S0ld3r Guy and 14rG0 (Largo, the youngest entrant at 13 years old!)"
+  },
+  {
+   "id": "4NHx1is7xxo",
+   "t": "DC18 Badge Hack: Slot Machine",
+   "d": "2010-08-08",
+   "v": 47445,
+   "s": 62,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Slot Machine aka \"DEFCON Slots\" by Red Lambda. What better way to enjoy Vegas (without losing your shirt) than to play slots on your badge? PRNG w/ nice character/graphic set."
+  },
+  {
+   "id": "gmrk3jpqZOg",
+   "t": "DC18 Badge Hack: RFID & Barcode Emulator",
+   "d": "2010-08-08",
+   "v": 3882,
+   "s": 50,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. \"Retail Ripper\" by Sk3tch. Two part hack: UPC barcode emulation and 125kHz RFID emulator. Both identifiers set in source code."
+  },
+  {
+   "id": "7WGOu6TgpkE",
+   "t": "DC18 Badge Hack: Porn Theater",
+   "d": "2010-08-08",
+   "v": 3048,
+   "s": 27,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Porn Theater by Optimized Tomfoolery. Not for the faint of heart! Adult-themed slideshow with 4-bit audio generation using resistor ladder."
+  },
+  {
+   "id": "ist2KdcA_R0",
+   "t": "DC18 Badge Hack: \"You're Busted\" Police Lights",
+   "d": "2010-08-08",
+   "v": 3534,
+   "s": 62,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. \"You're Busted\" alternating red/blue police lights by Brad C."
+  },
+  {
+   "id": "V6V1-n8zYjs",
+   "t": "DC18 Badge Hack: Personal Oscilloscope",
+   "d": "2010-08-08",
+   "v": 2536,
+   "s": 68,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Personal oscilloscope by Austin. Uses standard oscilloscope probe and displays the measured voltage level over time on the badge's LCD."
+  },
+  {
+   "id": "y0JMsxrQ-64",
+   "t": "DC18 Badge Hack: Paper Badge Display",
+   "d": "2010-08-08",
+   "v": 2079,
+   "s": 34,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. \"Accidental Badge Surplus\" paper badge display by Autocracy. Making the most of an unfortunate situation!"
+  },
+  {
+   "id": "G-y5gKVUBKE",
+   "t": "DC18 Badge Hack: DEFCON + Ninja Badge Combo",
+   "d": "2010-08-08",
+   "v": 3107,
+   "s": 63,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Dancing Badge w/ Ninja Party Badge Bruteforcer by Team Bashfork :(){:|:&};:"
+  },
+  {
+   "id": "fNx3_yTPCks",
+   "t": "DC18 Badge Hack: DEFCON Super Rocker 18 Guitar",
+   "d": "2010-08-08",
+   "v": 8423,
+   "s": 107,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. DEFCON Super Rocker 18 Guitar by Mossmann. Contains a stroboscopic tuner and optical pickups (not fully functioning yet)."
+  },
+  {
+   "id": "FE0R9OpGI94",
+   "t": "DC18 Badge Hack: GoatBar UPC Barcode Writer/Emulator",
+   "d": "2010-08-08",
+   "v": 26412,
+   "s": 143,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. 1st place winner! UPC-A and UPC-E barcode writer/emulator by Brad Threatt. Take advantage of the self-checkout lines by entering a lower-priced item into your badge using the nice GUI, scanning the badge with the laser, and placing the higher-priced item into your bag."
+  },
+  {
+   "id": "BlLirAwGg1A",
+   "t": "DC18 Badge Hack: Flava Flav Badge",
+   "d": "2010-08-08",
+   "v": 1051,
+   "s": 24,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Segmented image of Flava Flav shown on LCD with bonus image at the end by Tim."
+  },
+  {
+   "id": "6Cnb7MZoTzY",
+   "t": "DC18 Badge Hack: Coffee/Drink Mixer",
+   "d": "2010-08-08",
+   "v": 1629,
+   "s": 53,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Coffee/Drink Mixer using transistor and DC motor by Bryce. LCD screen displays image when drink is properly mixed."
+  },
+  {
+   "id": "wH8AG4cotCQ",
+   "t": "DC18 Badge Hack: Boob-Ma-Tron",
+   "d": "2010-08-08",
+   "v": 1425,
+   "s": 23,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. Nokia LCD w/ animation by Dustin C."
+  },
+  {
+   "id": "Ac_-adr0nK8",
+   "t": "DC18 Badge Hack: The Badge-A-Lyzer",
+   "d": "2010-08-08",
+   "v": 1780,
+   "s": 92,
+   "vertical": false,
+   "desc": "From the DEFCON 18 Badge Hacking Contest. 3rd place winner. Breath-a-lyzer by Dan Z. using alcohol sensor and LCD to display current level of intoxication (Noob, Hacker, Goon)."
+  },
+  {
+   "id": "5yJvfYOR3Wg",
+   "t": "DC17 Badge Hack: Sound-Controlled Robot",
+   "d": "2010-08-08",
+   "v": 998,
+   "s": 29,
+   "vertical": false,
+   "desc": "From the DEFCON 17 Badge Hacking Contest. \"Mad Max Bot\" Sound-Controlled Robot by EZ$"
+  },
+  {
+   "id": "-h5ctq7dE9k",
+   "t": "LRF: Optical Triangulation w/ CMUCam2 and Freescale QG8",
+   "d": "2010-10-13",
+   "v": 2357,
+   "s": 284,
+   "vertical": false,
+   "desc": "My experiments during the development of a low-cost Laser Range Finder module for Parallax. This early prototype demonstrates the feasibility of using optical triangulation to determine the distance to a targeted object. \n\nFurther information about the module is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "BlQhr8Jtl_A",
+   "t": "LRF: High-Speed Pulse Generator and Detector",
+   "d": "2010-10-13",
+   "v": 3352,
+   "s": 116,
+   "vertical": false,
+   "desc": "My experiments during the development of a low-cost Laser Range Finder module for Parallax. This video shows a high-speed pulse generator and detector that I was planning to use for a time-of-flight based ranging system. This approach was ultimately scrapped in favor of optical triangulation using a laser diode and CMOS camera. \n\nFurther information about the final product is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "URqUYhg4IvI",
+   "t": "LRF: Frame Grabber Demonstration",
+   "d": "2011-02-10",
+   "v": 7691,
+   "s": 110,
+   "vertical": false,
+   "desc": "Demonstration of a very early version of the frame grabber subsystem for the Laser Range Finder module I'm designing for Parallax. The system uses a Propeller processor and Omnivision OVM7690 CMOS camera. \n\nFurther information about the module is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "VVJldn_MmMY",
+   "t": "Hackers Testifying at the United States Senate, May 19, 1998 (L0pht Heavy Industries)",
+   "d": "2011-03-14",
+   "v": 563433,
+   "s": 3544,
+   "vertical": false,
+   "desc": "L0pht Heavy Industries testifying before the United States Senate Committee on Governmental Affairs, Live feed from CSPAN, May 19, 1998. Starring Brian Oblivion, Kingpin (Joe Grand), Tan, Space Rogue, Weld Pond, Mudge, and Stefan von Neumann. \n\nThis is the infamous testimony where Mudge stated we could take down the Internet in 30 minutes. Although that's all the media took from it, much more was discussed. See for yourself."
+  },
+  {
+   "id": "MqYRM6calOI",
+   "t": "LRF: Demonstrations of the Parallax Laser Range Finder Module",
+   "d": "2011-06-02",
+   "v": 12248,
+   "s": 371,
+   "vertical": false,
+   "desc": "Four demonstrations of the Laser Range Finder module I've recently designed for Parallax. The module uses optical triangulation to determine the distance to a targeted object. \n\nThis video features firmware v1.0. The command and feature set has since changed (slightly). The latest firmware can always be retrieved from: http://www.github.com/grandideastudio/laser-range-finder/\n\nFurther information about the module and source code for these demonstrations is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "1gk_tRbJO84",
+   "t": "LRF: Laser Range Finder Module Calibration",
+   "d": "2011-06-03",
+   "v": 5836,
+   "s": 226,
+   "vertical": false,
+   "desc": "Explaining and demonstrating the calibration functionality of the Laser Range Finder module I designed for Parallax. The module uses optical triangulation to determine the distance to a targeted object. \n\nThis video features firmware v1.0. The command and feature set has since changed (slightly). The latest firmware can always be retrieved from: http://www.github.com/grandideastudio/laser-range-finder/\n\nFurther information about the module is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "iHvMl2scUdA",
+   "t": "LRF: Demonstration of the Parallax LRF Image Viewer",
+   "d": "2011-06-04",
+   "v": 2082,
+   "s": 278,
+   "vertical": false,
+   "desc": "Demonstrating the LRF Image Viewer application for Windows. This tool can be used to evaluate and control the Parallax Laser Range Finder module, including taking pictures with the camera and saving them as bitmaps. \n\nThis video features version 1.0. The commands and feature set has since changed (slightly). The latest version of the tool can always be retrieved from: https://www.parallax.com/downloads/laser-range-finder-image-viewer/\n\nFurther information about the module (and full source code for this tool) is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/l"
+  },
+  {
+   "id": "bvmT9h9ghk0",
+   "t": "LRF: Using the Parallax Laser Range Finder with Freescale's FSLBOT",
+   "d": "2011-06-11",
+   "v": 2788,
+   "s": 135,
+   "vertical": false,
+   "desc": "Using Freescale's new FSLBOT (http://freescale.com/mechbot/) with the Laser Range Finder module I've recently designed for Parallax. The robot walks/waddles forward until it becomes too close to an object, then stops until the object goes away. \n\nFurther information about the module (and source code for this demo) is available at http://www.parallax.com and http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "ihbntld4lgk",
+   "t": "Dialight Countdown Pedestrian Signal Complete Cycle w/ Learning Phase",
+   "d": "2011-06-28",
+   "v": 23684,
+   "s": 42,
+   "vertical": false,
+   "desc": "I picked up this Dialight 430-6479-001F Countdown Pedestrian Signal at a surplus store in Florida last year and thought it would be cool to get it working and mount it in my house. \r\n\r\nI used a BASIC Stamp II with EFK-TEK RC-4 SSR board to switch on and off the four control lines (AC hot) from the independent icon and timer modules on the signal. Upon power-up, the countdown timer enters a \"learning phase.\" The timer is programmed by flashing the Upraised Hand icon (whose hot is joined with a hot of the timer module). During the learning phase, the timer side is blank. On subsequent cycles, th"
+  },
+  {
+   "id": "JGjKC_pbxSI",
+   "t": "Dialight Countdown Pedestrian Signal w/ BS2 Controller",
+   "d": "2011-06-28",
+   "v": 7961,
+   "s": 82,
+   "vertical": false,
+   "desc": "I picked up this Dialight 430-6479-001F Countdown Pedestrian Signal at a surplus store in Florida last year and thought it would be cool to get it working and mount it in my house. \r\n\r\nI used a BASIC Stamp II with EFK-TEK RC-4 SSR board to switch on and off the four control lines (AC hot) from the independent icon and timer modules on the signal. All circuitry is affixed to the back with velcro for easy rework (except the terminal block, which has double-sided foam tape that is more rigid).\r\n\r\nMore information, including BS2 source code, is available at http://www.grandideastudio.com/portfolio"
+  },
+  {
+   "id": "liDs6JZH9cY",
+   "t": "Dialight Countdown Pedestrian Signal Final Installation",
+   "d": "2011-09-14",
+   "v": 28045,
+   "s": 42,
+   "vertical": false,
+   "desc": "I picked up this Dialight 430-6479-001F Countdown Pedestrian Signal at a surplus store in Florida last year and thought it would be cool to get it working and mount it in my house. \r\n\r\nI used a BASIC Stamp II with EFK-TEK RC-4 SSR board to switch on and off the four control lines (AC hot) from the independent icon and timer modules on the signal. Upon power-up, the countdown timer enters a \"learning phase.\" The timer is programmed by flashing the Upraised Hand icon (whose hot is joined with a hot of the timer module). During the learning phase, the timer side is blank. On subsequent cycles, th"
+  },
+  {
+   "id": "D2q0gXXFVro",
+   "t": "LRF + Game Boy Printer Hack: Joe says \"Cheese!\"",
+   "d": "2011-11-29",
+   "v": 2654,
+   "s": 33,
+   "vertical": false,
+   "desc": "Combining the Parallax Laser Range Finder module (http://www.grandideastudio.com/portfolio/laser-range-finder/) with an old school Game Boy Printer to create a portable, picture-taking contraption. \n\nInspired by furrtek's work on reverse engineering the Game Boy Printer interface (http://furrtek.free.fr/index.php?p=crea&a=gbpcable&i=2). \n\nSource code and schematics available at the LRF module link above. Details of the system can be found at http://youtu.be/-KndnqWfHv4"
+  },
+  {
+   "id": "-KndnqWfHv4",
+   "t": "LRF + Game Boy Printer Hack: System Details",
+   "d": "2011-11-30",
+   "v": 18116,
+   "s": 162,
+   "vertical": false,
+   "desc": "Combining the Parallax Laser Range Finder module (http://www.grandideastudio.com/portfolio/laser-range-finder/) with an old school Game Boy Printer to create a portable, picture-taking contraption. \n\nInspired by furrtek's work on reverse engineering the Game Boy Printer interface (http://furrtek.free.fr/index.php?p=crea&a=gbpcable&i=2). \n\nSource code and schematics available at the LRF module link above."
+  },
+  {
+   "id": "vJszLtaIyIk",
+   "t": "Using Tribble to extract RAM from an active computer system",
+   "d": "2012-05-11",
+   "v": 7887,
+   "s": 195,
+   "vertical": false,
+   "desc": "Demonstration of extracting volatile memory from an active computer system using the proof-of-concept Tribble device. Tribble accesses the target's memory directly through DMA via the PCI bus and does not require any software or drivers to be loaded.\n\nThis project was originally developed by Joe Grand of Grand Idea Studio and Brian Carrier circa 2000-2003 and brought back to life in May 2012. More information on the project, including technical details, can be found at http://www.grandideastudio.com/portfolio/tribble/"
+  },
+  {
+   "id": "Ngb69HvGE7g",
+   "t": "MakerBotting an Atari 2600 Cartridge",
+   "d": "2012-05-17",
+   "v": 4190,
+   "s": 77,
+   "vertical": false,
+   "desc": "This is a housing design for an Atari 2600/VCS cartridge. It will hold a standard Atari PCB or suitable replacement. The three parts were created using a MakerBot Thing-o-Matic. Get the 3D files and more information from http://www.thingiverse.com/thing:23216"
+  },
+  {
+   "id": "lP3Gy6b2kh0",
+   "t": "Youth of Today: Take a Stand, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 514,
+   "s": 99,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "21jo2l8oXYY",
+   "t": "Youth of Today: Make a Change, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 307,
+   "s": 78,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "U7z22WmAAek",
+   "t": "Youth of Today: Flame Still Burns, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 444,
+   "s": 97,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "Jn0H5QqQdPI",
+   "t": "Youth of Today: Disengage, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 374,
+   "s": 141,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "0aq1z1qyzEY",
+   "t": "Youth of Today: Break Down the Walls, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 257,
+   "s": 128,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "Y1DJbwX5gvE",
+   "t": "Sick of it All: Injustice System, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 343,
+   "s": 111,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "m3Yj8gFyEvI",
+   "t": "Sick of It All: Built to Last/Clobberin Time, Revelation 25th Anniversary, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 521,
+   "s": 178,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "C53f5v2wx5w",
+   "t": "No For An Answer: Just Say No, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 561,
+   "s": 128,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "CGIeu7dDjrg",
+   "t": "Gorilla Biscuits: New Direction, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 460,
+   "s": 196,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "n_ivgdsSuQ4",
+   "t": "BOLD: Talk is Cheap, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 655,
+   "s": 102,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "f-82aeduaN0",
+   "t": "BOLD: Running Like Thieves, Revelation 25th Anniversary @ The Glass House, June 9, 2012",
+   "d": "2012-06-18",
+   "v": 1241,
+   "s": 154,
+   "vertical": false,
+   "desc": "Revelation 25th Anniversary @ The Glass House, Pomona, CA, Saturday, June 9, 2012"
+  },
+  {
+   "id": "O3KxTVW9H7E",
+   "t": "Emic 2-to-Elmo: PCB Fabrication Time Lapse",
+   "d": "2012-07-03",
+   "v": 2517,
+   "s": 474,
+   "vertical": false,
+   "desc": "Time lapse of PCB fabrication at 20x speed for the Emic 2-to-Elmo hack using the T-Tech QuickCircuit 5000 prototyping system.\r\n\r\nA video about the actual hack can be found at http://youtu.be/_LWNvk0_v1s\r\n\r\nMore information about the Emic 2 Text-to-Speech Module can be found at http://www.parallax.com (search for #30016) and http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/"
+  },
+  {
+   "id": "_LWNvk0_v1s",
+   "t": "Emic 2-to-Elmo Hack",
+   "d": "2012-07-03",
+   "v": 10872,
+   "s": 296,
+   "vertical": false,
+   "desc": "What happens when you combine a broken Elmo Play-a-Song toy with the Emic 2 Text-to-Speech Module? A useful demonstration/test platform!\r\n\r\nTime lapse of PCB fabrication can be found at http://youtu.be/O3KxTVW9H7E\r\n\r\nTime lapse of PCB assembly can be found at http://youtu.be/Ua4wKUGUo2M\r\n\r\nMore information about the Emic 2 Text-to-Speech Module can be found at http://www.parallax.com (search for #30016) and http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/"
+  },
+  {
+   "id": "Ua4wKUGUo2M",
+   "t": "Emic 2-to-Elmo: PCB Assembly Time Lapse",
+   "d": "2012-07-03",
+   "v": 1121,
+   "s": 62,
+   "vertical": false,
+   "desc": "Time lapse video of PCB assembly for the Emic 2-to-Elmo hack at 20x speed. \r\n\r\nA video about the actual hack can be found at http://youtu.be/_LWNvk0_v1s\r\n\r\nMore information about the Emic 2 Text-to-Speech Module can be found at http://www.parallax.com (search for #30016) and http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/"
+  },
+  {
+   "id": "vDElgpRNjeY",
+   "t": "Emic 2: Singing \"Daisy Bell\"",
+   "d": "2012-07-03",
+   "v": 9268,
+   "s": 27,
+   "vertical": false,
+   "desc": "My Emic 2 text-to-speech module prototype singing Daisy Bell (http://en.wikipedia.org/wiki/Daisy_Bell)"
+  },
+  {
+   "id": "Ot1MgBch0MA",
+   "t": "Emic 2: Command Set Demonstration",
+   "d": "2012-07-03",
+   "v": 9524,
+   "s": 333,
+   "vertical": false,
+   "desc": "Demonstrating the available commands of the Emic 2 Text-to-Speech module. The Emic 2 in this video is running a beta version of firmware - the commands/features have changed slightly in the production version."
+  },
+  {
+   "id": "wRuwW1u4228",
+   "t": "Emic 2: Early Prototype Demonstration",
+   "d": "2012-07-03",
+   "v": 1237,
+   "s": 182,
+   "vertical": false,
+   "desc": "Demonstration of an early prototype of the newly revised Emic text-to-speech module."
+  },
+  {
+   "id": "lZPD8VF0Cwo",
+   "t": "Four Emic 2s Sing a Round of \"Row, Row, Row Your Boat\"",
+   "d": "2012-11-27",
+   "v": 14620,
+   "s": 31,
+   "vertical": false,
+   "desc": "A quick hack using four Emic 2 Text-to-Speech modules (Parallax #30016) and a Propeller QuickStart to sing a round of \"Row, Row, Row Your Boat.\" (http://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat) Each Emic 2 module provides a different voice into the round. The audio is mixed and output to the external speaker.  \n\nEngineering documentation for this project is available from: http://www.grandideastudio.com/portfolio/emic-2-text-to-speech-module/ \n\nDevelopment photos are available from: http://www.flickr.com/photos/joesmooth/sets/72157632118930172/"
+  },
+  {
+   "id": "uVIsbXzQOIU",
+   "t": "JTAGulator: Introduction and Demonstration",
+   "d": "2013-05-07",
+   "v": 43177,
+   "s": 337,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides an overview of the tool and a demonstration of JTAG discovery using firmware v1.0 (April 24, 2013). \n\nSince this video was made, new commands and features have been added. See the updated video here: https://youtu.be/NWTNH1RgUZc\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nFirmware and documentation: https://github.com/grandideastudio/jtagulator/wiki"
+  },
+  {
+   "id": "yYCDOWI1xfo",
+   "t": "JTAGulator: UART Discovery",
+   "d": "2013-08-01",
+   "v": 6671,
+   "s": 264,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides a demonstration of the UART discovery features using firmware v1.1 (August 1, 2013). \n\nSince this video was made, new commands and features have been added. See the updated video here: https://youtu.be/NWTNH1RgUZc\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nFirmware and documentation: https://github.com/grandideastudio/jtagulator/wiki"
+  },
+  {
+   "id": "VZedQH9FHiw",
+   "t": "The OpenXC Van-Go",
+   "d": "2013-08-19",
+   "v": 5854,
+   "s": 140,
+   "vertical": false,
+   "desc": "Using live automobile data extracted from a Ford car via the OpenXC interface to draw colorful abstract art with Super-Awesome Sylvia's WaterColorBot. This project was created during Boing Boing's Ingenuity hackathon on August 17, 2013 by Joe Grand, Ben Krasnow, Super-Awesome Sylvia, and Super-Awesome Sylvia's Dad (TechNinja). \n\nPhotos of the build process can be found here: http://imgur.com/a/ZvDA9\nMore information on the hackathon can be found here: http://boingboing.net/2013/08/17/data-driven-hackathon-kicks-of.html"
+  },
+  {
+   "id": "DFjXTcTscm0",
+   "t": "Judge: Take Me Away @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 2257,
+   "s": 204,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "OXYTwUKgIkM",
+   "t": "Judge: Fed Up @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 1265,
+   "s": 141,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "0huNtNHOE3o",
+   "t": "H2O: Thicker Than Water @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 1256,
+   "s": 27,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "e5f62-pDGps",
+   "t": "H2O: Still Here @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 1455,
+   "s": 103,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "Qhw08yo-NUE",
+   "t": "H2O: Nothing to Prove @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 25280,
+   "s": 168,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "b0MG0gHIkig",
+   "t": "7 Seconds: Young 'Til I Die @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 1029,
+   "s": 70,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "dxv1nv4BmAM",
+   "t": "7 Seconds: We're Gonna Fight @ This is Hardcore Fest, August 10, 2013.",
+   "d": "2013-09-01",
+   "v": 824,
+   "s": 24,
+   "vertical": false,
+   "desc": "This is Hardcore Fest @ Electric Factory, Philadelphia, PA, Saturday, August 10, 2013."
+  },
+  {
+   "id": "GgMOBhmEJXA",
+   "t": "JTAGulator: Introduction and Demonstration (Expanded)",
+   "d": "2014-09-10",
+   "v": 32329,
+   "s": 1670,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides demonstrations of the core functionality using firmware v1.2.1 (September 8, 2014). \n\n0:00 Intro\n0:54 Hardware Overview\n2:40 Setup\n6:47 Demo: JTAG\n22:28 Demo: UART\n27:07 Outro\n\nSince this video was made, new commands and features have been added. See the updated video here: https://youtu.be/NWTNH1RgUZc\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nFirmware and documentation"
+  },
+  {
+   "id": "xlXwy-weG1M",
+   "t": "JTAGulator: Updating Firmware",
+   "d": "2015-01-27",
+   "v": 13863,
+   "s": 467,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides a step-by-step guide to updating the firmware.\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nFirmware and documentation: https://github.com/grandideastudio/jtagulator/wiki"
+  },
+  {
+   "id": "xKKPqtfZROw",
+   "t": "Simple Firmware Extraction w/ Device Programmer",
+   "d": "2015-02-24",
+   "v": 34748,
+   "s": 304,
+   "vertical": false,
+   "desc": "Here's a simple demonstration of extracting firmware from a Microchip PIC using a Xeltek general purpose device programmer. The resultant binary is then loaded into MPLAB IDE, where you can see the entire program code and disassembly. \n\nExtracting contents from microcontrollers and memory devices is often a necessary step during hardware hacking. With the correct tools, it's generally an easy task. If protection mechanisms are in place on the target device, more advanced techniques will be required."
+  },
+  {
+   "id": "xAnJjk0Ko-I",
+   "t": "PCB Solder Mask Removal: Abrasive Sand Blasting 2",
+   "d": "2015-03-04",
+   "v": 1935,
+   "s": 63,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via abrasive sand blasting. TP Tools Skat Blast 1536 Champion blast cabinet with an 80 PSI (pounds per square inch), 10-15 CFM (cubic feet per minute) output of 60 grit aluminum oxide. Sand blasting and PCBs aren't usually mentioned in the same sentence, but the results were reasonably good, leaving only minor pitting of the underlying copper surface. This technique is not suitable for fine pitch, highly integrated PCBs."
+  },
+  {
+   "id": "C5Qu4rxc8i8",
+   "t": "PCB Delayering (Unsuccessful): Heat Gun 1",
+   "d": "2015-03-04",
+   "v": 1319,
+   "s": 625,
+   "vertical": true,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at delayering a multi-layer printed circuit board via heat gun. Milwaukee MHT-750 with a maximum operating temperature of 1000 degrees F. Exposure to the heat gun eventually caused the PCB\u2019s inter-layer adhesive to soften slightly, allowing us to attempt to peel layers apart. This method runs the risk of completely destroying the target PCB through excessive heat or physical force and is not practical for controlled delayering."
+  },
+  {
+   "id": "D2dusObwQSU",
+   "t": "PCB Delayering: CNC Milling 2",
+   "d": "2015-03-04",
+   "v": 2901,
+   "s": 222,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering a multi-layer printed circuit board with a T-Tech QuickCircuit 5000 CNC Milling Machine and 1/8\u201d diameter carbide endmill specifically designed for working with non-ferrous materials (Think & Tinker MN208-1250-019F). Control and manipulation of milling, drilling, and routing procedures is achieved using T-Tech\u2019s IsoPro software running on a host computer, except for tool type, tool cutting depth (Z-axis), and solenoid force, which are manually set."
+  },
+  {
+   "id": "LqiOdfVidlU",
+   "t": "PCB Solder Mask Removal: Dremel Flapwheel",
+   "d": "2015-03-04",
+   "v": 9230,
+   "s": 108,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via mechanical abrasion. Dremel 503 flapwheel (120 grit, 3/8\u201d wide). We achieved moderate success at removing solder mask, though traces were still destroyed on a small section of the PCB. The tool was difficult to align and must be kept flat to prevent an edge from digging into the PCB."
+  },
+  {
+   "id": "Uv17XwvDIYo",
+   "t": "PCB Delayering: Dremel Flapwheel",
+   "d": "2015-03-04",
+   "v": 3535,
+   "s": 535,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering a multi-layer printed circuit board via mechanical abrasion. Dremel 503 flapwheel (120 grit, 3/8\u201d wide). We were able to expose the inner copper layer, though some copper areas were accidentally removed due to overuse of the Dremel."
+  },
+  {
+   "id": "Xn-LifM4lIQ",
+   "t": "PCB Imaging (Unsuccessful): Acoustic Micro Imaging",
+   "d": "2015-03-04",
+   "v": 2782,
+   "s": 38,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at imaging inner circuit board layers using Acoustic Microscopy (aka Acoustic Micro Imaging). The system emits ultra-high frequency sound pulses into the target and can either capture the reflections (return echoes) from the target or measure the transmission through the target. A target object containing multiple interfaces (for example, a PCB with alternating layers of copper and substrate) will usually cause undesirable refractions of the ultrasound waves, making "
+  },
+  {
+   "id": "nJGFgCf1soI",
+   "t": "PCB Solder Mask Removal (Unsuccessful): Klean Strip",
+   "d": "2015-03-04",
+   "v": 1390,
+   "s": 135,
+   "vertical": true,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at removing solder mask with Klean-Strip Premium Stripper (heavy duty paint stripper containing methylene chloride as its primary ingredient). No significant removal/wearing of solder mask after many hours of soaking and scrubbing."
+  },
+  {
+   "id": "nKjvrDCktpw",
+   "t": "PCB Solder Mask Removal: Fiberglass Scratch Brush 1",
+   "d": "2015-03-04",
+   "v": 9041,
+   "s": 68,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask with an Excelta Eurotool fiberglass scratch brush. Even strokes at medium pressure. Extremely effective and easy-to-control."
+  },
+  {
+   "id": "pK0Ku_YHegw",
+   "t": "PCB Imaging: 3D/CT X-Ray Manual Slicing (Cross Section)",
+   "d": "2015-03-04",
+   "v": 2256,
+   "s": 19,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nAccessing inner board layer images using 3D/CT X-ray with a Nordon DAGE XD7600NT Ruby Inspection System and X-Plane software. A series of 360 2D images were taken of the target PCB at a 50 degree inclination angle. Post-processing resulted in 240 2D slices that could be viewed in any plane (X, Y, or Z). This video shows an manual cross section \"slicing\" through the board. Copper traces and vias can easily be identified."
+  },
+  {
+   "id": "tyebimU3SkU",
+   "t": "PCB Delayering: CNC Milling 1 (Close up)",
+   "d": "2015-03-04",
+   "v": 1342,
+   "s": 8,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering an iPhone 4 16GB Logic Board with a T-Tech QuickCircuit 5000 CNC Milling Machine and 1/8\u201d diameter carbide endmill specifically designed for working with non-ferrous materials (Think & Tinker MN208-1250-019F). This state-of-the-art PCB features 10-layers with a total thickness of 0.75mm (29.5mil), laser-drilled microvias, and via-in-pad construction. Control and manipulation of milling, drilling, and routing procedures is achieved using T-Tech\u2019s IsoPro software running on a ho"
+  },
+  {
+   "id": "3MmCLcY-zjo",
+   "t": "PCB Solder Mask Removal: Hobby Knife",
+   "d": "2015-03-04",
+   "v": 4165,
+   "s": 110,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask with an Aven Tools Precision Hobby Knife. Solder mask flaked off of the area with relative ease. Care must be taken to not push too hard, as traces or pads could accidentally lift or delaminate if they get caught by the knife edge. The method was successful, though it is time consuming and impractical for large areas."
+  },
+  {
+   "id": "C6Yrv-hOucM",
+   "t": "PCB Solder Mask Removal: Ristoff C-8",
+   "d": "2015-03-04",
+   "v": 3699,
+   "s": 165,
+   "vertical": true,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfo...\n\nRemoving solder mask via chemical soak. Ristoff C-8 is specifically formulated for use by PCB fabricators who require the removal of solder mask during the PCB fabrication process. A 90 minute soak at 130 degrees F resulted in clean, exposed top/bottom copper layers with no abrasion or scratching."
+  },
+  {
+   "id": "CyBgleRdZp4",
+   "t": "PCB Solder Mask Removal (Unsuccessful): Electric Eraser",
+   "d": "2015-03-04",
+   "v": 2721,
+   "s": 111,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at removing solder mask with a Sakura SE-2000 electric/mechanical eraser. By holding the tool at a very light pressure against the surface (too much pressure will cause the motor to stall), we were able to remove silkscreen markings from the PCB. However, there was no noticeable wearing of the solder mask."
+  },
+  {
+   "id": "JrnzDPEuThg",
+   "t": "PCB Solder Mask Removal: Sandpaper 1",
+   "d": "2015-03-04",
+   "v": 3084,
+   "s": 348,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask from an Apple iPhone 4 PCB via manual abrasion with 400 grit sandpaper. Hand sanding is a viable option for solder mask removal. However, care must be taken to ensure that the underlying copper layer isn\u2019t damaged by excessive abrasion."
+  },
+  {
+   "id": "So2gcykvN_s",
+   "t": "PCB Solder Mask Removal (Unsuccessful): CNC Milling",
+   "d": "2015-03-04",
+   "v": 4154,
+   "s": 301,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at removing solder mask using a T-Tech QuickCircuit 5000 PCB Prototyping System and a 1/8\u201d diameter carbide endmill specifically designed for working with soft media inlays (Think & Tinker MM3I8-1250-050F). \n\nBecause PCBs are not completely planar (there are minute variations in total board thickness due to the silkscreen/solder mask/copper/adhesive/substrate stack-up), it is difficult to properly set the tool depth to cleanly remove such a thin layer of solder mask "
+  },
+  {
+   "id": "W8TY3mGPdIk",
+   "t": "PCB Solder Mask Removal (Unsuccessful): Butane Torch",
+   "d": "2015-03-04",
+   "v": 1028,
+   "s": 73,
+   "vertical": true,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at removing solder mask using a Solder-It Micro Jet butane torch (1300 degrees C). While the solder mask had softened slightly, the PCB\u2019s substrate and inter-layer adhesive started to burn at the same time."
+  },
+  {
+   "id": "ai-SHmUw7S0",
+   "t": "PCB Solder Mask Removal: Laser Ablation",
+   "d": "2015-03-04",
+   "v": 8283,
+   "s": 78,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via laser ablation/skiving using a LPKF MicroLine 600D UV Laser System. Suitable for small, precise sections of a target PCB (for example, removing solder mask from an unpopulated connector footprint or set of test points).\n\nNote that solder mask, substrate, and copper all react differently to laser energy, so care must be taken to ensure that the laser power is properly adjusted to the minimum required for the given target PCB as to only remove solder mask without d"
+  },
+  {
+   "id": "itTkItXiHsk",
+   "t": "PCB Imaging: 3D/CT X-Ray Animated Slicing (Top to Bottom)",
+   "d": "2015-03-04",
+   "v": 6205,
+   "s": 48,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nAccessing inner board layer images using 3D/CT X-ray with a Nordon DAGE XD7600NT Ruby Inspection System and X-Plane software. A series of 360 2D images were taken of the target PCB at a 50 degree inclination angle. Post-processing resulted in 240 2D slices that could be viewed in any plane (X, Y, or Z). This video shows an animated \"slicing\" through the Z plane. Each of the PCB's 4 layers can easily be identified."
+  },
+  {
+   "id": "m9unpYw33LI",
+   "t": "PCB Delayering: Surface Grinding",
+   "d": "2015-03-04",
+   "v": 4323,
+   "s": 49,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering a multi-layer printed circuit board via surface grinding using a Blohm PROFIMAT CNC Creep Feed Surface Grinder with a Radiac 1 3/8\u201d-wide grinding wheel. The depth was adjusted in small increments (starting at 0.5mil and increasing to 2mil) in between runs of the surface grinder until we were able to visually see the next layer of copper beneath the substrate. \n\nThe resulting surface finish on the PCB (32 RMS) was so smooth that the copper layer was clearly visible through the "
+  },
+  {
+   "id": "2Vm1qg70dOg",
+   "t": "PCB Imaging: 3D/CT X-Ray Scan Head Movement",
+   "d": "2015-03-04",
+   "v": 1720,
+   "s": 33,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nAccessing inner board layer images using 3D/CT X-ray with a Nordon DAGE XD7600NT Ruby Inspection System and X-Plane software. A series of 360 2D images were taken of the target PCB at a 50 degree inclination angle. This video shows the X-ray head moving around the image approximately once every 6 seconds."
+  },
+  {
+   "id": "3BgUB4KpafY",
+   "t": "PCB Delayering: Sandpaper (Time lapse)",
+   "d": "2015-03-04",
+   "v": 2850,
+   "s": 53,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering a multi-layer printed circuit board via manual abrasion. 60/80 grit rubbing stone and 60 grit sandpaper on a Norton Sheet Sander tool. This is a time lapse video of a process that took approximately 20 minutes. We were able to expose the inner copper layer with only minimal wearing along the edges (due to uneven sanding pressure)."
+  },
+  {
+   "id": "4perVGwW3_Y",
+   "t": "PCB Solder Mask Removal: Sandpaper 2",
+   "d": "2015-03-04",
+   "v": 4648,
+   "s": 281,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via manual abrasion. 220 grit sandpaper on a Norton Sheet Sander tool and wrapped around a glass tile. Hand sanding is a viable option for solder mask removal. However, care must be taken to ensure that the underlying copper layer isn\u2019t damaged by excessive abrasion."
+  },
+  {
+   "id": "JaRXnnzvuvc",
+   "t": "PCB Imaging: 3D/CT X-Ray X-PLANE Screenshot (Fast)",
+   "d": "2015-03-04",
+   "v": 1153,
+   "s": 6,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nAccessing inner board layer images using 3D/CT X-ray with a Nordon DAGE XD7600NT Ruby Inspection System and X-Plane software. A series of 360 2D images were taken of the target PCB at a 50 degree inclination angle. This video shows a sped-up view of the X-ray operator's screen as the X-ray head moves around the image."
+  },
+  {
+   "id": "Jh3Abq4oMq0",
+   "t": "PCB Solder Mask Removal: Magnastrip 500",
+   "d": "2015-03-04",
+   "v": 5853,
+   "s": 107,
+   "vertical": true,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfo...\n\nRemoving solder mask via chemical soak. Magnastrip 500 is specifically formulated for use by PCB fabricators who require the removal of solder mask during the PCB fabrication process. A 75 minute soak at 150 degrees F resulted in clean, exposed top/bottom copper layers with no abrasion or scratching."
+  },
+  {
+   "id": "VECNdfSAgsE",
+   "t": "PCB Solder Mask Removal: Fiberglass Scratch Brush 2",
+   "d": "2015-03-04",
+   "v": 4012,
+   "s": 66,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask with an Excelta Eurotool fiberglass scratch brush. Even strokes at medium pressure. Extremely effective and easy-to-control."
+  },
+  {
+   "id": "_M3LuoupKnc",
+   "t": "PCB Solder Mask Removal: Dremel Abrasive Buff",
+   "d": "2015-03-04",
+   "v": 2106,
+   "s": 156,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via mechanical abrasion. Dremel 511E finishing abrasive buff (280-320 grit, color grey). Provided complete solder mask removal by \u201cbuffing away\u201d the material. However, it was still easy to damage the board if the tool is held in one location for too long. The buffing wheel was noticeably worn/compressed after just over two minutes of use."
+  },
+  {
+   "id": "kXaSjnhObPA",
+   "t": "PCB Solder Mask Removal: Abrasive Sand Blasting 1",
+   "d": "2015-03-04",
+   "v": 3338,
+   "s": 112,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nRemoving solder mask via abrasive sand blasting. TP Tools Skat Blast 1536 Champion blast cabinet with an 80 PSI (pounds per square inch), 10-15 CFM (cubic feet per minute) output of 60 grit aluminum oxide. Sand blasting and PCBs aren't usually mentioned in the same sentence, but the results were reasonably good, leaving only minor pitting of the underlying copper surface. This technique is not suitable for fine pitch, highly integrated PCBs."
+  },
+  {
+   "id": "-Rk8bOGCXS0",
+   "t": "PCB Delayering (Unsuccessful): Heat Gun 2",
+   "d": "2015-03-04",
+   "v": 1425,
+   "s": 983,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at delayering a multi-layer printed circuit board via heat gun. Milwaukee MHT-750 with a maximum operating temperature of 1000 degrees F. Exposure to the heat gun eventually caused the PCB\u2019s inter-layer adhesive to soften slightly, allowing us to attempt to peel layers apart. This method runs the risk of completely destroying the target PCB through excessive heat or physical force and is not practical for controlled delayering."
+  },
+  {
+   "id": "0zvgZN_PtqQ",
+   "t": "PCB Imaging: 3D/CT X-Ray Manual Slicing (Top to Bottom)",
+   "d": "2015-03-04",
+   "v": 2140,
+   "s": 24,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nAccessing inner board layer images using 3D/CT X-ray with a Nordon DAGE XD7600NT Ruby Inspection System and X-Plane software. A series of 360 2D images were taken of the target PCB at a 50 degree inclination angle. Post-processing resulted in 240 2D slices that could be viewed in any plane (X, Y, or Z). This video shows a manual \"slicing\" through the Z plane. Each of the PCB's 4 layers can easily be identified."
+  },
+  {
+   "id": "EjDG2DmvKXI",
+   "t": "PCB Delayering (Unsuccessful): Hot Knife",
+   "d": "2015-03-04",
+   "v": 1035,
+   "s": 289,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nUnsuccessful attempt at delayering a multi-layer printed circuit board via hot knife. Walnut Hollow Professional Hot Knife with a maximum operating temperature of 950 degrees F. While we could scrape off some top copper and a bit of underlying substrate, the tool was difficult to control and not practical for complete PCB delayering."
+  },
+  {
+   "id": "kcZWwXbC0zg",
+   "t": "PCB Delayering: CNC Milling 1",
+   "d": "2015-03-04",
+   "v": 1922,
+   "s": 216,
+   "vertical": false,
+   "desc": "Raw video from our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nDelayering an iPhone 4 16GB Logic Board with a T-Tech QuickCircuit 5000 CNC Milling Machine and 1/8\u201d diameter carbide endmill specifically designed for working with non-ferrous materials (Think & Tinker MN208-1250-019F). This state-of-the-art PCB features 10-layers with a total thickness of 0.75mm (29.5mil), laser-drilled microvias, and via-in-pad construction. Control and manipulation of milling, drilling, and routing procedures is achieved using T-Tech\u2019s IsoPro software running on a ho"
+  },
+  {
+   "id": "Efp4izKksvY",
+   "t": "Mustache Mayhem",
+   "d": "2015-03-12",
+   "v": 9296,
+   "s": 81,
+   "vertical": false,
+   "desc": "Based on the short-lived Nintendo Virtual Boy video game console and retro-fitted with a BeagleBone Black Linux computer, this artistic (and ridiculous) hardware hack provides a singular, entertaining goal: Overlay virtual mustaches onto real-world faces for points. \n\nMore information on this project can be found at http://www.grandideastudio.com/portfolio/mustache-mayhem/\n\nPortions of the boot and ending sequences have been sped up in this video to save time."
+  },
+  {
+   "id": "jRWTKwIgsro",
+   "t": "LRF: 5Hz Sample Rate Using Optimized Firmware",
+   "d": "2015-07-13",
+   "v": 993,
+   "s": 55,
+   "vertical": false,
+   "desc": "Demonstration of optimized Parallax Laser Range Finder firmware resulting in a sample rate of 5Hz (1 measurement every 200mS). This is a 5x increase from current production units and will be incorporated into a future firmware release. Thanks to Roy Eltham, Addie, and Whisker for the successful #tymkrscon weekend!\n\nFurther information about the module is available at http://parallax.com/product/28044 and  http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "Wkg0pYO72mI",
+   "t": "Prototype This: Waterslide Warm-Up",
+   "d": "2015-09-05",
+   "v": 3046,
+   "s": 97,
+   "vertical": false,
+   "desc": "Behind the scenes of Discovery Channel's Prototype This! While waiting for the physical waterslide chassis to be assembled by a team of the Bay Area's finest artists and welders for the Backyard Waterslide Simulator episode, this lonely electrical engineer became inspired by Richard Simmons fitness videos and decided to create his own. More info here: http://www.grandideastudio.com/portfolio/pt-waterslide-simulator/"
+  },
+  {
+   "id": "lLxSLwamSls",
+   "t": "LRF: Distance-to-frequency demonstration",
+   "d": "2015-09-06",
+   "v": 1356,
+   "s": 46,
+   "vertical": false,
+   "desc": "Simple distance-to-frequency demonstration using the Parallax Laser Range Finder Module and a BASIC Stamp 2. More information about this module and demo source code can be found at http://www.grandideastudio.com/portfolio/laser-range-finder/"
+  },
+  {
+   "id": "QYmyS2990yI",
+   "t": "Atari K-9: Screen Capture",
+   "d": "2015-09-26",
+   "v": 2177,
+   "s": 42,
+   "vertical": false,
+   "desc": "A screen capture of Electric Dog (aka Atari K-9), one of the first computer programs I ever wrote circa 1983. The program was recovered from the original Atari 400 floppy disk and used in my Atari K-9 project, a case modification and art installation. More information can be found here: http://www.grandideastudio.com/portfolio/atari-k-9/"
+  },
+  {
+   "id": "H-t_12dp1yI",
+   "t": "Atari K-9",
+   "d": "2015-09-26",
+   "v": 1890,
+   "s": 23,
+   "vertical": false,
+   "desc": "Demonstration of my Atari K-9 project, a case modification and art installation created to pay homage to my first computer (Atari 400) and one of the first programs I ever wrote (circa 1983). More information can be found here: http://www.grandideastudio.com/portfolio/atari-k-9/"
+  },
+  {
+   "id": "1OPV3QpRoTk",
+   "t": "JTAGulator: Acrylic Case Assembly",
+   "d": "2016-01-13",
+   "v": 2725,
+   "s": 240,
+   "vertical": false,
+   "desc": "Step-by-step guide to assembling a laser-cut acrylic case for the JTAGulator. The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. \n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nDocumentation: https://github.com/grandideastudio/jtagulator/wiki"
+  },
+  {
+   "id": "4jUx4-PCr8A",
+   "t": "Hirsch ScramblePad Demonstration",
+   "d": "2016-03-21",
+   "v": 9128,
+   "s": 52,
+   "vertical": false,
+   "desc": "Experimenting with a 1990s-era Hirsch (now Identiv) ScramblePad  and ScrambleLock (SL1) panel."
+  },
+  {
+   "id": "WBRkGzjVbfg",
+   "t": "Barney Toy Hacked to Say Silly Things (1998)",
+   "d": "2016-07-06",
+   "v": 23459,
+   "s": 7,
+   "vertical": false,
+   "desc": "In 1998, I hacked a Barney toy to say silly things and wrote about the process for Wired Magazine. This is the only remaining video from that time. Details of the project here: http://www.grandideastudio.com/hacking-barney/"
+  },
+  {
+   "id": "rao7ctvtWjE",
+   "t": "PCB Preparation: Rapid Surface Mount Component Removal",
+   "d": "2016-09-19",
+   "v": 2292,
+   "s": 137,
+   "vertical": false,
+   "desc": "From our PCB Deconstruction Techniques research: http://www.grandideastudio.com/portfolio/pcbdt/\n\nA quick and dirty technique to remove surface mount components from a circuit board using a brass pad and heat gun."
+  },
+  {
+   "id": "YbcuwTv1NfU",
+   "t": "Removing IC Part Markings",
+   "d": "2016-09-19",
+   "v": 8123,
+   "s": 30,
+   "vertical": false,
+   "desc": "Using a Dremel tool to remove the part number, logo, and additional markings from an IC.\n\nHiding such markings is commonly used as a \"security through obscurity\" technique in an attempt to make device reverse engineering more difficult."
+  },
+  {
+   "id": "ETEsbX3Docs",
+   "t": "Optical Covert Channel Demonstration",
+   "d": "2016-10-17",
+   "v": 3164,
+   "s": 27,
+   "vertical": false,
+   "desc": "Using an optical receiver to capture data transmitted through an LED of a custom circuit board.\n\nMore details available from: http://www.grandideastudio.com/portfolio/optical-covert-channels/"
+  },
+  {
+   "id": "QIson1FLN_w",
+   "t": "Tooth Tunes Hack: Playing \"Positive Dental Outlook\"",
+   "d": "2017-03-27",
+   "v": 16376,
+   "s": 54,
+   "vertical": false,
+   "desc": "My Tooth Tunes hack playing Crucial Youth's Positive Dental Outlook (1988) using a metal can as the speaker. This could possibly be the most underrated band of our generation!\n\nProject overview video: https://www.youtube.com/watch?v=nNbroMs_dOQ\n\nMore information: http://www.grandideastudio.com/portfolio/tooth-tunes-hack/\n\nOriginal song: http://www.youtube.com/watch?v=ALpSNACkmWw\n\nLyrics:\nBrush away, brush away, brush!\nThree times a day!\n(x3)\n\nBRUSH!\n\nI've! Got! A!\nPositive! Dental Outlook!\n(x3)\n\nAnd use dental floss, too!"
+  },
+  {
+   "id": "nNbroMs_dOQ",
+   "t": "Tooth Tunes Hack",
+   "d": "2017-03-27",
+   "v": 121699,
+   "s": 303,
+   "vertical": false,
+   "desc": "I hacked a Tooth Tunes toothbrush to play music I actually liked.\n\nAudio sample 1: https://www.youtube.com/watch?v=E3Q7nIV3fEw\n\nAudio sample 2: https://www.youtube.com/watch?v=QIson1FLN_w\n\nMore information: http://www.grandideastudio.com/portfolio/tooth-tunes-hack/"
+  },
+  {
+   "id": "WI0AJ7IXAWo",
+   "t": "Sneaky Circuit: This DIP Goes Both Ways (aka DIP Flip Whixr Trick)",
+   "d": "2017-03-31",
+   "v": 6344,
+   "s": 90,
+   "vertical": false,
+   "desc": "Demonstration of a sneaky integrated circuit that functions in either orientation. Inspired by whixr of #tymkrs.\n\nMore information about this project can be found at http://www.grandideastudio.com/portfolio/sneaky-circuits/"
+  },
+  {
+   "id": "2-zQp26nbY8",
+   "t": "Side Channel Timing Attack Demonstration",
+   "d": "2017-09-26",
+   "v": 50832,
+   "s": 385,
+   "vertical": false,
+   "desc": "Demonstration of a timing-based side channel attack. This attack takes advantage of a known timing imbalance in the standard ANSI C memcmp function, in which it exits as soon as a compared byte does not match. This results in the function taking a longer time given the more bytes that match between the compared blocks of memory. As long as there's a measurable timing imbalance, a system can be exploited regardless of the particular compare process used.\n\nMore hardware hacking projects and presentations can be found at http://www.grandideastudio.com/portfolio/security/\n\nNOTE: I FAIL AT MATH! Fr"
+  },
+  {
+   "id": "E3Q7nIV3fEw",
+   "t": "Tooth Tunes Hack: Playing \"Dream of the 90s\"",
+   "d": "2017-10-23",
+   "v": 14953,
+   "s": 113,
+   "vertical": false,
+   "desc": "My Tooth Tunes toothbrush, hacked in Portland, playing D.P.O.'s remix of Dream of the 90s from Portlandia's premiere episode.\n\nProject overview video: https://www.youtube.com/watch?v=nNbroMs_dOQ\n\nMore information: http://www.grandideastudio.com/portfolio/tooth-tunes-hack/\n\nRemix: https://dpoproductions.bandcamp.com/album/portlandia\n\nOriginal clip: https://www.youtube.com/watch?v=TZt-pOc3moc"
+  },
+  {
+   "id": "QIvsmQQ6vu8",
+   "t": "TL-WR841N Optical Covert Channel (Exfiltrating /etc/passwd)",
+   "d": "2017-11-07",
+   "v": 15080,
+   "s": 65,
+   "vertical": false,
+   "desc": "Demonstration of exfiltrating data from a physically unmodified TP-Link TL-WR841N router running DD-WRT via rapidly blinking LED. The LED is modulated at a rate undetectable to the human eye. \n\nThe payload is a cross-compiled application loaded onto the device with known administrator credentials, but shows what could be done if malicious code were injected into the system.\n\nThe receiver circuitry is my open source OpticSpy Analog hardware, which receives, amplifies, and processes the transmissions from the LED and converts them to a TTL-level signal suitable for connection to a PC.\n\nDetails a"
+  },
+  {
+   "id": "WNyoRPsW-nA",
+   "t": "TL-WR841N Optical Covert Channel (In Development)",
+   "d": "2017-11-07",
+   "v": 3549,
+   "s": 57,
+   "vertical": false,
+   "desc": "Crafting a payload that exfiltrates data from a TP-Link TL-WR841N router running DD-WRT via rapidly blinking LED. The LED is modulated at a rate undetectable to the human eye. \n\nThe payload is a cross-compiled application loaded onto the device with known administrator credentials, but shows what could be done if malicious code were injected into the system.\n\nThe receiver circuitry is my open source OpticSpy Digital hardware, which receives the transmissions from the LED and converts them to a TTL-level signal suitable for connection to a PC.\n\nDetails and resources available from:\nhttp://www.g"
+  },
+  {
+   "id": "GINChkzPXZE",
+   "t": "OpticSpy Test Procedure",
+   "d": "2018-03-07",
+   "v": 4731,
+   "s": 28,
+   "vertical": false,
+   "desc": "Video demonstration of the terminal program portion of the OpticSpy Test Procedure. \n\nOpticSpy is an open source hardware module for exploring and experimenting with optical data transmissions. It captures, amplifies, and converts an optical signal into a digital form that can be analyzed or decoded with a computer.\n\nThe Parallax Electronic Badge is transmitting a message via the infrared LED. OpticSpy is receiving and displaying it. \n\nDetails and resources available from:\nwww.grandideastudio.com/portfolio/opticspy/\n\nThere is intentionally no speaking during this video."
+  },
+  {
+   "id": "FgK-ra048rU",
+   "t": "Abolition @ Superhero Party, Boston, June 2, 2001 (Alternate Camera)",
+   "d": "2018-11-22",
+   "v": 944,
+   "s": 1037,
+   "vertical": false,
+   "desc": "Abolition @ Secret Superhero Party in an Apartment, Boston, MA June 2, 2001\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "quo644i_02A",
+   "t": "Abolition @ Superhero Party, Boston, June 2, 2001",
+   "d": "2018-11-22",
+   "v": 2355,
+   "s": 1022,
+   "vertical": false,
+   "desc": "Abolition @ Secret Superhero Party in an Apartment, Boston, MA June 2, 2001\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "zqQ5Tst682E",
+   "t": "Abolition @ Midway Cafe, May 2, 2003, Last Show",
+   "d": "2018-11-22",
+   "v": 578,
+   "s": 2067,
+   "vertical": false,
+   "desc": "Abolition @ Midway Cafe, Jamaica Plain/Boston, MA, May 2, 2003\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "zSVqHCDikU0",
+   "t": "Abolition @ Choppin' Block, December 31, 2002",
+   "d": "2018-11-22",
+   "v": 1320,
+   "s": 1570,
+   "vertical": false,
+   "desc": "Abolition @ Choppin' Block, Boston, MA, December 31, 2002\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "CO0ihENMFqA",
+   "t": "Abolition @ Choppin' Block, October 18, 2002",
+   "d": "2018-11-22",
+   "v": 2616,
+   "s": 1435,
+   "vertical": false,
+   "desc": "Abolition @ Choppin' Block, Boston, MA, October 18, 2002\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "D8J8a1K06v0",
+   "t": "Abolition @ Midway Cafe, August 6, 2002, 1st Real Show",
+   "d": "2018-11-22",
+   "v": 1023,
+   "s": 1382,
+   "vertical": false,
+   "desc": "Abolition @ Midway Cafe, Jamaica Plain/Boston, MA, August 6, 2002\n\nAbolition was:\n\nShoebox...Shouts, rants, and recitations\nJohn...Six strings of unholiness\nSully...Low-end duties\nJoe...Beat maker and booty shaker\n\nMore tracks at https://abolitionboston.bandcamp.com/"
+  },
+  {
+   "id": "YLBjiHKkkGo",
+   "t": "Biggie (Abolition Demo 2003)",
+   "d": "2018-11-22",
+   "v": 1056,
+   "s": 108,
+   "vertical": false,
+   "desc": "Artist: Abolition\nSong: Biggie\nAlbum: You'll Always Be a Winner Demo 2003\nTrack: 3 of 3\nReleased: January 1, 2003 \n\nRecorded, mixed, and mastered by Bill at the Fortress of Solitude, Boston, MA, USA, December 2002\n\nLyrics:\n\nA greatest ever, have our doubts. \nHip-hop died, an\u2019 rock went out. \nWe\u2019re not carin\u2019 \u2018bout your best. \nReal just hits us in the chest. \nThat\u2019s right. \nAs One \nThis isn\u2019t a commodity \nWe know \nWhat killed Raybeez \nBlake didn\u2019t sell, he got spent. \nD.I.Y. don\u2019t pay the rent. \nUnderground love/hate you. \nDeadguy shows an\u2019 check 1, 2s. \nThat\u2019s right. \nStay strong \nThis isn\u2019t a"
+  },
+  {
+   "id": "8ZG9TTK2G4Q",
+   "t": "Infotainment (Abolition Demo 2003)",
+   "d": "2018-11-22",
+   "v": 593,
+   "s": 103,
+   "vertical": false,
+   "desc": "Artist: Abolition\nSong: Infotainment\nAlbum: You'll Always Be a Winner Demo 2003\nTrack: 2 of 3\nReleased: January 1, 2003 \n\nRecorded, mixed, and mastered by Bill at the Fortress of Solitude, Boston, MA, USA, December 2002\n\nLyrics:\n\nYou blurred the line (x 2) \nOne hand information \nOne hand entertainment \nYou blurred the line (x 2) \nMaria Stephanos, Maria Stephanos \nInfotainment, Infotainment, Infotainment, News Media (x 2) \nKnock, knock, knock on your door \nDo you sell bad puppies? \nKnock, knock, knock on my door \nIs this the news you sell me? \nMaria Stephanos, Maria Stephanos \nInfotainment, Inf"
+  },
+  {
+   "id": "O6daqb91Wj4",
+   "t": "Supervision (Abolition Demo 2003)",
+   "d": "2018-11-22",
+   "v": 1137,
+   "s": 99,
+   "vertical": false,
+   "desc": "Artist: Abolition\nSong: Supervision\nAlbum: You'll Always Be a Winner Demo 2003\nTrack: 1 of 3\nReleased: January 1, 2003 \n\nRecorded, mixed, and mastered by Bill at the Fortress of Solitude, Boston, MA, USA, December 2002\n\nLyrics:\n\nToo much; too much supervision. (x 2) \nIt wasn\u2019t his idea, it wasn\u2019t his plan: rehabilitation of man. \nIts Jeremy Bentham\u2019s world, we\u2019re just living in it. \nIts Jeremy Bentham\u2019s world, an\u2019 its big business. \nToo much; too much supervision (x 2) \nEverywhere we go, everything we do: \nis someone watching me, is someone watching you? \nIts Jeremy Bentham\u2019s world, we\u2019re just"
+  },
+  {
+   "id": "ipIoM4yG5Lo",
+   "t": "OpticSpy Digital Demonstration",
+   "d": "2018-12-12",
+   "v": 13004,
+   "s": 368,
+   "vertical": false,
+   "desc": "This video explains and demonstrates the OpticSpy Digital kit, a super simple project to experiment with optical covert channels and optical data transmissions. \n\nDetails and resources available from: http://www.grandideastudio.com/portfolio/opticspy/\n\nIt's Nerd Thunder month! Like hacking and/or electronics? Check out these other channels:\n\n- Dean Segovis/HackaweekTV, https://www.youtube.com/user/HackaweekTV\n- Jeri Ellsworth, https://www.youtube.com/user/jeriellsworth\n- Ben Krasnow/Applied Science, https://www.youtube.com/user/bkraz333\n- Mike's Electric Stuff, https://www.youtube.com/user/mik"
+  },
+  {
+   "id": "IadnBUJAvks",
+   "t": "Extracting Firmware from External Memory via JTAG",
+   "d": "2018-12-27",
+   "v": 120397,
+   "s": 479,
+   "vertical": false,
+   "desc": "Demonstration of extracting firmware from an embedded system through the JTAG interface.\n\nThe target board is a MIPS-based Linksys WRT54G v2 router containing an Intel 28F320 4MB external Flash memory. Tools used are the Bus Blaster JTAG hardware interface (http://dangerousprototypes.com/docs/Bus_Blaster) and UrJTAG open source software (http://urjtag.org). \n\nIt's Nerd Thunder month! Check out the folks mentioned at the end of the video:\n\n- Exploitee.rs (IoT/consumer), http://exploitee.rs\n- Chris Eagle (IDA/reverse engineering), https://github.com/cseagle\n- Azeria (ARM exploitation), https://a"
+  },
+  {
+   "id": "JigRbNXcMB8",
+   "t": "DEFCON China 1.0 Badge Test Procedure",
+   "d": "2019-06-10",
+   "v": 2556,
+   "s": 110,
+   "vertical": false,
+   "desc": "Demonstration of the programming portion of the DEFCON China 1.0 Badge test procedure. More information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-china-2019-badge/\n\nThere is intentionally no speaking during this video. The badge used in this video is a prototype. Actual production units vary slightly in appearance."
+  },
+  {
+   "id": "JW9SDF1MAvQ",
+   "t": "DEFCON China 1.0 Badge Demonstration",
+   "d": "2019-06-10",
+   "v": 6023,
+   "s": 164,
+   "vertical": false,
+   "desc": "Demonstration of the programming shield functionality of the DEFCON China 1.0 Badge. \n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-china-2019-badge/\n\nThere is intentionally no speaking during this video. The badge and shield in this video are prototypes. Actual production units vary slightly in appearance."
+  },
+  {
+   "id": "IcA48HXEwaI",
+   "t": "DEFCON 27 Badge Demonstration",
+   "d": "2019-08-11",
+   "v": 21171,
+   "s": 143,
+   "vertical": false,
+   "desc": "Demonstration of the gameplay functionality of the official DEFCON 27 Badge.\n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-27-badge/\n\nNot all features are shown. There is intentionally no speaking during this video. Audio features of the badge are hard to hear due to background noise of the factory where this was filmed. The badges in this video are prototypes. Actual production units vary slightly in appearance."
+  },
+  {
+   "id": "DhtWzAOCT0A",
+   "t": "DEFCON 27 Badge Test Procedure",
+   "d": "2019-08-11",
+   "v": 7112,
+   "s": 40,
+   "vertical": false,
+   "desc": "Demonstration of firmware programming and functional test of the official DEFCON 27 Badge. \n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-27-badge/\n\nThere is intentionally no speaking during this video. Audio features of the badge are hard to hear due to background noise of the factory where this was filmed."
+  },
+  {
+   "id": "BnJT3wdhGFc",
+   "t": "A Look at the DEFCON 27 Badge",
+   "d": "2019-12-13",
+   "v": 23356,
+   "s": 355,
+   "vertical": false,
+   "desc": "Short story, design details, and demonstration of the DEFCON 27 Badge, the official attendee badge for @DEFCONConference, the largest and oldest continuously running hacker conference in the world.\n\nFilmed by @NXPDeveloperZone during a visit to my lab after the event in August 2019.\n\nMore information can be found at: http://www.grandideastudio.com/portfolio/defcon-27-badge/"
+  },
+  {
+   "id": "EY9TslzMGM0",
+   "t": "(Ode to the DEFCON) Badgez",
+   "d": "2020-03-19",
+   "v": 8595,
+   "s": 149,
+   "vertical": false,
+   "desc": "Song: Badgez\nArtist: The Brothers Grimm (Pontiac, Michigan)\nReleased: August 5, 2007 @ DEFCON 15\n\nThis song was created as part of Team Osogato's winning Badge Hacking Contest entry at DEFCON, the world's the largest and oldest continuously running hacker and computer security convention in the world. The lyrics are based on Joe Grand's \"Ode to the DEFCON Badge\" poem written for the conference program. \n\nThis is the original, unedited version. A clean, family-friendly version is here: https://www.youtube.com/watch?v=x8NKPpaYLLA\n\nTeam Osogato's complete badge submission: https://www.youtube.com"
+  },
+  {
+   "id": "x8NKPpaYLLA",
+   "t": "(Ode to the DEFCON) Badgez (Clean Version)",
+   "d": "2020-07-01",
+   "v": 6548,
+   "s": 149,
+   "vertical": false,
+   "desc": "Song: Badgez\nArtist: The Brothers Grimm (Pontiac, Michigan)\nReleased: August 5, 2007 @ DEFCON 15\n\nThis song was created as part of Team Osogato's winning Badge Hacking Contest entry at DEFCON, the world's the largest and oldest continuously running hacker and computer security convention in the world. The lyrics are based on Joe Grand's \"Ode to the DEFCON Badge\" poem written for the conference program. \n\nThis is a clean version I made when my kids were younger, so I didn\u2019t have to explain what all the bad words meant. The original, unedited version is here: https://www.youtube.com/watch?v=EY9T"
+  },
+  {
+   "id": "j8AlX0X2NUI",
+   "t": "A Look at the DEFCON China 1.0 Badge",
+   "d": "2020-07-13",
+   "v": 42761,
+   "s": 175,
+   "vertical": false,
+   "desc": "Some design details of the DEFCON China 1.0 Badge, the official attendee badge for @DEFCONConference, the largest and oldest continuously running hacker conference in the world. DEFCON China 1.0 was held in Beijing from May 31 to June 2, 2019.\n\nComplete documentation can be found at: http://www.grandideastudio.com/portfolio/defcon-china-2019-badge/\n\nTree of Promise walk-through by Donds: https://twitter.com/donds/status/1135784136302403584"
+  },
+  {
+   "id": "D7aFeFMHYNo",
+   "t": "Killer Pizza Robot Eats Paper",
+   "d": "2020-07-13",
+   "v": 11018,
+   "s": 174,
+   "vertical": false,
+   "desc": "Circuit Board + Paper Shredder = World-Dominating Paper-Eating Monster\n\nDemonstration of the Killer Pizza Robot, a project I created with my 8-year-old. \n\nMore details at http://www.grandideastudio.com/portfolio/killer-pizza-robot/"
+  },
+  {
+   "id": "GP5AccWZ8F0",
+   "t": "DEFCON 27 Badge Social Distancing Reminder",
+   "d": "2020-09-14",
+   "v": 26433,
+   "s": 529,
+   "vertical": false,
+   "desc": "Creating a social distancing reminder with the DEFCON 27 Badge, the official attendee badge for @DEFCONConference , the largest and oldest continuously running hacker conference in the world.\n\nThe badge will flash the LEDs and play a short tune when it is within range of another badge. It will also store that badge's unique identifier in non-volatile, internal memory for contact tracing purposes, accessible via the UART interface. Every 15 seconds, the LEDs will fade on and off, providing a visual heartbeat for the system. Distance is currently limited to ~1 foot using the existing antenna. Ch"
+  },
+  {
+   "id": "NWTNH1RgUZc",
+   "t": "JTAGulator: New Feature Update",
+   "d": "2021-01-05",
+   "v": 17391,
+   "s": 1598,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides an overview of commands and demonstrates new features added over the past few years (as of firmware v1.10). \n\n0:00 Intro\n0:27 Getting Started\n1:31 Command Overview\n8:08 Demo: UART\n14:15 Demo: Logic Analyzer\n19:47 Demo: JTAG\n22:11 Demo: OpenOCD\n26:15 Outro\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nFirmware and documentation: https://github.com/grandideastudio/jtagulator/"
+  },
+  {
+   "id": "rFy3ZFVTLcQ",
+   "t": "JTAGulator Test Procedure",
+   "d": "2021-02-27",
+   "v": 8503,
+   "s": 291,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video provides a demonstration of the JTAGulator programming and functional test procedure used during manufacturing. \n\nDirect link to the test procedure document: http://www.grandideastudio.com/wp-content/uploads/jtagulator_testproc.pdf\n\nMain project page (including complete engineering materials and purchasing information): http://www.jtagulator.com\n\nThere is intentionally no speaking during this video."
+  },
+  {
+   "id": "tmfT13DcJOk",
+   "t": "DEFCON 18 Badge Test Procedure",
+   "d": "2021-04-01",
+   "v": 24338,
+   "s": 26,
+   "vertical": false,
+   "desc": "This video was created as a supplement to the official DEFCON 18 Badge (2010) test procedure used by the manufacturing facility during production.\n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-18-badge/"
+  },
+  {
+   "id": "87EMADX64Js",
+   "t": "DEFCON 17 Badge Test Procedure",
+   "d": "2021-04-01",
+   "v": 11298,
+   "s": 32,
+   "vertical": false,
+   "desc": "This video was created as a supplement to the official DEFCON 17 Badge (2009) test procedure used by the manufacturing facility during production.\n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-17-badge/"
+  },
+  {
+   "id": "qO10g2TFems",
+   "t": "DEFCON 16 Badge Test Procedure",
+   "d": "2021-04-01",
+   "v": 5808,
+   "s": 11,
+   "vertical": false,
+   "desc": "This video was created as a supplement to the official DEFCON 16 Badge (2008) test procedure used by the manufacturing facility during production.\n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-16-badge/"
+  },
+  {
+   "id": "f_xcSccfy8k",
+   "t": "DEFCON 15 Badge Test Procedure",
+   "d": "2021-04-01",
+   "v": 10621,
+   "s": 22,
+   "vertical": false,
+   "desc": "This video was created as a supplement to the official DEFCON 15 Badge (2007) test procedure used by the manufacturing facility during production.\n\nMore information can be found at:\n\nhttp://www.grandideastudio.com/portfolio/defcon-15-badge/"
+  },
+  {
+   "id": "518nC_8RZBM",
+   "t": "JTAGulator: Pin Mapper (EXTEST Scan)",
+   "d": "2021-04-14",
+   "v": 32798,
+   "s": 650,
+   "vertical": false,
+   "desc": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. This video demonstrates the JTAG Pin Mapper (aka EXTEST Scan) command released in firmware v1.11. The command associates the physical pins of a target chip with their positions in the Boundary Scan Register, which can be useful for chip- or board-level reverse engineering or to provide information needed to access an external device connected to the target chip.\n\n0:00 Intro\n0:14 Boundary Scan + Command Overview\n2:32 Setup: Hardware\n4:01 Setup: JTAGulator\n5:17 Dem"
+  },
+  {
+   "id": "P5j7chCzzPA",
+   "t": "L0pht Heavy Industries Video Press Kit (1994-1999)",
+   "d": "2021-05-10",
+   "v": 71063,
+   "s": 6254,
+   "vertical": false,
+   "desc": "L0pht Heavy Industries\nTelevision Media Coverage\n1994-1999\n \nOriginally released on VHS tape. Learn more at https://en.wikipedia.org/wiki/L0pht\n\n0:00 Intro\n0:05 CyberMania 1994, TBS SuperStation, November 5, 1994\n4:56 Unauthorized Access, Annaliza Savage, March, 1995 (L0pht segment only)\n7:10 The Internet Cafe, PCTV, October 2, 1996\n7:41 New England Cable News, March 20, 1997\n14:21 Horizon: Inside the Internet, BBC, May 27, 1997 (removed due to complaint)\n14:26 New England Cable News, March 18, 1998\n17:19 Witness: No Place To Hide, CBC, Part 1, April 9, 1998\n20:28 Witness: No Place To Hide, CB"
+  },
+  {
+   "id": "wUa0N4CX9WU",
+   "t": "Hacking San Francisco's Smart Parking Meter (2009)",
+   "d": "2021-10-11",
+   "v": 272296,
+   "s": 7,
+   "vertical": false,
+   "desc": "Demonstration of compromising the MacKay Guardian XLE smart parking meter implemented in San Francisco (SFMTA) circa 2009. \n\nWe used a Microchip PIC-based smartcard with custom code to emulate the legitimate communication and send modified data to obtain the maximum allowable card value.\n\nThis video was created for and shown during our presentation entitled \"'Smart' Parking Meter Implementations, Globalism, and You\" released at Black Hat 2009 and DEFCON 17 (https://www.youtube.com/watch?v=K7UFelvacDw). \n\nMore information can be found at:\n\nhttps://grandideastudio.com/portfolio/security/smart-pa"
+  },
+  {
+   "id": "dT9y-KQbqi4",
+   "t": "How I hacked a hardware crypto wallet and recovered $2 million",
+   "d": "2022-01-24",
+   "v": 9986725,
+   "s": 1938,
+   "vertical": false,
+   "desc": "I was contacted to hack a Trezor One hardware wallet and recover $2 million worth of cryptocurrency (in the form of THETA). Knowing that existing research was already out there for this device, it seemed like it would be a slam dunk. Little did I realize the project would turn into a roller coaster ride with over three months of experimentation, failures, successes, and heart-stopping moments. It reminded me that hacking is always unpredictable, exciting, and educational, no matter how long you've been doing it. In this case, the stakes were higher than normal: I only had one chance to get it "
+  },
+  {
+   "id": "BERsLyZGSNM",
+   "t": "Joe Grand's Open Lab: YouTube Live AMA \ud83d\udd34",
+   "d": "2022-03-12",
+   "v": 33631,
+   "s": 5782,
+   "vertical": false,
+   "desc": "Since the release of our Trezor One wallet hacking video, we've received a lot of questions about engineering, hacking, and life in general. What better way to answer those questions than doing it live? Join our first ever installment of Joe Grand's Open Lab, an informal ask-me-anything :)\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nWebsite: http://www.grandideastudio.com\nTwitter: https://twitter.com/joegrand\n\nABOUT OFFSPEC.IO\n\noffspec.io (https://offspec.io) is a dedicated team of hackers and entrepreneurs specializing in password recovery from hardware and software wal"
+  },
+  {
+   "id": "JX1iBVxB7uA",
+   "t": "Joe Grand's Open Lab: YouTube Live AMA #2 \ud83d\udd34",
+   "d": "2022-05-14",
+   "v": 28599,
+   "s": 11475,
+   "vertical": false,
+   "desc": "The questions keep on coming and what better way to answer them than doing it live? Join us for the second installment of Joe Grand's Open Lab, an informal ask-me-anything! As an added bonus, we'll be giving away a seat in Joe's upcoming hardware hacking training class being held at https://hardwear.io over the summer!\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nWebsite: http://www.grandideastudio.com\nTwitter: https://twitter.com/joegrand\n\nABOUT OFFSPEC.IO\n\noffspec.io (https://offspec.io) is a dedicated team of hackers and entrepreneurs specializing in password recovery "
+  },
+  {
+   "id": "icBD5PiyoyI",
+   "t": "Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?",
+   "d": "2022-06-23",
+   "v": 5217852,
+   "s": 2185,
+   "vertical": false,
+   "desc": "With the promise of up to $6 million worth of Bitcoin locked on this Samsung Galaxy phone, it was a challenge we couldn't refuse. In this episode, Joe moves his lab to a Seattle hotel room to hack the phone live with owner Lavar, a transit operator, and his friend Jon. Was the adventure worth it!?\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nTwitter/X: https://x.com/joegrand\nInstagram: https://instagram.com/joegrandofficial\nEverything Else: https://joegrand.com\n\nSpecial thanks to:\nConcepts + Customs: https://syconceptscustoms.com\nMacdonald Entertainment Partners: https://"
+  },
+  {
+   "id": "bZFQDeBpHmg",
+   "t": "THE WORLD'S THINNEST BOOMBOX",
+   "d": "2022-11-15",
+   "v": 142814,
+   "s": 827,
+   "vertical": false,
+   "desc": "The boombox was an important cultural icon of the 1980s and a way to spread both music and message. We're bringing it back with The World's Thinnest Boombox!\n\nProject page: https://www.grandideastudio.com/portfolio/the-worlds-thinnest-boombox\n\nSpecial thanks to:\n- TDK: https://product.tdk.com\n- Mar Williams: https://www.instagram.com/spuxo\n- Mark Hughes: https://www.linkedin.com/in/markjarrodhughes\n- New Birth Crew: https://www.instagram.com/birthboyz\n- Dual Core: https://dualcoremusic.com\n- Summit Interconnect: https://summitinterconnect.com\n- Macdonald Entertainment Partners: https://www.mac"
+  },
+  {
+   "id": "o5IySpAkThg",
+   "t": "I hacked time to recover $3 million from a Bitcoin software wallet",
+   "d": "2024-05-28",
+   "v": 1372311,
+   "s": 1291,
+   "vertical": false,
+   "desc": "What if I told you that we could hack time to recover over $3 million in Bitcoin from a software wallet that's been locked since 2013? In this episode, I join forces with my friend Bruno to reverse engineer the RoboForm password generator in order to regenerate passwords that have been generated in the past.\n\nRead about it on WIRED: https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/\n\nProject details: https://grandideastudio.com/portfolio/security/roboform-password-regeneration/\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nTwitter/X: https://x.co"
+  },
+  {
+   "id": "MhJoJRqJ0Wc",
+   "t": "$75,000,000 Crypto Wallet Bulk Hack",
+   "d": "2026-03-16",
+   "v": 585393,
+   "s": 2215,
+   "vertical": false,
+   "desc": "Since my first Trezor wallet hack, I\u2019ve been flooded with people asking for help. So for the past three years, I\u2019ve refined my method. Dozens of people, dozens of stories. If the predicted balances are real and if I can free them, that\u2019s $75,000,000 at stake. Let\u2019s see if I can pull it off!\n\nWatch Part 2 here: https://www.youtube.com/watch?v=TGmGiN5Pa48\n\nProject details: https://grandideastudio.com/portfolio/security/stm32-fault-injection/\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nTwitter/X: https://x.com/joegrand\nInstagram: https://instagram.com/joegrandofficial\nEvery"
+  },
+  {
+   "id": "TGmGiN5Pa48",
+   "t": "The Shocking Result of My $75 Million Bulk Hack",
+   "d": "2026-03-19",
+   "v": 223174,
+   "s": 2277,
+   "vertical": false,
+   "desc": "It all comes down to this. We\u2019ve already had some wins. And some losses. But, our craziest stories are coming up next, including the biggest challenge I\u2019ve ever taken on: a single Trezor worth $66,000,000. Let\u2019s finish what we started!\n\nWatch Part 1 here: https://www.youtube.com/watch?v=MhJoJRqJ0Wc\n\nProject details: https://grandideastudio.com/portfolio/security/stm32-fault-injection/\n\nCheck out Joe Grand here:\nYouTube: https://youtube.com/c/JoeGrand\nTwitter/X: https://x.com/joegrand\nInstagram: https://instagram.com/joegrandofficial\nEverything Else: https://joegrand.com\n\nSPECIAL THANKS\n\nMacdon"
+  }
+ ]
+}

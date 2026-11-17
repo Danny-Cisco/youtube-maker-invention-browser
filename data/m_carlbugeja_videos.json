@@ -1,0 +1,1341 @@
+{
+ "channel": {
+  "id": "UCdxTCCRnQgfi2vr2fZupYIQ",
+  "title": "Carl Bugeja",
+  "handle": "@carlbugeja",
+  "description": "Engineer trying to invent new things with electronics",
+  "since": "2013-06-18",
+  "avatar": "https://yt3.ggpht.com/d0y_thKMmd48riSUo6rg3z1TlEu72vwmgMLjwY-ZGDCpo2zfscI0Bb-0-ZLz1Ge4I4stmdz2hA=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "61632056",
+  "subscriberCount": "308000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "147"
+ },
+ "videos": [
+  {
+   "id": "7pxUgC1YTQs",
+   "t": "PCB Motor - First Test!",
+   "d": "2018-01-21",
+   "v": 27371,
+   "s": 7,
+   "vertical": false,
+   "desc": "This is the first 3D printed prototype of my brushless PCB motor design.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\nMore info: https://hackaday.io/project/39494-pcb-motor"
+  },
+  {
+   "id": "5yvR4v80bI4",
+   "t": "PCB Motor - Propeller Load Test!",
+   "d": "2018-01-24",
+   "v": 19396,
+   "s": 23,
+   "vertical": false,
+   "desc": "Testing my brushless PCB-Motor's torque stength with the RX2535W propeller as a load.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\nMore info about this project: https://hackaday.io/project/39494-pcb-motor"
+  },
+  {
+   "id": "1taXx1L8YEs",
+   "t": "Motor made from a PCB!",
+   "d": "2018-02-25",
+   "v": 70527,
+   "s": 41,
+   "vertical": false,
+   "desc": "This video briefly describes how my brushless PCB motor works. My open source PCB motor is a smaller, cheaper and easier to assemble micro brushless motor. \n\nWhat unique about this motor design is that the stator is printed on a 4-layer PCB board. The six stator poles are spiral traces wounded in a star configuration. Although these coils produce less torque compared to an iron core stator, the motor is still suitable for high-speed applications. The current prototype has a 3d printed rotor with a 16mm diameter.\n\nI had this idea when I was trying to design a small compact drone. The PCB motor "
+  },
+  {
+   "id": "szyKxCxuokk",
+   "t": "Snap-Fit Brushless Rotor",
+   "d": "2018-03-04",
+   "v": 11150,
+   "s": 21,
+   "vertical": false,
+   "desc": "This is my new 3D printed rotor prototype with a snap-hook shaft and press-fit circular magnets! This feature makes the brushless PCB motor cheaper and very easy to assemble!\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nMore info about this project: https://hackaday.io/project/39494-pcb-motor\n\nMusic by Karpov not Kasparov: https://soundcloud.com/knotk"
+  },
+  {
+   "id": "Fc5tGjbPgaI",
+   "t": "Ball Folding Propeller!",
+   "d": "2018-03-23",
+   "v": 15808,
+   "s": 21,
+   "vertical": false,
+   "desc": "This is my 3d-printed propeller that folds into a compact 16mm diameter semi-sphere. When rotated the two blades open up automatically by the centrifugal force. The blades will then fold back into the semi-sphere once the motor is stopped.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nMore info about this project: https://hackaday.io/project/93648-spherical-folding-propeller"
+  },
+  {
+   "id": "l8037j5ondc",
+   "t": "Baseball Size Quadruped Robot (4B)",
+   "d": "2018-06-01",
+   "v": 10198,
+   "s": 74,
+   "vertical": false,
+   "desc": "This is the build video of 4B (Four-Ball), a four-legged robot with 12DOF that folds into a 6cm ball! Although tiny it has three linkages on each leg and joints powered by micro servomotors. \n\nMy plan is to also make it roll when folded. But first, 4B needs to take its first steps.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nMore info about this project: https://hackaday.io/project/158016-4b-robot\n\nMusic by Jeff Kaale: https://soundcloud.com/jeff-kaale/rain"
+  },
+  {
+   "id": "TKG3wZza3Bo",
+   "t": "How can I improve my PCB Motor?",
+   "d": "2018-06-08",
+   "v": 12405,
+   "s": 76,
+   "vertical": false,
+   "desc": "This is an update video about my brushless PCB motor. \n\nWhat unique about this motor design is that the stator is printed on a 4-layer PCB board. The six stator poles are spiral traces wounded in a star configuration. Although these coils produce less torque compared to an iron core stator, the motor is still suitable for high-speed applications. The current prototype has a 3d printed rotor with a 16mm diameter.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nOpen Source files: https://hackaday.io/project/39494-pcb-motor\n\nMusic by Jawn: https://soundcloud.com/jvwn"
+  },
+  {
+   "id": "LudKMv7M13Q",
+   "t": "Actuating Magnets with PCBs",
+   "d": "2018-06-10",
+   "v": 23683,
+   "s": 53,
+   "vertical": false,
+   "desc": "This experiment is part of my Linear PCB Motor project: \nhttps://hackaday.io/project/158017-linear-pcb-motor\n\nThe coils of this motors are made from 5/5mil coreless pcb windings. Magnets are used to slide across the pcb and are actuated by the winding's magnetic field. \n\nFollow me on Twitter: https://twitter.com/BugejaCarl"
+  },
+  {
+   "id": "EHN8Wx2BKkM",
+   "t": "Jumping Magnets!",
+   "d": "2018-06-12",
+   "v": 8790,
+   "s": 23,
+   "vertical": false,
+   "desc": "I accidentally made magnets jump when testing my Linear PCB Motor PCBs. This happened when I placed a small spherical neodymium magnet in the middle of the coil and alternating its magnetic field.\n\nLinear PCB Motor:\nhttps://hackaday.io/project/158017-linear-pcb-motor\n\nThe coils of this motors are made from 5/5mil coreless pcb windings. Magnets are used to slide across the pcb and are actuated by the winding's magnetic field. \n\nFollow me on Twitter: https://twitter.com/BugejaCarl"
+  },
+  {
+   "id": "18ib3ojORBw",
+   "t": "Ferrofluid + PCB Coils",
+   "d": "2018-06-16",
+   "v": 8603,
+   "s": 39,
+   "vertical": false,
+   "desc": "Ferrofluid with PCB coils test! The magnetic field of the windings need to be a little stronger but the concept seems to be working. \n\nThe idea is to have ferrofluid dancing around from a simple PCB. This is obviously just a concept but with more windings and perhaps a core in the middle, it can be possible.\n\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nProject Page: https://hackaday.io/project/159081-ferrofluid-pcb-coils\n\nMusic by Cjbeards:  https://soundcloud.com/cjbeards/cjbeards-winter-breeze\n\nThis was tested with my open source Linear PCB Motor board:\nhttps://hackaday.io/project"
+  },
+  {
+   "id": "IYtyOGsKyrs",
+   "t": "Increasing the Torque of my PCB Motor",
+   "d": "2018-06-20",
+   "v": 21636,
+   "s": 71,
+   "vertical": false,
+   "desc": "So torque is the biggest weakness of my tiny PCB motor. This was measured it to be 0.9gcm.But it is something that can be improved. These are three ways how I tried to improve it:\n\nDouble Rotor - Some people in the comments suggested to try and use a double rotor. This will increase the magnetic field produced by the neodymium magnets and therefore will also increase the motor's torque. But in practice this was not the case and  it barely had any effect. The measured torque was 0.9gcm (the same as with one rotor).\n\nFerrite Sheet - This was used as a core to increase the strength of the magneti"
+  },
+  {
+   "id": "2uHRviaR2Cs",
+   "t": "Linear PCB Motor",
+   "d": "2018-06-27",
+   "v": 23723,
+   "s": 12,
+   "vertical": false,
+   "desc": "Inspired from my pcb motor project (https://hackaday.io/project/39494-pcb-motor), this project is aimed to make a very thin low-torque linear pcb actuator. \n\nThe coils of this motors are made from 5/5mil coreless pcb windings. A 3d-printed rig with magnets is used to slide across the pcb and is actuated by the winding's magnetic field. \n\nOpen Source FIles: https://hackaday.io/project/158017-linear-pcb-motor\n\nFollow me on Twitter: https://twitter.com/BugejaCarl"
+  },
+  {
+   "id": "mS_qUbPTYfk",
+   "t": "MY NEW DRONE CONCEPT",
+   "d": "2018-07-15",
+   "v": 18524,
+   "s": 121,
+   "vertical": false,
+   "desc": "This is the drone concept that gave me the idea of trying to create the PCB motor and spherical folding propeller!! Both of these projects need a lot more work and improvement to make this concept feasible but at least now I have a starting point :)\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nPCB Motor Project: https://hackaday.io/project/39494-pcb-motor\n\nSpherical Folding Propeller Project: https://hackaday.io/project/93648-spherical-folding-propeller\n\nMusic: https://www.bensound.com/"
+  },
+  {
+   "id": "UGGw74iWTNI",
+   "t": "Magnetic Flexible PCB Actuators (1st Working Prototype!!)",
+   "d": "2018-07-24",
+   "v": 20629,
+   "s": 41,
+   "vertical": false,
+   "desc": "So far in my pcb motor projects the magnet was being actuated by the fixed stator. With this flex pcb i have managed to do the opposite, to have a fixed magnet that moves the pcb by its alternating magnetic field. \n\nThe pcb is dual layer and is 0.13mm thick. Although it has only 70 turns, the thin dielectric will improve the coupling.\n\nFollow me on Twitter: https://twitter.com/BugejaCarl\n\nHackaday Project: https://hackaday.io/project/159936-flexible-pcb-actuator\n\nMusic: https://soundcloud.com/joakimkarud\n\nFlexpcbs ordered from PCBWay:\u00a0https://www.pcbway.com/setinvite.aspx?inviteid=3687"
+  },
+  {
+   "id": "c0Wh9mZckWY",
+   "t": "Magnet Clapping Actuator",
+   "d": "2018-07-31",
+   "v": 3602,
+   "s": 23,
+   "vertical": false,
+   "desc": "This Flexible PCB Actuator made from a dual layer 0.13mm thick board. The pcb coils create a magnetic field that forces the kapton to move and react when a magnet is placed near it.\n\nHackaday Project Page: https://hackaday.io/project/159936-flexible-pcb-actuator\n\nFollow me on Twitter: https://twitter.com/BugejaCarl"
+  },
+  {
+   "id": "hxs0VLnbyYo",
+   "t": "My 0.1mm thick ACTUATOR!",
+   "d": "2018-08-09",
+   "v": 29772,
+   "s": 126,
+   "vertical": false,
+   "desc": "Before I can start building robots with this thing, I need to measure its characteristics and test its limitations. In this video, I have tested my Flexible PCB actuator and also compared it to my Linear PCB Motor which has the same dimensions but different layer count.\n\nThe flex PCB has half the turns, so its resistance is lower. This means that more current can pass through it, so obviously it gets a little hotter. This means that this flexible pcb actuator can be used with lower voltages. The thin dielectric of this pcb also improves the coupling of the magnetic field. I was also able to re"
+  },
+  {
+   "id": "8ztQOj7Z4ls",
+   "t": "My plan for my Flexible PCB Actuators - Soft Robotics!",
+   "d": "2018-08-18",
+   "v": 22906,
+   "s": 194,
+   "vertical": false,
+   "desc": "What are Soft Robots? And how can I use my Flexible PCB Actuator to build them? This video shows the different type of soft actuator prototypes I have managed to build with my flexible PCB. These include flaps, fins and a very weak robotic muscle with a magnetic bone structure.\n\nSubscribe to the channel here: https://www.youtube.com/carlbugeja\n\nTwitter: https://twitter.com/BugejaCarl\nInstagram: https://www.instagram.com/bugeja.carl/\n\nHackaday Project: https://hackaday.io/project/159936-flexible-pcb-actuator\n\nMusic: https://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "0zsAJ7_eF4M",
+   "t": "Paper Robot Experiment",
+   "d": "2018-08-26",
+   "v": 20169,
+   "s": 38,
+   "vertical": false,
+   "desc": "The coolest thing about my magnetic PCB actuators is that I can play around with new robot ideas! In this video, I have made a very simple prototype of a Paper Robot integrated with my flexible PCB actuator.\n\nI know it's not shaped like a worm but that's where the inspiration came from! \ud83e\udd16\ud83d\udc1b\n\nSubscribe to the channel here: https://www.youtube.com/carlbugeja\n\nTwitter: https://twitter.com/BugejaCarl\nInstagram: https://www.instagram.com/bugeja.carl/\n\nHackaday Project: https://hackaday.io/project/159936-flexible-pcb-actuator\n\nMusic: https://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "OmUTG5DvnWo",
+   "t": "Robot Fish with PCB Fins Experiment",
+   "d": "2018-09-09",
+   "v": 10180,
+   "s": 156,
+   "vertical": false,
+   "desc": "Can I make robotic fish fins from a PCB? This video shows my first attempt at trying to do so using my flexible PCB Actuators!\n\nThere were quite a few things that a learned from these experiments. The first prototype that I made did not actually work very good in water. Its magnet in the middle was too heavy when compared to the force the magnetic actuator was producing. The second prototype was much lighter and managed to move easily in water. It was still limited by the wire, but obviously this is going to be remove in the future version.\n\nFrom these tests, I can start designing a 3d printed"
+  },
+  {
+   "id": "36KwlUBadrg",
+   "t": "Making a PCB Speaker!",
+   "d": "2018-09-20",
+   "v": 55315,
+   "s": 280,
+   "vertical": false,
+   "desc": "My PCB speaker is very simple and works just like any other speaker. \n\nIts main components are the magnet and a coil, in this case, a flexible printed traces. The vibrations created from the coil pushes the surrounding air to create sound waves. I also tried adding a diaphragm to amplify the music. It also worked with a 1.6mm rigid pcb, having the magnet connected to the diaphragm.In this video, I tried to make a speaker from a PCB.\n\nSubscribe to the channel here: https://www.youtube.com/carlbugeja\n\nTwitter: https://twitter.com/BugejaCarl\nInstagram: https://www.instagram.com/bugeja.carl/\n\nHack"
+  },
+  {
+   "id": "qGiaev_L8OY",
+   "t": "PCB Motor Project Update",
+   "d": "2018-10-02",
+   "v": 8084,
+   "s": 165,
+   "vertical": false,
+   "desc": "Here's a quick update video on my PCB Motor project, with a list of things I was working on and what I plan to do next.\n\nHackaday Project Page:\nhttps://hackaday.io/project/39494-pcb-motor\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nhttps://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "tbXLc8F3HFg",
+   "t": "Motor integrated on an ESC! (PCB Motor)",
+   "d": "2018-10-14",
+   "v": 11311,
+   "s": 49,
+   "vertical": false,
+   "desc": "This is my new PCB Motor integrated with an ESC! More details on the ESC coming next week!\n\nMy PCB-Motor is made from a 6-pole stator printed on a 4-layer PCB and a 4-pole 3d printed rotor. Its has an outer diameter of 16mm and is rated at 1 watt. I had this idea when I was trying to design a small compact drone. \n\nHackaday Project Page:\nhttps://hackaday.io/project/39494-pcb-motor\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nhttps://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "4cdVpoWTC_c",
+   "t": "Designing an ESC for my PCB Motor",
+   "d": "2018-10-20",
+   "v": 27722,
+   "s": 218,
+   "vertical": false,
+   "desc": "This video shows how i designed my PCB Motor's ESC and what where the challenges involved in getting my speed controller to work.\n\nIt has a PIC16F1503 as the main controller and a triple half bridge driver STSPIN230, to control the three phases of the motor. These are both powered from the same supply, to avoid having an extra power wire or on-board regulator, reducing the cost even further. I filtered the digital circuitry supply from an LC filter to attenuate any noise the motor can generate. It can operate from a 5V to 2.6V supply and draws around 220mA in total. \n\nThe back emf generated fr"
+  },
+  {
+   "id": "JY3Ysm60TxE",
+   "t": "SUPER tiny 6-layer Motor!",
+   "d": "2018-10-30",
+   "v": 188566,
+   "s": 135,
+   "vertical": false,
+   "desc": "How can I design a smaller PCB motor? My original 4-layer PCB motor had a 16mm diameter. By adding two extra layers I was able reduce the number of turns per layer and get it to 11mm. The weight of this motor is 0.5 grams.\n\nHackaday Page:\nhttps://hackaday.io/project/39494-pcb-motor\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nAudio Library - Target Practice\n\nThank you JLCPCBs for sponsoring the pcb.\nhttps://jlcpcb.com/"
+  },
+  {
+   "id": "6gPf2w5slsE",
+   "t": "PCB Motors at the Hackaday Supercon!",
+   "d": "2018-11-06",
+   "v": 5919,
+   "s": 138,
+   "vertical": false,
+   "desc": "This week I went to California for the Hackaday Supercon! It was awesome showing my projects to some of you guys and meeting you in person :)\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nhttps://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "QhqDf9Qyx5M",
+   "t": "Flexible PCB Robot Legs?",
+   "d": "2018-11-29",
+   "v": 7978,
+   "s": 234,
+   "vertical": false,
+   "desc": "New project! What if a could power a tiny robot with my flexible pcb actuators as its legs?\n\nThis was my first attempt in trying to do so, and it sort of failed. It still worked but it was not satisfying. All the issues are described in this video, leading up to MKII which I would discuss in next week's video! Stay tuned :)\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nhttps://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "VaFqEIpiOPA",
+   "t": "Making Circuits Walk? PCB Robot MKII Concept",
+   "d": "2018-12-09",
+   "v": 6205,
+   "s": 152,
+   "vertical": false,
+   "desc": "This is my new robot concept that use flexible PCB coils as legs! Now that I have proofed that the idea can work out, I can start designing MKIII. \n\nPCB Robot MKIII will be made from just a pcb, magnets and a battery. This cheap robot will be ideal for swarm robotics.\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nHackaday\nhttps://hackaday.io/project/162529-crawling-pcb-robot\n\nHackster\nhttps://www.hackster.io/carlbugeja/crawling-pcb-robot-e9bbb1\n"
+  },
+  {
+   "id": "ZHX6LXzhkjo",
+   "t": "Attracting Paper to Magnets!",
+   "d": "2018-12-28",
+   "v": 15681,
+   "s": 317,
+   "vertical": false,
+   "desc": "\u200bThis year I have design various kind of motors that are made from PCBs. These designs have inspired me to try and create an electromagnet drawn on paper! \n\nTo draw the coil I have used conductive ink that created a much smaller resistance than if I used a normal 2B graphite pencil. I started out with 35 turns but the resistance still got to 2.4kohms, so i reduced the turns to 20 and got a 60 ohms independence. \n\nAs shown in the video I managed to get some good results for attraction and repulsion. There is still some room for improving the \"electromagnetic drawing\". I can try to make the coil"
+  },
+  {
+   "id": "BKVidFxn11I",
+   "t": "Designing my first PCB Robot",
+   "d": "2019-01-20",
+   "v": 31369,
+   "s": 650,
+   "vertical": false,
+   "desc": "Using PCBs to make Swarm robots cheap? In this week video, I explain how I designed my four-legged PCB Robot MKIII, having a BLE module and a simple circuit for driving the coils and charging them!\n\nThis project is sponsored by PCBway, check out there services:\nhttps://www.pcbway.com/setinvite.aspx?inviteid=3687\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nHackaday\nhttps://hackaday.io/project/162529-crawling-pcb-robot\n\nHackster\nhttps://www.hack"
+  },
+  {
+   "id": "cqjscAKuq-4",
+   "t": "Self-Aligning Magnets?",
+   "d": "2019-01-28",
+   "v": 4971,
+   "s": 124,
+   "vertical": false,
+   "desc": "An N52 neodymium magnet that is strong enough to overcome its friction and automatically aligns with Earth's magnetic field! \n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nMusic\nhttps://soundcloud.com/artificial-music"
+  },
+  {
+   "id": "SFCVwAlIWAI",
+   "t": "Making a Robot from just a Circuit",
+   "d": "2019-02-24",
+   "v": 380704,
+   "s": 735,
+   "vertical": false,
+   "desc": "An attempt to create a robot that uses a PCB as both its brain and muscle!\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nThis project is sponsored by PCBway, check out there services:\nhttps://www.pcbway.com/setinvite.aspx?inviteid=3687\n\nDesign video:\nhttps://www.youtube.com/watch?v=BKVidFxn11I\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 Int"
+  },
+  {
+   "id": "Mlplfm0K32U",
+   "t": "PCB Robot - 2 Legs Test!",
+   "d": "2019-03-09",
+   "v": 19181,
+   "s": 288,
+   "vertical": false,
+   "desc": "After the tests I made in the last video, I decided to cut two legs off my PCB robot to reduce the weight. The behavior of the robot was completely different and I managed to improve its locomotion by adding a small pivot underneath it.\n\nThis project is an attempt to create a robot that uses a PCB as both its brain and muscle!\n\nDesign video:\nhttps://www.youtube.com/watch?v=BKVidFxn11I\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com"
+  },
+  {
+   "id": "WFdmsJZsbOQ",
+   "t": "FlexLED - Flexing Light?",
+   "d": "2019-03-28",
+   "v": 444486,
+   "s": 244,
+   "vertical": false,
+   "desc": "This is my first FlexLED prototype! It is my attempt to create a simple POV display from flexible PCBs! \n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nThis project is sponsored by PCBway, check out there services:\nhttps://www.pcbway.com/setinvite.aspx?inviteid=3687\n(They have up to 25% off of Flex & Flex-rigid boards)\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nPCB Coils:\nhttps://www.tindie.c"
+  },
+  {
+   "id": "5ictkUsC9mc",
+   "t": "Flexible PCB Actuators Thickness?",
+   "d": "2019-04-07",
+   "v": 17422,
+   "s": 292,
+   "vertical": false,
+   "desc": "A PCB can be considered as 'flexible' when its thickness is under 0.3mm. But how can this extra thickness effect the behavior of my flexible PCB Magnetic Actuators? This is what I tried to answer in this video. I compared the electrical parameters of the coils and also the bending capabilities of both 0.13mm and 0.3mm thick PCBs!\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/"
+  },
+  {
+   "id": "FoTVuL_licU",
+   "t": "Answering Your Questions!",
+   "d": "2019-05-17",
+   "v": 16573,
+   "s": 673,
+   "vertical": false,
+   "desc": "Q&A video about my projects and my engineering experience (so far)! Thank you for everyone who asked me questions!\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/"
+  },
+  {
+   "id": "x4EBuu4pyPw",
+   "t": "PCB Motor - How fast can it go?",
+   "d": "2019-06-04",
+   "v": 109333,
+   "s": 478,
+   "vertical": false,
+   "desc": "In this video I measured how fast my PCB motor prototypes can go! \n\nDesign Video: https://www.youtube.com/watch?v=4cdVpoWTC_c\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nPCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nMusic:\n1. https://soundcloud.com/joakimkarud\n2. Jellyfish (ft. KODOMOi) by Declan DP https://soundcloud.com/declandp Licensing Agreement 2.0 (READ) http://www.declandp.info/music-licensing Music promoted by Audio Libra"
+  },
+  {
+   "id": "NIo4kdAb9MY",
+   "t": "Smallest N52 Magnet",
+   "d": "2019-06-13",
+   "v": 66152,
+   "s": 112,
+   "vertical": false,
+   "desc": "Is this the smallest N52 magnet? In this video we take a look at this neodymium magnet, measuring at 1x0.5mm (0.0354\"' x 0.0157\")! \n\nMagnets Link: https://ebay.to/2WB2vu5\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nMusic\nLife by KV https://soundcloud.com/kvmusicprod Creative Commons \u2014 Attribution 4.0 International \u2014 CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ Music promoted by Audio Library https://youtu.be/jH8ryRw1cWg"
+  },
+  {
+   "id": "dsEWjJJqkcI",
+   "t": "Magnetic Paper Butterfly",
+   "d": "2019-06-29",
+   "v": 171248,
+   "s": 605,
+   "vertical": false,
+   "desc": "This video is my second attempt in trying to create Paper Electromagnetic Actuators! With the help of a plotter I was able to get much better results for the coils. There's a lot of applications these paper actuators can be used in but as a final demo I decided to make a paper butterfly that uses these coils to flap its wings.\n\nConductive pens I used:\nhttps://www.circuitscribe.com/ \n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nFirst Paper Electromagnet Attempt:\nhttps://www.youtube.com/watch?v=ZHX6LXzhkjo&t=6s\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/B"
+  },
+  {
+   "id": "R6fPeYFXOoI",
+   "t": "Jigsaw Puzzle PCB Motor",
+   "d": "2019-07-12",
+   "v": 131350,
+   "s": 438,
+   "vertical": false,
+   "desc": "This is my first attempt in trying to create a rotor-flux PCB Motor!\n\nThank you PCBWay for sponsering this project, check out there services:\nhttps://www.pcbway.com/setinvite.aspx?inviteid=3687\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nSocial Media\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nYou can now buy my flexible PCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nMusic:\n1.Leaf by KV https://www.soundcloud.com/kvmusicprod/ Creative Commons \u2014 Attribution 4.0 International \u2014 CC BY 4.0 w"
+  },
+  {
+   "id": "byplDjvMn8I",
+   "t": "PCB Robot MKIII - Final Test!",
+   "d": "2019-08-18",
+   "v": 19111,
+   "s": 372,
+   "vertical": false,
+   "desc": "In this video I went back to retest my PCB Robot! I upgraded the firmware to controller it over Bluetooth, added a new LiPo and tested how the weight and position of the battery effected the locomotion of the robot. I learned alot from these tests and the concluded result clearly shows what need to be improved in future prototypes.\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nMy Social Media:\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram.com/bugeja.carl/\n\nYou can now buy my flexible PCB Coils:\nhttps://www.tindie.com/products/Microbots/fl"
+  },
+  {
+   "id": "aojxKRDbWJY",
+   "t": "Designing a Flexi-Rigid PCB (FlexLED v2)",
+   "d": "2019-09-19",
+   "v": 29310,
+   "s": 687,
+   "vertical": false,
+   "desc": "This is the design video for FlexLED 2.0 - An attempt to create a simple POV display from a flexible PCB (so basically no motors)! Thank you PCBWay for sponsering this project! Get $10 off your order if its total is greater or equal to $20, by using this code 7bbef73b - This offer is only valid for the first 40 people that use it!\nhttps://www.pcbway.com\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nThe PCB Design Software that I use: https://www.altium.com/free-trials/ \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nYou can now buy my flexible PCB Coils:\nh"
+  },
+  {
+   "id": "3EHa0PyN1ok",
+   "t": "Making PCBs in MINUTES!",
+   "d": "2019-10-24",
+   "v": 339641,
+   "s": 351,
+   "vertical": false,
+   "desc": "In the last few days I have been experimenting with my Bantam Tools Desktop PCB Mill! This little milling machine can allow you to make prototype PCBs in just a few minutes. And it can also engrave/mill other materials like metals or plastics!\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagnifying Lamp: https://amzn.to/3jrcaQv\nVernier Caliper: https://amzn.to/3eTju3I\nMulti-meter: https://amzn.to/3hq6B2R\n\nYou can now buy my flexi"
+  },
+  {
+   "id": "aXzuMHtgagU",
+   "t": "Making a 4-Legged Robot Ball",
+   "d": "2019-12-14",
+   "v": 584499,
+   "s": 603,
+   "vertical": false,
+   "desc": "This is the build video of 4B, a robot i started working on last year but had to stop because of the other projects that I had. This robot has 4-legs with a total of 12DOF, and what's special about it is that it can fold in a 6cm diameter ball!\n\nThank you PCBWay for sponsering this project, check out there services:\nhttps://www.pcbway.com\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nYou can now buy my flexible PCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: htt"
+  },
+  {
+   "id": "WIOOD2jTAN4",
+   "t": "4-Legged Robot Ball - First Walking & Rolling Test",
+   "d": "2019-12-17",
+   "v": 145996,
+   "s": 215,
+   "vertical": false,
+   "desc": "This is 4B's first test with an on-board battery. In this video, I tested how it opens and closes into a ball, the walking algorithm and also a very rough open-loop rolling algorithm. \n\nThank you PCBWay for sponsering this project, check out there services:\nhttps://www.pcbway.com\r\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\r\n\nOpen Source Files:\nhttps://hackaday.io/project/158016-4b-robot\nhttps://www.hackster.io/carlbugeja/4b-robot-7874ac\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.t"
+  },
+  {
+   "id": "XRPEkorUZ_I",
+   "t": "4-Legged Robot Ball Issues",
+   "d": "2019-12-31",
+   "v": 34838,
+   "s": 308,
+   "vertical": false,
+   "desc": "In this video I tried to explain all the issues I have encountered while building my 4B transformer robot. \n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nOpen Source Files:\nhttps://hackaday.io/project/158016-4b-robot\nhttps://www.hackster.io/carlbugeja/4b-robot-7874ac\n\nYou can now buy my flexible PCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagnifying Lamp: https://amzn.to/3jrcaQv\nVernier Caliper: ht"
+  },
+  {
+   "id": "hwJEImvJpLY",
+   "t": "Geekiest DIY Valentine's Gift?",
+   "d": "2020-02-14",
+   "v": 20900,
+   "s": 63,
+   "vertical": false,
+   "desc": "I'm currently working on finishing the FlexLED v2 prototype! In this video I show a brief teaser of what its capable of and create a small little heart for Valentines day.  Support me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nYou can now buy my flexible PCB Coils:\nhttps://www.tindie.com/products/Microbots/flexible-pcb-actuator/\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagnifying Lamp: https://amzn.to/3jrcaQv\nVernier Caliper: https://amzn.to/3eTju3I\nMulti-meter: https://amzn.to/"
+  },
+  {
+   "id": "wM_Byrv9iBI",
+   "t": "Holographic FlexLED",
+   "d": "2020-02-20",
+   "v": 3796293,
+   "s": 332,
+   "vertical": false,
+   "desc": "FlexLED is my attempt to create a very simple POV display! This video shows the second prototype I have created. \n\nThank you PCBWay for sponsoring this project, check out there services: https://www.pcbway.com\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThe PCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nMy flexible PCB Actuator - https://flexar.io"
+  },
+  {
+   "id": "yhKtwCmlFfg",
+   "t": "I made a circuit JUMP!",
+   "d": "2020-03-22",
+   "v": 361155,
+   "s": 303,
+   "vertical": false,
+   "desc": "PCBs can jump! In this video I created a new flexible PCB actuator prototype with an attempt at making it bounce :) Thank you PCBWay for sponsoring this project, check out there services: https://www.pcbway.com\n\nSupport me on Patreon:\nhttps://www.patreon.com/carlbugeja\n\nThe PCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nS"
+  },
+  {
+   "id": "P51te12Oux4",
+   "t": "Prototyping FlexPCBs - The Affordable Way!",
+   "d": "2020-03-31",
+   "v": 44444,
+   "s": 169,
+   "vertical": false,
+   "desc": "Flexi-Rigid PCBs can get pretty expensive for prototyping, so in this video I explain about a cheaper option which I've started using for my projects. Thank you PCBWay for sponsoring this project, check out there services: https://www.pcbway.com\n\nSupport me on Patreon: https://www.patreon.com/carlbugeja\n\nThe PCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagni"
+  },
+  {
+   "id": "_-YDuCqEwuw",
+   "t": "How to design a PCB Motor?",
+   "d": "2020-04-10",
+   "v": 159031,
+   "s": 561,
+   "vertical": false,
+   "desc": "Support me on Patreon: https://www.patreon.com/carlbugeja\nThank you PCBWay for sponsoring this project, check out there services: https://www.pcbway.com\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagnifying Lamp: https://amzn.to/3jrcaQv\nVernier Caliper: https://amzn.to/3eTju3I\nMulti-meter: https://amzn.to/3hq6B2R\n\nMy Social Media:\nhttps://www.youtube.com/carlbugeja\nhttps://twitter.com/BugejaCarl\nhttps://www.instagram"
+  },
+  {
+   "id": "3ZCjXoN7kTA",
+   "t": "Selecting a new H-bridge Driver!",
+   "d": "2020-05-02",
+   "v": 64832,
+   "s": 384,
+   "vertical": false,
+   "desc": "In this video we discuss the SUPER tiny (1.5mmx1.5mm) SUPER cheap (0.14$ cheap (depending on the quantities)) PAM8016 driver and compare it to the DRV8837 (which was the other integrated h-bridge driver that i was using). Thank you PCBWay for sponsoring this project, check out there services: https://www.pcbway.com\n\nPCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nPAM8016 - https://www.digikey.com/product-detail/en/diodes-incorporated/PA"
+  },
+  {
+   "id": "xOn3EBYiJ4w",
+   "t": "Making PCB Motor v3",
+   "d": "2020-06-05",
+   "v": 109521,
+   "s": 391,
+   "vertical": false,
+   "desc": "This video is about my third brushless PCB Motor prototype! I explain the lessons-learned from my older versions and the reason behind every design choice I made, to try and improve its performance!\nThank you PCBWay for sponsoring my PCBs: https://www.pcbway.com\n\nPCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nOpen Source files: https://hackaday.io/project/39494-pcb-motor\nSupport my work on Patreon: https://www.patreon.com/carlbugeja\n\nC"
+  },
+  {
+   "id": "p2evFiOsVtM",
+   "t": "Folding PCB Hinge Design",
+   "d": "2020-06-23",
+   "v": 45150,
+   "s": 121,
+   "vertical": false,
+   "desc": "This is a problem I have been trying to solve for a very long time, making a simplified flexible pcb hinge!\nThank you PCBWay for sponsoring my PCBs: https://www.pcbway.com\n\nPCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nSupport my work on Patreon: https://www.patreon.com/carlbugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMag"
+  },
+  {
+   "id": "QaYbcf744z8",
+   "t": "Quitting Automotive!",
+   "d": "2020-07-10",
+   "v": 24265,
+   "s": 292,
+   "vertical": false,
+   "desc": "I have some exciting news to share! I am officially switching to a full-time self-employed engineer :) This is something I wanted to do for a very long time and now I feel is the right time to switch. This will allow me to improve the quality of the videos and I can even tackle more fun and challenging projects! Thank you PCBWay for sponsoring my projects: https://www.pcbway.com\n\nPCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nSupport m"
+  },
+  {
+   "id": "tXMxI9-xY38",
+   "t": "68% Smaller PCB Coil - Is it Better?",
+   "d": "2020-07-22",
+   "v": 39603,
+   "s": 465,
+   "vertical": false,
+   "desc": "How small can my Flexible PCB Actuator get? This is the question I tried answering in this video! I first discuss how we can get it smaller and the compromises involved. Then I measured the specifications of each prototype and tested the actuators in different applications. Thank you PCBWay for sponsoring my flexible PCBs: https://www.pcbway.com\n\nPCB Design Software that I use: https://carlbugeja.com/altium\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nSupport my work on Patreon: https://www.pat"
+  },
+  {
+   "id": "XSiQmqTMMaY",
+   "t": "Vibrating Circuit Robot",
+   "d": "2020-08-11",
+   "v": 55681,
+   "s": 670,
+   "vertical": false,
+   "desc": "In this video I show my journey in making FlexBot, an attempt to make a simplified robot made from a flexible circuit! \n\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version of Altium's Pro Version: https://www.altium.com/circuitmaker \n\nThank you PCBWay for manufacturing my flexible PCBs: https://www.pcbway.com\n\nSupport my work on Patreon: https://www.patreon.com/carlbugeja\n\nOpen Source Gerber Files:\nhttps://www.hackster.io/carlbugeja/flexbot-4f568f\nhttps://hackaday.io/project/174265-flexbot\n\nFirst PaperBot Concept: https://www.youtube.com/watch?v=0zsAJ7_eF4M\nMy O"
+  },
+  {
+   "id": "qe4MLh6nhU8",
+   "t": "FlexAR - An Open Source Flexible Actuator",
+   "d": "2020-09-15",
+   "v": 26049,
+   "s": 75,
+   "vertical": false,
+   "desc": "Get your own FlexAR - https://www.flexar.io\n \nSupport my projects - https://www.patreon.com/carlbugeja\nMerch Store- https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camera: https://amzn.to/2ZLm2wy\nLight Setup: https://amzn.to/3jtqckA\nMagnifying Lamp: https://amzn.to/3jrcaQv\nVernier Caliper: https://amzn.to/3eTju3I\nMulti-meter: https://amzn.to/3hq6B2R\nDigital Milligram Scale: https://amzn.to/30HIw1X\n\nYoutube Channel - https://youtube.com/carlbugeja\nTwitter - https://twitter.com/BugejaCarl\nInstagram - https://instagram.c"
+  },
+  {
+   "id": "nfQP2Xxvq3M",
+   "t": "How I made a \u20ac2 ACTUATOR",
+   "d": "2020-09-22",
+   "v": 152478,
+   "s": 560,
+   "vertical": false,
+   "desc": "This is the full story of how I made FlexAR, an open source flexible pcb actuator! More info about it at https://www.flexar.io\nMy favourite PCB Manufacturer: https://www.pcbway.com\nLearn more about Altium 365: https://www.altium365.com/yt/carlbugeja\nFree Version: https://www.altium.com/circuitmaker  \n\nFlexAR Video - https://www.youtube.com/watch?v=qe4MLh6nhU8\nEEVblog887 - The Economics Of Selling Hardware - https://www.youtube.com/watch?v=UwrkfHadeQQ\n\nSupport my projects - https://www.patreon.com/carlbugeja\nMy Flexible PCB Actuator - http://flexar.io\n\nCameras/Tools I use (affiliate links):\nMai"
+  },
+  {
+   "id": "3xHlxTJz3cQ",
+   "t": "New FlexLED Concept?",
+   "d": "2020-10-08",
+   "v": 69932,
+   "s": 557,
+   "vertical": false,
+   "desc": "For the last 7 months I've been brainstorming on how I can improve my FlexLED POV display. In this video I discuss all the ideas I had and how I'm going to implement them into version3!\n\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nFree Version: https://www.altium.com/circuitmaker  \nAltium 365: https://www.altium.com/viewer/\n\nSupport my projects - https://www.patreon.com/carlbugeja\nMy Flexible PCB Actuator - http://flexar.io\nMy Merch Store- https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera: https://amzn.to/30tRgY7\nSecond Camer"
+  },
+  {
+   "id": "gJBMEPMPwUk",
+   "t": "Making a Jumping PCB Robot",
+   "d": "2020-10-29",
+   "v": 232467,
+   "s": 738,
+   "vertical": false,
+   "desc": "My attempt at making a flexible PCB robot frog \ud83d\ude43\ud83d\udc38 Help me make more projects by supporting me on Patreon \ud83e\udc0a https://www.patreon.com/carlbugeja\nPCB Manufacturer \ud83e\udc0a https://www.pcbway.com\nPCB Design Software \ud83e\udc0a https://www.altium365.com/yt/carlbugeja\nFree Version \ud83e\udc0a https://www.altium.com/circuitmaker  \n\nMy Flexible PCB Actuators \ud83e\udc0a http://flexar.io\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nCameras/Tools I use (affiliate links):\nMain Camera \ud83e\udc0a https://amzn.to/30tRgY7\nSecond Camera \ud83e\udc0a https://amzn.to/2ZLm2wy\nLight Setup \ud83e\udc0a https://"
+  },
+  {
+   "id": "bhgSU5OE0a0",
+   "t": "Building my NEW LAB!",
+   "d": "2020-11-12",
+   "v": 45569,
+   "s": 623,
+   "vertical": false,
+   "desc": "Goodbye old lab! Hello new lab!\nHelp me make more projects by supporting me on Patreon \ud83e\udc0a https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators \ud83e\udc0a http://flexar.io\nYou can also support my work by buying merch \ud83e\udc0a https://teespring.com/stores/carl-bugeja\n\nEEVBlog's Workbench Guide \ud83e\udc0a https://www.youtube.com/watch?v=vuUSIt3rbyU&t=671s\n\nCameras/Tools I use (affiliate links):\nMain Camera \ud83e\udc0a https://amzn.to/30tRgY7\nSecond Camera \ud83e\udc0a https://amzn.to/2ZLm2wy\nLight Setup \ud83e\udc0a https://amzn.to/3jtqckA\nHeating Plate \ud83e\udc0a https://amzn.to/36qYzD4\nUltrasonic Cleaner \ud83e\udc0a https://amzn.to/3nfUGHY\nMagnifying Lamp \ud83e\udc0a htt"
+  },
+  {
+   "id": "ZTM_pPJa_Rc",
+   "t": "You used my \u20ac2 ACTUATOR for...",
+   "d": "2020-11-19",
+   "v": 29057,
+   "s": 483,
+   "vertical": false,
+   "desc": "In this special video I go through some of your awesome projects that uses my new FlexAR actuator (http://flexar.io)\n\nHere the link of every project I mentioned in this video:\nWill Wojeck (Biomagnet Speaker) - https://www.youtube.com/watch?v=-4pnriXjdJw\nWill Wojeck (Biomagnet Haptic feedback) - https://www.youtube.com/watch?v=wH_Gnp5WU6Q\nMarcelo (Flex Microheater Idea) - https://twitter.com/Marcelokauffman\nTom (Flexar-to-Magnetometer transmitter) - https://twitter.com/tdsepsilon/status/1329145003499679745\nLee cyborg (FlexAR transformer) - https://twitter.com/Leeborg_/status/1321982568506556419"
+  },
+  {
+   "id": "OzqSzFZa2DY",
+   "t": "Microstepping a PCB Motor?",
+   "d": "2020-12-05",
+   "v": 158714,
+   "s": 581,
+   "vertical": false,
+   "desc": "My first attempt at making a Stepper PCB Motor!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nMy favorite PCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators - http://flexar.io\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3jrcaQv\nVernie"
+  },
+  {
+   "id": "3a5fNPUIqAE",
+   "t": "How I got See-Through Circuits for Christmas",
+   "d": "2020-12-21",
+   "v": 67180,
+   "s": 360,
+   "vertical": false,
+   "desc": "Happy Transparent Christmas Circuit Trees!!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nMy favorite PCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators - http://flexar.io\nYou can also support my work by buying merch - https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasoni"
+  },
+  {
+   "id": "egLA0GgF3xw",
+   "t": "Creating Haptic Feedback with Piezo Buzzers",
+   "d": "2021-01-16",
+   "v": 184323,
+   "s": 676,
+   "vertical": false,
+   "desc": "Making a 3-in-1 Piezo Buzzer, Sensor and Haptic Actuator! The first 1000 people to use this link will get a free trial of Skillshare Premium Membership: https://skl.sh/carlbugeja12201\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators - http://flexar.io\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3j"
+  },
+  {
+   "id": "iN9-7NXruN4",
+   "t": "Scanning PCB-Coils with a \u20ac200,000 X-RAY MACHINE",
+   "d": "2021-02-25",
+   "v": 65917,
+   "s": 692,
+   "vertical": false,
+   "desc": "After testing 2650 flexar actuators, I decided to further investigate some of the issues by analyzing them using an X-Ray inspection machine! Special thanks goes to the Department of Electronic Systems Engineering of University of Malta for letting me use their awesome equipment. Check out their current projects:  https://www.um.edu.mt/eng/ese\n\nI also like to thank Keysight for sponsoring my new U1733C LCR Meter - https://cutt.ly/Wlmg0b0\nCheck out their event \ud83d\udc49 http://bit.ly/CarlB_KULive Keysight University Live is an online event with test gear tips & tricks, interviews with industry experts,"
+  },
+  {
+   "id": "D0r3OnCL0kw",
+   "t": "Blowing Up Planar Coils",
+   "d": "2021-03-08",
+   "v": 11754,
+   "s": 426,
+   "vertical": false,
+   "desc": "PCB Coils over-voltage test ended up in flames\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators - http://flexar.io\nSMD Resistor Hoodie Merch - https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3"
+  },
+  {
+   "id": "dy9NutXl2OY",
+   "t": "Trying to build a PCB Hot-Plate to Reflow PCBs",
+   "d": "2021-03-15",
+   "v": 109808,
+   "s": 651,
+   "vertical": false,
+   "desc": "My first attempt at reflowing a PCB with another PCB!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Flexible PCB Actuators - http://flexar.io\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3jrcaQv\nVernier Cali"
+  },
+  {
+   "id": "XfVz9Otxzyo",
+   "t": "Building a PCB Electromagnet",
+   "d": "2021-04-02",
+   "v": 30150,
+   "s": 559,
+   "vertical": false,
+   "desc": "Trying to attract metal using a PCB Electromagnet Coil! https://microbots.io/coilcell\nThe first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/carlbugeja03211\n\nIn this video I tried to answer the three most common questions I get asked! \ud83d\udc47\nQ1. Can two flexible pcb actuators attract/repel each other?\nQ2. Can you use a magnetic viewing film to observe the magnetic field of pcb coils?\nQ3. Can you attract metal with a PCB coil?\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nHere's where you can get a F"
+  },
+  {
+   "id": "V3dw__N4nls",
+   "t": "Experimenting with Hemispherical Flapping LEDs",
+   "d": "2021-04-24",
+   "v": 248903,
+   "s": 750,
+   "vertical": false,
+   "desc": "My attempt at building a larger Hemispheric FlexLED (Version 3)\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nHere's where you can get a Flexible PCB Actuator - http://flexar.io\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - htt"
+  },
+  {
+   "id": "v50y6esS7mw",
+   "t": "Giant N52 Magnets makes Flexible Wires Dance",
+   "d": "2021-04-29",
+   "v": 99523,
+   "s": 257,
+   "vertical": false,
+   "desc": "An experiment with silicone insulated wires and super strong permanent magnets\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nHere's where you can get a Flexible PCB Actuator - http://flexar.io\nSMT Resistor Hoodie - https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn"
+  },
+  {
+   "id": "ezONF7bKqfs",
+   "t": "PCB Motor 2-Wheeled Robot (Part 1/3)",
+   "d": "2021-05-18",
+   "v": 278598,
+   "s": 314,
+   "vertical": false,
+   "desc": "My first attempt at building a two wheeled PCB-Motor Robot!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nHere's where you can get a Flexible PCB Actuator - http://flexar.io\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtq"
+  },
+  {
+   "id": "oa6sP-joAr8",
+   "t": "Making PCB Motor v4",
+   "d": "2021-08-04",
+   "v": 582384,
+   "s": 629,
+   "vertical": false,
+   "desc": "These are all the new improvements with PCB Motor version 4!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \nOpen Source Files - https://github.com/CarlBugeja/PCB-Motor-v4\n\nTime Makers:\n00:00 - Intro\n00:36 - PCB Design\n01:39 - Unboxing\n02:03 - Initial Testing\n03:13 - Iron Rotor\n05:24 - Sh"
+  },
+  {
+   "id": "tti6MpB3ClM",
+   "t": "Exploring New PCB Coil Actuators",
+   "d": "2021-08-11",
+   "v": 59617,
+   "s": 198,
+   "vertical": false,
+   "desc": "I designed 2 new PCB coils and compared them with my current spiral PCB actuator!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\nMy Merch Store - https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner -"
+  },
+  {
+   "id": "wa2L0C0SApU",
+   "t": "Beginner's Guide to Flexible Circuits!",
+   "d": "2021-08-18",
+   "v": 91692,
+   "s": 346,
+   "vertical": false,
+   "desc": "Sharing some tips I've learned on flex-pcb design!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\nMy Merch Store - https://teespring.com/stores/carl-bugeja\n\nCameras/Tools I use (affiliate links):\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnif"
+  },
+  {
+   "id": "ZChSbpBbrt4",
+   "t": "Making PCB Hot-Plate v2",
+   "d": "2021-09-23",
+   "v": 130611,
+   "s": 461,
+   "vertical": false,
+   "desc": "My 2nd version of the Open-Reflow PCB Hot-Plate\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is an attempt at making a PCB Hot-Plate that reflows other PCBs! It's works just like a 3d-printer's heat bed and the aim is to reflow low-temperature solder paste. For testing I am using the TS391LT50 which has a maximum reflow temperature of 165\u00b0C.\n\nMy aim is to develop a temperature controlled hot-plate and also explore the idea"
+  },
+  {
+   "id": "kLvxkUa14lk",
+   "t": "Is a Cored PCB-Motor more efficient?",
+   "d": "2021-10-07",
+   "v": 65289,
+   "s": 283,
+   "vertical": false,
+   "desc": "I tired to add a core to my slotless PCB Motor\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3jrcaQv\nVernier Caliper "
+  },
+  {
+   "id": "fbBXPeC-FPQ",
+   "t": "Experimenting with High Temperature PCBs!",
+   "d": "2021-10-21",
+   "v": 112397,
+   "s": 297,
+   "vertical": false,
+   "desc": "Testing SH260 (Tg=250\u00b0C) and Polyimide (Tg=290\u00b0C) High Temperature PCBs!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHe"
+  },
+  {
+   "id": "Ce5tP98XgxY",
+   "t": "PCB Electromagnet vs Ferrofluid",
+   "d": "2021-11-07",
+   "v": 76972,
+   "s": 493,
+   "vertical": false,
+   "desc": "I made a 12-layer PCB Electromagnet to control Ferrofluid! \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nCheck out Applied Procrastination's Ferrofluid Tank Test - https://youtu.be/kZ9yWRKxpSY\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nU"
+  },
+  {
+   "id": "k1inMrAZ_Eo",
+   "t": "12-layer PCB Coil APPLICATIONS",
+   "d": "2021-12-03",
+   "v": 236112,
+   "s": 191,
+   "vertical": false,
+   "desc": "12-Layer PCB Actuator Kit - https://flexar.io/products/pcb-actuator\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating"
+  },
+  {
+   "id": "uqKVX6po2o4",
+   "t": "PCB Motor 2-Wheeled Robot (Part 2/3)",
+   "d": "2021-12-24",
+   "v": 108808,
+   "s": 367,
+   "vertical": false,
+   "desc": "In this video I optimized the rotor for my PCB Motor and fixed the wheels for my robot!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amz"
+  },
+  {
+   "id": "lTghYyXcQPs",
+   "t": "5 Design Tips for 'Out-of-Stock' Chips",
+   "d": "2022-01-19",
+   "v": 25408,
+   "s": 185,
+   "vertical": false,
+   "desc": "My tips on how to select and find electronics during this chip shortage!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.t"
+  },
+  {
+   "id": "6O5qT7U4N3U",
+   "t": "Foldable Robot Design #InTheMaking #Shorts",
+   "d": "2022-01-27",
+   "v": 62111,
+   "s": 8,
+   "vertical": true,
+   "desc": "Just finished my new wheeled PCB Robot Design \ud83d\ude0d\n\nThis was designed using Altium Designer https://carlbugeja.com/altium"
+  },
+  {
+   "id": "bHDglqqbP4M",
+   "t": "Soldering 242 LEDs on a FlexPCB",
+   "d": "2022-02-02",
+   "v": 405358,
+   "s": 16,
+   "vertical": true,
+   "desc": "Behind the scenes in making one of my next projects! This flexpcb will eventually fold into a Sphere! \ud83e\udd1e\nGet a free trial of Altium Designer - https://carlbugeja.com/altium\nPCB Manufacturer - https://www.pcbway.com\n\nMusic - Rockville (YouTube Audio library)"
+  },
+  {
+   "id": "2cvDjeSUgwY",
+   "t": "How Hot can a Flexible PCB get?",
+   "d": "2022-02-10",
+   "v": 74647,
+   "s": 311,
+   "vertical": false,
+   "desc": "My journey making a bendable heater sticker!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3jrcaQv\nVernier Caliper - "
+  },
+  {
+   "id": "2tWxbrQyKA8",
+   "t": "Smallest PCB Heater",
+   "d": "2022-02-14",
+   "v": 130375,
+   "s": 43,
+   "vertical": true,
+   "desc": "My smaller thermal sticker concept!\nGet a free trial of Altium Designer - https://carlbugeja.com/altium\nPCB Manufacturer - https://www.pcbway.com\n\nMusic - The Truth - Anno Domini Beats (YouTube Audio library)"
+  },
+  {
+   "id": "5iIn6wOLhv4",
+   "t": "Building a Ping-Pong Ball with LEDs",
+   "d": "2022-02-24",
+   "v": 87526,
+   "s": 489,
+   "vertical": false,
+   "desc": "How I made an ESP32 Ping-Pong LED-Ball with 242 Addressable RGB-LEDs \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\nMy Merch Store - https://teespring.com/stores/carl-bugeja\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - h"
+  },
+  {
+   "id": "tXHaDFTkjc0",
+   "t": "Making a Wearable Heater from a Flexible PCB",
+   "d": "2022-03-23",
+   "v": 52913,
+   "s": 281,
+   "vertical": false,
+   "desc": "Ironman inspired wearable PCB heater! \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nTools I use: (some of these are affiliate links)\nMain Camera - https://amzn.to/30tRgY7\nSecond Camera - https://amzn.to/2ZLm2wy\nLight Setup - https://amzn.to/3jtqckA\nHeating Plate - https://amzn.to/36qYzD4\nUltrasonic Cleaner - https://amzn.to/3nfUGHY\nMagnifying Lamp - https://amzn.to/3jrcaQv\nVernier Caliper - https:"
+  },
+  {
+   "id": "ys8wHc_UrsU",
+   "t": "PCB Motor 2-Wheeled Robot (Part 3/3)",
+   "d": "2022-05-25",
+   "v": 132704,
+   "s": 412,
+   "vertical": false,
+   "desc": "Part 3 of my Tiny 2-wheeled PCB Robot Build!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nMy Electronic Kits - http://flexar.io\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\n#Robotics\n\nThe winner for the #AltiumGiveaway will be selected within a week. To enter the giveaway:, like this video, subscribe to my channel, and write a suggestion about my project in the comme"
+  },
+  {
+   "id": "oe-3H8u-2eM",
+   "t": "How i made a PCB-Actuator Driver",
+   "d": "2022-07-14",
+   "v": 83511,
+   "s": 305,
+   "vertical": false,
+   "desc": "My new PCB Actuator Driver Kit - https://flexar.io/products/flexar-driver\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nOther Videos Related to this Project:\nhttps://www.youtube.com/watch?v=k1inMrAZ_Eo\nhttps://www.youtube.com/watch?v=qe4MLh6nhU8&t=1s\n\nSocial Media:\nYoutube Channel - https://youtube.com/carlbugeja\nInstagram - https://www.instagram.com/carl_bugeja\nTwitter - https://twitter.com/Bugeja"
+  },
+  {
+   "id": "p-ATWaAyJ9I",
+   "t": "Experimenting with Jumping PCB Robots",
+   "d": "2022-07-28",
+   "v": 51636,
+   "s": 227,
+   "vertical": false,
+   "desc": "Optimizing the mechanical parameters of my jumping PCB frog\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nMy Electronic Kits - http://flexar.io\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nMy Shorts YouTube Channel - https://www.youtube.com/channel/UCLZFgWn6LxmLAdzxh4R8Z7w\n\nOther Videos Related to this Project:\nhttps://www.youtube.com/watch?v=yhKtwCmlFfg&"
+  },
+  {
+   "id": "Rm4wyXis4Tg",
+   "t": "I Built a Fan from Flexible Circuits!",
+   "d": "2022-08-08",
+   "v": 109385,
+   "s": 230,
+   "vertical": false,
+   "desc": "An experimental DIY Fan made from Flexible PCBs\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nMy Electronic Kits - http://microbots.io\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nMy Shorts YouTube Channel - https://www.youtube.com/channel/UCLZFgWn6LxmLAdzxh4R8Z7w\n\nOther Videos Related to this Project:\nhttps://www.youtube.com/watch?v=egLA0GgF3xw&t=521s\nht"
+  },
+  {
+   "id": "Tb95SW4WAVg",
+   "t": "Sneak Peek of My New WORKSHOP",
+   "d": "2022-10-09",
+   "v": 13974,
+   "s": 67,
+   "vertical": false,
+   "desc": "Welcome to my new shop! Help me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nMy Electronic Kits - http://flexar.io\n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nMy Shorts YouTube Channel - https://www.youtube.com/channel/UCLZFgWn6LxmLAdzxh4R8Z7w\n\nMusic: No Cry - Fasion"
+  },
+  {
+   "id": "MDhT6-6Yr_I",
+   "t": "Sticker Actuators for Origami!!",
+   "d": "2022-10-31",
+   "v": 113491,
+   "s": 492,
+   "vertical": false,
+   "desc": "Try out this Sticker Actuator here - https://microbots.io/coilpad\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCB Manufacturer - https://www.pcbway.com\n\nMy Electronic Kits - http://microbots.io\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nOrigami used in this video:\nDog - https://www.youtube.com/watch?v=lHu3K-ZuOFs\nBat 1 - https://www.youtube.com/watch?v=sWy9xKceE0g\nBat 2 - https://www.youtube.com/watch?v=kBJGchWe6uU\nSkeleton Puppet - https://www.youtube.com/watch?v=wSXJGPkI8QE\nScorpion - https://www.youtube.com/watch?v"
+  },
+  {
+   "id": "M3HqYx6Y0nM",
+   "t": "How this Actuator Survived 100,000,000 FLAPS",
+   "d": "2022-11-30",
+   "v": 1408213,
+   "s": 562,
+   "vertical": false,
+   "desc": "Making a flexible Actuator Robust! Try out this flap yourself here \ud83d\udc49 https://microbots.io/flatflap\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nMy Electronic Kits - http://microbots.io\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\n"
+  },
+  {
+   "id": "IzuPQfPGY0M",
+   "t": "Foldable Actuator",
+   "d": "2022-12-03",
+   "v": 2564412,
+   "s": 11,
+   "vertical": true,
+   "desc": "New Flap Actuator \ud83d\udc49 https://flexar.io/store/p/flap-actuator\nPCBs manufactued at PCBWay - https://www.pcbway.com\nGet a free trial of Altium Designer with 365 and 25% off your purchase - https://carlbugeja.com/altium\n\nMy Electronic Kits - http://flexar.io\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube Channel - https://www.youtube.com/channel/UCLZFgWn6LxmLAdzxh4R8Z7w\n\nLearn about Altium 365, the electronics pr"
+  },
+  {
+   "id": "r0csHZveVvY",
+   "t": "I made a Self-Soldering Circuit",
+   "d": "2023-01-18",
+   "v": 1219544,
+   "s": 495,
+   "vertical": false,
+   "desc": "A PCB that can solder itself and then be used to solder other boards!\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nFull Reflow Cycle Test - https://www.youtube.com/watch?v=8uDBX-V__r0\n\nMy Electronic Kits - http://flexar.io\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja/Open-Reflow\nSocial Media - https://linkt"
+  },
+  {
+   "id": "PsZszv4qHu4",
+   "t": "Building a Foldable PCB Robot!",
+   "d": "2023-03-24",
+   "v": 710405,
+   "s": 829,
+   "vertical": false,
+   "desc": "My attempt in making a Robot from 1 foldable circuit! My Electronic Kits - http://microbots.io \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube Channel: https://www.youtube.c"
+  },
+  {
+   "id": "QxypG0zHV8c",
+   "t": "The Robot with the Thinnest Motors!!",
+   "d": "2023-03-27",
+   "v": 124876,
+   "s": 9,
+   "vertical": true,
+   "desc": "Build Video - https://www.youtube.com/watch?v=PsZszv4qHu4&t=14s\nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nMy Electronic Kits - http://flexar.io\n\nMy Merch Store - https://teespring.com/stores/carl-bugeja\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube Channel: https://www.youtube.com/channel/UCLZFgWn6LxmLAdzxh4R"
+  },
+  {
+   "id": "y4dlTbUNbMI",
+   "t": "Magnetic Drum?",
+   "d": "2023-04-23",
+   "v": 1183026,
+   "s": 21,
+   "vertical": true,
+   "desc": "I made a magnet smasher\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nMy Electronic Kits - http://flexar.io\nPCBs manufactued at PCBWay - https://www.pcbway.com \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best quality components from Octopart: https://www.octopart.com"
+  },
+  {
+   "id": "NZPEMNop5RM",
+   "t": "Paper-Thin Actuator",
+   "d": "2023-04-29",
+   "v": 131749,
+   "s": 30,
+   "vertical": true,
+   "desc": "Small experiment showing how Sticker Actuators can be used with Paper\nhttps://flexar.io/store/p/flexar\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nMy Electronic Kits - http://flexar.io\n\nPCBs manufactued at PCBWay - https://www.pcbway.com \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best quality components from Octopart"
+  },
+  {
+   "id": "Zc8vHwgQTmQ",
+   "t": "3-in-1 Piezo Magic",
+   "d": "2023-05-05",
+   "v": 917927,
+   "s": 22,
+   "vertical": true,
+   "desc": "Small experiment showing how a piezo buzzer can be used for haptic feedback\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\nMy Electronic Kits - http://flexar.io"
+  },
+  {
+   "id": "NX7GHqq28uU",
+   "t": "Making a PCB Motor spin 30,000 RPM FASTER",
+   "d": "2023-06-22",
+   "v": 1901580,
+   "s": 821,
+   "vertical": false,
+   "desc": "Building 4 different speed controllers to optimize my PCB Motor\nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nMy Electronic Kits - http://flexar.io \nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube Channel: https://www.yo"
+  },
+  {
+   "id": "9iCqqexz_7o",
+   "t": "Smallest ESC!",
+   "d": "2023-06-27",
+   "v": 8447968,
+   "s": 18,
+   "vertical": true,
+   "desc": "Full test video \ud83d\udc49 https://www.youtube.com/watch?v=NX7GHqq28uU&t=4s  \nMy Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube "
+  },
+  {
+   "id": "KCcc0Z21jk0",
+   "t": "Sensorless PCB Motor",
+   "d": "2023-06-27",
+   "v": 1849754,
+   "s": 24,
+   "vertical": true,
+   "desc": "Full test video \ud83d\udc49 https://www.youtube.com/watch?v=NX7GHqq28uU&t=4s \nMy Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThis project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License \n\nOpen Source Files - https://github.com/CarlBugeja\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nSecond YouTube C"
+  },
+  {
+   "id": "wrnBW0HD0Vo",
+   "t": "Making Actuators with FlexPCB Springs",
+   "d": "2023-08-01",
+   "v": 348188,
+   "s": 426,
+   "vertical": false,
+   "desc": "Integrating a Flexure Bearing into a PCB Actuator! \nPCBs manufactued at PCBWay - https://www.pcbway.com \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nMy Electronic Kits - https://flexar.io/\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best quality components fro"
+  },
+  {
+   "id": "1EfGChzhJ3o",
+   "t": "Flexure Bearing PCB Actuator",
+   "d": "2023-08-03",
+   "v": 6905300,
+   "s": 23,
+   "vertical": true,
+   "desc": "Full video \ud83d\udc49 https://www.youtube.com/watch?v=wrnBW0HD0Vo\nMy Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best "
+  },
+  {
+   "id": "fpVMjG1guac",
+   "t": "Magnetic 7-Segment (Fail)",
+   "d": "2023-09-05",
+   "v": 828718,
+   "s": 25,
+   "vertical": true,
+   "desc": "Full video \ud83d\udc49 https://www.youtube.com/watch?v=wrnBW0HD0Vo\nMy Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best "
+  },
+  {
+   "id": "jgdUDhAucMM",
+   "t": "Magnetic Origami Parrot \ud83e\udd9c\ud83e\uddf2",
+   "d": "2023-09-06",
+   "v": 301969,
+   "s": 11,
+   "vertical": true,
+   "desc": "My Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best quality components from Octopart: https://www.octopart.co"
+  },
+  {
+   "id": "Dd0fperXJmM",
+   "t": "See-through Circuits!!",
+   "d": "2023-09-06",
+   "v": 152735,
+   "s": 21,
+   "vertical": true,
+   "desc": "My Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best quality components from Octopart: https://www.octopart.co"
+  },
+  {
+   "id": "NSRv03rNskQ",
+   "t": "Braille Actuator?",
+   "d": "2023-09-06",
+   "v": 61935,
+   "s": 14,
+   "vertical": true,
+   "desc": "Full video \ud83d\udc49 https://www.youtube.com/watch?v=wrnBW0HD0Vo\nMy Electronic Kits - http://flexar.io \nGet a free trial of Altium Designer with 365 + 25% off - https://carlbugeja.com/altium \nPCBs manufactued at PCBWay - https://www.pcbway.com \n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://www.altium.com/altium-365 \nFree search engine for the best "
+  },
+  {
+   "id": "3Lm9aanWmFM",
+   "t": "Shiny Reflecting Display \u2728",
+   "d": "2024-01-30",
+   "v": 22295,
+   "s": 5,
+   "vertical": true,
+   "desc": "Try it here \ud83d\udc49 https://microbots.io/products/flatflap"
+  },
+  {
+   "id": "tgTY2wmgIA4",
+   "t": "Turning My Projects into Something You Can Actually Use!",
+   "d": "2024-01-31",
+   "v": 147514,
+   "s": 524,
+   "vertical": false,
+   "desc": "Excited for all the new stuff coming at https://microbots.io/\nPCBs manufactued at PCBWay - https://www.pcbway.com \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nDriveCell - https://microbots.io/products/drivecell\nCoilCell - https://microbots.io/products/coilcell\nCoilPad - https://microbots.io/products/coilpad\nFlatFlap - https://microbots.io/products/flatflap\nNot a Real Butterfly - https://microbots.io/products/not-a-real-butterfly\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nLearn about Altium 365, the electronics produc"
+  },
+  {
+   "id": "cJ70l7pTlH8",
+   "t": "calling it microbots!",
+   "d": "2024-01-31",
+   "v": 48147,
+   "s": 42,
+   "vertical": true,
+   "desc": "https://microbots.io/"
+  },
+  {
+   "id": "dqnFRsl-W2o",
+   "t": "Flat Flap",
+   "d": "2024-02-15",
+   "v": 65593,
+   "s": 13,
+   "vertical": true,
+   "desc": "Try it here \ud83d\udc49 https://microbots.io/products/flatflap"
+  },
+  {
+   "id": "DIuQyKmJ4Mw",
+   "t": "Magnetic Bendy Sticker! \ud83e\uddf2",
+   "d": "2024-02-19",
+   "v": 749104,
+   "s": 14,
+   "vertical": true,
+   "desc": "Try it here \ud83d\udc49  https://microbots.io/products/coilpad"
+  },
+  {
+   "id": "4UJcm5QA34E",
+   "t": "Butterfly Art with PCB Wings",
+   "d": "2024-02-24",
+   "v": 182210,
+   "s": 17,
+   "vertical": true,
+   "desc": "Make your own Butterfly here \ud83d\udc49 https://microbots.io/flatflap"
+  },
+  {
+   "id": "OrcwKPLsIro",
+   "t": "Smallest Driver!",
+   "d": "2024-03-02",
+   "v": 2000703,
+   "s": 19,
+   "vertical": true,
+   "desc": "Try it here \ud83d\udc49 https://microbots.io/products/drivecell"
+  },
+  {
+   "id": "Dddk0GM621I",
+   "t": "I'm Making a Mini Spherical Display!!",
+   "d": "2024-03-08",
+   "v": 43025,
+   "s": 11,
+   "vertical": true,
+   "desc": "7cm mini Spherical Display"
+  },
+  {
+   "id": "Jjg6-xT6rJg",
+   "t": "Building a Mini Vegas-Sphere",
+   "d": "2024-04-25",
+   "v": 2308824,
+   "s": 436,
+   "vertical": false,
+   "desc": "7cm Mini Spherical Display! Check out my other Electronics - http://microbots.io \nPCBs manufactued at PCBWay - https://www.pcbway.com \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nOther Videos Related to this Project:\nhttps://www.youtube.com/watch?v=5iIn6wOLhv4&t=24s\n\nLearn about Altium 365, the electronics product design platform that unites PCB design, MCAD, data management, and teamwork: https://ww"
+  },
+  {
+   "id": "UvGnGwGgBRU",
+   "t": "Mini Sphere with 945 Pixels",
+   "d": "2024-05-16",
+   "v": 1776796,
+   "s": 35,
+   "vertical": true,
+   "desc": "7cm Mini Spherical Display! Check out my other Electronics - http://microbots.io"
+  },
+  {
+   "id": "MdcfFmJ5gi4",
+   "t": "Stretchable Circuit \ud83d\ude48",
+   "d": "2024-05-21",
+   "v": 2146558,
+   "s": 25,
+   "vertical": true,
+   "desc": "Thank you Ulrich Wetzel, for supplying these Stretchable PCBs!   \nPCB was originally manufactured by Contag AG"
+  },
+  {
+   "id": "Nz0yjx1qAt0",
+   "t": "Thinnest Electromagnet",
+   "d": "2024-09-14",
+   "v": 885152,
+   "s": 18,
+   "vertical": true,
+   "desc": "Learn more about CoilCell - microbots.io/coilcell"
+  },
+  {
+   "id": "eGRXOBEn9zk",
+   "t": "Making a 360\u00b0 Controller Smaller than a Penny!",
+   "d": "2024-10-02",
+   "v": 411167,
+   "s": 514,
+   "vertical": false,
+   "desc": "Penny-Size CodeCell Module - https://microbots.io/codecell\nBig thanks to PCBWay for the PCB samples - https://www.pcbway.com \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nCheck out my other electronics - https://microbots.io/modules\nCheck out microbots Tools & Gear - https://microbots.io/gear\n\nBuild\u2022Code\u2022Repeat Tee - https://microbots.io/products/build-code-repeat-tee\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nThings You Can Build with CodeCell:\n\u2022 Depth Gestures - https://microbots.io/blogs/learn/codecell-depth-gestur"
+  },
+  {
+   "id": "smemP8EDe_Y",
+   "t": "Smallest Robot Brain",
+   "d": "2024-10-08",
+   "v": 185403,
+   "s": 22,
+   "vertical": true,
+   "desc": "Get Your Own CodeCell: https://microbots.io/codecell\nLearn More: https://microbots.io/blogs/learn/codecell-basics-your-first-steps\n\nCodeCell is a penny-sized board that can help you miniaturize DIY Robots, Wearables & other IoT projects!! It includes an Arduino friendly ESP32-C3 Wifi & BLE module, USBC LiPo Battery Charger with onboard Battery Connector, Light Sensor, and an optional Motion Sensor!"
+  },
+  {
+   "id": "5AOLx4VAyNs",
+   "t": "Penny-Size ESP32 Sensor",
+   "d": "2024-10-16",
+   "v": 1201626,
+   "s": 18,
+   "vertical": true,
+   "desc": "Get Your Own CodeCell: https://microbots.io/codecell\nLearn More: https://microbots.io/blogs/learn/codecell-basics-your-first-steps\n\nCodeCell is a penny-sized board that can help you miniaturize DIY Robots, Wearables & other IoT projects!! It includes an Arduino friendly ESP32-C3 Wifi & BLE module, USBC LiPo Battery Charger with onboard Battery Connector, Light Sensor, and an optional Motion Sensor!"
+  },
+  {
+   "id": "4BEQSPQ32xg",
+   "t": "A tool for tiny parts",
+   "d": "2024-10-26",
+   "v": 725919,
+   "s": 16,
+   "vertical": true,
+   "desc": "These are the best tweezers I've ever used, and I think you'll love them too! Grab yours here: https://microbots.io/tweezers"
+  },
+  {
+   "id": "CVszJMlvZcA",
+   "t": "How this tiny Motor Survived 1.6 BILLION SPINS",
+   "d": "2024-12-16",
+   "v": 1234670,
+   "s": 753,
+   "vertical": false,
+   "desc": "Test your own MotorCell here - https://microbots.io/motorcell\nBig thanks to PCBWay for the PCB samples - https://www.pcbway.com \nLearn more about Altium 365 - https://www.altium365.com/yt/carlbugeja\n\nCheck out my other electronics - https://microbots.io/modules\nCheck out microbots Tools & Gear - https://microbots.io/gear\n\nBuild\u2022Code\u2022Repeat Tee - https://microbots.io/products/build-code-repeat-tee\n\nHelp me make more projects by supporting me on Patreon - https://www.patreon.com/carlbugeja\n\nSocial Media - https://linktr.ee/CarlBugeja\nWebsite - http://carlbugeja.com\n\nPapers Used for the PCB Stato"
+  },
+  {
+   "id": "ZJqlNl0__hw",
+   "t": "PCB Motor (6 Years Later)",
+   "d": "2024-12-17",
+   "v": 262542,
+   "s": 17,
+   "vertical": true,
+   "desc": "MotorCell is now available on - microbots.io/motorcell\n\nIf you haven't seen it yet check out the full build video - https://www.youtube.com/watch?v=CVszJMlvZcA&t=597s"
+  },
+  {
+   "id": "qWbYdNLGJxA",
+   "t": "This tiny Circuit is a Motor",
+   "d": "2025-01-11",
+   "v": 1588159,
+   "s": 17,
+   "vertical": true,
+   "desc": "MotorCell is now available on - microbots.io/motorcell\n\nIf you haven't seen it yet check out the full build video - https://www.youtube.com/watch?v=CVszJMlvZcA&t=597s"
+  },
+  {
+   "id": "ATIbTKtjI8k",
+   "t": "1.6 BILLION SPINS",
+   "d": "2025-01-14",
+   "v": 353329,
+   "s": 24,
+   "vertical": true,
+   "desc": "MotorCell is now available on - microbots.io/motorcell\n\nIf you haven't seen it yet check out the full build video - https://www.youtube.com/watch?v=CVszJMlvZcA&t=597s"
+  },
+  {
+   "id": "EqFrQadG_ak",
+   "t": "Spiderman Style 30m/s Disk Launcher",
+   "d": "2025-01-16",
+   "v": 65947,
+   "s": 13,
+   "vertical": true,
+   "desc": "MotorCell is now available on - microbots.io/motorcell\n\nIf you haven't seen it yet check out the full build video - https://www.youtube.com/watch?v=CVszJMlvZcA&t=597s"
+  },
+  {
+   "id": "zl_dZrX6ayg",
+   "t": "I Took My Tiny Robot to Maker Faire!",
+   "d": "2025-10-23",
+   "v": 45181,
+   "s": 18,
+   "vertical": true,
+   "desc": "Got invited to Maker Faire Rome to show one of the tiny robots I\u2019ve been working on \ud83e\udd16\n\nIt was tough for it to stand out with so many cool bots around\u2026 and it almost got squashed a few times \ud83d\ude05\nBut seeing kids get excited about it made it all worth it!\n\nProtoBot should be rolling out in a few weeks - just need to fix a few more bugs and iron out the logistics"
+  },
+  {
+   "id": "VEFrEiFKVxc",
+   "t": "Re-Engineering My Tiny Sensor!",
+   "d": "2026-01-31",
+   "v": 964242,
+   "s": 29,
+   "vertical": true,
+   "desc": "Been working on a CodeCell upgrade for a while. Same tiny board, same built-in sensors - but with much better low-power performance, more memory, and Zigbee support.\n\nCheck it out at microbots.io/CodeCellC6\n\nReally happy with how this one turned out, and excited to start working on the new projects this will unlock!"
+  },
+  {
+   "id": "vQbgucY4YEs",
+   "t": "Super-Compact Robot Building \u26a1\ufe0f",
+   "d": "2026-02-21",
+   "v": 939852,
+   "s": 17,
+   "vertical": true,
+   "desc": "My next step in miniaturizing robots - designing the C6 Drive \u26a1\n\nCheck it out \ud83d\udc49 microbots.io/CodeCellC6Drive"
+  },
+  {
+   "id": "teeNgLN_ZRI",
+   "t": "Why This Is My Favorite Robot Build Yet",
+   "d": "2026-07-06",
+   "v": 151525,
+   "s": 680,
+   "vertical": false,
+   "desc": "Engineered to inspire my son's curiosity \ud83d\udc49 Build your own: https://microbots.io/ProtoBot\n\nHuge thanks to PCBWay for manufacturing the Flex PCB prototypes: https://www.pcbway.com\n\n\ud83e\udde0 ProtoBot's Brain (CodeCell C6 Drive): https://microbots.io/codecellc6drive\n\ud83d\udcbb ProtoBot Library & Open-Source Files: https://github.com/microbotsio/ProtoBot\n\ud83d\udcda ProtoBot Documentation & Examples: https://microbots.io/pages/protobot-user-guide\n\ud83d\udcf1 ProtoBot App Development (Melvin's Video): https://www.youtube.com/watch?v=aATKDvesnio\n\nSupport future projects on Patreon: https://www.patreon.com/carlbugeja\nConnect with me: ht"
+  },
+  {
+   "id": "UFl151Kox4Y",
+   "t": "Robot with No Wires?",
+   "d": "2026-07-17",
+   "v": 117747,
+   "s": 19,
+   "vertical": true,
+   "desc": "One thing that always bothered me when building tiny robots was all the wires inside.. So I spent a lot of time replacing all of them with flexible PCBs! It made the robot cleaner, easier to assemble, and a lot more reliable\n\nIf you'd like to build one yourself, check out ProtoBot here: microbots.io/protobot"
+  },
+  {
+   "id": "JFm3dbLa-0Q",
+   "t": "3D-Printed vs Aluminum Wheels",
+   "d": "2026-07-17",
+   "v": 27096,
+   "s": 19,
+   "vertical": true,
+   "desc": "I got tired of my 3D-printed wheels cracking, so I finally made a proper set. These new wheels use anodized aluminum hubs and grippy silicone tires, and they've been a huge upgrade for my little robots.\n\nI designed them for the ProtoBot kit, but you can also get the wheels on their own if you want to use them in your own projects: microbots.io/wheels"
+  },
+  {
+   "id": "_Bg9EFYqSnM",
+   "t": "Driving a tiny Robot on Soil \ud83c\udf31",
+   "d": "2026-07-24",
+   "v": 41162,
+   "s": 19,
+   "vertical": true,
+   "desc": "I tried optimizing my Robot to drive on soil.. At first I thought tank tracks would be the better option, but at this scale they just weren't very efficient. \n\nSpiked wheels turned out to be much faster, digging into the soil to give the robot the grip it needed to keep moving..\n\nFull Project: https://youtu.be/teeNgLN_ZRI\nRobot Kit: microbots.io/protobot"
+  },
+  {
+   "id": "F7kpXefhm0Y",
+   "t": "Why Is This Circuit Squiggly?",
+   "d": "2026-07-25",
+   "v": 1059505,
+   "s": 23,
+   "vertical": true,
+   "desc": "This FlexPCB took many iterations to get right.. But designing these tiny flexures simplified assembly, reduced wiring & helped keep the entire robot compact!\n\nFull Project: https://youtu.be/teeNgLN_ZRI\nRobot Kit: microbots.io/protobot"
+  },
+  {
+   "id": "0VO5ESX4dqE",
+   "t": "What's Inside Spaghetti LEDs?",
+   "d": "2026-08-08",
+   "v": 63931,
+   "s": 28,
+   "vertical": true,
+   "desc": "Been experimenting with these flexible spaghetti LEDs, so I decided to cut one open and see what\u2019s actually inside them!"
+  },
+  {
+   "id": "oD6rdkuwcmY",
+   "t": "Transparent Electronics Design Tips \ud83d\udc40",
+   "d": "2026-08-15",
+   "v": 30191,
+   "s": 25,
+   "vertical": true,
+   "desc": "A few simple tricks to keep the internals looking clean with electronics transparent cases!"
+  },
+  {
+   "id": "sl93hAbbVeY",
+   "t": "Over-Powering a PCB Stator \ud83d\udd25",
+   "d": "2026-08-22",
+   "v": 27378,
+   "s": 26,
+   "vertical": true,
+   "desc": "Throwback to when I pushed one of my PCB motors a little too far \ud83d\ude05\ud83d\udd25 Always fun finding out where the limits really are!\n\nDo not try this at home..."
+  },
+  {
+   "id": "y7_X_Xe8UcM",
+   "t": "Building a Robot with Just 1 Module",
+   "d": "2026-08-29",
+   "v": 79367,
+   "s": 31,
+   "vertical": true,
+   "desc": "Watch ProtoBot come together using one tiny control module, a flexible PCB for its LEDs and proximity sensor, and four motors. After soldering, testing and adding the wheels, this tiny 4WD robot is ready to roll!"
+  },
+  {
+   "id": "h5l5KCnvgEw",
+   "t": "Do You Want to Build a Robot?",
+   "d": "2026-09-10",
+   "v": 8850,
+   "s": 24,
+   "vertical": true,
+   "desc": "Best project ever! Building a robot with my little engineer \ud83e\udd16\n\nBuild your own ProtoBot kit: https://microbots.io/ProtoBot"
+  },
+  {
+   "id": "Ox-hKjgpFiQ",
+   "t": "Why put a Compass in a Robot? \ud83e\udded",
+   "d": "2026-10-27",
+   "v": 14251,
+   "s": 19,
+   "vertical": true,
+   "desc": "I used ProtoBot\u2019s onboard compass and coded a PID controller to correct its heading and drive in shapes & even coded a giant star shape!\n\nTry ProtoBot here: microbots.io/ProtoBot"
+  },
+  {
+   "id": "LRK068Z3R3M",
+   "t": "3 Flexible PCB Design Tips",
+   "d": "2026-11-03",
+   "v": 11303,
+   "s": 31,
+   "vertical": true,
+   "desc": "A few small design choices can make a big difference when working with flex PCBs. Here are some practical lessons I picked up while experimenting with ultra-thin circuits, component support, and bendable connections."
+  }
+ ]
+}

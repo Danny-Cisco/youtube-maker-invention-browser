@@ -1,0 +1,1557 @@
+{
+ "channel": {
+  "id": "UCbOrJwJsd4vFS4aLIILa_7Q",
+  "title": "Matt Denton",
+  "handle": "@mattdenton",
+  "description": "I've spent 30 years in the UK Film and T.V. industry specialising in Animatronic Control systems. I was one of the creators and operators of the Star Wars droid BB-8. I created the two tonne walking hexapod Mantis Robot. I use my 3D printers to create giant versions of my favorite Lego Technic kits!  My interests are Hexapod walking robots, robotics, electronics, hacking, coding, engineering, and ",
+  "since": "2006-02-21",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nXc7dUA_HLi4gUubQDpIgPjiUoVrjBqUEHicOPwEzgSQ=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "48070010",
+  "subscriberCount": "223000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "176"
+ },
+ "videos": [
+  {
+   "id": "a52Nz3Jvp_w",
+   "t": "Hexapod Robot V1 Exercises",
+   "d": "2006-02-21",
+   "v": 38105,
+   "s": 75,
+   "vertical": false,
+   "desc": "micromagic systems hexapod robot V1 early morning exercises. Body Rotation and Translation."
+  },
+  {
+   "id": "gsCbvl5Bak8",
+   "t": "Hexapod Robot",
+   "d": "2006-02-21",
+   "v": 211552,
+   "s": 141,
+   "vertical": false,
+   "desc": "micromagic systems Hexapod walking robot V2."
+  },
+  {
+   "id": "Ont07BS3bBE",
+   "t": "Hexapod Robot V4 Walking with Force Complience",
+   "d": "2006-02-22",
+   "v": 103669,
+   "s": 187,
+   "vertical": false,
+   "desc": "Higher resolution Version Here: http://youtu.be/-bd0Njlstig\n\nmicromagic systems hexapod walking robot V4. This robot has the addition of force sensors in its feet which allow it to adapt to the shape of the terain.\n\nMore information in my forum: http://www.hexapodrobot.com/forum/viewtopic.php?f=5&t=26"
+  },
+  {
+   "id": "grNO4AAyq_E",
+   "t": "Hexapod Robot V3 Walking Under R/C Control",
+   "d": "2006-02-22",
+   "v": 19618,
+   "s": 50,
+   "vertical": false,
+   "desc": "micromagic systems hexapod robot V3, walking with on board locomotion engine. With R/C pilot control."
+  },
+  {
+   "id": "eYAgif9JPUI",
+   "t": "Hexapod Robot visits Weta Workshop",
+   "d": "2006-09-15",
+   "v": 59476,
+   "s": 51,
+   "vertical": false,
+   "desc": "The following footage was filmed during a trip to Weta Workshop in Wellington, New Zealand. I took the V4 hexapod along to show Richard Taylor and the technicians at Weta. Had a great time and the hexapod went down well."
+  },
+  {
+   "id": "5hbAMFAnui4",
+   "t": "Hexapod Walking Robot - V4b",
+   "d": "2006-10-27",
+   "v": 20295,
+   "s": 103,
+   "vertical": false,
+   "desc": "This hexapod is based on the V4 design, however, this version has some significant differences: Aluminium constriction, larger more powerful Tibia servos, and a new p.Brain-ds on-board locomotion engine based on a dsPIC30F device.\r\nFor more info visit micromagicsystems.com"
+  },
+  {
+   "id": "4oXuSXCKJeY",
+   "t": "interactive hexapod robot [ kinetic art ] by Matt Denton",
+   "d": "2007-09-18",
+   "v": 187159,
+   "s": 140,
+   "vertical": false,
+   "desc": "\"i.c. Hexapod\" interacts with people by following them around. If his gaze is held long enough, he takes a picture and uploads it to a website: hexapodrobot.com (Not always on-line ) Music: Vipco by AiM."
+  },
+  {
+   "id": "ZhB4nFN_mRI",
+   "t": "B.F. Hexapod - Terrain Adaptation - Test 04",
+   "d": "2008-03-19",
+   "v": 45291,
+   "s": 131,
+   "vertical": false,
+   "desc": "B.F. Hexapod terrain adaptation test, using p.Brain locomotion engine and 3DOF gimbal contact sensor. In this test, the gait delay = 0.0, leg lift = Off-Road, leg transition speed = 1.2s."
+  },
+  {
+   "id": "7hEXwyJ2B78",
+   "t": "Hexapod Robot CNC Router",
+   "d": "2008-03-31",
+   "v": 156769,
+   "s": 158,
+   "vertical": false,
+   "desc": "Just a bit of fun.. Using B.F. Hexapod as a pen plotter. DXF files are converted to translation moves and fed to the hexapod in sequence. The idea is to replace the pen with a small routing head, and then try to cut something! Routing resolution is pretty low, but you get the idea."
+  },
+  {
+   "id": "37qcPX9CSkk",
+   "t": "iC Hexapod Robot @ Monster Mash",
+   "d": "2008-04-25",
+   "v": 101903,
+   "s": 93,
+   "vertical": false,
+   "desc": "A segment of footage taken from Film24's Monster Mash interviews. This footage was shot at this years Monster Mash exhibition in London. For more information on iC hexapod visit: www.hexapodrobot.com\r\nFor more information on the Monster Mash visit: www.myspace.com/monstermashgallery\r\nMany thanks to Film24 for this footage, along with the organisers and contributors to the Monster Mash."
+  },
+  {
+   "id": "EhM2bAqwPmY",
+   "t": "Hexapod Robot CNC Router - Cutting Shape",
+   "d": "2008-06-05",
+   "v": 35695,
+   "s": 242,
+   "vertical": false,
+   "desc": "This video demonstrates the CNC hexapod routing a more complex shape in two passes. More info here: http://www.hexapodrobot.com/forum/viewtopic.php?f=14&t=12"
+  },
+  {
+   "id": "9LQrzuG5nFA",
+   "t": "Hexapod Robot CNC Router - Cutting Square",
+   "d": "2008-06-05",
+   "v": 28339,
+   "s": 82,
+   "vertical": false,
+   "desc": "Ok it's only cutting polystyrene, but its a start! The first thing cut by my hexapod router, a 50mm square. For more info visit: http://www.hexapodrobot.com/forum/viewtopic.php?f=14&t=12"
+  },
+  {
+   "id": "quN37YskoaM",
+   "t": "Hexapod Robot CNC Router - Cutting 3D face (Turn Down Sound!)",
+   "d": "2008-06-11",
+   "v": 729300,
+   "s": 237,
+   "vertical": false,
+   "desc": "This video demonstrates the hexapod router cutting a 3D face in high density foam. The video has been sped up in places to alleviate boredom :) You may want to turn your sound DOWN!!\n\nMore information can be found here: http://www.hexapodrobot.com/forum/viewtopic.php?f=14&t=12\n\nAlso check out its 2 tonne turbo diesel powered brother - Mantis!\nhttp://www.facebook.com/mantisrobot"
+  },
+  {
+   "id": "ulno6A8b4HY",
+   "t": "Hexapod MSR-H01 Test 2",
+   "d": "2008-08-07",
+   "v": 25611,
+   "s": 52,
+   "vertical": false,
+   "desc": "micromagic systems MSR-H01 Hexapod body move test."
+  },
+  {
+   "id": "A4s3mfgqZlc",
+   "t": "Hexapod MSR-H01 Test 4",
+   "d": "2008-08-29",
+   "v": 20367,
+   "s": 86,
+   "vertical": false,
+   "desc": "micromagic systems MSR-H01 Hexapod, HexEngine controlled by basic stamp (BS2p). SFR08 module on the head of the hexapod is connected to the I2C bus of the HexEngine, the BS2p polls data from the HexEngine and sends back serial packets to control the HexEngine. No sound."
+  },
+  {
+   "id": "SnDXzOFdyvA",
+   "t": "MSR-H01 Hexapod Black + PT Head - Test 01",
+   "d": "2008-10-03",
+   "v": 82593,
+   "s": 123,
+   "vertical": false,
+   "desc": "MSR-H01 Hexapod in black with pan/tilt head and SRF08 range finder. Walk test with HexEngine wave gait 1. Leg transition speed = 0.35s"
+  },
+  {
+   "id": "YwAElTZZMpw",
+   "t": "MSR-H01 Hexapod + PS2 + Balence Gesture",
+   "d": "2008-10-23",
+   "v": 111506,
+   "s": 94,
+   "vertical": false,
+   "desc": "MSR-H01 Hexapod with new firmware featuring direct PS2 gamepad control and full 3D balance gesture. No Sound."
+  },
+  {
+   "id": "s1dXU152tFU",
+   "t": "Micro Hexapod Robot  : MSR-\u00b5Bug",
+   "d": "2008-10-31",
+   "v": 25080,
+   "s": 80,
+   "vertical": false,
+   "desc": "The first test video of the \u00b5Bug with p.Brain-HexEngine and PS2 wireless controller. Battery source is a 6V 1400mah NiMh pack inside the body. No Sound"
+  },
+  {
+   "id": "dXd89XmuIJI",
+   "t": "MSR-H01 Hexapod - SRF08 Tutorial 3",
+   "d": "2008-11-26",
+   "v": 20033,
+   "s": 24,
+   "vertical": false,
+   "desc": "micromagic systems MSR-H01 Hexapod BS2p Tutorial 3, HexEngine controlled by basic stamp (BS2p). SFR08 module on the head of the hexapod is connected to the I2C bus of the HexEngine, the BS2p polls data from the HexEngine and sends back serial packets to control the HexEngine. No sound."
+  },
+  {
+   "id": "n4JJEazpb_g",
+   "t": "Hexapod Robot CNC Router - Cutting 3D face Detail",
+   "d": "2008-11-27",
+   "v": 41498,
+   "s": 141,
+   "vertical": false,
+   "desc": "This video demonstrates the hexapod router cutting a 3D face in high density foam. This segment is taken from my original hexapod router video to demonstrate the first raster pass on the 3D face.\r\n\r\nMore information can be found here: http://www.hexapodrobot.com/forum/viewtopic.php?f=14&t=12"
+  },
+  {
+   "id": "_ddcGEGWKXI",
+   "t": "Hexapod Robot Colour BLOB Tracking",
+   "d": "2009-02-02",
+   "v": 48206,
+   "s": 87,
+   "vertical": false,
+   "desc": "A demonstration of the MSR-H01 hexapod robot with a wireless CMOS camera mounted to the pan/tilt head, using roborealm on a remote PC to track a colour ball. For more information see the tutorial at: http://www.hexapodrobot.com/guides/HexEngine_2_RoboRealm_Tutorial_01.html"
+  },
+  {
+   "id": "pJtkZZ28vRo",
+   "t": "MSR-\u00b5Bug Hexapod & Coke Can",
+   "d": "2009-02-26",
+   "v": 13852,
+   "s": 90,
+   "vertical": false,
+   "desc": "Upon request and In homage to my original V2 hexapod & Coke bottle video, \u00b5Bug reference video with coke can."
+  },
+  {
+   "id": "w-IzwdNXNdo",
+   "t": "uBug V2 Hexapod Walk Test",
+   "d": "2010-02-11",
+   "v": 33364,
+   "s": 94,
+   "vertical": false,
+   "desc": "uBug V2 Walk test. This version of the uBug is using Hitec HS-65HB servos, Battery source is a 6V 1600mah NiMh pack. Control is using a 3 axis joystick via the PodJoy application connected via bluetooth to the p.Brain-uHexEngine."
+  },
+  {
+   "id": "u5wKLaOhGaI",
+   "t": "uBug V2 Hexapod Pan & Grip Head Test",
+   "d": "2010-02-18",
+   "v": 14033,
+   "s": 55,
+   "vertical": false,
+   "desc": "uBug V2 Pan & Grip Head test. This version of the uBug is using Hitec HS-65HB servos, Battery source is a 6V 1600mah NiMh pack. Control is using a 3 axis joystick via the PodJoy application connected via bluetooth to the p.Brain-uHexEngine. The Pan & Grip head is obviously only suitable for light duty loads, but a fun addition none the less :)"
+  },
+  {
+   "id": "7m-MF1Dn_Tk",
+   "t": "MSR-uBug Hexapod Robot",
+   "d": "2010-06-13",
+   "v": 36431,
+   "s": 68,
+   "vertical": false,
+   "desc": "Orange uBug V2. Pan & Grip Head test. This version of the uBug is using Hitec HS-65HB servos, Battery source is a 6V 2600mah AA NiMh pack. Control is using a 3 axis joystick via the PodJoy application connected via bluetooth to the p.Brain-uHexEngine. The Pan & Grip head is obviously only suitable for light duty loads, but a fun addition none the less :) Hexapod weight including battery pack and electronics is 585g. More info can be found at: www.hexapodrobot.com"
+  },
+  {
+   "id": "-bd0Njlstig",
+   "t": "Hexapod Robot V4 Walking with Force Compliance (Updated Higher Resolution)",
+   "d": "2012-10-26",
+   "v": 3380,
+   "s": 169,
+   "vertical": false,
+   "desc": "micromagic systems hexapod walking robot V4. \n\n(As the title suggests I have uploaded this video simply because the previous version uploaded some years back was very low quality.)\n\nThis robot has the addition of force sensors in its feet which allow it to adapt to the shape of the terrain.\n\nMore information in my forum: http://www.hexapodrobot.com/forum/viewtopic.php?f=5&t=26\n\nwww.micromagicsystems.com"
+  },
+  {
+   "id": "Tj0oZoVp-I0",
+   "t": "Hexapod Walking Robot V4b - micromagic systems (Higher quality)",
+   "d": "2013-03-04",
+   "v": 6472,
+   "s": 103,
+   "vertical": false,
+   "desc": "(As the title suggests I have uploaded this video simply because the previous version uploaded some years back was very low quality.)\n\nThis hexapod is based on the V4 design, however, this version has some significant differences: Aluminium constriction, larger more powerful Tibia servos, and a new p.Brain-ds on-board locomotion engine based on a dsPIC30F device. For more info visit micromagicsystems.com"
+  },
+  {
+   "id": "mtmnKOSDNM0",
+   "t": "Hexapod Robot V3 - Walking Under R/C Control - micromagic systems (Higher quality)",
+   "d": "2013-03-04",
+   "v": 2631,
+   "s": 50,
+   "vertical": false,
+   "desc": "(As the title suggests I have uploaded this video simply because the previous version uploaded some years back was very low quality.)\n\nmicromagic systems hexapod robot V3, walking with \"p.Brain\" on board locomotion engine. With R/C pilot control. This early p.Brain engine runs on a PIC18F2520 device."
+  },
+  {
+   "id": "DHpU0ATyRg4",
+   "t": "Hexapod Robot V1 Exercises - micromagic systems (Updated Quality)",
+   "d": "2013-03-04",
+   "v": 2182,
+   "s": 75,
+   "vertical": false,
+   "desc": "(As the title suggests I have uploaded this video simply because the previous version uploaded some years back was very low quality.)\n\nMy very first hexapod robot built in 2000. V1 early morning exercises. Body Rotation and Translation."
+  },
+  {
+   "id": "1h9Mw-s9mzI",
+   "t": "Mantis - Two Tonne Turbo Diesel Hexapod Walking Machine",
+   "d": "2013-03-28",
+   "v": 717624,
+   "s": 151,
+   "vertical": false,
+   "desc": "After four years intensive R&D, inspiration, design and build, Micromagic Systems is proud to unveil Mantis -- the biggest, all-terrain operational hexapod robot in the world.\n\nThis 2.2-litre Turbo Diesel-powered, British-designed and -built walking machine can be piloted or remote WiFi-controlled, stands 2.8 metres high with a five meter working envelope and weighing in at just under two tonnes.\n\nMore information, images and video can be found on our face book page: http://www.facebook.com/mantisrobot\n\nOr vist our websites:\nhttp://www.mantisrobot.com\nhttp://www.micromagicsystems.com\n\nIf you l"
+  },
+  {
+   "id": "1sRlFQLwg3w",
+   "t": "Mantis - Hexapod Walking Machine Tests 2012",
+   "d": "2013-04-07",
+   "v": 1333926,
+   "s": 95,
+   "vertical": false,
+   "desc": "Mantis hexapod test footage edit. This video was shot during initial field tests in May and October 2012.\n\nMany people have asked how easy it is to transport the Mantis, you can see this procedure at the end of the clip.\n\nMore information at:\nwww.mantisrobot.com\nwww.facebook.com/mantisrobot\n\nMusic: Stay (Original Mix) by Max\ufeff Grin"
+  },
+  {
+   "id": "fRmT0eWSXv4",
+   "t": "Raw footage of the Mantis Walking Machine tests 05.2012",
+   "d": "2013-05-16",
+   "v": 49875,
+   "s": 315,
+   "vertical": false,
+   "desc": "This is raw footage of the very first outdoor tests. This was filmed on 27 May 2012, and seeing as it's very nearly a year since this test took place, it seemed like a good time to publish it. The cab had yet to be finished, and so was removed for this test.\n\nwww.mantisrobot.com\nwww.facebook.com/mantisrobot"
+  },
+  {
+   "id": "Fbubqzh7GDI",
+   "t": "Mantis Hexapod - Elmia Wood 2013",
+   "d": "2013-06-22",
+   "v": 56505,
+   "s": 115,
+   "vertical": false,
+   "desc": "A few stills and aerial footage of the Mantis Hexapod Walking Machine at Elmia Wood 2013"
+  },
+  {
+   "id": "ciSyJ4TUwmw",
+   "t": "Mantis Walking Machine Simulation",
+   "d": "2014-08-21",
+   "v": 14546,
+   "s": 21,
+   "vertical": false,
+   "desc": "Since getting a faster computer I have been able to add hydraulic rams to my Webots mantis simulation. This is great for testing new gaits and software tweaks to give me a rough idea the kind of hydraulic flow and peak ram speed prior to testing on the real thing!\n\nFlow and ram speed are the bottom right displays.\n\nhttp://www.facebook.com/mantisrobot\n\nSimulation Software:\nhttp://www.cyberbotics.com"
+  },
+  {
+   "id": "26fLK9m4eNE",
+   "t": "Animatronic Head (Greg Townley) - The World's End",
+   "d": "2016-01-05",
+   "v": 1334937,
+   "s": 104,
+   "vertical": false,
+   "desc": "This is test footage and images of the animatronic head built for Edgar Wrights \"The World's End\". This is a fairly simple head with only eye and jaw movement but has just enough functionality to sell the gag! Used during the fight sequence in the toilets.\n\nMaking of: https://vimeo.com/153236017\n\nTechnical Description:\nThe head has 12 servos, 10 for the eye and brows and 2 for the jaw/jaw slew. Eye mixing and jitter was programmed in my own iPuP-EXT unit, with dual 3 axis control sticks for pupeteering. The head was self contained utilising a magnetic latching battery compartment in the base o"
+  },
+  {
+   "id": "g65ljplN_GQ",
+   "t": "Mantis Gripper | Assembly (Time Lapse) | - Mantis Hacks",
+   "d": "2017-01-15",
+   "v": 2583,
+   "s": 37,
+   "vertical": false,
+   "desc": "I'm adding a hydraulic gripper to the front of the Mantis Walking Machine:\n\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\n\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI\n\nThis is a short time lapse video showing some build and the test assembly of the gripper assembly. No sound."
+  },
+  {
+   "id": "nnvku6eeewA",
+   "t": "Mantis Gripper | Absolute Encoders | - Mantis Hacks #1",
+   "d": "2017-01-30",
+   "v": 2946,
+   "s": 660,
+   "vertical": false,
+   "desc": "In this video I'm adding feedback to the joints of the Pan, Tilt and Grip assembly. The absolute position encoders are parts left over from the Mantis build, and are the same ones used on all the leg joints.\n\nMore on the Mantis here:\nhttp://www.facebook.com/mantisrobot\n\nAnd videos:\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI"
+  },
+  {
+   "id": "pEaHcFxB-Nw",
+   "t": "Mantis Gripper | CRUSH TEST! | - Mantis Hacks #2",
+   "d": "2017-02-06",
+   "v": 2902,
+   "s": 638,
+   "vertical": false,
+   "desc": "!! WARNING !! A hexapod robot may have come to harm during the making of this video!\n\nIn this video I commission a single phase hydraulic pump I picked up on Ebay. Plus finish and test the gripper under manual hydraulic control for the first time.\n\nFor more information on the Gripper build and Mantis walking machine check out the other videos on my channel or visit and like the facebook page:\nhttp://www.facebook.com/mantisrobot\n\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI"
+  },
+  {
+   "id": "meGm9WBC7aQ",
+   "t": "Mantis Gripper | Arduino & Electronics | - Mantis Hacks #3",
+   "d": "2017-02-28",
+   "v": 6382,
+   "s": 1265,
+   "vertical": false,
+   "desc": "No robots were harmed in the making of this video..\n\nIn this video I fit the hydraulic hose assemblies to the gripper mechanism, talk through my pump improvements and then move on to coding the Arduino to talk to the feedback encoders. It's a bit of a long one, so if your looking for the Arduino stuff it's about half way in. :)\n\nIf you want to see more crushing, check out the video from James Bruton who came to visit last week:\n\nhttps://www.youtube.com/watch?v=KvFGdbiTdak\n\nFor more information on the Gripper build and Mantis walking machine check out the other videos on my channel or visit and"
+  },
+  {
+   "id": "GlIagIwclVU",
+   "t": "Mantis Gripper | Proportional Open Loop Hydraulics | - Mantis Hacks #4",
+   "d": "2017-03-27",
+   "v": 14736,
+   "s": 1219,
+   "vertical": false,
+   "desc": "In this video I get the Gripper working in open loop mode from a potentiometer plugged into the Arduino! To do this I add a DAC (Digital to Analog Converter) to the Arduino along with an OpAmp to form a 4-20ma control loop to a Bosch proportional solenoid valve. \n\nFor more information on the Gripper build and Mantis walking machine check out the other videos on my channel or visit and like the facebook page:\nhttp://www.facebook.com/mantisrobot\n\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI"
+  },
+  {
+   "id": "KlF4lmxA68E",
+   "t": "Mantis Gripper | Arduino Closed Loop + Easter Egg CRUSH! | - Mantis Hacks #5",
+   "d": "2017-04-12",
+   "v": 4507,
+   "s": 1249,
+   "vertical": false,
+   "desc": "In this video I get the Gripper working in closed loop mode from a potentiometer plugged into the Arduino! To do this I add some additional signal conditioning and filtering to the pot, install the encoder and add the PID controller.\n\nI then use the gripper under closed loop control to open my Easter Egg :)\n\nFor more information on the Gripper build and Mantis walking machine check out the other videos on my channel or visit and like the facebook page:\nhttp://www.facebook.com/mantisrobot\n\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI"
+  },
+  {
+   "id": "5EHUn4uiA1Y",
+   "t": "Mantis Gripper | Hydraulic Pump UPGRADE! | - Mantis Hacks #7",
+   "d": "2017-05-11",
+   "v": 6748,
+   "s": 718,
+   "vertical": false,
+   "desc": "In this video I upgrade my mini hydraulic power pack that I've been using to test the gripper by adding a forced air cooler. Then I test the new upgrade to see if it can dissipate enough heat generated by the pump.\n\nFor more information on the Gripper build and Mantis walking machine check out the other videos on my channel or visit and like the facebook page:\nhttp://www.facebook.com/mantisrobot\n\nhttps://www.youtube.com/watch?v=1sRlFQLwg3w\nhttps://www.youtube.com/watch?v=1h9Mw-s9mzI"
+  },
+  {
+   "id": "TvsglMzzc08",
+   "t": "DJI Mavic Pro Tests - Flight 2 - 1080P",
+   "d": "2017-06-13",
+   "v": 1877,
+   "s": 128,
+   "vertical": false,
+   "desc": "Took my Mavic Pro down to Eton playing fields for some test flights.\n\nFilmed at 1080P 24Fps AE. Edited and exported at 30Fps hence some frame jitter. All manual flight mode apart from auto tracking shot at the end using phone and WiFi control. \n\nOnly noticed about 30 mins into flying the Gimbal roll needed calibrating.\n\nUsed two batteries and got about 45 mins flight time, some slow tracking shots and a bit of sport mode flying. Very impressed with this drone and the footage quality."
+  },
+  {
+   "id": "I5mfNsmfqPE",
+   "t": "Giant LEGO Go-Kart | Assembly! | - Mantis Hacks #7",
+   "d": "2017-08-21",
+   "v": 128943,
+   "s": 418,
+   "vertical": false,
+   "desc": "My nephew helps me build this GIANT 3D PRINTED technic LEGO Go-Kart [Kit 1972] from 1985, 98 pieces, 168 hours of printing!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with this link or use coupon MATTD5\nOr use this Link: ht"
+  },
+  {
+   "id": "jDz1jJxER-I",
+   "t": "Giant LEGO Go-Kart | 3D Printing & Build Details | - Mantis Hacks #8",
+   "d": "2017-08-23",
+   "v": 115052,
+   "s": 1134,
+   "vertical": false,
+   "desc": "Take a look at this giant 3D printed technic LEGO build!\nLEGO Kit 1972, 98 pieces, Approximately 168 Hour print time.\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with this link or use coupon MATTD5\nOr use this Link: https://"
+  },
+  {
+   "id": "I91z_rs3JWo",
+   "t": "Giant LEGO Forklift - Mantis Hacks E9",
+   "d": "2017-10-17",
+   "v": 846494,
+   "s": 354,
+   "vertical": false,
+   "desc": "My nephew helps me build this GIANT 3D PRINTED technic LEGO Forklift [Kit 850] from 1977, 216 pieces, 500 hours of printing! (I say 208 pieces in the video but it was actually 216)\n\nPart 2 build details video here: https://youtu.be/B9YkwZYtWTI\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*******************"
+  },
+  {
+   "id": "B9YkwZYtWTI",
+   "t": "3D Printed GIANT LEGO Forklift Build! - Mantis Hacks E10",
+   "d": "2017-10-30",
+   "v": 90861,
+   "s": 742,
+   "vertical": false,
+   "desc": "In this video I discuss the techniques I used to 3D PRINT this 216 piece, 500+ hour GIANT technic LEGO Forklift [Kit 850] from 1977.\n\nCheck back for part 1 for the assembly video: https://youtu.be/I91z_rs3JWo\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Ex"
+  },
+  {
+   "id": "gTd0pCfLE-c",
+   "t": "Lulzbot Mini noise reduction.. Shhhh! - Mantis Hacks E11",
+   "d": "2017-11-10",
+   "v": 4170,
+   "s": 981,
+   "vertical": false,
+   "desc": "In this video I make some modifications to my newly acquired but second hand LulzBot Mini to make it quieter!  Don't worry, I'll be back with more Giant Lego soon!\n\nLulzBot Mini Printer GET: http://amzn.to/2iJZJjY\nPrinted Solid Enclosure GET: http://amzn.to/2hnHgxh\nNEMA17 Stepper Damper GET: http://amzn.to/2hoU3PU\nNEMA17 Cork Damper: https://www.ebay.co.uk/itm/162088177745\n24V DC Quiet Fan: http://uk.rs-online.com/web/p/axial-fans/8621602/\n\nLulzbot Y-Axis stepper motor damper installation guide:\nhttps://ohai.lulzbot.com/project/mini-motor-damper-install/accessories/\n\nGiant LEGO Projects Here:\n"
+  },
+  {
+   "id": "NRL-jwJoaBs",
+   "t": "Giant LEGO Go-Kart | Radio Controlled! | - Mantis Hacks #12",
+   "d": "2017-11-26",
+   "v": 222865,
+   "s": 332,
+   "vertical": false,
+   "desc": "I've added R/C functionality to my Giant LEGO Go-Kart kit!! In this video I road test the Motorized Go-Kart and see how it performs!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with this link or use coupon MATTD5\nOr use this"
+  },
+  {
+   "id": "PO_pWTzCDGk",
+   "t": "Giant LEGO Go-Kart | Fail Compilation! | - Mantis Hacks #13",
+   "d": "2017-12-08",
+   "v": 11811,
+   "s": 48,
+   "vertical": false,
+   "desc": "Just a short video sequence of various problems encounters when filming the giant Lego R/C Go-kart video.. 13th MH video needed to be the unlucky one!  Full test video here:\nhttps://youtu.be/NRL-jwJoaBs\n\nCheck out the Giant LEGO Go-Kart build videos here:\nhttps://youtu.be/I5mfNsmfqPE\nhttps://youtu.be/jDz1jJxER-I\n\nThe original Giant Go-Kart files are available here:\nhttps://www.threeding.com/3d-printing-models/stacking-blocks-giant-gokart-5-x-scale\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/manti"
+  },
+  {
+   "id": "4DkJ3VEjoQ0",
+   "t": "Giant LEGO Go-Kart | Adding Motors! | - Mantis Hacks #14",
+   "d": "2017-12-21",
+   "v": 54633,
+   "s": 1048,
+   "vertical": false,
+   "desc": "Alright here is the technical breakdown video for the R/C functions and giant Lego motors I built for the Giant Lego Go-Kart! If you've not seen it in action yet check it out here: https://youtu.be/NRL-jwJoaBs\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering E"
+  },
+  {
+   "id": "PPNx2cz0LlU",
+   "t": "Giant LEGO Bulldozer  - Mantis Hacks E15",
+   "d": "2018-04-30",
+   "v": 711048,
+   "s": 384,
+   "vertical": false,
+   "desc": "My nephew helps me build this GIANT 3D PRINTED technic LEGO Bulldozer [Kit 856] from 1979, 372 pieces, 600 hours of printing!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with this link or use coupon MATTD5\nOr use this Link: "
+  },
+  {
+   "id": "nsyFLqrX6Ss",
+   "t": "Giant LEGO Bulldozer - R/C Functions & Build details - Mantis Hacks E16",
+   "d": "2018-07-30",
+   "v": 83654,
+   "s": 1106,
+   "vertical": false,
+   "desc": "In this video I take a look at some of the harder to print parts of this particular project, and make a start with adding radio controlled functions to this 3D printed giant Lego Bulldozer!\n\nYou can see the original assembly video here:\nhttps://youtu.be/PPNx2cz0LlU\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cw"
+  },
+  {
+   "id": "--dbuLBivVs",
+   "t": "GIANT Lego Tractor - Mantis Hacks E17",
+   "d": "2018-12-07",
+   "v": 657672,
+   "s": 401,
+   "vertical": false,
+   "desc": "My nephew helps me build this GIANT 3D PRINTED LEGO Tractor [Lego Kit 851] from 1977, 250+ pieces, 400+ hours of printing! In the U.S. this was called Expert Builder kit 952.\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with "
+  },
+  {
+   "id": "d4oU8J06DRQ",
+   "t": "Printing GIANT Lego on the Lulzbot Mini 2- Mantis Hacks E18",
+   "d": "2019-02-13",
+   "v": 32694,
+   "s": 664,
+   "vertical": false,
+   "desc": "In this video I look at printing GIANT Lego on a smaller bed such as my new printer the Lulzbot Mini 2. Printing Giant Lego at this smaller scale saves an enormous amount of time and filament making these giant Lego projects much more achievable and a lot cheaper! \n\nThese files were available on my thingiverse account until 2019 when Lego took them down. Sorry, no loner available!: https://www.threeding.com/user/mantisrobot\n\nBambu Lab Printers: http://shrsl.com/2djaz-2yn7-1cwx9\n\nCheck out my other GIANT Lego builds here:\nhttps://www.youtube.com/playlist?list=PLTSAQ5KEjPVA2pJXyJ_ae8hUA6nWC417I\n"
+  },
+  {
+   "id": "a8gqR0FWNA4",
+   "t": "3D Printing LARGE Parts Faster! - Mantis Hacks E19",
+   "d": "2019-03-28",
+   "v": 11555,
+   "s": 466,
+   "vertical": false,
+   "desc": "In this video I print a VERY LARGE Giant Lego part on my Taz 6 printer. And show a couple of my tips for speeding up large scale prints within Simplify3D slicer.\n\nThese files were available on my thingiverse account until 2019 when Lego took them down. Sorry, no loner available! https://www.threeding.com/user/mantisrobot\n\nBambu Lab Printers: http://shrsl.com/2djaz-2yn7-1cwx9\nMusic: http://www.bensound.com\n\nMaterials used:\nPolymaker Polylite PLA: https://polymaker.com/\nGrey GET: https://amzn.to/2r9Ocia\n\nMore images and videos on Instagram and twitter:\nhttps://www.instagram.com/mantisrobot/\nhttp"
+  },
+  {
+   "id": "_tEwqKirvm4",
+   "t": "VW T5 Kombi Bed 5 Day Build! - Mantis Hacks E20",
+   "d": "2019-05-11",
+   "v": 48084,
+   "s": 538,
+   "vertical": false,
+   "desc": "This is my 5 day build of a Volkswagen transporter T5 van Kombi bed. There are many Kombi bed option already available, but there were a couple of things that annoyed me with the designs so I decided to build my own... in 5 days \ud83d\udc4d\n\nT5 Kombi Bed Build: https://youtu.be/_tEwqKirvm4\nLeisure Battery Charger Upgrade: https://youtu.be/jzCQxakEGtE\n\nMy Setup includes:\nEsab Caddy Welder GET: https://amzn.to/2VBKtME\nEvolution Rage 2 Chop Saw GET: https://amzn.to/2JD6pzC\n115mm Angle Grinder GET: https://amzn.to/2VGAt4L\nPower File GET: https://amzn.to/2E89x36\n\nI used the LYCKSELE MURBO Mattress from Ikea "
+  },
+  {
+   "id": "KLaMZcmv8hY",
+   "t": "Camper Cooker Pod ( CNC Cut Birch Ply )  VW T5  - Mantis Hacks E21",
+   "d": "2019-08-22",
+   "v": 11405,
+   "s": 947,
+   "vertical": false,
+   "desc": "This is my kitchen pod unit to go on my sliding base frame that sits under my Volkswagen T5 Kombi bed frame. I fully designed the unit in CAD first, then CNC cut the parts out of 12mm Birch Plywood.\n\nSorry for the loss of sound at 3:53 to 4:10... no idea why that happens!\n\nT5 Kombi Bed Build: https://youtu.be/_tEwqKirvm4\nLeisure Battery Charger Upgrade: https://youtu.be/jzCQxakEGtE\n\nTools Used:\nPacer Cadet 600 CNC router.\nTrend T4EK compact router: GET https://amzn.to/2NrvFe0\nTrend confirmat Drill: GET https://amzn.to/2NqYmrw\nTrend round over bit: GET https://amzn.to/2Mw5Slt\nTrend chamfer bit:"
+  },
+  {
+   "id": "jzCQxakEGtE",
+   "t": "Leisure Battery Charger + Battery Monitor Upgrade ( VW T5 ) - Mantis Hacks E22",
+   "d": "2019-09-09",
+   "v": 21315,
+   "s": 1231,
+   "vertical": false,
+   "desc": "I upgrade my auxiliary leisure battery in my T5 Kombi camper van. I had a split charge relay installed that was not doing the job, so I swap it out for a proper AGM battery charger with Solar panel Input and add a voltage / current monitor. See below for parts list and other T5 projects.\n\nKombi Bed Build: https://youtu.be/_tEwqKirvm4\nCooker Pod Build: https://youtu.be/KLaMZcmv8hY\n\nParts List:\nCTEK D250SE GET: https://amzn.to/301GlCS\nNASA BM-1 Compact (Grey) GET: https://amzn.to/2UGEUIW\nNASA BM-1 Compact (White) GET: https://amzn.to/2UOD6he\nNASA BM-1 (Grey) GET: https://amzn.to/34AhRUz\nBattery "
+  },
+  {
+   "id": "NuEbuA7Ffd4",
+   "t": "Camper Van Swivel Table + Cup Holders (VW T5) : 8 Hour Build",
+   "d": "2019-09-12",
+   "v": 15025,
+   "s": 61,
+   "vertical": false,
+   "desc": "One minute video of my 8 hour build of a swivel table to mount on my adjustable table leg in my T5 Kombi Van. All parts are cut in birch ply of three thicknesses: 6mm for cup holders, 12mm for table top and 15mm for the swivel base. See below for tool, materials and other camper van videos.\n\nThe 8 hours includes:\n1.5 Hour CAD work\n1.0 Hour CNC Cutting\n1.0 Hour clean up / corner routing\n1.0 Hour assembly \n2.0 Hour Painting/Sanding/Drying\n0.5 Hour fitting\n1.0 Hour tea drinking / arse scratching\n\nT5 Kombi Bed Build: https://youtu.be/_tEwqKirvm4\nLeisure Battery Charger Upgrade: https://youtu.be/jz"
+  },
+  {
+   "id": "zplirkxl6iM",
+   "t": "Droid Build D-O - #1 - Mantis Hacks",
+   "d": "2019-10-24",
+   "v": 68157,
+   "s": 1351,
+   "vertical": false,
+   "desc": "This is the first video in my D-0 droid build based on Michael Baddeley's CAD designs! D-O is the new droid on the block in the Star Wars universe and I thought it would be fun to build one. Michael already had a design available that he kindly sent to me, but I'm making a few tweaks of my own, including upgraded servos, drive system and electronics! This should be a three or four part series and I hope to have the droid finished before The Rise Of Skywalker is released! (Materials/Parts/Printers listed below)\n\nThere will be more information on the accompanying facebook page that will be hoste"
+  },
+  {
+   "id": "a1trQXC5bqI",
+   "t": "Droid Build D-O - #2 - Mantis Hacks",
+   "d": "2019-11-01",
+   "v": 35973,
+   "s": 1223,
+   "vertical": false,
+   "desc": "NEW Facebook D-O Builders Page: https://www.facebook.com/groups/DOBuilders/\n\nPart two in my D-0 droid build based on Michael Baddeley's CAD designs! D-O is the new droid on the block in the Star Wars universe and I thought it would be fun to build one. Michael already had a design available that he kindly sent to me, but I'm making a few tweaks of my own, including upgraded servos, drive system and electronics! This should be a three or four part series and I hope to have the droid finished before The Rise Of Skywalker is released! (Materials/Parts/Printers listed below) There will be more inf"
+  },
+  {
+   "id": "NxBvnvnvBc0",
+   "t": "Droid Build D-O - #3 - Mantis Hacks",
+   "d": "2019-11-16",
+   "v": 37669,
+   "s": 1126,
+   "vertical": false,
+   "desc": "Facebook D-O Builders Page: https://www.facebook.com/groups/DOBuilders/\n\nPart three in my D-0 droid build based on Michael Baddeley's CAD designs! D-O is the new droid on the block in the Star Wars universe and I thought it would be fun to build one. Michael already had a design available that he kindly sent to me, but I'm making a few tweaks of my own, including upgraded servos, drive system and electronics! I hope to have the droid finished before The Rise Of Skywalker is released! (Materials/Parts/Printers listed below) There will be more information on the accompanying facebook page that w"
+  },
+  {
+   "id": "DK3hTPibldo",
+   "t": "Droid Build D-O - #4 - Mantis Hacks",
+   "d": "2019-11-27",
+   "v": 33874,
+   "s": 1140,
+   "vertical": false,
+   "desc": "Part four in my D-0 droid build with SPECIAL GUEST ! \nBased on Michael Baddeley's CAD designs! D-O is the new droid on the block in the Star Wars universe and I thought it would be fun to build one. Michael already had a design available that he kindly sent to me, but I'm making a few tweaks of my own, including upgraded servos, drive system and electronics! I hope to have the droid finished before The Rise Of Skywalker is released! (Materials/Parts/Printers listed below) There will be more information on the accompanying facebook page that will be hosted by myself and Lee Toweresy: https://ww"
+  },
+  {
+   "id": "2cIdjQiS2ZE",
+   "t": "Droid Build D-O - #5 - Mantis Hacks",
+   "d": "2020-04-01",
+   "v": 61632,
+   "s": 1107,
+   "vertical": false,
+   "desc": "Part five in my D-0 droid build! \nBased on Michael Baddeley's CAD designs! D-O is the new droid on the block in the Star Wars universe and I thought it would be fun to build one. Michael already had a design available that he kindly sent to me, but I'm making a few tweaks of my own, including upgraded servos, drive system and electronics! \n\nThere will be more information on the accompanying facebook, hosted by myself and Lee Toweresy: https://www.facebook.com/groups/DOBuilders/\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n****************************"
+  },
+  {
+   "id": "wcvVtRc3FAc",
+   "t": "Concept to 3D Printed part (My Design Process) - Mantis Hacks",
+   "d": "2020-04-09",
+   "v": 11987,
+   "s": 892,
+   "vertical": false,
+   "desc": "While making part 5 of My D-O droid video I suddenly needed a stand to make working on D-O Droid easier! So I stopped and made a video about designing the part. I Get a lot of requests to print parts for people, but usually people don't have a CAD file or digital representation of the part, so I made this video to shoe the process of Idea to finished part using CAD to design and test the part prior to printing.\n\nYou can see my D-O Droid build series here: https://youtu.be/2cIdjQiS2ZE\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n**********************"
+  },
+  {
+   "id": "Ae7XLg3RFWY",
+   "t": "XXL LEGO Go-Kart! | Design & Build | #1 - Mantis Hacks",
+   "d": "2020-04-16",
+   "v": 851457,
+   "s": 1271,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! Yes I'm hoping this time that this version will be big enough for me to ride.. I also intend on making it electric!\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament "
+  },
+  {
+   "id": "IU9yZDLdOSA",
+   "t": "Air Engine - 1989 School Project - Mantis Hacks",
+   "d": "2020-04-30",
+   "v": 14853,
+   "s": 781,
+   "vertical": false,
+   "desc": "In this video I clean up my air powered engine I built when I was 15. (While I'm waiting for parts for the XXL Lego Go-Kart!!)\n\nI built this engine as my final year engineering project at school, and its been sat on the shelf getting rusty. Thanks to @geddy1972 for reminding me of my teachers name: Mr Haines :D\n\nI've only seen the engine operate once, over 32 years ago, so I thought I'd clean it up and get it working again!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazo"
+  },
+  {
+   "id": "Ekwccm9LUCs",
+   "t": "XXL LEGO Go-Kart! | Motors & Brakes | #2 - Mantis Hacks",
+   "d": "2020-05-14",
+   "v": 224974,
+   "s": 1216,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! Yes I'm hoping this time that this version will be big enough for me to ride! In this video I strengthen the chassis construction and start testing motors, batteries and a VESC speed controller.\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.com/4e0j2\n*********************************\nSlice Engineering DISCOUNT Code: MATTD5\nOr use this Link: https://www.sliceengineering.com/?p=BJ1aP9UpY\n***************"
+  },
+  {
+   "id": "lFav_MOkGp4",
+   "t": "XXL LEGO Go-Kart! | Bucket Seat Build | #3 - Mantis Hacks",
+   "d": "2020-05-27",
+   "v": 126552,
+   "s": 626,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! Yes I'm hoping this time that this version will be big enough for me to ride! In this video I design and build the seat so that it will be strong enough to take my weight and offer some support.. while still being made out of XXL Lego!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*****************************"
+  },
+  {
+   "id": "okqlIO2RzIo",
+   "t": "XXL LEGO Go-Kart! | Test Drive Mk 1 | #4 - Mantis Hacks",
+   "d": "2020-06-16",
+   "v": 239659,
+   "s": 1004,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! Yes I'm hoping this time that this version will be big enough for me to ride! In this video I finish the electronics and finally get to test this Mark I version of the kart! It's sooooo much fun to drive :D\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.com/4e0j2\n*********************************\nSlice Engineering DISCOUNT Code: MATTD5\nOr use this Link: https://www.sliceengineering.com/?p=BJ1aP9UpY\n***"
+  },
+  {
+   "id": "bwwKJC_bPFE",
+   "t": "GIANT Lego Display! (Bulldozer - Tractor - Forklift )",
+   "d": "2020-07-02",
+   "v": 43642,
+   "s": 601,
+   "vertical": false,
+   "desc": "My Giant Lego collection needed a giant Lego display unit so In this video I tackle that problem! And for the first time I get to see my Giant Lego Forklift, Tractor and Bulldozer in one place!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.com/4e0j2\n*********************************\nSlice Engineering DISCOUNT Code: MATTD5\nOr use this Link: https://www.sliceengineering.com/?p=BJ1aP9UpY\n*********************************\nPolyMaker Filament: https://us.polymaker.com?aff=661\n**************"
+  },
+  {
+   "id": "L68S2PYDC44",
+   "t": "XXL LEGO Go-Kart | Speed Trials! | #5 - Mantis Hacks",
+   "d": "2020-07-29",
+   "v": 97211,
+   "s": 346,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! In this video I find out how fast this Mark I version of the kart will go!  Unfortunately it was a VERY windy day when I filmed this so much of the camera chat footage was unusable.. but we got the fun stuff! :D (I still think I can get it FASTER!!)\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.com/4e0j2\n*********************************\nSlice Engineering DISCOUNT Code: MATTD5\nOr use this Link: https:"
+  },
+  {
+   "id": "4FzwIg5McS4",
+   "t": "XXL LEGO Go-Kart | Rebuild Mark II | #6 - Mantis Hacks",
+   "d": "2020-10-15",
+   "v": 333226,
+   "s": 1192,
+   "vertical": false,
+   "desc": "My latest 3D Printed project is this GIANT LEGO Go-Kart large enough for me to ride! In this video I strip down the Mark I version and re-build it as Mark II version which is BIGGER an incorporates an electronics differential!\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu"
+  },
+  {
+   "id": "XyuE0PggtiE",
+   "t": "3D Printing a D-O Droid Tyre using High Speed TPU",
+   "d": "2021-03-07",
+   "v": 10924,
+   "s": 109,
+   "vertical": false,
+   "desc": "I got a new 3D printer the Lulzbot Workhorse and I thought I should test it out with some new filament by Polymaker. The filament is a high speed version of PolyFlex TPU that I use to make my Giant Scale Lego tyres and D-O's tyre. TPU parts are sometimes difficult to print and time consuming so I hope this new material works well as it could save me a heap of time with my Giant Lego projects. Print Profile Settings Below!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.com/4e0j2\n*******"
+  },
+  {
+   "id": "zLgWsiJbx-o",
+   "t": "3D Printed Lego inspired Go-Kart #lego #3dprinting #gokart",
+   "d": "2021-07-27",
+   "v": 57258,
+   "s": 16,
+   "vertical": true,
+   "desc": "My 8.34 x scale 3D printed Lego inspired go-kart. Check out my channel for the complete build!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount"
+  },
+  {
+   "id": "Vgk91aQPfT0",
+   "t": "My favourite Lego inspired Giant 3D print! #lego #bulldozer #3dprinting",
+   "d": "2021-09-02",
+   "v": 33714,
+   "s": 20,
+   "vertical": true,
+   "desc": "Just a few clips of my favourite Giant Lego inspired 3D build. The radio controlled bulldozer! See the full build video on my channel!\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSlice En"
+  },
+  {
+   "id": "CrmhZpsBkBo",
+   "t": "Perspective with Lego and 3D printed models - #1 #lego #gokart #3dprinting",
+   "d": "2021-09-04",
+   "v": 28341,
+   "s": 33,
+   "vertical": true,
+   "desc": "I made a few of these giant Lego perspective videos using my 3D printed Lego models. I\u2019ve never shared them here.. so here they are. This is number 1\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n***************************"
+  },
+  {
+   "id": "umNbUu61M68",
+   "t": "Perspective with Lego and 3D printed models - #2 #lego #gokart #3dprinting",
+   "d": "2021-09-23",
+   "v": 36905,
+   "s": 20,
+   "vertical": true,
+   "desc": "I made a few of these giant Lego perspective videos using my 3D printed Lego models. I\u2019ve never shared them here.. so here they are. This is number 2\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n***************************"
+  },
+  {
+   "id": "r0PdItQB60o",
+   "t": "Robot Dog Throws A Punch! Giant 3D Printed Lego and More! #TCT3Sixty with @jamesbruton",
+   "d": "2021-10-06",
+   "v": 12869,
+   "s": 714,
+   "vertical": false,
+   "desc": "I visited the TCT3Sixty show with James Bruton and I took a couple of my giant 3D printed Lego inspired creations with me!  James took his OpenDog V3 which at one point attacked him!! Skynet??\n\nWith thanks to E3D and Lulzbot for hosting me at the show, and James Bruton for the laughs!\n\n*********************************\nhttps://e3d-online.com/\nhttps://www.lulzbot.com/\nhttps://www.youtube.com/c/JamesBruton\n*********************************\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n\n*********************************\nBambu Lab Printers:  http://shrsl.c"
+  },
+  {
+   "id": "iGN97xLuLMI",
+   "t": "Mantis Robot",
+   "d": "2021-11-04",
+   "v": 31885,
+   "s": 28,
+   "vertical": true,
+   "desc": "In case you ever wondered how I got my name\u2026 mantisrobot. \n\n18 months of inactivity and it started first time! \ud83d\ude03\n\nThat\u2019s double beat jump at the end really annoys me \ud83d\ude06"
+  },
+  {
+   "id": "nJdFXJ3Rnpc",
+   "t": "Mesmerizing 2006 Robot (Will It Still Work?) - Mantis Hacks",
+   "d": "2021-11-20",
+   "v": 16225,
+   "s": 1196,
+   "vertical": false,
+   "desc": "This is my award winning interactive robot creation know as  i.C. Hexapod. This robot was built in 2006 and first released on YouTube in 2007. i.C. has been exhibited in the UK and Europe and appeared on T.V. and radio!!. In this video I find out if i.C still works, and take a look under the hood to show you how he was built. This was an early look into combining animatronics and machine vision using the OpenCV library.\n\n*********************************\nYou can find my hex pod playlist here:\nhttps://youtube.com/playlist?list=PLTSAQ5KEjPVD8aTlj_n_crA_DCRNZHnWD\n*********************************"
+  },
+  {
+   "id": "RZx2p2rLyLE",
+   "t": "The Iconic 1980's Lego Car Chassis! - Can it be done? - Mantis Hacks",
+   "d": "2021-12-21",
+   "v": 167196,
+   "s": 732,
+   "vertical": false,
+   "desc": "This kit made my Christmas in nineteen eighty something!  The iconic Lego car chassis was released in 1980 and is arguably the best Technic kit ever released (if you're a certain age!) In this video I see if it's possible to scale up such a huge kit to join my collection of Lego Inspired 3D Printed classic technic kits!\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding"
+  },
+  {
+   "id": "XpjfVev51ro",
+   "t": "3D Printed LEGO Inspired Gear Clock - (REVISED EDIT) - Mantis Hacks",
+   "d": "2022-01-04",
+   "v": 32886,
+   "s": 957,
+   "vertical": false,
+   "desc": "This video was released a year ago, this is a re-release due to audio issues!\n\nMy latest 3D Printed project is this Lego Technic inspired GIANT LEGO Gear Clock! This was a great fun project and the clock turned out really well! There are several versions and two different scale for different sized print beds. \n\nThe files and parts required to build your own clock will be available to purchase from the links below:\n*********************************\nGear Wall Clock 7.5X Scale:\nhttps://www.threeding.com/3d-printing-models/gear-wall-clock-75-x-scale-lego-technic-inspired\nGear Wall Clock 10x Scale:"
+  },
+  {
+   "id": "s5MT6cxDMs8",
+   "t": "GIANT Scale Lego Inspired 1980\u2019s Engine - 3D Printed - Mantis Hacks",
+   "d": "2022-02-10",
+   "v": 313978,
+   "s": 844,
+   "vertical": false,
+   "desc": "The iconic Lego car chassis was released in 1980 and is arguably the best Technic kit ever released (if you're a certain age!) In this video I tackle the incredible boxer engine! And what a joy it was to make! Check out what happens when I add a motor :D\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n*********************************************"
+  },
+  {
+   "id": "Ft2MOaIrt0A",
+   "t": "Square Pistons Lego Engine #lego #engine #3dprinted #engineering",
+   "d": "2022-03-02",
+   "v": 132147,
+   "s": 12,
+   "vertical": true,
+   "desc": "This is my 3D printed version of the classic Lego car chassis at 5:1 scale :) Full build video available here: https://youtu.be/s5MT6cxDMs8\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSli"
+  },
+  {
+   "id": "95oB91178vs",
+   "t": "Bigger Better Fan Belt #lego #engine #3dprinting",
+   "d": "2022-03-26",
+   "v": 104074,
+   "s": 15,
+   "vertical": true,
+   "desc": "This bigger elastic band belt is a much better fit and look for the giant Lego engine! Full video here: \nhttps://youtu.be/s5MT6cxDMs8\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSlice Eng"
+  },
+  {
+   "id": "x8Dp_gXs7IU",
+   "t": "Unboxing this StarWars Hoth inspired Lego xBox controller stand!",
+   "d": "2022-04-19",
+   "v": 42633,
+   "s": 40,
+   "vertical": true,
+   "desc": "This was given to me to celebrate the release of The Skywalker Saga Lego game in the xBox. It\u2019s a beautiful piece but when you don\u2019t get to assemble it. 1 of 40 made abs given to creators. @LEGO @XBOX @warnerbrosentertainment"
+  },
+  {
+   "id": "0Tq2lnMD9E4",
+   "t": "XXL 3D Printed Go-Kart - Opposite Lock! | #7 - Mantis Hacks",
+   "d": "2022-04-27",
+   "v": 85123,
+   "s": 399,
+   "vertical": false,
+   "desc": "I finally get to test my split rear axle that I installed in the last XXL Go-Kart video, plus Reuben gets to try the Go-Kart out! We also add some drift rims to the rear wheels to see if the kart will drift! Enjoy!! \n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab 3D Printers\nhttp://shrsl.com/4e0j2\n*********************************\nSlice Engineering Ex"
+  },
+  {
+   "id": "UzF8Oa5gpA0",
+   "t": "3D Printed Go-Kart OFF-ROAD (ish) - #EMFCAMP",
+   "d": "2022-06-07",
+   "v": 39496,
+   "s": 735,
+   "vertical": false,
+   "desc": "James Bruton and I are heading to EMF camp, Its set in a field so I need to prepare the Go-Kart for a more rugged terrain! We also check out some of the other attractions at EMF camp: https://www.emfcamp.org/\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nBambu Lab 3D Printers\nhttp://shrsl.com/4e0j2\n*********************************\nSlice Engineering Extruder P"
+  },
+  {
+   "id": "73h7ezpuYLk",
+   "t": "3D Print Club in Palau! - Part 1",
+   "d": "2022-08-21",
+   "v": 11607,
+   "s": 60,
+   "vertical": true,
+   "desc": "I\u2019m setting up a 3D print club and maker space for the students of Palau Community College. Lulzbot have donated printers, PolyMaker have donated material and Alibre have donated CAD licenses!\n\nPalau is and island in Micronesia. Check it out! It has some of the most beautiful diving in the world! \ud83c\uddf5\ud83c\uddfc"
+  },
+  {
+   "id": "VucCYfii0Dc",
+   "t": "3D Print Club in Palau - Part 2",
+   "d": "2022-08-31",
+   "v": 14955,
+   "s": 61,
+   "vertical": true,
+   "desc": "Part 2 of my Palau 3D print and Design project!  *** MOVED TO SHORTS ***\n\nWe design a Solo cup adapter for the Coconut Rhinoceros Beetle traps to make reset and maintenance easier! If you want to know why we are trapping CRBs, there lots of Info online about the CRB problem In the Pacific region!\n\nI\u2019m setting up a 3D print club and maker space for the students of Palau Community College. Lulzbot have donated printers, PolyMaker have donated material and Alibre have donated CAD licenses!\n\nPalau is and island in Micronesia. Check it out! It has some of the most beautiful diving in the world! \ud83c\uddf5\ud83c\uddfc"
+  },
+  {
+   "id": "OPCm9aoIxUs",
+   "t": "Working Lego Minifig Light Saber! - Mantis Hacks",
+   "d": "2022-12-01",
+   "v": 25818,
+   "s": 1393,
+   "vertical": false,
+   "desc": "In this video I build a working 10 x scale minifig Lightsaber! The saber has sound and light driven by an Arduino Trinket M0. Links to the STLs, BOM and Assembly guide to follow!\n\nLightsaber STL Files available to purchase here:\nhttps://cults3d.com/en/3d-model/game/giant-scale-minifig-light-saber\nhttps://www.threeding.com/3d-model/14297-giant-scale-minifig-light-saber\n\nSource code, parts list and schematics available here:\nhttps://github.com/mantisrobot/lightsaber\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*******************************************"
+  },
+  {
+   "id": "dEnWxC6Muac",
+   "t": "15 tonne Ploughing Engine #steamengine #plough #tractor",
+   "d": "2023-08-22",
+   "v": 19385,
+   "s": 61,
+   "vertical": true,
+   "desc": "I got to steer this incredible Fowler ploughing engine owned and restored by Geoffrey Westlake. Engine details and history below \ud83d\udc47 \n\nThanks you to Sammy and Loz for arranging this incredible experience for my birthday \ud83d\ude4f\n\nThis is a Fowler K7 ploughing engine 14694, MA5128. Ordered by Samuel Jackson & Sons, Wistaston, Crewe, Cheshire from John Fowler Ltd, Leeds in November 1917 & delivered by rail on the 10th February 1918 with sister engine 14695, MA5129, plough, cultivator, living van, water cart & complete set of tools & equipment to go with them. Worked for Jacksons until the mid 50\u2019s, bough"
+  },
+  {
+   "id": "qVGUJebd9rw",
+   "t": "Crazy balance board bike built by @jamesbruton",
+   "d": "2023-10-03",
+   "v": 50963,
+   "s": 61,
+   "vertical": true,
+   "desc": "This crazy bike built by James Bruton is like a giant hover board turned sideways! Check out his build video on his channel!\n\nhttps://youtu.be/j9tN51fh_vE?si=WavlaqsGcYarGegc\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n**"
+  },
+  {
+   "id": "6yB2rX7dIsE",
+   "t": "3D Printed Two Stage Planetary Gearbox! - Details in Description #3dprinting #gearbox",
+   "d": "2023-12-10",
+   "v": 12073117,
+   "s": 60,
+   "vertical": true,
+   "desc": "*Full test video now up!* https://youtu.be/JtEKrBaZDvM\n\nLinks to printer and materials used below! - This 3D printed two stage planetary gearbox has a reduction of 64:1. This is a test print in PLA-CF, the final print will be in tougher materials such as PA12 and PC. \n\nThis was printed on my Bambu Lab X1 Carbon printer! My aim is to get 125 Nm of torque out of the final design! Part 2: https://youtube.com/shorts/BtBT5hgHa3U\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/joi"
+  },
+  {
+   "id": "n7PKGpmaBi0",
+   "t": "Giant Scale 3D Printed Stormtrooper Mech - Mantis Hacks",
+   "d": "2023-12-15",
+   "v": 217911,
+   "s": 614,
+   "vertical": false,
+   "desc": "In this video I build a 4 x scale Lego Inspired Stormtrooper Mech! YES!! For the first time its not 1980's Lego Technic :D I'm using PolyMaker PLA Filament in Grey, White, and Black. Total filament required is approximately 4Kg. Printed with a 0.4mm nozzle, 3 perimeters, 3 bottom layers, two top layers, 10% infill. Approximate filament split 2Kg White, 1Kg Black, 1Kg Grey. Dark grey is also required but can use light grey or Black instead.\n\nModels Here: https://cults3d.com/en/3d-model/game/giant-stormtrooper-mech-for-your-lego-stormtrooper-mech\n\nMy second Mech build is here!: https://youtu.be/"
+  },
+  {
+   "id": "mYlKhjW5LtI",
+   "t": "Giant Mech Stormtrooper Assembly #lego #starwars #3dprinting #asmr",
+   "d": "2023-12-20",
+   "v": 3320459,
+   "s": 61,
+   "vertical": true,
+   "desc": "This is the sub-assemblies from my 3D printed giant mech trooper video! To see the final assembly and fails watch this video: https://youtu.be/n7PKGpmaBi0\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*FormLabs* Form 4 Resin Printer : https://tidd.ly/48O5VBt\n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal."
+  },
+  {
+   "id": "UuAE3g1ny1Y",
+   "t": "XXL minifig Lightsaber! \ud83d\ude32#lego #starwars #3dprinting",
+   "d": "2024-01-19",
+   "v": 72743,
+   "s": 61,
+   "vertical": true,
+   "desc": "I made this 3D printed minifig Lightsaber in 2022! But this is a much higher quality print! Full video here: https://youtu.be/OPCm9aoIxUs\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\nCode here: https://github.com/mantisrobot/lightsaber\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps:/"
+  },
+  {
+   "id": "oZr3jWypDMM",
+   "t": "Giant Stormtrooper Mech Blaster #lego #starwars #3dprinting #asmr",
+   "d": "2024-02-01",
+   "v": 375716,
+   "s": 60,
+   "vertical": true,
+   "desc": "3D printed Lego inspired starwars blaster to go with the giant stormtrooper mech I built!  See the full mech build here: https://youtu.be/n7PKGpmaBi0\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Fil"
+  },
+  {
+   "id": "I9R197Irq8U",
+   "t": "Drifting in a GIANT Lego inspired go-kart! #lego #drift #gokart #3dprinting",
+   "d": "2024-02-09",
+   "v": 110262,
+   "s": 25,
+   "vertical": true,
+   "desc": "Throw back to my Nephew testing the drift rims on my XXL Lego Inspired electric Go-Kart! Full Go-Kart build series here: https://www.youtube.com/playlist?list=PLTSAQ5KEjPVCjfrIeiETXO10QOMD-5vcB\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttp"
+  },
+  {
+   "id": "AQ1lfEPPSyw",
+   "t": "iC Robot and friends #robot #hexapod #engineering",
+   "d": "2024-02-25",
+   "v": 39119,
+   "s": 45,
+   "vertical": true,
+   "desc": "This is iC Hexapod, a robot I built back in 2006 with computer vision to track peoples faces! He is one of the predecessors of Mantis robot and many more! \nMore of iC Hexapod here: https://youtu.be/nJdFXJ3Rnpc\nMore of Mantis here: https://www.youtube.com/playlist?list=PLTSAQ5KEjPVDJouISYOUzjZM9Bu0WoS8t\nMore hexapod robots here: https://www.youtube.com/playlist?list=PLTSAQ5KEjPVD8aTlj_n_crA_DCRNZHnWD\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n**********************"
+  },
+  {
+   "id": "6qwiVwskItQ",
+   "t": "Copper T-Rex skull \ud83e\udd96 3D Printed!!  #3dprinting #dinosaur #skull #3dprint",
+   "d": "2024-03-10",
+   "v": 28742,
+   "s": 60,
+   "vertical": true,
+   "desc": "Experimenting with copper filled PLA with this T-Rex skull and ring! Filament supplied by \u200b\u2060 \n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount "
+  },
+  {
+   "id": "KcUGD9xYaSk",
+   "t": "Lego Marvel Mech 4X bigger 3D printed! - Mantis Hacks",
+   "d": "2024-04-24",
+   "v": 148927,
+   "s": 834,
+   "vertical": false,
+   "desc": "In this video I build a 4 x scale Lego Inspired War Machine Mech! I've stepped out of the Star Wars universe and into Marvel! :D I'm using PolyMaker PLA Filament in Grey, Silver, Ash Grey, Dark Grey Green, and Black. Total filament required is approximately 4Kg. Printed with a 0.4mm and 0.6mm nozzle, 3 perimeters, 2 bottom layers, 3 top layers, 10% infill on my Bambu X1C an P1S 3D printers. \n\nThis video is sponsored by PCBWay: https://www.pcbway.com/\n\nSTL files Here: https://cults3d.com/en/3d-model/game/giant-war-machine-mech-for-your-lego-mech\n\nThe Stormtrooper Mech Build is here: https://you"
+  },
+  {
+   "id": "IvoX54BVVj8",
+   "t": "Giant Mech War Machine Assembly #lego #marvel #3dprinting #asmr",
+   "d": "2024-04-26",
+   "v": 6804954,
+   "s": 61,
+   "vertical": true,
+   "desc": "This is the sub-assemblies from my 3D printed giant mech war machine video! To see the final assembly and fails watch this video: https://youtu.be/KcUGD9xYaSk\n\nPrinted in PolyMaker PLA.\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n****************************************"
+  },
+  {
+   "id": "l1rhrdb2P-k",
+   "t": "Giant Lego Mech Build! #lego #mech #build #fails #3dprinting",
+   "d": "2024-05-04",
+   "v": 727612,
+   "s": 21,
+   "vertical": true,
+   "desc": "Fails n Fun from my 3D printed giant mech war machine video! To see the full assembly watch this video: https://youtu.be/KcUGD9xYaSk\n\nPrinted in PolyMaker PLA.\n\nSTL files available here: https://www.threeding.com/designer/mantisrobot\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdent"
+  },
+  {
+   "id": "rAm-lMeZ-uE",
+   "t": "GIANT Lego Inspired Monkey Bike!! - Part 1",
+   "d": "2024-06-04",
+   "v": 101505,
+   "s": 1006,
+   "vertical": false,
+   "desc": "I'm attemting another giant scale Lego inspried build! This time I'm doing a motorbike, well actually its more of an electric Monkey bike! based on kit 8810!  This will be a mulitpart video series, in this part I build the front section of the bike!  Warning: This video contains added \"hello\" from  @jamesbruton  \n\nPart 2: https://youtu.be/mVzafoKXynU\nPart 3: https://youtu.be/KR58Ann8d3U\n\nThis video is sponsored by *PCBWay* : https://www.pcbway.com/\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.you"
+  },
+  {
+   "id": "lvQ5xJlIVH4",
+   "t": "Clear Resin 3D print for my Giant Scale Lego Monkey Bike #lego #3dprinting #bike",
+   "d": "2024-06-08",
+   "v": 53984,
+   "s": 17,
+   "vertical": true,
+   "desc": "This clear resin print is made by PCBWay who sponsored the full video! There is some kind of varnish applied to the print that makes it so clear.\n\nCheck out the full monkey bike build part one here: https://youtu.be/rAm-lMeZ-uE\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL"
+  },
+  {
+   "id": "bvFsL-jwTxU",
+   "t": "XXL Lego Inspired motorcycle Monkey Bike! #lego #3dprinting #bike #motorcycle",
+   "d": "2024-06-13",
+   "v": 80436,
+   "s": 29,
+   "vertical": true,
+   "desc": "Check out the full monkey bike build part one here: https://youtu.be/rAm-lMeZ-uE\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Printers\nhttp://shrsl.com/2djaz-2yn7-1cwx9\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https://www.threeding.com/user/mantisrobot\n*********************************\nSlice Engineering Extruder Parts!\nGet a discount with this lin"
+  },
+  {
+   "id": "BtBT5hgHa3U",
+   "t": "Testing the 3D Printed two stage planetary gearbox - 150 NM in full video!!!  #gearbox #3dprinting",
+   "d": "2024-06-20",
+   "v": 444355,
+   "s": 61,
+   "vertical": true,
+   "desc": "Tested to destruction: https://youtu.be/JtEKrBaZDvM\n\nThis 3D printed two stage planetary gearbox has a reduction of 64:1. This is a test print on PLA-CF, the final print will be in tougher materials such as PA12 and PC. \n\nThis was printed on my Bambu Lab X1 Carbon printer! My aim is to get 125 Nm of torque out of the final design!\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://ww"
+  },
+  {
+   "id": "Vvh-CY44iFI",
+   "t": "XXL Lego inspired go-kart crash!    #lego #3dprinting #gokart #crash #car",
+   "d": "2024-07-03",
+   "v": 103114,
+   "s": 50,
+   "vertical": true,
+   "desc": "It's the start of Wimbledon so @jamesbruton and I decided to pay homage by taking the XXL Lego inspired go-kart for a spin arround the tennis court, It didn't go as planned :)\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/manti"
+  },
+  {
+   "id": "mVzafoKXynU",
+   "t": "GIANT Lego Inspired Monkey Bike with Adam Savage - Part 2",
+   "d": "2024-09-05",
+   "v": 289039,
+   "s": 1458,
+   "vertical": false,
+   "desc": "In this video I build the rest of the XXL Lego inspired Monkey Bike and test it out with special guest @tested Adam Savage! I plan on releasing the files and build list in due course. **CORRECTION** although my explanation of rake angle and trail are correct, I made a mistake with my assumptions on my bike design, update here: https://youtube.com/shorts/XEL108y_Y7U\n\nThis video is sponsored by *PCBWay* : https://www.pcbway.com/\n\nPart 2 of this video series based on Lego kit 8810!\nPart 1: https://youtu.be/rAm-lMeZ-uE\nPart 3: https://youtu.be/KR58Ann8d3U\n\nYou can support my projects by becoming a"
+  },
+  {
+   "id": "XEL108y_Y7U",
+   "t": "I Made A Mistake! \ud83d\ude2e XXL Lego Inspired Monkey Bike Update! #lego #inspired #bike",
+   "d": "2024-09-10",
+   "v": 91376,
+   "s": 61,
+   "vertical": true,
+   "desc": "I made a mistake explaining the problems with the geometry and steering with this bike so this is a short follow up to rectify the mistake, also I answer a couple of viewers questions!\n\nSee the full video here: https://youtu.be/mVzafoKXynU\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff="
+  },
+  {
+   "id": "fo1BVBZm8uY",
+   "t": "XXL Lego Inspired Monkey Bike! With added Savage!! #lego #inspired #3dprinting #bike #adamsavage",
+   "d": "2024-09-12",
+   "v": 4875964,
+   "s": 61,
+   "vertical": true,
+   "desc": "My XXL Lego inspired Monkey Bike!\n\nSee the full video here: https://youtu.be/mVzafoKXynU\n\nYou can support my projects by becoming a memeber, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*FormLabs* Form 4 Resin Printer : https://tidd.ly/48O5VBt\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1"
+  },
+  {
+   "id": "rEPDUySZIlk",
+   "t": "Riding a Huge AT-AT by @jamesbruton link to full video in description! #starwars #atat #machine",
+   "d": "2024-10-01",
+   "v": 357113,
+   "s": 13,
+   "vertical": true,
+   "desc": "Check out this GIANT scale AT-AT walker built by @jamesbruton I got to pilot it when I helped him film his video a few weeks back! Full video here: https://www.youtube.com/watch?v=J43IINUkh-s\n\n*********************************\nSee more of the Lego Inspired Monkey Bike I'm riding here: https://youtu.be/mVzafoKXynU\n*********************************\n\n*********************************\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: http"
+  },
+  {
+   "id": "KR58Ann8d3U",
+   "t": "Lego Inspired Monkey Bike - REBUILD - (lights, brakes, skids and failed wheelies)",
+   "d": "2024-11-14",
+   "v": 57963,
+   "s": 1536,
+   "vertical": false,
+   "desc": "I'm rebuilding the XXL Lego inspired Monkey Bike because I want to pull wicked skids! (Sorry about the microphone noise in the first half of the video) See below for my current thoughts on releasing the files.\n\nThis video is sponsored by PCBWay: https://www.pcbway.com/\n\nThis is part 3 of this video series based on Lego kit 8810!\nPart 2: https://youtu.be/mVzafoKXynU\nPart 1: https://youtu.be/rAm-lMeZ-uE\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n*********************"
+  },
+  {
+   "id": "lviSVA4HEKE",
+   "t": "Trying to wheelie a 3D printed bike -  #legotechnic #bike #lego #inspired #3dprinting",
+   "d": "2024-11-22",
+   "v": 20345,
+   "s": 17,
+   "vertical": true,
+   "desc": "Im terrible at pulling wheelies.. but at least I tried! \nfull rebuild video here: https://youtu.be/KR58Ann8d3U\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\nhttps://www.amazon.co.uk/shop/mattdenton\nSTL Files: https:"
+  },
+  {
+   "id": "b-URjWCWBkg",
+   "t": "XXL Lego inspired gokart with added Furze!  #lego #inspired #3dprinting #gokart",
+   "d": "2024-12-18",
+   "v": 22275,
+   "s": 61,
+   "vertical": true,
+   "desc": "A short clip of my XXL Lego Inspired go-kart, and that moment Colin Furze thought he broke it.\n\nFull XXL builds here: https://youtube.com/playlist?list=PLTSAQ5KEjPVCjfrIeiETXO10QOMD-5vcB&si=q64b-yikFPONPAor\n\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n****************************"
+  },
+  {
+   "id": "8UjRLvJkTyc",
+   "t": "GIANT scale Lego inspired engine! - 3D Printed - Mantis Hacks",
+   "d": "2024-12-20",
+   "v": 20547,
+   "s": 508,
+   "vertical": false,
+   "desc": "This is my end of year message and apology for still not finishing the car chassis..  and for the car chassis fans I serviced the engine and got it running again.. have a great holiday and HNY!\n\nYou can support my projects by becoming a member of my channel, tipping,  using affiliate links or buying my STL files: \n\n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\n*********************************\nSlice Engineering DISCOUNT Code: MATTD5\nOr use this Link: https://www.sliceengineering.com/?p=BJ1aP9"
+  },
+  {
+   "id": "4Wu4lB0Gn14",
+   "t": "GIANT LEGO (inspired) ENGINE  sounds fantastic running! #lego #3dprinting #engine #asmr",
+   "d": "2024-12-21",
+   "v": 34821,
+   "s": 148,
+   "vertical": true,
+   "desc": "My giant Lego inspired engine was dive for a service!\n\nFull giant builds here: https://youtube.com/playlist?list=PLTSAQ5KEjPVA2pJXyJ_ae8hUA6nWC417I&si=r02AqITZLwP-iOhP\n\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*********************************\nhttp://www.paypal.me/mantisrobot\n"
+  },
+  {
+   "id": "2IUDHJRXsuw",
+   "t": "6KW Home Made Drift Trike #drifttrike  #trikes #drift #maker",
+   "d": "2025-01-06",
+   "v": 20708,
+   "s": 75,
+   "vertical": true,
+   "desc": "This is my friend Eduardo\u2019s home made drift trike! Eduardo spent a weekend at the Mantis Hacks workshop finishing the bike and testing it on the tennis court! What fun \ud83e\udd29\n\nEduardo: @eduardoaldaz-carroll4871\n\n\nYou can support my projects by tipping, using affiliate links or buying my STL files: \n*********************************\nBambu lab Store: https://shrsl.com/4e0j2\nP1S Printer: https://shrsl.com/4lfyh\nX1C Printer: https://shrsl.com/4lfyl\nPLA-CF Filament: https://shrsl.com/4lfyp\n*********************************\nPolyMaker Filament\nhttps://us.polymaker.com?aff=661\n*****************************"
+  },
+  {
+   "id": "8u2wMd3n154",
+   "t": "Happy Birthday Channel!",
+   "d": "2025-02-21",
+   "v": 7269,
+   "s": 37,
+   "vertical": true,
+   "desc": "The channel is 19 years old today, and this is part of the first video I uploaded. It\u2019s the second hexapod robot I ever built, created in 2001."
+  },
+  {
+   "id": "Gw780OzZriA",
+   "t": "NEW channel now live! @DentonsDen #starwars #film #r2d2 #scifi #bts #podcast",
+   "d": "2025-03-02",
+   "v": 2041,
+   "s": 28,
+   "vertical": true,
+   "desc": "Please help the new channel so I can keep making this podcast! Like share sub etc \n\nhttps://youtube.com/@DentonsDen"
+  },
+  {
+   "id": "UaU365Lf47k",
+   "t": "Anybody heard of Tim Berry?\ud83d\ude02 \u200b\u2060@DentonsDen  #film #bts #podcast #specialeffects",
+   "d": "2025-03-05",
+   "v": 2422,
+   "s": 19,
+   "vertical": true,
+   "desc": "@DentonsDen \n\nMy friend and colleague Tim Berry joins me in the Den for a chat about his work on projects like Dr Who, Star Wars and much more. Including the difficutiles he faced getting started in the Special Effects and animatronics industry.\n\nFull video here: https://youtu.be/izFtadkuFkk"
+  },
+  {
+   "id": "nQYLlbkP7VU",
+   "t": "Build an animatronic hand! \ud83d\ude00 @DentonsDen #animatronics #bts #film #podcast",
+   "d": "2025-03-07",
+   "v": 4159,
+   "s": 21,
+   "vertical": true,
+   "desc": "@DentonsDen \n\nMy friend and colleague Tim Berry joins me in the Den for a chat about his work on projects like Dr Who, Star Wars and much more. Including the difficutiles he faced getting started in the Special Effects and animatronics industry.\n\nFull video here: https://youtu.be/izFtadkuFkk"
+  },
+  {
+   "id": "IW7fc5EUVJc",
+   "t": "They had no idea what it was \ud83d\ude02 full podcast at @DentonsDen #bts #film #cfx #podcast",
+   "d": "2025-03-09",
+   "v": 2906,
+   "s": 23,
+   "vertical": true,
+   "desc": "My friend and colleague Tim Berry joins me in the Den for a chat about his work on projects like Dr Who, Star Wars and much more. Including the difficutiles he faced getting started in the Special Effects and animatronics industry.\n\nFull video here: https://youtu.be/izFtadkuFkk"
+  },
+  {
+   "id": "GWsvaJWfOOI",
+   "t": "We both dropped out of a degree :D #bts #animatronics #podcast #scifi",
+   "d": "2025-04-02",
+   "v": 4652,
+   "s": 26,
+   "vertical": true,
+   "desc": "@DentonsDen \n\nMy friend and colleague Gerard Moore joins me in the Den for a chat about his work on films like Star Wars and his background and personal interests and inspirations.\n\nFull video on Denton's Den:\n\nGerard Moore - Animatronic Designer\nhttps://youtu.be/5TboSaO2FCY"
+  },
+  {
+   "id": "_XOvJEoZGUs",
+   "t": "The Creature Shop isn't a real shop?! :D #bts #animatronics #podcast #scifi",
+   "d": "2025-04-06",
+   "v": 5207,
+   "s": 31,
+   "vertical": true,
+   "desc": "@DentonsDen \n\nMy friend and colleague Gerard Moore joins me in the Den for a chat about his work on films like Star Wars and his background and personal interests and inspirations.\n\nFull video on Denton's Den:\n\nGerard Moore - Animatronic Designer\nhttps://youtu.be/5TboSaO2FCY"
+  },
+  {
+   "id": "JtEKrBaZDvM",
+   "t": "Massive Torque 3D Printed Planetary Gearbox! - Mantis Hacks",
+   "d": "2025-04-17",
+   "v": 216884,
+   "s": 2756,
+   "vertical": false,
+   "desc": "I'm trying to get 150 Nm ( 110 ft.lb ) of torque out of a 3D printed gearbox! why? well watch and find out! This gearbox design is based on Gabrael Levine's Open Torque actuator: https://hackaday.io/project/159404-opentorque-actuator\n\n*My Mistake* the formula for the gear ratio is completely wrong! The outer ring gears 63 teeth not 72 teeth. The formula is 1 + R/S = 1 + 63/9 = 8:1 reduction.\n\n*This video is sponsored by PCBWay* : https://www.pcbway.com/\n*As an Amazon Associate, I earn from qualifying purchases.*\n\nYou can support my projects by becoming a member, tipping, using affiliate links "
+  },
+  {
+   "id": "p2ziipZ7PVY",
+   "t": "Tested to destruction! #3dprinted #gearbox #destruction  #3dprinting",
+   "d": "2025-04-19",
+   "v": 31117,
+   "s": 47,
+   "vertical": true,
+   "desc": "Just a few clips from my recent video testing this 3D printed gearbox to destruction!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion "
+  },
+  {
+   "id": "MDxognwRXco",
+   "t": "Planetary Gearbox Ratio Correction \ud83d\ude2c #gearbox #3dprinting #engineering #neverassume",
+   "d": "2025-04-26",
+   "v": 29245,
+   "s": 60,
+   "vertical": true,
+   "desc": "A calculation correction video to accompany my latest video on my two stage planetary gearbox!\n\nFull Video: https://youtu.be/JtEKrBaZDvM\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers &"
+  },
+  {
+   "id": "NvgNkl9PrE8",
+   "t": "Transparent Planetary Gearbox #gearbox #3dprinting #engineering",
+   "d": "2025-04-27",
+   "v": 16525,
+   "s": 61,
+   "vertical": true,
+   "desc": "This transparent gearbox case is from my planetary gearbox video and is printed by PCBWay! \n\nFull Video: https://youtu.be/JtEKrBaZDvM\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Fi"
+  },
+  {
+   "id": "V4o17nRh6RY",
+   "t": "Do YOU have a favourite tool?  #bts #podcast #animatronics #dentonsden",
+   "d": "2025-05-02",
+   "v": 4781,
+   "s": 22,
+   "vertical": true,
+   "desc": "\u200bMy friend and colleague Gustav Hoegen joins me in the Den for a chat about his incredible animatronics work, his inspirations and journey into Creature FX.\n\nFull video on Denton's Den: @DentonsDen\n\nhttps://youtu.be/0Qu162MWcGo"
+  },
+  {
+   "id": "ZerjZUci2ac",
+   "t": "Who would YOU most like to play in a film? #bts #podcast #animatronics #specialeffects",
+   "d": "2025-05-03",
+   "v": 4060,
+   "s": 12,
+   "vertical": true,
+   "desc": "\u200bMy friend and colleague Gustav Hoegen joins me in the Den for a chat about his incredible animatronics work, his inspirations and journey into Creature FX.\n\nFull video on Denton's Den: @DentonsDen\n\nhttps://youtu.be/0Qu162MWcGo"
+  },
+  {
+   "id": "K_lUj3ZAvc4",
+   "t": "Morris Minor Pickup - Part 1 #morris #minor #pickup #classiccars",
+   "d": "2025-06-04",
+   "v": 6949,
+   "s": 137,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "hg3jedk4HkA",
+   "t": "Morris Minor Pickup - Part 2 #morrisminor #pickup #classiccars",
+   "d": "2025-06-04",
+   "v": 4544,
+   "s": 83,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "nONSZ-kWJy4",
+   "t": "Mark Hunter - Arriving at Jim Henson's! #podcast #animatronics #inventor #specialeffects #jimhenson",
+   "d": "2025-06-06",
+   "v": 3098,
+   "s": 16,
+   "vertical": true,
+   "desc": "My friend and colleague Mark Hunter joins me in the Den for a chat about his incredible animatronics work, his incredible prosthetic hand inventions and his inspirations and journey into Creature FX & Inventing.\n\nFull video here: https://youtu.be/KHQbRAztEio\n\n@DentonsDen"
+  },
+  {
+   "id": "5LAXlQDPwbQ",
+   "t": "Morris Minor Pickup - Part 3 #morrisminor #pickup #classiccars",
+   "d": "2025-06-10",
+   "v": 3844,
+   "s": 141,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "E3MoppiatJ4",
+   "t": "Morris Minor Pickup - Part 4 #morris #minor #pickup #classiccars",
+   "d": "2025-06-10",
+   "v": 4473,
+   "s": 178,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "1PXAp-le_NI",
+   "t": "Mark Hunter - Vogon's with big Jowly faces! #podcast #animatronics #inventor #prostheticlimb",
+   "d": "2025-06-13",
+   "v": 4508,
+   "s": 33,
+   "vertical": true,
+   "desc": "My friend and colleague Mark Hunter joins me in the Den for a chat about his incredible animatronics work, his incredible prosthetic hand inventions and his inspirations and journey into Creature FX & Inventing.\n\nFull video here: https://youtu.be/KHQbRAztEio\n\n @DentonsDen"
+  },
+  {
+   "id": "cXQ0jD4_FeY",
+   "t": "Morris Minor Part 5 - Carburettor #automobile #classiccars #pickup #morrisminor",
+   "d": "2025-06-17",
+   "v": 7451,
+   "s": 166,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "ArY4cLUFRrA",
+   "t": "Mark Hunter - The Sad Hippogriff Story! #podcast #animatronics #specialeffect #harrypotter",
+   "d": "2025-06-22",
+   "v": 5637,
+   "s": 30,
+   "vertical": true,
+   "desc": "My friend and colleague Mark Hunter joins me in the Den for a chat about his incredible animatronics work, his incredible prosthetic hand inventions and his inspirations and journey into Creature FX & Inventing.\n\nFull video here:  https://youtu.be/KHQbRAztEio\n\n@DentonsDen"
+  },
+  {
+   "id": "eY6m3Ios6ew",
+   "t": "Morris Minor - Part 6 - Brakes! #morrisminor #pickup #truck",
+   "d": "2025-06-23",
+   "v": 9415,
+   "s": 157,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "KBhfUk9EDG0",
+   "t": "I Built a 4x4 Radio Controlled Mower!",
+   "d": "2025-07-09",
+   "v": 408442,
+   "s": 2609,
+   "vertical": false,
+   "desc": "This is my home made version of an R/C petrol / electric lawn mower mulching machine! You can buy these from China but they are quite expensive and its way more fun building one yourself! \n*Some of the parts I used are listed below.*\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My sponsor for this video is PCBWay* : https://www.pcbway.com\n*Check out my podcast here* : YouTube: https://www.youtube.com/@DentonsDen\n*Spotify* : https://open.spotify.com/show/7b0ncWX36OGexfQfIqYFRw?si=f024c9bbb7db4437\n*As an Amazon Associate, I earn from qualifying purchases.*\n\nYou can support "
+  },
+  {
+   "id": "tYH0yTeJUgk",
+   "t": "Mulchy McMulchface DIY radio control mower  #mower #radiocontrol #mulcher",
+   "d": "2025-07-19",
+   "v": 19749,
+   "s": 62,
+   "vertical": true,
+   "desc": "This is my home made version of an R/C petrol / electric lawn mower mulching machine!\n\nFull video:  https://youtu.be/KBhfUk9EDG0\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My sponsor for this video is PCBWay* : https://www.pcbway.com\n*Check out my podcast here* : YouTube: https://www.youtube.com/@DentonsDen\n*Spotify* : https://open.spotify.com/show/7b0ncWX36OGexfQfIqYFRw?si=f024c9bbb7db4437\n\nYou can support my projects by becoming a member, tipping, buying my STL's or by using my affiliate links below: \n\n*Parts in the U.S.*\n*4x4 conversion kit (slightly different tyres)*"
+  },
+  {
+   "id": "XBpfffpVBqI",
+   "t": "My radio controlled home made lawn mower getting a good work out! #lawnmower #diy #radiocontrol",
+   "d": "2025-08-12",
+   "v": 33088,
+   "s": 25,
+   "vertical": true,
+   "desc": "This is my home made version of an R/C petrol / electric lawn mower mulching machine!\n\nFull video:  https://youtu.be/KBhfUk9EDG0\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My sponsor for this video is PCBWay* : https://www.pcbway.com\n*Check out my podcast here* : YouTube: https://www.youtube.com/@DentonsDen\n*Spotify* : https://open.spotify.com/show/7b0ncWX36OGexfQfIqYFRw?si=f024c9bbb7db4437\n\nYou can support my projects by becoming a member, tipping, buying my STL's or by using my affiliate links below: \n\n*Parts in the U.S.*\n*4x4 conversion kit (slightly different tyres)*"
+  },
+  {
+   "id": "Khu6hkpUT7M",
+   "t": "Morris Minor Part 7 - Coolant System! #morrisminor #pickup #lcv #engineering",
+   "d": "2025-08-20",
+   "v": 13430,
+   "s": 178,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "_888Wd40HaM",
+   "t": "Oscar Wright -  Its Not For Real!! #scotpilgrim #animation #storyboard",
+   "d": "2025-09-03",
+   "v": 9160,
+   "s": 34,
+   "vertical": true,
+   "desc": "My friend and colleague Oscar Wright joins me in this live edition of Denton's Den for a chat about his incredible conceptual design and storyboards for films such as Shaun of the Dead, Hot Fuzz, Scott Pilgrim vs The World and many more!\n\nFull video here: https://youtu.be/GLA9dX-vFCY"
+  },
+  {
+   "id": "jVQ-mpPABfk",
+   "t": "Oscar Wright - Was a Clown! #clown #clownschool #oscarwright #edgarwright #podcast",
+   "d": "2025-09-06",
+   "v": 12236,
+   "s": 29,
+   "vertical": true,
+   "desc": "My friend and colleague Oscar Wright joins me in this live edition of Denton's Den for a chat about his incredible conceptual design and storyboards for films such as Shaun of the Dead, Hot Fuzz, Scott Pilgrim vs The World and many more!\n\nFull video here: https://youtu.be/GLA9dX-vFCY"
+  },
+  {
+   "id": "o5pvEVfT5Qk",
+   "t": "Oscar Wright - Head Shot! #animation #credits #artist #storyboard",
+   "d": "2025-09-10",
+   "v": 12341,
+   "s": 24,
+   "vertical": true,
+   "desc": "My friend and colleague Oscar Wright joins me in this live edition of Denton's Den for a chat about his incredible conceptual design and storyboards for films such as Shaun of the Dead, Hot Fuzz, Scott Pilgrim vs The World and many more!\n\nFull video here: https://youtu.be/GLA9dX-vFCY"
+  },
+  {
+   "id": "stBcL-0gMRw",
+   "t": "Morris Minor Part 8 - Rear Bushings! #morrisminor #pickup #truck",
+   "d": "2025-09-16",
+   "v": 19935,
+   "s": 180,
+   "vertical": true,
+   "desc": "Getting my 1967 Morris minor pickup back on the road!\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion the A1 and A1 Mini are the best "
+  },
+  {
+   "id": "SXjjXnLYg3c",
+   "t": "3D Printed Car Chassis at 5X Scale! - Lego kit #8860",
+   "d": "2025-10-09",
+   "v": 237110,
+   "s": 2255,
+   "vertical": false,
+   "desc": "Get Onshape Pro free for up to 6 months \u2014 sign up here: https://onshape.pro/MattDenton\n\nLink to my Onshape Lego Technic Inspired Brick: https://cad.onshape.com/documents/23863a04b4054971a4efda95/w/eb2b1903eca72b8a924372c7/e/28c3fa2e7f1889394c5541f8?renderMode=0&uiState=68e7ad4556a8fd3b25c6dd56 \n\nYES I finally completed this 5 x giant scale Lego inspired car chassis! Based on what I think is the best Lego Technic kit ever made! No 8860.\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my podcast here* : YouTube: https://www.youtube.com/@DentonsDen\n*Spotify* : https:/"
+  },
+  {
+   "id": "tXNyhF_zZx0",
+   "t": "Don\u2019t PANIC \ud83d\ude31 We can rebuild! \ud83d\ude0f #lego #3dprinting #car",
+   "d": "2025-10-19",
+   "v": 616991,
+   "s": 66,
+   "vertical": true,
+   "desc": "The was not an easy build! You can see the full pain here: https://youtu.be/SXjjXnLYg3c\n\n1200 hour\n650 pieces\n3D Printed\n\nI scaled up the Lego Car Chassis 8860 to 5 X normal scale!"
+  },
+  {
+   "id": "RyM0SPHocUA",
+   "t": "Imagine Driving Your Childhood Toys! - XXXL 3D Printed Dune Buggy",
+   "d": "2025-11-12",
+   "v": 449160,
+   "s": 2740,
+   "vertical": false,
+   "desc": "*5 X Scale STL files available* (This is the un-modified version of this kit):\nhttps://cults3d.com/en/users/mantisrobot/3d-models\nhttps://www.threeding.com/3d-model/27362-stacking-blocks-giant-dune-buggy-5-x-scale\n\nThis is my biggest build to date a fully driveable 3D printed vehicle inspired by the 1980's Lego Technic model 8845. 3D Printed at nearly 10.5 X Scale! Its a beast! I estimate this project ot have taken between 1600 and 1700 hours of print time.\n\n*This project is sponsored by* : https://www.pcbway.com/\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my "
+  },
+  {
+   "id": "0ECsBNe3vEM",
+   "t": "XXXL Lego Inspired Dune Buggy! #lego #3dprinting #car #buggy",
+   "d": "2025-12-05",
+   "v": 2750481,
+   "s": 61,
+   "vertical": true,
+   "desc": "Full Build: https://youtu.be/RyM0SPHocUA\n\n*5 X Scale STL files available* (This is the un-modified version of this kit):\nhttps://cults3d.com/en/users/mantisrobot/3d-models\nhttps://www.threeding.com/3d-model/27362-stacking-blocks-giant-dune-buggy-5-x-scale\n\nThis is my biggest build to date a fully driveable 3D printed vehicle inspired by the 1980's Lego Technic model 8845. 3D Printed at nearly 10.5 X Scale! Its a beast! I estimate this project ot have taken between 1600 and 1700 hours of print time.\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my podcast here* : "
+  },
+  {
+   "id": "rGZwxjKbhpI",
+   "t": "I Got A New Belt Printer! \ud83d\ude00#3dprinting #lego #dunebuggy",
+   "d": "2025-12-28",
+   "v": 73152,
+   "s": 147,
+   "vertical": true,
+   "desc": "Full Build: https://youtu.be/RyM0SPHocUA\n\nBelt Printer IdeaFormer IR3 V2: https://amzn.to/48WNV8B\n\n*5 X Scale STL files available* (This is the un-modified version of this kit):\nhttps://cults3d.com/en/users/mantisrobot/3d-models\nhttps://www.threeding.com/3d-model/27362-stacking-blocks-giant-dune-buggy-5-x-scale\n\nThis is my biggest build to date a fully driveable 3D printed vehicle inspired by the 1980's Lego Technic model 8845. 3D Printed at nearly 10.5 X Scale! Its a beast! I estimate this project ot have taken between 1600 and 1700 hours of print time.\n\n*Channel Membership* :  https://www.yo"
+  },
+  {
+   "id": "6ZLJA1YpoMs",
+   "t": "A Robot In Disguise - Spooly McSpoolBot -  #3dprinting #robot",
+   "d": "2026-02-05",
+   "v": 27866,
+   "s": 3081,
+   "vertical": false,
+   "desc": "Meet SpoolBot! A R/C robot made out of a 2Kg Prusa Filament Spool. This was a fun project to work on and includes CAD, 3D Printing, Electronics and Coding. The source code, wiring diagram, BOM and files for this project are available on my GitHub and Printables page.\n\nGitHub: https://github.com/mantisrobot/SPOOLBOT\nPrintables: https://www.printables.com/model/1583116-prusa-spool-bot/\n\n*You can support my projects by becoming a member, tipping, using affiliate links or buying my STL files.*\n\n*As an Amazon Associate, I earn from qualifying purchases.*\n*Channel Membership* :  https://www.youtube."
+  },
+  {
+   "id": "sUMlt2zCAns",
+   "t": "Spooly McSpoolBot #3dprinting #radiocontrol #robot #arduino",
+   "d": "2026-02-07",
+   "v": 97229,
+   "s": 34,
+   "vertical": true,
+   "desc": "Meet SpoolBot! An R/C robot made out of a 2Kg Prusa Filament Spool. \n\nLinks to full build source and downloads on the full video description: https://youtu.be/6ZLJA1YpoMs\n\n*You can support my projects by becoming a member, tipping, using affiliate links or buying my STL files.*\n\n*As an Amazon Associate, I earn from qualifying purchases.*\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\nS"
+  },
+  {
+   "id": "R7-JlShcO8E",
+   "t": "3D Printing Vintage Car Parts!  #3dprinting  #morrisminor #design #car @Formlabs",
+   "d": "2026-02-17",
+   "v": 11598,
+   "s": 178,
+   "vertical": true,
+   "desc": "I'm using my new Form 4 Resin printer to make a new interior light cover for my 1967 Morris Minor pickup. These interior lights degrade very poorly and the plastic becomes very brittle, tso this was a great test for my new printer! \n\nCheck out FormLabs Form 4 Printer here #affiliate:\nhttps://tidd.ly/48O5VBt\n\nThe translucent paint I used:\nUK: https://amzn.to/4qHLb4v\n\n*You can support my projects by becoming a member, tipping, using affiliate links or buying my STL files.*\n\n*As an Amazon Associate, I earn from qualifying purchases.*\n*Channel Membership* :  https://www.youtube.com/@MattDenton/joi"
+  },
+  {
+   "id": "Mv3BD3tT6tk",
+   "t": "What Have I Done to Bertie!?  -  (Morris Minor Pickup #1)",
+   "d": "2026-03-31",
+   "v": 7292,
+   "s": 1425,
+   "vertical": false,
+   "desc": "I'm re-building my 1967 Morris Minor Pickup Truck. Most of the time I don't know what I'm doing.. wish me luck!\n\nPart 2: https://youtu.be/t8xvVUhvhbs\n\n*For your 3DP, PCB, CNC needs please check:* https://www.pcbway.com\n\nCoupon Code: *PCBWay-Matt Denton10*\n\nOffer: *$10 off orders over $30*\nApplicable To: PCB (Assembly), CNC, 3D Printing, and other services (excluding shipping)\nValidity: Code is valid for 3 months and expires 6 months after individual redemption\nRedemption Limit: One-time use per person\nQuantity: *100 codes*\n\n*Check out my podcast here* :\nYouTube: https://www.youtube.com/@Denton"
+  },
+  {
+   "id": "fpJWCoTBJ9E",
+   "t": "Poor Bertie!! #car #restoration #vintagecars #morrisminor",
+   "d": "2026-04-02",
+   "v": 5347,
+   "s": 18,
+   "vertical": true,
+   "desc": "Full video here: https://youtu.be/Mv3BD3tT6tk\n\nPart 2: https://youtu.be/t8xvVUhvhbs\n\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\n*Bambu lab* Printers & Filament : https://shrsl.com/4e0j2\n*In my opinion t"
+  },
+  {
+   "id": "t8xvVUhvhbs",
+   "t": "It Was Worse Than I Thought! -  Bertie Re-Build #2",
+   "d": "2026-04-23",
+   "v": 5639,
+   "s": 1572,
+   "vertical": false,
+   "desc": "I'm re-building my 1967 Morris Minor Pickup Truck. Most of the time I don't know what I'm doing.. wish me luck!\n\n*Check out my podcast here* :\nYouTube: https://www.youtube.com/@DentonsDen\nSpotify: https://open.spotify.com/show/7b0ncWX36OGexfQfIqYFRw?si=f024c9bbb7db4437\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n*******************************"
+  },
+  {
+   "id": "GeszW_O5V9w",
+   "t": "R/C 3D Printed Dozer Throwing Tracks! \ud83d\ude2c #lego #3dprinting #radiocontrol",
+   "d": "2026-05-19",
+   "v": 16694,
+   "s": 20,
+   "vertical": true,
+   "desc": "I built this many years agin and the tracks have all got a little loose! Combined with a rough floor they tend to pop apart when turning!!\n\n*You can support my projects by becoming a member, tipping, using affiliate links or buying my STL files.*\n\n*As an Amazon Associate, I earn from qualifying purchases.*\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n******************************************************************\nSlice Engineering *DISCOUNT* Code"
+  },
+  {
+   "id": "R589CUBpfpk",
+   "t": "Bertie & Bob #vwbeetle #morrisminor #classiccars",
+   "d": "2026-06-09",
+   "v": 8000,
+   "s": 28,
+   "vertical": true,
+   "desc": "Bertie & Bob! My mate Lee has come to the workshop to work on his VW Beelte Bob, while I\u2019m getting Bertie my Morris Minor Pickup back on the road.\n\nPart 2: https://youtu.be/t8xvVUhvhbs\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n******************************************************************\n*STL Files* :  https://www.threeding.com/user/mantisrobot\n*****************************************"
+  },
+  {
+   "id": "11SkVfYXlO0",
+   "t": "I Did Not Enjoy This! - Old Body, New Chassis! -  Bertie Re-Build P3",
+   "d": "2026-06-10",
+   "v": 5116,
+   "s": 1851,
+   "vertical": false,
+   "desc": "I'm re-building my 1967 Morris Minor Pickup Truck. Most of the time I don't know what I'm doing.. wish me luck! In this video I tackle some body work repairs, the steering rack and replace the oil seals in my rear hubs. I also re-unit the cab with the new chassis! #morrisminor #pickup #classiccars \n\n*Part 1* : https://youtu.be/Mv3BD3tT6tk\n*Part 2* : https://youtu.be/t8xvVUhvhbs\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my podcast here* : https://www.youtube.com/@DentonsDen\n\nYou can support my projects by becoming a member, tipping, using affiliate links or bu"
+  },
+  {
+   "id": "5Xc3hj4I-_I",
+   "t": "Will it Start or catch Fire \ud83d\udd25 \ud83d\ude02 #classiccars #pickup #vintagecars",
+   "d": "2026-06-24",
+   "v": 9679,
+   "s": 12,
+   "vertical": true,
+   "desc": "I\u2019ve been rebuilding my 1967 Morris minor pickup truck! It\u2019s nearly ready to go back on the road, full video here:\n\nhttps://youtu.be/j90qniAzY9w"
+  },
+  {
+   "id": "j90qniAzY9w",
+   "t": "Bertie Gets A Visit From Bob -  Bertie Re-Build P4",
+   "d": "2026-06-24",
+   "v": 3649,
+   "s": 1832,
+   "vertical": false,
+   "desc": "I'm re-building my 1967 Morris Minor Pickup Truck. Most of the time I don't know what I'm doing..  In this video I refit the cab, change the differential oil seal, re-paint he engine bay, refit the prop shaft, re- fit the engine and gear box and re-commission the engine! #morrisminor #pickup #classiccars \n\n*Part 1* : https://youtu.be/Mv3BD3tT6tk\n*Part 2* : https://youtu.be/t8xvVUhvhbs\n*Part 3* : https://youtu.be/11SkVfYXlO0\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my podcast here* : https://www.youtube.com/@DentonsDen\n\nYou can support my projects by becoming"
+  },
+  {
+   "id": "PLTmik-iqsk",
+   "t": "Bertie Overalls!! Ooh la-la #classiccars #automobile #morrisminor",
+   "d": "2026-06-27",
+   "v": 4236,
+   "s": 15,
+   "vertical": true,
+   "desc": "I\u2019ve been rebuilding my 1967 Morris minor pickup truck! It\u2019s nearly ready to go back on the road, full video here:\n\nhttps://youtu.be/j90qniAzY9w"
+  },
+  {
+   "id": "YPENLxadrCo",
+   "t": "Hydraulic Tipping Bed On A 1967 Pickup! - Bertie Re-Build P5",
+   "d": "2026-07-09",
+   "v": 9084,
+   "s": 2016,
+   "vertical": false,
+   "desc": "I'm re-building my 1967 Morris Minor Pickup Truck. Most of the time I don't know what I'm doing..  In this video I build a custom flat bed for the pickup while I'm waiting for the origonal tub to be refurbished, I've also made it a hydraulic tipping bed! #morrisminor #pickup #classiccars \n\n*Part 1* : https://youtu.be/Mv3BD3tT6tk\n*Part 2* : https://youtu.be/t8xvVUhvhbs\n*Part 3* : https://youtu.be/11SkVfYXlO0\n*Part 4: https://youtu.be/j90qniAzY9w\n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*Check out my podcast here* : https://www.youtube.com/@DentonsDen\n\nYou can support my"
+  },
+  {
+   "id": "HhrftLMBhII",
+   "t": "1967 Morris Minor Pickup Hydraulic Tipper! #morrisminor #pickup #vintagecars #classiccars",
+   "d": "2026-10-03",
+   "v": 33189,
+   "s": 63,
+   "vertical": true,
+   "desc": "I\u2019ve been rebuilding my 1967 Morris minor pickup truck! It\u2019s nearly ready to go back on the road, full video here:\n\nP1: https://youtu.be/Mv3BD3tT6tk\nP2: https://youtu.be/t8xvVUhvhbs\nP3: https://youtu.be/11SkVfYXlO0\nP4: https://youtu.be/j90qniAzY9w\nP5: https://youtu.be/YPENLxadrCo"
+  },
+  {
+   "id": "a8y_Lcq3mvQ",
+   "t": "Morris Minor Part 9 - Distributor Vacuum Advance #morrisminor #pickup #vintagecars  #classiccars",
+   "d": "2026-11-06",
+   "v": 2217,
+   "s": 180,
+   "vertical": true,
+   "desc": "Changing the Vacuum Advance on my  1967 Morris minor pickup A Series 1098 Engine.\n\nFull Re-Build sereis here:\nP1: https://youtu.be/Mv3BD3tT6tk\nP2: https://youtu.be/t8xvVUhvhbs\nP3: https://youtu.be/11SkVfYXlO0\nP4: https://youtu.be/j90qniAzY9w\nP5: https://youtu.be/YPENLxadrCo\n\nYou can support my projects by becoming a member, tipping, using affiliate links or buying my STL files: \n\n*Channel Membership* :  https://www.youtube.com/@MattDenton/join\n*My new channel here* : https://www.youtube.com/@UCqurSywI8rVsuwLJvCuGUkA \n\n*15% Off* your first purchase using this link!\n*PolyMaker Filament* : https:"
+  }
+ ]
+}

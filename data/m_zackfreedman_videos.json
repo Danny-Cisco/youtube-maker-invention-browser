@@ -1,0 +1,972 @@
+{
+ "channel": {
+  "id": "UCUW49KGPezggFi0PGyDvcvg",
+  "title": "Zack Freedman",
+  "handle": "@zackfreedman",
+  "description": "Welcome to my workshop, where wicked widgets, wild wearables, and wholesome wonder are wasted on weak witticisms and worthless wordplay. We once worked for whoever wanted wires to work, but the wacky world of wcontent has wiped our wherewithal.\n\nThe thing on my face is a wearable computer I use as a teleprompter!\n\nSend gizmos, gadgets, and samples to the Voidstar Mailbag!\nVoidstar Lab c/o Zack Fre",
+  "since": "2009-06-15",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_k2c1MpMfLIlHhUWsDLTVLeFHDllwuDfh_LoATuRHujvgDu=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "53539896",
+  "subscriberCount": "683000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "106"
+ },
+ "videos": [
+  {
+   "id": "3g_PZZ9PV2o",
+   "t": "The Nuclear Option",
+   "d": "2016-02-02",
+   "v": 41641,
+   "s": 11,
+   "vertical": false,
+   "desc": "It's muh deck box. Uploaded to accompany a blog post at https://wordpress.com/post/zackfreedman.com/1352."
+  },
+  {
+   "id": "SJ4x2_OfnBg",
+   "t": "P5 Data Glove! Unboxing, Teardown, Hack, and RAGE!",
+   "d": "2016-03-15",
+   "v": 34618,
+   "s": 596,
+   "vertical": false,
+   "desc": "I unbox a 14-year-old data glove, attempt to MSPaint with it, bust it open, and rip out its guts. Things get punched. \n\nMating connector: DD1P030MA1\n\nCreative Commons license stuff!\nBicycle - Reunited by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100870\nArtist: http://incompetech.com/\n\nFun in a Bottle by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.co"
+  },
+  {
+   "id": "gZh4Rbtvy9w",
+   "t": "EOX Meta Breaker - The Most Advanced Nerf Blaster on Earth",
+   "d": "2017-01-16",
+   "v": 114539,
+   "s": 249,
+   "vertical": false,
+   "desc": "This maxed-out Rapidstrike has custom tech straight out of a video game. \n\nFeatures include an ammo counter, RFID mag detection, dynamic braking, multiple fire-system modes, a smart lock, and integrated voltmeter. Of course, it also shoots really fast and hits really hard!\n\nThis project will be released as open hardware. Subscribe to get notified when the project goes live!\n\nI play Nerf wars in the USA's East Coast. Maybe you'll get to see this for yourself!\n\nThe microcontroller is a Teensy 3.2. The electronic speed controller and voltmeter is a custom design on a handmade PCB.\n\nThe display ic"
+  },
+  {
+   "id": "6raRftH9yxM",
+   "t": "AI Data Glove: Somatic",
+   "d": "2020-08-31",
+   "v": 192992,
+   "s": 593,
+   "vertical": false,
+   "desc": "I turned my favorite hand into a keyboard!\n\nTools/software used: TensorFlow Lite, Fusion 360, Prusa i3 Mk3S\n\nDesign files, training utility, and pretrained network: https://github.com/ZackFreedman/Somatic\nAssembly instructions: https://www.instructables.com/id/Somatic-Data-Glove-for-the-Real-World/\nProject page: https://hackaday.io/project/169297-somatic-wearable-control-anywhere\n\nP5 data glove video: https://www.youtube.com/watch?v=SJ4x2_OfnBg\n\nMy wearable computer is a modified Epson Moverio BT200. Exactly one (1) orange was harmed in the making of this film.\n\nVoidstar Lab is accepting proto"
+  },
+  {
+   "id": "iTj0lcVSIVU",
+   "t": "Small Brain, Big Think: AI on the Edge",
+   "d": "2020-09-07",
+   "v": 472473,
+   "s": 760,
+   "vertical": false,
+   "desc": "Cram deep learning in your pocket with these clever hacks. Discover how to stuff artificial neural networks into your favorite underpowered microcontroller!\n\nRad video about my Somatic data glove: https://www.youtube.com/watch?v=6raRftH9yxM\nDownload my gawd-awful code: https://github.com/ZackFreedman/Somatic\n\nI'm on the Instagram! Come look at my projects: https://www.instagram.com/zackfreedman/\n\nRecipe for an Artificial Neural Network (Blue Mai Tai):\n1.5oz hidden layers (white rum)\n1oz transfer functions (fresh-squeezed lime juice)\n0.75oz training data (blue curacao)\n0.5oz input/output layers"
+  },
+  {
+   "id": "6je0Ea-jGlI",
+   "t": "Why Are Circuits on Boards?",
+   "d": "2020-09-14",
+   "v": 450729,
+   "s": 1035,
+   "vertical": false,
+   "desc": "Chips are tiny and phones are glass, so why are circuits still flat and green?\n\nThe printed circuit board played a pivotal role in World War 2, and it's barely changed since then. Nearly every modern device has at least one circuit board; they're so ubiquitous, we just assume that electronics are flat rectangles. It wasn't always that way - once upon a time, terrifying globs of exposed connections and miles-long webs of wrapped wires lurked behind the wood veneer. \n\nSee how the literal foundation of technology is made, learn about the modern features that enable powerful electronics, catch a g"
+  },
+  {
+   "id": "Y8mCTiGv41k",
+   "t": "The Parts Rainbow: Hacking a Cheap Harbor Freight Parts Organizer",
+   "d": "2020-09-21",
+   "v": 248283,
+   "s": 578,
+   "vertical": false,
+   "desc": "This cursed parts organizer lurked in the background - until today. My electronic component hoarding has reached apocalyptic levels. Order must be restored to Voidstar Lab.\n\nJoin me as I reorganize my trash-tier Harbor Freight parts organizers into glorious 3D-printed, laser-cut pantheons of paraphernalia. It's part workshop cleanup, part project log, and part confessional. \n\nDownload the files and make this ridiculous project yourself! It's all on Thingiverse, baby: https://www.thingiverse.com/thing:4614214\n\nAnd you get instructions! You lucky so-and-so! https://www.instructables.com/Parts-Ra"
+  },
+  {
+   "id": "MurkEfO6w6A",
+   "t": "Real Cyborg vs. Movie Cyborgs",
+   "d": "2020-09-28",
+   "v": 91395,
+   "s": 1234,
+   "vertical": false,
+   "desc": "Cybernetic organisms are misrepresented in media. Today we uncover the true story behind Iron Man, Batman, General Grievous, and more. By 'true story', of course, I mean 'bad engineering'.\n\nMaking all these educational videos is really harshing my mellow, man. It's time for a day off, and I'm doing the most relaxing activity I know - using eight years of prototyping experience to nitpick fake technology. I better not catch you learning anything.\n\nBig brain play: Can't get demonetized if you can't monetize in the first place.\n\nYeah, I reviewed a clip from Batman Begins and called it The Dark Kn"
+  },
+  {
+   "id": "72a85tWOJVY",
+   "t": "How to Finish Your Weekend Projects in One Weekend",
+   "d": "2020-10-05",
+   "v": 359073,
+   "s": 756,
+   "vertical": false,
+   "desc": "Discover strategies to finish electronics projects faster, as we design, 3D print, laser cut, and solder an entire custom mechanical keyboard in just one weekend.\n\nMakers and hackers love to jump directly into an idea, but don't realize they're leaving the project to a roll of the dice. With just a bit of strategy, you can maximize your odds of building incredible things, even if all you have is a weekend.\n\nWant to make your own Big Wheel Video Deck? Check the project out on GitHub at https://github.com/ZackFreedman/Big-Wheel .\n\nThanks to my lovely wife/producer Brooke for help filming, editin"
+  },
+  {
+   "id": "1kG1D-e284A",
+   "t": "Top 10 3D Printable Tools Every Maker Should, Like, Make",
+   "d": "2020-10-12",
+   "v": 2754228,
+   "s": 589,
+   "vertical": false,
+   "desc": "Make your electronics projects easier with nine useful 3D printable tools, and one worthless one! They're all free and (mostly) easy to print.\n\nI scoured Thingiverse for the best free 3D printed models that deserve a place on any maker's workbench. These clever gadgets will simplify your soldering, open new options for 3D printing, and impress all the other nerds.\n\nEmail me: partnerships@voidstarlab.com\n\nSPOILER ALERT! Model author links and credits:\n#10 - Mouse bungee by Peter Merhaut - https://www.thingiverse.com/thing:2436684\n#9 - USB cable holder by Philipp Kolb - https://www.thingiverse.c"
+  },
+  {
+   "id": "Okl5-KfSZ4w",
+   "t": "Workshop in a Backpack",
+   "d": "2020-10-19",
+   "v": 119837,
+   "s": 639,
+   "vertical": false,
+   "desc": "What's in my bag? An entire workshop. I built this electronics toolkit go-bag to bring Voidstar Lab into the field, and now you get a tool bag tour.\n\nSee which electronics tools I trust in emergencies, discover some surprising field kit ideas, and learn how a prototyping pro preps his toolbox.\n\nHighlights include my battery-powered mobile soldering station, an indestructible backpack with secret powers, un-smashing a tablet, and munching tasty field rations.\n\nThis video has the absolute best post-roll Easter egg of any episode so far, and I cannot recommend enough that you watch it before you "
+  },
+  {
+   "id": "50614QMNQPo",
+   "t": "What's On My Face? A Wearable Teleprompter I Invented",
+   "d": "2020-10-26",
+   "v": 940583,
+   "s": 627,
+   "vertical": false,
+   "desc": "I wear my heads-up display in every episode - but why? It's not augmented reality, but without my wearable computer, the Voidstar Lab channel wouldn't be possible.\n\nIn honor of getting 1,000 (I mean 2,500) subscribers, I answer the single most frequently-asked question - what's on your face? It's the epic saga of how my obsession with wearing face computers drove me to finish my first successful electronics project and start my entire career. \n\nDon't worry about the HUD from the intro, it's a stunt double.\n\nEmail me: partnerships@voidstarlab.com\n\nThank you all so much for getting my channel of"
+  },
+  {
+   "id": "zO6dmua_B0k",
+   "t": "3D Printed Blasters Make Nerf Obsolete",
+   "d": "2020-11-02",
+   "v": 1184273,
+   "s": 695,
+   "vertical": false,
+   "desc": "If you have a 3D printer, you can build blasters that crush Nerf guns to dust.\n\nBuy my awesome Nerf tactical gear! Visit https://etsy.com/shop/VoidstarCombatSports and use code 'ZACKISASELLOUT' for $5 off!\n\nThat wimpy revolver hits twice as hard as the best brand-name blaster toy, and that's just the start. You'll discover laser-sharp Nerf sniper rifles, advanced bullpup blasters, a dart-spraying mini-Uzi, and more. An entire arsenal of blasters, sidearms, mags, knives, attachments, bananas, and tactical gear is just a few STL's away. \n\nSo get in my snarky \"self-driving\" car and let's head to "
+  },
+  {
+   "id": "NJTJqJyBLic",
+   "t": "3D Printing and Soldering Among Us' Worst Tasks (The Skeld in real life)",
+   "d": "2020-11-17",
+   "v": 990328,
+   "s": 825,
+   "vertical": false,
+   "desc": "The challenge: 3D print, solder, and code the most rage-inducing tasks on The Skeld, making electronics projects that look and work exactly like in Among Us. Arduinos, Raspberry Pi's, 3D printing, and infantile humor ensue. \n\nThere will be filthy hacks. There will be embarrassing failures. Crewmen will fall. Yours truly might get thrown into the infinite nothingness of space. 8/10, would be backstabbed again.\n\nDownload the files: [Coming soon*]\n\nI built three entire electronics projects in one week for your entertainment, and I swear on my oscilloscope that if I hear that swipe card beep one m"
+  },
+  {
+   "id": "JFnXnf80fvY",
+   "t": "Voidstar Lab Abridged",
+   "d": "2020-11-27",
+   "v": 186754,
+   "s": 62,
+   "vertical": false,
+   "desc": "There's always a project brewing in Voidstar Lab! Enjoy the electronics, 3D printing, and dank maymays... nothing is off-limits except cussin'.\n\n\ud83d\udc48 Turn on the music for that video, it's good\n\nTo contact Zack, email partnerships@voidstarlab.com or find Zack Freedman on Twitter, Instagram, LinkedIn, or Facebook.\n\nSoundtrack is \"Exx F---\" by Suhov, licensed Creative Commons 3.0."
+  },
+  {
+   "id": "75IvTqRwNsE",
+   "t": "Why I put a Teensy in Every Project",
+   "d": "2020-11-28",
+   "v": 388109,
+   "s": 673,
+   "vertical": false,
+   "desc": "Spoiler alert: the Teensy destroys the Arduino Uno, Mega, even Portenta in memory, size, and sheer power, and it's just as easy to use.\n\nThe Teensy is cheap, and with the new Teensy 4.0, it's extremely powerful. Its generous flash and RAM, numerous peripherals, and smallest size make it perfect for my most creative ideas. I've used them in machine learning wearables, Among Us gadgets, mechanical keyboards, PC case mods, and more. Even my Raspberry Pi projects get a Teensy!\n\nSome of my favorite Teensy projects: \n- Among Us in Real Life: https://www.youtube.com/watch?v=NJTJqJyBLic\n- Video Deck: "
+  },
+  {
+   "id": "wmnta5h73cY",
+   "t": "tiny pc",
+   "d": "2020-12-12",
+   "v": 1513158,
+   "s": 703,
+   "vertical": false,
+   "desc": "This project makes me so happy. I love her. She's my favorite.\n\nThe Fab Lab sponsorship campaign is over! Thanks to your support, the Lab raised over $5,000 to grant hackerspace work time to dozens of hackers in need!\n\nI love my gaming PC and its cyberpunk style, so I grabbed a Raspberry Pi 4 and made a 1/4 scale mini version. Then, I got carried away and made a micro monitor, little mouse, tiny split keyboard, and diminutive desk for my Raspberry Pi mini PC. \n\nThe Coccolith is super-cute and is becoming my favorite electronics project on the channel. It's 3D printed in eight different filamen"
+  },
+  {
+   "id": "p7-wedCPSHE",
+   "t": "Ten Awesome 3D-Printable Gifts",
+   "d": "2020-12-17",
+   "v": 1931024,
+   "s": 713,
+   "vertical": false,
+   "desc": "This video is sponsored by Thangs, the fastest-growing 3D community. Download some cool models at https://thangs.com/?utm_source=youtube&utm_medium=video&utm_campaign=zach_f !\n\nChat with me on the Voidstar Lab Discord! https://discord.gg/p4gGGQVhvd\n\nThese top 10 weirdly inspirational gifts will blow anyone's mind, and if you have a Prusa, an Ender 3, or any modern 3D printer, you already have everything you need. Creative gifting, no shopping required.\n\nI hand-picked these prints specifically for gifting. You don't need anything except filament and common household objects, you can make any of"
+  },
+  {
+   "id": "Z4af9qU20KA",
+   "t": "Post-Xmas Mystery Stream",
+   "d": "2020-12-27",
+   "v": 15650,
+   "s": 19912,
+   "vertical": false,
+   "desc": "Join our Discord! https://discord.gg/p4gGGQVhvd\n\nWe got some Mystery Boxes from Electronics Goldmine - let's see what electronics-surplus Santa gave us! \nI'm also answering your questions and giving some sneak peeks of upcoming projects!"
+  },
+  {
+   "id": "JQ8SYlzwkn8",
+   "t": "Designing a Glove to Feel Electricity Through Walls",
+   "d": "2021-01-02",
+   "v": 151818,
+   "s": 642,
+   "vertical": false,
+   "desc": "Join my Patreon to support the channel! https://www.patreon.com/user?u=45987531\n\nI stuck a fluxgate magnetometer to my finger, connected it to a wristband that feels sounds, and added a rainbow LED matrix, so I can feel electric current flowing through circuit boards and walls.\n\nWhy? Because I slammed too many cocktails and entered Hackster.io's contest to Expand the Human Experience. They sent me a Neosensory Buzz haptic wristband, and now I need to augment myself or get cut off from free hardware forever. Just a normal day in Voidstar Lab.\n\nEnter the contest: https://www.hackster.io/contests"
+  },
+  {
+   "id": "L1j93RnIxEo",
+   "t": "Here's What's Preventing You From Finishing Projects",
+   "d": "2021-01-09",
+   "v": 147238,
+   "s": 688,
+   "vertical": false,
+   "desc": "The first 1000 people to use the link will get a free trial of Skillshare Premium Membership: https://skl.sh/zackfreedman01211\u00a0\n\nThis year, your New Year's resolution is to finish those projects you've been procrastinating. Scrap the bad ideas cluttering your workshop. Stop hiding and show your projects to the world. Write a plan that keeps the project fun, and prevents you from wasting your life tinkering in circles.\n\nDid this advice help? Support future episodes and advanced projects: https://patreon.com/zackfreedman\nAll Patrons get the only pictures and files of the Nerf Rapidstrike v2 on t"
+  },
+  {
+   "id": "Lvo61p1UVCQ",
+   "t": "How to 3D-Print Hyper-Detailed DND Minis (and orcs)",
+   "d": "2021-01-16",
+   "v": 162967,
+   "s": 642,
+   "vertical": false,
+   "desc": "3D printers + DnD = stunning miniature battles (and ugly orcs!)\nSubscribe to Loot Studios to download these gorgeous models - it's an ORC-ONSPIRACY! http://bit.ly/3hPNLUa\n\nIt doesn't matter if you have the best DND campaign - real heroes look their enemies in the eye, not picking fights with scraps of paper on scribbled maps. A cheap resin printer can produce an unlimited supply of minis, enemies, and battlefields, and if you convince your DM to buy one, it's free!\n\nHere's everything you need to get that giant nerd into the 21st century, where you can print a tiefling at a higher resolution th"
+  },
+  {
+   "id": "yYcNi9hKxDk",
+   "t": "How to Build MECHANICAL KEYBOARDS",
+   "d": "2021-01-25",
+   "v": 543170,
+   "s": 1361,
+   "vertical": false,
+   "desc": "If you've got $50 and a 3D printer, you can make one of the most satisfying and useful projects on Earth!\n\n\u2328 SiCK-68 by Fedor Sosnin - https://thangs.com/model/10461/?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\u2328 Redox Handwire by MattDB - https://thangs.com/model/10464/?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\u2328 Dactyl ManuForm by Tom Short - https://thangs.com/model/10466/?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\ud83d\udddd KeyV2 G20 Keycap scripted by Robert Sheldon - https://thangs.com/model/10467/?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\nTh"
+  },
+  {
+   "id": "WNgtWLBs4tc",
+   "t": "Resin Printing Isn't Scary - ft. Billie Ruben!",
+   "d": "2021-02-01",
+   "v": 145214,
+   "s": 1069,
+   "vertical": false,
+   "desc": "Resin printing is safe, easy, and cheap, and I recruited the world's most delightful Maker to convince you.\n\nThis episode is sponsored by Siraya Tech and their huge selection of affordable engineering resins. Siraya didn't pay for an endorsement, just a plug - the opinions in the video are our own. We just really like their resin. We used:\n\ud83e\uddea Tenacious rugged resin - https://amzn.to/3tlL823\n\ud83e\uddea Blu precision resin - https://amzn.to/36uv4B8\n\ud83e\uddea Fast quick-curing resin - https://amzn.to/2NHYo0j\n\nJust weeks ago, I was afraid of SLA resin printing - the rumors made me too anxious. Is resin printing dan"
+  },
+  {
+   "id": "6r8-o2WpoCA",
+   "t": "Hack Your Subconscious for Better Ideas",
+   "d": "2021-02-15",
+   "v": 83280,
+   "s": 783,
+   "vertical": false,
+   "desc": "I tried to improve my intuition and made a how-to guide for ADD.\nKeysight University goes live March 15th! Learn more at http://bit.ly/ZFreedKeys\n\nI've been working on a new project, a pimped-out oscilloscope, and it got me thinking about my thinking. I realized that my brain works best as I shift between four distinct phases: inspiration, downtime, exploration, and action. I rely almost entirely on intuition, and this four-step strategy gives my subconscious the support it needs to carry me through crazy projects. I call it the IDEA cycle, and it might help you too.\n\nJoin our Discord! We're P"
+  },
+  {
+   "id": "8Veobksi3pI",
+   "t": "The World's First Pro Gaming Oscilloscope: The $18,000 PimpScope 42069",
+   "d": "2021-02-24",
+   "v": 271587,
+   "s": 738,
+   "vertical": false,
+   "desc": "Meet the world's first liquid-cooled dual-screen RGB pro-gaming oscilloscope, the MLG-Z 42069.\u2122 It's got TWO windows.\nKeysight University goes live March 15th! Sign up at http://bit.ly/ZFreedKeys\n\nKeysight Technologies sent me an $18,000 oscilloscope, and I used my gaming PC case-modding skills to hack in a Raspberry Pi Pico, carve out a window, add a water-cooled Raspberry Pi touchscreen, and taste the rainbow with over six feet of RGB DotStar and NeoPixel LED's. It's our last week before moving to Colorado, and we're going out with a crassly ostentatious bang.\n\nJoin our Discord! We're PARTNE"
+  },
+  {
+   "id": "o6N7IJfzT8Q",
+   "t": "Top 10 3D Prints to 3D Print for your 3D Printer (on your 3D printer)",
+   "d": "2021-02-27",
+   "v": 469121,
+   "s": 834,
+   "vertical": false,
+   "desc": "Printer, upgrade thyself. \nThanks to Thangs for sponsoring this episode! Download (most of) these models below.\n\nIf you have a 3D printer, the most useful, functional 3D prints you can 3D print are 3D-printed upgrades and accessories to 3D print for your 3D printer.\n\nDo all of these. Don't think, just obey:\nGive me all your money: https://patreon.com/zackfreedman\nDefend me: https://twitter.com/zackfreedman\nAdmire me: https://instagram.com/zackfreedman\nAwait further orders: https://discord.gg/voidstarlab\n\nBrooke and I are moving to Colorado this week, so this episode is super rushed and sloppy."
+  },
+  {
+   "id": "YP8dZKYMxZ4",
+   "t": "Disgusting Secrets of Real Hardware: HOPE 2020 Voidst-Archives",
+   "d": "2021-03-06",
+   "v": 93367,
+   "s": 1689,
+   "vertical": false,
+   "desc": "Sloppy design, stupid code, and boneheaded security lurk in anything with a circuit board. Here's what to look for.\n\nI originally gave this talk at HOPE 2020! I was supposed to finally, after all these years, finally get up in front of the heftiest hackers in the East Coast, but then the rona happened. I'm not salty. You're salty.\n\nBrooke and I are driving to Colorado and redeploying the workshop this week, so we can't shoot a new video. Instead, enjoy this vintage selection from the Voidstar cellar. Mmmyes.\n\nSee you in Colorado - and also in the future!"
+  },
+  {
+   "id": "guGffGw3uDg",
+   "t": "Hacking Dystopia with a Pi 400 Cyberdeck",
+   "d": "2021-03-20",
+   "v": 578584,
+   "s": 758,
+   "vertical": false,
+   "desc": "Jack in with my customized Pi 400, equipped with HUD, SDR, and Cyberpunk 2077 swag.\nFree PCB File Checker:\u00a0https://www.nextpcb.com/nextdfm.html?code=zackjm\n\nThis episode is sponsored by NextPCB! Register to get $100 of FREE PCB's! https://www.nextpcb.com/register?code=zackjm \nNextPCB offers double-sided PCB assembly with free shipping! https://www.nextpcb.com/pcb-assembly-services?code=zackjm\n\nData Blaster Design File: https://a360.co/3lJI64h\nDownload the STL's and read the BOM: https://thangs.com/ZackFreedman/Voidstar-Data-Blaster-Mk1-12969\n(I really do not recommend building this thing yet.."
+  },
+  {
+   "id": "gFHnouDRR9A",
+   "t": "How to Print a Super-Powerful, Super-Accurate Nerf Sniper",
+   "d": "2021-03-30",
+   "v": 282103,
+   "s": 623,
+   "vertical": false,
+   "desc": "This powerful custom Caliburn will nail your enemies from a hundred feet! It's camping time.\nDownload everything in this episode for free, thanks to our sponsor Thangs!\n\nThe Voidstar Expanded Universe:\nPatreon (cash-grab summer blockbuster): https://patreon.com/zackfreedman\nTwitter (spin-off TV series): https://twitter.com/zackfreedman\nInsta (effects-heavy popcorn flick): https://instagram.com/zackfreedman\nDiscord (fan favorite niche hit): https://discord.gg/voidstarlab\n\nThis Nerf blaster configuration:\n- Caliburn Blaster: https://bit.ly/2ObrKFa\n- Raider Receiver: https://bit.ly/3u0EPA8\n- Knuc"
+  },
+  {
+   "id": "-V2-UT5FDT4",
+   "t": "How I Learned Wizardry (and how you can, too)",
+   "d": "2021-04-01",
+   "v": 76815,
+   "s": 767,
+   "vertical": false,
+   "desc": "The first 1000 people to use this link will get a free trial of Skillshare Premium Membership: https://skl.sh/zackfreedman04211 \n\nIt's the first day of April - as spring approaches, the ground swells with natural mana, and magical power is at its zenith. There's no better time to jump into the world of amateur wizardry, there's no better way than by starting projects, and there's no better place than Voidstar Tower. The world of STEM - sorcery, transmutation, enchantment, and metaphysics - is tough to break into, but once you beat that initial slog, you can truly make anything.\n\nThis Wizard's "
+  },
+  {
+   "id": "vSwumoSlZTo",
+   "t": "I Tested (Almost) EVERY FILAMENT on Amazon: Every Single Filament Part I",
+   "d": "2021-04-17",
+   "v": 3017650,
+   "s": 2536,
+   "vertical": false,
+   "desc": "Nobody: So you 3D print? Name every filament.\nMe: Yes.\n\nThis video was sponsored by Boxomo Enclosures! I still don't think I could have printed that Delrin without it. Get one! https://bit.ly/3drjxq5\n\nSources for 3D printing fumes and byproducts: https://boxomoenclosures.com/blogs/news/the-latest-research-on-fdm-3d-printing-risks\n\nPart 1: Every Filament on Amazon - https://bit.ly/3kB7TfU\nPart 2: The Most Advanced Filaments - https://bit.ly/3lWDt7f\nPart 3: Every Special-Purpose Filament - Coming Soon\nPart 4: The World's Weirdest Filaments - Coming Soon\nPart 5: FILAMENTS OF THE FUTURE! - Coming "
+  },
+  {
+   "id": "g6n8XLmZ__I",
+   "t": "The Chromance - RGB Wall Art You Can Build (Cheaper and Bigger than Nanoleaf!)",
+   "d": "2021-05-02",
+   "v": 158628,
+   "s": 735,
+   "vertical": false,
+   "desc": "I want to stream every week, but my wall sucks! Let's put up 30 feet of RGB hexagons and make 'em display my stress levels. I'll call it Chromance, because it's not just pretty colors. It's my heart.\n\nThis project and video were sponsored by EmotiBit! Help Kickstart their eponymous hacker-friendly emotion-tracking biosensor wearable! https://www.kickstarter.com/projects/emotibit/emotibit-0?ref=24erlm\n\nCheck out the STL's: https://thangs.com/ZackFreedman/Chromance--RGB-Wall-Installation-15979\nFirmware and models: https://github.com/ZackFreedman/Chromance\nInstructions: https://voidstar.dozuki.co"
+  },
+  {
+   "id": "cusFLqzHc3k",
+   "t": "How to Make Project Content People Actually Want to Watch",
+   "d": "2021-05-19",
+   "v": 172685,
+   "s": 1569,
+   "vertical": false,
+   "desc": "Levitate your project on the MakerPlate! Use code 30ZACK30 for 30% off! https://cutt.ly/30zack30\nProjects are boring - but great photography and a great story can redeem them. Learn the tricks and tech to transform snoozeworthy footage into captivating and educational videos.\n\nJoin me LIVE every Monday and Wednesday at 12:00 PM Mountain time! All streams are right here on YouTube - subscribe to get notified.\n\nSupport future projects: patreon.com/zackfreedman\nMeet our friendly and diverse Maker community: discord.gg/voidstarlab\nSee projects never featured in videos: instagr.am/zackfreedman\nArgu"
+  },
+  {
+   "id": "sxfJOMjZeIs",
+   "t": "I Made a Real-Life Pip-Boy... and Mine's Better",
+   "d": "2021-06-04",
+   "v": 1271917,
+   "s": 1112,
+   "vertical": false,
+   "desc": "The first 1000 people to use this link will get a free trial of Skillshare Premium Membership! https://skl.sh/zackfreedman05211\n\nMy most over-engineered project of all time is the a flashlight, laser, keystroke injection attack vector, current sensor, infrared thermometer, volatile organic compound sensor, and more. The only thing it's bad at is telling the time. Behold the Singularitron.\n\nMore info: https://hackaday.io/project/169343-singularitron-modular-cyberwatch\nDownload it (why?) https://github.com/ZackFreedman/Singularitron\n\nSubscribe for our weekly streams, which will resume as soon as"
+  },
+  {
+   "id": "tW_9-WeXTiI",
+   "t": "My PC Exploded, so I Went Mad with Power",
+   "d": "2021-07-03",
+   "v": 217456,
+   "s": 1051,
+   "vertical": false,
+   "desc": "Why is this video late? My gaming/streaming PC fired coolant everywhere, and I went a li'l overboard on the rebuild. PC build and parts list here: https://micro.center/d1106b\n\nAre we below the fold? Nice. Don't want to spoil the fun, because this episode I FINALLY GOT SPONSORED BY MICRO CENTER! AHHHH!!! \n\ud83d\ude31 Authentic Micro Center PC Builder tracking link! https://micro.center/6b6768\n\ud83c\udfa7 FREE Wireless Bluetooth Headphones at Micro Center! https://micro.center/4a8d4b\n\nMassive thanks to Aaron and the associates at Micro Center's Denver location for letting us film on location. They were great sports"
+  },
+  {
+   "id": "zZZ-Ea8RyjQ",
+   "t": "The Worst Wearable Computer",
+   "d": "2021-07-27",
+   "v": 332568,
+   "s": 1125,
+   "vertical": false,
+   "desc": "You can make a HUD with a transparent OLED - if you want it to suck.\nThe first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/zackfreedman06211\n\nI get asked a LOT to use a TOLED, a crystal-clear display, to make a cheap wearable heads-up display project based on the Tenex volumetric display. So I did! The only problem is that IT DOESN'T WORK BECAUSE THE DISPLAY IS ONE INCH FROM MY EYE.\n\nHow did I make this electronics project? How did I design the headset? Why doesn't it work, and why are you wrong when you think you can make it work? But most importa"
+  },
+  {
+   "id": "PFQK9fPdwUs",
+   "t": "From the Archives: Talkin' Polymers w/ E3D Cofounder Sanjay Mortimer (Stream Replay)",
+   "d": "2021-08-13",
+   "v": 27436,
+   "s": 6767,
+   "vertical": false,
+   "desc": "I was honored to host Sanjay Mortimer on stream mere months before his sudden passing. We talked for hours, but it felt like we could have geeked out forever. I said no more streams, but I made an exception to honor Sanjay's legacy. I hope his passion inspires you, too.\n\nAll ad revenue from this video will be donated to the Open Source Hardware Association, to perpetuate Sanjay's mission of making technology accessible to everyone.\n\nOriginal description:\n\nWe're honored to invite Sanjay Mortimer to the show! He's an expert on everything meltable and printable, and today we're picking his brain."
+  },
+  {
+   "id": "BBK1qFYNsWE",
+   "t": "My 3D Printer Collection is Getting Ridiculous",
+   "d": "2021-08-24",
+   "v": 326932,
+   "s": 1064,
+   "vertical": false,
+   "desc": "I water-cooled a printer and turned my closet into a filament vault.\n\ud83d\udc49Download FilmoraGo Video Editor: https://bit.ly/3jjzcts\n\ud83d\udc49Check out FilmoraGo YouTube: https://bit.ly/3casiBK\n\nHonest, unbiased affiliate links:\n\ud83d\udda8 Sultan and Squire of Squirt: Prusa i3 Mk3S+ https://shop.prusa3d.com/en/#a_aid=VoidstarLab\n\ud83d\udda8\ud83d\udda8\ud83d\udda8\ud83d\udda8 Squirtberus: E3D Toolchanger https://bit.ly/2WeqbKG (get the Duet WiFi, it's worth it)\n\ud83d\udc0d Squirtviper: Anycubic Vyper https://amzn.to/2UIHMJT\n\u2620 Sticky Vicky: Phrozen Sonic Mighty 4k https://amzn.to/2WkqEeb \n\ud83d\udc80 Sticky Ricky: Creality Halot-Sky https://amzn.to/2UKsbti\n\nGet free Bluetooth hea"
+  },
+  {
+   "id": "i1IBkd1Qbuc",
+   "t": "NO MORE YOUTUBE STREAMS! Join me on Twitch!",
+   "d": "2021-09-03",
+   "v": 35642,
+   "s": 406,
+   "vertical": false,
+   "desc": "I love streaming, but you came for snappy videos. I'm cutting the filler and keeping the sillier... videos. Yeah.\n\nNew Twitch channel: https://twitch.tv/zackfreedman\nVoidstar Live stream replays: https://bit.ly/voidstarlive\n\nJust to be totally clear, we'll occasionally run a live stream on YouTube, but only when it's really, really spicy. \n\nThanks to everyone who supported our live streams - I love doing them and I know many of you love watching them. The fact is that YouTube is for videos - my viewers want tight productions, and live streams are just distractions. I hope everyone who enjoyed "
+  },
+  {
+   "id": "mPh1b2EOOz0",
+   "t": "The Most Advanced Filaments You Can Print: Every Single Filament Part II",
+   "d": "2021-09-25",
+   "v": 1102972,
+   "s": 2081,
+   "vertical": false,
+   "desc": "Which filament is the toughest? Fastest? Most flammable? I collected and tested 'em all, so set your hot end to 400 and buckle up.\n\nSpecial thanks to E3D for sponsoring this episode and my rad Toolchanger printer, Squirtberus: https://bit.ly/3lUC693\nIndestructible Nozzle X: https://bit.ly/39BOW6o\nLiquid-cooled Titan Aqua: https://bit.ly/3zG4pNB\n\nThanks to Matterhackers for providing rare filaments for this series!\nSpecial thanks to Micro Center for allowing us to film and for providing some great gear. Get a Free pair of Wireless Bluetooth Headphones at Micro Center: https://micro.center/4a8d4"
+  },
+  {
+   "id": "Fg0V5M0llaE",
+   "t": "I Invented a Keyboard and Snapped it in Half (MiRage Mech Keyboard)",
+   "d": "2021-10-28",
+   "v": 315619,
+   "s": 990,
+   "vertical": false,
+   "desc": "The goal: the most hackable mechanical keyboard. The result: trolling the pants off /r/mk.\nThis episode is sponsored by NextPCB! Visit https://www.nextpcb.com/?code=Zackdd for massive discounts on high-quality PCB's. They made the boards for this episode!\n\nMore info on the project's core, the Seeeduino Xiao RP2040: https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?utm_source=ZackFreedman&utm_medium=YouTube&utm_campaign=RP2040-Free-Shipping\n\nMy latest project is a low-profile mechanical keyboard, with three clickable displays, CircuitPython firmware, and a fully custom PCB that snaps int"
+  },
+  {
+   "id": "pF2akallRiQ",
+   "t": "5 Clever Filaments that Keep Trash Out of the Ocean for #TeamSeas! (Every Filament Part 3)",
+   "d": "2021-10-29",
+   "v": 163578,
+   "s": 892,
+   "vertical": false,
+   "desc": "Your 3D printer can help clean up the ocean! Reduce, reuse, and recycle the Pacific plastics with these six intriguing 3D printing filaments that keep waste out of the ocean.\n\nThis special edition of our Every Filament series is a fundraiser for #TeamSeas! Click the links or visit https://teamseas.org to pitch in. Every dollar means one less pound of dolphin-tangling trash. Bella will thank you.\n\nWhile cleaning up the ocean is a critical task, only policy changes can prevent it from getting worse. Email or tweet your Senators, Reps, MP's, etc to enforce anti-dumping laws and recycling mandates"
+  },
+  {
+   "id": "aisX-U1iVfY",
+   "t": "10 Insane 3D-Printed Wearables - The Best Won a $1,500 Printer",
+   "d": "2021-11-23",
+   "v": 237754,
+   "s": 1170,
+   "vertical": false,
+   "desc": "The challenge: Design a wearable 3D print. The results: Silly.\nThanks to Thangs, Lulzbot, and Greengate3D for sponsoring the #HalloWearables contest and this video! \n\nFind all the entries at https://thangs.com?utm_source=youtube&utm_medium=video&utm_campaign=zack_f !\nCustomize a Lulzbot Sidekick! https://bit.ly/3oPdaBo\nGet this blisteringly bright GreenGate3D PETG: https://greengate3d.com/?ref=x65wpaqcfc\n\nMy community blew my mind with some of the coolest 3D prints, radical DIY cybernetics, 3D printable jewelry, accessories, and more. The best part: You can make all these 3D printer projects y"
+  },
+  {
+   "id": "Sy7yPwj2fsg",
+   "t": "If This Wearable Fails, My Channel is DOOMED!",
+   "d": "2021-12-01",
+   "v": 304968,
+   "s": 1005,
+   "vertical": false,
+   "desc": "DOOOOOOOMED!!!\nThe first 1,000 viewers to click this link get a free month of Skillshare. https://skl.sh/zackfreedman08211\n\nMy wearable computer is my most critical filmmaking tool - the Optigon is the custom teleprompter that lets me deliver these ridiculously complex scripts. But it's one of my oldest projects - the Moverio BT-200 augmented reality headset is over seven years old. If I can't build the generation, everything, pardon my language, goes to heck.\n\nI bought a pile of top-of-the-line parts, including the Moverio BT-40 and Khadas Edge-V, and if they work together, they'll create a w"
+  },
+  {
+   "id": "1XVcix5n8x8",
+   "t": "10 Cool Inventions Anyone Can Print - The Best Models for Brand-New Printers",
+   "d": "2021-12-30",
+   "v": 1274506,
+   "s": 926,
+   "vertical": false,
+   "desc": "These cool 3D prints don't need anything but filament and junk - perfect for beginners and really lazy experts!\nFind all of these models on today's sponsor, Thangs! https://bit.ly/2SngasE\n\nUnboxing a new 3D printer feels great... but then what? Whether you're a printing noob or a full-fledged 3D printing nerd, it's easy to find yourself all geared up with nothing to make. You don't have any ball bearings, heat-set inserts, Raspberry Pi's - all you have is a printer and some filament. What can you print RIGHT NOW?\n\nI selected ten (or more) cool 3D printing projects that don't need anything but "
+  },
+  {
+   "id": "J13i7aBB4gw",
+   "t": "Resin Rules the Nerf Battlefield! Caliburn 4 + Bulwark, Printed + Tested",
+   "d": "2022-02-14",
+   "v": 318034,
+   "s": 1185,
+   "vertical": false,
+   "desc": "Is it worth 3D printing resin blasters? Actually, yes!\nEverything in this episode* is printed on an Anycubic Photon Mono X 6K and Anycubic Photon Ultra! Get these powerful machines at the best price: https://bit.ly/3oMIxgB!\n\nCan you 3D print blasters in resin? Ask /r/nerf, NerfHaven, or basically anyone, and you'll get a deafening \"HECK NO!\" But I'm a cyborg on the edge who don't play by the rules. I printed and reviewed two bleeding-edge blasters, and they didn't just work great in resin... they might actually work better than filament! FIGHT ME DAWG!\n\n\ud83c\udfc6 Support the channel: https://patreon.c"
+  },
+  {
+   "id": "Hm_JrACrmVs",
+   "t": "PCBs in Two Hours? Zack Sucks at CNC",
+   "d": "2022-03-16",
+   "v": 310498,
+   "s": 1065,
+   "vertical": false,
+   "desc": "Can Zack stop smashing his bits long enough to make a circuit board?\nGet your own Snapmaker CNC + Printer + Laser: https://shop.snapmaker.com/?rfsn=6333126.1d3fe1 \n\nI called this the A350, but it's actually the AT model! Either way, it's also available on Amazon now! https://www.amazon.com/dp/B09G36C1Y2?maas=maas_adg_53ED85FE3A77B0B17F99621E7A0E5DE6_afap_abs&ref_=aa_maas&tag=maas \n\n3D printing is fast. Fabricating circuit boards is not. If we can rapidly prototype circuit boards right here in the Lab, I might be able to escape the bottomless 3D-printing pit of my own creation. The only problem"
+  },
+  {
+   "id": "ra_9zU-mnl8",
+   "t": "Gridfinity: Your Ultimate Modular Workshop is FREE!",
+   "d": "2022-04-13",
+   "v": 1769707,
+   "s": 1252,
+   "vertical": false,
+   "desc": "Free as in \"free up more space!\"\nGrab an Anycubic Kobra Max: https://bit.ly/3juzii8 Kobra smol: https://amzn.to/37HaBfF\u00a0\n\nI organized my workshop so hard, it optimized YOUR workshop too! My whole Gridfinity system is at your disposal, free and open-source hardware that anyone can print.\n\nParametric templates: https://a360.co/3ccHbsg\n\n*DOWNLOAD THE MODELS!*\n\ud83d\udce5 Divider Bins + Trays: https://bit.ly/3E6vNrR\n\ud83d\udc41 Window Bins: https://bit.ly/3OaI2YP\n\ud83c\udf7d Baseplates: https://bit.ly/3781R2A\n\ud83d\udda8 Printer-Mount Baseplates: https://bit.ly/38FOJ4R\n\ud83d\udda8 3D Printer Accessories: https://bit.ly/3jtTfWu\n\ud83d\udccf Caliper Holder: h"
+  },
+  {
+   "id": "mTK8dIBJIqg",
+   "t": "Read My Chest: This Hoodie Subtitles Everything I Say",
+   "d": "2022-05-18",
+   "v": 276633,
+   "s": 932,
+   "vertical": false,
+   "desc": "Speech-recognizing AI, Raspberry Pi, and a wearable screen mounted chest-high.\nTry Deepgram, the quickest, easiest speech-to-text system: https://dpgr.am/Voidstarlab\nGet a $99 Ender 3 Pro on your first Micro Center trip: https://micro.center/8b6b54\n\nI've built countless Internet-of Things, yet I rarely use Web APIs. Today, something changed my mind - filthy lucre. There's also some 3D printing - I need to say that for search-engine optimization. Forget the fourth wall - we break the second wall here at Voidstar Lab. That's the one between the stage and the writer's room.\n\nDownloads:\n\ud83c\udf5d Code + S"
+  },
+  {
+   "id": "ufQmmEx1rbs",
+   "t": "My Robot Intern: Brilliant AI Used Stupidly",
+   "d": "2022-06-24",
+   "v": 119728,
+   "s": 1236,
+   "vertical": false,
+   "desc": "Why hire when you can hack?\nCome and see what you can build on OCI today! https://bit.ly/DevelopWithOracle\n\nArtificial intelligence and machine learning are still too dumb to do engineering, but that's OK - so am I! The goal: Craft a robot intern that tells lies, steals code, and works for free. I borrowed a Misty II robot, added an insult generator, and hooked her up to one of the most powerful open-source text-generation models ever built. Everything goes wrong, and today there's more everything than usual.\n\nMore about Misty: https://docs.mistyrobotics.com/misty-ii/robot/misty-ii/\nTest GPT-J"
+  },
+  {
+   "id": "Bd4NnHvTRAY",
+   "t": "3D Print a Modular Toolbox, Soldering Station, and More!",
+   "d": "2022-07-03",
+   "v": 772263,
+   "s": 1130,
+   "vertical": false,
+   "desc": "You will be *uncomfortably organized!*\nUse BGCAMZACK to get $5 off the Beagle Cam! https://bit.ly/3yeQq2h\n\n\u2139 Watch the first Gridfinity video first! https://www.youtube.com/watch?v=ra_9zU-mnl8\n\nBeagle Cam Amazon links: \n\ud83c\uddfa\ud83c\uddf8 https://amzn.to/3yCQqL7\n\ud83c\udde9\ud83c\uddea https://amzn.to/3uloCsd\n\ud83c\uddeb\ud83c\uddf7 https://amzn.to/3OXFGfr\n\nThanks to everyone who made awesome Gridfinity accessories! There will be plenty more in the future, so share your custom storage modules for next time!\n\n*SUPPORT THE CHANNEL!*\n\ud83d\udcb8 Patreon: https://patreon.com/zackfreedman\n\ud83c\udfa5 Twitch: https://twitch.tv/zackfreedman\n\n*JOIN THE COMMUNITY!*\n\ud83d\udc7e Discord: ht"
+  },
+  {
+   "id": "ZfpNbW_dHbU",
+   "t": "RGB Ruined My Life: MiRage Mechanical Keyboard Mk2",
+   "d": "2022-07-20",
+   "v": 235024,
+   "s": 1183,
+   "vertical": false,
+   "desc": "With hotswap Cherry AND Choc AND RGB AND e-paper!\nThanks to Bespoke Post for sponsoring this video! Head to https://bespokepost.com/freedman20 and use code FREEDMAN20 to learn more and get 20% off your first box.\n\nWatch the first MiRage video first! https://youtu.be/Fg0V5M0llaE\n \nMore info on the project's core, the Seeeduino Xiao RP2040: https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?utm_source=ZackFreedman&utm_medium=YouTube&utm_campaign=RP2040-Free-Shipping\nSee more keyboard projects in Seeed's mech keeb contest: https://www.seeedstudio.com/seeed-fusion-diy-xiao-mechanical-keyboar"
+  },
+  {
+   "id": "BCNxHGKFiQ0",
+   "t": "Meet Christopher, the EIGHT-GPU Robot Quagsire",
+   "d": "2022-08-05",
+   "v": 183484,
+   "s": 1292,
+   "vertical": false,
+   "desc": "A plushie, a dream, and $120,000 of CUDA cores.\nCome and see what you can build on OCI today! https://bit.ly/DevelopWithOracle\n\nWatch the first episode: https://www.youtube.com/watch?v=ufQmmEx1rbs\nMillie the moo cow needs a home! https://bit.ly/3Q5YQkj\n\nLast time, I tried to put a six-billion-parameter neural network in an off-the-shelf Misty robot. Today, we do it all ourselves - we turn this stuffed Quagsire into our own voice-activated animated robot, build our own speech recognition, and deploy GPT-NeoX, a 20-BILLION-PARAMETER text generator, on an ultra-powerful eight-GPU, 64-core superco"
+  },
+  {
+   "id": "GoEquOdUlGY",
+   "t": "Four Million Tiny Mirrors: The Insane Engineering of DLP and the Future of 3D Printing",
+   "d": "2022-08-29",
+   "v": 581884,
+   "s": 1081,
+   "vertical": false,
+   "desc": "There's huge power in this 3D printer's tiny mirrors.\nGet a Photon D2 DLP printer: https://bit.ly/3B7MIKx\n\nIn this episode, we bust open a rare DLP resin printer to show how microelectromechanical systems - nay, microOPTOelectromechanical systems, make impossible tasks trivial. This fusion of SRAM, electrostatic actuators, micromachined springs, and graphics circuitry enables us to build incredibly precise, powerful, and high-performance displays. There's a science fair model, tiny Warframes, a projector that's also a car headlight, half a snake, and penny-pinching regret. It's a fun time.\n\nAb"
+  },
+  {
+   "id": "EWWJ1x2VMJs",
+   "t": "Modules! Magnets! MiRage Mk3: The Mechanical Keyboard You're Meant to Modify!",
+   "d": "2022-09-29",
+   "v": 392787,
+   "s": 1227,
+   "vertical": false,
+   "desc": "The MiRage mechanical keyboard's final form(s)...\nBuild your next project in Fusion 360! https://autode.sk/3AXDyQI\n\nSwitches, caps, encoders, and mats provided by MKUltra Keyboards! https://mkultra.click\nSign up for the MiRage mailing list at https://lp.constantcontactpages.com/su/IT2S7ta/mirage! Keyboard spam only.\nJoin the Discord (visit the #MiRage channel!) https://discord.gg/voidstarlab\nSupport the channel: https://patreon.com/zackfreedman\n\nStart from the beginning: https://youtu.be/Fg0V5M0llaE\nPrevious iteration: https://youtu.be/ZfpNbW_dHbU\n\nI'm building the ultimate hackable mechanical"
+  },
+  {
+   "id": "77hET4FhH_0",
+   "t": "Real Hardware Hacking (with a hacksaw): My New Wearable Computer | Optigon 2 Part 1",
+   "d": "2022-10-14",
+   "v": 486491,
+   "s": 1417,
+   "vertical": false,
+   "desc": "Hacking it... IN HALF!!! \n3D scan with Polycam for free! Visit https://apple.co/3er4ekG\n\n\u23ea Part 1: https://youtu.be/Sy7yPwj2fsg\n\u23e9 Part 2: \ud83e\udd37\u200d\u2642\ufe0f\n\nMy wearable heads-up display, the Optigon, is coming apart at the seams, but I found the perfect upgrade, the Epson Moverio BT-40. Problem: It shuts off when I disconnect a display, but this 'borg is all-monocular, baybee. Solution: TEN MONTHS of real-deal hardware hacking, complete with signal sniffing, replay attacks, and oodles of solder paste. Oodles! But my new wearable computer, the Voidstar Lab Optigon 2, is done! I'm sorry if I ruined the surpr"
+  },
+  {
+   "id": "EVWbEGH7E_c",
+   "t": "Why I Trashed a Perfectly Good Wearable Computer | Optigon 2: Part 3",
+   "d": "2022-11-18",
+   "v": 320040,
+   "s": 1253,
+   "vertical": false,
+   "desc": "Tilted wearable? No. Invisible wearable? Yes.\nThe Anycubic Photon M3 Premium is out now! Just $619\u00a0at the official site:\u00a0https://bit.ly/3tHLVM3\u00a0\nFind great discounts on Anycubic products during their\u00a0Black Friday sale! Get an Anycubic Kobra Go\u00a0for only $189 at the Anycubic Amazon store! https://amzn.to/3fBpBAb\u00a0\n\nPart 1: https://youtu.be/Sy7yPwj2fsg\nPart 2: https://youtu.be/77hET4FhH_0\n\nDownload STLs to print yourself: https://social.thangs.com/m/503715?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\nSupport future projects: https://patreon.com/zackfreedman\nTalk shop with my community "
+  },
+  {
+   "id": "7FCwMq-rVsY",
+   "t": "Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!",
+   "d": "2022-12-05",
+   "v": 653329,
+   "s": 1247,
+   "vertical": false,
+   "desc": "I said 'Gridfinity' 43 times.\nThanks to Bespoke Post for sponsoring this video! Head to https://bespokepost.com/freedman20 and use code FREEDMAN20 to grab your \u201cbox of awesome\u201d and get 20% off your first box.\n\nGridfinity videos:\nThe Beginning: https://www.youtube.com/watch?v=ra_9zU-mnl8\nCommunity Spotlight 1: https://www.youtube.com/watch?v=Bd4NnHvTRAY\n\nSearch for templates and other Gridfinity basics at https://bit.ly/2SngasE\nCheck out the #gridfinity channel at https://discord.gg/voidstarlab\nVisit the subreddit! https://reddit.com/r/gridfinity\nLearn more and support the community at https://"
+  },
+  {
+   "id": "tkuppWvICLM",
+   "t": "I Reviewed the Most Ridiculous Gadgets from my Spam Folder",
+   "d": "2022-12-28",
+   "v": 1509798,
+   "s": 2833,
+   "vertical": false,
+   "desc": "I went full send. Full send-me-free-stuff.\nThanks Polycam for sponsoring this episode! Download at https://apple.co/3WeGnER - your first 100+ scans are free! \nUse promo code ZACK20 for 20% off a year of Polycam Pro!\n\nI received all these review items for free, but I was not paid by the brands. I refused to follow any talking points or sign any contracts... unless it's funny. No one gets to see the video in advance or make any feedback... unless it's funny. Thanks to all the brands for being good sports and sending their coolest toys!\n\nI'm doing this again in March! If you'd like your item feat"
+  },
+  {
+   "id": "x3hKPOlG934",
+   "t": "The Pick-and-Place: The Robots that Built the Modern World",
+   "d": "2023-02-09",
+   "v": 224999,
+   "s": 1649,
+   "vertical": false,
+   "desc": "These robots assemble every circuit board ever made and not one of them goes ding!\nTurbo-charge your next project with SparkFun - https://bit.ly/3WYipxQ\n\nHere's what Magnus was working on:\nSparkFun Qwiic Scale - https://bit.ly/3JTQ3Sm\n\nSupport the channel! https://patreon.com/zackfreedman\nJoin the community! https://discord.gg/voidstarlab\n\nSome of my favorite SparkFun products:\nSparkFun Qwiic Haptic Driver Kit - https://bit.ly/3RGaSCJ\nSparkFun MicroMod Teensy Processor - https://bit.ly/3Xhciov\nSparkFun Beefy 3 - FTDI Basic Breakout - https://bit.ly/3x4LQUg\nFast Charging USB Cable with LCD - ht"
+  },
+  {
+   "id": "2R-KDji7tGE",
+   "t": "My Workshop Was Destroyed...",
+   "d": "2023-03-02",
+   "v": 375556,
+   "s": 1385,
+   "vertical": false,
+   "desc": "Now this is the story all about how\nMy workshop/studio/home got drowned\nSo if you'd like to help out, feel free to chip in\nat https://patreon.com/zackfreedman.\n\nIt went down in the suburbs of Denver, CO\nIn the apartment where I made my YouTube videos\nPrinting stuff, solderin', authorin' bad puns and bits\nShooting some B-roll of cursed filaments\n\nWhen the plumbing above us, which might not be to code\nDecided it was time to go ahead and 'splode\nA hundred gallons poured in and our stuff got drenched\nAnd I said \"Brooke, we need a new place to put my workbench.\"\n\nShe searched up a house and when I "
+  },
+  {
+   "id": "uVECS4rBAZc",
+   "t": "Every Single Filament Part 4: CURSED FILAMENT!",
+   "d": "2023-03-19",
+   "v": 1100306,
+   "s": 3549,
+   "vertical": false,
+   "desc": "40+ eldritch filaments to sow chaos and shatter the mind.\nWatch Keysight Source De[Code] now! https://keysig.ht/hKVYlj\n\nSupport me on Patreon - https://patreon.com/zackfreedman\nMeet me on Discord - https://discord.gg/voidstarlab\n\nFilaments:\nAlga by 3DPrintLife  https://amzn.to/3LxAaSo\nBuzzed by 3D-Fuel http://bit.ly/3yKC8aB\nPneumatique by Treed https://amzn.to/3YXGwxx (unavailable)\nMatte Pine by Protopasta (couldn't find exact match?)\nLaywoo-D3 Flex by Lay http://bit.ly/3JmoX4q\nLaywoo-D3 Meta5 by Lay http://bit.ly/3Z2nqpU\nMatte Fiber HTPLA by Protopasta http://bit.ly/3ZZyHsz\nCF-TPU by SmartMat"
+  },
+  {
+   "id": "ofI2OCq_QqA",
+   "t": "Announcing GRIDFINITY 2.0! Print it now, FOR FREE!",
+   "d": "2023-04-02",
+   "v": 953662,
+   "s": 871,
+   "vertical": false,
+   "desc": "Now with 50% more sides!\nDownload the Gridfinity 2.0 Beta Tiles: https://than.gs/m/818409?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\nDownload the Gridfinity 2.0 Beta Baseplate: https://than.gs/m/818411?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\nEverything in this video is printed in Inland PLA+. Get some at any Micro Center or right here: https://amzn.to/3lXwEXd\n\nSupport the channel and these projects! https://www.patreon.com/zackfreedman\nJoin our maker community: https://discord.gg/voidstarlab\n\nYou'll need glue: https://amzn.to/3U9ODWX\nAnd 10mm balls: https://amzn.t"
+  },
+  {
+   "id": "KwI4XkB2uQg",
+   "t": "I Reviewed the Stupidest Smart Devices From My Spam Folder",
+   "d": "2023-04-20",
+   "v": 901952,
+   "s": 3000,
+   "vertical": false,
+   "desc": "A smart aleck's dumb jokes on smart gadgets' dumb features.\nGo to https://brilliant.org/zackfreedman to get a 30-day free trial! The first 200 will get 20% off an annual subscription.\n\nSupport my videos: https://patreon.com/zackfreedman\nHang out: https://discord.gg/voidstarlab\n\nIn my second review roundup, I got the bright idea to review all the smart devices. This was supposed to be February's video, then the house flooded, and all that stuff. Thanks for being patient, viewers and brands! Sorry for insulting you (viewers) and insulting you (brands!)\n\nThe Stuff:\n\nPolarna M6 E-Bike: https://bit"
+  },
+  {
+   "id": "Iqz7ZDdP25A",
+   "t": "Hextraction: The Free 3D-Printed Board Game You Make, Mod, and Master",
+   "d": "2023-05-14",
+   "v": 568226,
+   "s": 1860,
+   "vertical": false,
+   "desc": "Put your hexagon to the testagon!\nSponsored and hosted by Thangs: https://than.gs/u/76763?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\nInland PLA+ Filament (seen in video):\u00a0https://bit.ly/InlandPLAPlusFilament\n\nSupport this project! https://patreon.com/zackfreedman\nJoin the #hextraction channel at https://discord.gg/voidstarlab\n\nInland Carbon Fiber (seen in video):\u00a0https://bit.ly/InlandCarbonFiber\nAll\u00a0Inland Filament:\u00a0https://bit.ly/inlandfilament\nInland Filament on Amazon:\u00a0https://www.amazon.com/stores/page/0D7649B2-15D8-4E86-BD2C-B3913586C72F?channel=Hextraction51223\n\nRules and mo"
+  },
+  {
+   "id": "SSp1wn0Abck",
+   "t": "How to Use Oscilloscopes, Logic Analyzers, Multimeters, and More",
+   "d": "2023-06-12",
+   "v": 170562,
+   "s": 1808,
+   "vertical": false,
+   "desc": "Stop the guesswork! Make the electrical perceptible!\nJoin Keysight World: Innovate, starting June 20th! \nhttps://keysig.ht/gwJ0Yk\n\nYou can't see electricity (yet) so you need the next-best thing: multimeters, oscilloscopes, logic probes, debuggers, and spectrum analyzers. You know what, forget the spectrum analyzers. You RF people sicken me. \n \nJoin our friendly maker community at https://discord.gg/voidstarlab - It's friendly because my mods punted all the jerks out the window like that scene in Kung Fu Hustle.\n\nSupport me and make me say dumb stuff! https://patreon.com/zackfreedman\n\nKeysight"
+  },
+  {
+   "id": "m99I05VJFLQ",
+   "t": "10 Free 3D Prints to BLOW YOUR MIND!",
+   "d": "2023-07-12",
+   "v": 1411863,
+   "s": 1577,
+   "vertical": false,
+   "desc": "Bust your brain like a sockful of quarters to the dome.\nAdvance your printing with the Anycubic Photon Mono M5S! https://bit.ly/3Oa51FD\nCustom fume hood by Sentry Air Systems: https://www.sentryair.com/custom-fume-hoods.htm\n\nSupport me on Patreon! https://patreon.com/zackfreedman\nSay hello! https://discord.gg/voidstarlab\nFind us at Open Sauce! https://opensauce.live\n\nModels:\n\ud83d\udcd0 Sierpinski 4-Pyramid With Code by vendicar1 https://thangs.com/designer/models/3d-model/724769?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n\u265f\ufe0f Wormhole Chess Board by DaveMakesStuff https://thangs.com/designer"
+  },
+  {
+   "id": "96eFnTescoY",
+   "t": "The Highly Ridiculous Over-Engineering of the Diamondback Nozzle",
+   "d": "2023-08-11",
+   "v": 371351,
+   "s": 1555,
+   "vertical": false,
+   "desc": "2500 degrees, a million PSI, and 1000 glorious American miles.\nUpgrade your printer with a Diamondback! https://bit.ly/3KzBAdT\n\nSupport the channel! https://patreon.com/zackfreedman\nOr support us and get cool prints! https://thangs.com/zackfreedman\nJoin my lovely maker/hacker community: https://discord.gg/voidstarlab\n\nThis whole experience was something else. Unbelievable scenery, incredible science, friendly folks, and one hell of a printer upgrade. Because of the sheer density of high-value secrets meandering into frame, this video was subject to deeper scrutiny by the sponsor, Diamondback a"
+  },
+  {
+   "id": "-b8cAytY3Pk",
+   "t": "Cursed Coding: How the Void* Does Anything with Nothing",
+   "d": "2023-08-23",
+   "v": 152806,
+   "s": 1318,
+   "vertical": false,
+   "desc": "Why is my channel called Voidstar Lab?\nTry Brilliant free for 30 days and get 20% off at https://brilliant.org/zackfreedman\n\nSupport me on Patreon! https://patreon.com/zackfreedman\nSupport me on Thangs! https://thangs.com/zackfreedman\nMeet me and make friends! https://discord.gg/voidstarlab\nDoomscroll me! https://x.com/zackfreedman\n\nA PROGRAMMING EPISODE?! Egads! Gadzooks! It's a good one. C and C++ feature a bizarre keyword: void* represents a memory address whose data are unknown or totally absent. This meaningless map to nothing enables function pointers, universal memory management, and ev"
+  },
+  {
+   "id": "MqirgLJnmZM",
+   "t": "Five 3D-Printing Mistakes You're Making RIGHT NOW!!",
+   "d": "2023-09-14",
+   "v": 1169184,
+   "s": 1313,
+   "vertical": false,
+   "desc": "Noob or ninja, all makers make mistakes.\nGet the AnkerMake M5C for less than $400! https://ankermake.club/8110Aaqo\n\nFrom the manufacturer:\nThe AnkerMake M5C is a precise, high-speed 3D printer that's easy to customize. You can start printing with just one click!\u00a0\nAvailable now for $399 in the U.S. \u00a3399 in the UK, 449\u20ac in the EU and CA$699 in Canada.\n#Ankermake #Ankermakem5c #3Dprinting\nGet $30 off with the code M5CINF30A on M5C in US/UK/EU/UK,\u00a0\nGet CA$100 off with the code M5CINF30A on M5C in US/UK/EU/UK\nOrder on Amazon: https://ankermake.club/8110Aaqo\nOrder on Ankermake: https://ankermake.clu"
+  },
+  {
+   "id": "8y2LjkndbCM",
+   "t": "Home Automation CONSUMED MY LIFE (and you're next)",
+   "d": "2023-10-17",
+   "v": 463077,
+   "s": 1459,
+   "vertical": false,
+   "desc": "Must... integrate... ceiling... fan...\nTry Brilliant free for 30 days and get 20% off at https://brilliant.org/zackfreedman\n\nSupport my dumb projects: https://patreon.com/zackfreedman\nShow your smart projects: https://discord.gg/voidstarlab\n\nMy totally necessary enclosures:\nLilygo ESP32 4-Relay Enclosure https://than.gs/m/947440\nESP32 30-Pin Expansion Board rgbled Driver Enclosure Thingy https://than.gs/m/947443\n\nHome Assistant: https://www.home-assistant.io/\nHomeSpan (HomeKit for ESP32) https://github.com/HomeSpan/HomeSpan/tree/master\nHomeBridge (HomeKit for non-HomeKit home automation kit) h"
+  },
+  {
+   "id": "igI1ccLCOyc",
+   "t": "I Tested Janky Ghost-Hunting Gear from Aliexpress",
+   "d": "2023-11-01",
+   "v": 181697,
+   "s": 2322,
+   "vertical": false,
+   "desc": "If your haunting lasts more than 4 hours, call a doctor.\nSponsored by the AnkerMake M5C: High-speed precision printing so affordable, it's spooky!\nOrder on Amazon:\u00a0\u00a0https://ankermake.club/V81106Tmh\nOrder on AnkerMake:\u00a0https://ankermake.club/V81106qWU\nGenerate fun prints on Make it Real: https://makeitreal.ankermake.com/\n#AnkerMake #AnkerMakeM5C #3Dprinting #AnkerMakeGifts #3DPrinter #Halloween2023 #Giftingideas\n\nDiscord: https://discord.gg/voidstarlab\nPatreon: https://patreon.com/zackfreedman\n\n# TODO: Add product links\n# TODO: Host Spoopitron model\n# TODO: Share unabridged ghost audio\n\nCredits"
+  },
+  {
+   "id": "7WAhquGQq3o",
+   "t": "My Storage has a Search Bar! Gridfinity + 8,552 LEDs = Litfinity!",
+   "d": "2023-11-27",
+   "v": 645152,
+   "s": 1697,
+   "vertical": false,
+   "desc": "My most ambitious project begins...\nBuilt with Oracle Autonomous Database - https://bit.ly/ADB_free\nTry Oracle Database 23c for free - https://bit.ly/Free_DB\u201d\n\nOracle Database 23c Free is the same, powerful Oracle Database that businesses throughout the world rely on. It offers a full-featured experience and is packaged for ease of use and simple download\u2014for free.\n\n---\n\n\nI'm building a massive smart workshop organizer system, with mechanical vertical carousels, automatic inventory tracking, and a truly astounding number of rainbow lights. First step: Prototype the core features, registering, "
+  },
+  {
+   "id": "uIyVBHv8u4k",
+   "t": "10 Free Prints to Make Friends Suffer!",
+   "d": "2024-01-02",
+   "v": 836945,
+   "s": 1339,
+   "vertical": false,
+   "desc": "Three dimensions of pain!\nTry Brilliant free for 30 days and get 20% off at https://brilliant.org/zackfreedman\n\nThis was supposed to be a holiday video, but then I got sick for a month. I ended up in the hospital with a stroke alert! It was effin metal.\ud83e\udd18I really should have worn a mask at SMRRF...\n\nShare your frustration! https://discord.gg/voidstarlab\nSupport this silliness! https://patreon.com/zackfreedman\n\nThe Models (and ye olde filamentes)\n\n10 - Skew Dice by Carlos Luna https://bit.ly/3v986yJ\n\ud83e\uddf5Sovol silk magic blue-yellow-fuchsia - https://bit.ly/3thU8Kn \n\n9 - Renaissance Light Switch Cov"
+  },
+  {
+   "id": "Mm8sz6CB9ys",
+   "t": "The Glorious Chaos of Sanjay Mortimer",
+   "d": "2024-01-23",
+   "v": 117038,
+   "s": 1341,
+   "vertical": false,
+   "desc": "I still can't explain how he got his hair like that.\nThe first $5000 of revenue from this video will be donated to the Sanjay Mortimer Foundation: https://www.sanjaymortimerfoundation.org/\n\nI can't set this fundraiser in YouTube itself, because the Foundation isn't a US 501(c)3, which is a requirement to use the feature. The SMF is a registered UK charity, with similar responsibilities to an American nonprofit.\n\nOur Patrons made this tribute possible. This was a difficult but important video for me, and I'm glad I could finish it.\n\nSupport future videos: https://patreon.com/zackfreedman\nMake 3"
+  },
+  {
+   "id": "JlylupVEwRM",
+   "t": "3D Printing a CHOCOLATE GRIDFINITY of LOVE!!",
+   "d": "2024-02-13",
+   "v": 252184,
+   "s": 1452,
+   "vertical": false,
+   "desc": "I ate a Benchy! And a Patron!\nTry Brilliant free for 30 days! https://brilliant.org/zackfreedman\n\nThanks Cookiecad for the glorious PETG! https://amzn.to/3uAocBp\n\nSupport the dumbest projects you can possibly imagine: https://patreon.com/zackfreedman\nMeet the smartest makers you can possibly imagine: https://discord.gg/voidstarlab\n\nI printed a Gridfinity out of chocolate and gave it to Brooke for Valentine's Day. Normally I try to add more details here in the description, but that kinda sums it up. I came, I saw, I ate a boat.\n\nCommunity projects featured:\n\ud83e\uddf1Gridfinity Parametric Web Generator "
+  },
+  {
+   "id": "weeG9yOp3i4",
+   "t": "The 3D Filament Tier List! Which Should YOU Use?",
+   "d": "2024-03-14",
+   "v": 2373563,
+   "s": 2674,
+   "vertical": false,
+   "desc": "This episode is sponsored by Aura! Take your secrets off the market with 2 free weeks: https://aura.com/zackfreedman\n\nPhysical tier list STLs: https://than.gs/m/1030965?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\nBased on the 3D Benchy Dry Dock Display Stand by 3D Print Burgas: https://makerworld.com/en/models/133067#profileId-144432\n\nMake me read your silly name! https://patreon.com/zackfreedman\nTell me your deepest secrets*: https://discord.gg/voidstarlab\n\nFilament Links (most give me affiliate bucks)\nPLA: Protopasta https://bit.ly/3wVoJyM \nSilk PLA: Inland https://amzn.to/4cs4cS"
+  },
+  {
+   "id": "pLPkUpMMBnc",
+   "t": "The Cocktail Turing Test - Can AI Design a Decent Drink?",
+   "d": "2024-04-01",
+   "v": 74171,
+   "s": 1317,
+   "vertical": false,
+   "desc": "ChatGPT does a Turing (taste) test!\nTry Brilliant for a month, free! https://brilliant.com/zackfreedman\n\nSupport me and get BONUS COCKTAILS! https://patreon.com/zackfreedman\nJoin our drinking group: https://discord.gg/voidstarlab (Look for the Cocktology channel!)\n\nIllustrations were made by Dall-E 3, and generated text was composed by ChatGPT 4.\n\n===*COCKTAIL RECIPES - SPOILERS!!*===\n\n*Quantum Nebula by ChatGPT* - Guessed RIGHT!\n- 1.5oz Galactic Gin (Tanqueray No. Ten)\n- 0.5oz Andromeda Amaretto (Disaronno)\n- 0.5oz Nebula Nectar (St-Germain)\n- 0.75oz Cosmic Citrus juice (2:1 lemon and lime)\n-"
+  },
+  {
+   "id": "g7FHaPECGbY",
+   "t": "3D Print T-Shirts, Holograms, and More! 5 Easy (Cursed) Printing Hacks!",
+   "d": "2024-04-18",
+   "v": 728064,
+   "s": 1328,
+   "vertical": false,
+   "desc": "Sponsored by KiwiCo - Get 50% off your first month of KiwiCo's monthly subscription! https://kiwico.com/zack\nLet's print weird stuff by forcing our 3D printers to do filthy, disgusting things! Yay!\n\nFree T-shirt printing presets! https://bit.ly/3JndlyD\n(feel free to support me on Patreon too!)\nHang out on our Discord! https://discord.gg/voidstarlab \n\nSay hi at RMRRF! https://rockymountainreprapfestival.com/\n\n===STUFF===\nSome of these are affiliate links that give me money.\n\nFILAMENTS:\nAtomic Extreme Jet Black PLA (Ninja Spinners): https://atomicfilament.com/products/extreme-jet-black-pla-filam"
+  },
+  {
+   "id": "GobDWJS7haw",
+   "t": "YOU Can Print RMRRF\u2019s Most Insane Models for FREE!",
+   "d": "2024-05-15",
+   "v": 379522,
+   "s": 1454,
+   "vertical": false,
+   "desc": "Today, we print a banana.\nTry everything on Brilliant free for 30 days! https://brilliant.org/zackfreedman\n\nWhat are your favorite prints? Tell me at https://discord.gg/voidstarlab !\nSupport future videos: https://patreon.com/zackfreedman\n\nThe Rocky Mountain RepRap Fest brought a gaggle of nerds to my doorstep. Like geese, they made a lot of noise, extruded a lot of crap, and threatened to bite me. So I printed their stuff. I don't even know why I'm writing this, nobody ever reads the description.\n\n===The Stuff===\n-  Maraca by Leedle Dynamics: https://www.etsy.com/listing/1679450485/maraca-fli"
+  },
+  {
+   "id": "FE88IaYwkl8",
+   "t": "3D PRINTED SOLID CHOCOLATE NERF BLASTERS",
+   "d": "2024-06-09",
+   "v": 129529,
+   "s": 1422,
+   "vertical": false,
+   "desc": "(Spoiler in thumbnail)\nTry Brilliant free for 30 days and get 20% off a premium membership! https://brilliant.org/zackfreedman\n\nThanks to Out of Darts for being consummate professionals, and helping me with this ridiculous project! Good luck with the new warehouse!\n\nShow me your projects! https://discord.gg/voidstarlab\nSupport my chocolate addiction! https://patreon.com/zackfreedman\nWatch the disastrous Cynthia build stream: https://www.patreon.com/posts/q-stream-hot-and-103193136\n\n===Models and Materials===\nJuno Full-Auto Ball Blaster by Out of Darts: https://bit.ly/3yUCYVy\nCookiecad Mint PET"
+  },
+  {
+   "id": "B4bMm8w1rZY",
+   "t": "Can I Design a Whole Project in Bambu Studio?",
+   "d": "2024-07-12",
+   "v": 262232,
+   "s": 1334,
+   "vertical": false,
+   "desc": "This episode is sponsored by Aura! Take your secrets off the market with 2 free weeks: https://aura.com/zackfreedman\n\n*MakerChips are NO LONGER AVAILABLE!* \nBut you could still support me anyways on Patreon! https://patreon.com/zackfreedman\nAlso join the Discord! https://discord.gg/voidstarlab You won't get a chip, but the real chip is the friends you make along the way.\n\nDownload my MakerChip to print yourself: https://than.gs/m/1101730?utm_source=youtube&utm_medium=video&utm_campaign=zack_f\n(ONLY WORKS IN BAMBU STUDIO!)\n\n===Featured Models===\nSome of these links give me affiliate revenue.\nMa"
+  },
+  {
+   "id": "YkSMSlhVRnw",
+   "t": "I built a whole computer out of RGB (and Jeff Bezos paid for it)",
+   "d": "2024-08-02",
+   "v": 149480,
+   "s": 1557,
+   "vertical": false,
+   "desc": "It's got LITERAL MILLIONS of rgbleds!\nGet 50% off your first month of KiwiCo's monthly subscription! https://kiwico.com/zack and use code ZACK! \n\nLet's talk rgleds: www.discord.gg/voidstarlab\nFund future rgbleds: www.patreon.com/zackfreedman\n140 chars of rgbleds: www.twitter.com/zackfreedman\n\nWarning! This project includes: \n- Red \n- Green\n- Blue \n\n===RGBILL OF MATERGBLS=== \nMSI Meg Z790 Ace https://amzn.to/3A6Xe6N\nIntel i9-13900K https://amzn.to/3SuLL7q\nSilverStone IceMyst 420 CPU AIO https://amzn.to/3A8AV0G\nIceMyst Upgrade Fan https://amzn.to/4docASP \nG.Skill Trident Z5 RGB 32GB (wasted) htt"
+  },
+  {
+   "id": "PebUhzrZpyE",
+   "t": "I made RGB WOOD!! - Full RGB PC Part 2",
+   "d": "2024-08-12",
+   "v": 137699,
+   "s": 1307,
+   "vertical": false,
+   "desc": "Rainbows don't grow on trees... yet.\nTry everything on Brilliant free for 30 days! https://brilliant.org/zackfreedman\nThis episode is sponsored by Brilliant.org.\n\nPart 1: https://youtu.be/YkSMSlhVRnw\n\nLet's talk rgleds: www.discord.gg/voidstarlab\nFund future rgbleds: www.patreon.com/zackfreedman\nRGB, 140 chars at a time: www.twitter.com/zackfreedman\n\n===RGBILL OF MATERGBLS=== \nAluminum LED Channel https://amzn.to/3yqmJzI\nRed Oak Edge Banding (the secret ingredient) https://amzn.to/4ftTZX9\nMSI Meg Z790 Ace https://amzn.to/3A6Xe6N\nIntel i9-13900K https://amzn.to/3SuLL7q\nSilverStone IceMyst 420 C"
+  },
+  {
+   "id": "qAuwW7Wzrng",
+   "t": "Why am I wearing a heads-up display?",
+   "d": "2024-09-12",
+   "v": 669775,
+   "s": 1248,
+   "vertical": false,
+   "desc": "It's not JUST because it's cool.\nSponsored by Brilliant - try free for 30 days! https://brilliant.org/zackfreedman\n\nI debunked almost every way to make a full-custom heads-up display: https://youtu.be/zZZ-Ea8RyjQ\nTried to build one anyways? Repent your sins: https://discord.com/channels/771523295387582514/876757001626058763\nSupport future projects: https://patreon.com/zackfreedman\n\nWatch the epic Optigon saga:\nPart 1 - Certain Doom: https://youtu.be/Sy7yPwj2fsg\nPart 2 - Hacking Hardware: https://youtu.be/77hET4FhH_0\nPart 3 - The Frame-Up: https://youtu.be/EVWbEGH7E_c\n\n===TIMETABLE===\n00:00 It'"
+  },
+  {
+   "id": "MrkGsgbomjY",
+   "t": "The Most INSANE Gridfinity You Can Print",
+   "d": "2024-10-29",
+   "v": 442379,
+   "s": 1218,
+   "vertical": false,
+   "desc": "Let's get GRID-TUITOUS.\nSponsored by Brilliant! Try free for 30 days + save 20% at https://brilliant.com/zackfreedman\n\nCorrection: The cardboard bins are by DAVIEL Black, not DANIEL. \n\nSupport future projects! https://patreon.com/zackfreedman\nJoin our aggressively friendly Discord! https://discord.gg/voidstarlab\n\nI do NOT get a cut of paid model purchases - after fees, that's all going to the creators.\n\n===MODELS===\n\n- Cardboard Bins by Daviel Black: https://www.printables.com/model/880256-cardboard-gridfinity-bins\n- Daviel\u2019s original thread: https://bit.ly/3C3Zugh\n- Dungeon Kit by CC0hort: ht"
+  },
+  {
+   "id": "o78L0DPMGQg",
+   "t": "Ten Free 3D-Printed Board Games Too Silly for Stores",
+   "d": "2024-12-13",
+   "v": 316015,
+   "s": 1240,
+   "vertical": false,
+   "desc": "This episode is sponsored by KiwiCo! Visit https://kiwico.com/zack and use code ZACK to save 50% off your first crate from any club for ages 3 or older.\n\nSupport future videos! https://patreon.com/zackfreedman\nShare your favorite models! https://discord.gg/voidstarlab\n\nMODELS!\nAltoids Battleship by EG3DPrinting https://www.printables.com/model/131144-altoids-pocket-battleship\nAltoids Connect 4 by EG3DPrinting https://www.printables.com/model/132160-altoids-connect-4\nParty Maze Challenge by MEAFdesigns https://www.printables.com/model/272449-party-maze-challenge?lang=en\nLarge Balance Puzzle Tet"
+  },
+  {
+   "id": "P7BhMKqIkig",
+   "t": "Everyone's WRONG about the BENCHY BAN! (Printables #3DBenchy takedowns explained)",
+   "d": "2025-01-26",
+   "v": 531756,
+   "s": 2070,
+   "vertical": false,
+   "desc": "Stop leaving yourself vulnerable to data breaches and brokers. Go to my sponsor\nhttps://aura.com/zackfreedman to get a 14-day free trial and see if any of your data has\nbeen exposed.\nMy partner Aura just launched their new \"Are you smarter than a scammer?\" quiz.\nTake the quiz and see if you\u2019re as savvy as you think: https://bit.ly/aurasts\n\nSpecial thanks to Colorado IP lawyer Peter Lemire for context about copyrights and contracts. Get a free consultation: https://www.coloradoiplaw.com/ \n\nGet a sneak peek at my next massive project: https://www.patreon.com/posts/sneak-peek-121331625?utm_medium"
+  },
+  {
+   "id": "FWBHJtdRGsM",
+   "t": "3D Printing Tricks in Action: Making a Mad Scientist's Alchemy Lab for LARP",
+   "d": "2025-03-20",
+   "v": 127550,
+   "s": 1404,
+   "vertical": false,
+   "desc": "It's insanely realistic! \nSponsored by Aura - visit https://aura.com/zackfreedman to start your free two-week trial!\n\nSee Nerio's potions in action: https://patreon.com/zackfreedman\nMeet more weird makers: https://discord.gg/voidstarlab\n\nShout-out to Sean Mooney for running an awesome LARP, and making it approachable for a total noob like me! See the next event at https://www.mooneybinentertainment.com/\n\nAll stills by Stephen at paringtonphoto.com, the event's official photographer, used with permission by the event organizer.\n\nIf you're near Denver and you want to dress silly, visit Disguises"
+  },
+  {
+   "id": "GQNxkBwd1N4",
+   "t": "The Best 3D Prints for Magic: The Gathering (and an all-alliteration EDH deck)",
+   "d": "2025-04-02",
+   "v": 142449,
+   "s": 1550,
+   "vertical": false,
+   "desc": "This episode is sponsored by KiwiCo! Visit https://kiwico.com/zack and use code ZACK to save 50% off your first crate from any club for ages 3 or older.\n\nWitness the ALL-ALLITERATION DECK! https://moxfield.com/decks/R1aphISeoUyrfu61qkdbqQ\nSupport videos and get alliterative lands! https://patreon.com/zackfreedman\nShare your favorite models! https://discord.gg/voidstarlab\n\nMODELS!\nCCG deck box with geared pivoting lid by belrius: https://www.thingiverse.com/thing:20431\nVault Deckbox by Tekcor17: https://www.thingiverse.com/thing:6826982\nHex Lock 2.0 Commander Deck Box by LegendaryCheez: https:/"
+  },
+  {
+   "id": "7zIKTzEVW_k",
+   "t": "54 filaments I should NOT own - Every Filament Part 5: Business Filaments",
+   "d": "2025-05-16",
+   "v": 648717,
+   "s": 3330,
+   "vertical": false,
+   "desc": "Silly filaments, serious business.\nSponsored by Diamondback nozzles! https://bit.ly/43y2yML\n\nAmazon and Matterhackers links give me affiliate revenue. Others don\u2019t.\nAll printers featured in this episode were provided by their respective manufacturers.\n\nEquipment:\nVision Miner 22 Idex v3: https://visionminer.com/products/22IDEX\nPantheon HS3: https://pantheondesign.com\nLulzbot Mini 3: https://buy.lulzbot.com/products/lulzbot-3d-printer-mini-v3-boxed-for-retail-na\n\nigus:\niglide i150: https://www.igus.com/product/iglidur_I150_PF\niglide i151: https://www.igus.com/product/iglidur_I151_PF\nigumid P150"
+  },
+  {
+   "id": "r7bhnKgjgJ0",
+   "t": "I Broke a 3D-Printed Car at RMRRF 2025!",
+   "d": "2025-06-16",
+   "v": 211807,
+   "s": 1403,
+   "vertical": false,
+   "desc": "Allegedly broke, allegedly a car.\nThanks to our Patrons! Help me make makers make more at https://patreon.com/zackfreedman !\nShare your projects and get help with 3D printing! https://discord.gg/voidstarlab\n\n===Projects!===\nBenchy Hat by Sean Woods: \nhttps://www.printables.com/model/529722-the-benchy-hat\nBenchy earrings by Sean and Ginger Woods and Etoyoc Industries: https://www.etoyoc.com/\nK2_Kevin's MakerChip Matrix: https://www.printables.com/model/927699-makerchip-matrix (I named it!)\nPez Liz's Pezfinity https://makerworld.com/en/models/243527-pezfinity-pez-dispenser-holder-gridfinity-base"
+  },
+  {
+   "id": "UqGnPZYXNIc",
+   "t": "Biblically-Accurate Nerf Blaster \ud83d\udd2b\ud83d\udc41\ufe0f\ud83d\udc7c The Ophanim, Part I",
+   "d": "2025-08-08",
+   "v": 175173,
+   "s": 1794,
+   "vertical": false,
+   "desc": "Shield yourself from data breaches! Go to my sponsor https://aura.com/zackfreedman for a free 14-day trial to see if your personal info is exposed.\n\nSupport the channel to watch me yap about 3D-printed blaster grip design for over 20 minutes! https://www.patreon.com/posts/136206272\n\nJoin my welcoming project-building community! https://discord.gg/voidstarlab\n\nThanks to Alice \"Coatduck\" Tyrell for critical support (and critical critique!) Her own blaster concept art strongly influenced the Ophanim. See her phenomenal projects and far better videography at https://www.youtube.com/@AliceTyrell/fe"
+  },
+  {
+   "id": "KgwFTv9J7ik",
+   "t": "How MakerBot sold us literal hot garbage",
+   "d": "2025-09-27",
+   "v": 557436,
+   "s": 1999,
+   "vertical": false,
+   "desc": "I spent $270,000 and didn't get a single ball bearing...\nUpgrade any printer with a Diamondback nozzle! https://www.amazon.com/stores/USSynthetic/page/079E7A52-4F37-45E6-AD43-607FC386C7F2?maas=maas_adg_9E967B69EBB27C015C4C013AEB3B5729_afap_abs&ref_=aa_maas&tag=maas\n\nGet printer help: https://discord.gg/voidstarlab\nSupport future videos: https://patreon.com/zackfreedman\n\nThe new printer (provided by LDO):\n- Voron Trident 250: https://west3d.com/products/ldo-trident-kit?srsltid=AfmBOoo0K9HbV26M1E2zeTTMCeOKCb9huS6RcprtDTogi0h0hmB9XhYA\n- BoxTurtle AFC: https://ldomotion.com/products/LDO-BTAFC-Kit\n"
+  },
+  {
+   "id": "S6_xnzt9YPU",
+   "t": "Five Bizarre 3D-Printing Mysteries with Insane Solutions",
+   "d": "2025-10-20",
+   "v": 238164,
+   "s": 1647,
+   "vertical": false,
+   "desc": "Sponsored by my S-Tier - 3D-Fuel PCTG! https://collabs.shop/lcxpaz Use code VOIDSTAR for 10% off! \nNote: PVC releases phosgene, the original gaseous war crime. It smells a bit like cut grass. PVC also releases elemental chlorine, but phosgene is the primary biohazard. This is a WEIRD EPISODE.\n\nFeel like a challenge? Here's five (or six (or seven))) of the trickiest, rarest, downright weirdest 3D-printing problems I've ever seen. They only happen in very specific situations, but sooner or later, they might just happen to YOU. How spooky!\n\nBecome a Patron and support future videos! https://patre"
+  },
+  {
+   "id": "J8PZWkjt65Q",
+   "t": "Filaments of the Future! Every 3D Filament: Part 6",
+   "d": "2025-11-19",
+   "v": 325034,
+   "s": 2429,
+   "vertical": false,
+   "desc": "Sponsored by Diamondback, ultimate nozzle for ANY filament! https://amzn.to/3JRk4Vo\nBig number good, so Vision Miner 22 IDEX v4 extra good! https://visionminer.com/22idex\n\nThe Every Single Filament series continues with 21 of the most exotic filaments you can print (assuming your nozzle goes to 445 Celsius!) I only realized this after uploading, but none of these are PLA, PETG, ABS, ASA, TPU, Nylon, CF, or any other common polymer. You know you\u2019ve gone too deep when the only acronym the audience might recognize is polypropylene\u2026\n\nBecome a Patron and support future videos! https://patreon.com/z"
+  },
+  {
+   "id": "DNlc44nA8Ms",
+   "t": "Five products SO OVER-ENGINEERED they're actually kinda worse! Spam Folder Review Volume 3!",
+   "d": "2025-12-23",
+   "v": 285488,
+   "s": 2277,
+   "vertical": false,
+   "desc": "Sponsored by Diamondback, the ultimate upgrade for Bambu, Creality, and more! https://amzn.to/3JRk4Vo\n\nSupport the channel: https://patreon.com/zackfreedman\nJoin the -cult- community: https://discord.gg/voidstarlab\n\nFor commercial inquiries (IE sending me free stuff) all contact info is at https://youtube.com/zackfreedman/about \n\nEvery once in a while, I dive into my spam folder like Uncle Scrooge diving into his pool of money, except instead of gold coins, I come back with preposterously over-engineered consumer electronics. This time, we struck gold anyways.\n\n===THE PRODUCTS===\nPocket 386: h"
+  },
+  {
+   "id": "n4wDmjEn8Vo",
+   "t": "The Cursed-est Server",
+   "d": "2026-01-30",
+   "v": 169284,
+   "s": 1949,
+   "vertical": false,
+   "desc": "If you\u2019re ever injured in an accident, you can check out Morgan & Morgan. You can start your claim in just a click without having to leave your couch: https://ForThePeople.com/zack\n\nSupport future videos: https://patreon.com/zackfreedman\nJoin my totally normal maker community: https://discord.gg/voidstarlab (it's totally normal)\n\nEverything was going wrong! So I prevented it! Then everything went wrong! So I fixed it! But  everything went wrong! So whined at Amazon's awful customer service! Then everything went perfectly! Then everything went wrong! This is a video about how to take an old, un"
+  },
+  {
+   "id": "OcMvTfUfNXo",
+   "t": "You can copy and print perfect spare parts! (Legally) (Probably)",
+   "d": "2026-03-10",
+   "v": 902441,
+   "s": 2056,
+   "vertical": false,
+   "desc": "Copy + Paste IRL!!\nStop scrolling and start projects! Visit our sponsor https://ark-stem.com and share your creations!\n\nSupport future videos and projects! https://patreon.com/zackfreedman\nJoin our welcoming maker community! https://discord.gg/voidstarlab\n\nPCTG provided by 3D-Fuel! For 10% off, visit http://www.3dfuel.com/VOIDSTAR (I\u2019m paid 10% of your order, and it really is great filament)\n\nDisclaimer: By 'anything,' I mean 'anything made of translucent or opaque plastic and commodity hardware that can be conveniently photographed, traced, and 3D printed using whatever equipment and material"
+  },
+  {
+   "id": "i10rxmsKHts",
+   "t": "Screw the Rules, I Have Every 3D Filament!",
+   "d": "2026-04-16",
+   "v": 153441,
+   "s": 1734,
+   "vertical": false,
+   "desc": "Don't fear the Reaper. Fear the driver.\nSponsored by Mentra, the ONLY open-source smartglasses! https://mentraglass.com/zackfreedman\n\nSupport future projects! https://patreon.com/zackfreedman\nShow me YOUR projects! https://discord.gg/voidstarlab\n\nThis is my Death Racer, a radio-controlled combat car piloted by a little gladiator that actually turns the steering wheel! I love it. The goal: Knock off enemy heads. The battlefield: The Rocky Mountain RepRap Fest, 2026. The plan: Uh...\n\nThanks to @VisionMiner for sponsoring filament and loaning a 22 IDEX v4!\nCheck their channel to see how they mana"
+  },
+  {
+   "id": "DyM3Dztu3e8",
+   "t": "How One Bad Filament Destroyed My Project (RMRRF 2026)",
+   "d": "2026-05-25",
+   "v": 121321,
+   "s": 2029,
+   "vertical": false,
+   "desc": "Sponsored by the Sunlu FilaDryer E2! urlkub.co/HpkiGL\nPEKK-A printed by @VisionMiner! https://visionminer.com/pages/printservice\n\nToday\u2019s horoscope: If your scythe goes flaccid, stay away from Vikings.\n\nSpecial thanks to:\n- @3DMusketeers Grant and Amber\n- @hedgehogmakes \n- @theedgeoftech \n- @TheRealSamPrentice \n- Dave Wheeler (event photographer)\n- Brooke Jones\n- Megan Jones\n\nSupport future projects! https://patreon.com/zackfreedman\nJoin my completely normal Discord! https://discord.gg/voidstarlab\n\nThe Grid Reaper saga continues with the first day of epic battle at RMRRF 2026! This Death Racer"
+  },
+  {
+   "id": "crH-0q64vLA",
+   "t": "The Stupid Secret of Successful Projects (why Gridfinity failed to fail)",
+   "d": "2026-06-29",
+   "v": 148713,
+   "s": 2376,
+   "vertical": false,
+   "desc": "How to make make-making makers make makes you've made!\nSponsored by ARK STEM! Share your makes at https://ark-stem.com !\nThanks to the RMRRF staff for sharing their official recording! See the uncut version at https://www.youtube.com/watch?v=YAwNnKx4zsA\n\nSupport future videos and free projects: https://patreon.com/zackfreedman\nChat with me at https://discord.gg/voidstarlab\n\nBillie Ruben's 3D-printing cheat sheet: https://blog.adafruit.com/2020/01/24/a-poster-of-cad-design-tips-for-3dprinting-cad-billierubenmake/\nDon't Make Me Think: https://amzn.to/4v2wrzu (it's about Web sites, but your proje"
+  },
+  {
+   "id": "vBdqbnfvj_A",
+   "t": "These 3D filaments SHOULD NOT EXIST! Every 3D Filament Part 7",
+   "d": "2026-08-13",
+   "v": 339587,
+   "s": 3040,
+   "vertical": false,
+   "desc": "Not cursed - they're WORSE.\nSponsored by the Snapmaker U1! https://snapmaker.sjv.io/9VxK95\n(Don't swap nozzles - swap the whole extruder!)\n\nShow me your filaments: https://discord.gg/voidstarlab\nSupport future videos: https://patreon.com/zackfreedman\n\nTHE FILAMENTS! (some are affiliate links)\nSunlu CMYK PLA: https://amzn.to/3SwrQZ1\nWisdream Moisture Activated Flex: https://amzn.to/4wnL3tS\nCaverna ST hybrid TPE: https://amzn.to/4x7E1KT\nBlendmaker Pro Carbon Color: https://blendmaker.com/collections/pro-carbon-color\nStronghero3D Phantom: https://amzn.to/3TP386B\nTecnikoa Filafly: https://3dprint."
+  },
+  {
+   "id": "LfxmMKMc52Q",
+   "t": "Turn 3D Printing Waste into FREE PROJECTS!",
+   "d": "2026-09-24",
+   "v": 543658,
+   "s": 2134,
+   "vertical": false,
+   "desc": "Boxes for the box throne!!\nSponsored by Ark-Stem - don't consume, create! https://ark-stem.com/about\n\nRecycle empty spools, printer purge poops, filament boxes, and even silica gel packets into some of the most useful 3D printing projects I've ever featured! \n\nThe Models:\n- Cardboard Spool Cable Clip by charlie designs: https://makerworld.com/en/models/1253097-cardboard-spool-cable-clip\n- Extension Cable Reel by charlie designs:\nhttps://makerworld.com/en/models/1201192-extension-cable-reel\n- Prusament Spool Wind Chime by TperroneDesign: https://www.printables.com/model/1708460-prusament-spool-"
+  },
+  {
+   "id": "ct-n2lI0I9g",
+   "t": "30 Hacks and Facts EVERY 3D Printer Should Know!",
+   "d": "2026-11-11",
+   "v": 447834,
+   "s": 2421,
+   "vertical": false,
+   "desc": "Sponsored by the Snapmaker U1 - Get $300 off for Black Friday! https://snapmaker.sjv.io/9VxK95\nCheck their gorgeous CMYW color-printing combo: https://snapmaker.sjv.io/k4qaDv\n\nWhether you're a new user still figuring out how to use their first printer, or a 3D printing expert seeking the trickiest 3D printing hacks, I've got you covered with thirty random tips, tricks, and trivia that will make almost any printer print better!\n\n=== Notable models and items ===\n(Some of these earn affiliate revenue)\nParrot Dragon (full-color demo model) by \u6728\u516c - https://space.snapmaker.com/en/model/46425-model?f"
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+{
+ "channel": {
+  "id": "UC0G7e3uCtTyKQy2vZbRaKxg",
+  "title": "Works By Design",
+  "handle": "@worksbydesign",
+  "description": "Video projects about Design, Engineering, and more. Hope to learn by doing and help others along the way.",
+  "since": "2023-03-16",
+  "avatar": "https://yt3.ggpht.com/lzW3FyG5pSJUU5GTpr5y3uv5fRyNVkIuj4Y7IFa0kUUumGIcugewrEzbEk7FP9lxvyvOaJTR=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "109227820",
+  "subscriberCount": "701000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "39"
+ },
+ "videos": [
+  {
+   "id": "B6pL_o-UMSA",
+   "t": "Found the perfect tool for the job. Can you guess what I\u2019m making?",
+   "d": "2023-03-16",
+   "v": 77372,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lnEPdLi7gM0",
+   "t": "How lightsabers are made.",
+   "d": "2023-03-18",
+   "v": 46050,
+   "s": 32,
+   "vertical": true,
+   "desc": "A quick look at the process of making a lightsaber from start to finish. DIY"
+  },
+  {
+   "id": "4VmQuiWUQCQ",
+   "t": "POV: you are the key  #blender #animation #design #shorts",
+   "d": "2023-04-11",
+   "v": 58138,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "v2DS-Z8nJGI",
+   "t": "Making a pickproof lock to stop honest criminals.",
+   "d": "2023-04-27",
+   "v": 1251194,
+   "s": 741,
+   "vertical": false,
+   "desc": "Designing a mechanism to stop lock pickers in their tracks. Engineering this unpickable lock was a grueling process that tested my patience and had me questioning if it could really be done. Over two months of drawing, CAD-ing, laser cutting, machining, assembly, and testing.\n\nSpecial thanks to Kendric the Locksmith and & Emerald Locksmith in helping with user testing and pick-ability. Also thanks to Omar for helping with the machined parts of the build. \n\nThis project took a ton of work and time to complete, so if you're interested in supporting the development of more of these works you can "
+  },
+  {
+   "id": "XOzaxqW9RoQ",
+   "t": "Making some parts #design #engineering #shorts",
+   "d": "2023-05-19",
+   "v": 58139,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0r0W4yjr_Ms",
+   "t": "Linear motion. #blenderanimation #shorts #design",
+   "d": "2023-05-27",
+   "v": 77648,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "2zlBZWgoFPk",
+   "t": "the best laser is your hands #diy #design #shorts",
+   "d": "2023-06-14",
+   "v": 52644,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xev18rBrNr0",
+   "t": "Building a more efficient bike",
+   "d": "2023-06-25",
+   "v": 2438143,
+   "s": 622,
+   "vertical": false,
+   "desc": "Help support these videos on patreon: https://www.patreon.com/WorksByDesign\n\nChanging the classic bicycle crank pedal design to make them more efficient. Re-engineering a bike power train was something that has been done before but often by overlooking the pedal operation themselves, probably for good reason.\n\nSpecial thanks to my Dad for letting me modify his first mountain bike.\n\nSoftware Used:\nSolidworks\nPhotoshop\nBlender\nDaVinci Resolve\n\nTools and Hardware:\n304 SS\n316 SS\n3D printing from: https://www.xometry.com/\nLaser cutting from: https://sendcutsend.com/\nHardware from: https://www.mcmas"
+  },
+  {
+   "id": "g-OJYgvIkgo",
+   "t": "Making a torquey bike",
+   "d": "2023-06-28",
+   "v": 34301903,
+   "s": 15,
+   "vertical": true,
+   "desc": "check out @worksbydesign for the full video\n#shorts #design #moutainbiking #bike #mechanism #3d #diy #blender #mechanical"
+  },
+  {
+   "id": "e_9pA83w7Ew",
+   "t": "Building a rocket bird #design #engineering #ornithopter #birds",
+   "d": "2023-11-11",
+   "v": 2222229,
+   "s": 15,
+   "vertical": true,
+   "desc": "I built a mechanical bird that runs on pressurized air. Complete with flapping wings and thrusters."
+  },
+  {
+   "id": "angnUj0-yhQ",
+   "t": "Building a rocket bird (ornithopter)",
+   "d": "2023-11-11",
+   "v": 2847638,
+   "s": 1240,
+   "vertical": false,
+   "desc": "Create a FREE Onshape account at: https://Onshape.pro/WorksByDesign\nIf you want to help support these projects:\nhttps://www.patreon.com/WorksByDesign\n\nBuilding a DIY ornithopter that flies like a hummingbird. It took over 4 months to design this mechanical bird, and with no knowledge about drone or rocket design, I was in over my head. One step closer to a real Dune Ornithopter.\n\nProject Files available for download here: \nhttps://www.patreon.com/WorksByDesign/shop\n\nLink to the research paper:\nhttps://gt-uav.hds.utc.fr/dokuwiki/lib/exe/fetch.php?media=fr:journee12102018:gt_uav_apreumont.pdf\n\n0"
+  },
+  {
+   "id": "YhwNRtQ8ZA0",
+   "t": "Ice skates made of ice #iceskating #engineering #diy #design #ice #skating #moldmaking #hockey",
+   "d": "2024-03-11",
+   "v": 60687,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WZyIhKtJM00",
+   "t": "Making ice skates from frozen water.",
+   "d": "2024-03-11",
+   "v": 177424,
+   "s": 1095,
+   "vertical": false,
+   "desc": "Building ice skates that are made of ice. This was a DIY project that took me out of my comfort zone, introducing silicone mold making, and Ice parts that melt. With a design inspired by hockey skates, this project taught me to appreciate the process, even if the results are unexpected.\n\nProfessional CAD Users Can Get up to 6 Month of Onshape Professional free: https://Onshape.pro/WorksbyDesign\n\nIf you would like to help support these projects:\nhttps://www.patreon.com/WorksByDesign\n\nLearn more about the Form 3+ here: https://formlabs.com/3d-printers/form-3/\n\nFor those interested in the Grail s"
+  },
+  {
+   "id": "6JDzriLbe1Q",
+   "t": "Making ice skates from literal ice #hockey #skating #moldmaking #engineering #design",
+   "d": "2024-03-29",
+   "v": 60794,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Wo8lJgrrs30",
+   "t": "A look back at where it all started\u2026more coming soon. #bike #engineering #design #lockpicking #locks",
+   "d": "2024-04-26",
+   "v": 152520,
+   "s": 35,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "rk5Spwae9AU",
+   "t": "A quick recap on how locks work #animation #blender #onshape #lock #mechanism #engineering",
+   "d": "2024-05-01",
+   "v": 108353,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xCg3qNnh59w",
+   "t": "Making another pickproof lock (but better)",
+   "d": "2024-06-14",
+   "v": 8312456,
+   "s": 914,
+   "vertical": false,
+   "desc": "Professional CAD Users Can Get up to 6 Month of Onshape Professional free: https://Onshape.pro/WorksbyDesign\n\nBuilding a custom lock mechanism to stop lock pickers, for real this time. Engineering this pick-proof lock was a challenging process, with CAD work, prototyping, and a unique sheet metal design one year in the making. Hopefully it works this time.\n\nIf you would like to help support these projects:\nhttps://www.patreon.com/WorksByDesign\n\nLearn more about the Form 4 here: https://formlabs.com/3d-printers/form-4/\n\nThanks to SendCutSend.com for providing the parts for this build! https://b"
+  },
+  {
+   "id": "G6Q50ZaVcFE",
+   "t": "Another pickproof lock! #mechanical #custom #engineering #design #challenge #animation",
+   "d": "2024-06-15",
+   "v": 13890463,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6llLVUsbkW4",
+   "t": "The Adaptive Pin Lock! #blender #mechanical #animation #engineering #retro",
+   "d": "2024-06-15",
+   "v": 95070,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "CSOnnle3zbA",
+   "t": "Building a REAL pawn that transforms into a queen (automatically)",
+   "d": "2024-11-02",
+   "v": 6814233,
+   "s": 852,
+   "vertical": false,
+   "desc": "Designing and building a self promoting chess pawn that automatically transforms into a queen. You can even 3D print your own! See link below:\n\nPrint your very own Queen-Pawn: https://www.patreon.com/c/worksbydesign/shop\n\nLearn more about Protolabs: https://www.protolabs.com/?utm_source=protolabs&utm_medium=youtube&utm_campaign=AMER-General-Q4-PL_X_Works_by_Design_Partnership_2024&utm_content=videodescription\n\nLearn more about Onshape: https://Onshape.pro/WorksbyDesign\n\nLink to Pygmallionaire's \"Pween\": https://www.youtube.com/shorts/dVafAOrfR9I\n\nSpecial thanks to:\n\u200b\u2060@Polyfjord for allowing th"
+  },
+  {
+   "id": "hAB3Bvi8mIs",
+   "t": "An automatic, self promoting, 3d printed pawn",
+   "d": "2024-11-03",
+   "v": 5711129,
+   "s": 12,
+   "vertical": true,
+   "desc": "This pawn can automatically transform itself into a queen, using some springs, magnets, and some cool internal mechanisms! Its also designed to be 3D printed on a standard FDM printer! You can print your own by going to: https://www.patreon.com/c/worksbydesign/shop (link is also in my bio)\n\n#3dprinting #chess #design #engineering #transformation"
+  },
+  {
+   "id": "SGfQHKDR8nA",
+   "t": "Automatic Transforming Pawn #chess #3dprinting #engineering",
+   "d": "2024-11-03",
+   "v": 477591,
+   "s": 37,
+   "vertical": true,
+   "desc": "This pawn can automatically transform (self-promote) into a queen, using some springs, magnets, and some internal mechanisms! Its also designed to be 3D printed on a standard FDM printer! You can print your own by going to: https://www.patreon.com/c/worksbydesign/shop (link is also in my bio)\n\n#3dprinting #chess #design #engineering #transformation #mechanical"
+  },
+  {
+   "id": "f-2UZve6q7I",
+   "t": "Chess pawn pieces clicking together #chess #animation #3dprinting #engineering",
+   "d": "2024-11-05",
+   "v": 647688,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TEHw-nO9u90",
+   "t": "mechanical bird #engineering #design",
+   "d": "2025-06-06",
+   "v": 66142,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TkNaZU9zPjk",
+   "t": "Building a pneumatic dragonfly",
+   "d": "2025-06-06",
+   "v": 535122,
+   "s": 926,
+   "vertical": false,
+   "desc": "Making a mechanical ornithopter that runs on compressed air with a twin cylinder engine, a planetary gearbox and 4 wings that flap like a bird (or insect?)\n\nBambu Lab Products: http://shrsl.com/2kzn6-2yn7-1cwx9\n\nEngineers get up to 6 months Onshape Professional for free: https://Onshape.pro/WorksbyDesign\n\nOrnithopter Files available here: https://www.patreon.com/c/WorksByDesign/shop\n\nTom Stanton's Channel: https://www.youtube.com/tomstantonengineering\n\nSoftware Used:\nBambu Studio & Bambu Suite\nOnshape\nPhotoshop\nBlender\nDaVinci Resolve\n\nTools and Materials:\nBambu Lab H2D - http://shrsl.com/2kzn"
+  },
+  {
+   "id": "QG-4JdAJR_U",
+   "t": "How my compressed air engine works #design #engineering #animation #3danimation #mechanical #engine",
+   "d": "2025-06-07",
+   "v": 597066,
+   "s": 17,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G-ZknZSIw0A",
+   "t": "How a CO2 cartridge regulator works #engineering #design #animation",
+   "d": "2025-06-07",
+   "v": 165824,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vywG2lilRew",
+   "t": "How the twin cylinder air motor works in my latest video #3danimation #design #engineering #engine",
+   "d": "2025-06-12",
+   "v": 284614,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5lISr1OjhjQ",
+   "t": "Building pawns that transform into every piece",
+   "d": "2025-10-12",
+   "v": 5927376,
+   "s": 1326,
+   "vertical": false,
+   "desc": "Check out PCBWay at https://pcbway.com/g/9I35F0 for your one-stop \nsolution for prototype services and more. Plus, be one of the first 100 to use the code \u2018PCBWay-WorksByDesign10\u2019 to get $10 off an order over $30\n\nDesigning and building a full set of self promoting chess pawns that automatically transform into every piece on the board. You can even 3D print your own! See link below:\n\nPrint your very own set by becoming a channel member here: https://www.youtube.com/channel/UC0G7e3uCtTyKQy2vZbRaKxg/join\n\nOr get the files on my Patreon shop here:\nhttps://www.patreon.com/posts/chess-2-pawns-14101"
+  },
+  {
+   "id": "Pgxi0TJXxbE",
+   "t": "New chess pawns just dropped #chess #3dprinting #engineering",
+   "d": "2025-10-14",
+   "v": 517875,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GhSyQBxTFdE",
+   "t": "3D printable transforming chess pawns #chess #3dprinting #engineering #art",
+   "d": "2025-10-16",
+   "v": 11584549,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-qUu8kIliy8",
+   "t": "Making the most pickproof lock yet",
+   "d": "2026-04-16",
+   "v": 9069557,
+   "s": 1617,
+   "vertical": false,
+   "desc": "Check out PCBWay! Their CNC services are very impressive and extremely fast for being on the other side of the world (for me): https://pcbway.com/g/9I35F0\nThe first 200 people to use code 'PCBWay- WorksByDesign10\u2019 will get $10 off an order over $30\n\nThe real cardboard aided design, Onshape: https://Onshape.pro/WorksbyDesign\n\nPublic Lock Log viewer:\nhttps://drive.google.com/drive/folders/1qfeMEZWxPqa-6ld8E9sEl9b0Nt7H95pC?usp=sharing\n\n@LockNoob It has arrived! See what happened: https://youtu.be/rMi1dIqMwNw?si=tRy8TlyUcxkHpmLl\n\nInterested In the lock? (just for gathering interest, its not availa"
+  },
+  {
+   "id": "fiMJtazOjsY",
+   "t": "New unpickable lock design",
+   "d": "2026-04-17",
+   "v": 400328,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

@@ -1,0 +1,1188 @@
+{
+ "channel": {
+  "id": "UCCWeRTgd79JL0ilH0ZywSJA",
+  "title": "AlphaPhoenix",
+  "handle": "@alphaphoenixchannel",
+  "description": "I'm Brian Haidet - PhD in Materials Science, but I'd also describe myself as artist, maker, and Hawaiian shirt enthusiast. On this channel, You'll find my side projects and favorite physics demos - I hope you enjoy!\n",
+  "since": "2013-08-06",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_lAubzuua0Ymk5ZM4jL7_z4yhbKVfzHkKiISlbOH7KoA_Q=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "64937682",
+  "subscriberCount": "725000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "130"
+ },
+ "videos": [
+  {
+   "id": "72WDH7B7_I4",
+   "t": "Magnetic Levitator",
+   "d": "2013-08-06",
+   "v": 52794,
+   "s": 758,
+   "vertical": false,
+   "desc": "How a photogate-based magnetic levitator works and how to build one!  I started this project during the spring semester and just got it all working."
+  },
+  {
+   "id": "qLwjTSVAZUo",
+   "t": "Dalek Door",
+   "d": "2014-04-15",
+   "v": 4656,
+   "s": 541,
+   "vertical": false,
+   "desc": "When you come visit my dorm room, beware that the dalek poster on the door isn't just a poster...  \nThis is an entertaining project that makes a door blink back at whoever just knocked on it through the peephole, using exclusively discrete components - no microcontroller necessary!"
+  },
+  {
+   "id": "tuIokrTZdSU",
+   "t": "DIY Fire Tornado (the original no-moving-parts design!)",
+   "d": "2014-05-26",
+   "v": 17340,
+   "s": 792,
+   "vertical": false,
+   "desc": "How to build a fire tornado machine with no moving parts or screens!  It can even be easily constructed with cardboard. Also: why the fire Tornado works, how it makes a vortex and why the flame looks like it's getting taller!\n\nBuild one from Cardboard:\nhttps://youtu.be/uNo2lp12Qxk\n\nCool slow motion footage:\nhttps://youtu.be/6uGrnGSbTSo\n\nOther Links:\nBonfire Tornado: \nhttps://www.youtube.com/watch?v=OL_VUh4gzIk\n\nTabletop model with rotating screen: \nhttps://www.youtube.com/watch?v=3tZF6-i8aDc\n\nMuseum demo with guided draft similar to mine (and maybe also a fan?): \nhttps://www.youtube.com/watch?"
+  },
+  {
+   "id": "uNo2lp12Qxk",
+   "t": "Build a Fire Tornado from cardboard in 30 minutes!",
+   "d": "2014-07-06",
+   "v": 2768,
+   "s": 1028,
+   "vertical": false,
+   "desc": "See how to build a fire tornado machine with no moving parts, just cardboard, tape, and aluminum foil.  This video is a single-take build of this design in less than a half hour!"
+  },
+  {
+   "id": "okww7StsUVw",
+   "t": "Physics of Hiking",
+   "d": "2014-10-15",
+   "v": 5004,
+   "s": 394,
+   "vertical": false,
+   "desc": "Two physics majors go hiking and notice that there's physics everywhere!"
+  },
+  {
+   "id": "q8iYxSs6N-w",
+   "t": "The $5 PVC DIY Sled",
+   "d": "2015-03-14",
+   "v": 51849,
+   "s": 931,
+   "vertical": false,
+   "desc": "On a snow day at NCSU, I built a sled out of PVC I had laying around for another project.  Ended up with a better sled than you could buy for the cost of the materials and had a lot more fun building it!"
+  },
+  {
+   "id": "hMvlkYDV1ho",
+   "t": "Thermite vs. Printer",
+   "d": "2015-06-29",
+   "v": 2436,
+   "s": 141,
+   "vertical": false,
+   "desc": "Everybody hates printers! Watch one get satisfyingly decimated by a pound of thermite!"
+  },
+  {
+   "id": "zaMg15CZXug",
+   "t": "Doggie Doorbell",
+   "d": "2016-01-22",
+   "v": 3023,
+   "s": 251,
+   "vertical": false,
+   "desc": "A foot-pedal buzzer for our dog Bailey. It sends a signal to a receiver inside so we know when she wants to come in.\n(It's her remote control for us humans)"
+  },
+  {
+   "id": "dTjmuii5boA",
+   "t": "Random Box Preview",
+   "d": "2016-01-22",
+   "v": 2419,
+   "s": 113,
+   "vertical": false,
+   "desc": "I'm working on a random number generator based on background radiation (True quantum-random numbers). This is the circuit working for the first time. Radiation is passing through a Geiger-Muller tube, stopping a counter and displaying the result on a Nixie Tube."
+  },
+  {
+   "id": "5PZuWLUlaog",
+   "t": "Doggie Doorbell (circuit)",
+   "d": "2016-01-22",
+   "v": 1557,
+   "s": 593,
+   "vertical": false,
+   "desc": "Description of the circuit inside of our dog Bailey's doorbell (her remote control for us humans)"
+  },
+  {
+   "id": "NdfV43-KgZo",
+   "t": "Flying Coupled Syma Quadcopters",
+   "d": "2016-03-25",
+   "v": 2584,
+   "s": 760,
+   "vertical": false,
+   "desc": "I attempt, in vain, to lift a GoPro with two Syma X5C Quadcopters, but learn a lot about how two independent flight controllers in the same frame fight against each other!"
+  },
+  {
+   "id": "BDjCAeIF1Og",
+   "t": "NC FRC District Championship 2016 (Rough-Cut Timelapses)",
+   "d": "2016-04-17",
+   "v": 1372,
+   "s": 72,
+   "vertical": false,
+   "desc": "Not a polished movie, but some raw timelapses from a couple weeks ago at the NC District Championship for FRC. I recorded a ridiculous amount of video for this FRC season that I will be editing into movies and publishing, here, Team 435's page, or maybe NC First's page, if they have a page and want anything, so subscribe for updates!\n\nI will also have multiple timelapse movies coming out soon, and a video about building this timelapse sliding rig!"
+  },
+  {
+   "id": "XGtfVq-F0jg",
+   "t": "Molecular Dynamics and Crystals",
+   "d": "2016-04-24",
+   "v": 2408,
+   "s": 587,
+   "vertical": false,
+   "desc": "A MD simulation of 256 ions with equal radii slowly accreting into a CsCl lattice. If I can figure out how to leverage my gpu on these simulations, I want to make a video with 2048 particles...\n\nVideo contains:\nI dunno by grapes (c) 2008 Licensed under a Creative Commons Attribution (3.0) license. \nCars Race by reusenoise (c) 2016 Licensed under a Creative Commons Attribution Noncommercial  (3.0) license."
+  },
+  {
+   "id": "g-NvVfr45kE",
+   "t": "Thermite vs. Steel",
+   "d": "2016-05-12",
+   "v": 2259,
+   "s": 118,
+   "vertical": false,
+   "desc": "1 lb of thermite burns through six sheets of steel, making a whole bunch of 1' square plates for art projects!\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "TWSOLuy3GpI",
+   "t": "Behind the Scenes - House of Wolves",
+   "d": "2016-05-12",
+   "v": 727,
+   "s": 472,
+   "vertical": false,
+   "desc": "How I made the House of Wolves video - Timelapse techniques, software, cameras, and complaints...\n\nIf you are watching these in the wrong order, here's House of Wolves:\nhttp://www.youtube.com/watch?v=U8BN0GbtGYw\n\n\nIn this video:\n\nHouse Of Cards (Main Title Theme)\nJeff Beal\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626\n\nZero Gravity\nWJLP\nCreative Commons: Attribution, Non-commercial\nhttp://soundcloud.com/william-j-lepetomane/wjlp-zero-gravity"
+  },
+  {
+   "id": "U8BN0GbtGYw",
+   "t": "House Of Wolves",
+   "d": "2016-05-12",
+   "v": 3390,
+   "s": 132,
+   "vertical": false,
+   "desc": "NC State's campus is awesome in spring! Here's a timelapse compilation in the theme of House of Cards!\n\nI built a panning timelapse rig in order to record video at a FIRST Robotics Competition event, but when I got back to Raleigh, I wanted to do more! Over my last three weeks on campus (until 3:00 a.m. the morning of graduation) I took roughly 40 timelapses in and around NC State. Most of those (33 of them) made it into this final cut, compiled in the style of (and to the music of) House of Cards.\n\nEnjoy!\n\nHouse of Cards Intro:\n\nhttp://www.youtube.com/watch?v=JqchaXXunGA\n\n\nIn this video:\n\nHou"
+  },
+  {
+   "id": "KkVMbAWKsbQ",
+   "t": "Thermite Art",
+   "d": "2016-05-15",
+   "v": 3126,
+   "s": 532,
+   "vertical": false,
+   "desc": "Using physics and chemistry to make art! Thermite is typically known as a destructive substance, but I much prefer harnessing it for creative purposes!"
+  },
+  {
+   "id": "47X8VFlnJas",
+   "t": "Custom Timelapse Camera Slide",
+   "d": "2016-05-18",
+   "v": 2619,
+   "s": 631,
+   "vertical": false,
+   "desc": "How I built my timelapse camera slide. I focus on important design elements of camera slides and show examples from this setup. The track is made from lasercut plywood and the camera slides on a dolly using 8mm roller skate bearings.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626\n\n\nMission Bucharest\nPharaos\nCreative Commons Attribution, Non-Commercial\nhttp://freemusicarchive.org/music/Pharaos/The_New_Pharaos/01_Mission_Bucharest_vbrmp3_1121"
+  },
+  {
+   "id": "6uGrnGSbTSo",
+   "t": "Ribbons of Fire (Fire tornado in slow motion)",
+   "d": "2016-05-19",
+   "v": 4270,
+   "s": 236,
+   "vertical": false,
+   "desc": "I'm really pleased with how these clips turned out - fire in slow motion is really quite beautiful.\n\nHere's some slow motion (240fps) shots of my no-moving-parts fire tornado machine, cut to suitably epic music. I wish I had a camera that could slow it down even more/at an even higher resolution, but that's a bit out of my price range... I used an iPhone 6S camera, then enhanced the footage sharpness/color/etc. in PowerDirector 14.\n\nI really love this design because the walls are clear polycarbonate - there's no obstructing mesh.  It's also a lot safer than the mesh designs because nothing nee"
+  },
+  {
+   "id": "fU7PUTO0EUo",
+   "t": "Examining The Thermite Reaction Front",
+   "d": "2016-06-07",
+   "v": 8111,
+   "s": 831,
+   "vertical": false,
+   "desc": "I experiment with thermite to determine the rate of reaction. Thermite powder is burned in a pyrex tube and filmed from the side, so the reaction front can be seen moving through the powder. I was amazed at how slow the reaction progressed - It's extremely dependent on the container. Based on the results I observed, I would expect the fastest achievable reaction would be loosely-packed powder in a large and low-aspect-ratio thermally insulating vessel like a flowerpot.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "g4YkJXWQ92I",
+   "t": "Thermite Art (#2)",
+   "d": "2016-06-07",
+   "v": 2618,
+   "s": 425,
+   "vertical": false,
+   "desc": "I describe the coolest thing hanging on my wall, a large installation of thermite-burned steel including four 1' square sheets held up by an awful lot of plywood.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "6Scni4y7Ys8",
+   "t": "Useless Machine (pt. 2: How it works)",
+   "d": "2016-06-24",
+   "v": 3397,
+   "s": 716,
+   "vertical": false,
+   "desc": "The physical design and circuitry behind my microcontroller-free useless machine.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "Zd_DHMEkwUA",
+   "t": "3D Printed, Lasercut, 555-based Useless Machine",
+   "d": "2016-06-24",
+   "v": 7284,
+   "s": 493,
+   "vertical": false,
+   "desc": "My Useless Machine is Hitchiker's Guide themed, Made of lasercut and 3D printed parts, and it contains no microcontroller. Instead, it used three 555 timers to add some variance to the machine's behavior. It a hilarious toy, and wonderfully surprising for people who have never seen it before.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "it1gvTxYi0s",
+   "t": "Electroshock Catan (pt. 2: How it Works)",
+   "d": "2016-07-05",
+   "v": 3678,
+   "s": 737,
+   "vertical": false,
+   "desc": "This is the detail video for my Electroshock Catan project. The Catan board that shocks people taking slow turns!\nI give detail about the board construction, the control circuit, and the math behind the timing/calculation of \"excessively long turns\".\n\nI do not give information about the high voltage supply because you should NOT try this at home!\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "RGm3B0_0HeM",
+   "t": "Settlers of Catan: Electroshock Therapy Expansion",
+   "d": "2016-07-05",
+   "v": 13533,
+   "s": 328,
+   "vertical": false,
+   "desc": "This Settlers of Catan board shocks you when you take a slow turn! Gently encourage those you are playing with to play efficiently with the threat of electricity!\nThis is a hilarious project that actually works as intended - I've played four games with it now and it very effectively speeds up gameplay. I made the Electroshock tile to add on to my existing custom Catan board that I lasercut and painted a couple ears ago.\n\n\nMusic in this video:\n\nHarlequin Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\n\nFanfa"
+  },
+  {
+   "id": "9Gl989nb1Jc",
+   "t": "The Wilhelm Scream (robot)",
+   "d": "2016-07-26",
+   "v": 16418,
+   "s": 584,
+   "vertical": false,
+   "desc": "This is my incarnation of Wilhelm - and he does nothing but scream when he falls. This robot has an accelerometer it uses to detect when it's falling, and a re-recordable audio chip to yell when he hits the ground.\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626\n\n\nMission Bucharest\nPharaos\nCreative Commons Attribution, Non-Commercial\nhttp://freemusicarchive.org/music/Pharaos/The_New_Pharaos/01_Mission_Bucharest_vbrmp3_1121\n\nWilhelm Scream compilations used:\nhttps://www.youtube.com/watch?v=4YDpuA90KEY\nhttps://www.youtube.com/watch?v=Zf8aBFTVN"
+  },
+  {
+   "id": "akmFVxh1ZPQ",
+   "t": "RainPi - Calculating Pi with Raindrops! (Part 2: How it Works)",
+   "d": "2016-08-23",
+   "v": 12471,
+   "s": 816,
+   "vertical": false,
+   "desc": "Calculating Pi with the Monte Carlo Method is a common introductory programming exercise, but I wanted to get away from computer-generated \"random\" numbers and used falling raindrops! The apparatus can only complete one calculation - it calculates pi with the shape of its raindrop-detecting sensors.\n\nThis Pt. 2 video explains the Monte Carlo Method, the physical construction of the rain sensor, and the program running on the Arduino to count drops.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "I-BC_vI4CAE",
+   "t": "RainPi - Calculate Pi with Raindrops!",
+   "d": "2016-08-23",
+   "v": 32713,
+   "s": 222,
+   "vertical": false,
+   "desc": "Calculating Pi with the Monte Carlo Method is a common introductory programming exercise, but I wanted to get away from computer-generated \"random\" numbers and used falling raindrops! The apparatus can only complete one calculation - it calculates pi with the shape of its raindrop-detecting sensors.\n\npt. 2:\nhttps://youtu.be/akmFVxh1ZPQ\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "ZNFNdvU0mDc",
+   "t": "Cannon Parabolas",
+   "d": "2016-09-20",
+   "v": 9489,
+   "s": 305,
+   "vertical": false,
+   "desc": "I've made a few potato cannons over the years, and in this video I fire my favorite ammunition, VHS tape. The light, high-surface-area profile of the magnetic tape allows it to hang in the air for a long time, displaying the trail of the projectile you launched. It's really cool! In this case, the trail formed is the parabola of a \"normal\" flying object in Earth's gravity.\n\n\nMusic in this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "ZRfsOnV8hXE",
+   "t": "Photographing Iridium Flares",
+   "d": "2016-10-09",
+   "v": 3939,
+   "s": 348,
+   "vertical": false,
+   "desc": "Iridium flares are man-made night sky phenomena where sunlight is reflected off of a satellite in orbit, creating a momentary (but extremely bright!) light in the sky. You can take long-exposure photographs of these satellites passing overhead and see the streak they leave on the sky!\n\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "bxRAOJrDCDc",
+   "t": "AlphaPhoenix Channel",
+   "d": "2016-11-08",
+   "v": 5715,
+   "s": 140,
+   "vertical": false,
+   "desc": "Welcome to my channel! Here at AlphaPhoenix, you'll see cool maker projects and awesome physics demos. Check out this montage and remember to subscribe!"
+  },
+  {
+   "id": "JBizFlGmLPM",
+   "t": "The Polaris-Lapse part 3: The Photography",
+   "d": "2016-11-12",
+   "v": 4352,
+   "s": 879,
+   "vertical": false,
+   "desc": "I made this star-stabilized looping timelapse centered on Polaris. In this video, I explain the challenges of filming a 24-hour timelapse, and give my solutions to many of these problems for future timelapse-recorders.\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "BBU4mQP1Y3Y",
+   "t": "The Polaris-Lapse part 2: The Astronomy",
+   "d": "2016-11-12",
+   "v": 5635,
+   "s": 464,
+   "vertical": false,
+   "desc": "I made this star-stabilized looping timelapse centered on Polaris, but it looks pretty funny to have the ground spinning around the image. In this video, I give an explanation in terms of the motion of the Earth, and how you define your day.\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "NpI4WQCTe8U",
+   "t": "The 24-hr \"Polaris-Lapse\"",
+   "d": "2016-11-12",
+   "v": 12969,
+   "s": 143,
+   "vertical": false,
+   "desc": "It's an interesting perspective to realize that the Earth is spinning, and the sky that seems so active is actually still. This timelapse shows one full day with the camera pointed at Polaris, the North Star, and the frame has been stabilized so that the stars stand still and the earth moves around it. I have another video that fully explains this effect: https://www.youtube.com/watch?v=BBU4mQP1Y3Y&t=1s\n\n\nIn this video:\n\nI dunno\ngrapes\nCreative Commons: Attribution\nhttp://ccmixter.org/files/grapes/16626\n\nI Found an Answer by Twin Musicom is licensed under a Creative Commons Attribution license"
+  },
+  {
+   "id": "SYcKaBzr87g",
+   "t": "Star-Stabilization: The Infinite Polaris Timelapse (4k)",
+   "d": "2017-01-04",
+   "v": 46491,
+   "s": 137,
+   "vertical": false,
+   "desc": "The stars in the sky appear to move in arcs overhead, but it's actually the Earth that is spinning. They look like they're doing loops around Polaris, the north star, because it lies on the axis of Earth's rotation. If you point a camera at Polaris and spin it at the same rate as the sky turns (in the opposite direction), you can halt the rotation of the stars!\n\nMy first semi-sucessful attempt at this timelapse was taken through my window in Santa Barbara, where the sky (and the glass) are none too clear. Over break, I had the chance to visit a real middle-of nowhere dark sky site with power a"
+  },
+  {
+   "id": "btQFD3_TLAE",
+   "t": "The Infinite Polaris Timelapse - Spinning (4k)",
+   "d": "2017-01-04",
+   "v": 4181,
+   "s": 129,
+   "vertical": false,
+   "desc": "The stars in the sky appear to move in arcs overhead, but it's actually the Earth that is spinning. They look like they're doing loops around Polaris, the north star, because it lies on the axis of Earth's rotation. If you point a camera at Polaris and spin it at the same rate as the sky turns (in the opposite direction), you can halt the rotation of the stars!\n\nMy first semi-sucessful attempt at this timelapse was taken through my window in Santa Barbara, where the sky (and the glass) are none too clear. Over break, I had the chance to visit a real middle-of nowhere dark sky site with power a"
+  },
+  {
+   "id": "LTfSu60TnMY",
+   "t": "The Infinite Polaris Timelapse - Static (4k)",
+   "d": "2017-01-04",
+   "v": 25569,
+   "s": 129,
+   "vertical": false,
+   "desc": "UPDATED TIMELAPSE TUTORIAL: https://youtu.be/1YorUDE0f9g\n\nThe stars in the sky appear to move in arcs overhead, but it's actually the Earth that is spinning. They look like they're doing loops around Polaris, the north star, because it lies on the axis of Earth's rotation. If you point a camera at Polaris and spin it at the same rate as the sky turns (in the opposite direction), you can halt the rotation of the stars!\n\nMy first semi-sucessful attempt at this timelapse was taken through my window in Santa Barbara, where the sky (and the glass) are none too clear. Over break, I had the chance to"
+  },
+  {
+   "id": "-kdsEkqRBYY",
+   "t": "DIY 3D printed steampunk safety glasses",
+   "d": "2017-02-22",
+   "v": 8459,
+   "s": 774,
+   "vertical": false,
+   "desc": "I made a set of steampunk glasses to wear to the FIRST Robotics Competition 2017 game FIRST Steamworks! This is an 18-part print (plus one piece of metal wire) that assembles into a frame to snap-fit over the top of standard polycarbonate safety glasses. This video shows my printing, painting, assembly, and finishing process. \n\nPart files can be found on Thingverse:\nhttps://www.thingiverse.com/thing:2124736\n\n\n\nMusic in this video:\n\nI dunno by grapes, is licensed under a Creative Commons: Attribution License (https://creativecommons.org/licenses/by/4.0/)\nSource: http://ccmixter.org/files/grapes"
+  },
+  {
+   "id": "__esCNRIFFI",
+   "t": "2^10 Subscriber Play Button - 3D printed PLA",
+   "d": "2017-02-23",
+   "v": 4137,
+   "s": 393,
+   "vertical": false,
+   "desc": "Thanks to all my subscribers! \n\nStarting with a 3D printed PLA play button, I'll be making a play button out of a new material every time my subscriber count doubles. Leave a comment to suggest materials for 2048!\n\nMusic in this video:\n\nI dunno by grapes, is licensed under a Creative Commons: Attribution License (https://creativecommons.org/licenses/by/4.0/)\nSource: http://ccmixter.org/files/grapes/16626\n\nAcid Jazz by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: https://freemusicarchive.org/music/Kevin_MacLeod/Jaz"
+  },
+  {
+   "id": "vg3a0I0duMI",
+   "t": "Star-tracking camera mount: Why it works and how to build one",
+   "d": "2017-05-14",
+   "v": 118488,
+   "s": 522,
+   "vertical": false,
+   "desc": "In this video, I explain (using a bunch of timelapses) why \"polar tracker\" or \"star tracker\" camera mounts allow you to take long exposures of the sky without streaking. I also show off my polar tracking rig, which is my most recent piece of homebuilt photography equiment. It uses a door hinge and a curved lead screw to slowly rotate the camera (approximately 0.25 degrees per minute) and eliminate streaking in astrophotogrphy images.\n\nBased on the design by Gary Seronik:\nhttp://garyseronik.com/build-a-hinge-tracker-for-astrophotography/\n\nMy parts:\nMotor: https://www.amazon.com/gp/product/B00B1"
+  },
+  {
+   "id": "3PpORrycZG8",
+   "t": "Rick and Morty Butter Bot machined from metal",
+   "d": "2017-07-13",
+   "v": 63069,
+   "s": 904,
+   "vertical": false,
+   "desc": "Here's my version of the iconic character from Rick and Morty, the butter delivery robot! He's made from aluminum, brass, and stainless steel, and is proportioned to match the butter bot of the cartoon. (which actually mean's he's really short!)\n\nThis video shows the entire design and build process, from a screen grab of the cartoon  to the finished metal robot himself, and all of the CAD, machining, cutting, grinding, turning, and 3D printing in between. Hope you enjoy!\n\nLet me know what I did wrong in the comments! I'm pretty new to most of the metalworking techniques shown and I'd love some"
+  },
+  {
+   "id": "MByi1te9L8U",
+   "t": "Metal Butter Bot IRL (Stop Motion)",
+   "d": "2017-07-19",
+   "v": 200056,
+   "s": 201,
+   "vertical": false,
+   "desc": "The big reveal of my Butter Bot, in my take on the original scene from Rick and Morty. \n\nThe butter bot is a hand-machined (with a bit of CNC) aluminum armature that I animated over the course of a day to make this clip. I've covered the build process and the stop motion work in two other videos posted below.\n\nPhotoshoot: http://imgur.com/a/ViXLG\n\nOther videos from this project:\nBehind The Scenes: https://youtu.be/3khmncHSvXs\nBuild a Butter Bot: https://youtu.be/3PpORrycZG8\n\n\n\nMusic and stuff:\n\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons."
+  },
+  {
+   "id": "3khmncHSvXs",
+   "t": "Butter Bot IRL - Behind the Scenes",
+   "d": "2017-07-19",
+   "v": 2394,
+   "s": 509,
+   "vertical": false,
+   "desc": "Behind the Scenes of the Butter Bot Stop Motion short. In this video, I show all the techniques I used to create the Butter Bot video: a hand-controlled camera dolly, stop motion animation, compositing stop motion and live action, and foley effects. \n\nOther videos from this project:\nButter Bot IRL (stop motion): https://youtu.be/MByi1te9L8U\nBuild a Butter Bot: https://youtu.be/3PpORrycZG8\n\n\nMusic and stuff:\n\nClips from \"Rick and Morty\" s1e09 from Adult Swim\n\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/)\nhttp://ccmixter"
+  },
+  {
+   "id": "WimDiqq5Iqk",
+   "t": "Asteroid Hunting at Grande Pines Observatory (3122 Florence)",
+   "d": "2017-10-01",
+   "v": 26495,
+   "s": 556,
+   "vertical": false,
+   "desc": "3122 Florence is a Near Earth Object (NEO) being tracked by the Minor Planets Center. It's a 2.5 mile wide chunk of rock , not expected to hit Earth anytime soon, but it's certainly nearby! My dad participates in the MPC's citizen science program, and took a video of 3122 Florence as it flew past Earth a few weeks ago. It passed within about 4.9 million miles, or about 20x the Earth-moon distance. It was moving so fast across the sky you could literally watch it move over the course of a few minutes. The timelapse shown at the end of this video takes place over less than 15 minutes. It's prett"
+  },
+  {
+   "id": "j1llWnhX1-c",
+   "t": "Inside Grande Pines Observatory: Top-of-the-line amateur astronomy",
+   "d": "2017-10-01",
+   "v": 143020,
+   "s": 590,
+   "vertical": false,
+   "desc": "A look inside Grande Pines Observatory! This observatory has featured in multiple timelapses, appearing in my channel trailer, the Barn Door tracker video, and the Polaris Timelapse video, but I've never actually done a video about the observatory and all of the awesome equipment inside, so here it is! Grande Pines Observatory is operated by my dad (the astronomer). He is also the presenter in this video. I got to have fun shooting somebody else's project this time! Hope you enjoy!\n\nThe gallery of images at the end of the video were taken in this observatory, some with the old 10\" f/4.0 Newton"
+  },
+  {
+   "id": "gu7XFMQP8kw",
+   "t": "DIY Lasercut Christmas Tree",
+   "d": "2017-12-01",
+   "v": 1950,
+   "s": 460,
+   "vertical": false,
+   "desc": "This is a lasercut christmas tree model. The entire project is made from cheap 0.200\" plywood you can buy at a hardware store (no extra dowels or anything) so it's really easy to cut out and assemble! Hope you enjoy!\n\nPart files:\n- .dxf, .pdf, and .ai\n- https://www.thingiverse.com/thing:2682743\n\nMaterials:\n- 0.200\" plywood (I used cheap underlayment)\n- Glue (wood glue or superglue)\n- Spray polyurethane\n- Scratch remover/stain or permanent marker\n\nTools:\n- laser cutter (preferably at least 40W)\n- files/sandpaper\n\n\n\nMusic in this video:\n\nI dunno by grapes, is licensed under a Creative Commons: A"
+  },
+  {
+   "id": "WrfNfsOEAdg",
+   "t": "Supermoon Tides: a 24 hour timelapse (4k)",
+   "d": "2017-12-10",
+   "v": 9564,
+   "s": 230,
+   "vertical": false,
+   "desc": "I had been wanting to take a 24-hr timelapse of the tides for over a year now, ever since I began playing with the 24 hour technique last last summer. I had recently obtained the necessary battery gear and fisheye lens, and on December 2-3, 2017, I had the (almost) perfect conditions to take this timelapse. There were more clouds at night than I would have liked, but on the other hand, there was a supermoon falling across a weekend (early Sunday morning, technically). Not only were they some of the largest tides of the year, but I didn't have to be at work, so I could stand outside on Campus P"
+  },
+  {
+   "id": "RswhLz9TuPE",
+   "t": "24-hr Timelapse: Full Moon at the Winter Solstice (VR Cut)",
+   "d": "2018-01-21",
+   "v": 2356,
+   "s": 210,
+   "vertical": false,
+   "desc": "I recently got an Oculus Rift and realized that if I was taking 185\u00b0 fisheye timelapses, I could reprocess them into spherical videos for VR viewing! (granted most of the ground is missing). Considering it's my first attempt at such a technique, I'm really happy with how it all turned out! The first time I put a test cut into the rift the other day I was pretty amazed. Hope you enjoy!\n\nEven starting with a 4k*2k image, the resolution is limited because the Rift's HMD is limited, but it still feels like you're standing there and time went nuts, which I think is pretty cool. The lens flare does "
+  },
+  {
+   "id": "4c1VRMUBh_4",
+   "t": "24-hr Timelapse: Full Moon at the Winter Solstice",
+   "d": "2018-01-21",
+   "v": 4687,
+   "s": 156,
+   "vertical": false,
+   "desc": "24-hr Timelapse: Full Moon at the Winter Solstice\n\nAnother looping 24-hr timelapse, and my first timelapse to ever include the WHOLE sky in the frame! I took this lapse in North Carolina (hence the pines) on the night of the full moon just after the winter solstice (the new moon was cloudy). You can see that the sun is REALLY low in the sky in the winter; it barely clears the trees. \n\nI also made this timelapse into a spherical \"360\" video for VR viewing: https://youtu.be/RswhLz9TuPE\n\n\nEQUIPMENT\nCamera: Sony a6000\nLens: Lensbaby Circular Fisheye (185\u00b0 FOV, set to f/5.8)\nCamera Power Supply: Ca"
+  },
+  {
+   "id": "YMO9uUsjXaI",
+   "t": "Measuring the speed of light the old fashioned way: Replicating the Fizeau Apparatus",
+   "d": "2018-05-26",
+   "v": 330721,
+   "s": 1303,
+   "vertical": false,
+   "desc": "In 1849, the first terrestrial measurement of the seed of light was made by Hippolyte Fizeau using a bright focused lamp, a spinning slotted wheel, and a reflector a few kilometers away. This famous experiment is one that I've spent the better part of the last year thinking about and very slowly replicating! Using a 5mW green-dot laser sight, a \"slotted disk\" laser-cut from black posterboard, a speed-controlled dremel, a digital camera, and a full spool of retroreflective tape, I succeeded in measuring and calculating the speed of light! In this video I introduce and explain the theory behind "
+  },
+  {
+   "id": "oGAZMNLjsQI",
+   "t": "$20 DIY Surfboard Bike Trailer",
+   "d": "2018-09-25",
+   "v": 58150,
+   "s": 714,
+   "vertical": false,
+   "desc": "I wanted an easier way to carry my surfboard two miles to the beach, so I built a trailer that tows behind my bike. This video shows the construction of the \u201cmk.2\u201d trailer with a few improvements on my original, like a better hitch, and super-easy board mounting/removal! The cart is fabricated from \u00bd\u201d PVC pipe and 1/8\u201d steel bar stock and is a good weekend\u2019s build.\n\nI built my trailer at the Santa Barbara Hackerspace \u2013 If you live nearby, come check out the \u2018space on any Saturday!\n\nParts list:\n3x10\u2019 \u00bd\u201d Schedule 40 PVC\n3\u2019 bar 1/8\u201dx3/4\u201d steel bar\n2x6\u2019 \u00bd\u201d foam pipe insulation\n10 ish 1-1/4\u201d drywal"
+  },
+  {
+   "id": "0q76GMg6dDg",
+   "t": "2^11 Subscriber Play Button: CNC-Routed Poplar",
+   "d": "2018-11-30",
+   "v": 4646,
+   "s": 489,
+   "vertical": false,
+   "desc": "Thanks to all my subscribers! \n\nContinuing the every-exponent play button build, for 2048 subscribers (albeit publishing more than a bit late) I make a play button out of wood, carved on a CNC router. I'll be making a play button out of a new material every time my subscriber count doubles. Leave a comment to suggest materials for 4096!\n\nMusic Credits:\n\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/)\nhttp://ccmixter.org/files/grapes/16626\n\nStay with You by Silent Partner is licensed under a Creative Commons license\n\nMoun"
+  },
+  {
+   "id": "VGAkMqM5fnI",
+   "t": "Staring at the sky for 24 hours (4k/Virtual Reality timelapse)",
+   "d": "2018-12-02",
+   "v": 5124,
+   "s": 144,
+   "vertical": false,
+   "desc": "Here's the \"VR-cut\" of my spherical 24-hour timelapse. I processed all of my image data from one upward-facing frame and one downward-facing frame to produce each frame of this complete spherical video. Feel free to pan around this video outside Grande Pines Observatory, or throw on a VR headset and travel there yourself!\n\n\nOther videos in this series:\nStar-stabilizing the sky: https://youtu.be/JmCNNHQ86NE\nTiny planet (APOD Featured!): https://youtu.be/14TrSQQsrNM\nThe \"up\" view: https://youtu.be/gfSRGHrsYKU\nVirtual reality timelapse: https://youtu.be/VGAkMqM5fnI\n\nGIFs in this series:\nTiny Plan"
+  },
+  {
+   "id": "gfSRGHrsYKU",
+   "t": "Staring at the sky for 24 hours (4k timelapse)",
+   "d": "2018-12-02",
+   "v": 8113,
+   "s": 145,
+   "vertical": false,
+   "desc": "I like to think of this as the whole sky always being \"there\", but if we look straight \"up\", we're always pointed towards a different part of same sky. This video is a timelapse taken over 24 hours with a fisheye lens to capture literally the entire sky in a single frame. I think it's pretty incredible how the sky acts like an ever-changing window on our universe.\n\nI shot this timelapse over the course of about a week. (the camera was pretty tired and I went through a bunch of 64BG SD cards...) I ended up finally capturing one good 24-hour span with the camera pointed up, and one good 24-hour "
+  },
+  {
+   "id": "JmCNNHQ86NE",
+   "t": "Star-Stabilizing the Entire Sky (spherical distortion)",
+   "d": "2018-12-02",
+   "v": 75931,
+   "s": 250,
+   "vertical": false,
+   "desc": "I like to think of this as the whole sky always being \"there\", but the Earth blocks about half of it ALL THE TIME! Alternately, if we look straight \"up\", we're always pointed towards a different part of same sky. I made these reprocessed spherical timelapses to hopefully communicate these perspectives. I think it's pretty incredible how the sky acts like an ever-changing window on our universe.\n\nI shot this timelapse over the course of about a week. (the camera was pretty tired and I went through a bunch of 64BG SD cards...) I ended up finally capturing one good 24-hour span with the camera po"
+  },
+  {
+   "id": "14TrSQQsrNM",
+   "t": "A Tiny Planet in the Cosmos: APOD 20181208",
+   "d": "2018-12-08",
+   "v": 64321,
+   "s": 173,
+   "vertical": false,
+   "desc": "This video featured as an Astronomy Picture of the Day!\nhttps://apod.nasa.gov/apod/ap181208.html\n\nOfficial Explanation:\nYou can pack a lot of sky watching into 30 seconds on this tiny planet. Of course, the full spherical image timelapse video was recorded on planet Earth, from Grande Pines Observatory outside Pinehurst, North Carolina. It was shot in early September with a single camera and circular fisheye lens, digitally combining one 24-hour period with camera and lens pointed up with one taken with camera and lens pointed down. The resulting image data is processed and projected onto a fl"
+  },
+  {
+   "id": "6DlRsPo-dxY",
+   "t": "Crystals: raw footage - 3D simulation of crystallization (Molecular Dynamics)",
+   "d": "2018-12-14",
+   "v": 8825,
+   "s": 1217,
+   "vertical": false,
+   "desc": "For those who are more curious, this video is the complete (20 minute long) simulation of the 3D crystalization demo. (like I expect anybody to watch it front to back...)\n\nThe simulation is based off of the \"Energy Verlet\" molecular dynamics method. I wrote it in Matlab to run on a 1060 6GB GPU. By the time all the particles are in the simulation, the program makes multiple trips to the graphics card for every timestep or else runs out of graphics memory. massively parallel computation requires a LOT of memory, apparently... There is no sub-binning of the simulation. Every pair of particles ha"
+  },
+  {
+   "id": "aO-u6fJDwIs",
+   "t": "Crystals: raw footage - the water-bath-magnet demo",
+   "d": "2018-12-14",
+   "v": 5073,
+   "s": 319,
+   "vertical": false,
+   "desc": "For those who are more curious, this video is some raw timelapse footage of the water-bath-magnet demo. This demo shows formation of 2D crystals, sometimes more effectively than others. The first time I tried to make the hexagonal crystal, for example, I had way too many disks in the pool. Because they were running into the walls, they didn't have enough freedom get to their ideal arrangement, and the perfect \"crystal\" never formed. It's interesting where this model is similar to and very different from \"real life\" crystallization.\nI'd love to try this out in massive scale, like a 10'x10' shal"
+  },
+  {
+   "id": "06TscuHNvGQ",
+   "t": "Crystals: Building patterns with randomness",
+   "d": "2018-12-14",
+   "v": 195716,
+   "s": 1007,
+   "vertical": false,
+   "desc": "Crystals are materials that have all their atoms assembled in a precise, repeating pattern, and crystalline materials are everywhere. In this video, I've got real crystals, take pictures of actual atoms, and build two demonstrations (one physical and one virtual) that show how crystals actually form.\n\nExtra thanks to the Earth Science microscopy facility, CNSI, and Dr. Mukherjee at UCSB for props, lab access and a better TEM image than my original!\n\nThis Video Series:\nCrystals (The main video): https://youtu.be/06TscuHNvGQ\nThe entire CsCl crystal simulation, growing a crystalline \"nanoparticle"
+  },
+  {
+   "id": "1YorUDE0f9g",
+   "t": "Overnight timelapse on a deserted island: full equipment stack",
+   "d": "2019-04-19",
+   "v": 120949,
+   "s": 1276,
+   "vertical": false,
+   "desc": "Ever wish you could extract one day of nature from the world and play that frame on a loop? I do! and I've been trying to figure out the best way to take full-day loopable timelapses for a few years now. \n\nAs good weather aligned with a pre-planned hiking trip, I had the awesome opportunity to film a timelapse from Santa Cruz Islands, in Channel Islands National Park off the coast of southern California. Other than the ranger station on the island, I don't think there was a permanent human structure within 20 miles of my camera, and Ventura was behind me to the north, so the southern sky was D"
+  },
+  {
+   "id": "OMnyR9VXcbs",
+   "t": "Lights of LA from Santa Cruz Island: a 24-Hour Timelapse",
+   "d": "2019-04-19",
+   "v": 5625,
+   "s": 145,
+   "vertical": false,
+   "desc": "As good weather aligned with a pre-planned hiking trip, I had the awesome opportunity to film a timelapse from Santa Cruz Islands, in Channel Islands National Park off the coast of southern California. Other than the ranger station on the island, I don't think there was a permanent human structure within 20 miles of my camera, and Ventura was behind me to the north, so the southern sky was DARK, and the night sky was awesome! The camera ran for a total of 25 hours and 52 minutes, and I spliced the footage back on itself to create this looping day-long timelapse.\n\nI didn't realize at the time, "
+  },
+  {
+   "id": "ueei3U_wpl4",
+   "t": "Starlink satellite train seen over southern California (May 25, 2019, 21:20)",
+   "d": "2019-05-26",
+   "v": 8815,
+   "s": 39,
+   "vertical": false,
+   "desc": "Footage of the just-launched Starlink constellation from Santa Barbara. You may want to play it in 4k resolution even on a 1080 or smaller monitor to decrease the size of the compression artifacts. This footage was pretty noisy originally and YouTube's compression seems to have done a number on it again. The gfycat link might even be better...\nhttps://gfycat.com/LinedDishonestLabradorretriever\n\nI saw the awesome video from Marco Langbroek (https://sattrackcam.blogspot.com/2019/05/wowowow-spectacular-view-of-spacex.html) yesterday and wanted to try my hand at catching a wide-field view of the s"
+  },
+  {
+   "id": "yYBQHFCqw_A",
+   "t": "How to Boil Water With Water (pt. 2: experiment setup)",
+   "d": "2019-07-23",
+   "v": 5819,
+   "s": 351,
+   "vertical": false,
+   "desc": "For anybody who wants to try the \"boil water with water\" experiment for themselves, you're in the right place! This video gives a quick overview of the setup and explains how you set up the experiment to boil water with no applied heat or vacuum pump.\n\nThe original video: https://youtu.be/hHNoHhbfFDQ\n\nMusic:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/)\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "hHNoHhbfFDQ",
+   "t": "Boil Water at Room Temperature with 50 ft. of Hose and a Stairway",
+   "d": "2019-07-23",
+   "v": 412335,
+   "s": 752,
+   "vertical": false,
+   "desc": "This was a fun quick experiment that makes a great physics demo about pressures and state-changes of matter. Everybody's seen water boil on a stove, but at the University of Toledo's Saturday Physics days when I was little, I once saw water boil in a vacuum chamber, and for some reason that stuck with me. A few weeks ago I got the idea to try to boil water at low pressure, not with a real mechanical vacuum pump, but by using a massive column of water as a sort of by-default vacuum generator. I used no heat and no motorized pump, but I boiled water at room temperature using only $25 of hardware"
+  },
+  {
+   "id": "b-pLRX3L-fg",
+   "t": "Overcomplicating GOLF by simulating every possible shot",
+   "d": "2019-08-17",
+   "v": 500399,
+   "s": 840,
+   "vertical": false,
+   "desc": "Extra note: I'm starting a Facebook page for AlphaPhoenix with video updates and info about projects I'm working on! https://www.facebook.com/AlphaPhoenixChannel\n\nIn this video I take a trip to Thistle Dhu, the famous putting course at Pinehurst and write a matlab program to simulate a million putts at once, all in an effort to map \"Phase Spaces\" of golf. There's a common scientific mindset normally referred to as a phase space or parameter space, where you express everything that could happen in an experiment in terms of the variables you can control. In the case of putting a golf ball, the b"
+  },
+  {
+   "id": "CRUPBfhWV3o",
+   "t": "Making the World's Smallest Play Button (2^12 subscriber special)",
+   "d": "2019-09-04",
+   "v": 152557,
+   "s": 671,
+   "vertical": false,
+   "desc": "For this project I got the chance to show off one of my favorite tools from work, the Focused Ion Beam! In this video, I use the FIB to 3d print and etch away material at the nanoscale, making a youtube play button that's only 1 hundredth of a millimeter across. It's made of an amorphous mix of platinum and carbon, and it's so small you need an electron microscope to see it properly. Enjoy!\n\nAlso: Thanks to all my subscribers!\n\nAlso also: Leave comments for new fabrication techniques for the 2^13 button!\n\nAlso also also: I started a Facebook page for AlphaPhoenix! Follow the page and share wit"
+  },
+  {
+   "id": "gwIGnATzBTg",
+   "t": "The muon-powered, universe-bifurcating, random number machine",
+   "d": "2020-01-07",
+   "v": 484950,
+   "s": 897,
+   "vertical": false,
+   "desc": "https://www.facebook.com/AlphaPhoenixChannel\nhttps://twitter.com/Alpha__Phoenix\n\nThis video has been 4 years in the making\u2026 In undergrad I started work on a random number generator that used a geiger tube to generate random pulses and a nixie as the primary display (here's the ancient \"it almost works\" video: https://youtu.be/dTjmuii5boA). Unfortunately, I couldn't prove it was actually working back then because I couldn't make the geiger tick faster with the test alpha source I had (alpha particles get blocked super-easily). I rebuilt the thing this past summer, and FINALLY got to making the "
+  },
+  {
+   "id": "YqL7bl3I5IE",
+   "t": "The UNKILLABLE Snake AI (Entire 30x30 game)",
+   "d": "2020-02-17",
+   "v": 80749,
+   "s": 1960,
+   "vertical": false,
+   "desc": "If you're anything like me, you'll love zoning out watching a computer play a very basic computer game for hours on end. Here's a half-hour game - the median from my best algorithm - played back at 30 fps.\n\nCODE!\nhttps://github.com/BrianHaidet/AlphaPhoenix/tree/master/Snake_AI_(2020a)_DHCR_with_strategy\n\nHere's my original Snake AI video that explains how it all works:\nhttps://youtu.be/TOpBcfbAgPg\n\nCheck out the other social media for updates and ramblings:\nhttps://www.facebook.com/AlphaPhoenixChannel/\nhttps://twitter.com/Alpha__Phoenix\n\n#Snake #AI #Math\n\nMusic in this video:\nI Dunno by grapes"
+  },
+  {
+   "id": "TOpBcfbAgPg",
+   "t": "How to Win Snake: The UNKILLABLE Snake AI",
+   "d": "2020-02-17",
+   "v": 2252790,
+   "s": 1025,
+   "vertical": false,
+   "desc": "I watched the CodeBullet Snake AI video on the morning after Thanksgiving and spent WAAAAYY too much time working on an AI of my own. I present to you: Snake, as played algorithmically with Dynamic Hamiltonian Cycle Repair. The snake can never die - like really, actually, literally, can't be killed - it's just a matter of how fast it wins the game\u2026\n\nIf you, like me, enjoy watching snakes run around eating apples for hours on end, enjoy this follow-up where I took the median-length game from my best performing algorithm and posted the whole darn thing on YouTube:\nhttps://youtu.be/YqL7bl3I5IE\n\nC"
+  },
+  {
+   "id": "VD69crOFx10",
+   "t": "Air-tight vs. Vacuum-tight",
+   "d": "2020-03-14",
+   "v": 1753196,
+   "s": 715,
+   "vertical": false,
+   "desc": "When I'm not making YouTube videos, I'm growing crystals in a Molecular Beam Epitaxy vacuum chamber held about 12 orders of magnitude below atmospheric pressure. This is the first in what I'm hoping will be a series of videos featuring the MBE chamber, and this time I'm talking about leaks: how to find the tiniest leaks in the most sensitive systems, and how an MBE can be considered basically a perfect pressure vessel with no air leaking in or out at any time. Let me know in the comments if you have any questions about the MBE I could address in future videos!\n\nCheck out the other social media"
+  },
+  {
+   "id": "bnqQyeqGIBE",
+   "t": "How to evaporate a metal",
+   "d": "2020-05-09",
+   "v": 247083,
+   "s": 698,
+   "vertical": false,
+   "desc": "CORRECTIONS:\n[none yet]\n\nWelcome to Episode Two of my series about molecular beam epitaxy! In this video, I'm talking about the best way to shoot a beam of atoms at something\u2026 As much as that sounds like a crazy scifi weapon, it's actually a great technique for delivering material to a growing crystalline thin film. All materials, even solids, have a vapor pressure and are slowly evaporating. When you put a chunk of material in a vacuum chamber and get it hot, it can evaporate so fast the vapor can be directed towards a target! Let me know in the comments if you have any questions about the MB"
+  },
+  {
+   "id": "exRgzJaB3D4",
+   "t": "Why does smoke from a soldering iron ALWAYS go towards your face???",
+   "d": "2020-05-28",
+   "v": 362898,
+   "s": 685,
+   "vertical": false,
+   "desc": "Today I've finally answered a question that's bothered me for a long time - if you've ever used a soldering iron, it FEELS like the smoke is ALWAYS blowing directly towards your face, but for years I wrote it off as confirmation bias. It's not. There's a real physical reason the smoke is funneled annoyingly towards your eyeballs, and in this video, aided by a plane laser and a smoke machine, I figure it out!\n\nCORRECTIONS:\n1: Safety! Turns out mineral oil smoke CAN be toxic and produce Lipoid Pneumonia, thanks to Cheetah Spottycat below for pointing this out. I chose it initially because the in"
+  },
+  {
+   "id": "aWpeN3cU17Q",
+   "t": "SpaceX's Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!",
+   "d": "2020-07-06",
+   "v": 39710,
+   "s": 839,
+   "vertical": false,
+   "desc": "If you follow as much space news as I do, you've probably heard of Starlink, the low-earth-orbit satellite-internet megaconstellation of 12,000-40,000 satellites that theoretically will be able to provide global high speed, low-latency internet. At the cost\u2026 possibly\u2026 of filling the night sky with fake stars - little moving spots of light tracing out grids overhead ALL THE TIME. Elon Musk and  SpaceX have gotten significant pushback from astronomers regarding this problem, but at this point, it's unrealistic to think the launches will stop, and we need to be thinking of ways to mitigate the ef"
+  },
+  {
+   "id": "sn1Y6zIS91g",
+   "t": "Why are metals so stretchy? (2^13 sub special)",
+   "d": "2020-08-18",
+   "v": 965170,
+   "s": 830,
+   "vertical": false,
+   "desc": "It's play button time, and today it's made from copper foil - a surprisingly stretchable material. You wouldn't think that crystalline materials like metals could deform without destroying the atomic pattern that gives them their strength and electronic properties, but with the help of a crystal defect called a dislocation, it's super easy. Dislocations are agents of plastic deformation, traveling through crystals and enabling malleability and ductility in soft metals like copper, making them great raw materials! I hope you enjoy this dive into the materials science of plastic strain, and if t"
+  },
+  {
+   "id": "UeZVD94oC6Y",
+   "t": "Some REAL science for the channel! Growing semiconducting PbSe crystals (MROP 2020 talk)",
+   "d": "2020-10-29",
+   "v": 31983,
+   "s": 1920,
+   "vertical": false,
+   "desc": "I've posted a few videos about awesome equipment I get to use in the lab (and plan to post many more because big fancy machines are awesome) but I haven't actually explained any of my research on the channel! Well that ends today, with a real honest-to-goodness conference talk I gave this January. In our lab, we grow \"rocksalt\" PbSe crystals (with a structure that looks like a 3D checkerboard) on top of \"zincblende\" InAs crystals (with a structure that looks like a bunch of methanes stuck together). \n\nSo bust out your memory of high school chemistry and learn how bonding, charges, and crystall"
+  },
+  {
+   "id": "hpzutKRSukw",
+   "t": "The Sound of Freezing: BONUS RAW FOOTAGE",
+   "d": "2020-11-09",
+   "v": 9684,
+   "s": 191,
+   "vertical": false,
+   "desc": "For the last few months I've been experimenting with ways to grow ice crystals, and while there's a lot to come on that front (Subscribe for the rest!), welcome to Episode 1: The Sound of Freezing! \n\nThis video is just a compilation of dendritic growth's greatest hits (at least everything I recorded, minus all the waiting for it to freeze part!) All of the clips I used in the main video in their full form (and a pitch-shifted version of the final clip so you can hear it!) Enjoy!\n\nCORRECTIONS:\n[none yet!]\n\n\nOther videos in this series:\n\nThe Sound of Freezing, Explained!\nhttps://youtu.be/Wd_c0A8"
+  },
+  {
+   "id": "Wd_c0A8u3lw",
+   "t": "The Sound of Freezing: Explained!",
+   "d": "2020-11-09",
+   "v": 176874,
+   "s": 994,
+   "vertical": false,
+   "desc": "For the last few months I've been experimenting with ways to grow ice crystals, and while there's a lot to come on that front (Subscribe for the rest!), welcome to Episode 1: The Sound of Freezing! The vacuum-evaporation setup I used to freeze water in this video was one of the first I tried, and it wasn't until recently I realized that I had inadvertently recorded the SOUND of freezing water - I didn't think it was possible (and I thought freezing water wouldn't make a sound). In this video I explain dendritic growth of crystals, freezing water ice from supercooled liquid, and propose a sourc"
+  },
+  {
+   "id": "4wg07uxOpto",
+   "t": "How to go Faster than \u201cMach 1\u201d on a Surfboard",
+   "d": "2020-11-22",
+   "v": 88619,
+   "s": 892,
+   "vertical": false,
+   "desc": "I'm an avid surfer, and have been wanting to make a video about the physics of surfing for a long time! There's an art to catching a big wave without crashing, and in this video I explain the physical principles that enable all of it! A surfer harvests energy from a wave, effectively by positioning themselves on a moving ramp with very little friction - or really sort of directional friction, as I'll explain in the video. Once standing on a wave, you can play a lot of games with the angle of the board to change direction and accelerate, sometimes actually going faster across the water than the"
+  },
+  {
+   "id": "AAJTHsjYoPA",
+   "t": "How does PLANETARY RADAR actually work?",
+   "d": "2020-12-03",
+   "v": 55641,
+   "s": 842,
+   "vertical": false,
+   "desc": "Arecibo was condemned a couple weeks ago, and collapsed a couple days ago as a result of a minor earthquake and well-overdue maintenance. Unfortunately, this deprives the world of its largest Radar Telescope, and radar telescopes are awesome! I've had a really hard time in the past finding good descriptions of how radar astronomy actually works - how do you take a picture of something so far away that the beam diverges by the time it gets there, and diverges even more by the time it gets back!? The answer is math and approximation. Asteroid \"images\" are actually not any sort of photograph, but"
+  },
+  {
+   "id": "BOdWyncMDYw",
+   "t": "3D Printing a Spritz Cookie Press! (Christmas Special)",
+   "d": "2020-12-22",
+   "v": 27151,
+   "s": 484,
+   "vertical": false,
+   "desc": "As the holiday season draws near (or almost misses me this year with how fast everything's moving) I took the time to make a batch of AlphaPhoenix-branded Christmas cookies!\n\n#Baking #3Dprinting #Christmas\n\nMusic in this video:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/)\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "g7ONBuVtz-w",
+   "t": "What is polycrystalline water?",
+   "d": "2021-01-03",
+   "v": 261729,
+   "s": 756,
+   "vertical": false,
+   "desc": "Episode 2 of my series on water ice! Admittedly this is probably the least interesting because it's some negative results, but it's not very scientific to only discuss successes right? In this video, I use a lens to melt ice from the inside out, exposing it's polycrystalline structure (and explain how it's different from a single crystal). With this partially-melted ice, I can do a bit of materials forensics, and actually figure out how it formed, hopefully so I can improve the process in the future!\n\nNext video will be on vapor growth, and I'll say right now that it DOES work to grow centimet"
+  },
+  {
+   "id": "o7dljhMgkPo",
+   "t": "Freezing water sounds like a special effect #shorts",
+   "d": "2021-02-09",
+   "v": 139427,
+   "s": 58,
+   "vertical": true,
+   "desc": "For the last few months I've been experimenting with ways to grow ice crystals, and while there's a lot to come on that front (Subscribe for the rest!), welcome to Episode 1: The Sound of Freezing! (SHORT version =D )\n\nThis video is just a compilation of dendritic growth's greatest hits (at least everything I recorded, minus all the waiting for it to freeze part!) All of the clips I used in the main video in their full form (and a pitch-shifted version of the final clip so you can hear it!) Enjoy!\n\n\nOther videos in this series:\n\nThe Sound of Freezing, Explained!\nhttps://youtu.be/Wd_c0A8u3lw\nTh"
+  },
+  {
+   "id": "L0SYxpVab6M",
+   "t": "A DIY Recipe for Giant Hexagonal Ice Crystals",
+   "d": "2021-02-12",
+   "v": 523049,
+   "s": 850,
+   "vertical": false,
+   "desc": "Episode 3 of my series on water ice! In this video I walk through my process for vapor-growing single crystals of ice. Starting with a small single-crystal substrate, a large crystal can be grown by depositing vapor. I use a vacuum chamber to evaporate/sublimate water at about -20 celcius, then a peltier cooler to deposit that water vapor back into a solid. The awesome thing is how crystallographic the samples look - lots beautiful hexagonal facets!\n\nExtra special thanks to Steve Mould for a fantastic explanation of the thermoelectric effect:\nhttps://youtu.be/O6waiEeXDGo\n\nOther videos in this "
+  },
+  {
+   "id": "MqIvuWsd5OI",
+   "t": "Growing Giant Snowflakes (Timelapse Supercut)",
+   "d": "2021-02-19",
+   "v": 21029,
+   "s": 232,
+   "vertical": false,
+   "desc": "Bonus footage from episode 3 of my ice crystal growth project - lots of timelapses!\n\nOther videos in this series:\n\nThe Sound of Freezing, Explained!\nhttps://youtu.be/Wd_c0A8u3lw\nThe Sound of Freezing (Bonus Footage)\nhttps://youtu.be/hpzutKRSukw\nWhat is polycrystalline water?\nhttps://youtu.be/g7ONBuVtz-w\nA DIY Recipe for Giant Hexagonal Ice Crystals\nhttps://youtu.be/L0SYxpVab6M\nBig Hexagons of Ice 2: Thermoelectric Boogaloo\nhttps://youtu.be/VA710QYxEu0\nGrowing Giant Snowflakes (Timelapse Supercut)\nhttps://youtu.be/MqIvuWsd5OI\n\n\n\nCheck out the other social media for updates and ramblings:\nhttps:"
+  },
+  {
+   "id": "VA710QYxEu0",
+   "t": "Big Hexagons of Ice 2: Thermoelectric Boogaloo",
+   "d": "2021-02-19",
+   "v": 84760,
+   "s": 802,
+   "vertical": false,
+   "desc": "A DIY Recipe for Giant Hexagonal Ice Crystals\n\n\nEpisode 3-and-a-half (the final episode) of my series on water ice! In this video I discuss the vapor grown ice crystals with a bit more science, and a lot more timelapses! It's amazing what you can learn aout a physical process when you can photograph it continuously for weeks\u2026\n\nOther videos in this series:\n\nThe Sound of Freezing, Explained!\nhttps://youtu.be/Wd_c0A8u3lw\nThe Sound of Freezing (Bonus Footage)\nhttps://youtu.be/hpzutKRSukw\nWhat is polycrystalline water?\nhttps://youtu.be/g7ONBuVtz-w\nA DIY Recipe for Giant Hexagonal Ice Crystals\nhttps"
+  },
+  {
+   "id": "iGW54Rr87Rg",
+   "t": "Impressions: Every exploit to \u201cbreak the algorithm\u201d targets this baffling metric",
+   "d": "2021-02-19",
+   "v": 134087,
+   "s": 448,
+   "vertical": false,
+   "desc": "Welcome to my first meta-video! Today we will be taking a break from physical science (It'l be back tomorrow) and entering the realm of computer science, with a YouTube video about impressions and the recommendation algorithm that has a self-referential updating thumbnail that tells you how many people have seen the thumbnail! \nI also introduce the \"CTR-Watch-Time Product\" as a metric for video success, effectively the additional time YouTube expects to retain a viewer by showing them a thumbnail. It's an interesting metric when youtube is behaving normally, and for videos of similar length.\nA"
+  },
+  {
+   "id": "1P6MBt534v8",
+   "t": "I went to a Delta IV Heavy Launch!",
+   "d": "2021-04-27",
+   "v": 15605,
+   "s": 213,
+   "vertical": false,
+   "desc": "Took a break from Dissertation-y things today to visit Vandenberg and watch a Delta IV Heavy take off! The Delta IV Heavy is an enormously powerful rocket and it's pretty awesome to watch one in person. I took my new tripod rig and got some great footage despite the awful ground-level wind. \n\n#ULA #RocketLaunch #Space\n\nMusic in this video:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/)\nhttp://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "ewQQX3fxQKk",
+   "t": "Ditch the DSLR? The 200-year-old science of my new favorite camera (2^14 sub special!)",
+   "d": "2021-05-20",
+   "v": 284441,
+   "s": 1113,
+   "vertical": false,
+   "desc": "For my 2^14 subscriber play button, I decided to make a blueprint (cyanotype print) using Ware's \"New Cyanotype\" chemistry, some printed out transparencies, and ultraviolet light from the sun! But that wasn't quite enough - I wanted to go beyond prints and build a CAMERA - a giant analog camera. Instead of a physical mask that blocks light, a camera uses a lens to focus light onto a piece of chemically sensitized film or paper to form an image. In my case, a very large image on a very large piece of paper\u2026 My camera exposes on 11x15\" sheets of watercolor paper, and takes about a day to take a "
+  },
+  {
+   "id": "Lq-Y7crQo44",
+   "t": "Algorithmic Redistricting: Elections made-to-order",
+   "d": "2021-06-28",
+   "v": 584430,
+   "s": 1608,
+   "vertical": false,
+   "desc": "If you're a long-time viewer, you'll know that I *really* like random numbers. Today, I'm USING random numbers to generate some distinctly nonrandom maps. I first heard of Monte Carlo simulations in  undergraduate computational physics, and have long thought about using it to draw maps with optimized districts. (see \"Ising model\" for a very similar physics simulation).\n\nI wrote a program to draw maps of Gerrymandered (or not) congressional districts in the state of North Carolina. I'm not getting into the methods and politics, I just think gerrymandering is a fascinating problem to solve, and "
+  },
+  {
+   "id": "SCuUQOTehqw",
+   "t": "How does a \"first surface\" mirror work? (2^15 sub special!)",
+   "d": "2021-11-12",
+   "v": 2543728,
+   "s": 1024,
+   "vertical": false,
+   "desc": "After a bit of a hiatus, AlphaPhoenix is live again! In this video I print some parts, coat them in resin, and chemically silver that resin surface, making a first-surface mirror akin to telescope optics but MUCH less precise. (also I use said silvering process to make a play button with actual silver!) Hope you enjoy the classic story of scientific failure and iteration, and maybe learn something about mirrors while you're here!\n\nIf anybody is curious to try this themselves, this is very much not a sponsored video, but I was using Smooth-On's XTC-3D as my smoothing agent and Angel Guilding's "
+  },
+  {
+   "id": "QzI6GFzH7ZA",
+   "t": "How to predict random numbers",
+   "d": "2021-11-26",
+   "v": 153216,
+   "s": 1042,
+   "vertical": false,
+   "desc": "So it's been almost 2 years since I said the random-number-machine follow-up video was coming \"soon\", and it's finally time! (Combined with a fun bit of math regarding perfect shuffles in reply to a fascinating Matt Parker video)\n\nIf you take a histogram of the wait times between geiger tube ticks, you get a beautiful exponential decay curve - most gaps between ticks are extremely fast, and it's rare to go a long time without a tick. You can use this property of random numbers to show that ticks coming from a tube are indeed randomly distributed.\n\nConveniently, runs of interleaved cards in shu"
+  },
+  {
+   "id": "2Vrhk5OjBP8",
+   "t": "I bought 1000 meters of wire to settle a physics debate",
+   "d": "2021-12-17",
+   "v": 3702534,
+   "s": 1369,
+   "vertical": false,
+   "desc": "I constructed the Veritasium electricity thought experiment in real life to test the result.\n\nIf you were watching my community posts a month ago, the day that Derek over on Veritasium posted his video about electricity misconceptions, you saw me obsess over that problem a bit too much and immediately use it as the excuse I've been looking for for years to own my own oscilloscope. Instead of two light-seconds of wire, I used about 3 light-microseconds of wire, but it was PLENTY to resolve exactly what is happening in this circuit. I hope you enjoy the analysis!\n\nThanks to Derek at Veritasium f"
+  },
+  {
+   "id": "DqhXsEgLMJ0",
+   "t": "Are solid objects really \u201csolid\u201d?",
+   "d": "2022-01-28",
+   "v": 6547856,
+   "s": 1289,
+   "vertical": false,
+   "desc": "If you think about idealized physics scenarios, \"frictionless vacuum\" or \"ignore air resistance\" may come to mind, but  another even more ubiquitous mechanical approximation is the so-called \"rigid body approximation\" where solid objects are said to be perfect geometric shapes that don't deform at all when force is applied. For a LOT of classical mechanics and mechanical engineering, it's a fantastic approximation, but like all approximations, eventually it breaks down. Today I'm demonstrating a failure of the rigid body approximation by asking \"When you apply a force to one edge of an object "
+  },
+  {
+   "id": "lBOB9SSdDfU",
+   "t": "Introducing the Magneto-Turboencabulator",
+   "d": "2022-04-01",
+   "v": 176424,
+   "s": 328,
+   "vertical": false,
+   "desc": "I built a Turboencabulator! Inspiration from Bud Haggert, who I first saw explain this fantastic machine while I was on a robotics team in high school https://www.youtube.com/watch?v=Ac7G7xOG2Ag\n\nMusic in this video:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/) http://ccmixter.org/files/grapes/16626\nArcadia - Wonders by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100326 Arti"
+  },
+  {
+   "id": "yXhzfPT29es",
+   "t": "A Lunar Eclipse filmed with two cameras #Shorts",
+   "d": "2022-06-11",
+   "v": 45814,
+   "s": 60,
+   "vertical": true,
+   "desc": "Lots of detail in a second video, but I've spent the last few weeks since the eclipse trying to process my timelapse into the most realistic view I could. In reality when you look up at a half-eclipsed moon, you can totally see that part of it already looks red, but if you just take a picture with one camera, the dynamic range is nowhere near where it would need to be to actually see what your eye does - so I fudged it - using two cameras and combining both clips in post. Hope you enjoy!\n\nFull video:\nhttps://www.youtube.com/watch?v=6R-iMmcQ5aI"
+  },
+  {
+   "id": "6R-iMmcQ5aI",
+   "t": "Eye vs Camera: Why it's nearly impossible to film an eclipse",
+   "d": "2022-06-12",
+   "v": 94247,
+   "s": 1190,
+   "vertical": false,
+   "desc": "Hey everyone! it's been nearly a month since the eclipse and I'm FINALLY ready to publish my timelapse - you'll see why it took so long in this video... I set up two cameras and did an extremely crude high dynamic range stack that is able to resolve some detail on the sunlit moon, and some detail on the shadowed moon, simultaneously. I wish I'd taken 6 pictures at once, and that they were easy to align, so that I could have a full lograithmic-ish HDR picture, but for now, this is my best eclipse timelapse yet. I hope you like it!\n\nShort version:\nhttps://youtube.com/shorts/yXhzfPT29es\n\nMusic in"
+  },
+  {
+   "id": "sgmzoshAopU",
+   "t": "The most realistic eclipse timelapse I've ever taken - Spring 2022 Lunar Eclipse HDR stack",
+   "d": "2022-06-18",
+   "v": 34727,
+   "s": 68,
+   "vertical": false,
+   "desc": "A real lunar eclipse is DARK - the red moon is super faint, and it doesn't illuminate the clouds around it the way the regular sunlit moon does. Using two cameras, a tracker, and a bit of math. I created a video that's hopefully closer to what the human eye sees than what any single auto-exposing camera would be able to manage.\n\nThere's a lot more info about the process in the full video: https://youtu.be/6R-iMmcQ5aI\n\nMusic in this video:\nThe Empty Moons of Jupiter by DivKid\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+   "id": "eYVNZgnQ8gE",
+   "t": "50,000,000x Magnification",
+   "d": "2022-06-27",
+   "v": 6249348,
+   "s": 1420,
+   "vertical": false,
+   "desc": "Today's video is about my favorite microscope ever. I did a lot of work in gradschool on this STEM, or Scanning Transmission Electron Microscope, and today I get to share how it works! Extra thanks to the Materials Department at UCSB for letting me film in the lab!\n\nAdmittedly it's old footage, but since it's REAL research, I was waiting for the paper to get published. If anybody's super-curious, here's the doi:\nhttps://pubs.acs.org/doi/10.1021/acs.cgd.2c00188\n(unfortunately it's not indexed on SciHub yet - I'm trying to figure out how to get the manuscript posted elsewhere for you guys - chec"
+  },
+  {
+   "id": "qiMR6yAFfyA",
+   "t": "Five years in 49 minutes",
+   "d": "2022-07-07",
+   "v": 387541,
+   "s": 3275,
+   "vertical": false,
+   "desc": "I've had piles and piles of questions about the research that I did in gradschool, so here it is! Be careful what you wish for... About a year ago I defended my dissertation from UCSB in Materials, exploring, among other things, growth of a semiconductor called lead selenide, a narrow-gap material with a bright (ba-dum-tss) future in the realm of infrared optoelectronics. I hope you enjoy!\n\nFor more information than you could ever reasonably desire:\nhttps://escholarship.org/content/qt9mj491xk/qt9mj491xk.pdf\nViewers of the channel are probably going to be most interested in all the fun machines"
+  },
+  {
+   "id": "rQIg5XeIgQ0",
+   "t": "Why does WATER change the speed of electricity?",
+   "d": "2022-09-06",
+   "v": 889808,
+   "s": 1466,
+   "vertical": false,
+   "desc": "The electrons are back! This is the first of three videos discussing electricity - what is it, how does it work, how do we use it? This first installment talks about the speed of electricity and electrical signals in wires. Next up is Ohm's law, and what resistance really does in circuits, and third, I'll be taking another look at the experiment featured on Veritasium last year, building on the first two videos to explore the mechanism that couples the two long wires with a little more scrutiny. Enjoy!\n\n\nBe sure to check out the subreddit:\nhttps://www.reddit.com/r/TryTryAgain/\n\n\nMusic in this "
+  },
+  {
+   "id": "3c6-BqT9AwM",
+   "t": "A laser powered by tiny molecular springs (2^16)",
+   "d": "2023-03-25",
+   "v": 437545,
+   "s": 1660,
+   "vertical": false,
+   "desc": "Do you ever wonder how lasers work? What makes them different from other sources of light? The answer \"stimulated emission\" is frequently given, but even more important is achieving \"population inversion\". In this video I try to explain both, starting from ground level (no pun intended). Specifically, I describe the functionality of my cnc CO2 laser cutter.\n\nI also show off a woodblock printing I made using that laser cutter, replicating the graphics from the opening of The Legend of Zelda the Wind Waker. Using watercolor paper, tea, acrylic paint, and water-soluble printing ink, I recreate th"
+  },
+  {
+   "id": "1IVhtoFYMVo",
+   "t": "IP over AC: Mmmmmm Ppppfffftttt SssshhhhhhhWOOOSH",
+   "d": "2023-04-01",
+   "v": 86818,
+   "s": 409,
+   "vertical": false,
+   "desc": "I needed better home internet, so I used a plastic bag and a long string.\n\nPlease DON'T try this at home. It works here, but there are a lot of ways you can screw up your house doing this.\n\nBe sure to check out the subreddit: https://www.reddit.com/r/TryTryAgain/\n\nMusic in this video:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/3.0/) http://ccmixter.org/files/grapes/16626"
+  },
+  {
+   "id": "C3gnNpYK3lo",
+   "t": "How does electricity find the \"Path of Least Resistance\"?",
+   "d": "2023-04-17",
+   "v": 1764571,
+   "s": 1365,
+   "vertical": false,
+   "desc": "Ever wonder how electrons know where they are going? Electricity is a pretty mystifying topic, because electricity seems to be able to do impossible things, or at least things that don't make sense at a normal \"human\" scale. In this video I use a thermal camera to show electric current through a maze made of aluminum foil. The electric current very efficiently solves the maze, which is awesome, and heats up the \"solution\" so we can see it!\nTo explain this effect, I printed out the same maze but made of plastic trenches and not metal foil. By running water through this plastic maze, we can lear"
+  },
+  {
+   "id": "fyD1yv-6sTc",
+   "t": "Two ways to make asymmetric mirrors (Printing vs. Warping)",
+   "d": "2023-05-26",
+   "v": 132999,
+   "s": 930,
+   "vertical": false,
+   "desc": "The long-awaited sequel (lol) to my first 3D printed mirrors video, where I take your advice and switch to UV-cure resin, get great results, but not good enough results, and then cheat by silvering a chunk of regular acrylic sheet! This video is a collab with (and the idea of a saddlepoint mirror was from) Steve Mould, so check out his video about this very saddlepoint mirror after you watch this!\n\nSteve's video:\nhttps://youtu.be/sP0cwLuEwsw\n\nMy last video about 3D printed mirrors:\nhttps://youtu.be/SCuUQOTehqw\n\nA completely different method for obtaining 3D printed mirrors via electroplating t"
+  },
+  {
+   "id": "X_crwFuPht4",
+   "t": "An intuitive approach for understanding electricity",
+   "d": "2023-09-08",
+   "v": 2299870,
+   "s": 2368,
+   "vertical": false,
+   "desc": "In this video, I try to explain electricity Ohm's Law\u2026 using a LOT of different demonstrations and analogies. I've been working on this script for like a year and a half now - this took SO long to assemble because electricity is an absolute pain to learn and to explain. I crammed every analogy to describe electricity I could think of into this video (which is why it's... oof... 40 minutes... who's going to watch this?).\n\nWhen I learn something hard, it's normally after I've seen it a few times before, so with a tough topic in this video, I'm trying to scatter-shot and hope that at least one de"
+  },
+  {
+   "id": "2AXv49dDQJw",
+   "t": "Watch electricity hit a fork in the road at half a billion frames per second",
+   "d": "2023-12-06",
+   "v": 2999686,
+   "s": 1589,
+   "vertical": false,
+   "desc": "In this video, I measure a wave of electricity traveling down a wire, and answer the question - how does electricity know where to go? How does \"electricity\" \"decide\" where electrons should be moving in wires, and how long does that process take? Spoiler alert - very fast!\n\nI've been very excited about this project for a while - it was a lot of work to figure out a reliable way to make these measurements, but I've learned SO much by actually watching waves travel down wires, and I hope you do too!\n\nThere will be a Q&A about this video posted in a few weeks on the second channel, and if you hea"
+  },
+  {
+   "id": "qm5AHAb0SmY",
+   "t": "I made a machine to un-mix fluids",
+   "d": "2024-04-04",
+   "v": 246267,
+   "s": 1346,
+   "vertical": false,
+   "desc": "Visit https://brilliant.org/alphaphoenix/ to start your free 30-day trial, and get 20% off a premium annual subscription!\n\nThis project has been kicking around in my head for years and I finally got around to building it! (Freshly inspired to make ordering/stochastic art after someone sent me a video of Ivan Miranda's awesome marble clock.) This machine separates ink from water with a reverse osmosis membrane, then mixes the ink and water back together again. It sounds circular and useless, and it is, but it's also really cool! in this first video, I focus mostly on the fluid dynamics and comp"
+  },
+  {
+   "id": "VCXqELB3UPg",
+   "t": "You can mix 10 marbles until they sort themselves. Why not 100?",
+   "d": "2024-05-05",
+   "v": 799228,
+   "s": 1695,
+   "vertical": false,
+   "desc": "This is a sequel to my last \"ink tube\" video, but this time I explain the title of the project, \"the entropy of mixing\". Entropy is a super weird topic, so I hope this makes sense, and I hope you enjoy!\n\n\n\nSpecial thanks to my top Patreon supporters!\nbirdiesnbritts\nJohn Sosa Trustham\nVladimir Shklovsky\nAloysius Sparglepartz\nJason Whatley\nLohann Paterno Coutinho Ferreira\nJeffrey Mckishen\nnothings\nEugene Pakhomov\nGlenn Willen\nR520\nNick F\nMirko Rener\nChris Connett\nTyler Filla\nMiles Freeman\nBenjamin Manns\nMPG\nSeth Reuter\nDanny Thomas\nToby T\nLucy Fur\ntiaz\n\nBonus thanks to Patreon supporter PJC, who"
+  },
+  {
+   "id": "8i9WMD6xbuA",
+   "t": "Dragonflies hunt by predicting the future",
+   "d": "2024-08-15",
+   "v": 551669,
+   "s": 1012,
+   "vertical": false,
+   "desc": "Join me in pursuit of one of the coolest critters anywhere (but I seem to have an abundance of them here in NC) - Dragonflies!\n\nIn this video I'm breaking down dragonfly flight with a high-speed camera. Dragonflies are some pretty incredible insects, and the way they fly (or more accurately - the multiple ways they fly!) are fascinating. I hope you enjoy this journey to film, then understand, dragonfly flight in my backyard.\n\nCheck out the second channel with bonus content and Q&A videos!\nhttps://www.youtube.com/@BetaPhoenixChannel\n\nSpecial thanks to my top Patreon supporters!\nbirdiesnbritts\nJ"
+  },
+  {
+   "id": "AoessrdH6w4",
+   "t": "Dragonfly eats a gnat #slowmotion",
+   "d": "2024-08-31",
+   "v": 24174,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "g8pjrVbdafY",
+   "t": "This puzzle took me three years and required thinking in 3721 dimensions",
+   "d": "2024-09-30",
+   "v": 654056,
+   "s": 2194,
+   "vertical": false,
+   "desc": "Visit https://brilliant.org/alphaphoenix/ to start your free 30-day trial, and get 20% off a premium annual subscription!\n\nWelcome back, and I hope you enjoy this mess of a three-year project\u2026 It turns out backing up in a cellular automaton can be an insanely difficult problem. This started as a \"play button\" project, but turned into an obsession. I recently came to the conclusion that there's no long-term winning this game (it has been shown to be NP hard, so I don't feel that bad) but AGH it should be easier than it is! \nJoin me in this video as I dive through the much fabled Game of Life, t"
+  },
+  {
+   "id": "WCKt405t9V8",
+   "t": "Resonance is more than just standing waves",
+   "d": "2024-11-09",
+   "v": 554238,
+   "s": 1680,
+   "vertical": false,
+   "desc": "I finally rebuilt a project from 13 years ago\u2026 except this time I have a high speed camera! Today we're exploring waves, and how VERY careful timing of those waves can build into resonance. I've got a bunch of fun high-speed demos of waves on strings, many of which certainly fell into the \"man I really just wanted to see this work, but now that I have it, it will be a great video\" category :D\n\nThere's also a section on the Mythbusters' incarnation of \"Tesla's Earthquake Machine\", and why they weren't able to use resonance to bring down a steel truss bridge. The key is ALWAYS tracking the energ"
+  },
+  {
+   "id": "IaXdSGkh8Ww",
+   "t": "I built a 1,000,000,000 fps video camera to watch light move",
+   "d": "2024-12-20",
+   "v": 1453003,
+   "s": 1748,
+   "vertical": false,
+   "desc": "Visit https://brilliant.org/alphaphoenix/ to start your free 30-day trial, and get 20% off a premium annual subscription!\n\nSo apparently buying a high speed camera wasn't enough, because after two videos with it I decided to build my own, but 5 orders of magnitude faster\u2026\n\nIn this video I'm filming the motion of light as it flies across my garage at\u2026 well, the speed of light! It's fast. So fast that even with my best setup so far, I get 18 frames of video from one end of the room to the other, and those frames have a lot of temporal blur so realistically each \"frame\" is actually kind of an ave"
+  },
+  {
+   "id": "txej3KQ05b0",
+   "t": "Homebuilt Lightspeed Camera #physics #light #engineering",
+   "d": "2024-12-22",
+   "v": 6333540,
+   "s": 36,
+   "vertical": true,
+   "desc": "So apparently buying a high speed camera wasn't enough, because after two videos with it I decided to build my own, but 5 orders of magnitude faster\u2026\n\nIf anybody's curious, the data throughput is a big problem here. I do literally have a camera capable of filming at 1,000,000,000 frames per second, but it's only a 1x1 pixel frame. To assemble a full frame (200 px across) like this one, I record MANY synchronized videos pointed in different directions and tile them together into an image.\n\nArcadia - Wonders by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creat"
+  },
+  {
+   "id": "VSMGcDRGLeI",
+   "t": "Slomo of my resonance machine #physics #slowmo",
+   "d": "2025-01-07",
+   "v": 74018,
+   "s": 34,
+   "vertical": true,
+   "desc": "Somme awesome slomo shots of my home-built resonance machine! With a magnet, coil, and a bunch of slightly elastic cord, this machine can pump out whatever waves you feed it from a signal generator. \nOne of the most surprising things to me was to watch how a standing wave formed - if you watch in slow motion, the standing wave is actually the sum of the original traveling wave moving right, and the reflected traveling wave moving left. they cancel each other out in perfect time to create the standing wave!\nThe third shot is just having fun playing two different harmonics into the string at onc"
+  },
+  {
+   "id": "qMArmldPId4",
+   "t": "Flying playing card through smoke in slow motion",
+   "d": "2025-03-17",
+   "v": 256204,
+   "s": 31,
+   "vertical": true,
+   "desc": "I went through many evenings recently attempting to film flying cards in slow motion, but interacting with a fog machine so we could actually SEE how the air was moving around the card! I think it turned out pretty cool. The clip in this video is recorded at about 1500 fps, played back at 15fps. The main video has some shots at over 7000 fps!"
+  },
+  {
+   "id": "zp-Fk_ZiV8Y",
+   "t": "Flying playing cards are awesome",
+   "d": "2025-03-18",
+   "v": 232045,
+   "s": 1365,
+   "vertical": false,
+   "desc": "Today I get to show off the results of my most recent high-speed filming obsession. I wanted to understand the airflow around a flying playing card - when you flick or throw a card across a room like a frisbee. Now in glorious 1500-7500ish fps video, we get wingtip effects, oscillatory vortex shedding, and gyroscopic effects. I hope you enjoy, cause I certainly had fun filming it!\n\nMassive thanks to my top Patreon supporters!\nbirdiesnbritts\nJohn Sosa Trustham\nVladimir Shklovsky\nAloysius Sparglepartz\nJason Whatley\nLohann Paterno Coutinho Ferreira\nJeffrey Mckishen\nnothings\nEugene Pakhomov\nGlenn "
+  },
+  {
+   "id": "hnvtstq3ztI",
+   "t": "I weighed an airplane... while it was flying!",
+   "d": "2025-06-17",
+   "v": 1298489,
+   "s": 2129,
+   "vertical": false,
+   "desc": "Theoretically, it should be possible to measure the weight of a flying object from far below that object - by measuring the air that object displaced when it pushes on the ground.  I HAD to know if this was realistically possible, so I set about building a very large scale to measure paper airplanes and flying playing cards. After getting successful measurements, I decided to go full scale with real airplanes.\n\nbonus points to @noquarter7 for the relevant nerd snipe in last video's comments...\n\nMassive thanks to my top Patreon supporters!\nbirdiesnbritts\nJohn Sosa Trustham\nVladimir Shklovsky\nAl"
+  },
+  {
+   "id": "_Krzug8Blgs",
+   "t": "Weighing a paper airplane WHILE IT'S FLYING. #physics #slowmo",
+   "d": "2025-06-17",
+   "v": 126132,
+   "s": 36,
+   "vertical": true,
+   "desc": "Turns out if you make a big enough and sensitive enough scale, you can actually weigh stuff that flies by \"catching\" all of the air pressure below the plane, card, quadcopter, or whatever."
+  },
+  {
+   "id": "0QFta__0Uxw",
+   "t": "What if you looked UP for a whole day and night?",
+   "d": "2025-09-30",
+   "v": 46251,
+   "s": 18,
+   "vertical": true,
+   "desc": "#360 #timelapse #nature #loop"
+  },
+  {
+   "id": "y-PFd0FKTE4",
+   "t": "Nature\u2019s greatest hunter intercepts lunch at 1500 FPS",
+   "d": "2025-10-03",
+   "v": 69398,
+   "s": 22,
+   "vertical": true,
+   "desc": "#slowmotion #nature"
+  },
+  {
+   "id": "o4TdHrMi6do",
+   "t": "A laser pointer at 2 billion fps makes the speed of light look... kinda weird",
+   "d": "2025-10-17",
+   "v": 5991048,
+   "s": 1762,
+   "vertical": false,
+   "desc": "I've upgraded! It took almost a year, but today I finally get to show off a TWO billion frame per second camera! I really want to record refraction, interference, and other awesome stuff with this camera, but today I'm looking into a really strange quirk of the speed of light. In a way, understanding this weird phenomenon is kind of a prerequisite for everything else I want to do with this camera - I hope you find it as interesting as I have!\n\nMANY more technical details for the curious:\nhttps://www.youtube.com/playlist?list=PLAYHMTkuzdT3Zwk3UialNtxXrpkmaC_ZI\n\nbonus points to hakonjdjohnsen fo"
+  },
+  {
+   "id": "1tdMOo5md_U",
+   "t": "Laser hits a disco ball at 2 billion fps",
+   "d": "2025-10-21",
+   "v": 145469,
+   "s": 28,
+   "vertical": true,
+   "desc": "#physics #slowmotion #disco"
+  },
+  {
+   "id": "2RNIjlPJZrg",
+   "t": "Homemade lightspeed camera (mk. 2) #physics #slowmotion #laser",
+   "d": "2025-11-08",
+   "v": 503801,
+   "s": 47,
+   "vertical": true,
+   "desc": "This is my homebuilt \"lightspeed\" camera, UPGRADED! It can film light moving, but the light looks pretty strange. Can you figure out why?\n\nFor full build details on the camera, and an answer to the apparent paradox, check out the main video!"
+  },
+  {
+   "id": "0rGaTwxWuz0",
+   "t": "I DROPPED my slomo camera to explain how gravity works",
+   "d": "2026-02-09",
+   "v": 617612,
+   "s": 1659,
+   "vertical": false,
+   "desc": "Today we're talking about gravity! From classical Newtonian gravity to General Relativity, I want to explain a key bit of physics called the equivalence principle: Why gravitational mass and inertial mass have the same value, or said differently, why heavy things are hard to push. The primary trick here is that general relativity allows us to predict \"where to put the camera\" to define an inertial reference frame. Unfortunately for my sanity, \"where to put the camera\" is \"in freefall\", and I'm using my very nice highspeed camera\u2026 Hope you enjoy!\n\nHuge thanks to Dr. Ortega from Universidad de Z"
+  },
+  {
+   "id": "nyBLcZjzh0I",
+   "t": "Star-Stabilized 360 Camera #perfectloop #astronomy",
+   "d": "2026-03-24",
+   "v": 77650,
+   "s": 18,
+   "vertical": true,
+   "desc": "24 hours worth of timelapse recorded over about 3 days with an insane 185 degree fisheye lens to see the WHOLE sky.\n\nMusic: Switched on Carcassi by Brian Bolger, YouTube Music license"
+  },
+  {
+   "id": "S2Plm9KZCN4",
+   "t": "When a dragonfly makes a mistake",
+   "d": "2026-04-02",
+   "v": 56702,
+   "s": 27,
+   "vertical": true,
+   "desc": "This dragonfly surges forward into the hunt... until it realizes it's a waste of time. Filmed in super slomo at ~1500fps."
+  },
+  {
+   "id": "F4zN9cFEM-Y",
+   "t": "Is this camera \"faster than light\"?",
+   "d": "2026-06-06",
+   "v": 3175612,
+   "s": 73,
+   "vertical": true,
+   "desc": "No! That's a ridiculous question!"
+  },
+  {
+   "id": "LOdoO-Fp6oY",
+   "t": "Sound so loud you can SEE it",
+   "d": "2026-07-15",
+   "v": 1014505,
+   "s": 2271,
+   "vertical": false,
+   "desc": "Today we're talking about shockwaves! Shockwaves and sound waves, and machines that create an arc that dumps enough energy into a bit of gas it can create shockwaves that travel tens of kilometers per second, make the air molecules split apart, react with each other, and glow! It's pretty amazing!\nAll of the physics involved is cool by itself, but it's also extremely necessary from an engineering perspective when NASA tries to send spacecraft into other atmospheres where we can't just test a bunch of heatshields. We can't be 100% sure how bow shock in front of a spacecraft will behave\u2026 until w"
+  },
+  {
+   "id": "FR6z3y3d8Ag",
+   "t": "Slow-motion frogs are goofier than I expected",
+   "d": "2026-10-06",
+   "v": 412781,
+   "s": 1513,
+   "vertical": false,
+   "desc": "More backyard slomo critters that have nerd-sniped me! Today we're looking at tree frogs on glass - how they stick, when they don't, when they catch moths, and\u2026 when they don't. Turns out these frogs are not graceful hunters when slowed down 50x, but they're still awesome. The physics behind their phenomenal adhesion is very unique, and the biology of their prey-tracking behavior is very unexpected. I learned a lot by watching these guys for weeks while they collected moths on my back patio door, and I thoroughly enjoyed recording their antics in slomo. I hope you enjoy too!\n\nSpecial thanks to"
+  }
+ ]
+}

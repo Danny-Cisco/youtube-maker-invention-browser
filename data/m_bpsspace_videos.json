@@ -1,0 +1,2214 @@
+{
+ "channel": {
+  "id": "UCILl8ozWuxnFYXIe2svjHhg",
+  "title": "BPS.space",
+  "handle": "@bpsspace",
+  "description": "Space is the place",
+  "since": "2015-10-23",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_koetlyELPEX_xsCqJXQ1vLtYxEVXaqw_Hm5VTu55_XVvo=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "69580724",
+  "subscriberCount": "900000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "242"
+ },
+ "videos": [
+  {
+   "id": "g0VFwuKr4bQ",
+   "t": "Scout V 0.1 - Dynamic Test 1",
+   "d": "2015-10-23",
+   "v": 71072,
+   "s": 94,
+   "vertical": false,
+   "desc": "The pioneer of the Scout vehicle program, Scout V 0.1 failed after the liftoff thrust of the main booster overloaded one of the TVC servos. Inertial measurements were also inaccurate, but results showing this could not be obtained or observed due to the mechanical failure of the TVC system, and lack of an onboard data logger.\n\nTechnical report:\nhttp://tinyurl.com/Scout-DT1\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "LfuK8rHzFMY",
+   "t": "Scout V 0.2 - Dynamic Test 2",
+   "d": "2015-11-07",
+   "v": 35952,
+   "s": 115,
+   "vertical": false,
+   "desc": "Scout V 0.2 featured much stronger TVC servos, and an improved TVC mount. At liftoff, the system was able to maintain it's position, but the inertial measurement system was still faulty. The onboard computer only used an accelerometer for inertial measurement, which fails under thrust, so future builds used a complimentary filter to read from a gyroscope and accelerometer for increased accuracy. \n\nTechnical report:\nhttp://tinyurl.com/Scoutv02-DT2\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "mb9LuI5K7KU",
+   "t": "Scout V 0.3 - Dynamic Test 3",
+   "d": "2015-12-28",
+   "v": 31647,
+   "s": 143,
+   "vertical": false,
+   "desc": "Scout V 0.3 was the first in the Scout program to correctly measure the position of the vehicle during flight. Due to overcorrection in the TVC system, the rocket lost vertical thrust and fell to the ground shortly after liftoff.\nAfter this test, propulsion for the main booster was upgraded from an Estes E9 motor to an Apogee F10 motor, allowing for longer burn times, and slightly higher average thrust.\n\nTechnical report:\nhttp://tinyurl.com/Scout-DT3\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "IUeORlpdzog",
+   "t": "Scout V 0.4 | Single Cam B",
+   "d": "2016-01-30",
+   "v": 6925,
+   "s": 41,
+   "vertical": false,
+   "desc": "Technical report:\nhttp://tinyurl.com/Scout-V04\n\nMulticam Edit:\nhttps://www.youtube.com/watch?v=XDJpuwW1-4k\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "XvmNjw2a39U",
+   "t": "Scout V 0.4 | Single Cam A",
+   "d": "2016-01-30",
+   "v": 11892,
+   "s": 41,
+   "vertical": false,
+   "desc": "Technical report:\nhttp://tinyurl.com/Scout-V04\n\nMulticam Edit:\nhttps://www.youtube.com/watch?v=XDJpuwW1-4k\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "XDJpuwW1-4k",
+   "t": "Scout V 0.4 Test Launch",
+   "d": "2016-01-30",
+   "v": 35973,
+   "s": 78,
+   "vertical": false,
+   "desc": "The first Scout vehicle to use generally successful thrust vectoring, and deployment of the drag fins, Scout V 0.4 was a milestone in the Scout program. Ascending to roughly 20-30 ft, Scout V 0.4 was able to correct for deviations in its orientation before descending due to lack of vertical thrust. Once descending, the rocket anticipated ignition of the retro-burner on board, and recalibrated the vectoring system, resulting in a loss of stability. \n\nTechnical report:\nhttp://tinyurl.com/Scout-V04\n\nSingle Cam A:\nhttps://www.youtube.com/watch?v=XvmNjw2a39U\n\nSingle Cam B:\nhttps://www.youtube.com/w"
+  },
+  {
+   "id": "19mNy1iJMWw",
+   "t": "Retro-Burn Static Fire Test - Feb. 2016",
+   "d": "2016-02-09",
+   "v": 19597,
+   "s": 47,
+   "vertical": false,
+   "desc": "Testing ignition time consistency between both retro-propulsive engines. Forgot to weigh the workbench down properly.\nFind out more about this test here: http://www.bps.space/test-vehicles/\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ejALPYa6IeY",
+   "t": "Scout V 0.5 Test Launch",
+   "d": "2016-06-20",
+   "v": 22845,
+   "s": 97,
+   "vertical": false,
+   "desc": "Scout V 0.5 failed due to excessive play in the internal gears of the thrust vectoring servos onboard. While stabilization of the vehicle was still active and functional, the \"zero-position\" of the servos ended up with a deviation of \u00b12 degrees, which was enough to set the vehicle off on a poor trajectory, especially considering that the computer's stabilization was directly reactive to it's measured position at this point, and not anticipatory, such as in a PID control system.\n\nTechnical report:\nhttp://tinyurl.com/Scout-V05\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "Hpaf5nbHV7U",
+   "t": "Scout V 0.7 Test Launch",
+   "d": "2016-08-05",
+   "v": 24974,
+   "s": 150,
+   "vertical": false,
+   "desc": "In a similar fashion to Scout V 0.5, this rocket failed due to play in the TVC system. The last rocket to use this TVC mount design, it was the nail in the coffin for a vectoring design which used both non-axial thrust for the vehicle, and relied directly on stiffness of the internal gearing of one servo to remain zeroed out. \n\nTechnical report: http://tinyurl.com/ScoutV07\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "Hd5iSIpZ_e8",
+   "t": "TVC Static Fire - August 2016",
+   "d": "2016-08-07",
+   "v": 16224,
+   "s": 88,
+   "vertical": false,
+   "desc": "Testing the new design for the thrust vectoring motor mount, to be flown on Scout V 0.8\nFind out more about this test here: http://www.bps.space/test-vehicles/\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "N9g3Vo-Wxiw",
+   "t": "Scout V 0.8 Test Launch",
+   "d": "2016-11-01",
+   "v": 37656,
+   "s": 54,
+   "vertical": false,
+   "desc": "With an entirely new thrust vectoring system, Scout V 0.8 corrected well for it's orientation with two caveats. The first being that due to errors within a computer simulation of the flight, the liftoff weight was much too heavy to allow for a suitable apogee. The second being that the onboard PID system was running for roughly 30 seconds before liftoff, and too much error was accumulated during that time to maintain a zero-position in the TVC mount.\n\nTechnical report: http://tinyurl.com/ScoutV08\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "j_YLxwao0AY",
+   "t": "RRTV 2 - August 11th 2016",
+   "d": "2016-11-01",
+   "v": 10327,
+   "s": 38,
+   "vertical": false,
+   "desc": "Find out more about the test here: http://www.bps.space/test-vehicles/\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "_UCL4Okm6Vs",
+   "t": "RRTV 1 - July 30th 2016",
+   "d": "2016-11-01",
+   "v": 12466,
+   "s": 38,
+   "vertical": false,
+   "desc": "Find out more here: http://www.bps.space/test-vehicles/\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "pzYHxth56oo",
+   "t": "Scout V 0.9 Test Launch",
+   "d": "2016-12-02",
+   "v": 18142,
+   "s": 67,
+   "vertical": false,
+   "desc": "After starting the PID system roughly 1 second before liftoff in order to reduce error accumulation, the code onboard failed to account for a discrepancy in timing within the complimentary filter, resulting in a massive initial drift of \u00b1 50 degrees on each axis before zeroing out after 3 seconds, which was much too late in this case. The rocket lifted off with poor TVC orientation, damaged the PID starting gantry, and knocked over the articulating support tower, before spinning out of control and crashing to the ground. This accidentally tripped the onboard relay to trigger the retro-rockets."
+  },
+  {
+   "id": "14Juc3PAHHk",
+   "t": "Scout V 1.0 Test Launch",
+   "d": "2016-12-05",
+   "v": 23669,
+   "s": 75,
+   "vertical": false,
+   "desc": "After modifying the code to seemly remedy the onboard time management issue, it was revealed during the flight of Scout V 1.0 that the complimentary filter was still not functioning properly. The IMU measured changes in orientation at a rate that suggests that only the accelerometer was used in the filter. This would, and did result in a similar flight profile to Scout V 0.2. The rocket lifted off, arced over, and slammed into the ground since the IMU was not being interpreted correctly, and the vehicle made no corrections in the vectoring mount.\n\nAfter the flight of Scout V 1.0, the Scout pro"
+  },
+  {
+   "id": "9EMoea_ReUA",
+   "t": "Echo - Test Vehicle 2",
+   "d": "2016-12-08",
+   "v": 21224,
+   "s": 63,
+   "vertical": false,
+   "desc": "The Echo Test Vehicle 2 served to further tune the PID stabilization algorithm, as well as test in-flight deployment of the landing legs. Both tests returned nominal results - a nearly flawless ascent to 30ft, and lockout of all four landing legs after being deployed at 20ft AGL. Once again, the parachutes failed to deploy in time to ensure a soft landing on the ground. Though they deployed shortly after the landing legs at just under 20ft AGL, there was not nearly enough time or airspeed to inflate both chutes before the rocket slammed into the ground. One chute did inflate, but only a few fe"
+  },
+  {
+   "id": "9KjjOTfcyu4",
+   "t": "Echo - Test Vehicle 1",
+   "d": "2016-12-08",
+   "v": 25561,
+   "s": 60,
+   "vertical": false,
+   "desc": "The primary focus of the first Echo Test Vehicle was to assess the tuning of the PID thrust vectoring algorithm, as well as the accuracy of flight simulations created in MATLAB and Simulink. Scout V 0.8 - V 1.0 used a PID stabilization algorithm, but never flew reliably enough to obtain accurate data about the system in flight. Previous Scout vehicles also had issues with apogee predictions based on vehicle weight and a fairly stable flight profile. Though no vehicle ever flew stably, it was clear there were errors in the simulation. \n\nWith the errors fixed and the PID system tuned to what see"
+  },
+  {
+   "id": "Rhy9UvEwzVg",
+   "t": "Echo TV9 - Webcast Launch Coverage",
+   "d": "2016-12-22",
+   "v": 13962,
+   "s": 893,
+   "vertical": false,
+   "desc": "Stream info & mission objectives @6:22\nT-15 seconds @10:11\n\nLaunch coverage for 9th Echo Test Vehicle.\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "uJPABoNzmHU",
+   "t": "Relay - TVC Static Fire - Mount Revision A",
+   "d": "2017-01-08",
+   "v": 10250,
+   "s": 58,
+   "vertical": false,
+   "desc": "Actuating \u00b16.6 degrees on each axis, this thrust vectoring mount slightly underperforms in expected accuracy of 0.3 degrees. A second test with higher power servos will serve to qualify this design to fly on the Relay rocket.\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "q7JQbKVave0",
+   "t": "Relay - TVC Static Fire - Mount Revision B",
+   "d": "2017-01-20",
+   "v": 19019,
+   "s": 62,
+   "vertical": false,
+   "desc": "The flight qualified revision of the Relay thrust vectoring mount. The ascent and landing motors are mounted in line, one on top of the other. The landing motor fires second, ejecting the ascent motor. Each motor actuates \u00b13.3 degrees, then \u00b16.6 degrees on each axis, then holds zero-position until burnout.\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "bnEhMEY8ABc",
+   "t": "Relay Flight 1 - Webcast Launch Coverage",
+   "d": "2017-01-24",
+   "v": 14904,
+   "s": 936,
+   "vertical": false,
+   "desc": "Mission objectives @ 6:09\nT - 15 @ 9:59\nThis video is the re-uploaded live stream for the Relay - Flight 1 webcast. The initial stream suffered bandwidth issues causing a number of video dropouts. This video also cuts out a few mistakes in the mission objectives and post-launch review section. The original live stream can be found here: https://youtu.be/-Bu82BtpRv0\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "wUMo05vQhQk",
+   "t": "Barnard Propulsion Systems - 2017",
+   "d": "2017-01-25",
+   "v": 54587,
+   "s": 111,
+   "vertical": false,
+   "desc": "For more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space\n\nA Minute Later - Trent Reznor and Atticus Ross"
+  },
+  {
+   "id": "X4e2_L6gQkE",
+   "t": "Relay Flight 2 - Webcast Launch Coverage",
+   "d": "2017-02-09",
+   "v": 26589,
+   "s": 989,
+   "vertical": false,
+   "desc": "Mission Objectives @ 4:41\nT - 15 Seconds @ 11:01\n\nLaunch coverage for the second in the Relay series.\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "TJC2sAHBm6E",
+   "t": "Launch Pad Overview",
+   "d": "2017-03-04",
+   "v": 34346,
+   "s": 197,
+   "vertical": false,
+   "desc": "A quick description of the launch pad. Many features are missing from this video, since the system is still in an unfinished state. Most notably, there will be a number of \"dead man\" switches, requiring user-action at appropriate times during the count, as well as a momentary hold switch that must be in the on position in the last few seconds before launch, making an abort as simple as letting go of the controller. \n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "LgWA8tbCCAs",
+   "t": "BPS Update",
+   "d": "2017-03-30",
+   "v": 11143,
+   "s": 149,
+   "vertical": false,
+   "desc": "Patreon:\nhttps://www.patreon.com/barnardpropulsion\n\nVector Avionics is now \"Signal Avionics\". Conflicts with the naming of the system were found, and out of caution, the name was shifted to Signal. All else but the name remains the same with the system.\n\nSignal Avionics:\nhttp://www.bps.space/signal\n\nContact:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space/about"
+  },
+  {
+   "id": "ew1axNSm_tE",
+   "t": "Signal PCB - Design Timelapse",
+   "d": "2017-04-06",
+   "v": 18682,
+   "s": 85,
+   "vertical": false,
+   "desc": "This is the 3rd attempt at fitting everything onto the flight computer efficiently. Probably won't be the last. This is a large chunk of the design process, but there's much more to do before the board is finalized.\n\nSong: Rebuild - Now, Now\n\nhttp://www.bps.space/signal\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "LRB1dXVIjbA",
+   "t": "BPS Rocket Cradle",
+   "d": "2017-04-15",
+   "v": 10372,
+   "s": 157,
+   "vertical": false,
+   "desc": "Print Files: http://www.thingiverse.com/thing:2250199\n\nSong:\n\"Off Broadway\" - Werner Tautz (It's Always Sunny in Philadelphia)\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space/"
+  },
+  {
+   "id": "dcvzdwuQTbQ",
+   "t": "BPS Signal Update",
+   "d": "2017-04-24",
+   "v": 13983,
+   "s": 100,
+   "vertical": false,
+   "desc": "Rocket Building Live Streams:\nhttps://www.twitch.tv/joebarnard1\n\nPatreon:\nhttps://www.patreon.com/barnardpropulsion\n\nhttps://www.bps.space/\nhttps://twitter.com/joebarnard"
+  },
+  {
+   "id": "0oVulMfica4",
+   "t": "Level 1 Cert Attempt - Thrusty McThrustFace",
+   "d": "2017-05-21",
+   "v": 27695,
+   "s": 132,
+   "vertical": false,
+   "desc": "\"In Thrust We Trust\"\nThe attempt was successful! The rocket was built to handle the needs of an L2 cert as well, and will launch again as an L2 attempt.\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "eZ_rzxDcYvU",
+   "t": "Signal Avionics - Closed Loop TVC Calibration",
+   "d": "2017-05-22",
+   "v": 13680,
+   "s": 221,
+   "vertical": false,
+   "desc": "Check out my left arm's nasty sunburn from yesterday's L1 launch!\nWant to purchase a Signal Avionics kit? Let me know here: https://www.bps.space/signal\n\nPatreon:\nhttps://www.patreon.com/barnardpropulsion\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "6CcQbMSFSbg",
+   "t": "Thrust Vector Control - Series A Hold Down",
+   "d": "2017-06-01",
+   "v": 15120,
+   "s": 67,
+   "vertical": false,
+   "desc": "This test was not intended to(and does not) feature a fully stable vehicle or tuning. The purpose of Series A is to gather high resolution data from the flight computer in order to build an accurate offline model of the vehicle, and its response to a given TVC correction value. The vehicle aimed to keep one axis steady, while cycling through a 10 degree offset in the set-point on the other axis, roughly halfway through the burn. Using the offline model, I can tune the stabilization algorithm without running complicated and expensive tests, saving time in the process. A TVC Series B test will b"
+  },
+  {
+   "id": "IutG-bZu07I",
+   "t": "Offline Modeling Update",
+   "d": "2017-06-18",
+   "v": 6934,
+   "s": 265,
+   "vertical": false,
+   "desc": "Jonny Hyman:\nhttps://jonnyhyman.com/\nhttps://www.youtube.com/c/jonnyhyman\n\nTVC Static Fire Series A:\nhttps://www.youtube.com/watch?v=6CcQbMSFSbg\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "u6gw6bdgeeM",
+   "t": "Thrust Vector Control - Series C Hold Down",
+   "d": "2017-06-29",
+   "v": 23182,
+   "s": 53,
+   "vertical": false,
+   "desc": "Once the error in the inertia calculation of the Series B Hold Down was found, a second bifilar pendulum test was conducted with newly added landing legs and grid fins to obtain an updated measurement. The vehicle was once again tuned in the simulation, the values were set in the flight software, and the test was conducted. \nA slight oscillation can be seen during the test. The cause is unconfirmed, but is likely due to the following factors. A changing CG during the burn, a slightly loose TVC mount due to ascent and landing motors being loaded, or inconsistencies in the propellant causing sma"
+  },
+  {
+   "id": "TTf8HQ941RU",
+   "t": "Thrust Vector Control - Series B Hold Down",
+   "d": "2017-06-29",
+   "v": 7810,
+   "s": 34,
+   "vertical": false,
+   "desc": "After building a ground-up simulation of the vehicle's behavior under thrust, I re-tuned the stability algorithm to the inertia I calculated from the results of a bifilar pendulum test. The calculation was incorrect, due to an extra set of parentheses used, and the algorithm was then tuned to the incorrect vehicle inertia. The calculated inertia was much smaller than it should have been, so the simulation predicted a vehicle requiring less control authority, hence the loose oscillation during the test. The error was found soon after.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bp"
+  },
+  {
+   "id": "DdNQEEugiBc",
+   "t": "Ejection Charge Testing",
+   "d": "2017-07-18",
+   "v": 16335,
+   "s": 74,
+   "vertical": false,
+   "desc": "Tests conducted over the course of a few days last week. Post discussing the tests in detail: https://www.patreon.com/posts/13099260\n\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "KYz3uePiibE",
+   "t": "Signal Flight Computer - PCB Assembly Timelapse",
+   "d": "2017-07-19",
+   "v": 8635,
+   "s": 149,
+   "vertical": false,
+   "desc": "Done in 3.5 hours flat, including 10 minutes of folding laundry.\n\nSong: \"Making Water\" - Harry Gregson-Williams\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ypHruMqfU3U",
+   "t": "Scout C1 Launch - July 31 2017",
+   "d": "2017-08-01",
+   "v": 20342,
+   "s": 139,
+   "vertical": false,
+   "desc": "A picture perfect flight! Slight overcorrection can be seen here due to a loose TVC mount(flown intentionally).\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "BB8zeMNUlfI",
+   "t": "Echo B1 Launch - July 28 2017",
+   "d": "2017-08-01",
+   "v": 19147,
+   "s": 114,
+   "vertical": false,
+   "desc": "During the flight, the rocket pitched over when the force on forward fins overcame the force the vectoring mount could provide. When the Signal detected a deviation of more than 20 degrees, the flight termination system kicked in, deploying the chutes during the burn. The chute deployment assembly used a faulty part with poor print quality, and ripped the whole assembly from the airframe.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "zWiBVDv8BvM",
+   "t": "Thrust Vector Control - Series E Hold Down",
+   "d": "2017-08-01",
+   "v": 23164,
+   "s": 105,
+   "vertical": false,
+   "desc": "The test held the vehicle upright for several seconds, then shifted the set-point on the X and Y axes to -7 degrees, as a step response test. Response was acceptable, though somewhat poor, and can easily be improved by giving the PID controller separate tunings for aggressive and smooth response. This test also validated the solution to the error experienced during the Series D hold down. The error and solution will be discussed in detail here: https://www.patreon.com/barnardpropulsion\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "lHAo9VThGvw",
+   "t": "Thrust Vector Control - Series D Hold Down",
+   "d": "2017-08-01",
+   "v": 22479,
+   "s": 54,
+   "vertical": false,
+   "desc": "The test failed because of a jam in the control loop, ultimately caused by the barometer. The vehicle tuning was technically correct, though it obviously appears otherwise. The error is fascinating, and will be discussed in detail here: https://www.patreon.com/barnardpropulsion\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "14CJdaABezU",
+   "t": "Scout C3 Launch - Sept 21 2017",
+   "d": "2017-09-22",
+   "v": 14829,
+   "s": 101,
+   "vertical": false,
+   "desc": "Flown and controlled using Signal Avionics.\nhttps://www.bps.space/signal\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ETnVXW99Fo0",
+   "t": "Thrust Vector Control - Series F Hold Down",
+   "d": "2017-10-02",
+   "v": 30384,
+   "s": 45,
+   "vertical": false,
+   "desc": "Ran a static fire after an overhaul of Signal's stability software. Modifications focused on ensuring robust control loop times, which were the primary culprit of the overcorrection seen in previous Scout flights.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "V7yUAsvEvR0",
+   "t": "Scout C5 Launch - Oct 4 2017",
+   "d": "2017-10-05",
+   "v": 14447,
+   "s": 132,
+   "vertical": false,
+   "desc": "The Signal flight computer plotted and executed a 3 degree course correction maneuver about 0.8 seconds into flight to keep itself vertical. Very hard to see in this footage; more exaggerated tests will be conducted to showcase this soon.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "EPVZL1UOmw8",
+   "t": "Scout C6 Launch - Oct 6 2017",
+   "d": "2017-10-07",
+   "v": 15355,
+   "s": 90,
+   "vertical": false,
+   "desc": "Running Signal's course correction feature, Scout launched angled roughly 15 degrees from upright. Course correction held the vehicle orientation off the pad after launch, then plotted a smooth maneuver back to upright. As shown here, corrections are determined in a global reference frame, then executed in the local frame, meaning roll is not an issue(until the TVC hardware cannot keep up with the roll). Once deployed, the parachutes broke the kevlar reenforced shock cord, separating them from the body. The cord snapped at a weak point where significant heat had been experienced during assembl"
+  },
+  {
+   "id": "GGbl3EydydU",
+   "t": "Signal Alpha",
+   "d": "2017-10-21",
+   "v": 15242,
+   "s": 420,
+   "vertical": false,
+   "desc": "https://bps.space/signal\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "RVS11-othWQ",
+   "t": "Echo - NAR Launch",
+   "d": "2017-10-30",
+   "v": 28929,
+   "s": 248,
+   "vertical": false,
+   "desc": "Rocket stabilized by Signal Avionics: https://www.bps.space/signal/\n\nTwo great flights! The second flight had lots of wind to fight against, hence the wiggle near the end. The nose cone was 3D printed, and the stress of chute ejection broke the plastic connecting it to the shock cord. \n\nFlown at the CMASS/MMMSC club launch on October 28th, 2017.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "0ykvmCi_UXs",
+   "t": "Build Signal Alpha - Part 4 - Tuning and Flight",
+   "d": "2017-11-21",
+   "v": 31293,
+   "s": 938,
+   "vertical": false,
+   "desc": "https://bps.space/build-signal-alpha\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "iSJoDuZdcOU",
+   "t": "Build Signal Alpha - Part 3 - Piston Ejection System",
+   "d": "2017-11-21",
+   "v": 38831,
+   "s": 713,
+   "vertical": false,
+   "desc": "https://bps.space/build-signal-alpha\n\nBuilding custom ejection charges:\nhttp://www.perfectflite.com/Downloads/Ejection.pdf\n\nThingiverse links for the 3d printed parts coming soon!\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "LcszVaBPc0I",
+   "t": "Build Signal Alpha - Part 2 - Avionics Integration",
+   "d": "2017-11-21",
+   "v": 15644,
+   "s": 696,
+   "vertical": false,
+   "desc": "For more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "6Y8QiqOZZ3g",
+   "t": "Build Signal Alpha - Part 1 - Kit Assembly",
+   "d": "2017-11-21",
+   "v": 37026,
+   "s": 717,
+   "vertical": false,
+   "desc": "https://bps.space/build-signal-alpha\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "WP2eah5Knnk",
+   "t": "Falcon Heavy - Flight Computer Assembly",
+   "d": "2018-02-12",
+   "v": 14093,
+   "s": 23221,
+   "vertical": false,
+   "desc": "Help support development: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "zgHdzFzqaow",
+   "t": "Falcon Heavy Model Rocket",
+   "d": "2018-02-14",
+   "v": 89054,
+   "s": 47,
+   "vertical": false,
+   "desc": "Help Support Development: https://www.patreon.com/bps_space\n\n\"Illusory Sun\" by Ulrich Schnauss\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "u-86tsFJ7lE",
+   "t": "The Future of Scale Rocketry - National Rocketry Conference 2018",
+   "d": "2018-02-27",
+   "v": 102710,
+   "s": 2805,
+   "vertical": false,
+   "desc": "The Friday evening keynote from NARCON 2018 in Houston, TX. Keynote by Joe Barnard, NARCON and Q&A hosted by James Duffy.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "DxJUhh8E_wk",
+   "t": "Signal R2 - Bluetooth Diagnostics",
+   "d": "2018-03-07",
+   "v": 6476,
+   "s": 264,
+   "vertical": false,
+   "desc": "Should have calibrated that IMU before filming... \u00af\\_(\u30c4)_/\u00af\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "Ah12ufg1eX0",
+   "t": "Falcon Heavy Center Core Test Flight",
+   "d": "2018-04-18",
+   "v": 35526,
+   "s": 125,
+   "vertical": false,
+   "desc": "Testing the center core of the 1/48 Falcon Heavy model. Still a few orientation bugs to iron out. One or two more single stage test flights and then we'll begin second stage testing.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "S2PQK63fvHA",
+   "t": "Signal R2 - User Error Testing",
+   "d": "2018-04-20",
+   "v": 11800,
+   "s": 79,
+   "vertical": false,
+   "desc": "This is the last flight with the development version of Signal R2. I figured we'd throw a few problems at it to see how it responded. The flight was intentionally low and slow in case things didn't go well, however Signal handled it like a champ. The rocket is carrying a dummy second stage.\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "5YqyVZKKCTY",
+   "t": "Signal R2 PCB Assembly - Part 1",
+   "d": "2018-04-22",
+   "v": 8516,
+   "s": 33003,
+   "vertical": false,
+   "desc": "Stream begins at 16:14. In this video, I spend an unreasonable amount of time troubleshooting literally everything. \n\nHelp support development: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ccomUNggsH4",
+   "t": "Model Rocket with Paratrooper",
+   "d": "2018-05-04",
+   "v": 13495,
+   "s": 214,
+   "vertical": false,
+   "desc": "Godspeed, parachute guy! Flight stabilized by Signal R2: https://bps.space/signal/\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "5rqmxqqp5CQ",
+   "t": "G8ST Rocket Motor Test Flight",
+   "d": "2018-05-11",
+   "v": 31531,
+   "s": 168,
+   "vertical": false,
+   "desc": "FLIGHT DATA: https://docs.google.com/spreadsheets/d/1g16lZlNKqRVAd4mePxDKsWFw7Lo1jOPMTm628585Fh4/edit?usp=sharing\n\nA quick note: While the motor did melt the PLA tube holding it, the rest of the TVC assembly(outer/inner gimbal, servos, linkages) were unaffected. Since the heat of the motor was so intense, it's unlikely we'll be able to mitigate it using more liners than were already there. The same goes for using most other plastic FDM materials. For now, we'll probably cut the burn time down a bit and make sure users have access to extra motor mount tubes, should one of them melt. The motor t"
+  },
+  {
+   "id": "qum8X5kdCtg",
+   "t": "Signal R2 - iOS App",
+   "d": "2018-06-07",
+   "v": 22502,
+   "s": 511,
+   "vertical": false,
+   "desc": "Signal R2: https://bps.space/signal\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "fJji2f8LmnU",
+   "t": "Channel Trailer - 2018",
+   "d": "2018-06-09",
+   "v": 148406,
+   "s": 85,
+   "vertical": false,
+   "desc": "Help Support Development: https://www.patreon.com/bps_space\n\nIn chronological order:\nGround Support Equipment: Thomas Queen\nFlight Dynamics Officer: William Easdown\nOperational Safety Manager: Ben Cartwright\nRange Safety Officer: Arsenio Menendez\n\nMusic by Joe Barnard\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "h3f9YhxL6X4",
+   "t": "Fairing Separation Tests - Summer 2018",
+   "d": "2018-06-09",
+   "v": 28266,
+   "s": 62,
+   "vertical": false,
+   "desc": "The parachutes are wrapped in a Nomex blanket to protect them from the direct black powder charge. These charges are home made, loosely based on the \"Christmas Light\" method: http://www.perfectflite.com/Downloads/Ejection.pdf\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "-jB1Cqm2_nQ",
+   "t": "Falcon Heavy Model - Booster Test Flight",
+   "d": "2018-06-18",
+   "v": 75568,
+   "s": 183,
+   "vertical": false,
+   "desc": "The side boosters executed a 20 degree roll program with a rate of 30dps, beginning at T+0.9. Initial pitch-over of the vehicle at launch was due to thrust inconsistencies between booster motors. Because of a low level coordinate transformation error in its flight software, the center core flew with poor stability, correcting roughly 20 degrees off axis for both pitch and yaw. Photos from the flight can be found here: https://bps.space/gallery/\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "-Wqir57hIQs",
+   "t": "Launch Pad Maintenance",
+   "d": "2018-06-20",
+   "v": 17291,
+   "s": 6369,
+   "vertical": false,
+   "desc": "In this stream, like always, I lose my mind a bit.\n\nHelp support development: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "w8pu5PhD2B8",
+   "t": "Rocket Tuning - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 47233,
+   "s": 499,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=w8pu5PhD2B8&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=10\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "vQ4dHN3znGc",
+   "t": "Electron Launch - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 68113,
+   "s": 113,
+   "vertical": false,
+   "desc": "Launched on an Aerotech G11 motor with the Signal R2 thrust vectoring kit as part of the Build Signal R2 video series: https://www.youtube.com/watch?v=1BQkMYj6Kps&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=1\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "DSShSLqesCU",
+   "t": "Launch Preparation - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 20383,
+   "s": 230,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=DSShSLqesCU&index=13&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "qvCnv92uxIo",
+   "t": "Signal Flight Tips - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 15580,
+   "s": 214,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=qvCnv92uxIo&index=12&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "xE7SJ8hLZc4",
+   "t": "TVC Alignment - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 20549,
+   "s": 117,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=xE7SJ8hLZc4&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=11\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "KpVoO-6QEF8",
+   "t": "Electron Decals - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 17806,
+   "s": 146,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=KpVoO-6QEF8&index=9&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nElectron Rocket Parts: https://bps.space/electron\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "UL7fZS304Yw",
+   "t": "Ground Testing - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 32203,
+   "s": 428,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=UL7fZS304Yw&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=8\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "UwYN-8_M714",
+   "t": "Avionics Integration - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 36009,
+   "s": 273,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=UwYN-8_M714&index=7&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nMaking custom ejection charges: http://www.perfectflite.com/Downloads/Ejection.pdf\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "A6kL1jBS7Vo",
+   "t": "Nose Cone and Painting - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 49295,
+   "s": 156,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=A6kL1jBS7Vo&index=6&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nElectron 3D Printable Parts: https://bps.space/electron\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "GaGgLGDbEq4",
+   "t": "Parachute Ejection System - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 107547,
+   "s": 196,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=GaGgLGDbEq4&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=5\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nPiston Ejection System 3D Parts: https://www.thingiverse.com/thing:3032857\n\nDuncan/Uni Knot: https://www.animatedknots.com/duncan/\n\nMaking custom ejection charges: http://www.perfectflite.com/Downloads/Ejection.pdf\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "91ejWgGRE1M",
+   "t": "Airframe Assembly - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 35332,
+   "s": 396,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=91ejWgGRE1M&index=4&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "mA7TwcemOh0",
+   "t": "Thrust Vectoring Mount - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 190090,
+   "s": 449,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=mA7TwcemOh0&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=3\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "6LxunECV5IQ",
+   "t": "Flight Computer - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 32974,
+   "s": 220,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=6LxunECV5IQ&index=2&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV\n\nSignal R2 Kit: https://bps.space/signal\n\nBuild Signal R2: https://bps.space/build-signal-r2\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "1BQkMYj6Kps",
+   "t": "Introduction - Build Signal R2",
+   "d": "2018-08-03",
+   "v": 47779,
+   "s": 81,
+   "vertical": false,
+   "desc": "Watch as a playlist: https://www.youtube.com/watch?v=1BQkMYj6Kps&list=PLyV774-3p835n5XZFz4JMvF-Griy_uOdV&index=1\n\nSignal R2 Kit: https://bps.space/signal\n\nSignal R2 User Manual: https://bps.space/build-signal-r2\n\nElectron Rocket Parts: https://bps.space/electron\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "8tkMoZexLFg",
+   "t": "Echo - Drop Test #1",
+   "d": "2018-08-13",
+   "v": 34782,
+   "s": 115,
+   "vertical": false,
+   "desc": "This is the first real test of model rocket retro-propulsion! At 50m AGL, Signal(the flight computer) commanded release and began computing the optimal retro-burn altitude to \"land\" the rocket at 14m AGL. Signal missed its landing target by a whopping factor of 2, landing instead at 30m AGL. There are several factors involved, but the most likely candidate is that the pre-flight simulations used to generate the landing math were out of date. Now with real flight data, we can dial in landing simulations more reliably. As with SpaceX and Blue Origin, getting this well-tuned will take several tri"
+  },
+  {
+   "id": "CM0TskDKoew",
+   "t": "Echo - Drop Test #2",
+   "d": "2018-08-18",
+   "v": 74191,
+   "s": 85,
+   "vertical": false,
+   "desc": "Echo landed only 2 meters off the target altitude! Parachute ejection charge was a bit too weak, but the vehicle has very little damage from the hard landing. \n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "sjNsnxvJIfE",
+   "t": "Falcon Heavy Upper Stage Flight Explanation",
+   "d": "2018-09-16",
+   "v": 21315,
+   "s": 316,
+   "vertical": false,
+   "desc": "Launch: https://youtu.be/gFeDrlu0OpY\nPatreon: https://www.patreon.com/bps_space\n\nhttps://bps.space/contact/\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "gFeDrlu0OpY",
+   "t": "Falcon Heavy - Upper Stage Test Flight #1",
+   "d": "2018-09-16",
+   "v": 39822,
+   "s": 108,
+   "vertical": false,
+   "desc": "Flight explanation: https://youtu.be/sjNsnxvJIfE\nPatreon: https://www.patreon.com/bps_space\n\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "xIMaAhIL3ZY",
+   "t": "Series Intro - Landing Model Rockets",
+   "d": "2018-09-20",
+   "v": 85357,
+   "s": 327,
+   "vertical": false,
+   "desc": "Episode 1 - Flight Simulation: https://www.patreon.com/posts/landing-model-ep-21536751\n\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nMusic by Joe Barnard\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "McVyVHHiggI",
+   "t": "Arc PCB Assembly",
+   "d": "2018-09-22",
+   "v": 10126,
+   "s": 17475,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "LIu2MedOHLc",
+   "t": "Flight Simulation - Landing Model Rockets Ep. 1",
+   "d": "2018-09-27",
+   "v": 171656,
+   "s": 1349,
+   "vertical": false,
+   "desc": "Flight Simulation Files: https://www.patreon.com/posts/landing-model-ep-21536838\n\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nMusic by Joe Barnard\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "8_hJ48LCXWs",
+   "t": "Echo - Landing Test #1",
+   "d": "2018-10-02",
+   "v": 158905,
+   "s": 427,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "RjcQDPvVHno",
+   "t": "PCB Assembly - Signal R2",
+   "d": "2018-10-13",
+   "v": 17400,
+   "s": 93,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\nMusic by Joe Barnard\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "6oCGFuFBCxE",
+   "t": "Propulsion Types - Landing Model Rockets Ep. 2",
+   "d": "2018-10-16",
+   "v": 185242,
+   "s": 1442,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nCharlie Garcia: https://twitter.com/Chuck0Garcia\nhttps://www.youtube.com/channel/UCgBqAFriBrftRkj304eiiVw\n\nJonny Hyman: https://jonnyhyman.com\nhttps://twitter.com/jonnyhyman\nHuman Digital Control Station: https://github.com/jonnyhyman/HDCS\nAutonomous Digital Control Station: https://github.com/jonnyhyman/ADCS\nJonny's Hybrid Rocket Project: https://bit.ly/2Nzs2PR\n\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.s"
+  },
+  {
+   "id": "AD8ZUQ-qoYI",
+   "t": "Falcon Heavy - Upper Stage Test Flight #2",
+   "d": "2018-10-25",
+   "v": 68359,
+   "s": 569,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "uq4B_E7qJ2k",
+   "t": "Fairing Separation Tests - Fall 2018",
+   "d": "2018-11-05",
+   "v": 120151,
+   "s": 582,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "QQt-9SSJ51c",
+   "t": "Falcon Heavy Model - Flight 1",
+   "d": "2018-11-21",
+   "v": 1063105,
+   "s": 948,
+   "vertical": false,
+   "desc": "Falcon Heavy Details: https://bps.space/falcon-heavy\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "TKgXdEAlgSw",
+   "t": "Flight Computer Outline - Landing Model Rockets Ep. 3",
+   "d": "2018-12-06",
+   "v": 105329,
+   "s": 1021,
+   "vertical": false,
+   "desc": "Blip = Blop = Blip\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "moPANdiULdM",
+   "t": "Happy Holidays!",
+   "d": "2018-12-12",
+   "v": 16912,
+   "s": 78,
+   "vertical": false,
+   "desc": "Happy Christmas! Happy Hanukkah! Whatever you want to celebrate, I hope it's happy \ud83e\udd17 \nI bought this kit a while ago, I'm not sure this specific version is made anymore but there are tons of similar options! \nhttps://amzn.to/2Ep1xfx\nhttps://amzn.to/2EdjZHl\nhttps://amzn.to/2EegeBy\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "lXy-x6lkQvQ",
+   "t": "Echo - Landing Test #2",
+   "d": "2018-12-20",
+   "v": 173554,
+   "s": 768,
+   "vertical": false,
+   "desc": "ooOOOF, close one\nPatreon: https://www.patreon.com/bps_space\nContact: https://bps.space/contact\n\nVICE/Motherboard video: https://youtu.be/xvtzKox3QYg\n\nAll landing tests: https://www.youtube.com/playlist?list=PLyV774-3p8379IkjGRoIYZFhxeaHWaMN1\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "23gJY8a8rHw",
+   "t": "Schematic Design - Landing Model Rockets Ep. 4",
+   "d": "2019-01-11",
+   "v": 184432,
+   "s": 3534,
+   "vertical": false,
+   "desc": "Schematic Files and Part List: https://www.patreon.com/posts/23888406\nQuick Links!\n0:42 - Intro\n2:59 - Opening Eagle\n7:02 - Building a custom Library\n18:56 - Drawing nets\n24:52 - Connecting IMU\n26:29 - Connecting Barometer\n30:10 - Connecting SD Card\n31:12 - Connecting Flash Chip\n35:11 - Connecting LEDs\n41:03 - Connecting Pyro Channels\n46:18 - Voltage Detection Circuit\n48:14 - Connecting Servos\n50:25 - Breakout Header\n55:42 - Building Blop\n\nThe Eagle tutorial series I used: https://www.youtube.com/watch?v=1AXwjZoyNno\nProbably a better version if you're starting today: https://www.youtube.com/wa"
+  },
+  {
+   "id": "1KJv9ZDm5ZA",
+   "t": "Live Building Scout D",
+   "d": "2019-01-13",
+   "v": 396983,
+   "s": 12491,
+   "vertical": false,
+   "desc": "Scout D is the latest series of the Scout vehicle. Scout V0.1 was the first vehicle built by BPS.space in 2015, and the D series will be the first to launch and land in one flight.\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ClvInSDSf5g",
+   "t": "Failure and Burnout",
+   "d": "2019-01-19",
+   "v": 43267,
+   "s": 688,
+   "vertical": false,
+   "desc": "Updates for tests and launches like Scout D1 are most frequently posted here:\nhttps://twitter.com/joebarnard\nhttps://www.instagram.com/bps.space/\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "_5TG_zQny2E",
+   "t": "Reaction Control System(RCS) Development",
+   "d": "2019-02-20",
+   "v": 100237,
+   "s": 905,
+   "vertical": false,
+   "desc": "Parts links and 3D files: https://www.patreon.com/posts/rcs-parts-files-24841070\nCharlie Garcia: https://twitter.com/Chuck0Garcia\nhttps://www.youtube.com/user/dragonrider66511\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "7utfybWyzSs",
+   "t": "Live Launch Pad Maintenance",
+   "d": "2019-02-26",
+   "v": 54938,
+   "s": 11432,
+   "vertical": false,
+   "desc": "Modifying the BPS.space Launch Pad 2.0 from a single-core setup to a triple-core setup. Details: https://bps.space/launch-pads\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "Ntc9QRZ-51s",
+   "t": "BPS.space Update - National Rocketry Conference 2019",
+   "d": "2019-03-06",
+   "v": 161744,
+   "s": 3020,
+   "vertical": false,
+   "desc": "Presented on March 2, 2019 at NARCON in Cape Canaveral, Florida.\nRocket Propulsion Elements: https://amzn.to/2HQASsN\nStructures: https://amzn.to/2Iarn6F\nArduino Tutorial: https://www.youtube.com/playlist?list=PLA567CE235D39FA84\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "pPqZVBFnCxk",
+   "t": "PCB Layout - Landing Model Rockets Ep. 5",
+   "d": "2019-03-17",
+   "v": 96813,
+   "s": 3025,
+   "vertical": false,
+   "desc": "PCB files, parts list, schematic files: https://www.patreon.com/posts/blip-blop-pcb-25414861\nThe Eagle tutorial series I used: https://youtu.be/CCTs0mNXY24\nProbably a better version if you're starting today: https://youtu.be/SkxbnIypGwY\n\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "P3sfOFgR5Yo",
+   "t": "Reaction Control System - PCB Assembly",
+   "d": "2019-03-20",
+   "v": 12283,
+   "s": 18034,
+   "vertical": false,
+   "desc": "Assembling the Relay RCS computer! This PCB will be the brain the in-development reaction control system. Details on development: https://youtu.be/_5TG_zQny2E\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "fk6CHDXd5Kc",
+   "t": "Scout D1 Flight 1 and BPS.space Update",
+   "d": "2019-03-24",
+   "v": 80563,
+   "s": 941,
+   "vertical": false,
+   "desc": "Scout D1 engineering footage and flight data: https://www.patreon.com/posts/scout-d1-footage-25234176\nBlip and Blop PCB files: https://www.patreon.com/posts/blip-blop-pcb-25414861\nSignal Avionics Kit: https://bps.space/signal\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "RQ1eHFKMoFo",
+   "t": "Scout D1 | Flight 2",
+   "d": "2019-04-13",
+   "v": 86630,
+   "s": 866,
+   "vertical": false,
+   "desc": "Signal TVC Kit: https://bps.space/signal\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "V1u7OxfGwM4",
+   "t": "PCB Production - Landing Model Rockets Ep. 6",
+   "d": "2019-04-19",
+   "v": 63197,
+   "s": 1708,
+   "vertical": false,
+   "desc": "Schematics, Layouts, Part Lists, Gerber Files, everything you need to get either(or both!) of these boards built \ud83d\ude80\u2192 https://www.patreon.com/posts/blip-and-blop-26204885\n\nTutorials for generating Gerber files:\nhttps://support.jlcpcb.com/article/43-how-to-export-eagle-pcb-to-gerber-files\nhttps://www.build-electronic-circuits.com/gerber-file/\nhttps://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers\n\nHow PCBs are manufactured: https://youtu.be/ljOoGyCso8s\n\nLanding Model Rockets Series Playlist: https://www.youtube.com/playlist?list=PLyV774-3p8348Fl5V6ciIBh0ZA446q93I\n\nFor mo"
+  },
+  {
+   "id": "TDDRi2ECMkU",
+   "t": "Blip & Blop - PCB Assembly",
+   "d": "2019-04-20",
+   "v": 23725,
+   "s": 16035,
+   "vertical": false,
+   "desc": "Assembling the Blip and Blop flight computers! For more details on what these computers do, check out Episode 3 of Landing Model Rockets: https://youtu.be/TKgXdEAlgSw\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "h3WGLvYlzb8",
+   "t": "Echo - Landing Test #3",
+   "d": "2019-04-25",
+   "v": 126568,
+   "s": 1381,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\nThanks to Roland from Actiflow for the CFD analysis! https://actiflow.com\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "NsjrTfA_ysU",
+   "t": "Live RCS Ground Testing",
+   "d": "2019-04-30",
+   "v": 22981,
+   "s": 7386,
+   "vertical": false,
+   "desc": "Ground Testing the Reaction Control System! Plus some space trivia. More details on the RCS: https://youtu.be/_5TG_zQny2E\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "10Pdl0Omet8",
+   "t": "Model Rocket RCS Thruster Update",
+   "d": "2019-05-02",
+   "v": 153394,
+   "s": 825,
+   "vertical": false,
+   "desc": "RCS testing live stream: https://youtu.be/NsjrTfA_ysU\nOlder RCS development video: https://youtu.be/_5TG_zQny2E\nContact: https://bps.space/contact/\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "yx5zLykjKy8",
+   "t": "Echo - Landing Test #4",
+   "d": "2019-05-09",
+   "v": 245777,
+   "s": 1025,
+   "vertical": false,
+   "desc": "Visualizing Quaternions: https://youtu.be/d4EgbgTm0Bg\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nThanks for the data, Jonny! https://jonnyhyman.com/\n\nContact: https://bps.space/contact\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "bWpQ3_todlQ",
+   "t": "Landing Leg Giveaway & BPS.space Trivia",
+   "d": "2019-05-17",
+   "v": 24987,
+   "s": 11667,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "QG9eUzbEPxs",
+   "t": "Operation Thoomp - Live Design",
+   "d": "2019-05-25",
+   "v": 20510,
+   "s": 17135,
+   "vertical": false,
+   "desc": "Operation Thoomp... coming so0o0o0o0on :)\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "WSAB2KNgVso",
+   "t": "BPS.space Update - June 2019",
+   "d": "2019-06-03",
+   "v": 39788,
+   "s": 375,
+   "vertical": false,
+   "desc": "TVC 3D files: https://bps.space/tvc\nKerbal Space Program Nightmare: https://youtu.be/tTOfq486bto\nPatron Scout D1 Launch Meetup: https://www.patreon.com/posts/patreon-update-27283896\n\nBlip and Blop PCB files: https://www.patreon.com/posts/blip-and-blop-26204885\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "0EyxipDhMXg",
+   "t": "Live RCS Roll Testing",
+   "d": "2019-06-04",
+   "v": 23571,
+   "s": 5710,
+   "vertical": false,
+   "desc": "Details on the BPS.space RCS setup: https://youtu.be/10Pdl0Omet8\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "sSgAFmx_Ym0",
+   "t": "Oops",
+   "d": "2019-06-07",
+   "v": 27596,
+   "s": 56,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\r\n\r\nFor more info:\r\nhttps://twitter.com/joebarnard\r\nhttps://twitter.com/bps_space\r\nhttps://www.instagram.com/bps.space/\r\nhttps://www.facebook.com/bps.space/\r\nhttp://www.bps.space"
+  },
+  {
+   "id": "OE0_-g7YV1M",
+   "t": "Channel Trailer - 2019",
+   "d": "2019-06-08",
+   "v": 4525068,
+   "s": 109,
+   "vertical": false,
+   "desc": "Been a crazy few years - here's to a few more \ud83d\ude80\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nMusic by Joe Barnard\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "ic4sPyOwRLs",
+   "t": "How We Talk About Failure",
+   "d": "2019-06-11",
+   "v": 29769,
+   "s": 340,
+   "vertical": false,
+   "desc": "We're gonna launch again soon, and we're gonna get it right. \ud83d\ude80\nScout D1 Launch Failure: https://youtu.be/YHrm6LkDm0w\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "YHrm6LkDm0w",
+   "t": "Live Scout D1 Launch",
+   "d": "2019-06-11",
+   "v": 48879,
+   "s": 4542,
+   "vertical": false,
+   "desc": "Flying on an Aerotech H13 motor. The test site has poor cell reception, hence the low quality. I have had the worst luck with live streams lately, cross your fingers we get it right this time!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "OUbYZPGv7ho",
+   "t": "Silo-Launched Model Rocket Development",
+   "d": "2019-06-18",
+   "v": 123874,
+   "s": 744,
+   "vertical": false,
+   "desc": "Thoomp Live CAD: https://youtu.be/QG9eUzbEPxs\nRCS Live Roll Testing: https://youtu.be/0EyxipDhMXg\nTom Stanton's Video: https://youtu.be/XpA6qpNlNOE\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "tyXjs2Ag788",
+   "t": "PCB Assembly - Landing Model Rockets Ep. 7",
+   "d": "2019-06-21",
+   "v": 88464,
+   "s": 3157,
+   "vertical": false,
+   "desc": "Schematics, Layouts, Part Lists, and Gerber Files \ud83d\ude80\u2192 https://www.patreon.com/posts/blip-and-blop-26204885\nGear used in this video:\nSoldering Mat: https://amzn.to/2Y0OaZp\nTweezers: https://amzn.to/2FmGGIJ\nHelping Hands: https://amzn.to/2WQMFAi\nSoldering Station: https://amzn.to/2ZC7oF8\nSolder: https://amzn.to/2WW8lLD\nUSE A SOLDERING FAN DON'T BE LIKE ME: https://amzn.to/2WWUZyq\n^^These are affiliate links - you don't need to, but using them helps support BPS.space!\n\nIntermission music:\nLocal Forecast by Kevin MacLeod\nLicense: CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/\n\nLanding Mod"
+  },
+  {
+   "id": "s9aTd29t2dg",
+   "t": "Live Scout D1 Launch",
+   "d": "2019-06-29",
+   "v": 93897,
+   "s": 3210,
+   "vertical": false,
+   "desc": "Flying on an Aerotech H13 motor. The test site has poor cell reception, hence the low quality. I have had the worst luck with live streams lately, cross your fingers we get it right this time!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "S4HfGVRU_xY",
+   "t": "Echo - Landing Test #5",
+   "d": "2019-07-10",
+   "v": 191206,
+   "s": 852,
+   "vertical": false,
+   "desc": "\"just call me bowling ball cause i be rollin\" - Echo, 2019\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "b4cpxoSVXiY",
+   "t": "RCS Roll Axis Testing #2",
+   "d": "2019-07-14",
+   "v": 32379,
+   "s": 5587,
+   "vertical": false,
+   "desc": "More testing on the RCS dev vehicle! Just a bit more roll testing today, nothing fancy. Figured I'd turn a camera on while it happens.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "BcKL4M5XodY",
+   "t": "Books I Recommend",
+   "d": "2019-07-16",
+   "v": 234893,
+   "s": 769,
+   "vertical": false,
+   "desc": "Some of these are more fun than technical, but they\u2019re still great reads! I learned quite a bit from online resources which I\u2019ll talk about in a future video. Figured it\u2019d still be nice to put these all in.\nPersonal book recommendations: https://youtu.be/LK40_hlmM2E\n\nRocket Propulsion Elements: https://amzn.to/2lhZjq0\nStructures: https://amzn.to/2lgRml4\nThe Martian: https://amzn.to/2kfEwTS\nLongitude: https://amzn.to/2lhZOjY\nThe Wright Brothers: https://amzn.to/2ljqfWl\nThe Elegant Universe: https://amzn.to/2kfFDD2\nBillions and Billions: https://amzn.to/2lOkosC\nInventing Accuracy: https://amzn.t"
+  },
+  {
+   "id": "AQAO3cMy92M",
+   "t": "Falcon Heavy Launch Pad Conversion",
+   "d": "2019-07-18",
+   "v": 50241,
+   "s": 7791,
+   "vertical": false,
+   "desc": "The BPS.space launch pad can support single core or three core vehicles. The conversion process involves shifting several launch clamps around and reconfiguring the launch software. More info: https://bps.space/launch-pads\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "4Cx3hvELZOU",
+   "t": "Falcon Heavy Model Integration",
+   "d": "2019-07-20",
+   "v": 731589,
+   "s": 14312,
+   "vertical": false,
+   "desc": "The BPS Falcon Heavy Model is flying soon! We need to start putting all the parts together for it, and fix a few things along the way. For more info: https://bps.space/falcon-heavy\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nTVC mount: https://bps.space/tvc\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "Bxu2_aIEvpo",
+   "t": "Falcon Heavy Model Tuning and Simulation",
+   "d": "2019-07-25",
+   "v": 48935,
+   "s": 6692,
+   "vertical": false,
+   "desc": "A version of this process needs to happen before each BPS flight. In order to keep the vehicle stable, we need to simulate how it will pitch, yaw, and roll. For more info: https://bps.space/falcon-heavy\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nTVC mount: https://bps.space/tvc\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "UKJ2pS2ah-s",
+   "t": "Falcon Heavy Model Tuning and Simulation",
+   "d": "2019-07-25",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": "A version of this process needs to happen before each BPS flight. In order to keep the vehicle stable, we need to simulate how it will pitch, yaw, and roll. For more info: https://bps.space/falcon-heavy\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nTVC mount: https://bps.space/tvc\n\nAll music by Joe Barnard\n\nFor more information:\nhttps://twitter.com/joebarnard\nhttp://www.bps.space"
+  },
+  {
+   "id": "ff5245EBfis",
+   "t": "Falcon Heavy Model - Flight 2",
+   "d": "2019-07-31",
+   "v": 1132357,
+   "s": 788,
+   "vertical": false,
+   "desc": "Falcon Heavy Model details: https://bps.space/falcon-heavy\nFlight 1: https://youtu.be/QQt-9SSJ51c\nThis launch was also photographed by Trevor Mahlmann! You can see photos and support his work here!\nhttps://twitter.com/TrevorMahlmann\nhttps://www.patreon.com/trevormahlmann/overview\n\nFH Launch Pad live stream: https://youtu.be/AQAO3cMy92M\nFH Integration live stream: https://youtu.be/4Cx3hvELZOU\nFH Tuning live stream: https://youtu.be/Bxu2_aIEvpo\n\nLaunch Pad details: https://bps.space/launch-pads\n\nFH outer part files: https://www.patreon.com/posts/bps-falcon-heavy-28798297\nTVC files: https://bps.s"
+  },
+  {
+   "id": "6ay_mfbsWoE",
+   "t": "Thoomp Vehicle Assembly",
+   "d": "2019-08-09",
+   "v": 110345,
+   "s": 11178,
+   "vertical": false,
+   "desc": "Thoomp is the silo/tube ejected model rocket I've been working on! The ejection tube is coming together well, but we need a rocket to launch out of it, that's what we're doing today!\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "ha-0-D1vHmY",
+   "t": "Flight Software Setup - Landing Model Rockets Ep. 8",
+   "d": "2019-08-12",
+   "v": 318070,
+   "s": 1973,
+   "vertical": false,
+   "desc": "Blip PCB Design Files: https://www.patreon.com/posts/blip-and-blop-26204885\nBlip Test Code: https://www.patreon.com/posts/blip-test-code-1-29110756\nArduino programming tutorial: https://www.youtube.com/watch?v=fCxzA9_kg6s&list=PLA567CE235D39FA84\n\nTeensy/Arduino instructions: https://www.pjrc.com/teensy/tutorial.html\n\nBPS Discord/Patreon: https://www.patreon.com/bps_space\n\nBrady Kenniston's Photography: https://www.bradykennistonphotography.com/SpaceX-Launch-Photography\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps:/"
+  },
+  {
+   "id": "GJdvc7ZZCSg",
+   "t": "Sprite PCB Assembly",
+   "d": "2019-08-22",
+   "v": 29534,
+   "s": 20395,
+   "vertical": false,
+   "desc": "Sprite is an EDF powered hopper/lander vehicle - today we're building the flight computer which will control it!\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "FLr27xOCoK0",
+   "t": "Thrusty McThrustFace - Level 2 Cert Attempt",
+   "d": "2019-09-07",
+   "v": 340566,
+   "s": 571,
+   "vertical": false,
+   "desc": "Time to get that Level 3 cert amirite? \u00af\\_(\u30c4)_/\u00af\nDetails on High Powered Rocketry Levels: https://www.nar.org/high-power-rocketry-info/\nBAMA Recovery Systems: https://www.bamachutes.com/\nParker\u2019s Twitter has more rocket things: https://twitter.com/parkerjwaugh\n\nWhite Socks: https://tinyurl.com/whitethrustysocks\nBlack Socks: https://tinyurl.com/blackthrustysocks\n\nThrusty McThrustFace Level 1 Flight: https://youtu.be/0oVulMfica4\nThrusty Camera Mount Design Stream: https://youtu.be/D-rxtf7694s\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www."
+  },
+  {
+   "id": "6G_o5Idmqns",
+   "t": "Silo Launched Model Rocket",
+   "d": "2019-09-20",
+   "v": 1441237,
+   "s": 634,
+   "vertical": false,
+   "desc": "Lots more Thoomp coming soon :)\nMusic by Joe Barnard\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "igtcGMTDUIs",
+   "t": "Rocket Motor Test Stand",
+   "d": "2019-10-18",
+   "v": 238531,
+   "s": 687,
+   "vertical": false,
+   "desc": "Test Data: https://bit.ly/31tYA4q\nRaw Test Footage: https://www.patreon.com/posts/sprite-test-raw-30858597\nMusic by Joe Barnard. I'll be publishing a bunch of this music in a few months :)\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "TqN7xSmBu7s",
+   "t": "a video that is not about trees",
+   "d": "2019-10-25",
+   "v": 41303,
+   "s": 94,
+   "vertical": false,
+   "desc": "there are no other links in the description except TREE THINGS https://teamtrees.org/\nWhat is TeamTrees? https://youtu.be/7bsuXsxX950\nOr watch this: https://youtu.be/U7nJBFjKqAY\nOr this: https://youtu.be/HPJKxAhLw5I\nor essentially anything else that was uploaded to YouTube on Oct 25 2019 okay thanks for reading goodbye"
+  },
+  {
+   "id": "uJeBKuA4LRo",
+   "t": "Back-to-back Silo Launched Model Rocket",
+   "d": "2019-11-19",
+   "v": 230964,
+   "s": 599,
+   "vertical": false,
+   "desc": "Both flights were on an Estes F15 rocket motor, about 15 min apart - first flight was set to maintain ejection orientation, second flight was set to pitch over 20 degrees on the ECEF X axis.\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "-Xj58SDUL_M",
+   "t": "We Need To Talk",
+   "d": "2019-11-19",
+   "v": 61634,
+   "s": 383,
+   "vertical": false,
+   "desc": "Joe Barnard channel: https://www.youtube.com/user/musicmakr\n\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "2ex4aejaGX8",
+   "t": "What Is Sprite?",
+   "d": "2019-11-21",
+   "v": 175886,
+   "s": 480,
+   "vertical": false,
+   "desc": "Hope things make a bit more sense on this project now! Still have lots to figure out, fingers crossed we can get hoppin before 2020 :)\nThanks again to VectorNav for sending the VN-300 IMU/AHRS as a sponsorship for this project! You can learn more about them here: https://www.vectornav.com/\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "AkXZcNObUIc",
+   "t": "TVC Vane Alignment",
+   "d": "2019-11-25",
+   "v": 78060,
+   "s": 287,
+   "vertical": false,
+   "desc": "Still a plenty of work to do before this thing is ready to fly, but things are steadily moving forward\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\ni carbonated milk because of who i am as a person: https://youtu.be/9vM6KhB2ims\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "9EDv6U2t9R0",
+   "t": "GNSS and Telemetry Downlink on Sprite",
+   "d": "2019-12-03",
+   "v": 38571,
+   "s": 561,
+   "vertical": false,
+   "desc": "Old Launchpad Info: https://youtu.be/TJC2sAHBm6E\nNASA's Open MCT: https://nasa.github.io/openmct/\nBall Aero COSMOS: https://cosmosrb.com/\nVectorNav:https://www.vectornav.com/\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "fYsA3T8rlhg",
+   "t": "Sprite Ground Control",
+   "d": "2019-12-15",
+   "v": 65802,
+   "s": 1141,
+   "vertical": false,
+   "desc": "HUGE thanks to Nathan for working on the live 3D visualization: https://twitter.com/nmk4567\nControlP5: http://www.sojamo.de/libraries/controlP5/\nRealtime Plotter: https://github.com/sebnil/RealtimePlotter\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "WKpqoOe8lws",
+   "t": "Echo - Landing Test #6",
+   "d": "2020-01-10",
+   "v": 314730,
+   "s": 946,
+   "vertical": false,
+   "desc": "#EchoIsOverParty\nWhat is Sprite? https://youtu.be/2ex4aejaGX8\nTMRO: https://www.youtube.com/user/TMRO\nInterview: https://youtu.be/8JAmtd5uo2I\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "3FLV0EjmUzo",
+   "t": "EDF Afterburner Fire",
+   "d": "2020-01-13",
+   "v": 190033,
+   "s": 767,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "CZndQnJzas0",
+   "t": "Building A New Flight Computer",
+   "d": "2020-01-19",
+   "v": 55579,
+   "s": 15840,
+   "vertical": false,
+   "desc": "This computer controls Sprite; the BPS hopper vehicle that's almost ready to fly. During a test yesterday, one of the flight computers was damaged, so the craft needs a replacement.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "5kuLr_fbaNs",
+   "t": "Sprite's First Hop - 1m, No Afterburner",
+   "d": "2020-02-03",
+   "v": 232680,
+   "s": 33,
+   "vertical": false,
+   "desc": "A few things to note!\n1. Launching on a slope is still hard for Sprite, hence the wiggling at liftoff.\n2. The slope and camera alignment makes it looks like Sprite is fighting wind, but there wasn't much of that today.\n3. Telemetry downlink rate is flexible depending on system state, which is why it drops during flight.\n4. Afterburner hops coming soon, but not until we have a bunch of these safe hops done where I can stand near the craft in case things go metaphorically, or literally, south.\n5. Still plenty of work to do on a billion parts of this monstrosity, one step at a time :)\n\nHelp suppo"
+  },
+  {
+   "id": "Y4bytFONIUI",
+   "t": "Sprite 40 Second Hover  - 0.6m, No Afterburner",
+   "d": "2020-02-05",
+   "v": 96719,
+   "s": 52,
+   "vertical": false,
+   "desc": "4K 60P was asked for, so here you go! Just about ready to add the afterburner, I'd like to smooth out altitude control a little more first though. Looks like we've also got some error in the altitude estimate, likely from the barometer. I can fix this by relying more heavily on the GPS and LIDAR.\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "mn67M1bJyUs",
+   "t": "TVC Model Verification",
+   "d": "2020-02-16",
+   "v": 75852,
+   "s": 925,
+   "vertical": false,
+   "desc": "Shout out to blue light glasses for A. Helping me sleep better and B. Ending the \u201chaha he look lik elon musk\u201d comments???\nScout D1 Flight: https://youtu.be/RQ1eHFKMoFo\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "nJvDWAo-TVU",
+   "t": "Sprint Rocket Teaser",
+   "d": "2020-02-22",
+   "v": 89676,
+   "s": 39,
+   "vertical": false,
+   "desc": "Sooooooooon\u2122\n\nMusic: https://soundcloud.com/joe-barnard/sprint-intro\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "8VvCIbDdbKg",
+   "t": "Sprite - Hop and Divert Montage + Updates",
+   "d": "2020-02-27",
+   "v": 130809,
+   "s": 1303,
+   "vertical": false,
+   "desc": "Hope y\u2019all enjoy the big ol compilation here! Tried to include all the 4k 60fps angles and data your little engineer hearts could ever want :) \nTesting timestamps below!\n\nThanks to Jonathan Boggs from Triiaxis for machining the TVC vanes! You can check out all his work here: https://www.youtube.com/user/split141x\nTVC Vane CNCing pt 1: https://youtu.be/aniKdxN4Xm4\nTVC Vane CNCing pt 2: https://youtu.be/rIG93UXWcJs\nhttps://triiaxis.com/\n\nFeb 25th, 2020:\n1 meter, 1 min flight: 0:28\n1 meter up, 2 meters over: 2:48\n2 meters up, 4 meters over: 4:56\n3 meters up, 4 meters over flight 1: 6:04\n3 meters "
+  },
+  {
+   "id": "4cw9K9yuIyU",
+   "t": "How To Build a Thrust Vectored Model Rocket - National Rocketry Conference 2020",
+   "d": "2020-03-09",
+   "v": 349482,
+   "s": 3012,
+   "vertical": false,
+   "desc": "Apologies for the rough video quality, I had to set up cameras very quickly right before the presentation, and boy did I goof up some of the settings...\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nCopenhagen Suborbitals' Thrust Vanes: https://youtu.be/OPz4xeCPZU0\nFlorida Tech Vector Bravo TVC System: https://youtu.be/MS5jkXnV-3w\nRob from T-Zero Systems: https://www.youtube.com/channel/UCU0AWvnd3FSstJOpKWH320A\n\nThe BPS Thrust Vector Control Motor Mount: https://bps.space/tvc\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.co"
+  },
+  {
+   "id": "agtoHvcpcP4",
+   "t": "Sprint - Test Flight 1",
+   "d": "2020-03-12",
+   "v": 133354,
+   "s": 512,
+   "vertical": false,
+   "desc": "Lesson learned... the focus ring is clockwise for closer, counterclockwise for further. Sorry for getting half the flight out of focus on the tracking cam.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "J2ACQsmkPJs",
+   "t": "Sprint - Test Flight 2 + Q&A",
+   "d": "2020-03-20",
+   "v": 113719,
+   "s": 887,
+   "vertical": false,
+   "desc": "Hi good news I still did a bad job tracking the rocket with the ground cameras\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "GOWC5fzv70k",
+   "t": "Sprint - Test Flight 3",
+   "d": "2020-03-29",
+   "v": 85737,
+   "s": 538,
+   "vertical": false,
+   "desc": "\ud83d\ude80\ud83c\udd92\ud83c\udd99\ud83c\udd97\ud83e\udd80\nI edited this on a live stream: https://youtu.be/HlZlu2KBxWo\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "XwASPWXh0us",
+   "t": "Sprint - Test Flight 4",
+   "d": "2020-04-03",
+   "v": 86563,
+   "s": 678,
+   "vertical": false,
+   "desc": "In the interest of being thorough, I ran one more F10 test flight without a roll program to zero in on the roll-control reaction wheel.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nPotentially rocket footage here: https://twitter.com/joebarnard\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "eh8ic1-5wFo",
+   "t": "Sprint - Test Flight 5 + Project Recap",
+   "d": "2020-04-15",
+   "v": 207095,
+   "s": 303,
+   "vertical": false,
+   "desc": "Thanks to AeroTech for developing these crazy long-burning motors!\nHelp support BPS.space: https://www.patreon.com/bps_space\nMusic: Sunrise on L-0 - Joe Barnard\nI'll be releasing some of the BPS.space music later this year :)\n\nSprint - Test Flight 1: https://youtu.be/agtoHvcpcP4\nSprint - Test Flight 2: https://youtu.be/J2ACQsmkPJs\nSprint - Test Flight 3: https://youtu.be/GOWC5fzv70k\nSprint - Test Flight 4: https://youtu.be/XwASPWXh0us\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www."
+  },
+  {
+   "id": "_7mTGzWX7II",
+   "t": "AVA - PCB Assembly",
+   "d": "2020-04-21",
+   "v": 86261,
+   "s": 22434,
+   "vertical": false,
+   "desc": "AVA is a brand new flight computer, built to control anything I build. You might say, it is the avionics, for all vehicles. All Vehicle Avionics... :)\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "kpVY49hIA-E",
+   "t": "LIVE Telemetry Ground Computer Build",
+   "d": "2020-05-06",
+   "v": 184700,
+   "s": 10685,
+   "vertical": false,
+   "desc": "AVA is almost ready to fly, but before that happens, we need a computer on the ground to receive the live telemetry from AVA in flight! Nothing fancy, no PCBs or SMD, just good ol slightly sketchy protoboard :)\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "_g_N6ocquSY",
+   "t": "All My Rockets That Didn't Work",
+   "d": "2020-06-13",
+   "v": 1869990,
+   "s": 215,
+   "vertical": false,
+   "desc": "Here's another fun tip, don't launch in a small urban space like those first few flights...\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nThe Blue Danube - Johann Strauss II\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "BoevqNVv4ck",
+   "t": "Sprint - Test Flights 6 and 7",
+   "d": "2020-06-23",
+   "v": 90903,
+   "s": 546,
+   "vertical": false,
+   "desc": "Sprint Flight 6 Failure Analysis: https://docs.google.com/document/d/16zM6SP1sTve2I6K2AXh8Dkgtom8WFHtz9NkiJNqLUBQ/edit?usp=sharing\nOptimal State Estimation: https://amzn.to/2Z2qFR9\nControl System Design: https://amzn.to/3hVei1W\n^^These are affiliate links, which means I make some money if you use them\n\nThere's merch now! We only have US shipping set up, but we'll do international shipping soon: https://bps.space/shop\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nh"
+  },
+  {
+   "id": "WTQ1Kb1Fvj8",
+   "t": "Sprint - Test Flight 8 and Data Review",
+   "d": "2020-06-24",
+   "v": 128593,
+   "s": 1010,
+   "vertical": false,
+   "desc": "Thanks to all who've supported this project in any way! 200k subscribers is a crazy number, and I'm grateful that people take interest in what I do. There are many other fantastic rocketry projects too! A few of them are listed here and at the end of the video, but many more are at the tweet below :)\nTVC Tweet: https://twitter.com/joebarnard/status/1275455901642616836\n\nVarious cool projects in no particular order:\nT-Zero: https://www.youtube.com/channel/UCU0AWvnd3FSstJOpKWH320A\nOrion Aero: https://www.youtube.com/channel/UCXaZazyzX4Ibq69PdRHRTZw\nCharlies Roger: https://twitter.com/Charles_Rock"
+  },
+  {
+   "id": "y4xR0Fi53qI",
+   "t": "Sprint - Test Flight 9 - Aerotech G11",
+   "d": "2020-07-16",
+   "v": 115451,
+   "s": 546,
+   "vertical": false,
+   "desc": "Sprint Flight 10 Livestream: https://youtu.be/JbAzlw49QV4\nStay up to date on when the stream/launch here: https://twitter.com/joebarnard\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "33NK2M6GXM4",
+   "t": "Sprint 1km Update",
+   "d": "2020-07-21",
+   "v": 45896,
+   "s": 157,
+   "vertical": false,
+   "desc": "Sorry everyone! Really overlooked the cell connection factor! We\u2019re out in the middle of nowhere so I should have figured it\u2019d be harder to get a signal :/"
+  },
+  {
+   "id": "JbAzlw49QV4",
+   "t": "LIVE Sprint - Test Flight 10 - 1km",
+   "d": "2020-07-24",
+   "v": 87543,
+   "s": 2577,
+   "vertical": false,
+   "desc": "Let's try this again...\nIntro Music: https://soundcloud.com/joe-barnard/sprint-livestream-intro\nLaunching from \"Site C\" roughly 1 hour north of Nashville, TN, Sprint will attempt to reach an apogee of 1km on an Aerotech H13 rocket motor and descend safely back to the ground under parachutes.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "F9uLXyT-r8E",
+   "t": "Sprint - Test Flight 10 - Aerotech H13",
+   "d": "2020-07-26",
+   "v": 170592,
+   "s": 639,
+   "vertical": false,
+   "desc": "Thanks again to Perry and Arsenio for the voice telemetry readout add-on!\nPerry: https://twitter.com/PeregrineDev\nArsenio: https://twitter.com/Ascii211\n\nBPS.space mug! https://bps.space/shop/bps-mug-11oz\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "hsIDYcNZaSw",
+   "t": "Launch Pad Updates",
+   "d": "2020-09-12",
+   "v": 257125,
+   "s": 599,
+   "vertical": false,
+   "desc": "\ud83d\udd1c \ud83d\ude80 \ud83c\udd99 \ud83d\udd04 \ud83d\ude80 \u2b07\ufe0f \ud83c\udd92\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nT-Zero Systems: https://www.youtube.com/channel/UCU0AWvnd3FSstJOpKWH320A\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "qaWvCy2DRSA",
+   "t": "The AVA Flight Computer",
+   "d": "2020-09-22",
+   "v": 961423,
+   "s": 1102,
+   "vertical": false,
+   "desc": "Lemme know if you spot the error on the board. There is at least one... :)\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nOptimal State Estimation - Dan Simon: https://amzn.to/2HoCYlV\n\nContact BPS.space: https://bps.space/contact\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "nwgd1CV__rs",
+   "t": "Modeling a Thrust Vectored Rocket In Simulink",
+   "d": "2020-10-14",
+   "v": 323748,
+   "s": 855,
+   "vertical": false,
+   "desc": "Thanks to Mathworks for sponsoring this video! The Aerospace Blockset model, and Simscape model, can be found for free here: https://github.com/mathworks/Modeling-TVCd-Rocket-in-Simulink\n\nFor MATLAB and Simulink videos, subscribe to the MATLAB YouTube channel: https://www.youtube.com/user/MATLAB\nLearn how to get MATLAB and Simulink: https://www.mathworks.com/products/get-matlab.html\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps:"
+  },
+  {
+   "id": "KVwWf3ZIlow",
+   "t": "BPS.space Live Stream",
+   "d": "2020-11-16",
+   "v": 0,
+   "s": 0,
+   "vertical": null,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "YixmPK26upk",
+   "t": "Scout E - Flight 1 Launch + Landing",
+   "d": "2020-11-25",
+   "v": 942061,
+   "s": 1063,
+   "vertical": false,
+   "desc": "Flight 2 coming soon! I'll post updates about that, and the Kalman filter investigation on Twitter: https://twitter.com/joebarnard\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nParker Waugh, former BPS.space intern and leg designer extraordinaire: https://twitter.com/parkerjwaugh?lang=en\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "KYxOVKba0w0",
+   "t": "Taking A Break",
+   "d": "2020-12-22",
+   "v": 107761,
+   "s": 195,
+   "vertical": false,
+   "desc": "I'll still be tweeting dumb stuff on Twitter, but there won't be new videos for a while. https://twitter.com/joebarnard"
+  },
+  {
+   "id": "iaKS6MpyVdM",
+   "t": "BPS.space In 2021",
+   "d": "2021-02-04",
+   "v": 139158,
+   "s": 906,
+   "vertical": false,
+   "desc": "Thank you to all the people who reached out with advice and support after the last video - I'm excited to head into this year with some new techniques to make sure that doesn't happen again :)\nBPS merch will make you look like someone who has BPS merch: https://bps.space/shop\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "Z3Lhhg_Nb20",
+   "t": "Into The Dirt At 180mph - AVA's first HPR Flight",
+   "d": "2021-02-12",
+   "v": 345296,
+   "s": 1175,
+   "vertical": false,
+   "desc": "Start your 30-day Audible trial and get your free audiobook by going to https://www.audible.com/bpsspace or by texting BPSSPACE to 500500.\n\nApologies again to Parker :( https://twitter.com/parkerjwaugh\n\nBPS merch will make literally every aspect of your life better: https://bps.space/shop\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "PuK4khlWKqg",
+   "t": "Lumineer Design - 10km/Mach 1.7 L3 Rocket",
+   "d": "2021-03-03",
+   "v": 251453,
+   "s": 694,
+   "vertical": false,
+   "desc": "Able to mill a large chunk of stainless steel? \u2192 https://bps.space/contact\nI'll be posting updates on the L3 rocket more frequently here: https://twitter.com/joebarnard\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "Ge5snoNejq8",
+   "t": "Lumineer - 10km Launch Teaser",
+   "d": "2021-04-08",
+   "v": 111892,
+   "s": 174,
+   "vertical": false,
+   "desc": "Launch is planned for between 9am and 12 noon Pacific Time on Saturday, April 10th, 2021. The flight will be live streamed here: https://youtu.be/BtdsrU057Ms\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nMusic: Over Endless Fields - David Celeste\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "BtdsrU057Ms",
+   "t": "LIVE LAUNCH Lumineer - 10km Test Flight",
+   "d": "2021-04-10",
+   "v": 249876,
+   "s": 4034,
+   "vertical": false,
+   "desc": "The launch time is fluid - the live stream will begin at least 20 minutes before liftoff, which will likely be between 9am - 11:30am Pacific Time, April 10, 2021. Live chat will be enabled on the day of launch.\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "kpl2iQG6IWI",
+   "t": "Airframe Assembly - Building Lumineer",
+   "d": "2021-05-13",
+   "v": 131873,
+   "s": 873,
+   "vertical": false,
+   "desc": "Thanks to KiwiCo for sponsoring this video! Check out http://www.KiwiCo.com/BPSSpace for 50% off your first month of ANY crate!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "ttqEsg7qf_w",
+   "t": "High-Strength Composite Rocket Fins - Building Lumineer",
+   "d": "2021-06-01",
+   "v": 276911,
+   "s": 1724,
+   "vertical": false,
+   "desc": "hiiiiiii you know what's cooler than these fins? S A F E T Y: Epoxy is a sensitizer and your body's reaction gets worse every time you touch it, and fiberglass particles in your lungs will ruin your life :) You'll notice in nearly all of the build footage, I'm wearing gloves to protect my hands from touching the epoxy, a respirator with fresh cartridges to protect my lungs, often safety glasses to protect my eyes, and headphones to protect my ears, as a treat. If you're building something like this, please help your future self out, and wear PPE(Personal Protective Equipment). It's worth spend"
+  },
+  {
+   "id": "FxTUlx5YBLk",
+   "t": "BPS.space is Hiring!",
+   "d": "2021-06-13",
+   "v": 75547,
+   "s": 340,
+   "vertical": false,
+   "desc": "Applications are closed now, thank you to everyone who applied!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "PIy42B6BNwk",
+   "t": "Rocket Recovery System - Building Lumineer",
+   "d": "2021-06-29",
+   "v": 344318,
+   "s": 2236,
+   "vertical": false,
+   "desc": "Save time on your work and emails with Grammarly! Sign up for a free account and get 20% off Grammarly Premium: https://grammarly.com/BPS\n\nMIT Rocket Team Wiki: https://wikis.mit.edu/confluence/display/RocketTeam/MIT+Rocket+Team+Home\nMIT FireBolt Manufacturing: https://wikis.mit.edu/confluence/display/RocketTeam/FireBolt+Manufacturing+Procedure+-+Version+II\n\nThanks to Charlie Garcia, Andrew Adams, Jenna Kay, and Xyla Foxlin for all their help and support through this whole process.\nCharlie: https://twitter.com/Astro_Chuck\nAndrew: https://twitter.com/AndrewA2061\nJenna: https://twitter.com/Jenna"
+  },
+  {
+   "id": "26ipOlPD-GU",
+   "t": "Lumineer Launch - Combined Data View",
+   "d": "2021-06-29",
+   "v": 140800,
+   "s": 268,
+   "vertical": false,
+   "desc": "Quick video showing time-correlated events for Lumineer's 10km flight. The companion video about the recovery system comes out tomorrow!\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "5TTcbMv5tDc",
+   "t": "Did I Make the World's Smallest Rocket Flight Computer?",
+   "d": "2021-08-25",
+   "v": 1473597,
+   "s": 910,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring this video! Click the link here to sign up today: https://brilliant.org/BPSSpace\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nMusic by Joe Barnard\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "pZ572Rjj9vA",
+   "t": "Rocket Avionics - Building Lumineer",
+   "d": "2021-09-18",
+   "v": 325756,
+   "s": 1735,
+   "vertical": false,
+   "desc": "Offset your carbon footprint with me on Wren! We'll plant 10 extra trees for the first 100 people who sign up! https://www.wren.co/start/bpsspace \n\nLumineer Recovery Video: https://youtu.be/PIy42B6BNwk\n\nLumineer Launch Footage: https://youtu.be/26ipOlPD-GU\n\nLumineer Livestream: https://youtu.be/BtdsrU057Ms\n\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www"
+  },
+  {
+   "id": "SRE6_lcwfPg",
+   "t": "Rocket Motor Assembly - Building Lumineer",
+   "d": "2021-09-24",
+   "v": 249735,
+   "s": 1961,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\nXyla Foxlin filmed a bunch of this and makes incredible videos: https://www.youtube.com/xylafoxlin\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "KtrZYcQMMBc",
+   "t": "Scout E - Flight 2 Launch + Landing",
+   "d": "2021-10-16",
+   "v": 169398,
+   "s": 939,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring this video! Click the link here to sign up today: https://brilliant.org/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nScout E Flight 1: https://youtu.be/YixmPK26upk\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "QM6tvAVNLnk",
+   "t": "Scout E - Engineering Cut",
+   "d": "2021-10-21",
+   "v": 521385,
+   "s": 8272,
+   "vertical": false,
+   "desc": "Help support BPS.space: https://www.patreon.com/bps_space\n0:00 - Intro\n1:11 - Full Vehicle CAD\n6:10 - Basic Flight Profile\n9:55 - Flight Simulation\n22:40 - Vehicle Measurements\n31:21 - Thrust Vector Control Mount\n56:04 - Modeling Actuator Dynamics\n59:43 - Landing Legs\n1:20:00 - Airframe Construction\n1:27:56 - Emergency Parachutes\n1:35:42 - Avionics / Wiring\n1:42:28 - Software In The Loop Testing\n1:44:44 - Flight Software\n2:15:04 - Conclusion\n\nScout E Flight 1 - https://youtu.be/YixmPK26upk\n\nScout E Flight 2 - https://youtu.be/KtrZYcQMMBc\n\nAVA Flight Computer - https://youtu.be/qaWvCy2DRSA\n\n\nSe"
+  },
+  {
+   "id": "iuuH9-pyKHI",
+   "t": "Fineas - Active Fin-Controlled Model Rocket",
+   "d": "2021-11-20",
+   "v": 157380,
+   "s": 547,
+   "vertical": false,
+   "desc": "Go to https://nordvpn.com/bpsspace to get a 2-year plan plus 1 additional month with a huge discount! \nPatreon Livestream Link: https://www.patreon.com/posts/take-2-live-58884319\n\nThanks to Ryan Westcott for filming the first launch attempt last week! https://twitter.com/rswestcott\n\nBBR Flight, RIP in peace :( https://youtu.be/Z3Lhhg_Nb20\n\nIntro music - Terra - Joe Barnard (I promise I'll release music soon!)\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nh"
+  },
+  {
+   "id": "GlzU7DirQ_0",
+   "t": "Fineas - Test Flight 1",
+   "d": "2021-11-25",
+   "v": 327303,
+   "s": 825,
+   "vertical": false,
+   "desc": "Want to become a BPS Intern? It's as easy as clicking this link!! https://bps.space/products/bps-whos-in-charge-here\n\nThanks to Ara for driving out to the desert and helping film! https://twitter.com/arkorobotics\n\nThanks as well to FAR for maintaining a solid launch location in the middle of nowhere: https://friendsofamateurrocketry.org/\n\nSugar rocket explosion shown: https://youtu.be/2fjDUZpmYfQ\n\nSpace Enterprise at Berkeley are the folks who fired that liquid engine: https://www.berkeleyse.org/\nhttps://twitter.com/seb_berkeley\nhttps://www.instagram.com/seb.berkeley/\n\nIntro music is God Rays "
+  },
+  {
+   "id": "AlLquMhQiz4",
+   "t": "Rocket Powered Christmas Tree",
+   "d": "2021-12-18",
+   "v": 259705,
+   "s": 1346,
+   "vertical": false,
+   "desc": "Save 40% or more on your SimpliSafe security system during their holiday sale! Visit\nhttps://SimpliSafe.com/BPS to learn more!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nThanks to Xyla Foxlin for agreeing to do this ridiculous project with me!\nXyla's video about this project: https://youtu.be/YP_7e90FspY\nhttps://twitter.com/XylaFoxlin\nhttps://www.instagram.com/xylafoxlin/\n\nXyla and I will be auctioning off the ornaments flown on this tree(+posters and mission patches!) in a livestream in January of 2022. All of the proceeds from the auction will be given to the AFSP(American Fo"
+  },
+  {
+   "id": "0aQ427UkESU",
+   "t": "Season's Yeetings - Ornament Charity Stream",
+   "d": "2022-01-01",
+   "v": 20664,
+   "s": 8112,
+   "vertical": false,
+   "desc": "Want a Season's Yeetings Ornament? Maybe a mission patch? Want to also support a good cause? This is the stream for you! \nFlight Proven Ornament: https://bps.space/products/seasons-yeetings-flight-proven-ornament\nSeason's Yeetings Mission Patch: https://bps.space/products/seasons-yeetings-mission-patch"
+  },
+  {
+   "id": "8sksiYfkses",
+   "t": "Can You Throttle a Solid Rocket Motor?",
+   "d": "2022-03-16",
+   "v": 353228,
+   "s": 982,
+   "vertical": false,
+   "desc": "Thanks to Skillshare for sponsoring this video! The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/bpsspace02221\n\nMore about the Krushnic Effect: https://www.nar.org/pdf/TCR1.pdf\n\nRocket Motor Test Stand: https://youtu.be/igtcGMTDUIs\n\nKKV Testing: https://youtu.be/KBMU6l6GsdM\n\nThrottle control Reddit post: https://www.reddit.com/r/rocketry/comments/kvhxfd/solid_rocket_motor_throttle_opinions_if_you_want/\nThanks to Simple Robotics on Instagram! https://www.instagram.com/simple.robotics/\n\nStatic Fire Data: https://www.patreon.com/posts/throttle-co"
+  },
+  {
+   "id": "miMT44LFUjs",
+   "t": "Scout F - Flight 1 - Launch and Landing",
+   "d": "2022-05-21",
+   "v": 217680,
+   "s": 806,
+   "vertical": false,
+   "desc": "Thanks to Onshape for sponsoring this video! You and your company can try it out for free by going to https://onshape.pro/BPSSpace\nPink BPS hat! https://bps.space/products/bps-hat-pink-edition\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "KoqgiMBA4IY",
+   "t": "How Do You Build A Level 3 Rocket?",
+   "d": "2022-06-15",
+   "v": 834104,
+   "s": 1001,
+   "vertical": false,
+   "desc": "Thank you to Micro Center for sponsoring this video! New customer exclusive! New customers receive a free 256GB SSD no purchase necessary by using the link: https://micro.center/63a8a6\n\u00a0\nCome Join the Micro Center Community: https://micro.center/c46d70\n\nLaunch video: https://youtu.be/P0QfJPNTT3k\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\n0:00 - Intro\n0:48 - Design\n1:37 - Recovery 1\n2:09 - Fins\n2:52 - Subminimum is a dumb term\n3:16 - Airframe work\n4:14 - Avionics 1\n6:50 - Painting\n9:27 - Avionics 2\n10:11 - "
+  },
+  {
+   "id": "P0QfJPNTT3k",
+   "t": "SEND IT! - Rocket Launch",
+   "d": "2022-06-29",
+   "v": 615025,
+   "s": 1219,
+   "vertical": false,
+   "desc": "Thanks to Onshape for sponsoring this video! You and your company can try it out for free by going to https://onshape.pro/BPSSpace\nFull 1.5 hour launch process footage: https://youtu.be/li0nAiWP3_0\nBuild Footage: https://youtu.be/KoqgiMBA4IY\n\nIntro - 0:00\nRecovery Testing - 0:33\nMotor Retainer Error - 3:51\nRocket Motor Assembly - 6:32\nLaunch Day Prep - 10:07\nIntegration For Flight - 11:23\nGPS Issues - 13:10\nLaunch - 14:53\nRocket Recovery - 16:36\nOnshape Ad - 19:10\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n"
+  },
+  {
+   "id": "Mq5alUV-AHI",
+   "t": "Aluminum TVC Mount | Scout Flights 2 and 3",
+   "d": "2022-07-17",
+   "v": 196452,
+   "s": 923,
+   "vertical": false,
+   "desc": "Working hard to keep up a high flight rate with Scout F. We learn a little more each time and we're gonna land this thing one way or another!\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "SH3lR2GLgT0",
+   "t": "I Landed A Rocket Like SpaceX - Scout F",
+   "d": "2022-08-01",
+   "v": 10118523,
+   "s": 425,
+   "vertical": false,
+   "desc": "STUCK THE LANDING! Didn't think it would take 7 years but \u00af\\_(\u30c4)_/\u00af \nLaunch livestreams, raw footage/data, and the BPS Discord: https://www.patreon.com/bps_space\nBecome an Intern for BPS.space: https://bps.space/products/bps-whos-in-charge-here\n\nHere is 7.5 hours of me making the song for this video: https://youtu.be/zklZR-yEy9w\nAnd the song itself: https://soundcloud.com/joe-barnard/scout-f-landing\n\nSecond channel: https://www.youtube.com/user/musicmakr\nI said like 2 months ago that if this rocket landed I would livestream myself cooking and eating peeps chili (a food from The Good Place). I "
+  },
+  {
+   "id": "U-zZcwEeO8c",
+   "t": "Can This Model Rocket Land More Than Once?",
+   "d": "2022-09-08",
+   "v": 285538,
+   "s": 613,
+   "vertical": false,
+   "desc": "Thanks to Onshape for sponsoring this video! You and your company can try it out for free by going to https://onshape.pro/BPSSpace\n\nScout F Build Files: https://www.patreon.com/posts/scout-f-build-71667162\n\nFirst Scout F Landing - Flight 5: https://youtu.be/SH3lR2GLgT0\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "4OmOwSB7xP8",
+   "t": "Scout F - Engineering Cut",
+   "d": "2022-09-25",
+   "v": 335573,
+   "s": 6813,
+   "vertical": false,
+   "desc": "Scout F STEP Files: https://www.patreon.com/posts/scout-f-build-71667162\nAll Scout Flights:\nFlight 1: https://youtu.be/miMT44LFUjs\nFlights 2 & 3: https://youtu.be/Mq5alUV-AHI\nFlight 5: https://youtu.be/SH3lR2GLgT0\nFlights 4 through 7: https://youtu.be/U-zZcwEeO8c\n\nScout E Engineering Cut:\nhttps://youtu.be/QM6tvAVNLnk\n\nAVA Flight Computer:\nhttps://youtu.be/qaWvCy2DRSA\n\nTIMESTAMPS\n0:00 - Intro\n1:34 - CAD\n18:36 - Stability Simulation\n37:06 - Throttle Simulation\n52:39 - Throttle Control Development\n1:11:10 - TVC Hardware\n1:22:07 - Landing Legs\n1:32:27 - Avionics/Telemetry\n1:40:31 - Reaction Wheel\n"
+  },
+  {
+   "id": "ggAe2p5uk34",
+   "t": "Space Shot Development Rocket - Avalanche",
+   "d": "2022-09-29",
+   "v": 577338,
+   "s": 988,
+   "vertical": false,
+   "desc": "Thanks to Keysight for sponsoring this video - sign up for their World Innovate conference for free here! https://keysig.ht/CWnI80\n\nAndrew Adams: https://youtu.be/H4Wu78s3RC4\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nTimestamps:\n0:00 - Intro\n1:12 - Build Phase\n5:20 - Keysight Tech Ad\n6:25 - Flight 1\n8:03 - Two Stage Build\n9:53 - Two Stage Launch\n10:51 - Flight 3 Setup\n13:38 - Flight 3 Launch\n15:56 - Outro\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.co"
+  },
+  {
+   "id": "nYl_D-bk3lg",
+   "t": "Can You Get Stable Video From a Spinning Rocket?",
+   "d": "2022-11-23",
+   "v": 360647,
+   "s": 1080,
+   "vertical": false,
+   "desc": "Get EXTRA 5% off coupon code BPSSPACE5 on all EcoFlow Black Friday products both on the Website and Amazon:\nEcoFlow Amazon Black Friday US: http://amzn.to/3UO5Swd\nEcoFlow Website Black Friday US: https://us.ecoflow.com/?aff=551\n\nMilling the Bulkhead: https://youtu.be/sqR7eJrBExQ\nMilling the Camera Shrouds: https://youtu.be/psPzdCNaxaE\nRaw Flight Footage: https://youtu.be/wleWjwnZ_rA\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps:"
+  },
+  {
+   "id": "5tQ6OTJdhns",
+   "t": "Aerodynamics for Mark Rober's Record Egg Drop",
+   "d": "2022-11-25",
+   "v": 232331,
+   "s": 990,
+   "vertical": false,
+   "desc": "This eggcellent project did not get over easy and although we cooked up some cool simulations, most of these vehicles ended up scrambled.\nMark's Video: https://youtu.be/BYVZh5kqaFg\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "lKA1WtGXRPQ",
+   "t": "Our Christmas Rocket Didn't Work Great... Feat. Insta360 X3",
+   "d": "2022-12-14",
+   "v": 268606,
+   "s": 889,
+   "vertical": false,
+   "desc": "Thanks to Insta360 for sponsoring this video! You can check out their holiday sale here: https://store.insta360.com/holidaysale2022?insrc=INRH7L5\nInsta360 X3 Camera: https://www.insta360.com/sal/x3?insrc=INRH7L5\n\nOrnaments, Mission Patches, and more: https://www.reinventedmagazine.com/seasons-yeetings\n\nXyla Foxlin's Video! https://youtu.be/Jo40R7-ZOQQ\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nh"
+  },
+  {
+   "id": "bw0SIh8VR24",
+   "t": "How Hot Does a Rocket Get?",
+   "d": "2023-02-24",
+   "v": 289233,
+   "s": 886,
+   "vertical": false,
+   "desc": "Thanks to Protolabs for sponsoring today's video! Learn more about them here: https://www.protolabs.com/resources/protolabs-accelerates-space-exploration/?&utm_source=youtube&utm_medium=organic&utm_campaign=AMER-Brand-Q1-NA-NA-NA-learn_more\nMilling and Turning the Nosecone: https://youtu.be/8OuCX1kLuA4\nRaw Footage and Data: https://youtu.be/JEWrqMr2VkU\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\n"
+  },
+  {
+   "id": "eVvIZ3f2tSU",
+   "t": "How To Design A Solid Rocket Motor - Simplex Ep 1",
+   "d": "2023-04-19",
+   "v": 496937,
+   "s": 1255,
+   "vertical": false,
+   "desc": "Thanks to Onshape for sponsoring this video! You and your company can try it out for free by going to https://onshape.pro/BPSSpace\n\nopenMotor: https://openmotor.readthedocs.io/en/latest/#\nopenMotor Github: https://github.com/reilleya/openMotor\n\nCharlie Garcia is the person helping me mix and cast this motor - lots of good videos about solid rocket motors on his channel too: @AstroCharlie \n\nBehind the scenes videos every 2 weeks on Patreon: https://www.patreon.com/bps_space\n\n0:00 - Intro\n2:30 - Safety\n4:04 - Parts of a Solid Motor\n5:21 - Propellant Geometry & Simulation\n10:14 - Onshape Ad\n11:20"
+  },
+  {
+   "id": "E0bnPb1WIuc",
+   "t": "Mixing And Casting Rocket Propellant - Simplex Ep 2",
+   "d": "2023-05-03",
+   "v": 724660,
+   "s": 1402,
+   "vertical": false,
+   "desc": "Thanks to Bespoke Post for sponsoring this video! Head to http://www.bespokepost.com/bpsspace20 and use code BPSSPACE20 to grab your \u201cbox of awesome\u201d and get 20% off your first box.\n\nThanks to Charlie Garcia for teaching and helping me build this motor: @AstroCharlie \n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nSome places to look if you want to learn more about solid rocket motors:\nhttps://www.rocketryforum.com/\nhttps://www.reddit.com/r/rocketry/\nhttps://www.nakka-rocketry.net/\nhttps://ntrs.nasa.gov/\nCharlie also has a great series of videos ab"
+  },
+  {
+   "id": "YHobN5mO__E",
+   "t": "Making a Rocket Nozzle - Simplex Ep 3",
+   "d": "2023-05-11",
+   "v": 364213,
+   "s": 948,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "qNrCupT3PgQ",
+   "t": "Rocket Motor Forward Closure - Simplex Ep 4",
+   "d": "2023-06-02",
+   "v": 199664,
+   "s": 841,
+   "vertical": false,
+   "desc": "Get an exclusive Surfshark deal! Enter promo code BPSSPACE for an extra 3 months free at https://surfshark.deals/bpsspace\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "iTzKEmW2s-k",
+   "t": "Building A Rocket Motor Test Stand - Simplex Ep 5",
+   "d": "2023-06-09",
+   "v": 242359,
+   "s": 940,
+   "vertical": false,
+   "desc": "The first 1,000 people to use the link will get a 1 month free trial of Skillshare: https://skl.sh/bpsspace06239\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "l4p-HogUr3k",
+   "t": "Hydrostatic Testing - Simplex Ep 6",
+   "d": "2023-06-15",
+   "v": 269602,
+   "s": 820,
+   "vertical": false,
+   "desc": "The first 100 people to use code BPSSPACE at the link below will get 60% off of Incogni: https://incogni.com/bpsspace\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "O8JF1_BBfdk",
+   "t": "$1 vs $1B Aerospace Company | BPS.space vs Astranis Shop Tour",
+   "d": "2023-06-21",
+   "v": 214264,
+   "s": 650,
+   "vertical": false,
+   "desc": "Thanks to Astranis for sponsoring this video and hosting me up at their facility in San Francisco! You can learn more about them here:  @astranisspace \nHere's their video covering some of their earlier days: https://youtu.be/ybSrc3Vbfi8\nhttps://www.astranis.com/\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "V7Q6iEDQOJs",
+   "t": "I Sent a 2 Stage Rocket to Mach 3 | Feat. Insta360 GO 3",
+   "d": "2023-06-27",
+   "v": 1101862,
+   "s": 1442,
+   "vertical": false,
+   "desc": "Thanks to Insta360 for sponsoring this video! To learn more about their new GO 3 camera, click here: https://www.insta360.com/sal/go-3?insrc=INRH7L5\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nFin flutter clip from @RocketmanAleks - https://youtu.be/NXWSchV2L48\n\nThanks to Charlie and Andrew for all their help with launch prep/launch day things: \n@AstroCharlie \n@andrewadams6473 \n\nThanks so much to Allison for being the actual GOAT at running the ground control station: https://twitter.com/transsonicgirl\n\nAnd thanks to Thomas Booska for all his he"
+  },
+  {
+   "id": "A-X1PhR1D5Y",
+   "t": "Building A 1000lbf Rocket Motor - Simplex Ep 7",
+   "d": "2023-07-28",
+   "v": 435977,
+   "s": 797,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\nHow You Build A Rocket Motor(Song): https://soundcloud.com/joe-barnard/how-you-build-a-rocket-motor\nBacking track: A Brand New Sunset (Modern Version) - Joe E. Lee\n\nLyrics:\nThere are several parts you need to build a rocket motor\nA nozzle and a closure and an insulator \nYou shove them in a case and then you fill it u"
+  },
+  {
+   "id": "32jhNreUcVk",
+   "t": "Filming a High Power Rocket Launch",
+   "d": "2023-10-31",
+   "v": 107682,
+   "s": 1046,
+   "vertical": false,
+   "desc": "\ud83d\udcbb Thanks to Opera for sponsoring this video! Get a browser that\u2019s literally better at everything, download Opera today: https://opr.as/Opera-browser-BPSspace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "9PFuEmYMivU",
+   "t": "My Hot-Glue Rocket Is Terrible",
+   "d": "2023-11-18",
+   "v": 392481,
+   "s": 1038,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nAdditional launch footage on Flight 3 from @DerekHonkawa \n\nCNC milling music: https://soundcloud.com/joe-barnard/4th-axis\nMusic by Joe Barnard - unironically, check out my soundcloud: https://soundcloud.com/joe-barnard\n\nSecond channel, mostly for KSP: https"
+  },
+  {
+   "id": "DWSYZ2uEpnM",
+   "t": "Making a new solid propellant formula",
+   "d": "2024-01-29",
+   "v": 496781,
+   "s": 1193,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\n\nIf you want to learn more about solid propellant, one of the best resources online is Richard Nakka - I highly recommend checking his site out: https://www.nakka-rocketry.net/\n\nLike the music? Unironically check out my Soundcloud:  https://soundcloud.com/joe-barnard/under-the-microscope\n\nSimplex Rocket Motor Series: https://www.youtube.com/playlist?list=PLyV774-3p834YZBNKFrN1ypaIfewSlVsx\n\nReliant Robin Pr"
+  },
+  {
+   "id": "Mxd9UVtJ37Y",
+   "t": "First Time Firing My New Rocket Propellant",
+   "d": "2024-02-14",
+   "v": 743372,
+   "s": 1636,
+   "vertical": false,
+   "desc": "Check out http://www.KiwiCo.com/BPSSpace and use code BPSSPACE for 50% off your first month of ANY crate!\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nPrevious Propellant Video: https://youtu.be/DWSYZ2uEpnM\n\nAll static fires with data get posted over on @bps.shorts \n\nResources on Propellant Characterization:\nhttps://www.nakka-rocketry.net/ptburn.html\nhttps://www.apogeerockets.com/index.php?main_page=product_info&products_id=2595\n\nProPep 3: https://www.rimworld.com/loggerusb/propep3/intro.html\nRPA is also a popular analysis tool like ProPep: https"
+  },
+  {
+   "id": "6eH-t6LYYkk",
+   "t": "Supersonic Aerodynamic Control",
+   "d": "2024-05-11",
+   "v": 717735,
+   "s": 1508,
+   "vertical": false,
+   "desc": "Use code BPSINCOGNI at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/bpsincogni\n\nJim Jarvis: @Jiminaus50 \n\nHuge thanks to the folks who helped with flight data animation!\nDan Kozak\nAndrew Barth\nMatt Wassell\nGabriel Yamato\n\nHow I made this video: https://youtu.be/vRUAAQa4-0M?si=TrAeqAaQFl5yycAu\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nFineas Flight: https://www.youtube.com/watch?v=GlzU7DirQ_0&t=22s\nMark Rober Egg Drop: https://youtu.be/BYVZh5kqaFg?si=8-4Nit6S7W4ydGY8\n\nRoll Reversal Paper: https://arc.ai"
+  },
+  {
+   "id": "MfAcMJbflCY",
+   "t": "Computational Fluid Dynamics for Rockets",
+   "d": "2024-05-30",
+   "v": 477243,
+   "s": 1680,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\n\nPrevious Video: https://youtu.be/6eH-t6LYYkk?si=bOJGw0DQ3fjvJ2wB\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nCFD INFO - both these videos are pretty good overviews\nhttps://www.youtube.com/watch?v=NlLy-u61yyk\nhttps://youtu.be/hXG1uCiIe-U?si=BzkTgPB8H7OJFRM6\n\nIs it ITAR? https://isititar.com/\n\nSLS Ground System CFD Paper: https://ntrs.nasa.gov/api/citations/2"
+  },
+  {
+   "id": "UkLExdiz8jY",
+   "t": "Is This The Best Insulation Material?",
+   "d": "2024-06-12",
+   "v": 369076,
+   "s": 1358,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and the first 200 people will get 20% off their annual subscription.\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "BuB4MiboJU0",
+   "t": "How NASA Tests Spacecraft Reentry",
+   "d": "2024-06-23",
+   "v": 453714,
+   "s": 852,
+   "vertical": false,
+   "desc": "Bit of a different video, trying some new stuff! Thank you so much to NASA Ames for letting us tour the facility, and for putting up with that thing I did in their wind tunnel.\n\n@scottmanley's video on the Arc-Jet: https://youtu.be/HxmuxlKh4UQ?si=1IIaJr3dH-010rOW\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/"
+  },
+  {
+   "id": "XN9ZX5WSu0U",
+   "t": "Spin-Casting: A Better Way to Make Rocket Motors",
+   "d": "2024-07-23",
+   "v": 511267,
+   "s": 1419,
+   "vertical": false,
+   "desc": "Use code BPSINCOGNI at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/bpsincogni\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\n\ud83e\uddd9\u200d\u2642\ufe0f\u2014 Borbo the wizard wants you to watch this video about phenolic: https://youtu.be/UkLExdiz8jY?si=yzAUNd9d9q61Fepg\n\nBreaking Ballistics / Harry Amadeo: https://www.breakingballistics.com/\nhttps://www.youtube.com/@harrys2k\n\nRocketVlogs's footage of that... exciting ignition: https://www.youtube.com/shorts/Q6OavzWImOs\n\nLathe Safety Resources:\nhttps://www.youtube.com/watch?v=0X1nZwOZH6M\nhttps://www.ccohs.ca/oshanswe"
+  },
+  {
+   "id": "m2p4fcM3bus",
+   "t": "The rocket motor that broke me - Simplex V2",
+   "d": "2024-08-27",
+   "v": 641671,
+   "s": 1511,
+   "vertical": false,
+   "desc": "Check out http://www.kiwico.com/BPSSpace and use code BPSSPACE for 50% off your first month of ANY monthly subscription!\n\nHelp support BPS.space PLUS theres a whole cross section deep dive here: https://www.patreon.com/bps_space\n\n\nSpin Cast Liner: https://youtu.be/XN9ZX5WSu0U\n\nSimplex V1: https://www.youtube.com/playlist?list=PLyV774-3p834YZBNKFrN1ypaIfewSlVsx\n\nOpenMotor: https://github.com/reilleya/openMotor\n\nThanks to Derek for filming the burning grains: @DerekHonkawa \n\nSimplex V2 static fire with data: https://youtu.be/74qdt_gtTAA?si=57Iwf9gGsZA7sCZM\n\nSome places to look if you want to lea"
+  },
+  {
+   "id": "OY9qi0cdazM",
+   "t": "What\u2019s inside a rocket nozzle?",
+   "d": "2024-09-10",
+   "v": 221790,
+   "s": 1280,
+   "vertical": false,
+   "desc": "Using the link http://hensonshaving.com/bpsspace or the code: bpsspace users can get 100 free blades with the purchase of the razor (2-3 years worth)\n\nSimplex V2 (previous video): https://youtu.be/m2p4fcM3bus?si=zAKRxXnmXLwOxOXy\nSimplex V1: https://youtu.be/A-X1PhR1D5Y?si=1M900G6namCt4juc \n\nSimplex V2 Shirt (metric version): https://bps.space/products/simplex-v2-metric\nSimplex V2 Shirt (imperial version): https://bps.space/products/simplex-v2-imperial\n\nGet access to bi-weekly updates and help support BPS.space: https://www.patreon.com/bps_space\n\nYou can sign up for an Onshape account by clicki"
+  },
+  {
+   "id": "uS3sPPp5Iu0",
+   "t": "The Problem with Northrop's Solid Motors",
+   "d": "2024-10-08",
+   "v": 536712,
+   "s": 584,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and 20% off an annual premium subscription\n\nA HUGE thank you to the @NASASpaceflight folks who let me use their footage of Vulcan's flight!\nD Wise: https://x.com/dwisecinema\nMax Evans: https://x.com/_mgde_\nJack Beyer: https://x.com/thejackbeyer\n\nOpenMotor: https://github.com/reilleya/openMotor\n\nNG Propulsion Products Catalog lol: https://cdn.northropgrumman.com/-/media/wp-content/uploads/NG-Propulsion-Products-Catalog.pdf\n\nYou can sign up for an Onshape account by clicking "
+  },
+  {
+   "id": "TZ0PhMgw_B0",
+   "t": "I X-rayed my Flight Computer",
+   "d": "2024-10-25",
+   "v": 160091,
+   "s": 1268,
+   "vertical": false,
+   "desc": "For the next 48 hours, enjoy 20% OFF on all Hoverpens and free shipping to most countries with code BPS: Worldwide (except EU): https://bit.ly/bps_novium EU: https://bit.ly/bps_noviumeu\n\nThanks a bunch to Lumafield for letting me scan a bunch of stuff and make it public!\nCheck out the CT scans yourself:\nFirst PCB: https://app.lumafield.com/project/8b4fc985-b0a5-4640-b9b3-a3253cf348d4\nSignal R2 PCB: https://app.lumafield.com/project/f0a1ce36-3b74-4e41-a5e0-a77457f89a84\nCTI I165 Rocket Motor: https://app.lumafield.com/project/7219e9df-57e1-41ff-8bde-eab18729cfd5\nC6 and C12 Rocket Motors: https:/"
+  },
+  {
+   "id": "tcqzLW3iI-s",
+   "t": "Building a Guided Rocket to Hit Mach 3",
+   "d": "2024-11-06",
+   "v": 996483,
+   "s": 2539,
+   "vertical": false,
+   "desc": "Thanks to @razer and @NVIDIA-Studio for sponsoring this video!\nCheck out the Razer Blade Studio Laptops here: https://www.razer.com/creator-laptops/razer-blade-studio-edition\nLearn more about NVIDIA Studio accelerated programs here: https://www.nvidia.com/en-us/studio/software/\n#NVIDIAStudio #Razer #MadeWithBlade #ad\n\nSpring 2024 Roll Control Testing: https://youtu.be/6eH-t6LYYkk?si=W4DORRVlwBLT6qwp\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.y"
+  },
+  {
+   "id": "8rsvex1pWnc",
+   "t": "LIVE Breaking open GoPros to use in a rocket",
+   "d": "2024-11-12",
+   "v": 61516,
+   "s": 9651,
+   "vertical": false,
+   "desc": "What's up pals, happy No Effort November. Today I'm breaking open a bunch of GoPro HERO10 Bones cameras so they can fit into the upcoming Meat Rocket. If you wanna support my quest to get unreasonably high quality in-flight footage: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "JOLnZ3mK8kQ",
+   "t": "Smallest 4K 120fps Camera Possible",
+   "d": "2024-11-24",
+   "v": 560301,
+   "s": 1630,
+   "vertical": false,
+   "desc": "Thanks to Brilliant for sponsoring today's video! You can go to https://brilliant.org/BPSspace to get a 30-day free trial and 20% off an annual premium subscription\n\nTaking apart GoPros live: https://www.youtube.com/live/8rsvex1pWnc?si=XUj46enUgHdtovwU\n\nIf you work at GoPro I wanna do cool rocket things with you: https://bps.space/pages/contact\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://"
+  },
+  {
+   "id": "jRbXzujI6ho",
+   "t": "Using Condoms to Make a Rocket Nosecone",
+   "d": "2024-12-13",
+   "v": 350682,
+   "s": 1849,
+   "vertical": false,
+   "desc": "Thanks to @PCBWay for sponsoring this video! Use Coupon code: PCBWay-BPS.space for $10 off any order over $30 https://www.pcbway.com/?from=BPS.space Code is valid for 6 months and expires 3 months after redemption.\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "yNs5Rpij8yg",
+   "t": "Building a Supersonic Rocket Guidance System",
+   "d": "2025-02-03",
+   "v": 1616362,
+   "s": 2006,
+   "vertical": false,
+   "desc": "Use code BPSINCOGNI at the link below to get an exclusive 60% off an annual Incogni plan: https://incogni.com/bpsincogni\nBooster Video: https://youtu.be/tcqzLW3iI-s?si=r-VsPlvdD0x_yRI4\nCamera Video: https://youtu.be/JOLnZ3mK8kQ?si=iqvnmFvHrkfNYv4Y\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "REYTmK1-Cl0",
+   "t": "The #1 Reason Rocket Parachutes Fail",
+   "d": "2025-03-28",
+   "v": 395036,
+   "s": 2040,
+   "vertical": false,
+   "desc": "Try Onshape Professional for free up to 6 months: https://Onshape.pro/BPSSpace\n\nPrevious Video: https://youtu.be/yNs5Rpij8yg?si=E_8JRkxa2Ny6BDNI\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "9UX7NJLYyb4",
+   "t": "Can Supersonic Heating Cook Steak?",
+   "d": "2025-05-02",
+   "v": 1149446,
+   "s": 2043,
+   "vertical": false,
+   "desc": "Use code BPS to receive 10% off all Hoverpens and free shipping to most countries.\nNorth America / UK / Australia / International: https://bit.ly/bps_novium\nEU: https://bit.ly/bps_noviumeu\nUp to 30% off on the Hoverpen Traverse on Kickstarter : https://www.kickstarter.com/projects/novium/hoverpen-traverse-magnetic-levitating-pen-made-portable?ref=1qyot3\n\nBecome a BPS.space Intern: https://bps.space/products/bps-whos-in-charge-here\n\nHelp support BPS.space and get access to bi-monthly update videos: https://www.patreon.com/bps_space\n\nYou can sign up for an Onshape account by clicking this link: "
+  },
+  {
+   "id": "PXNxnI0s_OY",
+   "t": "Spaceshot Rocket Motor Recap",
+   "d": "2025-07-16",
+   "v": 254557,
+   "s": 224,
+   "vertical": false,
+   "desc": "This is a crowd-funded space program \ud83d\ude80 Get access to real-time update videos every 2 weeks here: https://www.patreon.com/bps_space\nSong: I Wanna Get Better - Bleachers \n\nThe idea for this came from my buddy Sam Austin, who let me rip off his video from a few years ago: https://youtu.be/5wQEx7UFscg?si=xNjTs7--UzQBQUHM\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "XNd-X2pt7BM",
+   "t": "The $2000 Nozzle Mistake",
+   "d": "2025-08-12",
+   "v": 817383,
+   "s": 1594,
+   "vertical": false,
+   "desc": "Try Onshape Professional for free up to 6 months: https://Onshape.pro/BPSSpace\n\nGet access to update videos every 2 weeks: https://www.patreon.com/bps_space\nBPS shorts: https://www.youtube.com/@bps.shorts\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "ivz5_1Og5II",
+   "t": "This Spin-Casting Machine Wants to Kill Me",
+   "d": "2025-08-29",
+   "v": 567304,
+   "s": 1221,
+   "vertical": false,
+   "desc": "Thanks to @PCBWay for sponsoring this video! Use Coupon code: PCBWay-BPS.space10 for $10 off any order over $30 https://www.pcbway.com/?from=BPS.space Code is valid for 3 months and expires 6 months after redemption\nGet access to update videos every 2 weeks: https://www.patreon.com/bps_space\n\nYou can sign up for an Onshape account by clicking this link: https://onshape.pro/BPSSpace\n\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps"
+  },
+  {
+   "id": "IQWWa9hedOo",
+   "t": "The Flaw In My Biggest Rocket Motor - Super 8",
+   "d": "2025-09-30",
+   "v": 880174,
+   "s": 1417,
+   "vertical": false,
+   "desc": "Thanks to Displate for sponsoring this video! Head to https://displate.com/l/bps - that will get you 1-2 Displates for 32% off and 3+ Displates and more for 37% off until the end of September as part of Displate's annual Collectors Fest! (*Not applicable on Lumino and Limited Edition Displates).\n\nThank you to my friends, Cam, Ryan, Charlie, Seb, and Andrew for their help with this build. Thanks as well to my friend Brook for the beautiful anamorphic footage at FAR: https://www.instagram.com/brook.willard/\n\nAnd thanks to Xyla for lots of additional filming help! @xylafoxlin \n\nHelp support BPS.s"
+  },
+  {
+   "id": "nT42kyvSuSw",
+   "t": "BPS Turns 10 Years Old!",
+   "d": "2025-10-23",
+   "v": 27014,
+   "s": 10435,
+   "vertical": false,
+   "desc": "I published my first video on this channel on Oct 23rd 2015 - to celebrate, we're going to bake a cake(non-flammable) and light some candles(flammable) \ud83d\ude80\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "YA1ME6kN2gI",
+   "t": "I Broke 100 Epoxy Bonds to Find the Strongest",
+   "d": "2025-11-14",
+   "v": 940323,
+   "s": 2519,
+   "vertical": false,
+   "desc": "Make sure you don\u2019t miss the chance to get your HackPack subscription today at  https://crunchlabs.com/BPSSPACE and use the code BPSSPACE to get 15% off your first purchase! #CrunchLabs #ad\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "JXr4-GoCWsw",
+   "t": "One Bad Line of Code at Mach 1.8",
+   "d": "2025-12-18",
+   "v": 739006,
+   "s": 1837,
+   "vertical": false,
+   "desc": "For 72 hours, enjoy 15% OFF on all Hoverpens with code BPS, or click on the link https://noviumdesign.shop/BPS - Free shipping to most countries. Also on Amazon: https://noviumdesign.shop/caH6ys\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "G61T-5d9jiA",
+   "t": "Designing a Selfie Camera to Eject at Apogee",
+   "d": "2026-04-07",
+   "v": 533263,
+   "s": 1317,
+   "vertical": false,
+   "desc": "Try Onshape Professional for free for up to 6 months and check out their new MBD features: https://Onshape.pro/BPSSpace\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "OCyXKRYcJ0Q",
+   "t": "I Built a Gyroscope Stabilized Rocket Camera with GPS",
+   "d": "2026-04-30",
+   "v": 951442,
+   "s": 2586,
+   "vertical": false,
+   "desc": "Thanks to @PCBWayCom for sponsoring this video! Use Coupon code: PCBWay-BPS.space10 for $10 off any order over $30 https://www.pcbway.com/?from=BPS.space Code is valid for 3 months and expires 6 months after redemption\n\nGet update videos every 2 weeks and support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "gD9mmdVZkcE",
+   "t": "Sharpest Nosecone Ever?",
+   "d": "2026-08-02",
+   "v": 673118,
+   "s": 1473,
+   "vertical": false,
+   "desc": "Thanks to \u202a@PCBWayCom for sponsoring this video! Use Coupon code: PCBWay-BPS.space10 for $10 off any order over $30 https://www.pcbway.com/?from=BPS.space Code is valid for 3 months and expires 6 months after redemption\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nSecond channel, mostly for KSP: https://www.youtube.com/user/musicmakr\n\nFor more info:\nhttps://twitter.com/joebarnard\nhttps://twitter.com/bps_space\nhttps://www.instagram.com/bps.space/\nhttps://www.facebook.com/bps.space/\nhttp://www.bps.space"
+  },
+  {
+   "id": "PpwewkOCFuE",
+   "t": "Building Two N-Class Rocket Motors",
+   "d": "2026-09-03",
+   "v": 1753570,
+   "s": 1833,
+   "vertical": false,
+   "desc": "Thanks to Anydesk for sponsoring this video! Submit an idea for a project here: https://anydesk.com/en/science\n\nSolid Propellant Videos:\nhttps://youtu.be/DWSYZ2uEpnM?si=Q_hxHmdcdnYF92it\nhttps://youtu.be/Mxd9UVtJ37Y?si=NR5Cb5cWnvloPjPx\n\nAnother great resource on solid prop is Richard Nakka: https://www.nakka-rocketry.net/\n\nAnd the r/rocketry subreddit (and its Discord) is another solid resource: https://www.reddit.com/r/rocketry/\n\nI use a lot of openMotor in this video, it's free and really really good! https://github.com/reilleya/openMotor\n\nHelp support BPS.space: https://www.patreon.com/bps_s"
+  },
+  {
+   "id": "zZ4T26qbpiE",
+   "t": "I Launched My Selfie Camera Payload to 30,000ft",
+   "d": "2026-11-04",
+   "v": 1407867,
+   "s": 2792,
+   "vertical": false,
+   "desc": "Thanks to @PCBWayCom for sponsoring this video! Use Coupon code: PCBWay-BPS.space-10 for $10 off any order over $30 https://www.pcbway.com/?from=BPS.space Code is valid for 3 months and expires 6 months after redemption\n\nHelp support BPS.space: https://www.patreon.com/bps_space\n\nOther Camera Pod Videos:\nhttps://youtu.be/G61T-5d9jiA?si=D_qAHOCGlzd7yhU3\nhttps://youtu.be/OCyXKRYcJ0Q?si=huZA0XsdxWRcP6oA\nhttps://youtu.be/gD9mmdVZkcE?si=CCBgXwKrSW--PhpM\nhttps://youtu.be/PpwewkOCFuE?si=0ysMXYgny13QOF6o\n\nHuge thanks to Silicdyne for providing the Fluctus + Reperix tracker, and for all the help digging"
+  }
+ ]
+}

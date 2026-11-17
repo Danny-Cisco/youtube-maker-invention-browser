@@ -1,0 +1,1008 @@
+{
+ "channel": {
+  "id": "UC8i-4EpLBXMzekETNXwcZjA",
+  "title": "Hyperspace Pirate",
+  "handle": "@hyperspacepirate",
+  "description": "A variety of electronic / chemical / mechanical tinkering projects, ranging from small circuit boards to whole vehicles. \n\nI also do contract work, so if you need someone for PCB Design / CAD work / other odd jobs involving engineering, shoot me an email.\n\n\n",
+  "since": "2020-12-26",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_mFNod3cMaU6sK1hSX5jpvXo9ynDb2dVIEWZsdaNjxnjw=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "42937542",
+  "subscriberCount": "372000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "110"
+ },
+ "videos": [
+  {
+   "id": "6zdD5Rkx8OE",
+   "t": "Creating a Tesla Coil winding machine",
+   "d": "2020-12-26",
+   "v": 22011,
+   "s": 280,
+   "vertical": false,
+   "desc": "Creating a machine to wind Tesla coil secondary coils using 3d printed brackets and a 12V DC gear motor\n\nParts:\n\n100 RPM Gear motor:\nhttps://www.amazon.com/gp/product/B0721T1PXQ/ref=ppx_yo_dt_b_asin_image_o06_s00?ie=UTF8&psc=1\n\n5000 mAh 3S Lipo:\nhttps://hobbyking.com/en_us/zippy-flightmax-5000mah-3s1p-20c.html\n\nHardware:\n\n-Prusa MK3S using PLA\n-M3 and #6 Screws\n\nSoundtrack:\n\nKevin MacLeod - Groove Groove"
+  },
+  {
+   "id": "HY-rKw4qngk",
+   "t": "6,000V / 2.4 kW Power Supply",
+   "d": "2020-12-28",
+   "v": 24014,
+   "s": 252,
+   "vertical": false,
+   "desc": "How to build a 6,000V / 2.4 kW power supply from three microwave transformers. \n\nHardware:\n-Used microwaves found on facebook marketplace / dumpster\n-1/4\" copper tubing \n-12 AWG Solid copper wire\n\nMusic:\nKevin MacLeod - Scheming Weasel\nKevin MacLeod - RetroFuture"
+  },
+  {
+   "id": "0PiGNDu3Oqs",
+   "t": "Hand-Cranked 2V generator",
+   "d": "2021-01-01",
+   "v": 15918,
+   "s": 460,
+   "vertical": false,
+   "desc": "How to build a hand-cranked generator that creates ~2V and lights up several LED's.\n\nHardware:\n-32 AWG magnet wire \n-8x3mm neodymium magnets\n\nMusic:\nKevin MacLeod - George Street Shuffle\nHeatley Bros - Dream Dance"
+  },
+  {
+   "id": "Nm9DAqkCOKU",
+   "t": "3-Axis Magnetometer Build",
+   "d": "2021-01-15",
+   "v": 18591,
+   "s": 496,
+   "vertical": false,
+   "desc": "This video shows how to create a magnetometer using hall effect sensors. It uses (3) A1309 sensors to read up to +/- 220 Gauss on 3 axes, and (1) A1308 sensor to read up to 1500 Gauss. One Gauss is 1/10,000 Tesla - which is the SI unit for magnetic field strength. \n\nNOTE: The part numbers shown in the schematic are reversed. A1309/A1308 are swapped.\n\nParts used:\n-Atmega328P\n-A1308KUA-1T\n-A309KUA-9T\n-LM317\n\nGuide on burning bootloader / programming an Atmega328:\n\nhttps://www.arduino.cc/en/Tutorial/BuiltInExamples/ArduinoToBreadboard\n\nIf you're buying brand new Atmega chips, you'll need to burn "
+  },
+  {
+   "id": "qfmv-rHK_RU",
+   "t": "Electromagnetic Ring Accelerator",
+   "d": "2021-01-17",
+   "v": 349402,
+   "s": 522,
+   "vertical": false,
+   "desc": "In this video i show how to use an electromagnet with an optical sensor to continuously accelerate ferromagnetic / magnetic spheres around a circular track. \n\nA 12V LiPo battery supplies power to a driver board that energizes a 300-turn coil when a sphere approaches, causing it to accelerate into the center of the coil. I've successfully run the device with up to 3 spheres at a time.\n\nThe electromagnet is far more powerful against a magnetic sphere, but much more erratic and unpredictable, and the sphere tends to stop suddenly after a few rotations.\n\nSTL files:\nhttps://www.thingiverse.com/thin"
+  },
+  {
+   "id": "2j90m6k2vCo",
+   "t": "32 Volt Hand-cranked Generator",
+   "d": "2021-01-29",
+   "v": 10343,
+   "s": 435,
+   "vertical": false,
+   "desc": "The vastly-improved second version of my tiny 2-volt hand cranked generator (https://www.youtube.com/watch?v=0PiGNDu3Oqs). This generator puts out up to 32 volts open-circuit and ~500 mW at optimum load, and can charge a phone/tablet. It's built from a pair of 60mm speaker magnets for the rotor and four 5,000-turn coils of 32 gauge wire. To get the fast rotation of the magnets, i use a 1:10 gear ratio.\n\n\nMusic: Unknown - SergePavkinMusic\nMusic Link: https://youtu.be/NL1C6Kc0yic \n\nMusic: Steady Growth - SergePavkinMusic\nMusic Link: https://youtu.be/Mwcs4CwfybE"
+  },
+  {
+   "id": "OIw1JiMGHlw",
+   "t": "Electromagnetic Accelerator Improvements Part I - Gauss Cannon test rig",
+   "d": "2021-02-12",
+   "v": 63214,
+   "s": 597,
+   "vertical": false,
+   "desc": "In this video I experiment with different improvements to electromagnet coils and build a test fixture to measure my results and compare them to magnetic finite element simulations.\n\nUltimately, i measured an efficiency increase of 51% on a coil that was covered in a shell of ferrous material acting as a magnetic flux guide. \n\nThe magnetic simulation software i use is called FEMM 4.2 and it's free to download: https://www.femm.info/wiki/HomePage\n\nPart II:\nhttps://www.youtube.com/watch?v=uNbL3tRZeMQ\n\nMusic:\n\nHeatley Bros. - Ocean Palance\nSerge Pavkin - Fractal\nSerge Pavkin - Tech"
+  },
+  {
+   "id": "uNbL3tRZeMQ",
+   "t": "Electromagnetic Accelerator Improvements Part II",
+   "d": "2021-02-13",
+   "v": 5590589,
+   "s": 556,
+   "vertical": false,
+   "desc": "Update 9/5/2021 - STL Files in link below:\nhttps://drive.google.com/file/d/150P90fzySc2uXoxUL0e2ZlGPpEaGcZzJ/view?usp=sharing\n\nIn this video I make a new version of my ring accelerator that's capable of propelling steel balls 15 times faster than my first design. This is the second part in a series about improving accelerator coils\n\nHere's some technical specs:\n\nInput voltage: 24V\nNumber of coils: 4\nWire Gauge: 24AWG\n\nCoil Current: 13A\nCoil ID: 1.1\"\nCoil OD: 1.4\"\nCoil Length: 0.5\"\nCoil turns: 200\n\nThe final outer diameter is ~2\" due to the addition of steel wire to create a magnetic flux guide"
+  },
+  {
+   "id": "Wedh-vp-pWI",
+   "t": "150V Mini Mortar",
+   "d": "2021-02-16",
+   "v": 19552,
+   "s": 318,
+   "vertical": false,
+   "desc": "In this video i make a tiny electromagnetic mortar powered from a 110V outlet. The coil consists of 150 turns of 24-gauge wire encapsulated in ferrous material to increase efficiency. \n\nThe capacitor bank is 1.45 mF @ 155V, carrying a total of 17.4 J of energy in the form of static electricity. An 8.1 gram steel ball reaches a maximum height of 12 ft, so i estimate an efficiency of 1.7%. \n\nMusic:\nProd. Riddiman - Lost Time\nhttps://www.youtube.com/watch?v=5xUVDz5ha5U\nHeatley Bros - Luminaire\nhttps://www.youtube.com/watch?v=-c0EVoYGJRY"
+  },
+  {
+   "id": "UUI0k7w_09g",
+   "t": "High Voltage Induction Launcher",
+   "d": "2021-03-05",
+   "v": 159622,
+   "s": 476,
+   "vertical": false,
+   "desc": "In this video I'm going to use a pulse of current from a 1,200 volt capacitor bank to launch metal objects through electromagnetic induction. This is a really interesting area of electromagnetism, because it's effectively generating a huge repulsive magnetic force between two objects without any magnets actually being involved. \n\nThe large electromagnet used in the second part of the video is from a microwave transformer. The core can be sliced fairly easily with an angle grinder if you make your cuts right at the weld lines. As a transformer, magnetic flux is circulated between the primary an"
+  },
+  {
+   "id": "npypgEVxdRU",
+   "t": "30W Bipolar Tesla Coil",
+   "d": "2021-03-07",
+   "v": 13669,
+   "s": 437,
+   "vertical": false,
+   "desc": "This is a simple bipolar Tesla coil that's small enough to touch while it's running. A bipolar tesla coil is simply a tesla coil that has both sides of its secondary coil connected to electrodes facing each other, as opposed to a typical tesla coil which uses earth ground (or a sufficiently large ground plane) as one pole of its secondary coil.\n\nThis is probably the cheapest, easiest, and most convenient way to create a very high voltage power supply - simply a dimmer switch and an ignition coil. The output of my supply is over 30,000V DC.\n\nHere's a list of the hardware i used:\nBox - Hobby Lob"
+  },
+  {
+   "id": "KefetoLcZgE",
+   "t": "30,000 Volt Plasma Tube",
+   "d": "2021-03-14",
+   "v": 46292,
+   "s": 462,
+   "vertical": false,
+   "desc": "This video shows how to make a plasma tube out of a glass bottle and a high voltage supply that takes advantage of Paschen's law (https://en.wikipedia.org/wiki/Paschen%27s_law) to generate a long electrical arc from the reduced breakdown voltage of air in a low-pressure environment.\n\nThe bottle runs at about 0.1 atmospheres, so this would be considered a very low vacuum, but it's more than sufficient to demonstrate the relationship between breakdown voltage and pressure. A dedicated vacuum pump could evacuate this bottle down to a few thousandths of an atmosphere, and the same size arc could b"
+  },
+  {
+   "id": "G9mudqJ46xM",
+   "t": "Mini Induction Heater",
+   "d": "2021-04-04",
+   "v": 171181,
+   "s": 500,
+   "vertical": false,
+   "desc": "This video shows how I build a ZVS driver to power a small induction heater than can make pieces of metal weighing ~1 gram or less glow red hot. The circuit takes in 10-16V and the final variant shown in this video oscillates at about 160 kHz. I also show how this circuit can be used to drive a flyback transformer.\n\nThis is a very modestly powered circuit, but the advantage of a ZVS driver is that it can be scaled up to tens of kW without much of a problem. The voltage on the coil (and the MOSFET V-DS) is about 3 times the input voltage, so to use higher voltages of say, 36 or 48V, I would nee"
+  },
+  {
+   "id": "SmjKbNoK6nU",
+   "t": "120,000-Volt Multiplier",
+   "d": "2021-04-12",
+   "v": 109852,
+   "s": 609,
+   "vertical": false,
+   "desc": "This video shows how to build a cockroft-walton type voltage multiplier using a flyback transformer as a first stage driven by a ZVS driver with a 12V input. This circuit outputs 120,000 volts DC and arcs from ~4\" away. Within about 2 feet of the device, you can feel the ion wind, and your hair being pulled toward it by electrostatic induction.\n\nI didn't use any current limiting resistors, so the discharges are very dramatic but also extremely hard on the capacitors in the multiplier. After about 4-5 seconds of continuous discharge, there's little to no output, and the device needs a minute or"
+  },
+  {
+   "id": "GUOHjON9RVg",
+   "t": "My Homemade Submarine",
+   "d": "2021-04-18",
+   "v": 175723,
+   "s": 787,
+   "vertical": false,
+   "desc": "This is a video about my homemade submarine, which I've been working on off and on for the last 2 years. I'm planning to make some videos with it in the coming weeks, so I thought it would be a good idea to do an introductory video about how i designed/built it. \n\nIt's a \"semi-wet ambient\" type submarine, meaning the pressure inside is the same as the outside water pressure, and the cabin is partially flooded. The pilot and passenger sit in a bubble of trapped air underwater that's equivalent to pushing a cup upside down in your sink, similar to a diving bell. \n\nPower for propulsion, pumps, an"
+  },
+  {
+   "id": "D9IGjKJaO6w",
+   "t": "Wireless Power Transmission",
+   "d": "2021-05-02",
+   "v": 42782,
+   "s": 598,
+   "vertical": false,
+   "desc": "Here i'm going to show how i built a wireless power transmitter / receiver that can power things up to ~2 ft away. The Tx/Rx \"coils\" are actually single 15\" loops of 1/4\" copper tubing. The transmitter and receiver are in resonance (just like a Tesla coil), so the maximum amount of power can be transferred. I'm only putting about 40-45 watts of power into my transmitter, so I was very surprised by the results i got. \n\nTechnical Specs:\n\nLoop Inductance: 1.05 uH\n\nResonant Cap value: 3 uF\n\nResonant Frequency: 89.7 kHz\n\nMOSFET: IRF640 (200V VDS, 1.5V VGS threshold). This FET has a very high R_DS o"
+  },
+  {
+   "id": "on3sQQa88dE",
+   "t": "Wireless Power RC Car",
+   "d": "2021-05-16",
+   "v": 11977,
+   "s": 487,
+   "vertical": false,
+   "desc": "This is an upgraded version of the wireless power transmitter from my previous video being used to power a small 3.6-volt RC car. The transmitter/receiver resonate at 100 kHz, and a bridge rectifier on the RC car feeds a DC-DC buck converter that steps the voltage down to 3.6V. The car pulls around 1 amp, so the transmitter has no problem powering it as long as it's inside the loop or within about 1 ft outside the edge.\n\nThe transmitter runs at 31V and consumes 3-4 amps depending on the load. \n\nHarware used:\n\nRC Car:\nhttps://www.amazon.com/dp/B07X7MRG3F?psc=1&ref=ppx_yo2_dt_b_product_details\n\n"
+  },
+  {
+   "id": "cRY7HEzoOwk",
+   "t": "Mechanical inverter/transformer - 3V to 700V",
+   "d": "2021-05-23",
+   "v": 45235,
+   "s": 391,
+   "vertical": false,
+   "desc": "This video shows how I built a mechanical inverter/transformer, which can take 3V DC from a pair of AA Batteries and turn it into 700V. A long time ago before I knew how to build a solid state inverter circuit, I was curious about building a device like this as an alternative to generate AC from DC. It isn't really practical, but it's a really interesting toy to build/play with. \n\nI use 16 6mm x 4mm neodymium magnets for the rotor with alternating N-S-N-S polarity and 16 coils made from #6 screws wound with about 1,300 turns of 32 gauge magnet wire. The rotor is driven by a 3V motor that turns"
+  },
+  {
+   "id": "mcD3uBld4Y4",
+   "t": "1 MHz AM Transmitter",
+   "d": "2021-06-05",
+   "v": 168530,
+   "s": 859,
+   "vertical": false,
+   "desc": "This video shows how to build a radio that transmits a simple 1 kHz tone on the AM band, which can be heard in a handheld radio or car radio up to 100 yards away. The radio uses an LC oscillator to drive a push-pull amplifier made from a 2N3906 and 2N3904 transistor. The audio tone is generated by a 555 timer. The radio can be powered by up to 40V, but in this video I'm only using 12V. \n\nI experimented with transmitting on 1030 kHz then increased my frequency to 1620 kHz by changing the capacitors in the LC oscillator that generates the carrier wave. Because the frequency is so low in both cas"
+  },
+  {
+   "id": "v7t6dXT-Ffs",
+   "t": "3d Printed Waterwheel Generator",
+   "d": "2021-06-19",
+   "v": 74232,
+   "s": 500,
+   "vertical": false,
+   "desc": "In this video I build a 12\" 3d printed waterwheel and use it to generate electricity from a tiny amount of water flow. The parts are all printed from PLA. It uses a 10x gear ratio to drive a rotor with 99 neodymium fridge magnets on it and generate alternating current through 33 coils. I measured the maximum power output of a the generator at about 26 mW, and the whole thing is only ~9% efficient, so there's definitely room for improvement. I think I can achieve a larger gear-up ratio without adding much friction, which could dramatically increase the power output.\n\nThe shafts / bearings are 8"
+  },
+  {
+   "id": "CdUaW9StZwg",
+   "t": "Solid State Tesla Coil (SSTC) Part 1",
+   "d": "2021-07-11",
+   "v": 48845,
+   "s": 495,
+   "vertical": false,
+   "desc": "This is the first part in series where I'm going to try to build a solid state tesla coil (SSTC) without any prior experience in doing so. \n\nIn this video i start off driving a tesla coil with a ZVS oscillator circuit connected to the primary, which doesn't work very well because there's no ability to adjust the frequency (aside from sliding a contact along the primary coil) and driving at resonance is unstable because the ZVS circuit will want to \"drift off\" when it sees the huge load that occurs at resonance.\n\nThe second, somewhat more successful circuit used a 555 timer to drive a single MO"
+  },
+  {
+   "id": "U_dhVrOCprA",
+   "t": "Solid State Tesla Coil (SSTC) - Part 2",
+   "d": "2021-07-23",
+   "v": 43567,
+   "s": 1181,
+   "vertical": false,
+   "desc": "This is Part 2 of my video series on designing and building a Solid State Tesla Coil (SSTC).\n\nLink to Part 1:\nhttps://www.youtube.com/watch?v=CdUaW9StZwg&t=342s\n\n\nIn this video, I'm going to show the following:\n\n-Finding the resonant frequency of a Tesla Coil with a Signal Generator and Oscilloscope\n\n-Problems with single-MOSFET designs, and why they should be avoided\n\n-How to design/build a half-bridge inverter to drive the primary coil\n\n-Signal conditioning with inverted schmitt triggers and RC delay circuits to change \nphase / duty cycle \n\n-Using dedicated MOSFET gate drivers and coupling t"
+  },
+  {
+   "id": "ncHoBamK9jA",
+   "t": "Solid State Tesla Coil (SSTC) - Part 3",
+   "d": "2021-08-18",
+   "v": 42139,
+   "s": 1009,
+   "vertical": false,
+   "desc": "This is part 3 of my video series on designing and building a Solid State Tesla Coil (SSTC). \n\nPart 1:\nhttps://www.youtube.com/watch?v=CdUaW9StZwg&t=342s\n\nPart 2:\nhttps://www.youtube.com/watch?v=U_dhVrOCprA\n\nIn this video I'll show the following:\n\n-How to build a full H-bridge  driver\n\n-How to use secondary coil current as feedback to drive the primary coil\n\n-How to adjust the phase of the driver to maximize output power\n\n-Results of running the coil off mains (120VAC) instead of 30V DC\n\n\nHardware used is mostly the same as part II, with a few differences:\n\n-IXTQ36N30P 300V / 36A MOSFETs for t"
+  },
+  {
+   "id": "T66Ig4iOcig",
+   "t": "DIY Remote Controlled Electric Lawnmower",
+   "d": "2021-09-02",
+   "v": 163547,
+   "s": 623,
+   "vertical": false,
+   "desc": "This is a rebuild of an RC lawnmower i built several years ago,\nbut using an electric mower this time. It pretty much operates \nthe same way an RC car / battlebot type vehicle does with just \ntwo opposable motors and casters for front wheels. \n\nIn the future I plan to outfit the mower with FPV so that i can \ndrive it from inside the house, and possibly do automation even\nfurther down the road.\n\n\n\nHere's a list of my hardware:\n\n- (2x) 35 A-h 12V lead acid batteries \n\n- 275-Amp battery disconnect switch \nhttps://www.amazon.com/gp/product/B07T288VN8/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc="
+  },
+  {
+   "id": "iXu-ForqR-M",
+   "t": "Solid State Tesla Coil (SSTC) - Part 4",
+   "d": "2021-09-18",
+   "v": 24442,
+   "s": 692,
+   "vertical": false,
+   "desc": "In this video I'm going to show how interrupter modulation can change the shape / size of the tesla coil's arc and use an arduino to play music with square wave tones. The circuit is the same as in part 3, except I've reduced the number of turns on the primary coil from 4 to 2, and I'm providing a 30V input instead of 120V after having a few fireballs resulting from the mis-use of 120VAC. \n\nIn the musical portion of the video, i 3d print a keyboard that plays major notes from C2 to C3, and can trigger different musical routines from specific button combinations. \n\nThe songs are hand-written ba"
+  },
+  {
+   "id": "USiW2xFOSFg",
+   "t": "320,000 Volt Marx Generator",
+   "d": "2021-09-21",
+   "v": 67349,
+   "s": 598,
+   "vertical": false,
+   "desc": "This is my first attempt at building a high voltage impulse generator, better known as\na \"Marx\" generator, after its inventor, Erwin Marx. This is similar to a capacitor-diode voltage multiplier, but produces the voltage multiplication in brief pulses rather than continuously.\n\nThe circuit has 16 stages, each consisting of a 1 nF 20,000V capacitor, with 880k resistors on both the high and low side. Each 880k resistor actually consists of 4 220k resistors in series. This was done to divide the voltage across the resistors to prevent high voltage from\njumping over the resistor from one lead to t"
+  },
+  {
+   "id": "1EabqJJnWhc",
+   "t": "Ignition Coil Drivers",
+   "d": "2021-10-09",
+   "v": 585301,
+   "s": 732,
+   "vertical": false,
+   "desc": "In this video I show the differences between an ignition coil (pulse transformer) and other types of transformers, and a few different ways to drive them to get a high voltage output. \n\nAn ignition coil is an induction coil that has a relatively high primary inductance, but low turns ratio. It generates high voltage by building up a large magnetic field in its primary, and then suddenly collapsing it when current is shut off. The sudden collapse causes a voltage spike in the primary, which is stepped up even further in the secondary coil. These devices can easily produce 30,000 - 40,000 volts "
+  },
+  {
+   "id": "X31B1pVow1o",
+   "t": "8-Bit Adder built from 152 Transistors",
+   "d": "2021-10-18",
+   "v": 798270,
+   "s": 745,
+   "vertical": false,
+   "desc": "NOTE: The schematics incorrectly show the NPN transistors in reverse, with collector / emitter swapped. \n\nThis is my first attempt at doing a semi-serious project using digital logic. To really gain a good appreciation for the technology involved, i designed and built the circuit entirely out of discrete transistors instead of using pre-made IC's with logic gates (such as 74-series chips).\n\nThis adder is built entirely out of 2N3904 NPN transistors, 220k resistors for inputs, and 47k resistors for output pull-ups. There are a total of 152 transistors and 224 resistors, not including the LED re"
+  },
+  {
+   "id": "F8l9Z1HGYcU",
+   "t": "Brushless DC Speed Controller",
+   "d": "2021-11-02",
+   "v": 515653,
+   "s": 911,
+   "vertical": false,
+   "desc": "In this video I'm going to show how i built a brushless DC (BLDC) ESC (electronic speed controller) based on an Atmega328P microcontroller. This ESC was a prototype for a much larger one that I'll be using to drive the 1500-watt motors on my submarine. The video also explains the theory behind how a brushless DC motor works, and some troubleshooting tips that you may find helpful if you build one of these yourself.\n\nThe code i used for the first test can be found here:\nhttps://simple-circuit.com/arduino-brushless-dc-motor-controller/\n\nI later modified it to add a reverse function and adjusted "
+  },
+  {
+   "id": "CLS8pbDNHbk",
+   "t": "Stealing Electricity (The safe way)",
+   "d": "2021-11-10",
+   "v": 2117323,
+   "s": 477,
+   "vertical": false,
+   "desc": "In this video i build a coil that's effectively a huge loopstick antenna with tuning capacitors to resonate at 60 Hz, which is mains frequency in North America. The coil can generate over 5 volts near running appliances or power cables, and charge a capacitor or light up some LEDs. It works by collecting the small magnetic flux leakage that every AC device produces.\n\n The power generated is less than 100 \u03bcW in most cases, so it can't do anything very exciting, but it's really interesting to stand under a power line and see a capacitor charge from its leak. The biggest limiting factor seems to "
+  },
+  {
+   "id": "GJcQfJ6JTZg",
+   "t": "Automatic Coil Winding Machine",
+   "d": "2021-11-24",
+   "v": 242530,
+   "s": 731,
+   "vertical": false,
+   "desc": "Update 2/24/2022:  I've uploaded the STL files for the machine. Note that not all of these parts are used in the final iteration and I didn't sort them yet\n\nhttps://www.thingiverse.com/thing:5261994/files\n\nUpdate 1/17/2022: Schematics and code are linked below. Currently I only have the values for 26 AWG in the code so you'll have to extrapolate for other wire gauges\n\nhttps://drive.google.com/file/d/16xQJ93vJ1Sos_FNN_Kw97RhwrQ_QuLfG/view?usp=sharing\nhttps://drive.google.com/file/d/1ZFmob1WSLG9xLbMRCjPKKMHWxX1yLvsC/view?usp=sharing\n\n\nIn this video I'll show how i made a machine to automate the "
+  },
+  {
+   "id": "QHonF5h8tqo",
+   "t": "Building a Maglev train for my Christmas Tree",
+   "d": "2021-12-18",
+   "v": 159791,
+   "s": 537,
+   "vertical": false,
+   "desc": "Update (5/19/2023): STL files can be found at the link below:\nhttps://www.thingiverse.com/thing:6034389\n\n\nIn this video I'll show how i made a magnetic monorail train that uses infrared LEDs and phototransistors to trigger coils that accelerate it around a track. I built this because i wanted a train to go around my christmas tree and this seemed a lot more interesting than a regular toy train on rails. \n\n\nThe infrared tripwire that triggers the electromagnet coils is the same design i used for my second ball accelerator, which is described in detail in this video:\n\nhttps://www.youtube.com/wat"
+  },
+  {
+   "id": "eOT_G-1ogn4",
+   "t": "Large Magnetic Levitator",
+   "d": "2021-12-28",
+   "v": 381906,
+   "s": 650,
+   "vertical": false,
+   "desc": "Update 7/21/2022: STL files for the levitator have been uploaded \nhttps://www.thingiverse.com/thing:5438518\n\nIn this video I'm going to show how to build a attractive-type \r\n(\"hanging\") magnetic levitator. This is the easiest type of \nlevitator to build, because the electromagnet only operates with \none polarity, and only requires a single sensor and transistor \nto operate. A repulsion-type levitator requires sensors for X \nand Y position, and 4 coils with their own individual H-bridge \ndrivers. \n\nThe electromagnet is built from a 2\" x 6\" solid steel cylinder \nas a core, and 600 turns of 16-ga"
+  },
+  {
+   "id": "XdVXrno-3B4",
+   "t": "Tightrope-walking powered Gyroscope",
+   "d": "2022-01-29",
+   "v": 649331,
+   "s": 762,
+   "vertical": false,
+   "desc": "Update (4/29/2023) - below is a link to the STL files for recreating this project:\nhttps://www.thingiverse.com/thing:5998400/files\n\nIn this video I'll show how i made a powered gyroscope that can travel along a monorail or tightrope. I'll explain how angular momentum keeps the \rgyro upright, even when gravity or other external forces try to knock it over. \n\nThe gyro uses an 8\" diameter flywheel printed with PLA, with 21 1/2\" steel bolts around the edge to dramatically increase the moment of inertia. \n\nSome performance figures:\n\nMotor KV: 620\nMotor Voltage: ~15V\nMotor Speed: ~9,000 RPM\nFlywheel"
+  },
+  {
+   "id": "1QK6zRQ8D4A",
+   "t": "A Generator built from a Stepper Motor and Supercapacitors",
+   "d": "2022-02-12",
+   "v": 226702,
+   "s": 584,
+   "vertical": false,
+   "desc": "In this video I'll show how i used a NEMA17 stepper motor as a hand-cranked generator to charge a supercapacitor bank, which can then be used to power all sorts of things like lights, radios, or even start a fire for a survival situation. \n\n\nI found that using a stepper motor as a generator was far more effective than trying to build my own with magnets and coils. With a 3:1 overdrive on this small NEMA17 motor, I could easily generate 15-20V open circuit, or sustain around 2 watts of output without much trouble. \n\nThe generator uses a pair of parallel bridge rectifiers (one for each coil set "
+  },
+  {
+   "id": "R29G3hUiZnU",
+   "t": "CNC Mill for under $100",
+   "d": "2022-02-27",
+   "v": 3263447,
+   "s": 1085,
+   "vertical": false,
+   "desc": "In this video I'm going to show how I built a basic CNC mill. Most of the hardware was sourced from spare / leftover parts I had laying around from other projects and ended up costing me under $100. It has a working area of approximately 250mm x 250mm x 70mm and is capable of milling aluminum (though somewhat rough).\n\nThe axes are moved with small NEMA17 stepper motors running at 24V, driven by A4988 drivers. The brain of the machine is an Arduino Uno running GRBL firmware, and G-code is sent to it via. USB from a laptop running Universal Gcode Sender - so everything is open source. \n\nI have a"
+  },
+  {
+   "id": "SwzpX-jgbYM",
+   "t": "Upgrading my Homemade CNC",
+   "d": "2022-03-25",
+   "v": 709966,
+   "s": 745,
+   "vertical": false,
+   "desc": "In this video I'll show the upgrades I made to the CNC mill i built in my previous video:\n\nhttps://www.youtube.com/watch?v=R29G3hUiZnU&t=60s\n\nI upgraded to a 500W spindle and built an all-aluminum head assembly, widened the bed, increased the rigidity of the X axis with thicker rails, \ninstalled higher torque steppers on X and Z, and dramatically reduced backlash on all axes by using a double-nut arrangement on my leadscrew \r\n\ncarriages. \n\nThe machine is still far from perfect, but cutting aluminum is significantly easier now, and with some adjustments / tightening down / tuning, I \r\n\nthink it"
+  },
+  {
+   "id": "Yg5swK_AnbU",
+   "t": "3d Printed Compressed Air Turbine",
+   "d": "2022-04-09",
+   "v": 281724,
+   "s": 820,
+   "vertical": false,
+   "desc": "In this video I'll experiment with some designs for a 3d printed compressed air turbine. I started this project because I wanted to research better designs for steam turbines without spending the time and money required to CNC the parts out of metal, and i got results that were almost good enough to be usable for a light duty shop tool. The highest power i measured with a simple 2D turbine on 50 PSI was 16.4 watts. I did all my power measurements with a magnetic dyno. \n\nI also built an aftercooler to remove some moisture out of the air, because I eventually want to use a compressed air turbine"
+  },
+  {
+   "id": "RMUHxo2TOUk",
+   "t": "Comparing Turbine Rotors",
+   "d": "2022-04-27",
+   "v": 101425,
+   "s": 704,
+   "vertical": false,
+   "desc": "NOTE: There's an error in the graphs where i label 20.1W as the max power on a data point below 20W. This was because i accidently clipped the Y-axis at 20W, but the maximum power was in fact 20.1W\n\nThis is the second part of my video on building a 3d printed compressed air turbine, which you can find here:\n\nhttps://www.youtube.com/watch?v=Yg5swK_AnbU\n\nIn this video I'll be experimenting to find the best rotor and casing geometry for a 2D-flow turbine. I'm focusing on 2D flow because of the relative ease of machining parts, since I eventually plan to build one of these out of aluminum or brass"
+  },
+  {
+   "id": "shNaC7d4CMA",
+   "t": "Submarine Kayak - Part 1",
+   "d": "2022-06-07",
+   "v": 762207,
+   "s": 1083,
+   "vertical": false,
+   "desc": "This is the first video in my series on converting a kayak into a wet submarine. I found that my original submarine was a hassle to operate, because it required a heavy trailer and had to be launched from a boat ramp. This made it difficult to accomplish my goal of diving on coral reefs in the ocean, because most boat ramps are usually several miles from inlets, and inlet crossings were hazardous in the large, slow submarine.\n\nOn the other hand, this specially modified kayak is lightweight and portable. I can load it in the back of my truck, and drag it across a beach, or even through the jung"
+  },
+  {
+   "id": "SdJwY4Huukc",
+   "t": "RC Airboat with a Water Cannon",
+   "d": "2022-06-25",
+   "v": 35199,
+   "s": 1094,
+   "vertical": false,
+   "desc": "STL Files:\nhttps://www.thingiverse.com/thing:5418100\n\nIn this video I'll show how i built an RC airboat for racing. The boat can travel on water, tile floor, and wet grass. It's powered by a 3S LiPo Battery (12V) turning a pair of counter-rotating brushlesss motors with 6\" 3-bladed propellers. It's also equipped with a pump draw water from beneath the hull and shoot it out a nozzle at the front of the boat to knock over other racers.\n\nI originally equipped the boat with an audio amplifier to play music as a gimmick, but i found that it added unneccesary weight and complexity, and couldn't be h"
+  },
+  {
+   "id": "AvyeK_MXTL0",
+   "t": "Magnetic Remote Control",
+   "d": "2022-07-09",
+   "v": 148940,
+   "s": 999,
+   "vertical": false,
+   "desc": "In this video I'll show how I built a remote control that works entirely off the magnetic field of a coil (unlike a typical radio transmitter). This is known as inductive coupling, an is the same principle used in a transformer. The only difference in this case is that the windings of the transformer are very far apart. This type of signaling is common in short-range, low power devices, like RFID. \n\nThis is effectively the same setup that would be used for wireless power transfer, but with two key differences:\n\n-The output of the transmitting coil is not a continuous wave; it's modulated to pr"
+  },
+  {
+   "id": "IRRF1FadkFw",
+   "t": "Inductor Tester",
+   "d": "2022-08-05",
+   "v": 99908,
+   "s": 601,
+   "vertical": false,
+   "desc": "In this video i show how to build a circuit that can measure the value of an inductor in conjunction with an oscilloscope. This is meant to be a replacement for my $10 LCR meter, which isn't very accurate, and has very poor resolution below ~1mH of inductance.\n\nThe circuit works by sending a single pulse through an inductor, which has a known capacitance in parallel with it. When current through the inductor is shut off, the L-C pair \"rings\" at its resonant frequency, determined by f = 1/[2pi*sqrt(LC)]. Since frequency \"F\" and capacitance \"C\" are known, the inductance can be determined.\n\nCurre"
+  },
+  {
+   "id": "E3UMGEl0iVs",
+   "t": "Mini Lightning Generator",
+   "d": "2022-08-27",
+   "v": 39917,
+   "s": 58,
+   "vertical": true,
+   "desc": "#shorts"
+  },
+  {
+   "id": "ooPlDbRXzAc",
+   "t": "500,000 Volt Lightning Tower",
+   "d": "2022-09-04",
+   "v": 95836,
+   "s": 786,
+   "vertical": false,
+   "desc": "In this video I'll show how i use a diode-capacitor chain to boost 9,000 volts AC to over 500,000 volts DC. This is known as a \"Cockroft-Walton\" type generator, and was used to generate high energy discharges for early particle accelerators. \n\nIt looks very similar to a Tesla coil, but it's sort of the exact opposite, because it outputs DC instead of AC. This gives it a unique capability that a Tesla coil doesn't have - it can produce static electricity. In fact, at 500kV, some objects can be given enough static charge to repel each other like magnets. It'll pull your hair toward it from acros"
+  },
+  {
+   "id": "oiZdNfu083o",
+   "t": "Self-Oscillating Transformer",
+   "d": "2022-09-05",
+   "v": 132548,
+   "s": 55,
+   "vertical": true,
+   "desc": "#shorts \nMusic: Lakey Inspired - Chill Day"
+  },
+  {
+   "id": "xImmwL5MR0o",
+   "t": "Tabletop Tesla Coil",
+   "d": "2022-09-17",
+   "v": 141190,
+   "s": 871,
+   "vertical": false,
+   "desc": "In this video I'll show how i built a battery powered solid state tesla coil that fits on a desk or a coffee table. The coil uses a \"slayer \r\nexciter\" circuit with an RC snubber and reverse protection diode to avoid damaging spikes of voltage/current during \"hard switching\". In \naddition, 3 FETs are used in parallel to spread out the heat load, which makes the circuit far more reliable. \n\nIn addition to those changes, I've buffered the MOSFET gate drive with a push-pull pair consisting of an NPN and PNP transistor. This allows the \r\n\ngate to be turned on and off much faster, and allows more co"
+  },
+  {
+   "id": "2Vb82SZE3JA",
+   "t": "Corona Discharge Photography",
+   "d": "2022-10-07",
+   "v": 68817,
+   "s": 634,
+   "vertical": false,
+   "desc": "In this video I'll show the technique of \"Kirlian Photography\", which uses corona discharge off a conductive object for imaging. The technique uses two clear glass plates with salt water between them. The salt water is connected to a high voltage, high frequency AC source. An AC flyback transformer works for this, but i got better results using a solid state tesla coil operating off a slayer exciter circuit - the same circuit i demonstrated in my previous video. This generates around 40,000 volts at 350 kHz with a 12V input. \n\nThe high voltage AC doesn't conduct through the glass, but causes h"
+  },
+  {
+   "id": "u7k2wiY4Flo",
+   "t": "Electro-Mechanical Resonant Oscillator",
+   "d": "2022-10-30",
+   "v": 163087,
+   "s": 575,
+   "vertical": false,
+   "desc": "In this video I'll show how to build a resonant mechanical oscillator that's driven by an electromagnet. The electromagnet is pulsed by a circuit \r\n\nwith an adjustable frequency, so it can be fine tuned to run at the exact resonant frequency of the spring-mass system. In this case that \r\n\nfrequency is about 11 Hz. The driver basically just consists of a 555 timer and a MOSFET to turn the coil on and off. In the future, i think i \r\n\nneed to use a feedback controller to do this, because even when i get the system to resonate, it eventually drifts out of phase and resonance \r\n\ndies off (even thou"
+  },
+  {
+   "id": "GjRoThMyNGA",
+   "t": "Pulse Tube Cryocooler - Part 1",
+   "d": "2022-12-07",
+   "v": 686704,
+   "s": 1097,
+   "vertical": false,
+   "desc": "In this video i expand on the resonant linear motor from my previous video and use it to drive a linear compressor for a pulse-tube refrigerator. A pulse tube refrigerator is used to reach cryogenic temperatures, with some going into the sub-kelvin temperature range. These are typically used in labs for scientific experiments that require extreme low temperatures, or for sensors on sattelites/spacecraft, like the optics on the James Webb Space Telescope. \n\nFrom a thermodynamic standpoint, a pulse tube cryocooler is effectively the same as a Stirling or Gifford-McMahon (GM) cooling cycle, but i"
+  },
+  {
+   "id": "WOmjJFk8rl0",
+   "t": "Pulse Tube Cryocooler - Part 2 (-75C)",
+   "d": "2022-12-27",
+   "v": 1056548,
+   "s": 1146,
+   "vertical": false,
+   "desc": "Part 1:\nhttps://www.youtube.com/watch?v=GjRoThMyNGA\n\nThis is the second part of my video series on attempting to build a Pulse Tube cryocooler. I managed to make significant progress by removing the linear motor and using a conventional rotary motor with a large gear reduction ratio and a flywheel to produce the larger forces needed for higher compression ratios. \n\nFor pistons, I used pneumatic actuators. I evaluated a 25mm bore and a 40mm bore piston, both with a 50mm stroke. Pneumatic actuators have more friction than conventional pistons due to their rubber lip seals, but theoretically have"
+  },
+  {
+   "id": "cy8aGMH8Tz4",
+   "t": "Pulse Tube Cryocooler (Part 3)",
+   "d": "2023-01-21",
+   "v": 256890,
+   "s": 1104,
+   "vertical": false,
+   "desc": "This is the third video in my series on building/testing a Pulse Tube cryocooler with the eventual goal of liquifying nitrogen/oxygen. \n\nPart I:\nhttps://www.youtube.com/watch?v=GjRoThMyNGA\n\nPart II:\nhttps://www.youtube.com/watch?v=WOmjJFk8rl0\n\nIn this video I investigated the effects of different pulse tube materials, regenerator materials, heat sink designs, inertance tube geometry, and pressurization of the working fluid. While I didn't manage to exceed my record from the previous video of -75C drop (corresponding to a drop below ambient of about 100C), I did gather a lot of information abou"
+  },
+  {
+   "id": "vC2it8LHKSQ",
+   "t": "Pulse Tube Cryocooler (Part 4) - Valve Controlled",
+   "d": "2023-02-17",
+   "v": 211244,
+   "s": 1031,
+   "vertical": false,
+   "desc": "This is the 4th part in my video series on designing/building/testing a pulse-tube cryocooler in an attempt to create low enough temperatures to liquify nitrogen (-196C or 77K). In this video, i'll be investigating an entirely different type of pulse tube that uses two valves - one connected to a compressor and another vented to the atmosphere - to create the pressure oscillations in the pulse tube. This is known as a \"Gifford-McMahon\" (GM)cycle, and is more commonly used in a refrigeration cycle with a moving displacer, but can also be found in use with pulse tubes. \n\nThe GM cycle is less eff"
+  },
+  {
+   "id": "q_dVvGQ72YY",
+   "t": "Making Dry Ice from scratch",
+   "d": "2023-03-09",
+   "v": 2207683,
+   "s": 952,
+   "vertical": false,
+   "desc": "In this video, I'm going to show how to make dry ice (frozen CO2) from scratch. I thought using dry ice to pre-cool my pulse tube cryocooler might help me get lower temperatures, since dry ice is -79C, and adding my pulse tube's ~100C temperature drop on top of that could get me very close to liquid nitrogen temperatures. But instead of just buying dry ice, I wanted to see if it was feasible to make it myself, so I went through the steps of producing, cooling/compressing, and discharging the CO2 \nas liquid to form ice. \n\nThere are several ways to produce CO2 - a few of these are:\n\n-Reacting ac"
+  },
+  {
+   "id": "7QZrHzd3RA8",
+   "t": "DIY Vapor Compression Refrigeration System",
+   "d": "2023-04-11",
+   "v": 1670004,
+   "s": 1686,
+   "vertical": false,
+   "desc": "In this video i'll show how to put together a single-stage vapor compression refrigeration system and explain the theory behind it. This machine uses propane (R290) as a refrigerant, because it has properties very similar to standard Hydrofluorocarbon (HFC) refrigerants, but is extremely cheap and readily available, and has almost no negative environmental effects. The obvious disadvantage is its flammability. If you're careful, though, propane or butane are perfect substances for a DIY vapor compression system.\n\nThis is still part of my long term project to build a DIY cryocooler to make my o"
+  },
+  {
+   "id": "UKFEbYdKdJg",
+   "t": "Making Ethylene (Refrigerant R1150)",
+   "d": "2023-04-22",
+   "v": 345416,
+   "s": 1054,
+   "vertical": false,
+   "desc": "First off, huge thanks to Exotic Chem Lab for helping me with this video. He's provided me with the valuable information I need to create my own DIY cryocooler. He just started his youtube channel, which you can find at the link below:\n\nhttps://www.youtube.com/@Exotic_Chem_Lab\n\nIn this video, I'll be making Ethylene (also called \"Ethene\", but not to be confused with \"Ethane\") gas to use as a refrigerant in the second stage of a two-stage vapor-compression system. \n\nEthylene has the formula C2H4 (as opposed to Ethane, which is C2H6), and has a boiling point of -104C. However, at a pressure of a"
+  },
+  {
+   "id": "T76UDLPv04Y",
+   "t": "DIY Cascade Refrigeration System (Part I)",
+   "d": "2023-05-14",
+   "v": 368187,
+   "s": 1155,
+   "vertical": false,
+   "desc": "Big thanks to Exotic Chem Lab for providing lots of guidance / info on this project. Check out his channel at:\nhttps://www.youtube.com/@Exotic_Chem_Lab\n\nIn this video I'll be building on the work I did in my last 2 videos (DIY vapor compression refrigeration & Ethylene Production) to create a 2-stage or \"cascade\" vapor compression refrigeration system that uses propylene (aka MAPP gas) in the first stage, and Ethylene (R1150) in the second stage. The goal of the project is to hit -100C.\n\nA major snag i ran into was that I wasn't getting the temperature drop I thought i'd be getting from my Eth"
+  },
+  {
+   "id": "JSjlcPMi2yA",
+   "t": "DIY Cascade Refrigeration System (Part II)",
+   "d": "2023-06-11",
+   "v": 255678,
+   "s": 777,
+   "vertical": false,
+   "desc": "This is the second part of my video series on building a DIY cascade refrigeration system, where i reach (and exceed) my goal of reaching -100C. \n\nPart I:\nhttps://www.youtube.com/watch?v=T76UDLPv04Y\n\nIn this video, i experiment with some alternative refrigerants for second stages. I tried CO2 (R744) (which isn't viable due to freezing) and Nitrous oxide (R744A), which is a very effective refrigerant but also potentially hazardous. I reached an open-cycle temperature of -81C with CO2 and -91C with Nitrous oxide.\n\nLater, i figured out that the source of my hydrogen contamination in my Ethylene p"
+  },
+  {
+   "id": "U5eoK2vEHDQ",
+   "t": "How long will Dry Ice last in a Thermos?",
+   "d": "2023-06-16",
+   "v": 87551,
+   "s": 29,
+   "vertical": true,
+   "desc": "In this short video i measure the weight loss of a dry-ice filled thermos to determine the sublimation rate, and the rate of heat-leakage into the thermos, assuming the energy of sublimation is 734 kJ/kg. \n\nA 47 oz thermos lost 12 grams/hour of dry ice, and when placed in a foam box, it lost about 11 grams/hour, which works out to 2.45W and 2.24W of heat transfer respectively. That's actually pretty impressive when you consider that's at a temperature difference of over 100C. \n\nMusic:\nKevin Macleod - Lobby Time"
+  },
+  {
+   "id": "r_B0RmRlFHA",
+   "t": "Joule-Thompson Cryocooler",
+   "d": "2023-07-03",
+   "v": 377582,
+   "s": 1742,
+   "vertical": false,
+   "desc": "Big thanks to  @Exotic_Chem_Lab   chem lab for sharing his experience to help make this project happen\n\nIn this video I'm going to examine the performance of a homemade cryocooler using the joule-thompson effect. A joule-thompson type device was the first method that was used to liquify nitrogen on an industrial scale, but it was very inefficient. Using nitrogen at pressures of 200-300 bar, it would drop the temperature through a regenerative heat exchanger until it reached a low enough temperature that some of the nitrogen would condense to liquid when it expanded through a flow restriction. "
+  },
+  {
+   "id": "iuVJOcsRKKg",
+   "t": "Exploding Propane Balloons",
+   "d": "2023-07-05",
+   "v": 57679,
+   "s": 49,
+   "vertical": true,
+   "desc": "For the 4th of July, i decided to make some DIY fireworks by filling jumbo balloons from a 20-lb tank and igniting them with a remote control.\n\nMusic:\nKevin MacLeod - George Street Shuffle"
+  },
+  {
+   "id": "-qWQaX8_EDY",
+   "t": "Seeing Radiation with the Naked Eye",
+   "d": "2023-08-21",
+   "v": 139766,
+   "s": 913,
+   "vertical": false,
+   "desc": "In this video I'll attempt to build a Cloud Chamber for visualizing subatomic particle trails. These particles come primarily from cosmic rays, which is ambient radiation from outer space. The three main sources of radiation we'll see here are Alpha particles (relatively slow but massive helium nuclei), Beta particles (very fast electrons, but much lower mass than Alpha particles), and Gamma rays (an ultra high energy photon with frequencies in excess of 10^19 Hz, which is about 100,000x the frequency of visible light). \n\nIn the chamber, alcohol evaporates from either a reservoir, or more comm"
+  },
+  {
+   "id": "7uQ3YW3_3eA",
+   "t": "Joule-Thomson Cryocooler Part II (-153\u00b0C)",
+   "d": "2023-09-10",
+   "v": 255159,
+   "s": 845,
+   "vertical": false,
+   "desc": "In this video, I'll build on my progress from the last Joule-Thomson \r\ncryocooler video and reach a temperature of -153C on a single stage \nusing parts sourced from window A/C units and common/cheap substances as \r\n\nrefrigerants (a mixture of Propane, Ethylene, and Methane). This \r\ntemperature is low enough to condense any gas except for Hydrogen, \r\nHelium, or Neon, at the following pressures:\n\nNitrogen - 25.3 barA (352 PsiG)\n\nAir - 20.2 barA (278 PsiG)\n\nOxygen - 10.3 barA (135 PsiG)\n\nMethane - 1.9 barA (13 PsiG)\n\nI tested several different mixtures to achieve this temperature, but the \r\n\nbest"
+  },
+  {
+   "id": "oIWgzVaGn4Y",
+   "t": "Automated Hydrogen Generator",
+   "d": "2023-10-04",
+   "v": 2352647,
+   "s": 1041,
+   "vertical": false,
+   "desc": "In this video I'll show how I built my Hydrogen gas generator using electrolysis of a 10% Sodium Hydroxide solution with 316 stainless steel electrodes. Unlike an \"HHO\" generator, this cell separates the hydrogen from the oxygen, so it can be collected in a tank for later use. In the video, I demonstrate its usefulness as a lifting gas for a camera-carrying balloon, but my ultimate goal is to liquify it with a cryocooler at -252C or use it as a working fluid in a stirling cycle to serve as a cheap and plentiful substitute for helium. I'm also interested in using it to manufacture synthetic met"
+  },
+  {
+   "id": "udIEGE5mfcA",
+   "t": "Battery-Powered Magnetron",
+   "d": "2023-11-20",
+   "v": 951694,
+   "s": 888,
+   "vertical": false,
+   "desc": "In this video I'll explain how a Magnetron works, collect some current/voltage numbers on a typical household magnetron from a microwave oven, and show how to power one off a 12V battery. \n\nTypical DIY magnetron videos only show how to remove the transmitter from the microwave oven and run it with its original circuitry off mains power. Here, I'm basically building a high frequency inverter circuit to run off DC so that the entire device is portable. To do this, I have a ZVS oscillator driving a transformer primary, and the secondary coil is connected to a voltage doubler / rectifier to provid"
+  },
+  {
+   "id": "JN_7KgdB1V8",
+   "t": "Dry Ice from Sea Shells",
+   "d": "2023-12-05",
+   "v": 172844,
+   "s": 909,
+   "vertical": false,
+   "desc": "Get Surfshark VPN at https://Surfshark.deals/HYPERSPACEPIRATE and enter \r\npromo code HYPERSPACEPIRATE for a Holiday Special offer of 5 extra \nmonths for free with the Surfshark One package!\n\nIn this video I'm going to turn seashells into dry ice. Sea shells are \r\n\nmostly made up of limestone - or Calcium Carbonate (CaCO3), which can be \r\ndecomposed into Calcium Oxide (CaO) and Carbon Dioxide (CO2) when heated \r\nto around 900C. I used a 500W induction heater i built to heat a sealed \r\npipe full of sea shells to a hot enough temperature and collected the \r\nCO2 gas into a beach ball by using a va"
+  },
+  {
+   "id": "f6mLykQjxZ0",
+   "t": "Producing refrigeration from my pee",
+   "d": "2024-01-08",
+   "v": 188252,
+   "s": 980,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a\nwebsite or domain using code HYPERSPACEPIRATE\n\nIn this video I'll be showing how to produce mild refrigeration with compounds extracted from urine. Human urine contains 1-2% urea (CO[NH2]2), which I'll be convert into Ammonia (NH3). This can be done either by thermal decomposition of solid urea after it's been distilled out of urine, or by reacting urine with sodium hydroxide (NaOH) and heating it. I opted for the second method, since it's less energy intensive. Videos showing the extraction of ammonia fr"
+  },
+  {
+   "id": "C3LCjp_REYA",
+   "t": "How to make Ethane Refrigerant (R170)",
+   "d": "2024-02-07",
+   "v": 231765,
+   "s": 1409,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a\nwebsite or domain using code HYPERSPACEPIRATE\n\nIn this video I'll show how to make Ethane gas (C2H6), also known as refrigerant R170. This is the slightly heavier cousin of Ethylene or \"Ethene\" which is C2H4 (Refrigerant R1150). Ethane has a boiling point of -88C compared to Ethylene's -104C. \n\nThe main motivation behind synthesizing Ethane was to have a refrigerant for the second stage of a cascade vapor compression system that could still reach ultra-low temperatures, but without as high of a pressure d"
+  },
+  {
+   "id": "zRrgvYJ8gAY",
+   "t": "Automated Ethylene Production Plant",
+   "d": "2024-03-02",
+   "v": 234078,
+   "s": 791,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your \r\nfirst purchase of a website or domain using code HYPERSPACEPIRATE\n\nOriginal Ethylene production video:\nhttps://www.youtube.com/watch?v=UKFEbYdKdJg\n\nBoard Schematic:\nhttps://drive.google.com/file/d/1jGZg0plUJJzqGkXVEZyQ5Ky7ZHtwXC8n/view?usp=sharing\n\nArduino Code:\nhttps://drive.google.com/file/d/12d2MGy-z9415vCw4UUFIL6S_Q7bAi6pA/view?usp=sharing\n\nIn this video I'll show how I automated the process of producing \r\n\nEthylene (C2H4) gas for use as a refrigerant. Ethylene is known as \r\nEthene, but is different from Ethane which i"
+  },
+  {
+   "id": "oI_QEbG6mDE",
+   "t": "DIY Cascade Refrigeration System (Part III)",
+   "d": "2024-04-11",
+   "v": 172839,
+   "s": 792,
+   "vertical": false,
+   "desc": "To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/HyperspacePirate/ . You'll also get 20% off an annual premium subscription.\n\nThis is part III of my video series on building a DIY vapor-compression casacade (i.e. multi-stage) refrigeration system. In the last two videos, i demonstrated the concepts needed to make a cascade system work and reached temperatures below -110C, but because i used low-powered reciprocating compressors meant for R600A, I wasn't able to build a system that ran continuously and only managed to evaporate low-temperature re"
+  },
+  {
+   "id": "4rjwx5q2fVI",
+   "t": "Making Liquid Methane (and blowing up my Cryocooler)",
+   "d": "2024-05-14",
+   "v": 221784,
+   "s": 1039,
+   "vertical": false,
+   "desc": "To try everything Brilliant has to offer for free for a full 30 days, \r\nvisit https://brilliant.org/HyperspacePirate/ . You'll also get 20% off an \nannual premium subscription.\n\nIn this video I'm going to Liquify Methane / Natural gas with my Mixed-Gas \r\n\nJoule-Thomson Cryocooler. Methane liquifies at -162C under ambient \r\npressure, but at elevated pressures, it can be condensed as high as -85C. \r\nIn this experiment I'll condense some at -118C / 12 bar of pressure. \n\nMy cryocooler was meant for making liquid air or liquid nitrogen, but I \r\n\nfigured I'd try liquefying some methane along the way"
+  },
+  {
+   "id": "XORhc8S5psg",
+   "t": "3d Printed Thread Tapping Arm",
+   "d": "2024-06-29",
+   "v": 32035,
+   "s": 53,
+   "vertical": true,
+   "desc": "STL Files:\n\nhttps://www.thingiverse.com/thing:6678535\n\nParts:\n\n8x #6-32 x 2\"\n2x #6-32 x 1/2\" \n\nC10 ER11A 100L Collet Chuck Holder:\nhttps://www.amazon.com/dp/B010V4VL1Q\n\n23/32\" x 3-1/2\" x 0.041\" \nSpring:\nhttps://www.amazon.com/dp/B008RG54YG\n\nER11 1/8\" Spring Collet:\nhttps://www.amazon.com/Qjaiune-Precision-Engraving-Machine-Milling/dp/B098QDYSLP\n\nM3x0.5 Tap:\nhttps://www.amazon.com/uxcell-Metric-Flutes-Thread-Watches/dp/B07KT1VM7G/\n\nMusic Used:\n\nKevin MacLeod - Lobby Time"
+  },
+  {
+   "id": "eqxwsfy72L0",
+   "t": "Making Liquid Nitrogen with my Homemade Cryocooler",
+   "d": "2024-07-15",
+   "v": 366320,
+   "s": 844,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a website or domain using code HYPERSPACEPIRATE\n\nIn this video, I'll show how I built a cryocooler out of salvaged air conditioner parts that's able to make liquid nitrogen at -196C. \n\nThe system operates on a process known as the Mixed-Gas Joule Thomson cycle. A mixture of refrigerant gases are compressed, cooled to ambient temperature, and then expanded inside a long counterflow heat exchanger. When the gases expand, they cool. Cold, low-pressure gas cools the incoming high-pressure gas causing it to drop"
+  },
+  {
+   "id": "7M5x2OFYP-k",
+   "t": "Making Copper Parts from Algaecide",
+   "d": "2024-08-13",
+   "v": 266875,
+   "s": 811,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a\nwebsite or domain using code HYPERSPACEPIRATE\n\nIn this video I'm going to show an easy method to extract pure copper metal from copper sulfate and then I'll melt it down and use a homemade CNC mill to machine the castings into parts. In this case, the parts were just decorative, but you could absolutely use this approach to make useful parts too. I had lots of copper sulfate laying around because I like using it to grow crystals, but you may also have some on hand if you do gardening or pond maintenance. "
+  },
+  {
+   "id": "OpyLmIjZaxY",
+   "t": "Gyro-Stabilized Monorail Train",
+   "d": "2024-08-23",
+   "v": 201866,
+   "s": 1090,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a\nwebsite or domain using code HYPERSPACEPIRATE\n\nIn this video I'll demonstrate an example of gyroscopic stabilization of a two-wheeled vehicle by building a model of the 1903 \"Gyro-Monorail\", which was an experimental monorail train car that used control moment gyros (CMGs) to keep it upright on two wheels. This scheme could also be used for stabilizing a bike or motorcycle, though. \n\nThe end result is the same as using a reaction wheel, but rather than applying correction torque to a big wheel with a lot "
+  },
+  {
+   "id": "15ga4KMSWqU",
+   "t": "DIY Micro Steam Powerplant",
+   "d": "2024-09-21",
+   "v": 788855,
+   "s": 1199,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a website or domain using code HYPERSPACEPIRATE\n\nIn this video I'll use a steam turbine to generate electricity using a BLDC motor as a generator to create 3-phase alternating current. The turbine is machined from a brass block, with a 2\" x 2\" x 1\" housing and 46mm diameter / 19mm wide rotor. As a nozzle, it has a 1mm orifice. The steam is generated by a flash boiler that's heated with a propane flame and fed from a pressurized water tank. A unique feature about this boiler design is that the feedwater pres"
+  },
+  {
+   "id": "9MdJLTgTCSU",
+   "t": "Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)",
+   "d": "2024-10-09",
+   "v": 196458,
+   "s": 957,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a website or domain using code HYPERSPACEPIRATE\n\nIn this video I'll examine the \"Autocascade\" refrigeration cycle. The Autocascade cycle is a vapor-compression cycle that achieves multiple stages of refrigeration with a single compression. This is done by compressing a high-boiling and low-boiling refrigerant together. In this video, the high-boiling refrigerant is Propane or R290 (-42C at 1 atm) and the low-boiling refrigerant is Ethylene or R1150 (-104C at 1 atm). \n\nWhen the refrigerants are compressed an"
+  },
+  {
+   "id": "54Htg4I_ZBA",
+   "t": "Gyroscopic Stabilization with Weight Shifting",
+   "d": "2024-10-26",
+   "v": 100615,
+   "s": 804,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off your first purchase of a website or domain using code HYPERSPACEPIRATE\n\nIn this video I'll show how I improved my gyro stabilization system by switching from control-moment gyroscopes to a single passive gyroscope on a gimbal with weight shifting to develop stabilizing torque. \n\nAt rest, the gyroscope is laying flat, but the gimbal is free to rotate about the vehicle's pitch axis. This causes a torque that resists any changes in angle on the vehicle's roll axis, but by itself, isn't able to keep the vehicle upright indefinitely, "
+  },
+  {
+   "id": "AiHksObCLuU",
+   "t": "Acetylene Gas from Sea Shells and Driftwood",
+   "d": "2024-11-14",
+   "v": 378710,
+   "s": 916,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off \r\nyour first purchase of a website or domain using code \nHYPERSPACEPIRATE\n\n\nIn this video I'll show how to make Acetylene gas (C2H2) from \r\nSeashells and Driftwood.\n\nAcetylene gas is formed when Calcium Carbide (CaC2) comes into \r\n\ncontact with water. Calcium Carbide can be made by reacting \r\nCalcium Oxide (CaO) with Carbon at temperatures in excess of \r\n2,000C. \n\nThe Calcium Oxide is produced by thermal decomposition of \r\n\nCalcium Carbonate (CaCO3), aka. Limestone. Seashells are mostly \r\nmade of Calcium Carbonate, so they're bak"
+  },
+  {
+   "id": "AZqjMaiJZMQ",
+   "t": "Making Gigantic Ice Cubes In My Garage",
+   "d": "2024-12-13",
+   "v": 364099,
+   "s": 1153,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/hyperspacepirate to save 10% off \nyour first purchase of a website or domain using code \nHYPERSPACEPIRATE\n\nYep - it's another refrigeration video. This time, instead of trying to go as cold as possible, I'm trying to go as big as possible, and I'll be building a 1,600-watt refrigeration system to freeze 25-gallon blocks of ice weighing over 200 lb.\n\nLike other refrigeration systems I've built, this system uses rotary compressors and R290 (ordinary propane) as a refrigerant. But this particular system has a twist: it uses two compressors with different power leve"
+  },
+  {
+   "id": "agwKNLoU6g8",
+   "t": "4,000-Joule Exploding Wire Machine",
+   "d": "2025-01-20",
+   "v": 508255,
+   "s": 1621,
+   "vertical": false,
+   "desc": "Click this link https://sponsr.is/bootdev_HyperspacePirate and use my code HYPERSPACEPIRATE to get 25% off your first payment for boot.dev. \n\nIn this video I'll demonstrate the incredible power of electricity when it's stored at high voltage in a large capacitor bank. \n\nThis device uses five 10,000 uF 400-volt capacitors in series, forming a bank with 2,000 uF and a maximum voltage of 2,000 volts. At full charge, it stores 4kJ of energy, which is approximately equivalent to the chemical energy in one gram of TNT. \n\nWhen the switch is closed, the capacitors dump more than 10,000 amps of current"
+  },
+  {
+   "id": "adTKHcrOzMU",
+   "t": "Transmitting Wireless Power over 100 ft",
+   "d": "2025-03-14",
+   "v": 250913,
+   "s": 1452,
+   "vertical": false,
+   "desc": "In this video I'll be attempting to get the longest range \r\npossible out of a wireless power transmission system using \ninductive coupling. I'll start off with a \"blocking\" oscillator \r\n(similar to a joule theif) running off a 9-volt battery, and \r\nwork my way up to a resonant half-bridge driver powered from 120 \r\nvolts AC.\n\nThe maximum range I achieved for lighting a single LED was 130 \r\nft (40m), and the open circuit voltage at that range was about \r\n2.6V. \n\nThe wireless power transmitter is a 15-ft (4.6m) hexagon with 8 \r\nturns of 14-gauge wire that oscillates at approximately 145 kHz. \r\nTh"
+  },
+  {
+   "id": "4NRkFqeO27Y",
+   "t": "DIY X-ray Machine",
+   "d": "2025-04-08",
+   "v": 272727,
+   "s": 922,
+   "vertical": false,
+   "desc": "Click this link https://sponsr.is/bootdev_HyperspacePirate and use my code HYPERSPACEPIRATE to get 25% off your first payment for boot.dev. \n\nIn this video I'll show how I built my own portable X-ray machine used for imaging electronics and other small objects. I initially used a KL-0.8-70 tube, but ended up using a KL11-0.4-70 tube for the final iteration. \n\nThe anode is supplied high voltage by a 10-stage voltage multiplier using pairs of 1nF / 20kV capacitors in series and 100mA / 20kV diodes in series. Unloaded, it can output close to 120kV DC, but with the tube running, it puts out 50-70k"
+  },
+  {
+   "id": "c28rrrnbLow",
+   "t": "High Voltage without Switches or Transistors",
+   "d": "2025-04-14",
+   "v": 595348,
+   "s": 33,
+   "vertical": true,
+   "desc": "This is a \"Wenhelt Interrupter\". It creates momentary interruptions to the current through the primary coil of a transformer (an automotive ignition coil in this case) to cause a large voltage spike across the primary. \n\nIt consists of two electrodes in an electrolyte solution (20% Sodium Hydroxide in this case), but they're separated by a thin-walled non-conductive barrier with a pinhole in it. The pinhole acts like a choke for the current flow, and gets extremely hot very quickly, sort of like the thin wire in a fuse blowing. When it gets hot enough, the water inside the hole boils, and the "
+  },
+  {
+   "id": "18b0OhrSmeI",
+   "t": "Lightning in a Jar",
+   "d": "2025-04-20",
+   "v": 82465,
+   "s": 29,
+   "vertical": true,
+   "desc": "This device uses 150 kV DC to generate corona discharge to produce ozone, which I'm going to use for a chemistry project.\n\nThe arcs are actually undesirable cause they make an NOx/NO2 side product, but it looks cooler for the video. Also much of the corona is outside the metal lid, which will be fixed with a plastic lid."
+  },
+  {
+   "id": "kwz8VNnRLqk",
+   "t": "Ozone Destroying a Rubber Glove",
+   "d": "2025-04-25",
+   "v": 315688,
+   "s": 34,
+   "vertical": true,
+   "desc": "Here's a quick test of the output of one of my ozone generators. The tell-tale sign that a large quantity of ozone is present is that fact that the gas will almost instantaneously begin destroying a latex glove. \n\nIn this example, 50W of power is going into the plasma discharge generating the ozone, and airflow is provided by a 20W aquarium air pump. The quantity of ozone would be significantly higher if the device was fed with pure or enriched oxygen."
+  },
+  {
+   "id": "HZYWpZYuRKc",
+   "t": "Making Nitrates with 150,000 Volts",
+   "d": "2025-05-12",
+   "v": 237935,
+   "s": 963,
+   "vertical": false,
+   "desc": "Take back your personal data with Incogni! Use code \"hpirate\" at the link below and get 60% off an annual plan: https://incogni.com/hpirate\n\nIn this video I'll be demonstrating how nitrates can be made from the ozone generated from high voltage discharges. This is different from the \"Birkeland-Eyde\" process, which uses a white-hot high voltage arc to create NO2 to synthesize Nitric Acid. With the ozone method, O3 is generated from either Corona discharge or Dielectric Barrier discharge, which is similar to corona but acts over a large area. Unlike arcs or sparks, these types of discharges are "
+  },
+  {
+   "id": "CLX_pQbSFFg",
+   "t": "Making Plasma By Hand",
+   "d": "2025-06-07",
+   "v": 174926,
+   "s": 921,
+   "vertical": false,
+   "desc": "Click this link https://sponsr.is/bootdev_HyperspacePirate and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nIn this video I'll show how I built a hand-cranked generator capable of producing up to 3,000 volts AC from the output, and over 20,000 volts DC when it's attached to a voltage multiplier. Then, using a vacuum chamber, I'll generate plasma discharges with the high voltage, so it'll all be done by hand. \n\nThe generator consists of a hand crank with a 4.5:1 overdrive gear connected to a rotor with 4 40x20 N52 cylindrical magnets. The stator consists of 8 "
+  },
+  {
+   "id": "_nKihWAYrEM",
+   "t": "1,500 Watt HHO Gas Generator",
+   "d": "2025-07-14",
+   "v": 539211,
+   "s": 1322,
+   "vertical": false,
+   "desc": "Go to https://ground.news/hyperspacepirate \nfor a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link. \n\nIn this video I'll show the process of building my 1,500 watt HHO gas generator. The generator is comprised of three \"modules\" consisting of 21 plates (20 cells) of 2\" x 6\" 316 stainless steel spaced 4mm apart in a solution of 20 percent NaOH (Sodium Hydroxide). The cells are placed in a 3d-printed ABS casing to prevent leakage current from bypassing the plates through surrounding electrolyte. The electrolysis cells are sealed inside of"
+  },
+  {
+   "id": "Fh3kbC1otMM",
+   "t": "Making Sodium Metal",
+   "d": "2025-08-22",
+   "v": 142296,
+   "s": 1223,
+   "vertical": false,
+   "desc": "Go to https://ground.news/hyperspacepirate for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link. \n\nIn this video I'll explain different methods of producing metallic Sodium, and then make a bunch with electrolysis of molten Sodium Hydroxide (known as the Castner process). Sodium can be made by reacting NaOH with magnesium or aluminum, but the reaction is extremely fast and violent and it's difficult to contain the products. A more steady method is to reduce Sodium Carbonate with Carbon, which gives off Sodium Metal as vapor and Carbon"
+  },
+  {
+   "id": "7IkyVFxDQQw",
+   "t": "Welding with Natural Gas and a DIY Oxygen Concentrator",
+   "d": "2025-09-19",
+   "v": 215057,
+   "s": 1310,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nAlso, a big thanks to Digital Properties Group (https://dpgsupply.com/) for giving me some pointers on building my Oxygen Concentrator and supplying me with 13X sieve and a big air compressor. \n\nPicking up where I left off with my 1,500W HHO torch video, I'm once again trying to devise a way to gas weld without buying oxygen and acetylene. While the HHO torch could cut, the big drawback was that it wasn't possible to weld because the water vapor exhaust c"
+  },
+  {
+   "id": "Ht9JzOryaKc",
+   "t": "Turning X-rays into 3d prints with a DIY CT scanner",
+   "d": "2025-10-20",
+   "v": 96876,
+   "s": 832,
+   "vertical": false,
+   "desc": "In this video I'll show how I built a CT scanner and used it to make 3d printed models of animal skeletons and internal geometry of certain objects. This was done using a commercial X-ray unit that was given to me by a Patreon member, but you can also do it with a DIY X-ray (just be very careful about radiation exposure by using a remote controlled system and being far away during the scan).\n\nThe scanner uses an old phone as the camera, which is triggerd by a conductive probe that triggers the touch screen when a relay makes electrical contact between the probe and the phone case. The touchscr"
+  },
+  {
+   "id": "WW6ty2aeZ-k",
+   "t": "Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics",
+   "d": "2025-11-22",
+   "v": 361284,
+   "s": 1529,
+   "vertical": false,
+   "desc": "Enjoy FlexiSpot's Black Friday sale - up to 80% off! lowest prices of the year and with a chance to get your order for free! Use my code ''YTE7P50'' to get extra $50 off on the E7 Plus standing desk and ''WP30OFF'' for $30 off on treadmill.\n\nFlexiSpot E7 Plus standing desk:\nUSA: https://bit.ly/4hIo07a\nCAN: https://bit.ly/47ImQUR\n\nAuto Incline Walking Treadmill: \nhttps://bit.ly/4nEmRPl\n\nIn this video I'll go through the process of building a 5-kW electric arc furnace that can get hot enough to melt steel and ceramic materials, and do other miscellaneous high temperature chemistry like making ru"
+  },
+  {
+   "id": "2hSkXNEV-GU",
+   "t": "DIY Mini Battery-Powered Vapor-Compression Air Conditioner",
+   "d": "2025-12-20",
+   "v": 627502,
+   "s": 1000,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nIn this video I'll show how I built a miniature battery-powered (and portable) air conditioner. This uses an actual vapor-compression cycle and *not* a solid-state thermoelectric (peltier) cooler. You could do this with a sine wave inverter and a battery connected to a regular A/C unit, but this one actually uses a compressor with a brushless motor that's designed for use in a DC circuit with battery/solar power. \n\nThe refrigerant loop is brazed together "
+  },
+  {
+   "id": "qv0IJM3BV9Y",
+   "t": "A Homemade Refrigerated Vest That Can Run Off Battery or Solar Power",
+   "d": "2026-01-28",
+   "v": 452992,
+   "s": 1133,
+   "vertical": false,
+   "desc": "Get The Ultimate Guide To Rebuilding Civilization at https://mdsh.io/hyperspacepirate and use promo code PIRATE10 to get 10% off!\n\nIn this video, I'll be building on the work done in my last video on making a portable battery powered A/C unit (here: https://www.youtube.com/watch?v=2hSkXNEV-GU) to make a wearable personal air conditioner that circulates refrigerated water around a vest with about ~15m of silicone tubing woven into it. \n\nThe refrigeration system in this video uses the same brushless-DC compressor and 8-cell lithium (32V) power supply, but instead of blowing cool air, the system "
+  },
+  {
+   "id": "mCLPCMgDScI",
+   "t": "Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply",
+   "d": "2026-03-08",
+   "v": 203895,
+   "s": 1165,
+   "vertical": false,
+   "desc": "Try Onshape Pro free. Design in your browser and start building today: https://onshape.pro/HyperspacePirate\n\nIn this video I'll show how I built a fiberglass-reinforced 3d-printed Underwater Diving Helmet with a floating air supply. The helmet was designed as one piece but divided up into 4 segments so that it could be printed on my Prusa MK3S 3d printer. The pieces are printed from ABS and joined with fiberglass/epoxy. The ABS plastic has to be flame treated before epoxy is applied, otherwise it won't stick to the plastic (even if the surface is roughed with sandpaper). \n\nHinges at the very b"
+  },
+  {
+   "id": "HSvguJ7u3VM",
+   "t": "Storing Solar Energy As Ice For Air Conditioning",
+   "d": "2026-03-21",
+   "v": 403608,
+   "s": 1151,
+   "vertical": false,
+   "desc": "Go to http://curiositybox.com/hyperspacepirate and use code HYPERSPACEPIRATE to get 40% off your first month until March 31.\n\nIn this video I'll be showing how I store solar energy as ice in a \"thermal battery\" that can be stored and used later for air conditioning. Three 100W photovoltaic panels are mounted in the back of my truck and connected to a charge controller and 12V battery which runs a refrigeration compressor through an inverter connected to the 12V source. \n\nThe compressor consumes approximately 80-100W of power, and freezes a 2 gallon (7.5 liter) bucket of water surrounded by thi"
+  },
+  {
+   "id": "tXeFSk1ndWA",
+   "t": "Testing Refrigerants and Capillary Tubes to Find Peak Performance",
+   "d": "2026-04-10",
+   "v": 133278,
+   "s": 1355,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nIn this video I'll show how I built a test fixture to measure the Heat Lift and Coefficient of Performance (COP) versus. Temperature for three different refrigerants using different capillary tube diameters or an electronic expansion valve (EEV). The refrigerants used are R600 (N-butane, not R600A which is Isobutane), R134a, and R290 (Propane). The reason I chose to use N-butane instead of Isobutane was to evaluate its performance as a very low pressure r"
+  },
+  {
+   "id": "2Btk_MktgR8",
+   "t": "Using a Duster Can as Refrigerant",
+   "d": "2026-04-16",
+   "v": 162718,
+   "s": 32,
+   "vertical": true,
+   "desc": "Just a quick tip - if you're in a place where you can't get R134A / R1234yf, you can probably still get compressed air dusters, which usually have R-152, which works almost exactly the same as R134a, making it perfect for small refrigeration systems.\n\nMusic Used:\n\nKevin MacLeod - George Street Shuffle"
+  },
+  {
+   "id": "5sWDrweG-as",
+   "t": "Controlling a Thermostatic Expansion Valve with Compressed Air",
+   "d": "2026-04-23",
+   "v": 204725,
+   "s": 42,
+   "vertical": true,
+   "desc": "Just a short video showing how to control a TXV with compressed air. It's useful for manual fine tuning if you don't have an electronic expansion valve (EEV), and the seals won't contract and leak to the outside word like they do with a needle valve (which is especially important for cryo stuff). \n\nIn some cases this will allow for more fine-tuning than an electronic expansion valve, since the discrete steps of an EEV limit its maximum resolution, which becomes a problem since most EEV's are made for larger systems.\n\nIt's a bit niche, but I think there are some situations where it might be a u"
+  },
+  {
+   "id": "2LwwqrbKzQ8",
+   "t": "Pulse Tube Cryocooler (Part V)",
+   "d": "2026-04-25",
+   "v": 115275,
+   "s": 884,
+   "vertical": false,
+   "desc": "\ud83d\udd25 Download War Thunder for FREE and get awesome bonuses! PC & Consoles \u2014 https://wtplay.link/hyperspacepiratewt and WT Mobile \u2014 https://wtm.game/hyperspacepiratewtm\n\nThis is Part 5 of my series on attempting to build and test a pulse-tube cryocooler, with the ultimate goal of reaching cold enough temperatures to liquefy air/nitrogen. In this part, I'm going to be testing two designs of pulse tube cooler(s) that are connected to a hermetic compressor on a closed loop using the Gifford-McMahon (valve-operated) cycle. \n\nPrevious videos in this series:\n\nPart 1:\nhttps://studio.youtube.com/video/GjR"
+  },
+  {
+   "id": "uxmJ5qT2Gaw",
+   "t": "Making Big Dry Ice Blocks With Low Pressure CO2",
+   "d": "2026-05-09",
+   "v": 134579,
+   "s": 1074,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nIn this video I'll demonstrate how I made large blocks (up to 360 grams) of CO2 by freezing them in a container with low pressure CO2 and a refrigeration system rather than the typical method of discharging room temperature high pressure CO2 in liquid phase through a porous mold. \n\nThe Carbon Dioxide in this video was made with baking soda and vinegar, and sent through a chiller at -35C to remove residual moisture before being pumped into a pressure pot t"
+  },
+  {
+   "id": "Jj7Q7OqaW4A",
+   "t": "Building a Gifford-McMahon Cryocooler With 3d-Printed Parts",
+   "d": "2026-06-06",
+   "v": 602130,
+   "s": 1037,
+   "vertical": false,
+   "desc": "Go to https://protonvpn.com/hyperspacepirate to sign up and get up to a 70% discount on Proton VPN 2-year plan!\n\nIn this video I'll demonstrate a two prototypes for a DIY \"Gifford-McMahon\" or \"GM\" type cryocooler. The GM cryocooler uses the same concept of a displacer piston that the stirling cycle uses, but instead of being directly coupled to a piston creating pressure fluctuations, the displacer chamber is connected to the high and low sides of a pneumatic circuit with a conventional compressor. \n\nTypically this is done on a closed loop using Helium as a refrigerant (though Hydrogen could t"
+  },
+  {
+   "id": "RvfuDIWNzGc",
+   "t": "Generating Electrical Power From Sugar",
+   "d": "2026-06-27",
+   "v": 207193,
+   "s": 1301,
+   "vertical": false,
+   "desc": "Taking care of your health just got easier, thanks to my sponsor Zocdoc \u2014 start here at:  https://zocdoc.com/hyperspace\n\nIn this video I'll demonstrate how to generate electrical power from sugar, albeit in a very roundabout way. Sugar is fermented with yeast to turn into a 10-15% solution of ethanol, and the solution is concentrated by fractional distillation to about 93% to use as fuel in an engine. The engine is a 212cc 4-stroke that has its carburetor modified by drilling out the main jet to increase the area by about 50% to burn the ethanol at the proper fuel-air ratio. A brushless motor "
+  },
+  {
+   "id": "pIGd8ZqkmzE",
+   "t": "Filling High Pressure CO2 Tanks From Fermentation",
+   "d": "2026-07-25",
+   "v": 139060,
+   "s": 1099,
+   "vertical": false,
+   "desc": "Taking care of your health just got easier, thanks to my sponsor Zocdoc \u2014 start here at:  https://zocdoc.com/hyperspace\n\nIn this video I'll show how to capture the Carbon Dioxide generated during alcohol fermentation and use it to fill high pressure tanks as a liquid. This is sort of a follow-up to my last video where i fermented sugar to ethanol and used it to run a generator. Approximately half the mass of the sugar gets converted to CO2, and normally it's just wasted by venting out into the atmosphere, but bottled CO2 has tons of practical uses:\n\n-A compact pneumatic source \n-Paintball prop"
+  },
+  {
+   "id": "5CVnrzNm310",
+   "t": "Turning Fruits Into Refrigerant",
+   "d": "2026-07-31",
+   "v": 134265,
+   "s": 952,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code  HYPERSPACEPIRATE  to get 25% off your first payment for boot.dev.\n\nIn keeping with the theme of my last two videos, I decided to try another chemistry project involving fermentation. In this video, I'll be fermenting a mix of apples, bananas, grapes and strawberries into ethanol. The ethanol produced by this method is at a pretty low concentration and it's mixed with lots of undesirable organic compounds, so it's distilled to purify it. A second distillation is done with a fractional distillation column, which brings the"
+  },
+  {
+   "id": "4lNIHBHzbn8",
+   "t": "Gifford-McMahon Cryocooler Part I - Building The Helium Compressor",
+   "d": "2026-08-29",
+   "v": 311614,
+   "s": 992,
+   "vertical": false,
+   "desc": "Radiacode \u2013 scientific gadgets for curious minds. Get 5% off with the code PIRATE2026 at https://radiacode.com/100-series.\n\nIn this video I'll be continuing my attempts at making liquid nitrogen with DIY parts by building the Helium Compressor that can be used for a Gifford-McMahon (or pulse tube) type cryocooler. \n\nPrevious G/M cryocooler video:\nhttps://www.youtube.com/watch?v=Jj7Q7OqaW4A\n\nThe compressor will need to provide around ~300-400 psi of helium to the cold head of the cryocooler, but it also needs to provide a totally clean oilless stream of gas, so in addition to a standard oil sep"
+  },
+  {
+   "id": "9-Bq0iL6F8w",
+   "t": "Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air",
+   "d": "2026-09-12",
+   "v": 266249,
+   "s": 1247,
+   "vertical": false,
+   "desc": "Click this link https://www.boot.dev?promo=HYPERSPACEPIRATE to get 25% off your first payment for Boot.dev's coding courses. Thank you Boot.dev for Sponsoring!\n\nThis is part II of my project to make a Gifford-McMahon Cryocooler to generate liquid air or liquid nitrogen in my garage with a homemade system. In thie video I'll show how I built the \"cold head\", which is the part of the system that actually reaches cryogenic temperatures at the very tip. This component is usually connected to the compressor with flexible hoses for the high pressure and return lines and placed inside a thermos or de"
+  },
+  {
+   "id": "UXNcivV8JNw",
+   "t": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+   "d": "2026-09-26",
+   "v": 311686,
+   "s": 903,
+   "vertical": false,
+   "desc": "Click this link https://www.boot.dev?promo=HYPERSPACEPIRATE and use my code HYPERSPACEPIRATE to get 25% off your first payment for Boot.dev's coding courses. Thank you Boot.dev for Sponsoring!\n\nAfter making Ethanol to power a modified 4-stroke engine and generate electricity, I decided it might be cool to try making some synthetic fuel like Methanol or even Gasoline or Kerosene or other Hydrocarbons. In my opinion, carbon-neutral synthesis of fuels with renewable energy and captured CO2 has more potential than trying to rebuild infrastructure to run off batteries and DC electric power, since a"
+  },
+  {
+   "id": "jRKbjT8AoJw",
+   "t": "DIY Synthetic Fuel Part II - The Fischer Tropsch Reactor",
+   "d": "2026-10-31",
+   "v": 267879,
+   "s": 1319,
+   "vertical": false,
+   "desc": "Click this link https://boot.dev/?promo=HYPERSPACEPIRATE and use my code HYPERSPACEPIRATE to get 25% off your first payment for boot.dev.\n\nThis is the second part of my series on making synthetic fuel from carbon and water. In the first part of the series, I demonstrated how to make \"syngas\" which is a 50/50 mix of carbon monoxide and hydrogen gas formed when steam is reacted with carbon at about 1000C. \n\nLink to part I:\n\nhttps://www.youtube.com/watch?v=UXNcivV8JNw\n\nIn this video, i'll be taking the syngas I made in part I and converting it into a mix of hydrocarbons using a process called \"Fi"
+  }
+ ]
+}

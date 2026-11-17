@@ -1,0 +1,2952 @@
+{
+ "channel": {
+  "id": "UCJjwbqI73KPVtOqctkblcng",
+  "title": "mewtru",
+  "handle": "@mewtru",
+  "description": "I code and I yap\n\nemail mewtru@rakugomedia.com for sponsorships!\n\n https://goo.gle/4cquGpc \n",
+  "since": "2020-10-12",
+  "avatar": "https://yt3.ggpht.com/9TDQvdb3si9_dqbOWAWtgrwk4FHq2AyBAC0zRytA3g5QEaei-LjpJZ8HMAOL6n0tGZDfoRH-=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "82659819",
+  "subscriberCount": "200000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "326"
+ },
+ "videos": [
+  {
+   "id": "MZv2qeykUDc",
+   "t": "Too many git branches ;(",
+   "d": "2022-01-21",
+   "v": 9360,
+   "s": 33,
+   "vertical": true,
+   "desc": "I don't even know what the 'tru-tru' branch could even be.... \n\n#twitchstreamer #programming #coding #computerscience #git #branches"
+  },
+  {
+   "id": "ztt3J_lsbBo",
+   "t": "I made a Discord wordle bot!",
+   "d": "2022-01-25",
+   "v": 31892,
+   "s": 32,
+   "vertical": true,
+   "desc": "Used discordjs and an npm library for random words and made a Discord wordle bot!\n\n#programming #coding #discord #discordbot #wordle #nodejs"
+  },
+  {
+   "id": "fAN9RytqxcU",
+   "t": "When I pair program with my Netflix eng bf",
+   "d": "2022-01-25",
+   "v": 15133,
+   "s": 7,
+   "vertical": true,
+   "desc": "Who else literally forgets everything when you have to pair \ud83e\udd72 \n\n#programming #coding  #computerscience #programmer #softwareengineer #netflix"
+  },
+  {
+   "id": "7RSlGrtXTVY",
+   "t": "Naming git branches is hard work \ud83d\ude05",
+   "d": "2022-02-01",
+   "v": 5689,
+   "s": 27,
+   "vertical": true,
+   "desc": "#programming #coding #programmer #twitchstreamer #livestream #git #github"
+  },
+  {
+   "id": "puxXFrcBfyk",
+   "t": "Why I\u2019m a software engineer",
+   "d": "2022-02-04",
+   "v": 7250,
+   "s": 16,
+   "vertical": true,
+   "desc": "Hint, it\u2019s the money \ud83d\ude02 \n\n#programming #coding #softwareengineer #money #sixfigures"
+  },
+  {
+   "id": "YKgWZGXC5-c",
+   "t": "When your code works on the first try \ud83d\udc4f\ud83c\udffd",
+   "d": "2022-03-04",
+   "v": 9847,
+   "s": 42,
+   "vertical": true,
+   "desc": "Working on our crypto based OnlyFans competitor on stream! \n\n#programming #javascript #coding #computerscience  #softwareengineer"
+  },
+  {
+   "id": "xLnJu9gatzU",
+   "t": "A wrinkly brown tic tac\u2026",
+   "d": "2022-04-28",
+   "v": 3189,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "25h8XVzGcqc",
+   "t": "React tip to avoid prop drilling! #shorts #programming #reactjs",
+   "d": "2022-07-08",
+   "v": 4318,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aaxgR8lfwzw",
+   "t": "TypeScript in 60 seconds! #programming #typescript",
+   "d": "2022-07-19",
+   "v": 20992,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TRuAhYtvSgI",
+   "t": "I found the BEST VSCode font\u2026",
+   "d": "2022-08-11",
+   "v": 10589,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jRPlpZ3UMk8",
+   "t": "First day as a Discord software engineer! #softwareengineer #dayinthelife #discord",
+   "d": "2022-08-15",
+   "v": 20427,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "f7fIUWRikRA",
+   "t": "The JavaScript vagina syntax?!",
+   "d": "2022-09-16",
+   "v": 4101,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7l6hxqnW9Qk",
+   "t": "I pull git branches \ud83d\ude0f",
+   "d": "2022-09-28",
+   "v": 31238,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DlYncevApw4",
+   "t": "The BEST VSCode extension",
+   "d": "2022-09-30",
+   "v": 10529,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tIYHp7CWxf0",
+   "t": "My most used JavaScript array method",
+   "d": "2022-09-30",
+   "v": 4197,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ErQyuJDASmk",
+   "t": "Day in the life of a software engineer",
+   "d": "2022-10-19",
+   "v": 64912,
+   "s": 4,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3tPauFgibQo",
+   "t": "When you use a 49\u201d ultrawide monitor\u2026",
+   "d": "2022-10-24",
+   "v": 3013201,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jHRgUtyYUIE",
+   "t": "When a backend engineer looks at frontend code\u2026",
+   "d": "2022-10-31",
+   "v": 34970,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6Fdua1LPNvE",
+   "t": "Python developers be like\u2026",
+   "d": "2022-11-20",
+   "v": 10691,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "585CTOcUiD8",
+   "t": "Make your browser speak to you with JavaScript!",
+   "d": "2022-11-28",
+   "v": 187311,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8I4RCWYIHWc",
+   "t": "The dumbest vscode extension\u2026",
+   "d": "2022-11-28",
+   "v": 7077,
+   "s": 7,
+   "vertical": true,
+   "desc": "It's dumb but hilarious"
+  },
+  {
+   "id": "kTSwLLFa3WM",
+   "t": "Building a design system in Next.js with Tailwind!",
+   "d": "2023-01-04",
+   "v": 38309,
+   "s": 751,
+   "vertical": false,
+   "desc": "Part one here: https://www.youtube.com/watch?v=T-Zv73yZ_QI\nRepo for project here: https://github.com/tnarla/nextjs-conf\n\nme:\ntwitter: https://www.twitter.com/trunarla\ntiktok:  https://www.tiktok.com/@mewtru\ninstagram: https://www.instagram.com/mewtru\ntwitch: https://www.twitch.tv/mewtru\nbusiness email: officialmewtru@gmail.com\n\n\n// tags-  #softwareengineer  #womenintech #programming #nextjs #javascript #designsystems #tailwindcss #tailwind #typescript"
+  },
+  {
+   "id": "hLjIQbVQEDc",
+   "t": "I fixed Discord\u2026",
+   "d": "2023-01-06",
+   "v": 8221,
+   "s": 16,
+   "vertical": true,
+   "desc": "#programming #javascript #discord"
+  },
+  {
+   "id": "Z3A20p3oYK0",
+   "t": "Need motivation to code? Use this VSCode extension \ud83d\udc40 #javascript #vscode",
+   "d": "2023-01-06",
+   "v": 9242,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NpuborQyB-I",
+   "t": "Are you even a programmer if you don\u2019t do this? #programming #javascript",
+   "d": "2023-01-09",
+   "v": 13161,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Ju6VSLKXrJg",
+   "t": "Can YOU solve this frontend interview question?",
+   "d": "2023-01-11",
+   "v": 151196,
+   "s": 1389,
+   "vertical": false,
+   "desc": "me:\ntwitter: https://www.twitter.com/trunarla\ntiktok:  https://www.tiktok.com/@mewtru\ninstagram: https://www.instagram.com/mewtru\ntwitch: https://www.twitch.tv/mewtru\nbusiness email: officialmewtru@gmail.com\n\n// tags-  #softwareengineer  #womenintech #programming #frontend #javascript  #tailwindcss #tailwind #typescript #frontenddeveloper"
+  },
+  {
+   "id": "u3AAEWD8ALQ",
+   "t": "You\u2019re pair programming but you forgot to close your tabs\u2026 #javascript #softwareengineer",
+   "d": "2023-01-15",
+   "v": 14447,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pz-5qMlvmjM",
+   "t": "Should\u2019ve used git blame \ud83d\ude14 #programming #softwareengineer",
+   "d": "2023-01-17",
+   "v": 8559,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-JIhcRdAaYQ",
+   "t": "Oh, everyone can see my commit messages\u2026",
+   "d": "2023-01-29",
+   "v": 9493,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yqCU3BsSOog",
+   "t": "I told my manager I was a JavaScript pro",
+   "d": "2023-01-30",
+   "v": 8817,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zWKuv19nFYs",
+   "t": "How they taught web dev in college\u2026 #programming #webdevelopment",
+   "d": "2023-01-30",
+   "v": 6262,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "bHyFkW8F0f8",
+   "t": "Has a bug in your code ever made you cry? #shorts #programming",
+   "d": "2023-02-01",
+   "v": 11103,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "H_nlm7G7FFE",
+   "t": "Junior vs. senior engineer #shorts",
+   "d": "2023-02-05",
+   "v": 16693,
+   "s": 11,
+   "vertical": true,
+   "desc": "#programming #softwareengineer"
+  },
+  {
+   "id": "ayrjNR5EJcs",
+   "t": "What does a software engineer at \u2728Discord \u2728 even do?",
+   "d": "2023-02-09",
+   "v": 9506,
+   "s": 61,
+   "vertical": true,
+   "desc": "#javascript #discord #frontenddeveloper #softwareengineer"
+  },
+  {
+   "id": "lqRyz44-koU",
+   "t": "Product Managers vs Software Engineers",
+   "d": "2023-02-14",
+   "v": 12521,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9JVaqlzYL5A",
+   "t": "Frontend dev vs. backend dev",
+   "d": "2023-02-16",
+   "v": 208968,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WaXGVopVBrk",
+   "t": "Developers vs. designers",
+   "d": "2023-02-23",
+   "v": 16593,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YaiQPVmZF-U",
+   "t": "I hate coding",
+   "d": "2023-03-15",
+   "v": 81452,
+   "s": 707,
+   "vertical": false,
+   "desc": "This video took a long time to record and edit haha, hope you all like it! Let me know how you feel about coding in the comments, I read every single one :) \n\nme:\ntwitter: https://www.twitter.com/trunarla\ntiktok:  https://www.tiktok.com/@mewtru\ninstagram: https://www.instagram.com/mewtru\ntwitch: https://www.twitch.tv/mewtru\nbusiness email: officialmewtru@gmail.com\n\n// tags-   #javascript #programming #softwareengineer  #womenintech  #programminglife"
+  },
+  {
+   "id": "mVNyjHYtNv8",
+   "t": "What I did today as a software engineer at Discord! #shorts #javascript",
+   "d": "2023-03-20",
+   "v": 242910,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OycjjJUwiSc",
+   "t": "Elon\u2019s in the Twitter algorithm code?!? #elonmusk #twitter #code",
+   "d": "2023-03-31",
+   "v": 145941,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Ks7F2IFX15E",
+   "t": "Being a software engineer be like\u2026 \ud83e\udd72 #javascript #softwareengineer #meme",
+   "d": "2023-04-04",
+   "v": 15615,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RGmubLTk_s0",
+   "t": "Naming projects is hard\u2026 \ud83d\ude05 #softwareengineer #javascript #frontenddeveloper",
+   "d": "2023-04-10",
+   "v": 6094,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "o9vEhGuAzns",
+   "t": "Discord software engineer learns Objective-C \ud83d\ude05 #softwareengineer",
+   "d": "2023-04-17",
+   "v": 121604,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nPKUIjvOOuY",
+   "t": "Teaching my dog JavaScript???!!",
+   "d": "2023-04-21",
+   "v": 4232,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lIrP5PrrG08",
+   "t": "Can\u2019t seem to focus on your code??? Here\u2019s a solution \ud83d\udc40 #code #javascript",
+   "d": "2023-04-25",
+   "v": 5563,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Z3YniSaLC3w",
+   "t": "How software engineers spend their day #softwareengineer #javascript",
+   "d": "2023-04-28",
+   "v": 13276,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Nn5mSUl6Va8",
+   "t": "This git feature makes you feel like a smarter programmer \ud83d\udc40 #softwareengineer #code",
+   "d": "2023-05-01",
+   "v": 8547,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lISvjYKgC4I",
+   "t": "Stay warm with JUST your laptop \ud83d\ude32??! #coding",
+   "d": "2023-06-26",
+   "v": 8682,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RfxK3VrT538",
+   "t": "This website helps you make the BEST password \ud83d\udc40",
+   "d": "2023-06-27",
+   "v": 8124,
+   "s": 43,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vs3Nur5JJ5o",
+   "t": "Coding for fun vs. coding for your job #coding #programmer #programmerlife",
+   "d": "2023-07-04",
+   "v": 5822,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YQY-hOpwnHg",
+   "t": "What I built today as a software engineer! #coding #programmer #softwareengineer",
+   "d": "2023-07-05",
+   "v": 26936,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UrWqxq4pChw",
+   "t": "Software engineers vs. PMs",
+   "d": "2023-07-10",
+   "v": 6140,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "cr0OmuJy14I",
+   "t": "#ad I programmed my keyboard to make me a better programmer #coding",
+   "d": "2023-07-11",
+   "v": 5262,
+   "s": 61,
+   "vertical": true,
+   "desc": "Check out the keyboard here!: https://logitech.cfzu.net/c/4393207/1718664/8585"
+  },
+  {
+   "id": "z3iE9QGWAtY",
+   "t": "#ad My keyboard hacks for productivity \ud83d\udd25 || I tried the new Logitech MX Keys S Combo!",
+   "d": "2023-07-18",
+   "v": 5955,
+   "s": 57,
+   "vertical": true,
+   "desc": "Check out the Logitech MX Keys S Combo here:  https://logitech.cfzu.net/c/4393207/1718664/8585"
+  },
+  {
+   "id": "nLaxIIqQJ3M",
+   "t": "Code an animated signature with me! \ud83e\udd13 #programmer  #softwaredeveloper",
+   "d": "2023-07-19",
+   "v": 18077,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nEHTdvDF9cc",
+   "t": "Coding skill issue tbh \ud83e\udd72 #programming #coding",
+   "d": "2023-07-27",
+   "v": 7571,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pn-Hcv-FxC8",
+   "t": "What I coded today \ud83d\udd25  #coding",
+   "d": "2023-08-14",
+   "v": 6507,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0Uwcgj4bXkE",
+   "t": "Only frontend devs will get it\u2026 #programmer",
+   "d": "2023-08-18",
+   "v": 5878,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5f-oi-NyDUM",
+   "t": "Software engineers when they get assigned a small task\u2026",
+   "d": "2023-09-08",
+   "v": 6771,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "F6KK-v2zHMA",
+   "t": "Using code to solve my depression \u2728 #coding #programming",
+   "d": "2023-09-14",
+   "v": 5595,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ukjpuKcssbU",
+   "t": "Writing code \ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb to solve my \u2728 depression\u2728  #coding #computerprogrammer",
+   "d": "2023-09-18",
+   "v": 11468,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GFgfAZbxgi4",
+   "t": "Did you know JavaScript did this?!! #coding #javascript",
+   "d": "2023-09-25",
+   "v": 10043,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "AQ6cUM8G4x4",
+   "t": "THIS is what Apple intended with the iPhone 15 \ud83d\ude02",
+   "d": "2023-09-26",
+   "v": 14680,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eVvymcCK53U",
+   "t": "People in tech making over 300k be like \ud83d\ude44",
+   "d": "2023-10-16",
+   "v": 13466,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "z1nQjKi-Gac",
+   "t": "Code an animation with me!!! #javascriptcoding #javascript #coding",
+   "d": "2023-10-16",
+   "v": 12024,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZCTu9LTMyzM",
+   "t": "What I coded today as a software engineer \u2728 #coding #softwareengineer #developer",
+   "d": "2023-11-07",
+   "v": 21212,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ixM5JhP4dV4",
+   "t": "Unhinged programming hehe",
+   "d": "2023-11-15",
+   "v": 6091,
+   "s": 16,
+   "vertical": true,
+   "desc": "#webdevelopment #coding #codinglife"
+  },
+  {
+   "id": "UjBYPwrCNu8",
+   "t": "New coding setup just dropped \ud83d\udc40",
+   "d": "2023-11-24",
+   "v": 15114,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "BXWBp7MmJoQ",
+   "t": "Christmas gift for someone who buys everything??? \ud83d\ude29",
+   "d": "2023-11-24",
+   "v": 10068,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "llrm5SStkMg",
+   "t": "Coding cursed date pickers \u2728",
+   "d": "2023-12-01",
+   "v": 9048,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "41Gv2qEq89s",
+   "t": "Making an age input but \u2728fun\u2728 #coding",
+   "d": "2023-12-12",
+   "v": 12663,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UO6Lp-3wx6o",
+   "t": "Coding birthday candles that blow out\ud83d\ude31 \ud83c\udf82 #coding #coderlife",
+   "d": "2023-12-13",
+   "v": 90425,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "MuGq5nirU88",
+   "t": "Five desk ESSENTIALS for programmers",
+   "d": "2023-12-15",
+   "v": 97314,
+   "s": 40,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "INQGyXKcBA4",
+   "t": "Create your own custom interactive birthday cards! \ud83c\udf89",
+   "d": "2024-01-02",
+   "v": 46747,
+   "s": 55,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xhxBLz4c7AI",
+   "t": "Coding an interactive height and weight input \ud83d\udc40",
+   "d": "2024-01-04",
+   "v": 11222,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gBMnl6R97V4",
+   "t": "A password input but make it \u2728fun\u2728 \ud83c\udfb9",
+   "d": "2024-01-17",
+   "v": 16379,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "H58I1ubVvgg",
+   "t": "Writing your password? Nah, how about drawing it!!!",
+   "d": "2024-01-23",
+   "v": 15529,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "MDYzgYfdYFU",
+   "t": "Made a website to ask my crush to be my valentine \ud83d\ude2e\u200d\ud83d\udca8 #coding",
+   "d": "2024-02-02",
+   "v": 303197,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yn5HfBKTAlw",
+   "t": "Wrote half the code today, will write the other half tomorrow\u2026",
+   "d": "2024-02-23",
+   "v": 13123,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FEDpzKv4Jpk",
+   "t": "I asked him to be my bf with code \ud83e\udd7a",
+   "d": "2024-02-23",
+   "v": 9056,
+   "s": 20,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yQFk2QnnVJ8",
+   "t": "I failed my coding interview\u2026",
+   "d": "2024-02-23",
+   "v": 15481,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "b-CaKFaefAM",
+   "t": "Is it a programming term or Pok\u00e9mon???",
+   "d": "2024-03-02",
+   "v": 457072,
+   "s": 61,
+   "vertical": true,
+   "desc": "#coding #codinglife #programming #programmingmemes"
+  },
+  {
+   "id": "8ErE9k_XuRk",
+   "t": "I prevented people from deleting our app... \ud83d\ude05",
+   "d": "2024-04-01",
+   "v": 7801,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sPTRmtzVyjY",
+   "t": "How to CORRECTLY pronounce coding terms",
+   "d": "2024-04-10",
+   "v": 11493,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "y8-UwJRlShc",
+   "t": "How to ACTUALLY pronounce coding terms \ud83d\udc4c\ud83c\udffd",
+   "d": "2024-04-15",
+   "v": 66513,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G8_cOKREIuY",
+   "t": "When you\u2019re a professional googler \ud83e\udee1",
+   "d": "2024-04-17",
+   "v": 11369,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Uhntce04IRo",
+   "t": "Code so complicated even Google can\u2019t help \ud83d\ude14",
+   "d": "2024-05-03",
+   "v": 12984,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NKpmg-Qscic",
+   "t": "This laptop has a crazy secret \ud83e\udd2b\u2026 @ASUSUSA #ad",
+   "d": "2024-06-07",
+   "v": 9811,
+   "s": 54,
+   "vertical": true,
+   "desc": "The ASUS Zenbook Duo isn\u2019t just any ordinary laptop.\n\nYou can remove the keyboard, and suddenly\u2026 you have a whole other display! I've been taking it around with me in New York and it\u2019s been great! \n\nAs a software engineer, the dual monitors allow me to multitask effortlessly. \n\nWhat would you code with a laptop like this? #laptop #softwareengineer  #ASUSPartner #webdeveloper #ASUS #ASUSlaptop #ZenbookDuo #coding #codinglife\u201d #IntelUltraCore"
+  },
+  {
+   "id": "RDzttumRI8A",
+   "t": "Coding expectations vs. reality \ud83d\udc80",
+   "d": "2024-06-24",
+   "v": 39135,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IfQ94RgS5uQ",
+   "t": "Girlfriend vs. Boyfriend coding setup",
+   "d": "2024-07-09",
+   "v": 110740,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "E_EthIlW6_A",
+   "t": "Favorite parts of my setup (and their cost) \ud83d\udc40 #desksetup",
+   "d": "2024-07-15",
+   "v": 108511,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Df-HS3utPa4",
+   "t": "This programmer is getting fired\u2026 \ud83d\udc80",
+   "d": "2024-07-22",
+   "v": 121192,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "D5mSgZf9eTk",
+   "t": "My website had too many password issues\u2026 so I fixed it\u2026 #codinglife #coding",
+   "d": "2024-07-29",
+   "v": 81093,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nGeQWqZAl5M",
+   "t": "My boss told me to fix our login problems\u2026 so I did #coding",
+   "d": "2024-08-14",
+   "v": 11811,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eJLsovFjxb4",
+   "t": "My security team doesn\u2019t like me for some reason \ud83d\ude2a",
+   "d": "2024-08-22",
+   "v": 18228,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "v6oIP7wFbmc",
+   "t": "My boss said to fix our password issues\u2026 so I did",
+   "d": "2024-08-26",
+   "v": 19116,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1yP-GRu309E",
+   "t": "Making my security team mad \ud83d\ude0c",
+   "d": "2024-08-27",
+   "v": 9083,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "g3rMU28d0WU",
+   "t": "My boss said I need to increase user retention or I\u2019m fired\u2026 \ud83e\udd72 #webdevelopment #webdesign",
+   "d": "2024-08-30",
+   "v": 12185,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4JPqLOITq_U",
+   "t": "Coding but make it evil...?",
+   "d": "2024-09-19",
+   "v": 6963,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wFXs5PXOg1o",
+   "t": "I got in trouble for something I coded\u2026 so I fixed it..",
+   "d": "2024-09-25",
+   "v": 17922,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NzhHc4lkyZI",
+   "t": "I'm on a date with a programmer...",
+   "d": "2024-09-25",
+   "v": 11441,
+   "s": 6,
+   "vertical": true,
+   "desc": "#coding #github"
+  },
+  {
+   "id": "pf1m8aptBy4",
+   "t": "What it\u2019s like to date a programmer \ud83d\ude05",
+   "d": "2024-10-06",
+   "v": 16765,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WwvqKpMJwY4",
+   "t": "My boss told me to be more creative\u2026#coding",
+   "d": "2024-10-14",
+   "v": 26120,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tFprUdsOKG0",
+   "t": "NEVER mess with a programmer \ud83d\ude24",
+   "d": "2024-10-17",
+   "v": 27236,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "rZTUP5lN-GQ",
+   "t": "My boyfriend's a better coder \ud83d\ude14",
+   "d": "2024-10-22",
+   "v": 13640,
+   "s": 32,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "mLxRvRFKoYY",
+   "t": "coding in java sucks, so i fixed it #coding #java",
+   "d": "2024-10-23",
+   "v": 18573,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Swgbk8hS6RA",
+   "t": "Coding but in German??? #coding #softwareengineer",
+   "d": "2024-10-29",
+   "v": 16809,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "k-uXBLFuHe0",
+   "t": "We NEED to stop gen z programmers \u270b\ud83d\ude2e\u200d\ud83d\udca8 #coding",
+   "d": "2024-11-08",
+   "v": 18231,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yP8QWzRXzf0",
+   "t": "Gen Z programmers are truly something \ud83d\ude2e\u200d\ud83d\udca8 #coding",
+   "d": "2024-11-12",
+   "v": 20162,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8JJhOb825CE",
+   "t": "sudo fetch ball #coding",
+   "d": "2024-11-14",
+   "v": 15514,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Cr22Aw0oHms",
+   "t": "What programmers do in their free time \ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f",
+   "d": "2024-11-15",
+   "v": 22505,
+   "s": 48,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XtPnwQ5DvS8",
+   "t": "Apple made a dumb UI?! #coding #apple",
+   "d": "2024-11-15",
+   "v": 14851,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "cKacRXnOSl8",
+   "t": "British programmers are wild man \ud83e\udee3",
+   "d": "2024-11-18",
+   "v": 32826,
+   "s": 53,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "QighBxSl53E",
+   "t": "Gen Z coworker mogging my code \ud83e\udd72",
+   "d": "2024-11-20",
+   "v": 18578,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "r9VcO5mgA7o",
+   "t": "coding without touching the keyboard ??! \ud83e\udee2",
+   "d": "2024-11-21",
+   "v": 25034,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OSSaNRpRVkA",
+   "t": "I angered british developers \ud83d\ude14 #coding",
+   "d": "2024-11-21",
+   "v": 23818,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "oy0QD-40ppg",
+   "t": "gen z programmers are insane???? \ud83d\ude05\u2026 #coding",
+   "d": "2024-11-25",
+   "v": 7083829,
+   "s": 69,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "e8HSYeDqdC0",
+   "t": "Developers vs. end users \ud83d\ude05 #coding",
+   "d": "2024-11-25",
+   "v": 39175,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EYhv28nO00A",
+   "t": "Don't be mean to me, my bf codes \ud83d\ude24",
+   "d": "2024-12-02",
+   "v": 31953,
+   "s": 15,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HBCUYgAFxTQ",
+   "t": "Gen Z programmers are TOO creative man \ud83d\ude05",
+   "d": "2024-12-03",
+   "v": 1259699,
+   "s": 81,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jAeAu50xdA4",
+   "t": "My boss said to be more creative\u2026 #coding",
+   "d": "2024-12-04",
+   "v": 962523,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FYDAbNTD-sg",
+   "t": "Gen alpha programmers scare me \ud83d\ude33 #coding",
+   "d": "2024-12-07",
+   "v": 158248,
+   "s": 82,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zfYd4qUSRu4",
+   "t": "Stupidest ways people solve coding interviews \ud83d\ude05",
+   "d": "2024-12-12",
+   "v": 3242312,
+   "s": 92,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tZxtumQZU3M",
+   "t": "A BETTER way to unlock your MacBook \ud83d\ude0c\ud83e\uddb6",
+   "d": "2024-12-16",
+   "v": 24633,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6pzNt_0INpk",
+   "t": "Boomer vs. genz programmer?? Which one would you rather \ud83d\ude02",
+   "d": "2024-12-17",
+   "v": 113690,
+   "s": 86,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "FQrxgvTaSWA",
+   "t": "My boss said be more creative with the feedback page\u2026 here\u2019s what we coded \ud83d\udc40",
+   "d": "2024-12-20",
+   "v": 32606,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aTNRGMypOVg",
+   "t": "CRAZY ways people solve coding interviews part 2!!!",
+   "d": "2024-12-22",
+   "v": 44525,
+   "s": 73,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XB0vnbHWqGM",
+   "t": "Don\u2019t let backend developers write frontend code \ud83d\ude2d",
+   "d": "2024-12-23",
+   "v": 132623,
+   "s": 75,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "icvu9Zy3ROo",
+   "t": "JavaScript but it\u2019s actually cool?!?! #coding",
+   "d": "2025-01-05",
+   "v": 188503,
+   "s": 85,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "s0wuH2-XyhA",
+   "t": "Who gave the PM GitHub access \ud83d\ude29?!? #coding",
+   "d": "2025-01-07",
+   "v": 49092,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_A4w6R6RmV4",
+   "t": "Want to get better at coding? watch this video",
+   "d": "2025-01-07",
+   "v": 29593,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EaAX5NrwA6c",
+   "t": "Coding is a super power ... \ud83e\udee1 #coding",
+   "d": "2025-01-09",
+   "v": 26816,
+   "s": 67,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "BrGwiT2H-cc",
+   "t": "Don\u2019t let frontend developers write backend code \ud83d\ude2d",
+   "d": "2025-01-10",
+   "v": 85445,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GGdmcoznYlE",
+   "t": "Don\u2019t blame your code, blame yourself \ud83d\ude14 #coding",
+   "d": "2025-01-14",
+   "v": 21030,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jYCIWsG-O1s",
+   "t": "Day in the life of a software engineer at Lumon Industries \ud83e\udd2b",
+   "d": "2025-01-17",
+   "v": 696076,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DCIqOp7L99M",
+   "t": "Gen z programmers are built different man \ud83d\ude05 #coding",
+   "d": "2025-01-21",
+   "v": 172196,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "CNn6uFkMjJQ",
+   "t": "I coded him a custom Valentine\u2019s Day card \ud83d\ude05\u2026",
+   "d": "2025-01-28",
+   "v": 34301,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "PkYZtzQAVY4",
+   "t": "The Gen z intern got me \ud83d\ude14 #coding",
+   "d": "2025-01-31",
+   "v": 209811,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "S0OfgnQgzLo",
+   "t": "Made a game to ask my crush to be my valentine\ud83e\udd1e\ud83c\udffd",
+   "d": "2025-01-31",
+   "v": 18062,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uXTNouj4qX0",
+   "t": "Can\u2019t take software engineers anywhere \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+   "d": "2025-02-05",
+   "v": 1265754,
+   "s": 11,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sSiLGiXyKsw",
+   "t": "Features in my dating app that just \u2728 make sense \u2728",
+   "d": "2025-02-06",
+   "v": 20944,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G_fltdxUyYM",
+   "t": "Boss said to make phone number input more fun\u2026 so I did\u2026 #coding",
+   "d": "2025-02-10",
+   "v": 30460,
+   "s": 17,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Jp0iOVzWuW8",
+   "t": "If programming languages asked you out \ud83d\ude2c",
+   "d": "2025-02-13",
+   "v": 37523,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "OBbyyj3xY8I",
+   "t": "I coded the smallest flappy bird game \ud83e\udd13",
+   "d": "2025-02-13",
+   "v": 29566,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uOAjZYBU6Ps",
+   "t": "My Gen z intern cooked this time \ud83d\ude13 #coding",
+   "d": "2025-02-19",
+   "v": 36161,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KW66_6KX0S8",
+   "t": "Here\u2019s how you stop people from deleting their accounts #coding #softwareengineer",
+   "d": "2025-02-22",
+   "v": 111057,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XBn87YMUVYg",
+   "t": "I coded a better scrollbar \ud83d\udc1b",
+   "d": "2025-02-23",
+   "v": 37637,
+   "s": 18,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pCZjxWD1B5g",
+   "t": "How to tell if a website is stealing your data",
+   "d": "2025-02-26",
+   "v": 91967,
+   "s": 99,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5dpjZt0YHRA",
+   "t": "POV: you\u2019re a software engineer at X",
+   "d": "2025-02-26",
+   "v": 63290,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NaHXKLTkbo4",
+   "t": "I made a website for my crush \ud83e\udd70\ud83d\udcfc",
+   "d": "2025-02-27",
+   "v": 38408,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "JlJA8sgLLag",
+   "t": "Don\u2019t let backend devs write frontend code \ud83d\ude12",
+   "d": "2025-02-28",
+   "v": 206492,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yKcyq12qY74",
+   "t": "Junior vs. senior developer on linkedin \ud83d\udc40",
+   "d": "2025-03-01",
+   "v": 1005212,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iC03-LqTK7A",
+   "t": "Coding websites is so boring, hardware is much better",
+   "d": "2025-03-01",
+   "v": 40389,
+   "s": 41,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "2B5otBH4_Bk",
+   "t": "Recruiters aren\u2019t real",
+   "d": "2025-03-04",
+   "v": 51758,
+   "s": 65,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aDmbn8gJEYo",
+   "t": "I coded a fish game on an arduino!!!",
+   "d": "2025-03-04",
+   "v": 25188,
+   "s": 81,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "BDsjN9ALwhI",
+   "t": "Somebody\u2019s watching me\u2026 #arduino",
+   "d": "2025-03-05",
+   "v": 26762,
+   "s": 8,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "e7b84V2Op1Q",
+   "t": "Average day as a JavaScript developer",
+   "d": "2025-03-05",
+   "v": 179397,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "cZ419yUfgN8",
+   "t": "The best code my gen z intern has ever written",
+   "d": "2025-03-06",
+   "v": 97037,
+   "s": 40,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DbvACfC20TE",
+   "t": "Here\u2019s a coding tip!",
+   "d": "2025-03-07",
+   "v": 109586,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NB6bHoM-vec",
+   "t": "My boss said to code a better sign in page..",
+   "d": "2025-03-11",
+   "v": 53856,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Nr_aWVSKVeo",
+   "t": "The BEST way to determine if a number is odd #coding",
+   "d": "2025-03-12",
+   "v": 61578,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "o_HIGtfD6AE",
+   "t": "My website got ddos\u2019d",
+   "d": "2025-03-17",
+   "v": 92624,
+   "s": 55,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TZt6thN7AU8",
+   "t": "Vibe coding is getting out of hand \ud83d\ude05",
+   "d": "2025-03-18",
+   "v": 1116828,
+   "s": 49,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "d7kv9TRL86w",
+   "t": "Programming jobs are safe for now lol",
+   "d": "2025-03-21",
+   "v": 44639,
+   "s": 88,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UczieB8Ooi8",
+   "t": "First day at a vibe coded startup",
+   "d": "2025-03-21",
+   "v": 68653,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "soRDduWahBg",
+   "t": "What I coded today (as a chaotic good programmer)",
+   "d": "2025-03-24",
+   "v": 88083,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "07usHqPGGx0",
+   "t": "This website turns designs into code in seconds \ud83e\udd2f #BoltSponsored @Boltdotnew",
+   "d": "2025-03-25",
+   "v": 36792,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "poU9oe1uRfc",
+   "t": "watch this if you were the \"smart\" kid",
+   "d": "2025-03-28",
+   "v": 45566,
+   "s": 91,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SKs45GSHCwM",
+   "t": "Coding then vs. now",
+   "d": "2025-03-31",
+   "v": 7567232,
+   "s": 40,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "l-jL_rnvWYM",
+   "t": "My company hired a \u201cvibe coder\u201d \ud83d\ude2d",
+   "d": "2025-04-02",
+   "v": 277116,
+   "s": 72,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3Zg3p4BWzd4",
+   "t": "Code smarter, not harder \ud83d\ude0c",
+   "d": "2025-04-10",
+   "v": 87708,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8vetCOqE7CA",
+   "t": "Making the WORST volume control UI #coding",
+   "d": "2025-04-14",
+   "v": 89203,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SdUvZjjJ47Y",
+   "t": "The best code editor is Google sheets?!!? \ud83e\udee8",
+   "d": "2025-04-16",
+   "v": 62779,
+   "s": 71,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RhmxyfCHfmE",
+   "t": "A day in the life of a programmer",
+   "d": "2025-04-17",
+   "v": 143388,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DFRRFzN-0T8",
+   "t": "This software engineer is gaslighting me \ud83e\udd72",
+   "d": "2025-04-21",
+   "v": 309424,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "c1AR5VC1aqc",
+   "t": "Let\u2019s code a journaling app using Warp! #warppartner",
+   "d": "2025-04-22",
+   "v": 71538,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pKIzM-TCR34",
+   "t": "Product managers vs. software engineers \ud83d\ude24 w/@albertatech",
+   "d": "2025-04-23",
+   "v": 124805,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Lz8_3ef4-oo",
+   "t": "Set up an M4 MacBook for programming!",
+   "d": "2025-05-18",
+   "v": 127093,
+   "s": 119,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Cn8-nLKIeE0",
+   "t": "THIS is a SENIOR software engineer \ud83d\ude0c",
+   "d": "2025-05-22",
+   "v": 182942,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Cd8wgMPdwAE",
+   "t": "Fixing prod as a software engineer \ud83d\ude0c",
+   "d": "2025-05-22",
+   "v": 197401,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "J0ANJzNeMBs",
+   "t": "I coded this because I miss Europe \ud83d\ude2d",
+   "d": "2025-05-28",
+   "v": 71133,
+   "s": 65,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iJZSygs6zbw",
+   "t": "My boss said to make our website more \u2728 fun \u2728\u2026 #coding #uiux",
+   "d": "2025-05-29",
+   "v": 77471,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eZC9muGvYPc",
+   "t": "What I coded today (as a software engineer)",
+   "d": "2025-05-30",
+   "v": 434575,
+   "s": 70,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5AiaFyVpu-4",
+   "t": "Gen z programmers are wild \ud83d\ude2c",
+   "d": "2025-06-02",
+   "v": 150040,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WH7pOlfsuVs",
+   "t": "I think I failed my coding interview \ud83d\ude05",
+   "d": "2025-06-03",
+   "v": 232453,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pODxIBO5JUU",
+   "t": "I coded a workout game...",
+   "d": "2025-06-05",
+   "v": 74262,
+   "s": 79,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "JKEzKLuYKKM",
+   "t": "when your love language is coding",
+   "d": "2025-06-13",
+   "v": 148758,
+   "s": 90,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pqlA9eggWkw",
+   "t": "TWO gen z programmers??!",
+   "d": "2025-06-16",
+   "v": 4828735,
+   "s": 77,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZHvT1J6By5A",
+   "t": "What I coded today \ud83e\udee3 #coding",
+   "d": "2025-06-17",
+   "v": 144338,
+   "s": 41,
+   "vertical": true,
+   "desc": "#arduino"
+  },
+  {
+   "id": "GCYU_MxlQHs",
+   "t": "the dream of a software engineer vs. the reality \ud83d\ude05",
+   "d": "2025-06-18",
+   "v": 118968,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WQK9l-IDBRc",
+   "t": "Flappy bird BUT it\u2019s a workout??? #coding",
+   "d": "2025-06-24",
+   "v": 43196,
+   "s": 77,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZBf6Ngt7FOs",
+   "t": "Reviewing bad programmer tshirts \ud83d\ude05",
+   "d": "2025-06-26",
+   "v": 153928,
+   "s": 87,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "elTF6yFTxYc",
+   "t": "When he doesn\u2019t need AI to code \ud83e\udd75",
+   "d": "2025-07-05",
+   "v": 97073,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IH6KfVtzWR4",
+   "t": "Bro who coded this website \ud83d\ude29",
+   "d": "2025-07-09",
+   "v": 104408,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zqcNkpCzocE",
+   "t": "Look at what my intern coded \ud83d\ude2d",
+   "d": "2025-07-13",
+   "v": 60305,
+   "s": 32,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6vVOehIxq_4",
+   "t": "What i coded today \ud83e\udee1",
+   "d": "2025-07-14",
+   "v": 44577,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "0mjyFHWwcQc",
+   "t": "When the Gen z programmers cook \ud83d\ude0c",
+   "d": "2025-07-15",
+   "v": 66105,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yx8XhmnljOw",
+   "t": "Why is JavaScript like this \ud83d\ude2d",
+   "d": "2025-07-16",
+   "v": 33701,
+   "s": 181,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "w-yXmw3iwng",
+   "t": "What I coded today (instead of doing my job \ud83d\ude05)",
+   "d": "2025-07-17",
+   "v": 65464,
+   "s": 42,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GFcBQDELNs0",
+   "t": "This is REAL pair programming \ud83d\ude24",
+   "d": "2025-07-20",
+   "v": 42167,
+   "s": 33,
+   "vertical": true,
+   "desc": "Thank you @NoBitrate !!! So cool :)!"
+  },
+  {
+   "id": "plCECj5xmbk",
+   "t": "An AI software engineer?!",
+   "d": "2025-07-25",
+   "v": 35547,
+   "s": 45,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XvjoU8QzDpo",
+   "t": "How to tell if someone\u2019s a programmer",
+   "d": "2025-07-29",
+   "v": 71874,
+   "s": 10,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7ihfHZ_PQi8",
+   "t": "Reviewing bad programmer desktop backgrounds",
+   "d": "2025-07-29",
+   "v": 45058,
+   "s": 111,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5_8GZzgesYU",
+   "t": "I coded a lil something today \ud83d\udc4d",
+   "d": "2025-08-06",
+   "v": 23753,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vRQ3TYSJimQ",
+   "t": "Gen Z programmers are cooked \ud83d\ude14",
+   "d": "2025-08-12",
+   "v": 57052,
+   "s": 66,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EwQ9zfA1QbI",
+   "t": "Dating a software engineer???",
+   "d": "2025-08-13",
+   "v": 72756,
+   "s": 32,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ONywYDD2uQM",
+   "t": "Don\u2019t mess with a programmer \ud83d\ude24",
+   "d": "2025-08-14",
+   "v": 65259,
+   "s": 22,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vZ4cojiVRzI",
+   "t": "Backend programmers are crazy \ud83d\ude43 #coding",
+   "d": "2025-08-20",
+   "v": 85150,
+   "s": 87,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "sYSll6ZqF-k",
+   "t": "Vim doesn\u2019t make any sense \ud83d\ude29 #coding",
+   "d": "2025-08-24",
+   "v": 360771,
+   "s": 9,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WHgmPsf6gzk",
+   "t": "What I made with my HP AI PC!! #coding #hp #ad",
+   "d": "2025-08-25",
+   "v": 24853,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8lUfPP_bZ8Q",
+   "t": "Teaching programming in 2040",
+   "d": "2025-08-26",
+   "v": 42465,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "v0ZUFMUfRxU",
+   "t": "What I coded w/ my HP Elitebook #hp #coding",
+   "d": "2025-08-29",
+   "v": 16963,
+   "s": 65,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "DTwSQQw06qs",
+   "t": "Can\u2019t bring software engineers anywhere \ud83d\ude29",
+   "d": "2025-09-05",
+   "v": 64491,
+   "s": 5,
+   "vertical": true,
+   "desc": "W the besties @albertatech  and @AnthonySistilli"
+  },
+  {
+   "id": "xcYCKC9415s",
+   "t": "I coded something weird for my MacBook... \ud83d\udc40",
+   "d": "2025-09-10",
+   "v": 32842,
+   "s": 76,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5vi22Z8gAhE",
+   "t": "Coding the WORST volume control UI \ud83d\ude1b",
+   "d": "2025-09-22",
+   "v": 35521,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Cwuwlw0gSj4",
+   "t": "I built my own mini digital camera!!",
+   "d": "2025-09-24",
+   "v": 63658,
+   "s": 80,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "U2a6eQjeeBs",
+   "t": "My Gen z intern is messing with me \ud83d\ude11",
+   "d": "2025-09-25",
+   "v": 31889,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "a_qGv-R86Ag",
+   "t": "I made my own digital camera (part 2)",
+   "d": "2025-10-06",
+   "v": 13354,
+   "s": 112,
+   "vertical": true,
+   "desc": "#electronics #techtok #coding"
+  },
+  {
+   "id": "5kOhQYf_yw0",
+   "t": "What is even the point?",
+   "d": "2025-10-07",
+   "v": 19603,
+   "s": 180,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aGh--mwXsBY",
+   "t": "I made a rubber duck that talks back",
+   "d": "2025-10-20",
+   "v": 18789,
+   "s": 77,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gilDX1cF-X0",
+   "t": "We hired a gambler as a software engineer \ud83e\udd72",
+   "d": "2025-10-21",
+   "v": 33100,
+   "s": 94,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3UceBkCSAbw",
+   "t": "The new software engineer on my team is crazy \ud83d\ude2d",
+   "d": "2025-10-23",
+   "v": 35799,
+   "s": 80,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1uBmx4_EqTQ",
+   "t": "Programming websites is SO boring",
+   "d": "2025-10-24",
+   "v": 274071,
+   "s": 43,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_m-JTt5qPbs",
+   "t": "We hired a game developer as a software engineer \ud83e\udee3",
+   "d": "2025-10-29",
+   "v": 380436,
+   "s": 99,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hNG03Il-C8Y",
+   "t": "My new work/film studio!!!",
+   "d": "2025-11-16",
+   "v": 24596,
+   "s": 117,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vDLnrSVrtlY",
+   "t": "We hired a software engineer from Ticketmaster\u2026 yeah\u2026 \ud83e\udd72",
+   "d": "2025-11-19",
+   "v": 55313,
+   "s": 76,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "szNyya2roYE",
+   "t": "Coding but you cant use AI \ud83d\ude2b\u2026",
+   "d": "2025-11-19",
+   "v": 55482,
+   "s": 59,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TrEPKy_kIbM",
+   "t": "Im an electrical engineer now \ud83d\ude24",
+   "d": "2025-11-20",
+   "v": 36328,
+   "s": 102,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1grSudu7Qhc",
+   "t": "Don\u2019t work with Gen Alpha programmers \ud83e\udd72",
+   "d": "2025-11-21",
+   "v": 176533,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iKNqLNhsncE",
+   "t": "When your love language is gift giving",
+   "d": "2025-11-21",
+   "v": 58538,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "oJBjm7-TqUo",
+   "t": "When your boss says to be more creative\u2026 #uiux #design #website",
+   "d": "2025-12-01",
+   "v": 35301,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aKyGpxOpL0o",
+   "t": "I love coding \ud83d\ude0c",
+   "d": "2025-12-10",
+   "v": 45897,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wFP5-DIJUBE",
+   "t": "Coding in movies then vs. coding in movies now",
+   "d": "2025-12-18",
+   "v": 122268,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XL0LRhuvQAk",
+   "t": "HR training videos be like\u2026",
+   "d": "2025-12-19",
+   "v": 106123,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EScP-oj8MDs",
+   "t": "Thanks JavaScript....",
+   "d": "2025-12-23",
+   "v": 35477,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aX06cv0B5kI",
+   "t": "Programmers in 2026 \u2026",
+   "d": "2026-01-05",
+   "v": 78773,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Ho4tyDj-OxA",
+   "t": "I got a 3D printer for Christmas!!!",
+   "d": "2026-01-05",
+   "v": 30308,
+   "s": 83,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "f5phjxlk1kA",
+   "t": "I made an iPhone app!!!",
+   "d": "2026-01-06",
+   "v": 16662,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "k1URS_429qo",
+   "t": "What I coded today \ud83d\udc40",
+   "d": "2026-01-08",
+   "v": 18271,
+   "s": 88,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_nkakE7CNkI",
+   "t": "My app gets better everyday \ud83d\ude0c",
+   "d": "2026-01-09",
+   "v": 14664,
+   "s": 86,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Iqwd6M3mJwU",
+   "t": "What I coded (and launched!!!) today",
+   "d": "2026-01-12",
+   "v": 10478,
+   "s": 71,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UF7kCPTHJfA",
+   "t": "I like my PRs stacked \ud83d\ude0c #coding",
+   "d": "2026-01-16",
+   "v": 13581,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uJoEKnTi3zE",
+   "t": "Nobody cares that you can code.",
+   "d": "2026-01-20",
+   "v": 23283,
+   "s": 435,
+   "vertical": false,
+   "desc": "Oh wow a long form video??? Who is she??! Anyways, I hope you enjoy. Let me know your thoughts hehe.\n\n00:00 intro\n00:38 Coding used to be the hard part\n02:52 The world is changing\n04:29 Uh... is society going to end?\n\nThe music in this video is not mine!\n\nMy socials\nhttps://www.instagram.com/mewtru\nhttps://www.tiktok.com/@mewtru\n\ncoding, javascript, programming, beginner programmer, learning to code, software engineering, tech, computer science, ai, artificial intelligence"
+  },
+  {
+   "id": "_ENAy2eJReU",
+   "t": "I can't believe AI can code this \ud83d\ude2e\u200d\ud83d\udca8",
+   "d": "2026-01-21",
+   "v": 26334,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SXgcg2Y0lso",
+   "t": "\u2728 Whimsical Websites \u2728 part 1",
+   "d": "2026-01-22",
+   "v": 41596,
+   "s": 64,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6hCD8Iuv-hQ",
+   "t": "A game where you charge your phone to shoot???!",
+   "d": "2026-01-23",
+   "v": 17654,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "7bt2-rBpNbs",
+   "t": "I coded a website for my crush\u2026",
+   "d": "2026-01-23",
+   "v": 20830,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "y6vJyY2m7a0",
+   "t": "Codng a Valentine\u2019s Day website for my crush \ud83d\ude0c",
+   "d": "2026-01-26",
+   "v": 49700,
+   "s": 17,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "n7DyyXHzzT4",
+   "t": "\u2728 Whimsical websites \u2728 part 2!",
+   "d": "2026-01-27",
+   "v": 16127,
+   "s": 92,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Nbr0FiwZ8Y8",
+   "t": "Coding my app from scratch \ud83d\ude0c",
+   "d": "2026-01-29",
+   "v": 23513,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G0DJrlwTY7s",
+   "t": "I\u2019m making myself a tiny kindle",
+   "d": "2026-01-30",
+   "v": 27212,
+   "s": 52,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yX6tyC9Pzik",
+   "t": "I made myself a pocket kindle \ud83d\udc97",
+   "d": "2026-02-02",
+   "v": 31008,
+   "s": 26,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "SzP_DMSsY3E",
+   "t": "This is an INSANE coding tip \ud83e\udd2f",
+   "d": "2026-02-12",
+   "v": 32949,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gKlRSarGygE",
+   "t": "I\u2019m making a digital camera part 1",
+   "d": "2026-02-13",
+   "v": 39882,
+   "s": 62,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YOr-WQ5v-ss",
+   "t": "I made a digital camera!! Part 3",
+   "d": "2026-02-14",
+   "v": 30795,
+   "s": 61,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "y-elnjy-w3o",
+   "t": "I\u2019m making a digital camera part two!",
+   "d": "2026-02-14",
+   "v": 35978,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "BMvmli2z1ek",
+   "t": "I\u2019m making an mp3 player (hit clips)!! Part 1",
+   "d": "2026-02-17",
+   "v": 39845,
+   "s": 69,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "MPK69k36u7Q",
+   "t": "I\u2019m making an mp3 player! Part 2",
+   "d": "2026-02-20",
+   "v": 77579,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hk3hFZLOSVQ",
+   "t": "doing it badly until it\u2019s good",
+   "d": "2026-02-23",
+   "v": 42862,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vQACAJgSEuc",
+   "t": "When you have too many ideas \u2026 (sponsored by @Hostinger)",
+   "d": "2026-02-23",
+   "v": 29252,
+   "s": 63,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "elM_ApF5Ffc",
+   "t": "Day in the life of a software engineer at Google(\u2018s friend)",
+   "d": "2026-03-02",
+   "v": 75966,
+   "s": 44,
+   "vertical": true,
+   "desc": "Surprise guest @albertatech \u2665\ufe0f go congratulate her on 400k!!!!"
+  },
+  {
+   "id": "2oZ54jr4moM",
+   "t": "I\u2019m making a tamagotchi for my plant!",
+   "d": "2026-03-12",
+   "v": 3426329,
+   "s": 65,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "f53gpwbqXVA",
+   "t": "I\u2019m making a tamagotchi for my plant! Part 2!",
+   "d": "2026-03-14",
+   "v": 81453,
+   "s": 67,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "O4odvhCgHxE",
+   "t": "How to make a tiny kindle!!",
+   "d": "2026-03-16",
+   "v": 1255433,
+   "s": 117,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tgJq2mhtZaU",
+   "t": "This full color epaper display is INSANE",
+   "d": "2026-03-17",
+   "v": 1685240,
+   "s": 78,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "kusHKiR-NXQ",
+   "t": "I\u2019m making a tamagotchi for my plant! Part 3!",
+   "d": "2026-03-18",
+   "v": 177687,
+   "s": 64,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "YXDCxXdG7mE",
+   "t": "I can\u2019t believe my cyberdeck runs this \ud83e\udd2f",
+   "d": "2026-03-20",
+   "v": 104526,
+   "s": 101,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tHSxVCHEeqA",
+   "t": "I made a digital camera\u2026 but something\u2019s wrong with it \ud83d\ude2a",
+   "d": "2026-03-23",
+   "v": 4103456,
+   "s": 77,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IVS2FFVhVU0",
+   "t": "I made a tamagotchi for my plant! (final part)",
+   "d": "2026-04-01",
+   "v": 198299,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iqAvnnkibfQ",
+   "t": "The COOLEST way to power your electronics project \ud83d\udc40",
+   "d": "2026-04-07",
+   "v": 186685,
+   "s": 74,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6RUlP8JFl6g",
+   "t": "I made a digital camera but there\u2019s STILL something wrong with it \u2026",
+   "d": "2026-04-08",
+   "v": 319763,
+   "s": 73,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ccEcxYso2mU",
+   "t": "Making the seashell ereader from It Follows! Part 1",
+   "d": "2026-04-15",
+   "v": 92837,
+   "s": 64,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "il8SJxywO74",
+   "t": "This is the COOLEST toy \ud83e\udd2f bring back Cube World \ud83e\udd72",
+   "d": "2026-04-15",
+   "v": 45418,
+   "s": 102,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RAF16BnvGpg",
+   "t": "This Codex update is crazy \ud83e\udd2f #ChatGPTPartner #ad",
+   "d": "2026-04-16",
+   "v": 33492,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "P4J-VQV1pLA",
+   "t": "Making the seashell ereader from it follows! Part 2",
+   "d": "2026-04-18",
+   "v": 44989,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6qcXQGqLqR8",
+   "t": "I made a tiny seashell kindle!!",
+   "d": "2026-04-20",
+   "v": 34210,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HFBe2ljm-Ec",
+   "t": "I made a mini seashell kindle!!",
+   "d": "2026-04-21",
+   "v": 60253,
+   "s": 66,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "b_bSyVHxBDY",
+   "t": "I made a tamagotchi for your plants, but there\u2019s a problem \ud83d\ude05\u2026",
+   "d": "2026-05-14",
+   "v": 41969,
+   "s": 79,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "JMv2ZzPIKyo",
+   "t": "Set up my soldering station with me!!",
+   "d": "2026-05-14",
+   "v": 24364,
+   "s": 85,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GfrnCiNu0Do",
+   "t": "If you\u2019re a creative coder, check out this conference \ud83d\udc40 #ad",
+   "d": "2026-05-18",
+   "v": 16192,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6VGDNXXLp2Q",
+   "t": "I made an mp3 player using Arduino!",
+   "d": "2026-05-19",
+   "v": 25121,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XCIhunbCdRw",
+   "t": "I made a build a bear using ElevenLabs! #ad",
+   "d": "2026-05-19",
+   "v": 17112,
+   "s": 82,
+   "vertical": true,
+   "desc": "Link to ElevenLabs https://elevenlabs.io/agents?utm_source=instagram&utm_medium=influencer&utm_campaign=influencer_-_mew_tru"
+  },
+  {
+   "id": "6eObZsWDjgo",
+   "t": "How to make an mp3 player!",
+   "d": "2026-05-20",
+   "v": 381073,
+   "s": 91,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "wFY_BBSIT70",
+   "t": "I made a laundry chime for my AI #ad",
+   "d": "2026-05-21",
+   "v": 15158,
+   "s": 77,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-oBM-K20kKs",
+   "t": "Electronics is a great hobby\u2026 \ud83d\ude05",
+   "d": "2026-05-22",
+   "v": 33062,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "xbegLWhVAyM",
+   "t": "I bought retro games in Hong Kong!",
+   "d": "2026-05-25",
+   "v": 18186,
+   "s": 143,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RhiQpHZ2vpI",
+   "t": "Only real engineers get the esp32 mirror \ud83d\ude24",
+   "d": "2026-05-28",
+   "v": 28302,
+   "s": 17,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yei93zTBlTg",
+   "t": "I\u2019m making a step counter tamagotchi!!",
+   "d": "2026-06-05",
+   "v": 22608,
+   "s": 68,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ejEFEyBHbZ8",
+   "t": "I\u2019m making a pocket pikmin!",
+   "d": "2026-06-15",
+   "v": 23345,
+   "s": 60,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "L_pxNyXWAvg",
+   "t": "I built a mini e-reader #googlepartner",
+   "d": "2026-06-16",
+   "v": 13906,
+   "s": 58,
+   "vertical": true,
+   "desc": "I built a mini e-reader and let @googlegemini handle the hardest part: figuring out what to read next. Gemini Spark works in the background to send me weekly recommendations based on my previous reviews, updating my Sheet with the latest adds. #GooglePartner"
+  },
+  {
+   "id": "KNqRJs228kE",
+   "t": "Putting my engineering degree to good use",
+   "d": "2026-06-18",
+   "v": 20130,
+   "s": 25,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_FG3dVilc94",
+   "t": "How to make a Spotify music display using a raspberry pi!",
+   "d": "2026-06-25",
+   "v": 449437,
+   "s": 123,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Q8yJJkra2gw",
+   "t": "Making a Spotify music display part 2!",
+   "d": "2026-06-26",
+   "v": 27970,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Imc0zfjhUTw",
+   "t": "How to build a tiny screen for Spotify",
+   "d": "2026-07-02",
+   "v": 18704,
+   "s": 1128,
+   "vertical": false,
+   "desc": "Hi guys! Here's the long form video of how you can make a spotify display using a 64x64 rgb matrix and a raspberry pi! All the links are down below. Let me know if you have any questions :)! \n\n64x64 matrix: https://www.adafruit.com/product/4732\n5V power supply: https://www.adafruit.com/product/1466\nRGB Matrix Bonnet: https://www.adafruit.com/product/3211\nRaspberry pi zero 2 w: https://www.adafruit.com/product/5291\n\nGitHub code: https://github.com/tnarla/spotify-matrix\nPower supply for raspberry pi zero 2w: https://www.pisugar.com/products/pisugar2-raspberry-pi-zero-battery\n\nMy Socials\nhttps://"
+  },
+  {
+   "id": "gfiAN_NWyYw",
+   "t": "Is this the BEST handheld?? \ud83e\udd28",
+   "d": "2026-07-07",
+   "v": 26391,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "roJlQMiN1_s",
+   "t": "Let\u2019s make a mini ereader charm for my journal!",
+   "d": "2026-07-13",
+   "v": 49890,
+   "s": 107,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3L54oEDWZsI",
+   "t": "I met the mayor of NYC \ud83e\udeea",
+   "d": "2026-07-21",
+   "v": 18041,
+   "s": 147,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "q59pUPNFDSM",
+   "t": "I\u2019m making a Taco Bell compass!!!",
+   "d": "2026-08-10",
+   "v": 113786,
+   "s": 97,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "r8TX5o0Ghxw",
+   "t": "I made a website for my crush \u2026",
+   "d": "2026-08-12",
+   "v": 22296,
+   "s": 14,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "3_o7YpaOW8k",
+   "t": "Went from playing with gadgets to building them",
+   "d": "2026-08-15",
+   "v": 21870,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "9vZaG81Ob1Y",
+   "t": "This display is the PERFECT mix of epaper and lcd \ud83e\udee1",
+   "d": "2026-08-17",
+   "v": 1198104,
+   "s": 48,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KkHu9WOPYts",
+   "t": "GM brought THIS to Open Sauce!",
+   "d": "2026-08-18",
+   "v": 23654,
+   "s": 43,
+   "vertical": true,
+   "desc": "#GMpartner Open Sauce is my favorite conference for seeing people show off their most ambitious and creative projects. And I got to see how @GeneralMotors  approaches that same process at a much bigger scale. #ad #GMxOpenSauce"
+  },
+  {
+   "id": "Km5XBNmSvbo",
+   "t": "I made a codex with Codex!! @OpenAI",
+   "d": "2026-08-19",
+   "v": 109848,
+   "s": 88,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8OuB0VmBJtA",
+   "t": "I made a secret Fortnite gaming device #epicpartner",
+   "d": "2026-08-22",
+   "v": 13978,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WLMJT7fQcbk",
+   "t": "How I made a LIGHT UP dress!!! \u2728 \u200b\u2060w/ @KalitaKu1",
+   "d": "2026-08-28",
+   "v": 16002,
+   "s": 80,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "KDk5fV-Bslw",
+   "t": "The BEST use of my engineering degree \ud83d\ude0c",
+   "d": "2026-08-30",
+   "v": 15982,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4OEKfIibZW4",
+   "t": "I made a smart mirror using Codex! @OpenAI",
+   "d": "2026-09-02",
+   "v": 48412,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "mvl58ZDpyQY",
+   "t": "I built an interactive guide to learning electronics using @canva #CanvaPartner",
+   "d": "2026-09-04",
+   "v": 11033,
+   "s": 58,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yT8ajgIuYok",
+   "t": "I made a digital camera!!!",
+   "d": "2026-09-08",
+   "v": 47859,
+   "s": 178,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jMrFe6WRPi0",
+   "t": "Making technology fun again \ud83e\udee1",
+   "d": "2026-09-08",
+   "v": 54968,
+   "s": 13,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Kz71ZJ71zpc",
+   "t": "How the new iPhone duo feels as a developer\u2026",
+   "d": "2026-09-09",
+   "v": 68245,
+   "s": 12,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "kS83de4WpR8",
+   "t": "I made a camera BUT I need your help \ud83d\ude29",
+   "d": "2026-09-09",
+   "v": 13756,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "XP4N080JEsc",
+   "t": "I made a magic 8 ball hair pin!!",
+   "d": "2026-09-10",
+   "v": 17671,
+   "s": 16,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1VLPUVXjxAg",
+   "t": "Shake my head and get your fortune \ud83d\ude0f",
+   "d": "2026-09-11",
+   "v": 26798,
+   "s": 100,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "gOr0a3t4Pa8",
+   "t": "I only have 48 hours to finish this?! #ad",
+   "d": "2026-09-18",
+   "v": 20174248,
+   "s": 52,
+   "vertical": true,
+   "desc": "I only had 48 hours to finish a prototype, so I bought back my time with Google AI Pro and had my 24/7 personal AI agent in Gemini help me out. @GoogleGemini  #googlepartner Available to AI Pro and Ultra users in select regions. Check responses. Supervise closely, interrupt when needed. 18+."
+  },
+  {
+   "id": "CGnCRvDk-Oo",
+   "t": "I made a journaling website w/ @lovable ! #lovablepartner",
+   "d": "2026-09-21",
+   "v": 14214,
+   "s": 51,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "bVMnN5Zgsn8",
+   "t": "A compass that only points to Taco Bell?!?",
+   "d": "2026-09-24",
+   "v": 22669,
+   "s": 57,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "y3XZwy5V-qM",
+   "t": "I made a Taco Bell compass \ud83d\ude0c",
+   "d": "2026-09-25",
+   "v": 29263,
+   "s": 7,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "5hIPtDvaz6U",
+   "t": "I made my fianc\u00e9 a Taco Bell compass",
+   "d": "2026-09-26",
+   "v": 18313,
+   "s": 67,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4dZ9EGxWYxI",
+   "t": "I made a digital camera!!",
+   "d": "2026-10-09",
+   "v": 24120,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "q8Pr1lw2oWU",
+   "t": "This is pochi cam!!!",
+   "d": "2026-10-13",
+   "v": 24445,
+   "s": 56,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UmoahpcU_Rc",
+   "t": "This Esp32 board has SO MUCH built in \ud83e\udd2f",
+   "d": "2026-10-19",
+   "v": 221407,
+   "s": 50,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "yhnDbmMaMPw",
+   "t": "I made an mp3 hairclip!",
+   "d": "2026-10-24",
+   "v": 613846,
+   "s": 82,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "a_SazQLqbhA",
+   "t": "This retro looking display is VERY cool",
+   "d": "2026-11-05",
+   "v": 32092,
+   "s": 48,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TugoNDQq2fM",
+   "t": "What I imagined vs. what I made \ud83e\udd79",
+   "d": "2026-11-16",
+   "v": 6670,
+   "s": 19,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "4uES5ZcplGg",
+   "t": "Unboxing the camera I made!!!",
+   "d": "2026-11-16",
+   "v": 1487,
+   "s": 110,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

@@ -1,0 +1,1323 @@
+{
+ "channel": {
+  "id": "UCkUD_8b1JoTL2ipOVtxfNKw",
+  "title": "Will Cogley",
+  "handle": "@willcogley",
+  "description": "Will Cogley fuses mechanics, electronics and a little artistry to make top-notch robotics and animatronics. These creations are carefully documented and published so that anyone can try out building them for themselves, as well as build upon, alter, or even use them in their own projects. These projects are free, open-source and designed to be accessible to all, even those who may struggle to get ",
+  "since": "2013-06-07",
+  "avatar": "https://yt3.ggpht.com/VCqDXDUZtp_FjCCKTg7Zvfd4APSYNACAAIIkY4lkgQlWJ9P55weF0kl1Qf7iDMIkOPunCKJD=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "57725540",
+  "subscriberCount": "261000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "145"
+ },
+ "videos": [
+  {
+   "id": "w6KXRdor1S4",
+   "t": "Gaussgun First Test Fire",
+   "d": "2015-01-31",
+   "v": 15119,
+   "s": 75,
+   "vertical": false,
+   "desc": "First test fire of my home-made Coilgun for the Golden Crest Award.\nThere's a lot of work still to do before this Coilgun fires with any kind of power, the projectile is too large and the Coil is inefficient. However, it was great to finally have this working.\nFinal model hopefully won't be safe to fire at my wall.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm"
+  },
+  {
+   "id": "tuJvpnz2sl4",
+   "t": "Gaussgun Alternate Coil Test Fire",
+   "d": "2015-02-21",
+   "v": 9188,
+   "s": 32,
+   "vertical": false,
+   "desc": "Since the first coil was very weak, I went back to the drawing board and devised a much more efficient coil. It was a definite improvement, but the only real way to increase efficiency from this point would be to use much higher voltage capacitors in order to get a higher current through the coil.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=41789"
+  },
+  {
+   "id": "w-rI6s7Zrmw",
+   "t": "Homemade Forge",
+   "d": "2015-07-07",
+   "v": 2515,
+   "s": 322,
+   "vertical": false,
+   "desc": "Forge I built over a few weekends using black iron tubing and mild steel sheet. \n\nLargely helped by this instructable: http://www.instructables.com/id/how-to-build-a-gas-forge-burner/\n\nAlso there's clearly a great deal wrong with the knife at the end, but it's for demonstrative purposes only.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m="
+  },
+  {
+   "id": "i1kwToVCUJc",
+   "t": "Will Cogley Channel Trailer",
+   "d": "2016-05-28",
+   "v": 4380,
+   "s": 71,
+   "vertical": false,
+   "desc": "Egmont Overture Finale Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+   "id": "z2EdHzTXPAo",
+   "t": "Witcher 3 Chort Head Sculpture",
+   "d": "2016-05-28",
+   "v": 7003,
+   "s": 578,
+   "vertical": false,
+   "desc": "Image album: http://imgur.com/a/66vfQ\n\nI built this chort head sculpture based on the monster from The Witcher 3: Wild Hunt. It's sculpted entirely from DAS air drying clay, and airbrushed to look like a taxidermy. \n\nIf you're interested in the full instructions, including building the base, sculpting, airbrushing and finishing then check out the full write-up on Instructables: http://www.instructables.com/id/The-Witcher-3-Full-Scale-ChortFiend-Sculpture-in-D/ \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Pr"
+  },
+  {
+   "id": "q2I8VNAmnLY",
+   "t": "How to Build a Turbine Using Basic Tools (Jet Engine)",
+   "d": "2016-07-22",
+   "v": 29514,
+   "s": 471,
+   "vertical": false,
+   "desc": "Blueprints (Created with Autodesk Inventor): https://mega.nz/#F!w3YlQJjJ!lSCbQoXOiPf-ZJIGWbYJbQ\n\nHow to build a steel turbine using only a drill press and basic tools such as a hacksaw and files! This video will demonstrate how to make a reasonably well-balanced and functional turbine on a tight budget, suitable for a wide variety of different projects, including energy generation, jet engines, etc.\n\nThis video is part of a larger series on my Turbojet engine project I'm working on, subscribe for more updates on this!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Wi"
+  },
+  {
+   "id": "qLygbfJxNJ4",
+   "t": "Homemade Turbojet Engine Failure and Review",
+   "d": "2016-09-18",
+   "v": 3895,
+   "s": 183,
+   "vertical": false,
+   "desc": "Sadly my turbojet engine project has been a resounding failure. This video shows the assembly, testing footage and I talk about why it failed.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n"
+  },
+  {
+   "id": "V6UcR25MNbE",
+   "t": "Borderlands 2 Homemade Assault Rifle Teaser",
+   "d": "2016-10-12",
+   "v": 1841,
+   "s": 84,
+   "vertical": false,
+   "desc": "Based on concept art, I built a DAHL assault rifle from Borderlands 2. This was a project I completed in 2014, before I started recording the build process. \n\nInterested in building one for yourself? Full instructions available (and a ton more pictures) on Instructables:\nhttp://www.instructables.com/id/Borderlands-Concept-Assault-Rifle-Prop-Replica/\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Pr"
+  },
+  {
+   "id": "5bL_yh0f8EY",
+   "t": "Custom Patriot Painball Gun Teaser",
+   "d": "2016-10-16",
+   "v": 654,
+   "s": 56,
+   "vertical": false,
+   "desc": "Here's a project I did in 2014, its one of my favourites but it never ended up getting any attention! \n\nThis video is just a short teaser, to see the full project write-up and build your own, visit:\nhttp://www.instructables.com/id/Upgrading-Ordinary-Models/\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdri"
+  },
+  {
+   "id": "bsXleol3mfU",
+   "t": "Homemade Chinese Greatsword Machete From Scrap!",
+   "d": "2016-10-20",
+   "v": 3865,
+   "s": 119,
+   "vertical": false,
+   "desc": "Homemade miniature Chinese greatsword style machete I made a few years ago, recycled from some scrap steel. Link below to Instructables, where you can learn how to make one for yourself with minimal tools and expenditure.\n\nhttp://www.instructables.com/id/Decorative-SwordMachete-for-the-Novice-Metalworker/\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728"
+  },
+  {
+   "id": "GHgFYhn4scU",
+   "t": "Ruben's Tube Fire Scythe Homemade",
+   "d": "2016-10-28",
+   "v": 2981,
+   "s": 111,
+   "vertical": false,
+   "desc": "Here's a revisit of a project I completed for Halloween in 2014, a Ruben's tube fire scythe that uses a Bluetooth speaker to make the flames dance to the music. I could never get it working at the time but 2 years after I finished it I came back and got it to work!\n\nConstructed of welded steel and using very basic engineering, this blade could be used for an amazing Halloween costume, and using a voice changer app it can even make the flames react to your voice live!\n\nThis is actually a really easy project for a DIY Halloween decoration, using only an angle grinder, welder and files. If you're"
+  },
+  {
+   "id": "Q05TAoPIHtQ",
+   "t": "Arduino Cat Laser",
+   "d": "2016-11-04",
+   "v": 22941,
+   "s": 180,
+   "vertical": false,
+   "desc": "In this Arduino project, I show you how to build a simple servo laser tower controlled from a smartphone app called Blynk. This is ideal for making a toy for your cat or dog.\n\nSee the project on Instructables for links to the code and more in depth instructions: \nhttp://www.instructables.com/id/Smartphone-Controlled-Cat-Laser/\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasa"
+  },
+  {
+   "id": "HtN4bBXB7s8",
+   "t": "Building a Single Propeller Drone With Arduino - Part 1",
+   "d": "2016-11-11",
+   "v": 85177,
+   "s": 137,
+   "vertical": false,
+   "desc": "In this series, I will be building a single propeller spherical drone which will be controlled via an Arduino. I have designed this drone in Solidworks 3D CAD software and I will be making all of the files available to my viewers, meaning that you can build your own drone, just the same as mine.\n\nThe end goal for this project is to have an autonomous drone capable of lighting an area without any user input - it will follow a person around and, with several LEDs, it will light their way. For those of you who are into Skyrim, it will resemble the Candlelight spell. You could think of it as real "
+  },
+  {
+   "id": "X9VxHALciaE",
+   "t": "(PART 2) Building a Single Propeller Drone With Arduino",
+   "d": "2016-11-25",
+   "v": 27711,
+   "s": 256,
+   "vertical": false,
+   "desc": "In this episode I take a brief look at the 3D printed and laser cut parts for the candlelight drone.\n\nIn this series, I will be building a single propeller spherical drone which will be controlled via an Arduino. I have designed this drone in Solidworks 3D CAD software and I will be making all of the files available to my viewers, meaning that you can build your own drone, just the same as mine.\n\nThe end goal for this project is to have an autonomous drone capable of lighting an area without any user input - it will follow a person around and, with several LEDs, it will light their way. For th"
+  },
+  {
+   "id": "pfzPx-K9ye0",
+   "t": "(PART 3) Building a Single Propeller Drone With Arduino",
+   "d": "2016-12-09",
+   "v": 28609,
+   "s": 335,
+   "vertical": false,
+   "desc": "With all of the components ready, I begin to assemble the central motor hub and test code for the air fins.\n\nIn this series, I will be building a single propeller spherical drone which will be controlled via an Arduino. I have designed this drone in Solidworks 3D CAD software and I will be making all of the files available to my viewers, meaning that you can build your own drone, just the same as mine.\n\nThe end goal for this project is to have an autonomous drone capable of lighting an area without any user input - it will follow a person around and, with several LEDs, it will light their way."
+  },
+  {
+   "id": "7GJCiCwTj7g",
+   "t": "Building a Single Propeller Drone With Arduino (PART 4)",
+   "d": "2016-12-23",
+   "v": 39649,
+   "s": 373,
+   "vertical": false,
+   "desc": "With the assembly finished, I construct a control panel and then start testing.\n\nIn this series, I will be building a single propeller spherical drone which will be controlled via an Arduino. I have designed this drone in Solidworks 3D CAD software and I will be making all of the files available to my viewers, meaning that you can build your own drone, just the same as mine.\n\nThe end goal for this project is to have an autonomous drone capable of lighting an area without any user input - it will follow a person around and, with several LEDs, it will light their way. For those of you who are in"
+  },
+  {
+   "id": "72hVBebc8kQ",
+   "t": "Building a Spherical Drone With Arduino (PART 5)",
+   "d": "2017-01-13",
+   "v": 23363,
+   "s": 401,
+   "vertical": false,
+   "desc": "In this video I build a reverse coupling and use it to try and solve the drone's issues.\n\nIn this series, I will be building a single propeller spherical drone which will be controlled via an Arduino. I have designed this drone in Solidworks 3D CAD software and I will be making all of the files available to my viewers, meaning that you can build your own drone, just the same as mine.\n\nThe end goal for this project is to have an autonomous drone capable of lighting an area without any user input - it will follow a person around and, with several LEDs, it will light their way. For those of you w"
+  },
+  {
+   "id": "k210M_PWzUE",
+   "t": "Within Temptation Phoenix on Motorbike Helmet Airbrushing Timelapse",
+   "d": "2017-01-24",
+   "v": 3439,
+   "s": 218,
+   "vertical": false,
+   "desc": "A quick timelapse of Within Temptation's phoenix logo I airbrushed on a motorbike helmet for a friend. About 6 hours condensed into 3 minutes! \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u"
+  },
+  {
+   "id": "I7IxOmThaxw",
+   "t": "DIY Animatronic Eye Mechanism 3D Printed",
+   "d": "2017-04-19",
+   "v": 152441,
+   "s": 191,
+   "vertical": false,
+   "desc": "In this very cheap and quick project, I built a convincing DIY animatronic eye mechanism using CAD software, a 3D printer and Arduino.\n\nFind links to the 3D models and code in the following instructable:\nhttps://www.instructables.com/id/3D-Printed-Animatronic-Eye-Mechanism-on-the-Cheap/\n\nYou can get the majority of the parts from an arduino starter kit like this: https://amzn.to/31Cj4bw although you'll need to buy some more servos (https://amzn.to/2P7R5ha). If you need to buy anything individually, check the following list:\n\nMaterials and Components used in this project:\nAny Arduino board that"
+  },
+  {
+   "id": "VdHVS0dpmdQ",
+   "t": "DIY Animatronic Eye Project Update",
+   "d": "2017-04-27",
+   "v": 50267,
+   "s": 212,
+   "vertical": false,
+   "desc": "In this video, I begin working on a new animatronic eye mechanism using CAD software, a 3D printer and Arduino. I also touch on the paintwork that goes into making realistic eyes.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Solder"
+  },
+  {
+   "id": "W0NM2RruDO8",
+   "t": "Amateur Accordion Restoration Part I - Keys",
+   "d": "2017-08-18",
+   "v": 79200,
+   "s": 451,
+   "vertical": false,
+   "desc": "I found this Hohner Verdi III Accordion in unplayable state, this project series documents my amateur restoration in every detail from tuning and reed servicing to setting rhinestones.\n\nIn this video I clean and repair the cracks in the keyboard section,  repaint, clean and even machine a decorative brass axle rod.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm"
+  },
+  {
+   "id": "kp6vFgfTp4c",
+   "t": "3D Printed Arduino Hexapod Part I - Premise",
+   "d": "2017-08-25",
+   "v": 10632,
+   "s": 141,
+   "vertical": false,
+   "desc": "In this series I will be documenting my design and testing process for making a 3D printed arduino hexapod. This video sets up the basic premise of the project with a quick test of a servo controlled robot leg.\n\nThis project will cover topics such as CAD design in Solidworks,  3D printing, arduino programming/coding and post processing of 3D printed parts.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changin"
+  },
+  {
+   "id": "G4ykAdxb3wI",
+   "t": "How To Set Conical Rhinestones/Chantons",
+   "d": "2017-09-01",
+   "v": 2523,
+   "s": 288,
+   "vertical": false,
+   "desc": "As part of my accordion restoration project, I show the conical rhinestone/chanton setting technique I used which can be applied to a range of other applications such as cosplay, decoration, prop replicas etc.\n\nUseful Reference: http://www.crystalandglassbeads.com/blog/2014/use-swarovski-crystal-chatons-round-stones.html\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com"
+  },
+  {
+   "id": "6PKxVcY8d9g",
+   "t": "3D Printed Arduino Hexapod Part II - Leg Design",
+   "d": "2017-09-08",
+   "v": 160419,
+   "s": 197,
+   "vertical": false,
+   "desc": "In this series I will be documenting my design and testing process for making a 3D printed arduino hexapod. This video goes over the new leg design, specifically a design for a 3D printed spring piston.\nThis project will cover topics such as CAD design in Solidworks,  3D printing, arduino programming/coding and post processing of 3D printed parts.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Prin"
+  },
+  {
+   "id": "dXMKjjW3dPM",
+   "t": "Amateur Accordion Restoration Part II - Grille and Paint",
+   "d": "2017-09-22",
+   "v": 34075,
+   "s": 299,
+   "vertical": false,
+   "desc": "I found this Hohner Verdi III Accordion in unplayable state, this project series documents my amateur restoration in every detail from tuning and reed servicing to setting rhinestones.\n\nIn this video I remove the old grille cloth (which was actually just a subbuteo pitch!) and replace it with a more sensible open weave one, which I dyed myself for lack of the colour I wanted in Boyes. I also restored the \"HOHNER\" logo and the \"VERDI III\".\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasa"
+  },
+  {
+   "id": "j-IJgXBkMfQ",
+   "t": "Animatronic Heart Early Prototyping",
+   "d": "2017-10-22",
+   "v": 19722,
+   "s": 80,
+   "vertical": false,
+   "desc": "The early prototyping stages of an animatronic heart I'm working on.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site/\nPatreon: http://patreon.com"
+  },
+  {
+   "id": "zAjBzE46GaU",
+   "t": "Red Nebula Airbrushing on Marin Frame",
+   "d": "2018-01-19",
+   "v": 2691,
+   "s": 262,
+   "vertical": false,
+   "desc": "This paint job was a favour I did for my dad. I airbrushed a fiery red Nebula design on to this Marin Indian Fire Trail, and using masking techniques the design was made to form the shape of the stickers. He's still building up the bike so subscribe to his channel to see the finished product! https://www.youtube.com/channel/UCiVlstp_TTEdiIdQX8WN6HA\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Pri"
+  },
+  {
+   "id": "uESxUEB-v3Q",
+   "t": "Fully 3D Printable Biomimetic Mechatronic Hand Progress and 3D Renders",
+   "d": "2018-03-15",
+   "v": 36961,
+   "s": 137,
+   "vertical": false,
+   "desc": "This video showcases some of the progress and 3D renders I've made of the model. More videos coming soon as I build and test the final model!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\n"
+  },
+  {
+   "id": "Kfh8puOPiTk",
+   "t": "3D Printed Biomimetic Mechatronic Hand Project Presentation",
+   "d": "2018-09-27",
+   "v": 59742,
+   "s": 372,
+   "vertical": false,
+   "desc": "A quick video covering the main points of the Biomimetic Bionic Hand project, intended for open-evenings and the like.\n\nI think I'll upload an in-depth explanation of the project sometime soon, so stay tuned for that!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Su"
+  },
+  {
+   "id": "8HQ-CtgXudY",
+   "t": "3D Printed Biomimetic Mechatronic Hand: Control Glove Explained",
+   "d": "2018-10-11",
+   "v": 226050,
+   "s": 1099,
+   "vertical": false,
+   "desc": "A fairly in-depth analysis of the design and construction of my bionic hand control glove. I'll be uploading another video soon about the bionic hand!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/"
+  },
+  {
+   "id": "l6xqTcLXXC8",
+   "t": "3D Printed Biomimetic Mechatronic Hand Explained Part 1",
+   "d": "2018-10-28",
+   "v": 1150520,
+   "s": 1233,
+   "vertical": false,
+   "desc": "A fairly in-depth analysis of the design and construction of my bionic biomimetic mechatronic hand. I'll be uploading another video soon!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll "
+  },
+  {
+   "id": "3fOUi_r4YMg",
+   "t": "New 3D Printed Animatronic Eye Mechanisms and Other Project Updates",
+   "d": "2019-10-08",
+   "v": 559688,
+   "s": 376,
+   "vertical": false,
+   "desc": "A quick look at the new 3D printed animatronic eye mechanisms I've built. Starting in the next few weeks, I'll be releasing a series of videos showing you how to use 3D printing and arduino microcontrollers to build my eye mechanisms as well as a controller and realistic eyes.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&"
+  },
+  {
+   "id": "RqZRKUbA_p0",
+   "t": "How to Make Realistic Eyes Using 3D Printing for Animatronic Eye Mechanisms",
+   "d": "2019-10-22",
+   "v": 213101,
+   "s": 698,
+   "vertical": false,
+   "desc": "The first video in my series on how to build my 3D printed animatronic eye mechanisms, this video covers the process for making my realistic eyes.  Using 3D printing, painting and casting, anyone can replicate the eyes you see in this video! The next video will cover the 3D printing and assembly of my simple arduino animatronic eye mechanism design.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Pr"
+  },
+  {
+   "id": "Ey6nUZm5gYI",
+   "t": "Animatronic Pumpkin Using 3D Printed Arduino Animatronic Eye Mechanism",
+   "d": "2019-10-31",
+   "v": 48084,
+   "s": 237,
+   "vertical": false,
+   "desc": "A quick project making use of my 3D printed Arduino animatronic eyes. The eyelids were painted orange and suspended within the pumpkin using barbecue skewers, with the ends sawn off. The mark it leaves looks just like the little scars pumpkins normally have anyway! This video is part of a series in which I demonstrate my open-source DIY robotic eyes, check my channel to see some of the other videos in the series.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4"
+  },
+  {
+   "id": "Ftt9e8xnKE4",
+   "t": "How to Build a Simple 3D Printed Arduino Animatronic Eye Mechanism",
+   "d": "2019-11-05",
+   "v": 694097,
+   "s": 649,
+   "vertical": false,
+   "desc": "Here's how I build my simplified 3D printed arduino animatronic eye mechanism. This is a good option if you'd like to try out some DIY arduino robotics but don't necessarily have access to certain specialist hobby components, high-quality 3D printing or workshop tools. If you need more help, check the thorough text instructions on instructables: \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Print"
+  },
+  {
+   "id": "ihXxbQefl1c",
+   "t": "How to Make a Compact Animatronic Eye Mechanism with 3D Printing and Arduino",
+   "d": "2019-11-19",
+   "v": 305262,
+   "s": 1066,
+   "vertical": false,
+   "desc": "This project is an upgraded version of my previous design, a highly compact and robust animatronic eye mechanism which uses 3D printed components and an Arduino microcontroller. If you are able to get hold of servo ball-links and pushrods, and are reasonably competent with 3D printing, this is the eye mechanism project I'd recommend most!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: http"
+  },
+  {
+   "id": "qd465T2zMNw",
+   "t": "3D Printed Custom Arduino Eye Mechanism Controller",
+   "d": "2019-12-03",
+   "v": 67302,
+   "s": 572,
+   "vertical": false,
+   "desc": "Here is the controller I designed for my 3D printed animatronic eye mechanisms. The main advantage it has over a traditional gaming controller is the ability to fine-tune a value (such as the openness of the eyelids) using a potentiometer, which holds its position. The controller plugs directly into an arduino and is pretty easy to build. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: htt"
+  },
+  {
+   "id": "DxjTiZKzxVo",
+   "t": "Making a Robust Machined Eye Mechanism with 3D Printing and Arduino",
+   "d": "2019-12-17",
+   "v": 50148,
+   "s": 1024,
+   "vertical": false,
+   "desc": "Here's an animatronic eye mechanism I made using machining tools like a lathe, as well as 3D printing and arduino. Although I'm sure a lot of you guys don't have acess to a lathe, I hope you'll still enjoy watching the build process!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3W"
+  },
+  {
+   "id": "cvqAoBrLs7M",
+   "t": "DIY 16 Channel Servo Tester with 3D Printing and Arduino + Channel Update",
+   "d": "2019-12-31",
+   "v": 20161,
+   "s": 572,
+   "vertical": false,
+   "desc": "Pretty much every project I've done just lately has required me to test out some servos and experiment with their positions before they go into the assembly. I usually make a quick servo tester on a breadboard and use the serial monitor in the arduino IDE to get the servo positions, but this time I decided I'd treat myself and design an enclosed, permanent system to test my servos!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrac"
+  },
+  {
+   "id": "8-jlu4yoHm0",
+   "t": "3D Printed Animatronic Heart Development Process",
+   "d": "2020-01-14",
+   "v": 1047762,
+   "s": 988,
+   "vertical": false,
+   "desc": "Here's an overview of the development process for my arduino, servo and 3D printing based animatronic heart mechanism, as well as a simpler version I made using a DC motor. This video is based on the build-log style posts I made to my Patreon page as I developed the designs.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&af"
+  },
+  {
+   "id": "y2lwaRPXSYQ",
+   "t": "How to Make a 3D Printed Heart Mechanism and Plush Jacket",
+   "d": "2020-01-28",
+   "v": 20995,
+   "s": 928,
+   "vertical": false,
+   "desc": "I wanted to make a realistic animatronic heart, and as I was developing the 3D printed mechanism I used a sock to try and get a vague idea of how the silicone skin would move once the design was finished. Since the silicone casting turned out to be quite challenging and very expensive, the sock test gave me the idea to instead use a slightly elastic fabric to make a plush heart design, which could be fitted over the 3D printed mechanism.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasal"
+  },
+  {
+   "id": "JqDfKz8ias4",
+   "t": "Building the Advanced Animatronic Heart Mechanism",
+   "d": "2020-02-11",
+   "v": 758833,
+   "s": 637,
+   "vertical": false,
+   "desc": "Here's the instructional video on how to build my advanced, servo based animatronic heart mechanism using arduino and 3D printing. I designed it for use in a silicone jacket but you can use the fabric jacket from my previous tutorial too!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn."
+  },
+  {
+   "id": "NZYQdmsUT3Y",
+   "t": "Building a Model Turbine on the mCreate 3D Printer and Laser Engraver!",
+   "d": "2020-02-22",
+   "v": 50608,
+   "s": 604,
+   "vertical": false,
+   "desc": "Here's my review of the new mCreate 3D printer and laser engraver from Makeblock! In this video I design and build a model wind turbine to test the printer, and I was very pleased with the results! Check the links below if you're interested in purchasing or finding out more, and also if you want to build the turbine for yourself!\n\nmCreate is a smart leveling versatile 3D printer.\n\nB2B/school buyers: http://bit.ly/2UGiolB\nE-commerce: to be in online store soon\n\nTo find out more on Makeblock's mCreate, feel free to visit: http://bit.ly/2UDaERn\n*No laser engraving for Europe version\n\nSupport me o"
+  },
+  {
+   "id": "w4j_ifZIUBQ",
+   "t": "Testing Out a 3D Printed Animatronic Mouth",
+   "d": "2020-03-09",
+   "v": 43041,
+   "s": 153,
+   "vertical": false,
+   "desc": "Here's a quick test of my new animatronic mouth, which I'll be publishing in the coming weeks!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site/\nP"
+  },
+  {
+   "id": "fF-Pd7Dvvcc",
+   "t": "How to Make a Silicone Heart Jacket for Animatronic Hearts",
+   "d": "2020-03-23",
+   "v": 32508,
+   "s": 570,
+   "vertical": false,
+   "desc": "Here's the final part of my animatronic heart mechanism series. In this video, I'll show you how I made the flexible silicone skin which adds a ton of realism to the robotic heart!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Solde"
+  },
+  {
+   "id": "mEAz-72ZjKE",
+   "t": "Developing an Animatronic Mouth Mechanism",
+   "d": "2020-04-13",
+   "v": 139983,
+   "s": 540,
+   "vertical": false,
+   "desc": "References:\nTheDutchEdition's animatronic mouth: https://youtu.be/Ke2lJfY4haM\nWillettFX's channel: https://www.youtube.com/user/willettfx\n\nHere's the animatronic mouth mechanism I showcased in my recent video. In this video I talk briefly about the development of the mechanism, programming and artistic elements, and I'm going to be taking you through how to build one yourself!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f"
+  },
+  {
+   "id": "lY83q531gHk",
+   "t": "DIY Animatronic 3D Printed Mouth using Arduino and Python",
+   "d": "2020-04-28",
+   "v": 41817,
+   "s": 702,
+   "vertical": false,
+   "desc": "Here's the assembly instructions for my 3D printed Arduino / Python controlled animatronic mouth!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site"
+  },
+  {
+   "id": "8VzQshnrvN0",
+   "t": "How to Get Started with Animatronics \u2013 Thought Process, Workflow, Resources and Skills",
+   "d": "2020-05-11",
+   "v": 472516,
+   "s": 956,
+   "vertical": false,
+   "desc": "Here's a quick summary of how to get started with animatronics, and an overview of my usual workflow and thought process. I hope you'll find this useful!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn."
+  },
+  {
+   "id": "Mva6MkP_Bco",
+   "t": "How to Program Speech Synthesis in an Animatronic Mouth Using Python and Arduino",
+   "d": "2020-05-25",
+   "v": 36076,
+   "s": 632,
+   "vertical": false,
+   "desc": "Here's a closer look at the programming behind my animatronic mouth. Using Arduino, Python, and a few open-source libraries, I take a typed sentence and convert it into an animation sequence.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY"
+  },
+  {
+   "id": "-zqZ-izx-7w",
+   "t": "Redesigning My Biomimetic Mechatronic Hand - 3D Printed Interphalangeal Joint",
+   "d": "2020-06-04",
+   "v": 219156,
+   "s": 534,
+   "vertical": false,
+   "desc": "The first video in a series I'm making on my new, redesigned biomimetic bionic hand. In this video I introduce a new interphalangeal joint - a simple hinge although there are some very specific requirements. The design will be 3D printed and designed in Fusion 360.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 "
+  },
+  {
+   "id": "ci4pCjzCIQU",
+   "t": "Making Teeth and Tongue For an Animatronic Mouth",
+   "d": "2020-06-14",
+   "v": 13835,
+   "s": 489,
+   "vertical": false,
+   "desc": "Here's the last video on my animatronic mouth for the time being, how to make the teeth!\nWillettFX's video: https://www.youtube.com/watch?v=LjvjYadZveE\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to"
+  },
+  {
+   "id": "3pmj-ESVuoU",
+   "t": "Designing a Custom Bionic Hand Servo - Biomimetic Mechatronic Hand Part 2",
+   "d": "2020-06-24",
+   "v": 141852,
+   "s": 309,
+   "vertical": false,
+   "desc": "Here's a brief look at some custom servos I'm experimenting with for my biomimetic mechatronic hand. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion."
+  },
+  {
+   "id": "MxbX9iKGd6w",
+   "t": "Prototyping a Full Bionic Finger - Biomimetic Mechatronic Hand Part 3",
+   "d": "2020-07-08",
+   "v": 107881,
+   "s": 498,
+   "vertical": false,
+   "desc": "Here's my first test of three consecutive joints in my bionic hand, using FDM printing and arduino, designed in Fusion 360. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: htt"
+  },
+  {
+   "id": "DqGq5mnd_n4",
+   "t": "Biomechanics of the CMC Joint for Bionic Hands - Biomimetic Mechatronic Hand Part 4",
+   "d": "2020-07-22",
+   "v": 302963,
+   "s": 561,
+   "vertical": false,
+   "desc": "Here's a look at the biomechanics, anatomy and kinematics of the carpometacarpal (CMC) joints in the hand, and how they relate to contemporary bionic hand designs as well as my own. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Sol"
+  },
+  {
+   "id": "VRcj_tt_oN8",
+   "t": "Making the Switch to SLA! - Biomimetic Mechatronic Hand Part 5",
+   "d": "2020-08-05",
+   "v": 85834,
+   "s": 405,
+   "vertical": false,
+   "desc": "Here's a look at my new SLA printer and how it will affect my biomimetic mechatronic hand. In this video I'll walk you through my new setup, air purification, and the new parts I've designed specificially for SLA printing. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Po"
+  },
+  {
+   "id": "dWUSH6DR4G8",
+   "t": "Wrist Biomechanics for Bionic Hands - Biomimetic Mechatronic Hand Part 6",
+   "d": "2020-08-20",
+   "v": 84773,
+   "s": 510,
+   "vertical": false,
+   "desc": "A sort of part two to the last biomechanics video, In this one I talk about the anatomy, kinematics and biomechanics of the wrist in real hands as well as different solutions employed by current bionic hand designs.\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supp"
+  },
+  {
+   "id": "99RzNBQF6g8",
+   "t": "Prototyping the Palm Components  - Biomimetic Mechatronic Hand Part 7",
+   "d": "2020-09-02",
+   "v": 54284,
+   "s": 510,
+   "vertical": false,
+   "desc": "In this video I talk about my prototypes for all the components which make up the palm in my bionic hand - the CMC joints for the thumb, 4th and 5th metacarpal hinge, and the motors which control the MCP joints. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply:"
+  },
+  {
+   "id": "Wywru4K8GVU",
+   "t": "Combining Subsystems to Form the Palm",
+   "d": "2020-09-16",
+   "v": 50184,
+   "s": 454,
+   "vertical": false,
+   "desc": "In this video I go over how I combined the prototype components to make a full palm assembly. I also talk about my first prototype of the wrist. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj"
+  },
+  {
+   "id": "2knY9a4lAXQ",
+   "t": "Mechanised Gauntlet Using the Mayku Formbox",
+   "d": "2020-10-07",
+   "v": 146058,
+   "s": 497,
+   "vertical": false,
+   "desc": "Here's a quick little project I made to test out the Mayku FormBox: https://www.mayku.me/ !\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site/\nPatr"
+  },
+  {
+   "id": "Iej2jkwU-ts",
+   "t": "Biomimetic Bionic Hand - Next Steps",
+   "d": "2020-10-28",
+   "v": 212733,
+   "s": 544,
+   "vertical": false,
+   "desc": "In this video I talk about the bionic hand in its current state, and try to make it as accessible as possible to you guys since my output is going to be less consistent from here on. \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 So"
+  },
+  {
+   "id": "60s7J8_HBEI",
+   "t": "Biomimetic Bionic Hand - Forearm and PCB Experiments",
+   "d": "2023-01-01",
+   "v": 42948,
+   "s": 485,
+   "vertical": false,
+   "desc": "After a brief hiatus I am back and working on the bionic hand!\n\nPCBs for this project made with JLCPCB: $2 for 1-8 Layer PCBs, get JLCPCB  $54  new user coupons https://jlcpcb.com/?from=will\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6"
+  },
+  {
+   "id": "U663_8ze1H8",
+   "t": "I Built A Programmable Robotics Controller",
+   "d": "2023-02-01",
+   "v": 13741,
+   "s": 694,
+   "vertical": false,
+   "desc": "Here's a fully programmable, battery powered, arduino controller which uses XBee to communicate wirelessly with any project you can think of! It's a work in progress, check back for the final thing! \n\nPCBs for this project made with JLCPCB: $2 for 1-8 Layer PCBs, get JLCPCB  $54  new user coupons https://jlcpcb.com/?from=will\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasal"
+  },
+  {
+   "id": "ckct1z0CYgw",
+   "t": "3D Printing a Mechanised Gauntlet #3dprinting #engineer #robotics #mechatronics",
+   "d": "2023-05-30",
+   "v": 227430,
+   "s": 25,
+   "vertical": true,
+   "desc": "Here's a mechanised gauntlet I built with the Makyu Formbox! See the full video here: https://youtu.be/2knY9a4lAXQ\n\nSupport me on Patreon! https://www.patreon.com/NilheimMechatronics\n\nDiscord Server: https://discord.gg/df57eVP\nContact: enquiries@willcogley.com\nGitHub: https://github.com/ikkalebob/NM-bionic-hand/"
+  },
+  {
+   "id": "2--C0YcyMwQ",
+   "t": "Animatronic Headpiece with 3D Printing and Arduino",
+   "d": "2023-05-31",
+   "v": 88941,
+   "s": 39,
+   "vertical": true,
+   "desc": "Here's an animatronic headpiece I made for Nomi Nuwong using Fusion 360, 3D printing and Arduino! \n\nCheck out Nomi Nuwong's Page: https://www.tiktok.com/@nominuwong?_t=8clwtwo0hBb&_r=1\n\nSupport me on Patreon! https://www.patreon.com/NilheimMechatronics\n\nDiscord Server: https://discord.gg/df57eVP\nContact: enquiries@willcogley.com\nGitHub: https://github.com/ikkalebob/NM-bionic-hand/"
+  },
+  {
+   "id": "G_nnJNSbUC8",
+   "t": "3D Printing an Animatronic set of Eyes",
+   "d": "2023-06-05",
+   "v": 208796,
+   "s": 41,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iXmrPoqd8gs",
+   "t": "Building a Robotic Fox with 3D Printing, Arduino and Fusion 360",
+   "d": "2023-06-07",
+   "v": 156269,
+   "s": 501,
+   "vertical": false,
+   "desc": "Here's a new project I've been working on! I've been wanting to make a walking robot ever since my hexapod project so here's a little quadruped robot I built!\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://a"
+  },
+  {
+   "id": "mV3eoSesqSI",
+   "t": "Controlling my Bionic Hand With Realtime Motion Tracking - Biomimetic Bionic Hand",
+   "d": "2023-08-28",
+   "v": 124124,
+   "s": 663,
+   "vertical": false,
+   "desc": "Making Ultra Leaps on the Biomimetic Bionic hand project!\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site/\nPatreon: http://patreon.com/Will_Cogle"
+  },
+  {
+   "id": "dKBYz0Sf9BU",
+   "t": "Designing the Animatronic Eyes for SZA\u2019s Snooze! #3dprinting #animatronics",
+   "d": "2023-09-12",
+   "v": 51507,
+   "s": 25,
+   "vertical": true,
+   "desc": "Here's how I made the eyes for SZA's music video: https://youtu.be/LDY_XyxBu8A?si=8OET1ZXHGQv-pK4p\n\nHere's how to make them yourself!: https://youtu.be/Ftt9e8xnKE4?si=IkwWe0yAjTd3kDlr"
+  },
+  {
+   "id": "A7lJxBpecAY",
+   "t": "Testing and Benchmarking my Bionic Hand - Biomimetic Bionic Hand",
+   "d": "2024-02-15",
+   "v": 267553,
+   "s": 688,
+   "vertical": false,
+   "desc": "Free Hobbyist OnShape license/6 months free for businesses: https://onshape.pro/WillCogley\n\nPCBs for this project made with JLCPCB: $2 for 1-8 Layer PCBs, get JLCPCB  $54  new user coupons https://jlcpcb.com/?from=will\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power S"
+  },
+  {
+   "id": "uAHCfJAuSM8",
+   "t": "7 Years of Designing my Bionic Hand #engineering #3dprinting #robot",
+   "d": "2024-03-03",
+   "v": 1504013,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "6hfrEeloswA",
+   "t": "Making an Animatronic Mouth #animatronics #3dprinting #robot",
+   "d": "2024-03-08",
+   "v": 254680,
+   "s": 23,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "8w88HwbYPWI",
+   "t": "How to Build Your Own Biomimetic Bionic Hand",
+   "d": "2024-04-12",
+   "v": 266287,
+   "s": 900,
+   "vertical": false,
+   "desc": "Support me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https://amzn.to/3wAYj5u\n\nAll Projects: https://willcogley.notion.site/\nPatreon: http://patreon.com/Will_Cogley\nDiscord Server: https://discord.gg/qXKNRgHKNB\nContact: en"
+  },
+  {
+   "id": "TwNHYgIDWU4",
+   "t": "Testing New Printing Techniques to Build a Mechanical Centipede",
+   "d": "2024-05-10",
+   "v": 87038,
+   "s": 688,
+   "vertical": false,
+   "desc": "Here's the X1-Carbon 3D Printer as featured in this video! https://shareasale.com/r.cfm?b=2353821&u=4178914&m=138211&urllink=&afftrack=\n\nOr the more affordable A1 mini: https://shareasale.com/r.cfm?b=2420414&u=4178914&m=138211&urllink=&afftrack=\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Supply: https://amzn.to/3UYY6lP\n\ud83d\udd25 Soldering Station: https:/"
+  },
+  {
+   "id": "uzPisRAmo2s",
+   "t": "Designing a 3D Printed Animatronic Eye Mechanism With ZERO Fasteners",
+   "d": "2024-06-07",
+   "v": 171526,
+   "s": 817,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! Get animatronic-compatible realistic eyes at: https://nmrobots.com\n\nTo try everything Brilliant has to offer for free for a full 30 days, visit https://www.brilliant.org/WillCogley or click on the link in the description. You\u2019ll also get 20% off an annual premium subscription.\n\nPCBs: Mid-Year Mega Sale $250 Coupon & More Surprises https://jlcpcb.com/midyearsales?from=2024 \n\nSupport me on Patreon for access to all CAD files! http://patreon.com/Will_Cogley\n\nReferences:\nDFA: https://www.dfma.com/forum/2019pdf/devenish.pdf \nhttps://www.esierra.me/d"
+  },
+  {
+   "id": "5sgd5o21Y8s",
+   "t": "I Built A 3D Printed Robot, Then Controlled It In Virtual Reality",
+   "d": "2024-07-19",
+   "v": 31481,
+   "s": 765,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! Get animatronic-compatible realistic eyes at: https://nmrobots.com\n\nTo try everything Brilliant has to offer for free for a full 30 days, visit https://www.brilliant.org/WillCogley or click on the link in the description. You'll also get 20% off an annual premium subscription.\n\nGet JLCPCB $60 new user coupon & $20 6-layer PCB coupon (Free Via-in -pad) https://jlcpcb.com/?from=will  \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/"
+  },
+  {
+   "id": "eUMVtoO_fS8",
+   "t": "3D Printing a Robotic Head",
+   "d": "2024-08-21",
+   "v": 114054,
+   "s": 693,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! Get animatronic-compatible realistic eyes at: https://nmrobots.com\n\nFree Hobbyist OnShape license/6 months free for businesses: https://onshape.pro/WillCogley\n\nGet JLCPCB $60 new user coupon & $20 6-layer PCB coupon (Free Via-in -pad) https://jlcpcb.com/?from=will  \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm"
+  },
+  {
+   "id": "_JAqzl7y5VY",
+   "t": "I Built a 3D Printed Biblically Accurate Angel",
+   "d": "2024-10-30",
+   "v": 15755,
+   "s": 849,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! Get animatronic-compatible realistic eyes at: https://nmrobots.com\n\nIf you're struggling, consider therapy with our paid partner. Click\nhttps://betterhelp.com/WillCogley for a discount on your first month of therapy.\n\nGet JLCPCB $60 new user coupon & $20 6-layer PCB coupon (Free Via-in -pad) https://jlcpcb.com/?from=will  \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nCreators mentioned:\nhttps://www.instagram.com/lil_empress_/\nhttps://www.tiktok.com/@lil_empress_\nhttps://www.tiktok.com/@cameronhughes/\nht"
+  },
+  {
+   "id": "yWrldOS6xBw",
+   "t": "Silicone Skin and 3D Printing: Creating an Expressive Animatronic Head",
+   "d": "2024-12-02",
+   "v": 488568,
+   "s": 902,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! Get animatronic-compatible realistic eyes at: https://nmrobots.com\n\nFree Hobbyist OnShape license/6 months free for businesses: https://onshape.pro/WillCogley\n\nGet JLCPCB $60 new user coupon & $20 6-layer PCB coupon (Free Via-in -pad) https://jlcpcb.com/?from=will  \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nInterested in buying parts? Let me know!! https://forms.gle/6SxejeuYdf4hUMxu9\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urlli"
+  },
+  {
+   "id": "z_9knFW2QJY",
+   "t": "Tiny Home Robotics Lab: 25 Renter Friendly Tips",
+   "d": "2024-12-22",
+   "v": 79745,
+   "s": 922,
+   "vertical": false,
+   "desc": "Free Hobbyist OnShape license/6 months free for businesses: https://onshape.pro/WillCogley\n\nGet JLCPCB $60 new user coupon & $20 6-layer PCB coupon (Free Via-in -pad) https://jlcpcb.com/?from=will  \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nDownloads, Products, and Designs in this video: https://willcogley.notion.site/CogLab-16224779b64d8057b7a4ccad3ba5d219\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.c"
+  },
+  {
+   "id": "ILK5vl8Apew",
+   "t": "Designing a New Bionic Hand (Which Prints Pre-Assembled)",
+   "d": "2025-01-29",
+   "v": 115196,
+   "s": 1049,
+   "vertical": false,
+   "desc": "Check out the Revopoint POP 3 Plus 3D Scanner and get a discount with code REVOPRWC10 \nUS: https://www.revopoint3d.com/POP3PLUS-WillCogley\nGlobal: https://global.revopoint3d.com/POP3PLUS-WillCogley\n\nJLCPCB PCB Fab & Assembly from $2! Register to get $60 Coupons: https://jlcpcb.com/?from=willcogley \n6-layer PCBs start just $2! Get a $30 OFF coupon for 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley \n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nNow launching my new shop for animatronic parts!! https://nmrobots.com\n\nSuzan_Works' Open Source P"
+  },
+  {
+   "id": "bAvuMn8QTo4",
+   "t": "The Most Realistic Animatronic Eyes I've Ever Built",
+   "d": "2025-03-08",
+   "v": 160337,
+   "s": 678,
+   "vertical": false,
+   "desc": "Now launching my new shop for animatronic parts!! https://nmrobots.com\n\nDiscover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB! Register to get $60 New customer coupons: https://jlcpcb.com/?from=willcogley\nSpecial Deal: Get a $30 coupon for JLCPCB premium 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley\n\nDownload Pack for this project: https://willcogley.notion.site/EyeMech-3-1-1af24779b64d80b19edfdd795d4b90e5?pvs=4\n\nSupport me on Patreon for my Freddy Fazbear design, animatronic portrait painting project, mimic/big mouthed plushie and access to all my CAD files! htt"
+  },
+  {
+   "id": "nJAihxyDNYE",
+   "t": "Making an animatronic Freddy fazbear! #3dprinting #robot #fnaf",
+   "d": "2025-03-09",
+   "v": 82183,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EEpXGJNTa_w",
+   "t": "Making an animatronic haunted painting #3dprinting #robotics #animatronics",
+   "d": "2025-03-10",
+   "v": 76158,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "jeyMtxBvcpk",
+   "t": "Making a cursed plushie with animatronics #3dprinting #animatronics #robotics",
+   "d": "2025-03-11",
+   "v": 82897,
+   "s": 47,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "d1T_bfpBC5o",
+   "t": "4 Keys to Make Your 3D Printed Mechanisms Work First Time",
+   "d": "2025-03-29",
+   "v": 20505,
+   "s": 712,
+   "vertical": false,
+   "desc": "\ud83c\udf0f Get an Exclusive NordVPN deal + 4 months extra here \u27bc https://nordvpn.com/willcogley It\u2019s risk-free with Nord\u2019s 30-day money-back guarantee! \u270c\n\nNow launching my new shop for animatronic parts!! https://nmrobots.com\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Fancy Colour-Changing 3D Printer: https://shareasale.com/r.cfm?b=2354728&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udd27 Screwdrivers: https://amzn.to/3WFHXDp\n\ud83d\udd0c Power Sup"
+  },
+  {
+   "id": "Mb-5m0vpw-4",
+   "t": "My New Robotic Head Design is Legally Confusing",
+   "d": "2025-04-25",
+   "v": 201714,
+   "s": 558,
+   "vertical": false,
+   "desc": "Head to https://www.squarespace.com/WillCogley to save 10% off your first purchase of a\nwebsite or domain using code WILLCOGLEY.\n\nDiscover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB! Register to get $60 New customer coupons: https://jlcpcb.com/?from=willcogley\nSpecial Deal: Get a $30 coupon for JLCPCB premium 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley\n\nNow launching my new shop for animatronic parts!! https://nmrobots.com\n\nDownload Pack for this project: https://www.notion.so/nilheim-mechatronics/Robot-Head-2-0-33-1d724779b64d80568fd9cf1c7abd3e64?pvs=4\n\nSupp"
+  },
+  {
+   "id": "VtN5VJx5tRY",
+   "t": "This Robot Neck Moves Like a Human Spine",
+   "d": "2025-05-23",
+   "v": 154651,
+   "s": 648,
+   "vertical": false,
+   "desc": "Head to https://www.squarespace.com/WillCogley to save 10% off your first purchase of a\nwebsite or domain using code WILLCOGLEY.\n\nDiscover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB! Register to get $60 New customer coupons: https://jlcpcb.com/?from=willcogley\nSpecial Deal: Get a $30 coupon for JLCPCB premium 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley\n\nNow launching my new shop for animatronic parts!! https://nmrobots.com\n\nDownload Pack for this project: https://www.notion.so/nilheim-mechatronics/Robot-Head-2-0-33-1d724779b64d80568fd9cf1c7abd3e64?pvs=4\n\nSupp"
+  },
+  {
+   "id": "TL5nOrFe7fM",
+   "t": "A biologically inspired neck mechanism #3dprinting #robotics #animatronics",
+   "d": "2025-06-16",
+   "v": 16181437,
+   "s": 40,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nE8npW5I9F4",
+   "t": "Patent law is so confusing! #3dprinting #animatronics #robotics",
+   "d": "2025-06-18",
+   "v": 7054713,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "HKiSAt_QIW0",
+   "t": "Making a flexible yet supportive 3D printed spine #3dprinting #animatronics #robotics",
+   "d": "2025-06-20",
+   "v": 477290,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uEYAzE5-ZGE",
+   "t": "Why My Most Ambitious Bionic Hand Kept Falling Apart",
+   "d": "2025-06-20",
+   "v": 62813,
+   "s": 597,
+   "vertical": false,
+   "desc": "Discover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB! Register to get $60 New customer coupons: https://jlcpcb.com/?from=willcogley\nSpecial Deal: Get a $30 coupon for JLCPCB premium 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley\n\nHead to https://www.squarespace.com/WillCogley to save 10% off your first purchase of a\nwebsite or domain using code WILLCOGLEY.\n\n\n\nNow launching my new shop for animatronic parts!! https://nmrobots.com\n\nSupport me on Patreon for access to all my CAD files! http://patreon.com/Will_Cogley\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Prin"
+  },
+  {
+   "id": "pD6oljrRDCM",
+   "t": "Can 3D printers get this good? #3dprinting #animatronics #robotics",
+   "d": "2025-06-22",
+   "v": 206768,
+   "s": 35,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "lHem5CMQc-4",
+   "t": "Designing a better robot hand #3dprinting #animatronics #robotics",
+   "d": "2025-06-24",
+   "v": 367423,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "aYY5npQLAIM",
+   "t": "Feeling dizzy in robot VR #3dprinting #robotics #animatronics",
+   "d": "2025-06-26",
+   "v": 165065,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UZS-Y5pxxi8",
+   "t": "Stopping my robotic hand from falling apart #3dprinting #animatronics #robotics",
+   "d": "2025-06-28",
+   "v": 448877,
+   "s": 27,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "S9kHTZhV-1E",
+   "t": "Removing every screw from my animatronic eyes #3dprinting #robotics #animatronics",
+   "d": "2025-06-30",
+   "v": 387317,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "RNIr0g4lpZ4",
+   "t": "My renter-friendly home robotics lab #3dprinting #animatronics #robotics",
+   "d": "2025-07-02",
+   "v": 117899,
+   "s": 33,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_mw4bV1mqas",
+   "t": "Making an animatronics controller #3dprinting #robotics #3dprinting",
+   "d": "2025-07-04",
+   "v": 136536,
+   "s": 37,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "G2H9yCF-NtQ",
+   "t": "Making teeth for my robotic head #3dprinting #animatronics #robotics",
+   "d": "2025-07-06",
+   "v": 402183,
+   "s": 24,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "iSeHNUELye8",
+   "t": "Make your 3D printed designs work first time! #3dprinting #animatronics #robotics",
+   "d": "2025-07-08",
+   "v": 123616,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "NGqITQlL2bs",
+   "t": "How to make 3D printed designs fit! #3dprinting #animatronics #robotics @lil_empress_x",
+   "d": "2025-07-10",
+   "v": 55629,
+   "s": 35,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vWKjQyho8A0",
+   "t": "Can you spot the issue with these eyes? #3dprinting #animatronics #robotics",
+   "d": "2025-07-12",
+   "v": 1066941,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "vvLUPo-UabI",
+   "t": "Taking inspiration from engine mechanics! #3dprinting #animatronics #robotics",
+   "d": "2025-07-14",
+   "v": 80978,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "knqEmxxjrWs",
+   "t": "What's the difference between humans and robots? #3dprinting #animatronics #robotics",
+   "d": "2025-07-16",
+   "v": 172284,
+   "s": 36,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "LSi4VzgH4IU",
+   "t": "Making a digital twin of my own hand #3dprinting #animatronics #robot",
+   "d": "2025-07-18",
+   "v": 120140,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "UdlpOdGL00Q",
+   "t": "The Triple Reprinting technique \ud83d\ude0e #3dprinting #animatronics #robotics",
+   "d": "2025-07-20",
+   "v": 931815,
+   "s": 53,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "hyDYD9h2kOQ",
+   "t": "Why am I making this ? #3dprinting #animatronics #robotics",
+   "d": "2025-07-22",
+   "v": 446593,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "pL3RaGF1CPU",
+   "t": "Brb gonna walk the dog #3dprinting #animatronics #robotics",
+   "d": "2025-07-24",
+   "v": 109532,
+   "s": 33,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "1nk9oSb7zT4",
+   "t": "Reimagining Classic Animatronics with Modern Tools",
+   "d": "2025-07-25",
+   "v": 35419,
+   "s": 515,
+   "vertical": false,
+   "desc": "Discover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB! Register to get $70 New customer coupons: https://jlcpcb.com/?from=willcogley\nSpecial Deal: Get a $30 coupon for JLCPCB premium 6-layer PCBs: https://jlcpcb.com/6-layer-pcb?from=willcogley\n\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\nZeta \u03b6 Series EyeMech Pre-Registration: https://forms.gle/htf4HFQHY93NLtcj9\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cf"
+  },
+  {
+   "id": "tRKuVI2EW94",
+   "t": "Prehensile Spine with rippling latches #3dprinting #animatronics #robot",
+   "d": "2025-07-26",
+   "v": 247616,
+   "s": 41,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "g4XjG02ms6E",
+   "t": "Day 1 of recreating iconic movie scenes with budget animatronics #3dprinting #animatronics #robot",
+   "d": "2025-07-28",
+   "v": 65182,
+   "s": 52,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IHWv0BduZC0",
+   "t": "Behind the scenes of my Prometheus reenactment #3dprinting #animatronics #robot",
+   "d": "2025-07-30",
+   "v": 129704,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "MjeCm8tg8ys",
+   "t": "Day 2 of recreating iconic movie scenes with budget animatronics #3dprinting #animatronics #robot",
+   "d": "2025-08-01",
+   "v": 43958,
+   "s": 33,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "TZVjpfVgBAc",
+   "t": "How fast can I build my \u03b53.2 eye mechanism? #3dprinting #animatronics #robotics",
+   "d": "2025-08-05",
+   "v": 93673,
+   "s": 33,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uw6RVGlJC9M",
+   "t": "Recreating iconic movie scenes with budget animatronics. Don't worry-fake blood! #animatronics #sfx",
+   "d": "2025-08-07",
+   "v": 57846,
+   "s": 38,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "GcqThnAeOvY",
+   "t": "How I made this animatronic chestburster - don't worry - fake blood! #animatronics #sfx #3dprinting",
+   "d": "2025-08-09",
+   "v": 84562,
+   "s": 44,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "ZzSu-VVYNIU",
+   "t": "All the animatronics I used with my new controller ! (fake blood) #sfx #3dprinting #animatronics",
+   "d": "2025-08-11",
+   "v": 68889,
+   "s": 21,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "IPBu5Q2aogE",
+   "t": "Building a Robot that Sees (Through its Own Eyes)",
+   "d": "2025-08-22",
+   "v": 96146,
+   "s": 543,
+   "vertical": false,
+   "desc": "Try Onshape Free \u2013 Engineers Get Up to 6 Months Pro:https://onshape.pro/WillCogley\n\nProject Files for this Project: https://www.notion.so/nilheim-mechatronics/Camera-Eye-Follower-Bot-25524779b64d80969680f8a0c32fa703?source=copy_link \n\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nMy Setup/Recommendations:\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Colour-Changing 3D Printer: https://shareasale.co"
+  },
+  {
+   "id": "9VGf4_eyifM",
+   "t": "Making robots which see with their own eyes #3dprinting #animatronics #robotics",
+   "d": "2025-08-28",
+   "v": 4123218,
+   "s": 35,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "fPH0CohkpmY",
+   "t": "What a weekend! Everybody's links in the description",
+   "d": "2025-09-01",
+   "v": 58763,
+   "s": 38,
+   "vertical": true,
+   "desc": "@TomStantonEngineering @carlos3dprint @fulv_uk @simiu3d @augmentl @Keep-Making @properprinting @TheSolarPoweredEngineer @Project-Air @VariableSeams @MattDenton @migrationofmatter_studio @jamesbruton @design.emgineer @SamBarker @prashmakes @headofhouse_designs"
+  },
+  {
+   "id": "XLPin-jxnLs",
+   "t": "3D printed tapered roller bearing  #3dprinting #engineering",
+   "d": "2025-09-05",
+   "v": 78185,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "VLrRbZY5q3w",
+   "t": "Making my eye-tracker less creepy #3dprinting #animatronics #robotics",
+   "d": "2025-09-09",
+   "v": 4054291,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "upgl15m_NXQ",
+   "t": "The full assembly process of my tracking robot! #3dprinting #animatronics #robotics",
+   "d": "2025-09-13",
+   "v": 85234,
+   "s": 181,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "EGkv6HqoYZk",
+   "t": "Turning a Raspberry Pi into a (Physical) Virtual Pet",
+   "d": "2025-09-26",
+   "v": 424853,
+   "s": 877,
+   "vertical": false,
+   "desc": "Get $10 Off Now! \u2192 Claim Your Flexible PCB Coupon here:\nhttps://jlcpcb.com/resources/flexible-pcb?from=willcogley\n\nDiscover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB!\nRegister to get $70 New customer coupons: https://jlcpcb.com/?from=willcogley\n\nJorvon Moss: https://www.instagram.com/odd_jayy/ \nBeta Tester Application: https://forms.gle/3tCbFegQQfzXctfF9\n\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nMy Setup/Recommendations:\n\ud83d\udca7 My Super High"
+  },
+  {
+   "id": "2Ny3UmrLlUw",
+   "t": "3D printing a virtual pet using herringbone gearsets #3dprinting #animatronics #robot",
+   "d": "2025-09-28",
+   "v": 140369,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "WcwfPH_wQxM",
+   "t": "Putting AI into my robot pet #3dprinting #animatronics #robotics #ai",
+   "d": "2025-10-02",
+   "v": 95851,
+   "s": 45,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "A3UBgg1fin4",
+   "t": "Lobotomising my AI pet robot #3dprinting #animatronics #robot #ai",
+   "d": "2025-10-06",
+   "v": 224550,
+   "s": 46,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "nam-GKPh5O4",
+   "t": "This Robot Watches You",
+   "d": "2025-10-17",
+   "v": 57988,
+   "s": 486,
+   "vertical": false,
+   "desc": "Get $10 Off Now! \u2192 Claim Your Flexible PCB Coupon here:\nhttps://jlcpcb.com/resources/flexible-pcb?from=willcogley\n\nDiscover Easy, Affordable, and Reliable PCB manufacturing with JLCPCB!\nRegister to get $70 New customer coupons: https://jlcpcb.com/?from=willcogley\n\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nFULL INSTRUCTIONS AND DOWNLOADS PACK: https://www.notion.so/nilheim-mechatronics/Halloween-Automatic-Watcher-28e24779b64d8070b0f9df3e717d537f?source=copy"
+  },
+  {
+   "id": "n3dwL-7tigs",
+   "t": "Animatronic Face Tracking Robot #3dprinting #animatronics #robot",
+   "d": "2025-10-22",
+   "v": 106313,
+   "s": 39,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "05ZGPVb7BAQ",
+   "t": "Making an animatronic watcher for Halloween #robotics #animatronics #3dprinting",
+   "d": "2025-10-23",
+   "v": 98565,
+   "s": 28,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "_hWTR_ffqMk",
+   "t": "It watches\u2026 #animatronics #robot #3dprinting",
+   "d": "2025-10-24",
+   "v": 155822,
+   "s": 31,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "eE4_FXrwuqw",
+   "t": "Who says 3D printers can\u2019t make stuff out of wood??",
+   "d": "2025-11-17",
+   "v": 88953,
+   "s": 105,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-TQieebvRzE",
+   "t": "Making my face-tracking eyemech untethered ! #3dprinting #animatronics #robotics",
+   "d": "2026-02-20",
+   "v": 997623,
+   "s": 34,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "Gyog0yW5Kuo",
+   "t": "Fixing up my printers #3dprinting #engineer",
+   "d": "2026-02-26",
+   "v": 50267,
+   "s": 94,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "uE8Washe0zA",
+   "t": "Making a 3D printed LED Tui from Avatar: The Last Airbender #animatronics #3dprinting",
+   "d": "2026-03-01",
+   "v": 135801,
+   "s": 82,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "qzNmMoFnRsY",
+   "t": "What It Took to Make This Robot Work",
+   "d": "2026-03-20",
+   "v": 39325,
+   "s": 635,
+   "vertical": false,
+   "desc": "COGLET KICKSTARTER LAUNCH: https://www.kickstarter.com/projects/willcogley/coglet-open-source-3d-printable-robot-companion-kit\n\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nPROJECT REPO and PARTS LIST: https://github.com/will-cogley/Coglet \n\nMy Setup/Recommendations:\n\ud83d\udca7 My Super High Performance Resin Printer: https://tidd.ly/3R9WHtc\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f Colour-Changing 3D P"
+  },
+  {
+   "id": "CcwiXoYx7WM",
+   "t": "Launching my Open-Source robot pet project!",
+   "d": "2026-03-20",
+   "v": 214339,
+   "s": 64,
+   "vertical": true,
+   "desc": "Now launching Coglet!"
+  },
+  {
+   "id": "k_1Paexlc_A",
+   "t": "Introducing Coglet",
+   "d": "2026-03-21",
+   "v": 58919,
+   "s": 112,
+   "vertical": false,
+   "desc": "Coglet's Kickstarter Launch! https://www.kickstarter.com/projects/willcogley/coglet-open-source-3d-printable-robot-companion-kit"
+  },
+  {
+   "id": "G8TKJH7o5Fs",
+   "t": "I'm tired of noisy servos.",
+   "d": "2026-04-24",
+   "v": 47560,
+   "s": 675,
+   "vertical": false,
+   "desc": "My New Resin Printer: https://tidd.ly/3R9WHtc\n\nResults: https://docs.google.com/spreadsheets/d/1ywg90rtMbh5Y5wNKnRR1L0QeVY-tp9ysm0P0sBzwv-Q/edit?usp=sharing\n\nCoglet Kickstarter: https://www.kickstarter.com/projects/willcogley/coglet-open-source-3d-printable-robot-companion-kit\nAll Free Projects: https://willcogley.notion.site/\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nMy Setup/Recommendations:\n\ud83d\udca7 My Super High Performance Resin Printer: https://tidd.ly/3R9WHtc\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale."
+  },
+  {
+   "id": "04pm_TBCAJw",
+   "t": "I had to redesign my robot face from scratch.",
+   "d": "2026-05-29",
+   "v": 114303,
+   "s": 751,
+   "vertical": false,
+   "desc": "Try Onshape Free \u2013 Engineers Get Up to 6 Months Pro:https://onshape.pro/WillCogley\n\nHead basemesh by Sako Sculpt: https://sketchfab.com/3d-models/stylized-female-head-demo-only-head-9ab51126ff9049969d83eaa3a4110966\n\nCAD and exclusive designs on Patreon: http://patreon.com/Will_Cogley\nAll Free Projects: https://willcogley.notion.site/\nMy Eyes, Kits and Electronics for sale: https://nmrobots.com\n\nMy Setup/Recommendations:\n\ud83d\udca7 My Super High Performance Resin Printer: https://tidd.ly/3R9WHtc\n\ud83d\udda8\ufe0f My Workhorse 3D Printer: https://shareasale.com/r.cfm?b=2377904&u=4178914&m=138211&urllink=&afftrack=\n\ud83d\udda8\ufe0f C"
+  },
+  {
+   "id": "K23XzB3Opgo",
+   "t": "There\u2019s a problem with my mouth design\u2026 #engineering #3dprinting #robotics",
+   "d": "2026-06-29",
+   "v": 2532339,
+   "s": 32,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zWYh11L62G4",
+   "t": "Designing a tiny component to make my robots stronger! #3dprinting #engineering #robotics",
+   "d": "2026-07-07",
+   "v": 84475,
+   "s": 45,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "tJOwcftuhe0",
+   "t": "Controlling my robot head - with my own face #animatronics #3dprinting #engineering",
+   "d": "2026-07-15",
+   "v": 163750,
+   "s": 51,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "zbG_u2OY1OI",
+   "t": "Making an offline and locally running backend for Coglet! #animatronics #robot",
+   "d": "2026-11-10",
+   "v": 30785,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  },
+  {
+   "id": "-adZbPYOQp0",
+   "t": "Making more compact robot joints #animatronics #robot #3dprinting",
+   "d": "2026-11-13",
+   "v": 23402,
+   "s": 29,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

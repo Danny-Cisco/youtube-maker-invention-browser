@@ -1,0 +1,171 @@
+{
+ "channel": {
+  "id": "UC4m2G6T18_JcjwxwtwKJijw",
+  "title": "samy kamkar",
+  "handle": "@samykamkar",
+  "description": "Hi! I'm Samy, and welcome to the Applied Hacking channel.\n\nI'm releasing original research, tools and videos around hacking, technology and security - typically around reverse engineering, coding, software, hardware, radio, electronics, fabrication and physical security (as in physical lock picking, not as in flying karate chops).\n\nFull source code, schematics, 3D models, and documentation will of",
+  "since": "2011-09-07",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_nYJdaIk37kU9LQ1V3HkYjR9U1TCM0fiCGOP2hUUEM3WMPL=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "10897624",
+  "subscriberCount": "202000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "17"
+ },
+ "videos": [
+  {
+   "id": "EHKV01YQX_w",
+   "t": "SkyJack - autonomous drone hacking w/Raspberry Pi, aircrack & Javascript",
+   "d": "2013-12-03",
+   "v": 541525,
+   "s": 428,
+   "vertical": false,
+   "desc": "SkyJack is a drone engineered to autonomously seek out, hack, and wirelessly take over other drones within wifi distance, creating an army of zombie drones under your control. More details below...\n\nby Samy Kamkar\n\nFULL DETAILS on SkyJack website: http://samy.pl/skyjack\nYou can support SkyJack on Suprmasv: https://www.suprmasv.com/projects/161/skyjack\n\nFollow me on Twitter: https://twitter.com/samykamkar\n\nHardware/software used:\nSkyJack: http://samy.pl/skyjack\nRaspberry Pi: http://www.raspberrypi.org/\nParrot AR.Drone 2: http://ardrone2.parrot.com/\nAircrack-ng: http://www.aircrack-ng.org/\nNode."
+  },
+  {
+   "id": "BnwBdeQB7vQ",
+   "t": "Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino and RTL-SDR",
+   "d": "2014-12-11",
+   "v": 154599,
+   "s": 2043,
+   "vertical": false,
+   "desc": "Digital Ding Dong Ditch is a device to hack into and ring my best friend's wireless doorbell whenever I send a text message to the device. More details below...\n\nSubscribe for more fun videos like this or follow me on Twitter! https://twitter.com/samykamkar\n\nIn this project, we'll learn not only how to create this device, but how to reverse engineer radio frequencies we know nothing about using RTL-SDR (a ~$14 software defined radio), as well as creating hardware and software using Arduino, the Adafruit FONA (GSM/SMS/2G board), an RF (radio frequency) transmitter to transmit custom signals, an"
+  },
+  {
+   "id": "aSLEq7-hlmo",
+   "t": "USBdriveby - exploiting USB in style",
+   "d": "2014-12-17",
+   "v": 800580,
+   "s": 601,
+   "vertical": false,
+   "desc": "USBdriveby (http://samy.pl/usbdriveby) is a device you stylishly wear around your neck which can quickly and covertly install a backdoor and override DNS settings on any unlocked machine via USB in a matter of seconds. It does this by emulating a keyboard and mouse, blindly typing things, flailing the mouse pointer around and weaponizing mouse clicks.\n\nA version for Windows and OS X is available on github.\n\nIt also evades several security measures in OS X, including hacking the accessibility settings, window positioning, overriding network settings, and disabling portions of the Little Snitch "
+  },
+  {
+   "id": "WqkmGG0biXc",
+   "t": "KeySweeper - covert Microsoft wireless keyboard sniffer using Arduino and nRF24L01+",
+   "d": "2015-01-12",
+   "v": 611106,
+   "s": 1678,
+   "vertical": false,
+   "desc": "KeySweeper (http://samy.pl/keysweeper) is a stealthy Arduino-based device, camouflaged as a functioning USB wall charger, that wirelessly and passively sniffs, decrypts, logs and reports back (over GSM) all keystrokes from any Microsoft wireless keyboards (using proprietary 2.4GHz RF) in the area.\n\nKeystrokes are sent back to the KeySweeper operator over the Internet via an optional GSM chip, or can be stored on a flash chip and delivered wirelessly when a secondary KeySweeper device comes within wireless range of the target KeySweeper. A web based tool allows live keystroke monitoring.\n\nKeySw"
+  },
+  {
+   "id": "09UgmwtL12c",
+   "t": "Break open any Master Combo Lock in 8 tries or less!",
+   "d": "2015-04-28",
+   "v": 4104543,
+   "s": 380,
+   "vertical": false,
+   "desc": "Crack open any Master combination lock in 8 combinations or less! This online tool and new technique will allow you to learn the combination of any Master combo lock with only eight attempts maximum:\nhttps://samy.pl/master/\n\nBy Samy Kamkar\n\n2nd part (explanation) here: https://youtu.be/qkolWO6pAL8\n3rd part (Motorized Combo Breaker) here: https://youtu.be/YcpSvHpbHQ4\n\nWHY NOT A SHIM?\nShimming is an awesome technique for quickly opening older locks, however all of the newer Master combination locks don't allow shimming: http://www.masterlock.com/business-use/locker-blockguard\nAlso, using this te"
+  },
+  {
+   "id": "qkolWO6pAL8",
+   "t": "Explanation of cracking a combo lock in 8 attempts or less!",
+   "d": "2015-05-11",
+   "v": 530429,
+   "s": 1581,
+   "vertical": false,
+   "desc": "In this follow-up video I go over the full details of cracking open any Master combination lock in 8 tries or less. In my previous video, I provided a simple online tool to crack open any Master combination lock in 8 combinations or less! This new technique will allow you to learn the combination of any Master combo lock with only eight attempts maximum:\nhttp://samy.pl/mastervuln/\n\nOnline calculator: http://samy.pl/master/\n\nBy Samy Kamkar\n\nFirst part here: http://youtu.be/09UgmwtL12c\nThird part coming soon!\n\nQuestions? Leave a comment below!\n\nSubscribe to my channel for more Applied Hacking vi"
+  },
+  {
+   "id": "YcpSvHpbHQ4",
+   "t": "Combo Breaker - motorized combo lock cracking device",
+   "d": "2015-05-14",
+   "v": 1627620,
+   "s": 735,
+   "vertical": false,
+   "desc": "C-C-C-Combo Breaker is a motorized, battery powered, 3D printed, Arduino based device that can crack any Master combination lock in less than 30 seconds! http://samy.pl/combobreaker/\n\nBy Samy Kamkar\n\nSubscribe to my channel for more Applied Hacking videos: https://www.youtube.com/subscription_...\nFollow me on Twitter: https://twitter.com/samykamkar\nJoin my mailing list: http://samy.pl/list/\n\nMusic by Darin Leach & Samy Kamkar (Epoch Rises https://www.youtube.com/c/epochrises/)\nIntro graphics by Darin Leach: https://darinleachgraphics.com\n\nAll hardware and software linked to from:\nhttp://samy.p"
+  },
+  {
+   "id": "xcUpg-qAJ74",
+   "t": "Protecting against garage hacking",
+   "d": "2015-06-04",
+   "v": 134975,
+   "s": 150,
+   "vertical": false,
+   "desc": "Protect yourself against common garage hacking techniques and the OpenSesame attack.\n\nhttp://samy.pl/opensesame/\nby Samy Kamkar"
+  },
+  {
+   "id": "iSSRaIU9_Vc",
+   "t": "OpenSesame - hacking garages in seconds using a Mattel toy",
+   "d": "2015-06-04",
+   "v": 526758,
+   "s": 674,
+   "vertical": false,
+   "desc": "OpenSesame is a device that can wirelessly open virtually any fixed-code garage door in seconds, exploiting a new attack I've discovered in many wireless garages and gates. Using a child's toy from Mattel. http://samy.pl/opensesame\n\nBy Samy Kamkar\n\nCan exploit *some* garages from: Liftmaster, Chamberlain, Stanley, Nortek, Linear, Multi-code, NSCD/North Shore commercial Door, Delta-3, Moore-O-Matic\n\nAre you vulnerable? More details and writeup at http://samy.pl/opensesame\n\nMusic by Darin Leach & Samy Kamkar (Epoch Rises https://www.youtube.com/c/epochrises/)\nIntro graphics by Darin Leach: https"
+  },
+  {
+   "id": "xcA7iXSNmZE",
+   "t": "Unlocking Motion-Sensor Secured Doors With Air Duster",
+   "d": "2015-07-08",
+   "v": 202893,
+   "s": 120,
+   "vertical": false,
+   "desc": "Unlocking Motion-Sensor Secured Doors With Air Duster (Canned Air)\n\nby Samy Kamkar (read more...)\n\nAfter testing various methods purportedly used to defeat motion sensors that are used to unlock doors, I found none of the methods documented on the Internet or that I heard about actually work. After performing my own research, I discovered a new technique that actually does work, and is simple and inexpensive -- using air duster (canned air) to set off the PIR (passive infrared) motion sensor from the outside.\n\nThe straw of these cans easily slips through most doors and allows you to aim the ca"
+  },
+  {
+   "id": "3olXUbS-prU",
+   "t": "OwnStar - hacking cars with OnStar to locate, unlock and remote start vehicles",
+   "d": "2015-07-30",
+   "v": 266471,
+   "s": 120,
+   "vertical": false,
+   "desc": "OwnStar is a device that can locate, unlock and remote start any vehicle with OnStar RemoteLink after intercepting communication between the RemoteLink mobile app and OnStar servers. It can also unlock (and more) BMW Remote, Mercedes-Benz mbrace, Chrysler Uconnect, and Viper SmartStart. More technicals details to come at Defcon and in a future video.\n\nSince my communications with GM, GM/OnStar have resolved this issue for more than 3 million RemoteLink users!\n\nRead more: http://www.wired.com/2015/07/patch-gm-onstar-ios-app-avoid-wireless-car-hack/\n\nBy Samy Kamkar\n\nMusic by Darin Leach & Samy K"
+  },
+  {
+   "id": "UHSFf0Lz1qc",
+   "t": "MagSpoof - magnetic stripe spoofer / credit card magstripe emulator",
+   "d": "2015-11-24",
+   "v": 464853,
+   "s": 320,
+   "vertical": false,
+   "desc": "MagSpoof is a device that can spoof/emulate any magnetic stripe or credit card *wirelessly*.\n\nFull details at https://samy.pl/magspoof/\n\nBy Samy Kamkar\n\n- Allows you to store all of your credit cards and magstripes in one device\n- Works on traditional magstripe readers wirelessly (no NFC/RFID required)\n- Can disable Chip-and-PIN\n- Correctly predicts Amex credit card numbers + expirations from previous card number\n- Supports all three magnetic stripe tracks, and even supports Track 1+2 simultaneously\n- Easy to build using Arduino or other common parts\n\nMusic by Darin Leach & Samy Kamkar (Epoch "
+  },
+  {
+   "id": "Aatp5gCskvk",
+   "t": "PoisonTap - exploiting locked machines w/Raspberry Pi Zero",
+   "d": "2016-11-16",
+   "v": 871417,
+   "s": 323,
+   "vertical": false,
+   "desc": "PoisonTap - siphons cookies, exposes internal router & installs web backdoor (reverse tunnel) on locked/password protected computers with a $5 Raspberry Pi Zero and Node.js. https://samy.pl/poisontap/\n\nBy Samy Kamkar\n\nFull details and source code at https://samy.pl/poisontap/\n\nBuy a Raspberry Pi Zero here: https://amzn.to/2eMr2WY\nBuy cement for your USB ports here: https://amzn.to/2fX0I1e\n\nWhen PoisonTap (Raspberry Pi Zero & Node.js) is plugged into a locked/password protected computer (Windows, OS X or Linux), it:\n- emulates an Ethernet device over USB (or Thunderbolt)\n- takes over all Intern"
+  },
+  {
+   "id": "Xnb2rDMiwVo",
+   "t": "Lollapawlowski 2018",
+   "d": "2019-03-03",
+   "v": 16126,
+   "s": 97,
+   "vertical": false,
+   "desc": "Wireless, LED balloon network designed, fabricated and executed for our friend's birthday!\n\nCreated by Samy Kamkar, Alex Huf, Dylan Caponi and help from so many others!\nMusic by Epoch Rises\nVideo edited by David Zoeller\nCode @ https://github.com/samyk/bgrid\nHackaday Supercon talk on design and implementation @ https://youtu.be/1NBNrgTEwq0\nHackaday article: https://hackaday.com/2019/01/24/samy-kamkars-led-balloon-network/"
+  },
+  {
+   "id": "yL4SHtTE3Ik",
+   "t": "Sputter chamber v1; first test",
+   "d": "2020-01-19",
+   "v": 35897,
+   "s": 23,
+   "vertical": true,
+   "desc": "First attempt at magnetron sputtering. Variable high voltage DC supplied by 120VAC to variac to MOT (1:59) to diode, max output ~7kV, though 30 amp fuse on variac blows before getting that high. Vacuum from two-stage rotary vane pump (soon to be the roughing pump to a turbomolecular pump). I hid behind an acrylic sheet the entire time in fear of implosion."
+  },
+  {
+   "id": "eejDS2FBOtU",
+   "t": "laser gradient in glass",
+   "d": "2026-06-03",
+   "v": 4438,
+   "s": 13,
+   "vertical": true,
+   "desc": "#lasers #glass #gradient #notEL #sharks"
+  },
+  {
+   "id": "ol9q6mtPqq4",
+   "t": "ESP32 self balancing cube",
+   "d": "2026-07-13",
+   "v": 3451,
+   "s": 30,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

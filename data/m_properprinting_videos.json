@@ -1,0 +1,882 @@
+{
+ "channel": {
+  "id": "UCqfMW0tMZEciSXQym8x0EoQ",
+  "title": "Proper Printing",
+  "handle": "@properprinting",
+  "description": "My name is J\u00f3n Schone and I come up with crazy ideas which I try to make real. You won't guess my next project ;) For business inquiries, use the email below. Visit my website to download my designs and get more information about my projects!\n",
+  "since": "2019-02-01",
+  "avatar": "https://yt3.ggpht.com/OUGqY_qYNC44rMqRwg0yIBFvIz7m5H2T4yFrU7xmQiSPIaQhl4yROsyCDPUAOUyLXdfyeINmnIg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "9893550",
+  "subscriberCount": "147000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "96"
+ },
+ "videos": [
+  {
+   "id": "oK3877cbBeM",
+   "t": "Turn your Creality printer into a multitool machine!",
+   "d": "2019-02-10",
+   "v": 60815,
+   "s": 448,
+   "vertical": false,
+   "desc": "In this video I explain one of my latest designs which turns a Creality CR-10 printer into a multitool machine. With this upgrade it is possible to easily remove the nozzle and place another tool e.g. a laser engraver. I show how I came up with this design, how this upgrade is placed onto the printer and what can be done with  it. In future videos I will go further into details about the tools I have added to the printer.\n\nPlease consider buying me a coffee if you liked it or helped you :) http://ko-fi.com/properprinting/ I place photos of the projects I am working on here too at random to get"
+  },
+  {
+   "id": "NSKOwG8NA9Y",
+   "t": "Creality 3D printer equipped with laser cutter",
+   "d": "2019-02-24",
+   "v": 49585,
+   "s": 592,
+   "vertical": false,
+   "desc": "In this video I show how I use the generic tool holder which I have created earlier to add a laser engraver to my Creality CR-10 printer. I found out that the black XPS plates I had left from my old apartment which are used for subflooring are perfect for cutting with a low energy laser. I created several things with this material which came out great. A friend of mine asked me if I wanted to cut out something for him too and since I was planning on creating a video about the laser engraver, this could be well combined. He unintentionally sent a non-perfect picture which makes it a bit more in"
+  },
+  {
+   "id": "MZT0NriuEUg",
+   "t": "Fully mechanical camera slider",
+   "d": "2019-03-09",
+   "v": 5472,
+   "s": 606,
+   "vertical": false,
+   "desc": "This video shows an 'in between' project of a camera slider. I want to make my upcoming videos more interesting and decided to make a simple camera slider. I used a microphone stand which I had at hand and used that as a guide.\n\nWhy making this fully mechanical? Well, you don't need a power source, I was lazy and did not want to make something with a motor and controller and I think this mechanical solution is much cooler. I wanted to learn more about the mechanics and apply it to something new.\n\nPlease consider buying me a coffee if you liked it or helped you :) http://ko-fi.com/properprintin"
+  },
+  {
+   "id": "TXb9_Z33lzE",
+   "t": "Arduino camera slider using a microphone stand",
+   "d": "2019-03-23",
+   "v": 2302,
+   "s": 796,
+   "vertical": false,
+   "desc": "This video is again about camera sliding, but this time electronically with an Arduino UNO and a stepper motor. With this slider it is possible to move a lot slower than with the mechanical version. Another advantage is that it is possible to make a longer slide because the stepper motor can rotate continuously. However, the driver is getting very hot and I have solved this with a fan but a heat sink will probably do too.\n\nMore information and downloads can be found here: https://www.thingiverse.com/thing:3511794\n\nThe datasheet of the driver can be found here: https://reprapworld.nl/datasheets"
+  },
+  {
+   "id": "7eTGU4crL_s",
+   "t": "Swappable hot end for Creality CR-10",
+   "d": "2019-04-07",
+   "v": 45889,
+   "s": 994,
+   "vertical": false,
+   "desc": "I started my 3D printer upgrade series with the quick tool change which is still one of my coolest upgrades. However, it missed something because if you change to a different tool, you always have to place the hot end somewhere. With the swappable hot end it is possible to disconnect the whole hot end like the Ultimaker printers. Another advantage of this, besides being able to disconnect your hot end, is that you can use different hot ends for different materials or nozzle diameters. If you use a laser engraver, you don't have to add an extra wire or switches to your control board and you can"
+  },
+  {
+   "id": "S5HZwtHooxw",
+   "t": "Swap to laser engraving easily and align it properly on Creality CR-10",
+   "d": "2019-04-21",
+   "v": 27788,
+   "s": 869,
+   "vertical": false,
+   "desc": "In this video I explain how I add a laser engrave to the quick tool change I have created in an earlier video. This is not the first video about laser engraving, but I have used the connection I used with the swappable hot end from my previous video. This means that with this upgrade you can add a laser engraver without having to add an extra cable from the main board or create something with a switch!\n\nI found out that it is possible to laser engrave carbon fiber reinforced nylon filament so the second part of this video shows how it is aligned properly to make this happen. As always, feel fr"
+  },
+  {
+   "id": "IUkSgJZ2wS8",
+   "t": "The cheapest build surface ever! Will it work??",
+   "d": "2019-05-03",
+   "v": 14040,
+   "s": 683,
+   "vertical": false,
+   "desc": "I was busy making the preparations for my next video and I came up with an idea which turned into a whole new video! I had to come up with a method to fixate things on the printer in order to engrave of mill them. I use plywood for this and started wondering if it would be possible to print on it. If this is the case, you probably have the cheapest print surface ever!\n\nSo, I went to the hardware store and bought some sheets, had it sawn to the right dimensions. You will find out in this video if I have any luck with it or not. Enjoy watching!\n\nPlease consider buying me a coffee if you liked it"
+  },
+  {
+   "id": "OSVu7QtVRYo",
+   "t": "DIY PCB on Creality 3D printer",
+   "d": "2019-05-19",
+   "v": 25360,
+   "s": 1173,
+   "vertical": false,
+   "desc": "In this video I show how I create a double sided PCB on my Creality CR-10 without having to drill alignment holes. I use a t-slot plate for this purpose so it is very easy to flip the board. I have found out that I have not mastered PCB creation yet, but this is a skill I definitely want to acquire! So, I am always open to suggestions so we can learn from each other!\n\nPlease consider buying me a coffee if you liked it or helped you :) http://ko-fi.com/properprinting/ I place photos of the projects I am working on here too at random to get you excited with what has to come!\nThe link to my websi"
+  },
+  {
+   "id": "UNBvk5W7Cs8",
+   "t": "DIY PCB on Creality printer and nailed it!?",
+   "d": "2019-06-01",
+   "v": 23643,
+   "s": 750,
+   "vertical": false,
+   "desc": "In this video I'll show you how I create a double sided PCB with my Creality CR-10 printer without using alignment holes. This is a follow up of my previous video in which I did not succeed fully. I have learned a lot making that video and I use that gained knowledge in this one.\n\nI have had a lot of fun making a PCB on the printer and I will definitely do this more often. I highly recommend to try this yourself if you want to do more than just 3D printing. Remember to do this at your own risk, but I am always willing to give advice. Don't hesitate to leave a comment or contact me if you have "
+  },
+  {
+   "id": "F6G9xlVzEoU",
+   "t": "Unclog your hot end with this cheap simple tool",
+   "d": "2019-06-06",
+   "v": 4604,
+   "s": 126,
+   "vertical": false,
+   "desc": "My E3D v6 hot end was clogged and it turned out that this was due to my retraction distance which was way too high. It was 5mm and a maximum of 2mm is recommended by E3D. But, I still had to unclog this hot end and I used to do this with a 1.5mm drill. This did not destroy my previous hot end, but I did not feel right.\n\nI found a piece of electrical wire with a solid core and this turned out to work perfect! So, if you have a piece lying around somewhere than I definitely recommend making one yourself just in case this comes in handy.\n\nI am planning to make more of these short 'in between' vid"
+  },
+  {
+   "id": "z_MdPX7IDxE",
+   "t": "Turn your Creality printer into a drawing machine!",
+   "d": "2019-06-15",
+   "v": 16653,
+   "s": 684,
+   "vertical": false,
+   "desc": "In this video I show how I turn my Creality CR-10 printer into a drawing machine. Unlike most pen holders I have seen, this one is activated using a solenoid. This way it is possible to control it quite similar to controlling a laser cutter. The solenoid is, like the laser cutter, controlled by the part end fan connection. This worked as well as I could have hoped for and I will definitely experiment more with this!\n\nThe drawing I have used is made by a good friend of mine who is a tattoo artist. He made this drawing especially for me to use for this video. He does not have a site yet, but onc"
+  },
+  {
+   "id": "Fv-dRYbWrd4",
+   "t": "Ender 3 pro build: Starting off properly",
+   "d": "2019-06-29",
+   "v": 20864,
+   "s": 754,
+   "vertical": false,
+   "desc": "I have finally bought an Ender 3! My goal is to turn this printer into a production machine which is as accurate and reliable as possible and is able to print engineering materials. In this video I show a couple of steps which I think is important to start with which is building it as accurate as possible. I think that all steps done correctly turns out in better results later on.\n\nThe video I have used to get this thing assembled properly is: https://youtu.be/me8Qrwh907Q\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral link to support me: https://www.epidemic"
+  },
+  {
+   "id": "nBVrcIZ095Y",
+   "t": "Ender 3 pro dual Z axis",
+   "d": "2019-07-14",
+   "v": 91515,
+   "s": 811,
+   "vertical": false,
+   "desc": "To make the frame of the Ender 3 pro even stiffer, I designed a dual Z axis. I have combined this with the Z braces of my previous video. None of the components need to be modified for this upgrade. The 300mm lead screw is exactly long enough and the 696mm closed loop timing belt together with the 60 teeth pulleys have a center distance which is the same as the two vertical beams. All parts are bought from RepRapWorld.\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral link to support me: https://www.epidemicsound.com/referral/jcsbjz/\n\nPlease consider buying me "
+  },
+  {
+   "id": "gHDfA-dlWj4",
+   "t": "First world problems solved with 3D printing: Fly swatter",
+   "d": "2019-07-18",
+   "v": 6860,
+   "s": 151,
+   "vertical": false,
+   "desc": "This fly swatter newspaper handle is something I have designed quite random and it turned out great I think. This is my first print in place I have designed which works like a charm! I have had the most fun creating and editing this video which is part of a new playlist in which I solve first world problems with 3D printing.\n\nPlease consider buying me a coffee if you liked it or helped you :) http://ko-fi.com/properprinting/ I place photos of the projects I am working on here too at random to get you excited with what has to come!\nThe link to my website: https://properprinting.pro/\n\n\nYou can f"
+  },
+  {
+   "id": "X9nnP1qhM_s",
+   "t": "Ender 3 pro power supply mod and some safety tips",
+   "d": "2019-07-27",
+   "v": 58197,
+   "s": 588,
+   "vertical": false,
+   "desc": "My last video about the dual Z axis upgrade has an open ending. I simply forgot to place the power supply back and it was not possible to put it back in the original position. There are some power supply mods out there for the Ender 3, but I could not find one which worked good enough for me so I designed my own.\n\nThe idea behind this design is that the air output and power input are on the back, which I think is the best location, to make it work with the enclosure I want to make soon. I had to invent some side approach t-slot nuts to make it stiffer. You don't need much for this upgrade, jus"
+  },
+  {
+   "id": "bCjokSxoqAI",
+   "t": "Ender 3 pro enclosure build: the frame",
+   "d": "2019-08-16",
+   "v": 22041,
+   "s": 784,
+   "vertical": false,
+   "desc": "In this video I show how I build an enclosure for the Creality Ender 3 pro. This will not be an IKEA or other furniture, Tupperware, photo studio tent solution. Maybe this is a bit overkill, but I am sure this is well worth the effort. This video covers the build of the wire frame and due to the amount of work and information I decided to split the video into two videos. The second video will be about adding the panels and other cool stuff. At the moment of writing my CR-10 is printing the parts needed for this second video so it is a bit tricky to announce it already but I am convinced that t"
+  },
+  {
+   "id": "awXJVp4Ovig",
+   "t": "Ender 3 pro enclosure build: the rest",
+   "d": "2019-08-31",
+   "v": 19725,
+   "s": 940,
+   "vertical": false,
+   "desc": "This is the follow up video off the Ender 3 pro enclosure build. I show how I add the panels, lighting and the rest to finish this. I must warn you that if you want to do the same you must be prepared for a LOT of work. This build is a bit insane and I've done more than I intended to do but I am very pleased with the result. Sometimes you have to let your creative (wicked) mind go and make the most out of it. The major advantage of this design besides the aesthetics is that the whole unit is will one piece and that the power supply is placed outside the chamber.\n\nI have posted this as a thing "
+  },
+  {
+   "id": "IIns6btekOs",
+   "t": "Printing (carbon fiber) Nylon on an Ender 3",
+   "d": "2019-09-15",
+   "v": 88023,
+   "s": 1118,
+   "vertical": false,
+   "desc": "In this video I show what I've done to get my Ender 3 pro to print Nylon and carbon fiber reinforced Nylon. Nylon is pretty slippery and the carbon is abrasive which require some upgrades. It is very important not to print these materials with a stock setup which cannot handle the heat and you will be in for some disappointments. My method of preparing a filament (food) dryer is a bit experimental and it worked! I hope you enjoy watching this video and maybe get some inspiration.\n\nHere is the link to the blog post regarding that worn out extruder gear I mentioned in this video https://properpr"
+  },
+  {
+   "id": "l2g5hXd9vDU",
+   "t": "7 household items you can possibly use as build plate",
+   "d": "2019-09-29",
+   "v": 7448,
+   "s": 898,
+   "vertical": false,
+   "desc": "In this video I perform an experiment in which I'm going to find out which of the 7 household items I found in and around the house can be used as build plate. I use my Ender 3 pro with an enclosure and I print with PLA, PETG, ABS and Nylon with carbon. It was a lot of fun to do and I learned a lot during this experiment. I even came up with a new idea which I show at the end of the video.\n\nBe aware that experiments like these do not come without risk so use common sense if you want to do similar experiments. I cannot be held responsible if you destroy your printer or burn your house down.\n\nIt"
+  },
+  {
+   "id": "9yjT9ZjxFFE",
+   "t": "Home on anything with any tool automatically on an Ender 3 pro",
+   "d": "2019-10-19",
+   "v": 42594,
+   "s": 1025,
+   "vertical": false,
+   "desc": "In this video I show an alternative homing method which is a bit similar to the BLTouch. This method uses a modified quick tool change base and its possible to home on any surface of any thickness with any tool with just an ordinary homing switch.\n\nI start the video with that I think I have something better than the BLTouch. I haven't even seen one in real life, let alone used it, so there's no way for me to be sure about this. Based on what I have seen I think that this method works better for my situation, but please leave a message if you think differently :)\n\nVideos and posts I have watche"
+  },
+  {
+   "id": "Kl1DHmVYVvU",
+   "t": "Thanks for 1000 subscribers!!",
+   "d": "2019-10-26",
+   "v": 3070,
+   "s": 409,
+   "vertical": false,
+   "desc": "I never have thought to reach this milestone of 1000 subscribers after 9 months and 21 videos! I have filmed almost everything with a simple JVC camera to see if YouTube is actually something for me. I sad to myself that I must reach 1000 subscribers before I'm buying a new camera. Thanks to you I've reached this and now I'm shooting with a Canon 80D. I still have to figure this thing out but the footage looks stunning compared to what I'm used to.\n\nIn this video I show why I started YouTube and the main reason is to get out of my comfort zone. It sometimes feels a bit awkward talking to the c"
+  },
+  {
+   "id": "I-izkShIDXU",
+   "t": "Design and print a custom connector for the Creality printer with swappable hot end",
+   "d": "2019-11-17",
+   "v": 61758,
+   "s": 1007,
+   "vertical": false,
+   "desc": "In this video I show how I design a custom connector for my swappable hot end I use on my Creality CR-10 and Ender 3 pro. This is basically a modified D-sub connector housing in which I can add whatever I like. For example a bowden tube coupler, the shell or even the whole holder! I've printed a modified Molex connector a while ago at my work and that's where this idea came from. I think it would be interesting to upload different connector segments so you can design your own connector.\n\nI'm going to take a further look into the necessary tools for crimping and inserting the connections itself"
+  },
+  {
+   "id": "6GTCkd7rDe4",
+   "t": "Foldable Ender 3 pro",
+   "d": "2019-11-30",
+   "v": 81229,
+   "s": 1104,
+   "vertical": false,
+   "desc": "This is a start of a video series in which I'm going to upgrade and Ender 3 pro in an unusual way. In this video I show how I turn an Creality Ender 3 pro into a foldable printer. I have been looking forward on starting this project for a long time! I had to replace the display and power supply and I have uploaded these modifications to my website together with the foldable mechanism. I hope you enjoy this video!\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral link to support me: https://www.epidemicsound.com/referral/jcsbjz/\n\nPlease consider buying me a coff"
+  },
+  {
+   "id": "YfDWs5B-fYA",
+   "t": "Proper cable management for my Ender 3 pro",
+   "d": "2019-12-29",
+   "v": 81276,
+   "s": 903,
+   "vertical": false,
+   "desc": "In this video I show how I do some proper cable management on my Creality Ender 3 pro. The challenge here is to get the foldable mechanism to work with this. I've designed and printed a cable chain to make everything nice and tight. I was unable to find source files of a cable chain which were of my liking so I designed my own. This enables me to make modified links, including one with a custom connector for my print bed and place this on my website. \n\nThe files can be found here: https://properprinting.pro/product/cable-management-for-the-foldable-ender-3-pro/\n\nMusic from Epidemic sound. Want"
+  },
+  {
+   "id": "SJBIVYTattk",
+   "t": "Properly controlling an Ender 3 pro with a LattePanda print server",
+   "d": "2020-01-18",
+   "v": 38275,
+   "s": 1127,
+   "vertical": false,
+   "desc": "In this video I show how I add a print server to my Ender 3 pro with a LattePanda. A LattePanda is, in contradiction to a Raspberry Pi, a full-fledged computer with an Intel 64bit CPU running on Windows 10. It comes with an Arduino co-processor which can be used to control all kinds of hardware. Together with a Gravity shield it's possible to add certain modules directly to control all kinds of things.\nMy intention was to use an Arduino print monitor and act upon the different states of the printer and control the hardware to shut down the printer automatically. I wasn't able to pull this off "
+  },
+  {
+   "id": "n36JhA_yFhQ",
+   "t": "Detachable flexible direct drive for the Ender 3",
+   "d": "2020-02-09",
+   "v": 48708,
+   "s": 819,
+   "vertical": false,
+   "desc": "In this video I show how I add a direct drive system with a flexible shaft from Flex3drive. Because this is an open source system it's possible to make modifications. I've made one by making this system detachable with the use of a standard m5 hexagon bolt. At first I wanted to make a custom connector with this coupling system embedded but I quickly found out that it's simpler to use a different connector for the wiring. The reason for me to make it detachable is to add tools which can benefit from this system which I'm going to make my upcoming video about.\n\nThe kit I've bought for this video"
+  },
+  {
+   "id": "3R2sExPyiok",
+   "t": "Why did I blow up my stepper motor driver of my Ender 3?",
+   "d": "2020-03-05",
+   "v": 45718,
+   "s": 1130,
+   "vertical": false,
+   "desc": "In this video I go a bit deeper into what happened in my previous video in which I blew up my stepper motor driver. I got several comments from people with similar experiences and I think it's interesting what is going on in that small package. This is a first time more explanatory video for me and I hope you like it. Please let me know if you have any questions or suggestions regarding this subject.\n\n\nThe datasheet from the A4988 stock stepper driver: https://pdf1.alldatasheet.com/datasheet-pdf/view/455036/ALLEGRO/A4988.html\nThe datasheet from the TMC2209 driver: https://www.trinamic.com/file"
+  },
+  {
+   "id": "LpT_Udf0geA",
+   "t": "Printing food with an Ender 3 pro",
+   "d": "2020-03-22",
+   "v": 40569,
+   "s": 1065,
+   "vertical": false,
+   "desc": "In this video I show how I build and test a tool which makes it possible to print food on an Ender 3 pro. This turned out pretty challenging and I managed to get it working, but it needs a redesign. I've learned a lot from this experience and I had a lot of fun making this video! I hope you enjoy this one!\n\n\nThe parts can be downloaded from my website https://properprinting.pro/product/food-dispenser/ I still have to improve this design, but I've added the Fusion file too so you can tinker with it yourself :)\n\n\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral "
+  },
+  {
+   "id": "jKG6umjgve0",
+   "t": "Hand soap upgrade! Another first world problem solved.",
+   "d": "2020-03-31",
+   "v": 8168,
+   "s": 107,
+   "vertical": false,
+   "desc": "In this video I show the problem I faced due to the amount of hand washing lately. I was tired of refilling that hand soap so I designed and printed an adapter which fits directly into the refill packaging. What a bless! Another first world problem solved with 3D printing! Enjoy this short video!\n\n\nI haven't uploaded the design, but you can always contact me and I send it to you :)\n\n\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral link to support me: https://www.epidemicsound.com/referral/jcsbjz/\nPlease consider buying me a coffee if you liked it or helped yo"
+  },
+  {
+   "id": "x9ykUgEfBrI",
+   "t": "Project Rim: insane 3D printing project!",
+   "d": "2020-04-04",
+   "v": 17853,
+   "s": 483,
+   "vertical": false,
+   "desc": "In this video I announce my upcoming 3D printing project which I'll be working on. I'm going to make some slight changes among them a new camera angle and setup (which is as the moment of typing still under construction) and I'm going to take on larger projects. These larger projects are daunting and I'm going to make it happen (hopefully) with 3D printing.\n\nThe upcoming videos will be about 3D printing rims for a car and to test them. In order to make this happen I need a car and a 3D printer capable of printing such things. I've bought a Creality CR-10 S5 which is HUGE and I have to make thi"
+  },
+  {
+   "id": "zjXgxJJmE4U",
+   "t": "Why not move the PORTAL instead of the BED?",
+   "d": "2020-04-17",
+   "v": 116762,
+   "s": 958,
+   "vertical": false,
+   "desc": "This video is my first upgrade for the CR-10 S5 which I'm going to use to print rims. In order to get this done I need to make an enclosure. To make this as small as possible I decided to make a what I thought would be a coreXY printer, but actually is called a moving portal printer out of it. I don\u2019t think it will reach the famous speeds a \u201creal\u201d coreXY printer can reach, but it definitely doesn\u2019t have to move as much weight as a Cartesian style printer has to do. This mod is relatively simple and uses mostly parts already used for moving the bed and 3D printed parts. It's reversible too so i"
+  },
+  {
+   "id": "yDLrBVVPX2g",
+   "t": "Moving portal printer torture test, how does it perform?",
+   "d": "2020-04-26",
+   "v": 52292,
+   "s": 1025,
+   "vertical": false,
+   "desc": "In this video I'm going further into detail about my previous mod in which I'm making a moving portal machine (no, not a CoreXY). I'm going to find out how it performs by torture testing it at different frequencies to find its resonance frequency and see how far it will flex.\nHopefully you'll learn a thing or two about it, I certainly did, and have fun watching it!\n\nCheck Tomas Haugen's Ymir project https://twitter.com/3DPrintViking/status/1249460236735348738\nThe video by CNC kitchen I used: https://youtu.be/Ws1JfHl3Y0o\nThe link to the app I used: https://phyphox.org/\nThe mod can be downloaded"
+  },
+  {
+   "id": "S-iXgfNfexU",
+   "t": "51 pin custom connector printed with the Anycubic Photon S resin printer",
+   "d": "2020-05-09",
+   "v": 36457,
+   "s": 852,
+   "vertical": false,
+   "desc": "This video shows the process of making a custom connector printed with the Anycubic Photon S I received recently. This is not a review video, but a video in which I show what I would do with such a printer. I think that this technique is very interesting for printing custom connectors like this and I'm far from exploring on this subject. The connector I designed and printed in this video will be capable of connecting and disconnecting anything of a whole CR-10 printer, including the BLTouch and filament run-out sensor.\nThanks Anycubic for sending this printer! I can definitely recommend it!\n\nM"
+  },
+  {
+   "id": "GUS_Uqzaf8g",
+   "t": "Controlling an enclosure heater and silicon bed heater with a Duet board.",
+   "d": "2020-05-23",
+   "v": 30382,
+   "s": 924,
+   "vertical": false,
+   "desc": "In this video I show the process of controlling a 1000W enclosure heater and 1000W bed heater with a Duet board. This might be a bit overkill, but now I'm sure I'm going to get that enclosure up to temperature. Hardware wise everything works so I can add this and connect everything once my enclosure parts arrive. I still have to fine-tune the PID and I'm going to do that once everything is built in. I hope you enjoy watching this video and let me know if you have any questions or suggestions!\n\nThe live feed with Creality: https://youtu.be/T8zv4TOwh6o\n\nThe sources I used:\nhttps://configtool.rep"
+  },
+  {
+   "id": "jkHAWxU8BfE",
+   "t": "Using Fusion 360 generative design to design a full-sized 3D printable rim",
+   "d": "2020-06-06",
+   "v": 23166,
+   "s": 1113,
+   "vertical": false,
+   "desc": "In this video I show how I use generative design in Autodesk Fusion to design a full-sized 3D printable rim to put under my Mercedes. This video is a bit different because I show more in depth the design process. I haven't rehearsed this so I'm sometimes figuring it out for myself, but I think the result is awesome. It's definitely beyond my expectation and I hope you're enjoying it!\n\nChapters:\n0:00 Introduction and warming up\n2:05 Manual design\n10:30 Generative design\n13:25 Picking the best outcome\n15:57 Finishing the design\n\nThe video I used as a reference for generative design is this one: "
+  },
+  {
+   "id": "onGIa0Rgoi4",
+   "t": "How I made my own water cooling blocks and a added water cooled DyzeDesign pro hotend.",
+   "d": "2020-07-03",
+   "v": 112542,
+   "s": 1131,
+   "vertical": false,
+   "desc": "In this video I show how I add a DyzeDesign water cooled direct drive system to my CR-10 S5 with a huge 1.2mm nozzle. Because I didn\u2019t have enough room for cooling blocks to cool the stepper motors I decided to make my own. I came with the idea to make them out of the back parts themselves and it came out pretty good. This whole process is shown and I hope you enjoy this video.\nThanks DyzeDesign for sending this water cooled hot end, it\u2019s an awesome quality product!\n\nMore information about this product can be found here: https://dyzedesign.com/\n\nChapters:\n0:00 Introduction\n5:00 Making the heat"
+  },
+  {
+   "id": "xjGgm9f-2xk",
+   "t": "Trying to put a Creality Ender-3 V2 together while being blindfolded",
+   "d": "2020-07-19",
+   "v": 6412,
+   "s": 1574,
+   "vertical": false,
+   "desc": "This video is a bit different from what I usually do and it's a bit of an experiment. I always wanted to know if I would be able to put something like a 3D printer, in this case the Creality Ender-3 V2, together while being blindfolded. It's a lot harder than I imagined and I came in touch with different problems than I initially thought (like not wearing shoes). I hope you enjoy watching my struggle and please let me know if you like this kind of content or not. Have a nice day!\n\n\nMusic from Epidemic sound. Want a subscription yourself? Please use this referral link to support me: https://www"
+  },
+  {
+   "id": "b4LytO6cOX4",
+   "t": "I made an INSANE enclosure out of LASER CUT SHEET METAL!",
+   "d": "2020-07-31",
+   "v": 22159,
+   "s": 1044,
+   "vertical": false,
+   "desc": "In this video I start working on that enclosure I\u2019ve been telling about. I wanted to make a simple enclosure, but then I started designing one out of sheet metal. 247TailorSteel was willing to make and send the parts made out of laser cut aluminum. The design is pretty daunting to make, but they\u2019ve managed to do it! Everything fits and I\u2019m still blown away by the result. I really hope you enjoy this video!\nMore information about 247TailorSteel can be found here: https://www.247tailorsteel.com/\n0:00 Introduction\n\n2:18 Unpacking and showing the idea\n6:30 \"Popping\" it together\n7:30 Explanation of"
+  },
+  {
+   "id": "VRiOiSfkJDw",
+   "t": "Is it possible to destroy a 3D printer by moving the axes by hand?",
+   "d": "2020-08-16",
+   "v": 23337,
+   "s": 476,
+   "vertical": false,
+   "desc": "In this video I show if it's possible to destroy a 3D printer by moving the axes by hand. For this experiment I use my old Anet A8 because that's the best thing I can do with this printer xD. The reason for this experiment is that I got several comments from people saying that it's not smart to move your axes by hand because it might destroy your main board. I hope that this video gives a bit of insight about this phenomenon.\n\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\nAnd special thanks to my highest tiers:\n- The 3D printing Belgian https://twitter.com/3D"
+  },
+  {
+   "id": "Zr_hajXsUJ4",
+   "t": "Huge and insane infinity cube 3D printer enclosure!",
+   "d": "2020-09-12",
+   "v": 44053,
+   "s": 917,
+   "vertical": false,
+   "desc": "In this video I show how I finish my enclosure for the Creality CR-10 S5 3D printer. Yes, the goal for it is to print rims, but it must look awesome too of course. Maybe I've lost myself a bit, but you can't deny that an infinity cube is sick! I don't recommend you to make this exact same thing, but if you're making an enclosure for your printer, it definitely looks cool to make an infinity cube out of it! Have fun watching!\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\nAnd special thanks to my highest tiers:\n- The 3D printing Belgian https://twitter.com/3DPB"
+  },
+  {
+   "id": "zYr4i7W96Mo",
+   "t": "The most over the top Creality printer is finally printing!",
+   "d": "2020-09-30",
+   "v": 127537,
+   "s": 1122,
+   "vertical": false,
+   "desc": "In this video I show how I get this over the top Creality CR-10 S5 printer to run with a heated chamber. You'll see that a lot of things aren't going flawless, but that's part of the process. I hope you enjoy this video!\nChapters:\n0:00 Intro\n0:20 Woodworking sequence\n1:59 Initial idea and explanation\n3:05 The UPS story\n4:27 The last wiring\n6:41 The tubing chain invention\n9:24 Montage sequence\n10:25 Testing the axes and heaters\n14:38 Tuning the heaters\n15:24 Extruder problem\n17:08 Finally, I can print with it!\n\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\nAnd"
+  },
+  {
+   "id": "lBolYmhvEwA",
+   "t": "I invented a NEW way of Cable Management!",
+   "d": "2020-11-04",
+   "v": 24232,
+   "s": 862,
+   "vertical": false,
+   "desc": "The title says it all, besides learning a new CAD program VariCAD, trying to use Linux instead of Windows, fail miserably at installing drivers, waiting way longer than anticipated on the new PC, needed a new video card, it was a lot of work to get the tubing chain working. I've printed everything out of Nylon because this is heat resistant and doesn't wear out the tube, but it's too flexible. Therefore I made polycarbonate clips which literally saved this video, thank you polycarbonate.\n\n\nThe Tubing chain can be downloaded from here: https://properprinting.pro/product/tubing-chain/\n\nI started"
+  },
+  {
+   "id": "kJhjvzcUfiE",
+   "t": "I tried to 3D print a full-sized rim for my car out of ABS",
+   "d": "2020-11-21",
+   "v": 71625,
+   "s": 825,
+   "vertical": false,
+   "desc": "I tried hard but damn what a project! I finally started printing a rim! I this video I show how you can screw up a lot of ABS filament and that not everything will go as planned. Well, this is part of doing a project like this. I hope you like the video despite the outcome. I'm so lucky with having 3D4makers as a filament sponsor, they're great guys and their products are awesome, check them out https://www.3d4makers.com/ Have a great day!\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\n\nAnd special thanks to my highest tiers:\n- The 3D printing Belgian https://"
+  },
+  {
+   "id": "PCHZ672zx0g",
+   "t": "I made a Filament Joining RIG that works like %@#$^@",
+   "d": "2020-12-13",
+   "v": 84477,
+   "s": 780,
+   "vertical": false,
+   "desc": "My last video in which I tried to print a rim failed due to a unreliable  joint between two filament spools. In this video I try to make a rig with which I can join filament in a reliable and consistent way. It is a bit experimental and I show the process itself. I hope you like this one!\n\n\nMy filament sponsor https://www.3d4makers.com/ \n\n\n\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\n\nAnd special thanks to my highest tiers:\n- The 3D printing Belgian https://twitter.com/3DPBelgian\n- SJADO https://www.instagram.com/s.ja.do/\n- Ege Aydede\n- The Sauce\n- 3Dgeneri"
+  },
+  {
+   "id": "kHQ6xemePSE",
+   "t": "Will this 3D Printed rim hold the WEIGHT of a MERCEDES?",
+   "d": "2020-12-28",
+   "v": 134699,
+   "s": 842,
+   "vertical": false,
+   "desc": "It took a while, but I'm ending this year with a fully 3D printed rim out of ABS! The reason for using ABS is because it's affordable and already difficult to print so I can properly test the performance of my 3D printer. You'll see that it still isn't perfect, but we're getting there! I hope you enjoy this last video of 2020 and let's make 2021 the best year ever!\nTo start 2021 good you can get 10% off of all filaments on https://www.3d4makers.com/ by entering the promo code properprinting during checkout! You'll not only get high quality filament, you support this channel too!\n\nI started a P"
+  },
+  {
+   "id": "bfxqGK7mKAo",
+   "t": "I Developed my own 3D PRINTER Controller Software!",
+   "d": "2021-01-16",
+   "v": 84614,
+   "s": 1028,
+   "vertical": false,
+   "desc": "In this video I show how the communication works when sending commands to a 3D printer using a computer. Based on these commands I made my own 3D printer controller and drivers using LabVIEW. This can be downloaded for free from my website. I can imagine that you'd have some questions after seeing this video and don't hesitate to ask them! Have a great day!\n\nMore information about the Proper Printer controller: https://properprinting.pro/product/proper-printer-controller/\nMore information about the device drivers: https://properprinting.pro/product/marlin-instrument-drivers-for-labview/\n\nIt's "
+  },
+  {
+   "id": "OBB5WuhNhWk",
+   "t": "Mechanical Tool Swap system for the Creality Ender 3, it ROCKS!\ud83e\udd18",
+   "d": "2021-03-03",
+   "v": 157530,
+   "s": 1047,
+   "vertical": false,
+   "desc": "In this video I show my submission to the Creality Modification Masters contest. The mod is an experimental dual extrusion system with independent hotends which doesn't require a servo motor. This is something I wanted for quite some time now and I think that this is a nice thing to submit. This was quite the journey and I thought of giving up several times, but in the end it turned out better than I could have imagined! I hope you like this idea and this video, have fun watching and have an awesome day!\n\nI have used Nylon from 3D4Makers and if you're interested in their professional materials"
+  },
+  {
+   "id": "_AF9jmpoo04",
+   "t": "I WON $5000 with the Creality contest!",
+   "d": "2021-06-02",
+   "v": 18503,
+   "s": 1106,
+   "vertical": false,
+   "desc": "Hi everyone! It has been a while since I posted my last video because we we're working on a new YouTube studio! We built it from scratch and in this video I give a little tour and show you the highlights of what happened. This insanity was also possible because I won the $5000,- Modification Master contest from Creality!\n\nI've got new merch!! Check out merch.properprinting.pro\n\nI started a Patreon page https://www.patreon.com/properprinting?fan_landing=true\n\nAnd special thanks to my highest tiers:\n- The 3D printing Belgian https://twitter.com/3DPBelgian\n- SJADO https://www.instagram.com/s.ja.d"
+  },
+  {
+   "id": "Khpa1RAGQd8",
+   "t": "Using Blender to program a Camera Slider with Klipper!",
+   "d": "2021-06-19",
+   "v": 24094,
+   "s": 1161,
+   "vertical": false,
+   "desc": "This project which should have started simple ended up in a Klipper controlled camera slider which is programmed with Blender. The possibilities this enables is insane if you think about it! You can program a robotic arm by animating it in Blender if you want to. In this video I use Huvud boards https://github.com/bondus/KlipperToolboard/ but it's also possible to use a regular 3D printer controller. You also don't need Klipper, but I wanted to learn how to use this firmware and by using it in a custom way like this I was able to really learn from it by stumbling on several uncommon issues. Th"
+  },
+  {
+   "id": "_jqHqlyDzHo",
+   "t": "Tensile testing 3D printed ABS parts #shorts",
+   "d": "2021-07-11",
+   "v": 35545,
+   "s": 40,
+   "vertical": true,
+   "desc": "We are going to take the project rim to another level and find out the best print settings to print large ABS parts with a 1,2mm nozzle! In this #shorts video you can see a small teaser that I've made about a professional tensile tester, controlled with LabVIEW which tests ASTM D638 samples. This is a standard method for tensile testing with plastic samples.\n\nDo you like this format? Leave a comment what you think :D"
+  },
+  {
+   "id": "I-QlnA9cMOY",
+   "t": "Hanging from a bridge to test the TRUE STRENGTH of 3D Printed ABS!",
+   "d": "2021-08-27",
+   "v": 18892,
+   "s": 1291,
+   "vertical": false,
+   "desc": "Hi everyone! This video shows the true strength of 3D printed ABS. Often if you do calculations, you just look up the maximum strength given by the manufacturer, but it's definitely not that simple. This is a lot harder to figure out than I thought! I think I achieved my goal of optimizing the print settings for 3D printing the next version of that rim. We've had a lot of fun, learned a lot and I hope you do too watchin this :D\n\nI've got new merch!! Check out merch.properprinting.pro The winners of the contest are PhotoCroMax and Onrein Kalfje, congratulations!\n\nAnd special thanks to my highes"
+  },
+  {
+   "id": "d2TVU9GhsII",
+   "t": "Creality Sermoon D1 Ultimate Extruder Upgrade!",
+   "d": "2021-09-08",
+   "v": 46130,
+   "s": 1149,
+   "vertical": false,
+   "desc": "I received the Creality Sermoon D1 and I was in doubt if I should upgrade it. I thought that this printer could be my daily driver since most of my 3D printers are specifically tailored to experiment with. Besides some \"weird\" design choices I do like this printer, but the direct drive extruder was constantly skipping. ABS came out like a sponge and I was better of with a standard Ender 3 pro. I read more articles about this printer in which it was a shame that it was not possible to add an aftermarket hotend, until now...\n\nYou can download the parts from my website https://properprinting.pro/"
+  },
+  {
+   "id": "v3rPDRM3m3s",
+   "t": "Exploiting Pattern Recognition to print INFINITELY!?",
+   "d": "2021-10-06",
+   "v": 140719,
+   "s": 691,
+   "vertical": false,
+   "desc": "In this video I show how I use the pattern recognition tool I made with LabVIEW to generate a looping Gcode. With this tool it's easy to find patterns in Gcodes which you can use to let this Creality CR-30/Naomi Wu's 3DPrintMill run forever! Or until your filament runs out. In that case, check 3D4Makers https://www.3d4makers.com/ and get 10% off of all purchases by using the promo code properprinting\n\nThanks to Creality for sending the CR-30 3DPrintMill! https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer\n\nCheck out the video by Karl if you want to know more about this"
+  },
+  {
+   "id": "_kJx8TGE9j4",
+   "t": "3D printed rim analysis: Chat with Stefan from CNCKitchen",
+   "d": "2021-10-23",
+   "v": 24964,
+   "s": 1454,
+   "vertical": false,
+   "desc": "This is a complementary video for the project rim experimental videos in which Stefan from CNCKitchen shows his analysis. I was able to improve the design of this 3D printed rim thanks to his feedback! If you need some context you can watch these in which we:\n- Do the first try to see if it holds the Mercedes: https://youtu.be/kHQ6xemePSE\n- Blow it up to see how much air pressure it can hold: https://youtu.be/fKwJ7P_5sIs\n- More to come!\n\nThanks a lot Stefan for making these calculations and your clear explanation! This was very insightful! Don't forget to subscribe to his channel if you haven'"
+  },
+  {
+   "id": "fKwJ7P_5sIs",
+   "t": "At what Pressure does a 3D Printed rim EXPLODE? We put it to the TEST!",
+   "d": "2021-10-23",
+   "v": 105391,
+   "s": 788,
+   "vertical": false,
+   "desc": "We received a lot of comments on our previous 3D printed rim video saying that pressurizing this rim would be the biggest problem and potentially dangerous. Well, we put this to the test! We want to be sure what happens if it blows up and at what pressure so we can estimate how dangerous it is once we put it under the car.\n\nThanks Hollyland for sending the Mars 400S Pro! More info:\nAmazon US : https://www.amazon.com/gp/product/B08L788FXP\nAmazon UK: https://www.amazon.co.uk/gp/product/B08L6H21VF\nAmazon DE: https://www.amazon.de/gp/product/B08L6DW8B7\n\nThanks 3D4Makers for sponsoring the filament"
+  },
+  {
+   "id": "YVAWq6sKhpo",
+   "t": "DON'T use Acetone to repair ABS parts!",
+   "d": "2021-11-20",
+   "v": 53488,
+   "s": 645,
+   "vertical": false,
+   "desc": "In the previous video we destroyed the 3D printed ABS rim and instead of printing a new part I managed to repair it. Instead of acetone which is the common solvent I used methyl ethyl ketone or MEK for short to buy me more time with such large parts. I started with a 50/50 weight ratio of MEK and ABS which turned out to be perfect. It is however recommended to add a little MEK a day before you're going to use it because it will get thicker over time.\n\nThanks 3D4Makers for sponsoring the filament! Check out their website https://www.3d4makers.com/ and get 10% off of all purchases by using the p"
+  },
+  {
+   "id": "T1u3mse997U",
+   "t": "The most cringey intro I ever made which didn't make it to the real video",
+   "d": "2021-12-19",
+   "v": 16244,
+   "s": 58,
+   "vertical": true,
+   "desc": "So I turned it into a #shorts video (sorry). Actual video will be posted soon!"
+  },
+  {
+   "id": "CV0sm_t--rg",
+   "t": "This 3D PRINTABLE Extruder works with TIMING BELTS!",
+   "d": "2021-12-22",
+   "v": 166349,
+   "s": 1045,
+   "vertical": false,
+   "desc": "In this video I show an experimental 3D printer extruder which uses GT-2 timing belts to push the filament. This doesn't require a spring-system which makes this easier to print. This is the first video of a series in which I'm going to experiment and explore extrusion techniques. To make stronger 3D printed parts.\n\nI 3D printed everything out of high-performance engineering resin by 3DResyns on an Anycubic Photon Mono X 6K resin printer. This went very well once tuned in correctly!\n\nThe Anycubic printer: https://www.anycubic.com/products/photon-mono-x-6k\nThe 3Dresyns resin:\nhttps://www.3dresy"
+  },
+  {
+   "id": "7lnvv-khE6Y",
+   "t": "Can you actually 3D print a working car wheel?",
+   "d": "2022-02-02",
+   "v": 139553,
+   "s": 1043,
+   "vertical": false,
+   "desc": "Go to https://nordvpn.com/properprinting to get 70% off a 2-year plan plus 1 additional month free, only $3.56 / \u20ac3.15/ \u00a32.63/ \u20a94,315/ \u00a5427 per month. It\u2019s risk free with Nord\u2019s 30 day money-back guarantee!\n\nIn this video we show our first real test of putting a 3D printed rim under an old Mercedes. These rims, or wheels are printed out of ABS which is not the strongest material to print with. There's good reason for using ABS. I can gain experience with printing large parts out of difficult to print materials on my customized printer. It's also cheap to experiment with and if it works with AB"
+  },
+  {
+   "id": "q5zuoD4Oqiw",
+   "t": "The BIGGEST Problem Audio Mixers Suffer; SOLVED!",
+   "d": "2022-02-09",
+   "v": 17423,
+   "s": 184,
+   "vertical": false,
+   "desc": "I solved another first world problem with 3D printing! This time it's the terrible problem of having to slide two faders on a mixer with two mono channels for one stereo channel. I tried to 3D scan the knobs, but due to the dark background, this didn't work and I unfortunately had to make this difficult design. If you happen to have a Tascam Model 12 with this problem, let me know!\n\nThanks Creality for your new Sermoon V1 which printed this solution. This little printer looks and works great! Get yours from here:\n-https://www.123-3d.nl/3D-printers/Creality-3D-Sermoon-V1-Pro-p19763.html\n-https:"
+  },
+  {
+   "id": "VrzHth2eN8E",
+   "t": "MUST HAVE and SIMPLEST mod for Ender-3 S1! Contest worthy?",
+   "d": "2022-02-23",
+   "v": 223494,
+   "s": 443,
+   "vertical": false,
+   "desc": "This is a must have mod for the Creality Ender-3 S1 and it's the simplest I ever made. It's a tool changer that doesn't require any components, except for two 3D printed parts. The cool thing that blew my mind is that this mod can be replicated solely with the stuff that's in the box itself. It requires -1 screw and a bit of PLA filament and you've got yourself a tool changer!\n\nThis is my submission to Creality's second Modification Masters contest. More info about that: https://www.creality.com/blog-detail/creality-2nd-modification-master-contest\n\nPlease use one of my affiliate links to suppo"
+  },
+  {
+   "id": "-HobdwFHNtU",
+   "t": "A 3D printed single piece guitar neck?! ft. CR-30 belt printer",
+   "d": "2022-03-19",
+   "v": 326226,
+   "s": 1002,
+   "vertical": false,
+   "desc": "In this video I show the process of making a 3D printed guitar neck out of one piece on the Creality CR-30 belt printer, AKA Naomi Wu's 3DPrintMill. I like to print functional things and this is the first test case for the Proper extruder I designed a while ago. I haven't printed the body yet because that's already done before. In a future video I will design a custom guitar body and make a fully 3D printed guitar!\n\nThanks 3D4Makers for your high quality filament! Check out https://www.3d4makers.com/ and use the promo code properprinting to get 10% off!\nThanks to Repkord for the wall-mount kit"
+  },
+  {
+   "id": "ZhpBUzBHtZk",
+   "t": "Manually DRAWING with a LASER CUTTER",
+   "d": "2022-04-28",
+   "v": 34125,
+   "s": 945,
+   "vertical": false,
+   "desc": "This video shows the experimental software I built which makes it possible to control a 10 Watt laser cutter by drawing on a tablet. What can go wrong? Although I couldn't think of a productive use for it, It turned out to be more fun than I expected! Due to the hazard this comes with and the early development phase of this software I am not going to share it freely. You can contact me directly if you would like to try it out for yourself, but it's at your own risk!\n\nThe second halve of the video shows a more productive use in which I make a fitting packaging using packaging. I use the slicer "
+  },
+  {
+   "id": "-LdFmPYItb0",
+   "t": "This Extruder is a TPU Beast!",
+   "d": "2022-05-20",
+   "v": 309358,
+   "s": 1118,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video I show how I print the world's most flexible TPU from Diabase with a shore hardness of 60A. This is cooked spaghetti soft. I printed this with the experimental extruder I designed which uses timing belts to push the filament. I used PEEK-like resin with a metallic green dye from 3DResyns because it looks cool and we need the chemical resistance in a future video. Everything was printed on the Anycubic Photon M3 Max which is a huge printer which work"
+  },
+  {
+   "id": "ZslI-Z9SZUg",
+   "t": "FDM resin Printing with LASERS and a 3D Printed PUMP!",
+   "d": "2022-06-22",
+   "v": 251400,
+   "s": 1275,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video I show how I print UV resin on a standard FDM printer. This has two main challenges: pumping the resin and curing the resin. I chose to use a peristaltic pump so the mechanics don\u2019t come in contact with the resin, but I had to solve the pulsating problem of this type of pump. For curing the resin, I use standard low power lasers.\n\nThanks 3DResyns for supporting me with your resin! https://www.3dresyns.com/\n\nPlease use one of my affiliate links to su"
+  },
+  {
+   "id": "KRXehsmyecw",
+   "t": "I tried to print LICORICE.",
+   "d": "2022-07-20",
+   "v": 37102,
+   "s": 638,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video I try to 3D print licorice laces (dropveters) with the extruder I designed. It managed to print the worlds most flexible filament, so I decided to step it up a notch!\n\nYou can download the files from here: https://properprinting.pro/product/proper-extruder/\n\nPlease use one of my affiliate links to support my work:\n\nThe equipment I mostly use:\nFDM printers:\n- Creality Ender 3 pro: https://geni.us/KDfgpA\n- Creality Ender 3 S1 pro: https://geni.us/n03A"
+  },
+  {
+   "id": "1iF_qicnkB4",
+   "t": "I Designed an Adapter to Swap Between Hotends!",
+   "d": "2022-07-31",
+   "v": 62381,
+   "s": 842,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video I show the concept of quick swapping between different hotends on the experimental belt driven extruder AKA The Proper Extruder. This idea is inspired from one of my first videos about a swappable hotend.\n\nYou can download the files from here: https://properprinting.pro/product/proper-extruder/\n\nPlease use one of my affiliate links to support my work:\n\nThe equipment I mostly use:\nFDM printers:\n- Creality Ender 3 pro: https://geni.us/KDfgpA\n- Crealit"
+  },
+  {
+   "id": "Fn8Zsql6eOw",
+   "t": "This is how Monitor Stands should be...",
+   "d": "2022-08-24",
+   "v": 59999,
+   "s": 883,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video I show how I turn the most boring part of any PC setup into something spectacular using 3D printing. Yes, I'm talking about the monitor stand. I bought a second monitor and I was done with the boring, functionless existing monitor stands and decided to design my own. Well, I think it turned out great!\n\nIn order to win the Hollyland LARK M1 https://geni.us/sfPjCOB\n- Subscribe\n- Like\n- Leave a comment why you want to win this\nAnd the best comment wins"
+  },
+  {
+   "id": "0jlW4ivSDko",
+   "t": "We let Extruders BATTLE each other FTW!",
+   "d": "2022-09-23",
+   "v": 133709,
+   "s": 1044,
+   "vertical": false,
+   "desc": "Head to https://squarespace.com/PROPERPRINTING to save 10% off your first purchase of a website or domain using code PROPERPRINTING\n\nIn this video we show a brutal game of tug of war between 8 extruders. The winner will be placed on the Optimus P1 3D printer for the upcoming large projects. We're pleasantly surprised by how these matches went. You can really see the extruders struggling and we have a well deserved winner!\n\nI made a Twitter thread which goes a bit deeper into the inner workings of the rig itself. https://twitter.com/properprinting/status/1573346058985422851\n\nThese are the 8 bra"
+  },
+  {
+   "id": "aRH8MGxnZdY",
+   "t": "FDM resin printing: Game changer or stupid?",
+   "d": "2022-11-11",
+   "v": 187530,
+   "s": 887,
+   "vertical": false,
+   "desc": "#ad Head to https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?sca_ref=2784626.QgTM1uaIAj and use the promo code Proper for $20,- off. This promotion is available till Dec. 20th and when the price is (over) $259,-.\n\nIn this video we show our second attempt at FDM printing with resin. We also show the bigger picture behind this idea. Once this works, this enables so much possibilities to experiment with! So, what do you think, game changer or stupid?\n\nMusic source: Epidemic sound https://www.epidemicsound.com/referral/jcsbjz\n\nCheck the merch on https://merch.properprinting.pro/\n\nCo"
+  },
+  {
+   "id": "jvjIXA4k-XU",
+   "t": "I made a CUSTOM Nozzle that 3D Prints GEL!",
+   "d": "2023-02-22",
+   "v": 261937,
+   "s": 1231,
+   "vertical": false,
+   "desc": "#ad Check out the Revopoint RANGE here https://www.kickstarter.com/projects/2125914059/revopoint-range-big-scans-big-detail?ref=bx7o3s and start scanning!\n\nIn this video I show our FDM resin printing journey. Thanks to your suggestions I was able to determine the mission for this video. I focused on the light source, the nozzle and on the resin itself which I eventually turned into a gel. Like the true Proper Printing style, this didn't go without struggles and I almost gave up!\n\nYou can find the files of the pump here https://properprinting.pro/product/non-pulsating-peristaltic-pump/\n\nMusic s"
+  },
+  {
+   "id": "AV7QsytYXOs",
+   "t": "Is This System the NEXT STEP in 3D Printing?",
+   "d": "2023-03-31",
+   "v": 196788,
+   "s": 876,
+   "vertical": false,
+   "desc": "#ad Head to https://sovol3d.com/products/sovol-sv06-plus?sca_ref=2784626.QgTM1uaIAj&sca_source=YouTube and use the discount code \"Pro\" to get $20,- discount on your Sovol SV06 PLUS! (affiliated)*\n*The $20,- discount will be valid until 14 days after this video is published after which it will be $10,- with a bottom price of $349,-\n\nIn this video I show a concept which I thought is interesting enough to try out if it actually works. Is this the next step in 3D printing or is this a bad idea? I think it has an interesting potential which would be fun to explore further. What do you think? Ditch "
+  },
+  {
+   "id": "URuI8mbYGBI",
+   "t": "I turned a CHEAP whiteboard into a FANCY coffee table",
+   "d": "2023-06-17",
+   "v": 82425,
+   "s": 60,
+   "vertical": true,
+   "desc": "#shorts This is a fun little project where I turn a cheap whiteboard into a fancy coffee table. As usual, the first version wasn't successful, but I eventually turned it into something that is actually pretty useful!"
+  },
+  {
+   "id": "htj0Zp5YyEQ",
+   "t": "You can build AWESOME things with this 3D Printed System!",
+   "d": "2023-08-02",
+   "v": 498412,
+   "s": 940,
+   "vertical": false,
+   "desc": "#ad Head to https://sovol3d.com/products/sovol-sv07-klipper-direct-drive-3d-printer-print-speed-250mm-s?sca_ref=2784626.QgTM1uaIAj&sca_source=YouTube to get your Sovol SV07 feature rich Klipper powered printer!\n\nIn this video I show how I build awesome things, like a nice looking desk lamp out of the 3D printed system that I've shown in an earlier video. This is not just any desk lamp, it has some interesting design concepts that makes this thing very interesting!\n\nMore information about this design: https://properprinting.pro/product/desk-lamp/\n\nMusic source: Epidemic sound https://www.epidem"
+  },
+  {
+   "id": "kkrkR1crNEc",
+   "t": "I made an Extruder out of PLYWOOD!",
+   "d": "2023-08-30",
+   "v": 56338,
+   "s": 962,
+   "vertical": false,
+   "desc": "If you're interested in an extruder like this, sign up for the newsletter here to receive updates https://properprinting.pro/proper-extruder-news/\nThanks xTool for sending this awesome P2 55W CO2 laser cutter! If you're serious about laser cutting I can wholeheartedly recommend it. Check the link! https://geni.us/JAgoK and use the promo code properprinting for $80.- off on orders over $999.-!\n#ad Thanks PCBWay for sponsoring this project! Check out their services here: https://pcbway.com/g/owRi6j\n\nIn this video I show my process of redesigning the extruder that I made in the past that uses tim"
+  },
+  {
+   "id": "MftDN3f-8nQ",
+   "t": "Can a CPU cooler be used as a 3D printer hotend?",
+   "d": "2023-10-18",
+   "v": 113788,
+   "s": 776,
+   "vertical": false,
+   "desc": "#ad #anycubic #anycubicwashandcuremax Check out Anycubic's new Wash & Cure Max here: https://shrsl.com/49nfb\nThanks xTool for sending the awesome P2 55W CO2 laser cutter! If you're serious about laser cutting I can wholeheartedly recommend it. Check the link! https://geni.us/JAgoK and use the promo code properprinting for $80.- off on orders over $999.-!\n\nAlso, don't forget to subscribe to the newsletter to get updates on the Proper Extruder: https://properprinting.pro/proper-extruder-news/\n\nIn this video I try to modify a CPU cooler made for a Raspberry Pi into a hotend for a 3D printer. If t"
+  },
+  {
+   "id": "Ox8zJ4SjDZE",
+   "t": "A grill plate as base for a 3D printer?",
+   "d": "2023-11-29",
+   "v": 125067,
+   "s": 917,
+   "vertical": false,
+   "desc": "In this video I show how I use an 1800W grill plate as a bed heater for a 3D printer. I think this makes sense because they're cheap, widely available and come in different sizes. Another advantage for me is the long shape which I'm going to utilize by letting it print like a belt printer and adding more gantries which will enable some interesting possibilities!\n\nI (mis)used the xTool P2 CO2 laser cutter for this project which I definitely can recommend! Use my affiliate link to get one yourself https://geni.us/JAgoK \n\nMusic source: Epidemic sound https://www.epidemicsound.com/referral/jcsbjz\n"
+  },
+  {
+   "id": "XBJMz457pEo",
+   "t": "I built an experimental 3D printer that could be groundbreaking!",
+   "d": "2024-03-28",
+   "v": 1026399,
+   "s": 1612,
+   "vertical": false,
+   "desc": "#ad Thanks PCBWay for sponsoring this project! Check out their services here: https://pcbway.com/g/owRi6j\n\nIn this video I show the process of building a different type of 3D printer that has 2 tools that move independent from each other. This is different from an IDEX-system for instance. Where an IDEX is only independent in one axis, the system I developed is independent in all axes. Therefore I'm calling it the TIME-system, which stands for True Independent Multiple Extrusion.\n\nWith this system it should be possible to print different parts in parallel, print a single part with multiple too"
+  },
+  {
+   "id": "Q0S2c6NhEH8",
+   "t": "I added a BEEFY Bondtech extruder and fixed the Creality K1!",
+   "d": "2024-04-26",
+   "v": 128631,
+   "s": 981,
+   "vertical": false,
+   "desc": "Download Opera for free: https://opr.as/Opera-browser-properprinting\n\nIn this video I show how I make the Creality K1, an already fast printer, even faster! It started with the problem that the stock extruder was unable to print and it had severe under extrusion. I didn't want this printer to be a glorified paper weight, so I decided to modify it so it would fit practically any extruder. I used the Bondtech QR which is a huge extruder which made it possible to really push that filament!\n\nThe design files can be downloaded from here: https://properprinting.pro/product/creality-k1-extruder-upgra"
+  },
+  {
+   "id": "y2uLvfdjFCc",
+   "t": "This over-engineered IKEA hack got out of hand!",
+   "d": "2024-06-28",
+   "v": 335111,
+   "s": 1540,
+   "vertical": false,
+   "desc": "Thanks to ZimaBoard for sponsoring this video! Start your own project with this by going to one of these product pages!\nZimaBoard Official Shop: https://bit.ly/3VaB2PX\nZimaBoard Media Server: https://bit.ly/4aVlaac\nZimaBoard on Amazon: https://amzn.to/3KrM5iU\n\nThanks Hendrik for the awesome electroplated part! Check out his channel here: https://www.youtube.com/@hen3drik\n\nThis video got a bit out of hand after I equipped my PC with the loudest fans imaginable. Instead of just buying more silent fans and accepting my defeat, I decided to make a sound proof cabinet out of an IKEA cabinet. I ran "
+  },
+  {
+   "id": "At8sUUgtR4k",
+   "t": "I tested my GRILL PLATE PRINTER live at Open Sauce!",
+   "d": "2024-07-26",
+   "v": 89328,
+   "s": 2432,
+   "vertical": false,
+   "desc": "Thanks Redmagic for sponsoring this video! Check the link below for more info on this phone!\nUK Store: https://www.amazon.co.uk/dp/B0CP6STRCK\nDE Store: https://www.amazon.de/dp/B0CP6T5WTW\nNL Store: https://amzn.to/4fcad7n\nOfficial website link: https://bit.ly/4b1WQUF \n\nCheck out the new merch! https://merch.properprinting.pro/\n\nIn this video I take on the challenge of printing in a way that has never been done before. To take it one step further, I did it in front of a live audience at Open Sauce. The chances of working were pretty slim considering the circumstances and I'm very please with ho"
+  },
+  {
+   "id": "dWpqdrbc59g",
+   "t": "Measure once, cut twice...",
+   "d": "2024-10-22",
+   "v": 6366,
+   "s": 22,
+   "vertical": true,
+   "desc": "This is how we do things here."
+  },
+  {
+   "id": "sIj6jKM6YIA",
+   "t": "I Made a HOT GLUE 3D Printer!",
+   "d": "2024-10-30",
+   "v": 327048,
+   "s": 1462,
+   "vertical": false,
+   "desc": "Get your FilaDryer S4 from Sunlu using this link https://bit.ly/3AfSOuN\nAlso, if you need a printer to print the dried filament and print is fast, get the Sovol SV08: https://geni.us/IlCot\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nCheck out my website for the equipment I use: https://properprinting.pro/supplies/\n\nMetmo screwdriver: https://geni.us/Yefs and the Pocket driver: https://geni.us/mnHK\nMatter and Form 3D Scanner: https://geni.us/PYGwby\nGet 10% off from CAD mouses from 3DConnexion https://3dconn"
+  },
+  {
+   "id": "PvWhdPce7A4",
+   "t": "Can 3D Printed Shoes Be Classy? I Put Them to the Test at a Major Event!",
+   "d": "2024-12-31",
+   "v": 322535,
+   "s": 2369,
+   "vertical": false,
+   "desc": "Go to https://ground.news/proper for an objective, data-driven way to read the news. Save 40% on the Ground News unlimited access Vantage plan with my link.\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nCheck out my website for the equipment I use: https://properprinting.pro/supplies/\n\nMatter and Form 3D Scanner: https://geni.us/PYGwby\nThe Slunaz FF1R filament joiner https://www.slunaz.com/product/slunaz-ff1r-with-spooler/\nGet 10% off from CAD mouses from 3DConnexion https://3dconnexion.com/?ref=properprinti"
+  },
+  {
+   "id": "Cxgb89Jn7Vk",
+   "t": "We turned a Second Hand Treadmill into a Working 3D Printer! - w/ Ivan Miranda",
+   "d": "2025-04-09",
+   "v": 150650,
+   "s": 1496,
+   "vertical": false,
+   "desc": "Create your dream workspace with FlexiSpot, use the code \"YTE7Q200\" to get $200 off the E7Q Pro standing desk, and if you are on a budget, the 4-leg E7plus is a great option, use the code \"YTE7P50\" to get an extra $50 off!\n\nFlexiSpot E7Q pro standing desk: https://bit.ly/4j6wN2c (US) https://bit.ly/42fG5T1 (CAN)\nFlexiSpot 4-leg E7plus standing desk: https://bit.ly/43GEYy5 (US) https://bit.ly/3QUPIRM (CAN)\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nIn this video we're going to Ivan Miranda @ivanmirandawast"
+  },
+  {
+   "id": "QuZW259aIn0",
+   "t": "We 3D Printed a Kayak in ONE PIECE on a Treadmill and tested it!",
+   "d": "2025-06-11",
+   "v": 169414,
+   "s": 2659,
+   "vertical": false,
+   "desc": "Check out the Odoo Project app here: https://www.odoo.com/r/UsG\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nWe did it! @ivanmirandawastaken and I 3D printed a kayak out of one piece on the treadmill printer we built earlier. This was one of the biggest adventures of my life and I'm really happy that I can share this with you!\n\nYou can get the STL file of the kayak here https://properprinting.pro/product/single-piece-3d-printable-kayak-for-reference-only/ When scaled down, this would be a fun test print for"
+  },
+  {
+   "id": "z6Solk2XQcY",
+   "t": "INTRODUCING: The Proper X1C (no more Bambu Lab)",
+   "d": "2025-09-05",
+   "v": 203145,
+   "s": 1932,
+   "vertical": false,
+   "desc": "#ad Thanks PCBWay for sponsoring this project! Check out their services here: https://pcbway.com/g/owRi6j\n\nThis idea sparked after watching the video from @rossmanngroup  in which he talked about the New Authorization Control update announced by Bambu Lab https://youtu.be/aIyaDD8onIE\nThis is where Bambu Lab decided to further close down their ecosystem and because I happen to modify printers a lot here on YouTube, have one of these printers myself and am not relying on it, I felt like it's my duty to modify it by adding a generic BigTreeTech board.\n\nLink to the giveaway: https://www.patreon.co"
+  },
+  {
+   "id": "i-bS5cjMoQI",
+   "t": "PLA and wood go really well!",
+   "d": "2025-09-13",
+   "v": 24252,
+   "s": 90,
+   "vertical": true,
+   "desc": "OK, my \"sound proof\" cabinet is no more. Still one of the most fun YouTube videos I made, but definitely not the most practical. It takes up too much space, it's near impossible to reach the cables in the back (everything must be done by feel) and it's not even that silent \ud83d\ude05\n\nThanks @voxelpla for sending over the filament, especially the army green looks great with the wooden panel!\n\n#3dprinting #3dprint #3dprinted #fdm #prototyping #prototype #proto #experiment #experimental #engineering #engineer #properprinting #properextruder #tech #techy #technews #youtube #youtuber #diy #desk #pcsetup"
+  },
+  {
+   "id": "UNicIXmo6Ps",
+   "t": "Get the most out of your phone's camera!",
+   "d": "2025-09-30",
+   "v": 20479,
+   "s": 50,
+   "vertical": true,
+   "desc": "This special phone case gets the most out of your phone's camera. It has an integrated Arca Swiss tripod mount, camera threads and a 49 mm lens filter adapter. I have been using it since the beginning of this year and you can just leave it on the phone. It's even pretty comfortable!\n\nI made this for the Google Pixel 9. Let me know if this needs to be made for other phones as well!\n\nGet the files from my website: https://properprinting.pro/product/google-pixel-9-camera-phone-case/"
+  },
+  {
+   "id": "6jiCv7-RTYU",
+   "t": "I Replaced All 5 Prusa XL Tools With My Own Belt Driven Extruder",
+   "d": "2025-11-13",
+   "v": 170673,
+   "s": 1587,
+   "vertical": false,
+   "desc": "Check out Odoo and get the first app free for life: https://www.odoo.com/r/12w\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nThis is the start of my biggest project so far in which I will experiment with the weirdest, most cursed materials and material combinations. Several experiments I did in the past like FDM resin printing and printing with hot glue sticks will be revisited, but leveled up quite a bit!\n\nThis is done on the @Prusa3D XL and I started by replacing all 5 tools with the Proper Extruder I deve"
+  },
+  {
+   "id": "IiEuZgtOmis",
+   "t": "I 3D Printed Shoes That Don\u2019t Look 3D Printed",
+   "d": "2025-12-27",
+   "v": 178882,
+   "s": 1329,
+   "vertical": false,
+   "desc": "Use code REVOPRPRPG for extra savings!\n\nGlobal Store: https://global.revopoint3d.com/MIRACO-Proper_Printing\nUS Store: https://www.revopoint3d.com/MIRACO-Proper_Printing\nAmazon: https://bit.ly/Amazon-ProperPrinting\nJoin Revopoint Official MIRACO Series Facebook Group: https://www.facebook.com/groups/revopointmiraco\nJoin Revopoint Official Facebook Group: https://www.facebook.com/groups/729110326570132/\n\nOr use my affiliate link for the MIRACO: https://geni.us/ZRz6v6r\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SN"
+  },
+  {
+   "id": "pSY83FBcMhw",
+   "t": "I 3D printed PEEK on a Bambu Lab X1C (not safe)",
+   "d": "2026-03-07",
+   "v": 353251,
+   "s": 1440,
+   "vertical": false,
+   "desc": "Try Onshape Free \u2013 Engineers Get Up to 6 Months Pro: https://onshape.pro/ProperPrinting\nThanks PCBWay for sponsoring this project! Check out their services here: https://pcbway.com/g/owRi6j\nThanks to 3D4Makers for providing me with the PEEK filament and DyzeDesign for the Dyzend Pro hotend\n\nMusic source: Epidemic sound https://www.epidemicsound.com/referral/jcsbjz\n\nCheck the merch on https://merch.properprinting.pro/\n\nConsider becoming a Patreon supporter: https://www.patreon.com/properprinting?fan_landing=true\n\nOr buy me a coffee! http://ko-fi.com/properprinting/"
+  },
+  {
+   "id": "ef0z9zrmhu4",
+   "t": "I Turned my 3D printer into a Piece of Art!",
+   "d": "2026-04-29",
+   "v": 86581,
+   "s": 968,
+   "vertical": false,
+   "desc": "Check out Odoo and get the first app free for life: https://www.odoo.com/r/XTX\n\nI use Onshape for making my designs: https://onshape.pro/ProperPrinting\n\nThanks to Galerie Rudolfinum for allowing me to apply my mod to their 3D printer! Give them a visit if you're in Prague! https://www.galerierudolfinum.cz/en/\n\nDesign files will be uploaded soon!\n\nMusic source: Epidemic sound https://www.epidemicsound.com/referral/jcsbjz\n\nCheck the merch on https://merch.properprinting.pro/ and especially the new shirt! https://crowdmade.com/collections/proper-printing/products/proper-printing-melting-benchy-fi"
+  },
+  {
+   "id": "DQoEssmHciE",
+   "t": "I Built a Custom Controller for My 3D Printer (Now Anything Is Possible)",
+   "d": "2026-06-19",
+   "v": 50960,
+   "s": 1344,
+   "vertical": false,
+   "desc": "\ud83c\udf0f Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here \u27bc https://nordvpn.com/printingvpn. It\u2019s risk free with NordVPN\u2019s 30-day money-back guarantee!\n\nThis project is co-financed by the European Union through the European Regional Development Fund (ERDF) and supported through SNN.\n\nRelated videos:\n\nI built an experimental 3D printer that could be groundbreaking!: https://youtu.be/XBJMz457pEo?si=315u97vopluxfajz\nI Made a HOT GLUE 3D Printer!: https://youtu.be/sIj6jKM6YIA?si=E2S8KAkCodRJ2vOs\nI Replaced All 5 Prusa XL Tools With My Own"
+  },
+  {
+   "id": "NGAD-HehA0A",
+   "t": "This INDX Mod is CLEARLY the Best",
+   "d": "2026-08-13",
+   "v": 99159,
+   "s": 742,
+   "vertical": false,
+   "desc": "My plan for this video was to figure out how this system works, but I soon found out that it's not that easy and it was also not a secret anymore. However, this led me to the idea of replacing the front plate with laser cut acrylic because I wanted to be able to see how this works.  The end result is in my opinion even better than I envisioned. It's not just functional, it just looks epic.\n\nCheck out the new website https://properprinting.pro/\n\nMusic source: Epidemic sound https://www.epidemicsound.com/referral/jcsbjz\n\nCheck the merch on https://merch.properprinting.pro/ and especially the new"
+  },
+  {
+   "id": "eDQwFdMI1rE",
+   "t": "I Combined CNC and 3D Printing\u2026 But Not How I Expected",
+   "d": "2026-10-09",
+   "v": 172432,
+   "s": 1941,
+   "vertical": false,
+   "desc": "Last chance to catch Fanttik\u2019s Prime Big Deal Days savings!\nFanttik F2 Master Rotary Tool Kit - use 11% off code PROPERF2 at:\nUS: https://amzn.to/3T4PDj7\nDE/EU: https://amzn.to/45V7xHU\nFanttik E2 Ultra Electric Screwdriver - use 6% off code PROPERE2 at:\nUS: https://amzn.to/4hwBZyu\nDE/EU: https://amzn.to/4zQ9CCB\nFanttik T1 Max Soldering Iron Kit - use 11% off code PROPERT1 at:\nUS: https://amzn.to/4hxrQSe\nDE/EU: https://amzn.to/3Vl6ajv\n#Fanttik\n\nIn this video I combined 3D printing with CNC machining and it ended up going way different than I intended, for the better! I believe that my findings "
+  }
+ ]
+}

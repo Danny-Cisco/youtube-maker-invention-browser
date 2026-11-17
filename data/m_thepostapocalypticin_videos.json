@@ -1,0 +1,2277 @@
+{
+ "channel": {
+  "id": "UCDbWmfrwmzn1ZsGgrYRUxoA",
+  "title": "The Post Apocalyptic Inventor",
+  "handle": "@thepostapocalypticinventor",
+  "description": "https://www.patreon.com/TPAI\n\n",
+  "since": "2013-09-17",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_lQv-LUNf2nPoS977QdIpaJioWHy_K_fZ2-gWNbhR2svg=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "59679897",
+  "subscriberCount": "534000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "251"
+ },
+ "videos": [
+  {
+   "id": "tK_PPoFnCsU",
+   "t": "How to Salvage Usefull Parts from Printers and Scanners",
+   "d": "2014-01-26",
+   "v": 1057638,
+   "s": 673,
+   "vertical": false,
+   "desc": "Support my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "0sKbsWlMI64",
+   "t": "How to Build an RFID Tag Detector - part 4: Op-Amp and Adjustments",
+   "d": "2014-01-26",
+   "v": 14062,
+   "s": 472,
+   "vertical": false,
+   "desc": "In This fourth and final part of the series the RFID tag detector ist completed and tested.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "kvuAiJw2HvI",
+   "t": "How to Build an RFID Tag Detector - part 3: Casing and Regulators",
+   "d": "2014-01-26",
+   "v": 11997,
+   "s": 324,
+   "vertical": false,
+   "desc": "In part 3 I build the aluminum case and the voltage regulator-section of the detector."
+  },
+  {
+   "id": "XWgUJEYyvPs",
+   "t": "How to Build an RFID Tag Detector- part 2: RF Section",
+   "d": "2014-01-26",
+   "v": 17861,
+   "s": 651,
+   "vertical": false,
+   "desc": "In part 2 of this series I demonstrate how the RF-section of the RFID-tag-detector can be realized on veroboard.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "Id68OFLSuzg",
+   "t": "How to Build an RFID Tag Detector - part 1: theory",
+   "d": "2014-01-26",
+   "v": 49229,
+   "s": 360,
+   "vertical": false,
+   "desc": "Part one of a series of five videos in which I demonstrate how it is possible to detect RFID tags that are hidden from sight. \nIn this videos I explain the theoretical ideas behind RFID and how a detector circuit can be built.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "svglT0TuUDw",
+   "t": "Samsung Galaxy S2 broken ? Wifi or Bluetooth issues ? This is the reason !",
+   "d": "2014-02-12",
+   "v": 49506,
+   "s": 62,
+   "vertical": false,
+   "desc": "A defective miniature battery on the PCB of the Samsung Galaxy S2 causes the loss of your phone settings when the main battery is removed. When it spills acid inside the phone it can also compromise Wifi and Bluetooth functions.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "nbKwUSH9NiY",
+   "t": "SMPS Tutorial (1): Introduction - Switched Mode Power Supplies and Power Conversion",
+   "d": "2014-03-03",
+   "v": 456088,
+   "s": 1118,
+   "vertical": false,
+   "desc": "Watch part 2: https://www.youtube.com/watch?v=BjTD9EVs9v8\n\nWatch part3: https://www.youtube.com/watch?v=r_AAdxwfim8\n\nThis is the introduction video to my video tutorial series on the design of power converter circuits. Later episodes will be focused on specific topologies of Switched Mode Power Supplies. This is the first of two videos that are dedicated to provide a general overview over all kinds of voltageconverter circuits. Part 1 deals with AC to AC and AC to DC converters.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_"
+  },
+  {
+   "id": "LK6zZzy-JV8",
+   "t": "Bicycle Generator:  Electricity from an Excercise Bike +  Buck Boost Converter + UPS",
+   "d": "2014-03-24",
+   "v": 32078,
+   "s": 468,
+   "vertical": false,
+   "desc": "In this video I demonstrate how it is possible to generate usefull electricity with an old exercise bike. In addition the video deals with a buck boost converter and the inverter from an old ups as usefull methods to stabilize the generated voltages and charge batteries with it.\n\nLT 1070 design manual: \n\nhttp://cds.linear.com/docs/en/application-note/an19fc.pdf\n\nLT 1070 datasheet: \n\nhttp://cds.linear.com/docs/en/datasheet/10701fe.pdf\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2"
+  },
+  {
+   "id": "cYoVAaLDzeg",
+   "t": "Op-Amp Tutorial: Theory - Transfer Functions",
+   "d": "2014-04-07",
+   "v": 20329,
+   "s": 552,
+   "vertical": false,
+   "desc": "This video deals with a method of deriving the transfer function of op-amp circuits. It also is a \"video response\" to an op-amp tutorial video by Dave Jones (EEVblog): \n\nhttps://www.youtube.com/watch?v=7FYHt5XviKc\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "BjTD9EVs9v8",
+   "t": "SMPS Tutorial (2):  Linear Regulators, Voltage References, Switched Mode Power Supplies",
+   "d": "2014-04-14",
+   "v": 154298,
+   "s": 1148,
+   "vertical": false,
+   "desc": "Watch part 3:https://www.youtube.com/watch?v=r_AAdxwfim8\n\nPart 2 of my tutorial series on SMPS and Power Conversion:\nNon switching DC to DC converters: Voltage Dividers, Zener Diodes, Voltage References and Linear Regulators.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "nKbYu_80Afg",
+   "t": "Old Radios as Smartphone Docking Stations / Tube Radios",
+   "d": "2014-04-18",
+   "v": 142506,
+   "s": 736,
+   "vertical": false,
+   "desc": "This video is about connecting modern sound sources like mp3-players, smartphones, laptops, PCs etc. to old radios and stereos. I also explain the inner workings of typical radio / casette recorders.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "r_AAdxwfim8",
+   "t": "SMPS Tutorial (3): Charge Pumps, Buck Converters, Switched Mode Power Supplies",
+   "d": "2014-05-04",
+   "v": 183474,
+   "s": 1323,
+   "vertical": false,
+   "desc": "Watch Part 1: https://www.youtube.com/watch?v=nbKwUSH9NiY\nWatch Part 2: https://www.youtube.com/watch?v=BjTD9EVs9v8\nWatch Part 4: https://www.youtube.com/watch?v=SOp57JCnWqE\nThis is part 3 of my tutorial series about SMPS. In this video I derive the idea of switching converters from the disadvantages of the linear regulator. Based on that idea I explain 2 switching converter topologies: \n\n1.) The Charge Pump (Switched Capacitor Voltage Converter) \n2.) The Buck Converter\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations"
+  },
+  {
+   "id": "SOp57JCnWqE",
+   "t": "SMPS Tutorial (4): Boost Converters, Flyback Voltages, Switched Mode Power Supplies",
+   "d": "2014-05-30",
+   "v": 226726,
+   "s": 786,
+   "vertical": false,
+   "desc": "Watch Part 5: https://www.youtube.com/watch?v=a21zh-obKWg\n\nThis is part 4 of my video tutorial series about Switched Mode Power Supplies. This part deals with the idea behind the Boost Converter. The video also explains the principle of car ignition systems. \nAs I will explain in the video about flyback converters, the ignition system is based on the idea of a \"flyback voltage\". This flyback voltage can be multiplied by using a secondary winding with a bigger number of turns. That secondary winding makes teh ignition system technically a \"flyback converter\". But since the boost converter and t"
+  },
+  {
+   "id": "jwLGZ57ThIA",
+   "t": "Impressions of My Life",
+   "d": "2014-06-25",
+   "v": 10726,
+   "s": 304,
+   "vertical": false,
+   "desc": "This video is an emotional video compilation of some very special experiences that I had in 2013. It shows material from my trips through nature and some glimpses of science projects that didn't make it into my videos yet. \n\nYou can see: \n\n-a huge pack of wild red deer that I stumbled upon on the first day I bought my new camera ( sorry for the shakey pictures)\n\n-beautiful wildlife of my home country, as well as pictures from ruins and other \"magic places\" nearby.\n\n- fruits from my garden and me producing wine. \n\n- my first humble self made wind turbine spinning in the autumn winds.\n\n- taking "
+  },
+  {
+   "id": "a21zh-obKWg",
+   "t": "SMPS Tutorial (5): Inductor Basics, Magnetic Circuits, Switched Mode Power Supplies",
+   "d": "2014-06-28",
+   "v": 467863,
+   "s": 1604,
+   "vertical": false,
+   "desc": "In Part 5 I deal with some basics about magnetism and inductive components. Oertsted's Experiment, Magnetic Circuits, Ferrite Cores and more.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n part 1 (+playlist):  https://www.youtube.com/watch?v=nbKwUSH9NiY"
+  },
+  {
+   "id": "1K2VubuBt8w",
+   "t": "Repairing and Hacking Marathon -  Ebay Treasure Trove",
+   "d": "2014-07-30",
+   "v": 449522,
+   "s": 879,
+   "vertical": false,
+   "desc": "This is part one of the \"Ebay Treasure Trove\" - Series. It shows me unpacking, testing and repairing a whole range of items that I scored practically for free on Ebay.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "U16giBcSAaI",
+   "t": "Napier's Bones - DIY",
+   "d": "2014-08-15",
+   "v": 36602,
+   "s": 828,
+   "vertical": false,
+   "desc": "Part 1 of my new series about historic calculating devices and machines. Topic of this first episode: Napier's Bones\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "uxpp-GhYksE",
+   "t": "Presenting:  \"The Archive\" - Important Announcement -",
+   "d": "2014-08-20",
+   "v": 7397,
+   "s": 73,
+   "vertical": false,
+   "desc": "Here is the link to the new video: \n\nhttps://www.youtube.com/watch?v=uIFknbBCuDo\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "a32neZo3McY",
+   "t": "Car Stereo Teardown, Analysis and Hack  - Blaupunkt Car 300",
+   "d": "2014-08-25",
+   "v": 250794,
+   "s": 1043,
+   "vertical": false,
+   "desc": "In this video I take a closer look at the circuitry inside a car stereo. \nI also show how a modern mp3-player or smartphone can be attached to older car stereos.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "P0_1qE07wSU",
+   "t": "Building a Blacksmith's Forge Fan System  - BLDC Fan (1)",
+   "d": "2014-09-09",
+   "v": 54393,
+   "s": 532,
+   "vertical": false,
+   "desc": "In this video I build a new fan system for my blacksmith's coal forge. For that I use a powerful salvaged server fan. The fan is  based on a Brushless DC Motor, which I  explain in detail in part 2.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nWatch part 2:\n https://www.youtube.com/watch?v=C1-klL3B9LU&src_vid=P0_1qE07wSU&feature=iv&anno"
+  },
+  {
+   "id": "C1-klL3B9LU",
+   "t": "Brushless DC Motors and Brushed DC Motors explained  - BLDC Fan (2)",
+   "d": "2014-09-12",
+   "v": 1714976,
+   "s": 1343,
+   "vertical": false,
+   "desc": "In this video I give an overview over different electric motors. I also give an explanation of the Brushless DC Motor and the Brushed DC Motor. It is also the part two of my \"BLDC-Fan\" Series.\nPart 1: https://www.youtube.com/watch?v=P0_1qE07wSU\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "qa_x93JQhNM",
+   "t": "Building a Cheap Quadcopter At Home (1)  - Lift Off",
+   "d": "2014-09-21",
+   "v": 7258933,
+   "s": 509,
+   "vertical": false,
+   "desc": "In this video I try to build a basic platform for a quadcopter with salvaged motors from small axial fans and some other household items.\nThese (like all PC-Fans) are powered by BLDCs (Brushles DC-Motors). You cannot reverse their rotation by changing the POLARITY . That only works with old fashioned \"Brushed DC Motors\". \nModel number of the Server Power Supply: HP - DPS - 700 CB-A.\nI recommend you not to buy this unit simply for this unit . A wide variety of fan -motors, salvagable  from several devices / manufacturers could be used.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/T"
+  },
+  {
+   "id": "wTT1imqn9Fo",
+   "t": "Making Alcohol At Home: - The Story of Alcohol -",
+   "d": "2014-09-30",
+   "v": 65033,
+   "s": 1231,
+   "vertical": false,
+   "desc": "This is a little film in the style of a video tutorial, in which I explain the basic principles behind ethanol production. I also show how you can make fruit wines at home.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "NokSrG7Jnnc",
+   "t": "Power Tool and Electronic Equipment Repairs - Sunday",
+   "d": "2014-11-03",
+   "v": 154905,
+   "s": 830,
+   "vertical": false,
+   "desc": "In this video I do a series of repairs and explain a couple of things along the way.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "jnDnDAxdFnI",
+   "t": "Air Compressor Explanation, Repair and Hack",
+   "d": "2014-11-19",
+   "v": 171418,
+   "s": 734,
+   "vertical": false,
+   "desc": "In this video I explain how air compressors work. \nI also perform a repair and build a variable speed control circuit for a compressor in my workshop.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "OBYzvkY2-eA",
+   "t": "The Power Grid, Isolation Transformers and Earthing",
+   "d": "2014-12-24",
+   "v": 159933,
+   "s": 1534,
+   "vertical": false,
+   "desc": "In order to explain the idea behind some isolation transformer units  I'm working on at the moment, I explore the power grid, safety features of electric installations,  Earthings Systems and RCDs.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "_pEmpvcNmXg",
+   "t": "Isolation Transformers, Variacs and  Autotransformers",
+   "d": "2015-01-27",
+   "v": 212800,
+   "s": 1733,
+   "vertical": false,
+   "desc": "Part II of my series about my isolation transfromer unit.\n\nEEV-Blog-Video about earthing and oscilloscopes: https://www.youtube.com/watch?v=xaELqAo4kkQ\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "CRW3jBFroD0",
+   "t": "Teardown of a Rohde & Schwarz Frequency Counter - Vacuum Tube Tester (1)",
+   "d": "2015-03-16",
+   "v": 23277,
+   "s": 780,
+   "vertical": false,
+   "desc": "Building a Vacuum Tube Tester. Teardown of a 1963 Rohde & Schwarz Frequency Meter.\nOne correction: The caps in the video are not electrolytics. They are metallized paper capacitors.\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "vpjW9luYThM",
+   "t": "Learning Proper English for Science and Engineering",
+   "d": "2015-03-18",
+   "v": 14152,
+   "s": 283,
+   "vertical": false,
+   "desc": "Little flick 'bout my \"Dscherman\" accent...\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "xr4Urn0oejk",
+   "t": "Building a Voltage Multiplier Cascade - Vacuum Tube Tester (2)",
+   "d": "2015-03-23",
+   "v": 38541,
+   "s": 1257,
+   "vertical": false,
+   "desc": "Part II of the Vacuum Tube Tester - Series. Teardown + Voltage Multiplier Cascade. \nTo clarify why I used 2.4kV instead of 2.0 kV in my equations: \nThe Bosh capacitors would all be able to handle 300 or 600 V. It's the \"dish washer motor capacitors\" that are the limiting factor. They only have a DC voltage rating of 500 V AC . I therefore will have to inform myself what that exactly means and what DC-voltages they are rated for. My estimation is that they can handle 600 V DC. Therefore I think that 2.4 kV (4*600 V) are still a realistic maximum output voltage. The potentials at the nodes in th"
+  },
+  {
+   "id": "ib2spa2O2DQ",
+   "t": "Fallout Style Computer Build - Retrofuturism!",
+   "d": "2015-03-27",
+   "v": 326154,
+   "s": 695,
+   "vertical": false,
+   "desc": "2013 Computer + 1973 TV = ?\n\nMotherboard: http://www.asus.com/Motherboards/C60M1I/\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "LPzTdp64PWc",
+   "t": "Thermionic Emission Experiment - Vacuum Tube Tester (3)",
+   "d": "2015-04-02",
+   "v": 40599,
+   "s": 1484,
+   "vertical": false,
+   "desc": "Part 3 of the \"Vacuum Tube Tester\" - Series. \nThis time I perform some experiments to demonstrate the Edison / Edison-Guthrie-Effect (aka. as \"Thermionic Emission\"), on which vacuum tubes are based. I also show some methods to re-purpose magnetic moving coil instruments.\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "6_Lf9S0wE5s",
+   "t": "Building a Workbench with Vise and Bench Grinder",
+   "d": "2015-04-15",
+   "v": 74998,
+   "s": 943,
+   "vertical": false,
+   "desc": "In this video, I clean up my basement (again) and build a new workbench with a vise and bench grinder for the metal workshop.\nMy older video about cleaning the \"horror basement\":\nhttps://www.youtube.com/watch?v=a5XOnVoUjM0\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "yLU_cSNogF8",
+   "t": "Power Tool Repair Marathon",
+   "d": "2015-04-21",
+   "v": 1097109,
+   "s": 1408,
+   "vertical": false,
+   "desc": "In this video a bunch of power tools are being repaired.\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "emm3TCDWOUU",
+   "t": "Car Repair Marathon",
+   "d": "2015-05-10",
+   "v": 169491,
+   "s": 1390,
+   "vertical": false,
+   "desc": "Fixin' My Car...\n\nLink to the video about my car stereo hack: \nhttps://www.youtube.com/watch?v=a32neZo3McY\n\nSupport my channel: \n\nPatreon: \n\nhttps://www.patreon.com/TPAI\n\nPaypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "k5684mQJQRU",
+   "t": "How Welding Transformers Work.  Teardown and Explanation",
+   "d": "2015-05-26",
+   "v": 880536,
+   "s": 1825,
+   "vertical": false,
+   "desc": "In this video an arc welding machine is analyzed.\n\nMy latest video about reverse engineering some of the welding machines:\nhttps://www.youtube.com/watch?v=9rhGUkbqwCU\n\nMy video about \"Isolation Transformers, Variacs....\":\nhttps://www.youtube.com/watch?v=_pEmpvcNmXg\n\nSMPS Turtorial Part 5:\nhttps://www.youtube.com/watch?v=a21zh-obKWg\n\nSupport me on Patreon:\n\nhttps://www.patreon.com/TPAI?ty=h\n\nDonate via Paypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-Donati"
+  },
+  {
+   "id": "Z0Tgcgr_I20",
+   "t": "Metalworking Tools Repair Marathon",
+   "d": "2015-06-12",
+   "v": 254355,
+   "s": 1063,
+   "vertical": false,
+   "desc": "In this video  I once more go through a series of tool repair- and refurbishing jobs. \n\nLinks: \n\nMy Patreon Campaign: \nhttps://www.patreon.com/TPAI?ty=h\n\nPaypal Donation Link: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nVideo \"A Repair and Teardown Sunday!:\nhttps://www.youtube.com/watch?v=NokSrG7Jnnc\n\nVideo \"How Welding Transformers Work\":\nhttps://www.youtube.com/watch?v=k5684mQJQRU\n\nVideo \"Our Town Bromsg"
+  },
+  {
+   "id": "9rhGUkbqwCU",
+   "t": "TPAI Lab Report # 001:  Reverse Engineering / Welding Machines",
+   "d": "2015-06-19",
+   "v": 45906,
+   "s": 1323,
+   "vertical": false,
+   "desc": "My Patreon Campaign: \nhttps://www.patreon.com/TPAI?ty=h\n\nPaypal Donation Link: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nElectroMechanical Paul's Channel:\nhttps://www.youtube.com/channel/UCVY6ViPgA5vEjfcB7VfNPNQ"
+  },
+  {
+   "id": "6-2IN743tgA",
+   "t": "TPAI Lab Report # 002:  Salvaging and Reusing Parts from  Microwave Ovens and Washing Machines",
+   "d": "2015-06-26",
+   "v": 140098,
+   "s": 1910,
+   "vertical": false,
+   "desc": "In this video I go through the parts that you can salvage from both microwave ovens and washing machines. I also explain the original purpose of some of the components and make some suggestions how they could be reused.\n\nSupport me on Patreon:\n\nhttps://www.patreon.com/TPAI?ty=h\n\nDonate via Paypal:\n\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nMy video \"Isolation Transformers, Variacs and Autotransformers\":\nh"
+  },
+  {
+   "id": "h2YUO4_O4x8",
+   "t": "How to build a DIY Exercise Machine",
+   "d": "2015-07-04",
+   "v": 963795,
+   "s": 453,
+   "vertical": false,
+   "desc": "Don't take me too seriously..."
+  },
+  {
+   "id": "oRMmth6itGc",
+   "t": "Hack: Adding Bluetooth to  Car Stereos and Sound Systems",
+   "d": "2015-08-09",
+   "v": 1384877,
+   "s": 613,
+   "vertical": false,
+   "desc": "In this video I show how I integrated a Bluetooth receiver into my 20 year old car stereo system.\n\nMy Video about the first car stereo hack:\nhttps://www.youtube.com/watch?v=a32neZo3McY\n\nSupport my chanel on Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nSupport the Chanel via a Paypal donation: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "-ZTCQAZsOs8",
+   "t": "Salvaging Hall Effect Sensors and Neodymium Magnets - Build an RPM-meter",
+   "d": "2015-08-10",
+   "v": 73205,
+   "s": 566,
+   "vertical": false,
+   "desc": "In this video I demonstrate how both \"Hall Effect Sensors\" and \"Neodymium Magnets\" can be salvaged from broken or outdated devices.  I show several possible applications, like detection of magnetic fields and RPM-measurement.\n\nMy Video about the first car stereo hack:\nhttps://www.youtube.com/watch?v=a32neZo3McY\n\nSupport my chanel on Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nSupport the Chanel via a Paypal donation: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=P"
+  },
+  {
+   "id": "mSU-GeEe0P0",
+   "t": "Salvaging Useful Parts from Copy Machines:  Stepper Motors, BLDCs, SMPS, Laser Diodes etc",
+   "d": "2015-08-16",
+   "v": 495056,
+   "s": 588,
+   "vertical": false,
+   "desc": "In this episode I discuss which parts can be salvaged from copy machines.  \nCorrection: I said something wrong in the video. What I called a \"Flyback Converter\" is actually the circuit that powers the tube. The high voltage generator is for the drum. Sorry I didn't have time to take a closer look before making the video.\n\nSupport my channel on Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nSupport the channel via a Paypal donation: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_c"
+  },
+  {
+   "id": "kxmbWRW6wws",
+   "t": "TPAI Lab Report # 003:  Stepper Motor Drivers, Sine Wave Inverter, Briggs and Stratton, Proxxon etc",
+   "d": "2015-08-28",
+   "v": 55568,
+   "s": 2117,
+   "vertical": false,
+   "desc": "TPAI Lab Report #003\n\nSupport my channel on Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nSupport the channel via a Paypal donation: \nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "j3AAMxfdWWQ",
+   "t": "How to Convert a Car Stereo to  a Home Stereo System + Bluetooth",
+   "d": "2015-09-15",
+   "v": 369789,
+   "s": 1238,
+   "vertical": false,
+   "desc": "Building a home stereo system based on an old car stereo. \n\nMusic by Adrian von Ziegler.\nAdrian von Zieglers channel:\nhttps://www.youtube.com/user/AdrianvonZiegler\n\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nBecome a Patreon Supporter:\nhttps://www.patreon.com/TPAI\n\nMy video about the \"Car Stereo Hack\":\nhttps://www.youtube.com/watch?v=a32neZo3McY\n\nMy video about the \"Bluetooth Hack\":\n"
+  },
+  {
+   "id": "dIgHu959lAM",
+   "t": "TPAI Lab Report #004: MOTs, Welding Machines Update, Post Apocalyptic Novels, My Vacation",
+   "d": "2015-09-20",
+   "v": 34615,
+   "s": 1679,
+   "vertical": false,
+   "desc": "In this \"Lab Report\" I talk about MOTs, give an update on my welding machine projects and Patreon goals. I also show some stuff from my recent vacation. \n\nMusic by Adrian von Ziegler.\n\nBecome a Patreon Supporter:\nhttps://www.patreon.com/TPAI\n\nDonate via Paypal:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nMy Video about the Car Stereo Conversion:\nhttps://www.youtube.com/watch?v=j3AAMxfdWWQ"
+  },
+  {
+   "id": "BGhBOs6e3I4",
+   "t": "Salvaging and Reusing Useful Parts from Dishwashers + EXPERIMENTS",
+   "d": "2015-10-03",
+   "v": 349921,
+   "s": 1081,
+   "vertical": false,
+   "desc": "teardown, hack, experiments and explanations all around a Miele dishwasher...\n\nMy Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nPaypal-Donation-Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "8H-V-zC7xj4",
+   "t": "TPAI Lab Report #005: Vacuum Tube Amplifier and Power Supply, Circulating Pumps Update",
+   "d": "2015-10-23",
+   "v": 18552,
+   "s": 854,
+   "vertical": false,
+   "desc": "In this epsiode of the \"Lab Report\" I present a vacuum tube amplifier, show the progress on my vacuum tube tester / power supply and talk about new solutions concerning my dish washer-circulating pump idea.\n\nMy Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nPaypal-Donation-Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest"
+  },
+  {
+   "id": "7ScNWe3otkA",
+   "t": "TPAI Lab Report #006: AvE, The EDM and Self Made Lab Equipment",
+   "d": "2015-11-03",
+   "v": 34624,
+   "s": 855,
+   "vertical": false,
+   "desc": "In this video I talk about my cooperation with AvE, the EDM-project and the lab equipment that I developed as part of that project. \n\nAvE-Channel on Youtube:\n\nhttps://www.youtube.com/user/arduinoversusevil\n\nEDM = Electrical Discharge Machining / Machine \nIn German: \"Funkenerodieren /Funkenerosives Bearbeiten\"\nAve's video about the idea / project: \nhttps://www.youtube.com/watch?v=EeKreZqgi9M\n\nMy Patreon:\nhttps://www.patreon.com/TPAI?ty=h\n\nPaypal-Donation Link\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20"
+  },
+  {
+   "id": "QfSbiTSyzY8",
+   "t": "Repairs by the Number, Troubles by the Score  - Part 1",
+   "d": "2015-11-28",
+   "v": 62714,
+   "s": 917,
+   "vertical": false,
+   "desc": "Repairing, Fixing, Building ...\n\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nVideo about Dishwashers:\nhttps://www.youtube.com/watch?v=BGhBOs6e3I4"
+  },
+  {
+   "id": "Y7TOTX3zBRk",
+   "t": "Repairs by the Number, Troubles by the Score  - Part 2",
+   "d": "2015-11-29",
+   "v": 55206,
+   "s": 931,
+   "vertical": false,
+   "desc": "More Repairing, Fixing, Building ...\n\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nPart 3:\nhttps://www.youtube.com/watch?v=9EK65pwdGTI"
+  },
+  {
+   "id": "9EK65pwdGTI",
+   "t": "Repairs by the Number, Troubles by the Score - Part 3",
+   "d": "2015-12-07",
+   "v": 44372,
+   "s": 871,
+   "vertical": false,
+   "desc": "Even more Repairing, Fixing, Building ...\n\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nPart 1: https://www.youtube.com/watch?v=QfSbiTSyzY8\n\nPart 2: https://www.youtube.com/watch?v=Y7TOTX3zBRk\n\nVideo with information about Phase Fired Controllers:\nhttps://www.youtube.com/watch?v=NokSrG7Jnnc"
+  },
+  {
+   "id": "NGv4nPf9I9Y",
+   "t": "Toys Repair Marathon ( Faller Play Train )",
+   "d": "2015-12-16",
+   "v": 45549,
+   "s": 842,
+   "vertical": false,
+   "desc": "Fixing some toys for the Holiday Season.\n\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=inventordonations%40gmail%2ecom&lc=US&item_name=The%20Post%20Apocalyptic%20Inventor&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\n\nRecent Repair Videos:\n\nPart 1: https://www.youtube.com/watch?v=QfSbiTSyzY8\n\nPart 2: https://www.youtube.com/watch?v=Y7TOTX3zBRk\n\nPart 3: https://www.youtube.com/watch?v=9EK65pwdGTI"
+  },
+  {
+   "id": "rDzM30O-lsY",
+   "t": "TPAI - New Year's Eve Special",
+   "d": "2015-12-31",
+   "v": 18416,
+   "s": 196,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal Donation Link:\nhttps://www.paypal.com/cgi-bin/webscr..."
+  },
+  {
+   "id": "xMyYuXPwmik",
+   "t": "TPAI Lab Report #007: EDM PSU Update + \"Mailbag Monday\" (Rinoa Super-Genius)",
+   "d": "2016-02-14",
+   "v": 19569,
+   "s": 785,
+   "vertical": false,
+   "desc": "Link to Rinoa's Channel: https://www.youtube.com/user/icc3a1800\nMy Patreon: https://www.patreon.com/TPAI\nPaypal Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "ifR2J7voFqU",
+   "t": "Adding a Power Inverter and USB Power to your Dashboard /Car",
+   "d": "2016-02-19",
+   "v": 203527,
+   "s": 1057,
+   "vertical": false,
+   "desc": "Adding a power inverter and a usb power source to my \"dashboard\".\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal Donation Link: https://goo.gl/wq74oG\n\nBuck Converters:\nhttps://www.youtube.com/watch?v=r_AAdxwfim8\nLinear Regulators:\nhttps://www.youtube.com/watch?v=BjTD9EVs9v8\nAdding Line-In to Car Stereos\nhttps://www.youtube.com/watch?v=a32neZo3McY\nAdding Bluetooth to Car Stereos\nhttps://www.youtube.com/watch?v=oRMmth6itGc\nCar Repair Marathon\nhttps://www.youtube.com/watch?v=emm3TCDWOUU\nMore Car Repairs\nhttps://www.youtube.com/watch?v=Y7TOTX3zBRk\n\nSome have commented about the rather thin w"
+  },
+  {
+   "id": "tlSS-nPJUDQ",
+   "t": "German Tools Review: Knipex, Wiha, Wera, WGB, (Proxxon)",
+   "d": "2016-02-26",
+   "v": 341991,
+   "s": 1528,
+   "vertical": false,
+   "desc": "Review of tools by Knipex, Wiha, Wera, WGB and Proxxon\n\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal Donation Link: https://goo.gl/wq74oG\n\nMy Video: \"Power Tool Repair Marathon\":\nhttps://www.youtube.com/watch?v=yLU_cSNogF8\n\nEarlier Review of the Proxxon Tools: \nhttps://www.youtube.com/watch?v=kxmbWRW6wws\n\nWebsites/Channel of the companies mentioned in the video:\n\nKnipex\nhttp://www.knipex.com/\nWiha\nhttp://www.wiha.com/en/\nWera\nhttp://www.wera-tools.co.uk/\nWGB\nhttp://www.wgb-werkzeuge.de/?lang=en\nProxxon:\nhttp://www.proxxon.com/en/industrial/socket-sets-in-sturdy-steel-cases.php\n\nProxxon"
+  },
+  {
+   "id": "yvFtXKcSPEs",
+   "t": "TPAI Lab Report #008: Universal Motors and Induction Motors",
+   "d": "2016-03-06",
+   "v": 42562,
+   "s": 1069,
+   "vertical": false,
+   "desc": "This video is about universal motors and induction motors.\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal Donation Link: https://goo.gl/wq74oG\n\nMy video about \u201cHall Effect Sensors and Neodymium Magnets\u201d:\nhttps://www.youtube.com/watch?v=-ZTCQAZsOs8\n\nMy video about \u201cDC Motors\u201d:\nhttps://www.youtube.com/watch?v=C1-klL3B9LU\n\nMy video about the \u201cDishwasher Teardown\u201d:\nhttps://www.youtube.com/watch?v=BGhBOs6e3I4\n\nLink concerning the \u201cSteinmetz Circuit\u201d:\nhttps://de.wikipedia.org/wiki/Datei:Steinmetzschema-1.svg"
+  },
+  {
+   "id": "tUQg2WiHpUY",
+   "t": "How to Reuse Washing Machine Motors -  (The Simple Way )",
+   "d": "2016-03-10",
+   "v": 1560120,
+   "s": 1078,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nMy (last) video about \"Induction Motors and Universal Motors\":\nhttps://www.youtube.com/watch?v=yvFtXKcSPEs\n\nMy video about \"Air Compressors\": (Where I build that vacuum cleaner controller device)\nhttps://www.youtube.com/watch?v=jnDnDAxdFnI\n\nMy video about \"Isolation Transformers\":\nhttps://www.youtube.com/watch?v=_pEmpvcNmXg"
+  },
+  {
+   "id": "cxgG4cUsYGk",
+   "t": "TPAI Lab Report #009: Playing With Old Printers / Update",
+   "d": "2016-03-25",
+   "v": 30501,
+   "s": 1252,
+   "vertical": false,
+   "desc": "Trying to get some old printers running again.\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal donation link: https://goo.gl/6wLG6z"
+  },
+  {
+   "id": "aBVb87kemJI",
+   "t": "How to Reuse Washing Machine Motors (2)",
+   "d": "2016-03-31",
+   "v": 873272,
+   "s": 2172,
+   "vertical": false,
+   "desc": "My Patreon: http://www.Patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nWikipedia Article \"Revolutions per Minute\"\nhttps://en.wikipedia.org/wiki/Revolutions_per_minute\n\nSource for cheap wire wound potentiometers:\nhttp://www.pollin.de/shop/dt/NTY5OTkxOTk-/Bauelemente_Bauteile/Sortimente/Passive_Bauteile/Sortiment_Draht_Potis.html"
+  },
+  {
+   "id": "n1d8Mh5ZChI",
+   "t": "Making Cool Retro Sci-Fi Decorations",
+   "d": "2016-04-12",
+   "v": 20703,
+   "s": 990,
+   "vertical": false,
+   "desc": "Arts n' Crafts with TPAI.\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nMy video in which I made the bed and the desk:\nhttps://www.youtube.com/watch?v=9EK65pwdGTI\n\nMy video in which I struggled to get those old printers running:\nhttps://www.youtube.com/watch?v=cxgG4cUsYGk"
+  },
+  {
+   "id": "IhWPR7GAZfQ",
+   "t": "TPAI Lab Report #010: My New (Old) Lathe",
+   "d": "2016-04-13",
+   "v": 26254,
+   "s": 440,
+   "vertical": false,
+   "desc": "Taking a first look at the parts of a lathe that I just bought.\nThe Hacksmith: https://www.youtube.com/user/MstrJames\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "wTG-vBlX32I",
+   "t": "Lathe Restoration (1):  Paint and Rust Removal Methods, Assembling the Basic Frame",
+   "d": "2016-04-22",
+   "v": 88171,
+   "s": 1126,
+   "vertical": false,
+   "desc": "Restoration of an old lathe.\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nVideo about the parts of the lathe: https://www.youtube.com/watch?v=IhWPR7GAZfQ"
+  },
+  {
+   "id": "NWgGxiEtypo",
+   "t": "Lathe Restoration (2): The Tailstock + New Paintjob",
+   "d": "2016-05-03",
+   "v": 72388,
+   "s": 737,
+   "vertical": false,
+   "desc": "Part 2 of my lathe restoration series.\nLink to part 1: https://www.youtube.com/watch?v=wTG-vBlX32I\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "HN590K81D5c",
+   "t": "Rust Removal Experiments: Electrolysis",
+   "d": "2016-05-09",
+   "v": 577876,
+   "s": 860,
+   "vertical": false,
+   "desc": "Rust removal with electrolysis using a welding machine as the current source.\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nLathe Restoration videos:\nhttps://www.youtube.com/playlist?list=PLxaGnte1Dq0ni-d9CVGXkY3n1j32HQ4Wj\n\nInteresting videos about electrolytic rust removal (by other Youtubers):\nhttps://www.youtube.com/watch?v=54ADeB6V1rQ\nhttps://www.youtube.com/watch?v=AQNvhUYqCkw\nhttps://www.youtube.com/watch?v=QoFqaPwnGzg\nhttps://www.youtube.com/watch?v=NKZv14-K71g"
+  },
+  {
+   "id": "jqN5zY_T2Kc",
+   "t": "Rust Removal Experiments: Citric Acid, Cider Vinegar, Rostio",
+   "d": "2016-05-10",
+   "v": 286661,
+   "s": 954,
+   "vertical": false,
+   "desc": "A video about using citric acid, cider vinegar and \"Rostio\" for rust removal purposes.\nMy Patreon:https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nbackground info for the chemical reactions (in German):\nhttp://www.chemieunterricht.de/dc2/citrone/c_t6.htm"
+  },
+  {
+   "id": "MqO-QoPxQAE",
+   "t": "TPAI Lab Report #011: Sandblasting Cabinet and Guns",
+   "d": "2016-05-21",
+   "v": 26691,
+   "s": 628,
+   "vertical": false,
+   "desc": "TPAI Lab Report #011: Sandblasting Cabinet and Guns\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nChandler Dickinson's video review of a cheap sand blasting cabinet:\nhttps://www.youtube.com/watch?v=lFHKuXN9H58"
+  },
+  {
+   "id": "H2Ymm51csJQ",
+   "t": "TPAI Lab Report #012: The Fantasy Room",
+   "d": "2016-05-28",
+   "v": 21703,
+   "s": 707,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "CUadxILh5Uw",
+   "t": "TPAI Lab Report #013: Sandblasting Cabinet Update + More",
+   "d": "2016-06-07",
+   "v": 20326,
+   "s": 711,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "PqcgeDinXlc",
+   "t": "The old Mercedes-Benz 280 SE (W108):  Taking a Closer Look",
+   "d": "2016-06-10",
+   "v": 32158,
+   "s": 682,
+   "vertical": false,
+   "desc": "Taking a closer look at the old Benz in my garage...\nMy Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "MLeuDbyON9E",
+   "t": "Securing the House Against Burglars",
+   "d": "2016-06-17",
+   "v": 118514,
+   "s": 759,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "ESG7Uw6kBsE",
+   "t": "Cheap IP Camera Basics + Product Reviews",
+   "d": "2016-06-25",
+   "v": 303629,
+   "s": 1046,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI?ty=h\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nManufacturers by MAC-ID:\nhttp://standards-oui.ieee.org/oui/oui.txt\n\nHow to find out the MAC-ID of your camera /device:\nIf you are on the same network you can open up a Terminal:\n\nping your_ip_address\n\nhit Ctrl-C on the keyboard to stop pinging then do a:\n\narp -a\n\na list should appear, look for the ip you just pinged and next to it is the MAC address of the device."
+  },
+  {
+   "id": "w47cNK5mCWo",
+   "t": "IP Camera Teardown",
+   "d": "2016-07-03",
+   "v": 65208,
+   "s": 739,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\n\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nMy first video about IP-cameras:\nhttps://www.youtube.com/watch?v=ESG7Uw6kBsE"
+  },
+  {
+   "id": "npCHu9Shwsk",
+   "t": "A Gift from the Nuclear Energy Research Lab",
+   "d": "2016-07-07",
+   "v": 80152,
+   "s": 713,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "V_oTTs08-q4",
+   "t": "My \"New\" Volvo 740",
+   "d": "2016-07-15",
+   "v": 73564,
+   "s": 497,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "0vALlaDz7Bk",
+   "t": "The DIY Video Projector",
+   "d": "2016-07-22",
+   "v": 133419,
+   "s": 779,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/6wLG6z"
+  },
+  {
+   "id": "-uB3piEZKMk",
+   "t": "MacGyver Moments:  Lifting Washing Machines Up The Stairs",
+   "d": "2016-07-29",
+   "v": 33446,
+   "s": 164,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "yS7eDLJt_Bw",
+   "t": "MacGyver Moments:  Installing a Heavy Projector Screen on the Ceiling",
+   "d": "2016-07-30",
+   "v": 31092,
+   "s": 175,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG"
+  },
+  {
+   "id": "pRTg1oYH8bU",
+   "t": "DIY Projector Upgrades",
+   "d": "2016-08-06",
+   "v": 92155,
+   "s": 487,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nFirst video about the DIY projector:\nhttps://www.youtube.com/watch?v=0vALlaDz7Bk\n\nLC Display use in this video:\nhttps://www.amazon.de/gp/product/B013SMUTYS/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1"
+  },
+  {
+   "id": "wdqaVtWtf3I",
+   "t": "Volvo 740 Repairs: Turn Signals, Fuel Filter, Fuel Pump",
+   "d": "2016-08-12",
+   "v": 56076,
+   "s": 763,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nFirst Volvo-Video:\nhttps://www.youtube.com/watch?v=V_oTTs08-q4"
+  },
+  {
+   "id": "ow9ZbvU4xd8",
+   "t": "Volvo 740 Repairs: Oil Change, Underbody, Air Filter, Downpipe etc.",
+   "d": "2016-08-13",
+   "v": 34457,
+   "s": 633,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: https://goo.gl/wq74oG\n\nFirst Volvo Video:\nhttps://www.youtube.com/watch?v=V_oTTs08-q4\nSecond Volvo Video:\nhttps://www.youtube.com/watch?v=wdqaVtWtf3I"
+  },
+  {
+   "id": "5K0he6zbebM",
+   "t": "How to Add a Line-In and Bluetooth to old Stereo Systems (1)",
+   "d": "2016-08-19",
+   "v": 200456,
+   "s": 839,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: Can be found on the bottom of this page:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nEarlier Videos about Audio Hacks:\nOld Radios-Line-In-Hack:\nhttps://www.youtube.com/watch?v=nKbYu_80Afg\nCar Stereo Line-In Hack:\nhttps://www.youtube.com/watch?v=a32neZo3McY\nCar Stereo Bluetooth-Hack:\nhttps://www.youtube.com/watch?v=oRMmth6itGc\nCar Stereo-Home Stereo-Conversion:\nhttps://www.youtube.com/watch?v=j3AAMxfdWWQ"
+  },
+  {
+   "id": "OuAaHSWzCbQ",
+   "t": "How to Add a Line-In and Bluetooth to old Stereo Systems (2)",
+   "d": "2016-08-20",
+   "v": 103453,
+   "s": 633,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: Can be found on the bottom of this page:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nFirst Video in the series:\nhttps://www.youtube.com/watch?v=5K0he6zbebM\n\nVideos about Isolation Transformers:\nhttps://www.youtube.com/watch?v=OBYzvkY2-eA\nand\nhttps://www.youtube.com/watch?v=_pEmpvcNmXg"
+  },
+  {
+   "id": "zNrJsChNmh0",
+   "t": "Big Changes Are Coming! I Need Your Help!",
+   "d": "2016-08-21",
+   "v": 53727,
+   "s": 684,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: Can be found on the bottom of this page:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nContact me under: inventordonations@gmail.com"
+  },
+  {
+   "id": "01F1gkNesAU",
+   "t": "How to Add a Line-In and Bluetooth to Old Stereo Systems (3)",
+   "d": "2016-08-23",
+   "v": 469575,
+   "s": 709,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPart 1 and 2:\nhttps://www.youtube.com/watch?v=5K0he6zbebM\nhttps://www.youtube.com/watch?v=OuAaHSWzCbQ\n\nVideo about Car Radio-Bluetooth-Receiver-Hack:\nhttps://www.youtube.com/watch?v=oRMmth6itGc"
+  },
+  {
+   "id": "cYPkYb4kT00",
+   "t": "TPAI Lab Report #015:  Volvo 740 Update + MAILBAG!",
+   "d": "2016-08-27",
+   "v": 27657,
+   "s": 567,
+   "vertical": false,
+   "desc": "My Patreon: https://www.patreon.com/TPAI\nPaypal-Donation Link: Can be found on the bottom of this page:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about"
+  },
+  {
+   "id": "UrtEUH815Y8",
+   "t": "New Workbench, Scope, Component Tester, DMM, Laptop and more",
+   "d": "2016-09-23",
+   "v": 55969,
+   "s": 895,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nLink for component tester (Germany):\nhttps://www.amazon.de/KKmoon-Multifunktionale-Kondensator-Induktivit%C3%A4t-LCD-Hintergrundbeleuchtung/dp/B00XKMZX66/ref=sr_1_1?ie=UTF8&qid=1474647237&sr=8-1&keywords=komponententester"
+  },
+  {
+   "id": "HUQWeJsdm6M",
+   "t": "Yamaha AV Receiver Teardown, Troubleshooting and Salvage",
+   "d": "2016-09-30",
+   "v": 329666,
+   "s": 757,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this page:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about"
+  },
+  {
+   "id": "HuC2LS56HWI",
+   "t": "Online with my 1980 - TV Set",
+   "d": "2016-10-07",
+   "v": 588624,
+   "s": 1044,
+   "vertical": false,
+   "desc": "My Patreon: \nhttps://www.patreon.com/TPAI\n\nPaypal-Donation-Link on the bottom of this screen:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nAdaptor-Cable for Raspberry Pi (2/3) Composite Video Output:\n\nhttps://www.amazon.de/Audio-Video-Kabel-Raspberry-Modell-poligem-Klinkenstecker/dp/B00NTBHRBC/ref=sr_1_1?ie=UTF8&qid=1475872395&sr=8-1&keywords=raspberry+pi+composite\n\nRF-Modulator-Kit:\nhttp://www.pollin.de/shop/dt/NjM3OTgxOTk-/Bauelemente_Bauteile/Bausaetze_Module/Bausaetze/UHF_PLL_Modulator_Bausatz_Bundle.html\n\nHDMI to VGA- Adaptor:\nhttps://www.amazon.de/%C3%9Cbertragung-Konv"
+  },
+  {
+   "id": "YFQLF_yj_j8",
+   "t": "Old Consoles + Modern LCDs? Testing Cheap Composite to HDMI / VGA -Converters",
+   "d": "2016-10-15",
+   "v": 136408,
+   "s": 678,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nConverters (USA):\nComposite to HDMI\nhttps://www.amazon.com/Akale-Composite-Converter-Adapter-Blue-Ray/dp/B01HFGUQUK/ref=sr_1_3?ie=UTF8&qid=1476552620&sr=8-3&keywords=Composite+to+hdmi\n\nComposite to VGA\nhttps://www.amazon.com/ABLEGRID%C2%AE-Composite-S-Video-Converter-Monitor/dp/B01HXKBP8K/ref=sr_1_1?ie=UTF8&qid=1476552638&sr=8-1-spons&keywords=Composite+to+vga&psc=1\n\nConverters (Germany):\nComposite to HDMI\nhttps://www.amazon.de/Akale-Composi"
+  },
+  {
+   "id": "AC6UiIDPpEk",
+   "t": "Hack: DIY Video Projector from 1960s Slide Projector ?!",
+   "d": "2016-10-22",
+   "v": 459734,
+   "s": 518,
+   "vertical": false,
+   "desc": "Watch part II: https://www.youtube.com/watch?v=xqD5ybEUVHs\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nVideos about my DIY-Projectors:\nhttps://www.youtube.com/watch?v=0vALlaDz7Bk\nhttps://www.youtube.com/watch?v=pRTg1oYH8bU\n\nLink for cheap cameras will follow later."
+  },
+  {
+   "id": "KmiAC1f1Tx0",
+   "t": "Hack: Retro Headphones with Bluetooth!",
+   "d": "2016-10-28",
+   "v": 26304,
+   "s": 645,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nEarlier Bluetooth-Projects:\nhttps://www.youtube.com/playlist?list=PLxaGnte1Dq0nY84nRsA2mm7RQ76FEkp4c\n\nBluetooth-Receivers (USA):\nhttps://www.amazon.com/iClever%C2%AE-Portable-Wireless-Bluetooth-Headphones/dp/B00FLL2ZTW\n\nBluetooth-Receivers (Germany):\nhttps://www.amazon.de/gp/product/B00EHDY77I/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1"
+  },
+  {
+   "id": "VHasjAM2Ck4",
+   "t": "An Incredible Gift - My New Car! (Subaru Legacy GX)",
+   "d": "2016-11-05",
+   "v": 50103,
+   "s": 799,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about"
+  },
+  {
+   "id": "Wnt6Aeq7eHc",
+   "t": "Insane Chemistry Lab - Flea Market Score!",
+   "d": "2016-11-15",
+   "v": 46340,
+   "s": 1640,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nVideo about a capsule-filling-device:\nhttps://www.youtube.com/watch?v=TiGwZ6_oFZo&t=177s"
+  },
+  {
+   "id": "M6TvCOPN5pI",
+   "t": "Hack: Digital Microscope with Raspberry Pi + PiCam",
+   "d": "2016-11-20",
+   "v": 91467,
+   "s": 1006,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nCamera-Module:\nhttp://www.ebay.de/itm/Raspberry-Pi-Camera-Module-adjustable-focus-5-Megapixel-WS86004-/281689917021?hash=item419607065d:g:qk4AAOSwcUBYFROI\n\nBresser-Camera-Module:\nhttps://www.amazon.de/Bresser-Mikroskop-Teleskop-verschiedenen-Adaptern/dp/B01GG2EUWO/ref=sr_1_1?ie=UTF8&qid=1479664843&sr=8-1&keywords=bresser+mikrokular\n\nPiCam Documentation:\nhttps://www.raspberrypi.org/documentation/usage/camera/python/README.md\n\nffmpeg ducumenta"
+  },
+  {
+   "id": "Afzzvj_KAdA",
+   "t": "Repairing a Canon EOS 60D DSLR  with Faulty SD Card Slot + Updates",
+   "d": "2016-12-10",
+   "v": 90340,
+   "s": 972,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about"
+  },
+  {
+   "id": "xqD5ybEUVHs",
+   "t": "Hack: DIY Projector with Raspberry Pi, PiTFT and Slide Projector ?",
+   "d": "2016-12-16",
+   "v": 148078,
+   "s": 671,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nFirst Video about Slide Projector:\nhttps://www.youtube.com/watch?v=AC6UiIDPpEk&t=1s\n\nVideos about my other DIY-Projectors:\nhttps://www.youtube.com/watch?v=0vALlaDz7Bk\nhttps://www.youtube.com/watch?v=pRTg1oYH8bU\n\n2.2'' PiTFT on Adafruit-Website:\nhttps://www.adafruit.com/product/2315"
+  },
+  {
+   "id": "4OdjQNf5lJE",
+   "t": "Trailer: RC Raft from Insulation Board and Server Fans",
+   "d": "2016-12-24",
+   "v": 31534,
+   "s": 211,
+   "vertical": false,
+   "desc": "Full Epsiode here: https://www.youtube.com/watch?v=0iVRTMB66iM\n\nMy Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about"
+  },
+  {
+   "id": "0iVRTMB66iM",
+   "t": "Building an RC Raft from Server Fans and Insulation Board",
+   "d": "2016-12-31",
+   "v": 37202,
+   "s": 1542,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nMy video about DC motors:\nhttps://www.youtube.com/watch?v=C1-klL3B9LU"
+  },
+  {
+   "id": "lswoIX45A-4",
+   "t": "Trailer: Powerful Ducted Propeller with Washing Machine Motor",
+   "d": "2017-01-07",
+   "v": 65334,
+   "s": 318,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "KTZ9PB3l3jI",
+   "t": "Building a Ducted Propeller with a Washing Machine Motor",
+   "d": "2017-01-16",
+   "v": 881385,
+   "s": 1175,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "5Us4iwMZN3s",
+   "t": "Trailer: Building a Lab Power Supply from Audio Equipment +  Buck / Boost Converters",
+   "d": "2017-01-27",
+   "v": 23844,
+   "s": 140,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "J3N6RX_wAJg",
+   "t": "Lab Power Supply from Broken Audio Amp + Buck and Boost Converters",
+   "d": "2017-02-04",
+   "v": 165552,
+   "s": 1341,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "gSIXs9xoxNs",
+   "t": "Update: Lab Power Supply, Electric Motor Test Stand, New Workshop?",
+   "d": "2017-02-11",
+   "v": 58280,
+   "s": 1690,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "_CFIovMkRyg",
+   "t": "Building a Lab Power Supply with a Discrete Linear Regulator",
+   "d": "2017-02-24",
+   "v": 108877,
+   "s": 1849,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "ylPgUHSIoRo",
+   "t": "Trailer: Reuse, Modify and Calculate Cool Old Meters",
+   "d": "2017-03-04",
+   "v": 20266,
+   "s": 190,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "M1a5F4-nQho",
+   "t": "Reusing Old Meters (1): Voltmeters",
+   "d": "2017-03-12",
+   "v": 59659,
+   "s": 1150,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "YRtC2Ty1lLk",
+   "t": "Reusing Old Meters (2): Ammeters",
+   "d": "2017-03-17",
+   "v": 32702,
+   "s": 905,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nLink for the Programs \"Meter / Meter Basic\":\nhttp://www.tonnesoftware.com/meter.html\n\nSource for the Bulgarian NOS-Meters:\nhttp://www.pollin.de/shop/dt/MDA0OTYxOTk-/Messtechnik/Einbauinstrumente_Zaehler/Analoge_Einbauinstrumente/Drehspul_Einbauinstrument_0_40_V_.html\n\nVU-Meters:\nhttp://objectivesounds.co.uk/articles/driving-vu-and-other-ac-meters/"
+  },
+  {
+   "id": "fj87Fu298MY",
+   "t": "Trailer: Portable Car Radio Tester",
+   "d": "2017-03-25",
+   "v": 16398,
+   "s": 176,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "rgYzt91kENU",
+   "t": "The Car Radio Tester",
+   "d": "2017-04-01",
+   "v": 52608,
+   "s": 847,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "41XywTEHU8A",
+   "t": "Repairing an Apple iPad 3 with Broken Screen / Digitizer",
+   "d": "2017-06-27",
+   "v": 26938,
+   "s": 611,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nAmazon-Link for iPad-repair kit.\n\nGermany: \nhttps://www.amazon.de/BLACK-Touch-Screen-Digitizer-Kleber-Generation-Version/dp/B00MPFBD9U/ref=pd_sim_201_4?_encoding=UTF8&psc=1&refRID=MMVJ6R0DJ7CFZ87FD1A7\n\nUS:\nhttps://www.amazon.com/Digitizer-Replacement-Adhesive-Toolkits-Tongyin/dp/B01MCVIXC4/ref=sr_1_27?ie=UTF8&qid=1498574675&sr=8-27&keywords=iPad+3+repair+kit"
+  },
+  {
+   "id": "CueH1QTA47Y",
+   "t": "Repairing a Pioneer CT-F850 Tape Deck  from 1979 (incl. Belt Replacement)",
+   "d": "2017-07-01",
+   "v": 274388,
+   "s": 781,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nebay-Link for belt-replacement kit:\nhttp://www.ebay.de/itm/Riemen-Belts-for-Pioneer-CT-F850-CT-F-850-Tape-Deck-/231789857198?rsta=en_DE(en_DE)&cnac=DE&mail=sys&e=op&unp_tpcid=email-receipt-auction-payment&ppid=PPX000608&calf=8ace3a9dc027b&calc=8ace3a9dc027b&pgrp=main:email&unptid=21799bac-197a-11e7-8bee-441ea14e757c&mchn=em&t=&s=ci&page=main:email&cal=8ace3a9dc027b&cust=\n\nVideo-series about "
+  },
+  {
+   "id": "XOyEXTmB37E",
+   "t": "Repairing Grundig  \"Stenorette\"  Dictaphones / Dictation Machines",
+   "d": "2017-07-08",
+   "v": 27970,
+   "s": 661,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "EEk4wSxZrwQ",
+   "t": "TPAI Lab Report #014: DIY Cargo Bike? Disk Writing Robot etc.",
+   "d": "2017-07-15",
+   "v": 36110,
+   "s": 659,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "YPTnaAJXoKU",
+   "t": "Getting Old Printers Running again with Ubuntu",
+   "d": "2017-07-31",
+   "v": 71394,
+   "s": 1192,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "xUtQTB2Pc40",
+   "t": "Railroad City, Germany - Hometown Trip",
+   "d": "2017-08-09",
+   "v": 41648,
+   "s": 1346,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "wAUFeNn42Lw",
+   "t": "Repairing and Restoring an Old Computer - (for those old Printers)",
+   "d": "2017-08-13",
+   "v": 123265,
+   "s": 935,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nVideo about the trip to my hometown:\nhttps://www.youtube.com/watch?v=xUtQTB2Pc40&t=25s\n\nReplacement Caps for the Motherbaord (3300uF):\n\nUnited States:\nhttps://www.amazon.com/3300uF-Nichicon-Radial-Electrolytic-Capacitor/dp/B00O6FE6UK/ref=sr_1_1?ie=UTF8&qid=1502661093&sr=8-1&keywords=6%2C3+V+3300+uF\n\nUnited Kingdom:\nhttps://www.amazon.co.uk/Sourcingmap-a14121700ux0478-3300Uf-Electrolytic-Capa"
+  },
+  {
+   "id": "H_JV7jTH4wU",
+   "t": "Salvage a Washing Machine Motor + Transmission from a Siemens Washing Machine",
+   "d": "2017-08-20",
+   "v": 498800,
+   "s": 976,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com"
+  },
+  {
+   "id": "CtulRqznbzI",
+   "t": "Inside a Washing Machine Motor: Explanation,  Pinout, Teardown AND Experiments",
+   "d": "2017-08-27",
+   "v": 1390346,
+   "s": 1522,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nTeardown of a Siemens Washing Machine:\nhttps://youtu.be/H_JV7jTH4wU\n\nReusing Washing Machine Motors (Thyristor Circuit):\nhttps://youtu.be/tUQg2WiHpUY\n\nDucted Propeller with Washing Machine Motor:\nhttps://www.youtube.com/watch?v=KTZ9PB3l3jI&t=25s\n\nVideo about the Power Grid: \nhttps://youtu.be/OBYzvkY2-eA\n\nVideo about the Isolation Transformer:\nhttps://youtu.be/_pEmpvcNmXg\n\nVideo about the Lab"
+  },
+  {
+   "id": "FgkcC7BnVCQ",
+   "t": "Drivetrain with Washing Machine Motors",
+   "d": "2017-09-17",
+   "v": 1314608,
+   "s": 686,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nTeardown of a Siemens Washing Machine:\nhttps://youtu.be/H_JV7jTH4wU\n\nReusing Washing Machine Motors (Thyristor Circuit):\nhttps://youtu.be/tUQg2WiHpUY\n\nDucted Propeller with Washing Machine Motor:\nhttps://www.youtube.com/watch?v=KTZ9PB3l3jI&t=25s"
+  },
+  {
+   "id": "pIJ-XGAJFx8",
+   "t": "Salvage a Big Electric Motor and Transmission from a Miele Washing Machine",
+   "d": "2017-10-07",
+   "v": 311573,
+   "s": 1125,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nTeardown of a Siemens Washing Machine:\nhttps://youtu.be/H_JV7jTH4wU\n\nDrivetrain with Washing Machine Motors:\nhttps://youtu.be/FgkcC7BnVCQ\n\n\nReusing Washing Machine Motors (Thyristor Circuit):\nhttps://youtu.be/tUQg2WiHpUY\n\nDucted Propeller with Washing Machine Motor:\nhttps://www.youtube.com/watch?v=KTZ9PB3l3jI&t=25s"
+  },
+  {
+   "id": "vxhBMiyy3y0",
+   "t": "Build Powerful Linear Actuators from Windshield Wiper Motors and Car Jacks",
+   "d": "2017-10-22",
+   "v": 2954894,
+   "s": 1273,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nTeardown of a Siemens Washing Machine:\nhttps://youtu.be/H_JV7jTH4wU\n\nDrivetrain with Washing Machine Motors:\nhttps://youtu.be/FgkcC7BnVCQ\n\n\nReusing Washing Machine Motors (Thyristor Circuit):\nhttps://youtu.be/tUQg2WiHpUY\n\nDucted Propeller with Washing Machine Motor:\nhttps://www.youtube.com/watch?v=KTZ9PB3l3jI&t=25s"
+  },
+  {
+   "id": "k7XKJWinG2U",
+   "t": "Build a Robot with Windshield Wiper Motors",
+   "d": "2017-11-25",
+   "v": 482420,
+   "s": 1728,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nFacebook: https://www.facebook.com/realTPAI\n\nvidme: https://vid.me/ThePostApocalypticInventor\n\nDrivetrain with Washing Machine Motors:\nhttps://youtu.be/FgkcC7BnVCQ"
+  },
+  {
+   "id": "KCAK03rdM-Y",
+   "t": "Shop Update: Mig/Mag Welder Repair and Modification",
+   "d": "2017-12-09",
+   "v": 62201,
+   "s": 537,
+   "vertical": false,
+   "desc": "A little Update about what the next episode is going to be about. AND YES: I'm posting updates on Youtube again. I tried to find aletrnative video-websites for this, but vid.me is now going out of business and a lot of people don't like to follow me on Facebook, so here they are back on YT."
+  },
+  {
+   "id": "6Gx9cBPrjAs",
+   "t": "MIG/MAG Welder Repair and Modification (I)",
+   "d": "2017-12-25",
+   "v": 182122,
+   "s": 1757,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nFacebook: https://www.facebook.com/realTPAI\n\nMy first video about welding machines:\nhttps://youtu.be/k5684mQJQRU"
+  },
+  {
+   "id": "l1L0YrjWQXo",
+   "t": "MIG/MAG Welder Wire Feeder Repair",
+   "d": "2018-01-05",
+   "v": 125085,
+   "s": 1664,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nFacebook: https://www.facebook.com/realTPAI\nPart1: https://youtu.be/6Gx9cBPrjAs\n\nMy first video about welding machines:\nhttps://youtu.be/k5684mQJQRU"
+  },
+  {
+   "id": "7F-6c5XKBB8",
+   "t": "Shop Update: Lathe Restoration Completed!",
+   "d": "2018-01-26",
+   "v": 38991,
+   "s": 216,
+   "vertical": false,
+   "desc": "Follow me on Facebook or Patreon for regular updates:\nhttps://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI/"
+  },
+  {
+   "id": "LpMLQb48mps",
+   "t": "My Lathe Restoration",
+   "d": "2018-01-30",
+   "v": 141121,
+   "s": 623,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI/\n\nPlaylist with older \"lathe restoration\" videos:\nhttps://www.youtube.com/playlist?list=PLxaGnte1Dq0ni-d9CVGXkY3n1j32HQ4Wj\n\nvideos about rust removal:\nhttps://www.youtube.com/playlist?list=PLxaGnte1Dq0na5T7IPjOBCwjLGGwPRCNe"
+  },
+  {
+   "id": "N2a4IsLJiDw",
+   "t": "Shop Update:MOT Welder / Welder from Microwave Oven Transformers",
+   "d": "2018-02-11",
+   "v": 84935,
+   "s": 554,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI/"
+  },
+  {
+   "id": "6Sm2kWuslrY",
+   "t": "Teardown of 250A TIG Welder - ESAB, Sweden",
+   "d": "2018-02-25",
+   "v": 71195,
+   "s": 1031,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nFacebook: https://www.facebook.com/realTPAI\n\nVideo about Stick Welder:\nhttps://youtu.be/k5684mQJQRU\n\nVideos about MIG/MAG-Welder:\nhttps://youtu.be/6Gx9cBPrjAs"
+  },
+  {
+   "id": "hYpD2ZsNPU0",
+   "t": "Analysis of 250A TIG Welder  - ESAB, Sweden",
+   "d": "2018-03-02",
+   "v": 42822,
+   "s": 700,
+   "vertical": false,
+   "desc": "My Patreon:\nhttps://www.patreon.com/TPAI\n\nPaypal-Donation Link on the bottom of this site:\nhttps://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/about\n\nPaypal-Email-Address: inventordonations@gmail.com\n\nFacebook: https://www.facebook.com/realTPAI\n\nPart 1:\nhttps://youtu.be/6Sm2kWuslrY\n\nVideo about Stick Welder:\nhttps://youtu.be/k5684mQJQRU\n\nVideos about MIG/MAG-Welder:\nhttps://youtu.be/6Gx9cBPrjAs"
+  },
+  {
+   "id": "Lsbnn7OBInA",
+   "t": "Update: Visiting Inventors in Berlin / Electric Motor Test Stand",
+   "d": "2018-03-24",
+   "v": 21562,
+   "s": 810,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI\nPaypal: inventordonations@gmail.com\n\nKonstruktiv Berlin:\nhttps://konstruktiv-berlin.de/"
+  },
+  {
+   "id": "8uV3vDV0PYM",
+   "t": "The Electric Motor Test Stand / Dyno - Test Runs and Motor-Experiments",
+   "d": "2018-04-08",
+   "v": 46928,
+   "s": 1551,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\n\nMusic by Protector 101:\nhttps://protector101.bandcamp.com/\nhttps://www.facebook.com/Protector101Music/"
+  },
+  {
+   "id": "MMpboSLJsA0",
+   "t": "Inventors in Berlin - A Documentary",
+   "d": "2018-04-22",
+   "v": 89038,
+   "s": 2048,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\n\nContact Information Berlin Inventors and Makers:\n\nKonstruktiv Berlin:\nhttps://konstruktiv-berlin.de/language/en/\nhttps://www.facebook.com/Konstruktiv-Berlin-369564456504382/\n\nTomsaw:\nhttps://tomsaw.de/\nhttps://www.facebook.com/tomsawde/\n\nMax Vogel:\nhttps://www.biomuelleimer.de/\nEspumante@web.de\n\nFlorian Huhoff:\nhttp://florian-huhoff.com/\nhttps://www.instagram.com/florianhuhoff/?hl=en\n\n\nMusic by Protector 101:\nhttps://www.youtube.com/user/Protector101Music\nhttps://protector101.bandc"
+  },
+  {
+   "id": "obTjJmvVDXI",
+   "t": "Retro Magic Hacks",
+   "d": "2018-05-12",
+   "v": 73247,
+   "s": 980,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\n\nOnline With My 1980 TV Set:\nhttps://www.youtube.com/watch?v=HuC2LS56HWI"
+  },
+  {
+   "id": "bkoLSOpoSLQ",
+   "t": "Braun (1957) - Music Console Repair",
+   "d": "2018-05-25",
+   "v": 70059,
+   "s": 1024,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.youtube.com/redirect?event=channel_description&redir_token=83vbLo3Qg0X88A2fJ1pHehwGlMx8MTUyNzM2ODQyMUAxNTI3MjgyMDIx&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dinventordonations%2540gmail%252ecom%26lc%3DUS%26item_name%3DThe%2520Post%2520Apocalyptic%2520Inventor%26no_note%3D0%26currency_code%3DUSD%26bn%3DPP%252dDonationsBF%253abtn_donateCC_LG%252egif%253aNonHostedGuest"
+  },
+  {
+   "id": "u9IcHJ1sxEc",
+   "t": "Creating Cool Sci-Fi LED Effects",
+   "d": "2018-06-16",
+   "v": 52527,
+   "s": 763,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "qLqU_2cjjMA",
+   "t": "Retro Sci-Fi LED Matrix Effects",
+   "d": "2018-06-27",
+   "v": 43809,
+   "s": 943,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nMy last video:\nhttps://youtu.be/u9IcHJ1sxEc"
+  },
+  {
+   "id": "Hn57hbV_b4s",
+   "t": "Fallout Style Tube Amp Build",
+   "d": "2018-07-21",
+   "v": 115008,
+   "s": 794,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "jP0LRoOV5tE",
+   "t": "DIY Fan Build",
+   "d": "2018-07-27",
+   "v": 102686,
+   "s": 631,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "vWl21yB3dqw",
+   "t": "HiFi Repair Marathon",
+   "d": "2018-08-12",
+   "v": 80197,
+   "s": 1204,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "9M4LjzH-tfk",
+   "t": "Vintage Audio Repair Marathon",
+   "d": "2018-08-17",
+   "v": 64191,
+   "s": 1196,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "Y0IOg36lg6Y",
+   "t": "DIY Wind Turbine Builds",
+   "d": "2018-08-24",
+   "v": 195478,
+   "s": 769,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "ZV07rEzcZrk",
+   "t": "German Wind Farms Under Construction",
+   "d": "2018-09-10",
+   "v": 17204,
+   "s": 688,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "7zfsHaaJg0o",
+   "t": "Apple Macintosh LC Retrobright / Restoration",
+   "d": "2018-09-14",
+   "v": 57074,
+   "s": 610,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "JrzQjBw1R6c",
+   "t": "Borg Cube Lamp Build",
+   "d": "2018-10-05",
+   "v": 22641,
+   "s": 738,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "DKNNZ3MvS7U",
+   "t": "Update: Sci-Fi Computer Desk",
+   "d": "2018-10-13",
+   "v": 31609,
+   "s": 794,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nVideos about LED-effects:\nhttps://www.youtube.com/watch?v=u9IcHJ1sxEc\nhttps://www.youtube.com/watch?v=qLqU_2cjjMA&t=6s\n\nVideo about CRT TVs:\nhttps://www.youtube.com/watch?v=HuC2LS56HWI&t=1s"
+  },
+  {
+   "id": "kCaNHxD7QYg",
+   "t": "Update: Weird CRT TVs and Retro Gaming",
+   "d": "2018-10-20",
+   "v": 25651,
+   "s": 666,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nVideos about LED-effects:\nhttps://www.youtube.com/watch?v=u9IcHJ1sxEc\nhttps://www.youtube.com/watch?v=qLqU_2cjjMA&t=6s\n\nVideo about CRT TVs:\nhttps://www.youtube.com/watch?v=HuC2LS56HWI&t=1s"
+  },
+  {
+   "id": "8YcKcyEtShk",
+   "t": "Retro Sci-Fi Computer Desk Build!",
+   "d": "2018-11-10",
+   "v": 113551,
+   "s": 1047,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nVideos about LED-effects:\nhttps://www.youtube.com/watch?v=u9IcHJ1sxEc\nhttps://www.youtube.com/watch?v=qLqU_2cjjMA&t=6s\n\nVideo about CRT TVs:\nhttps://www.youtube.com/watch?v=HuC2LS56HWI&t=1s"
+  },
+  {
+   "id": "oNYCyV92AjM",
+   "t": "Update:  My TV Show, Prop Making Jobs, Surveillance Robot",
+   "d": "2018-12-23",
+   "v": 27841,
+   "s": 836,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "dndsHjtQvUU",
+   "t": "New Workshop! (this time for real) - Shop Tour!",
+   "d": "2019-01-20",
+   "v": 38238,
+   "s": 470,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "OE5UPXjyaIw",
+   "t": "Washing Machine Motor ROBOT is back!",
+   "d": "2019-01-27",
+   "v": 60121,
+   "s": 1121,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nLink to the first video about the robot and the washing machine motor: \n\nhttps://www.youtube.com/watch?v=FgkcC7BnVCQ\n\nhttps://www.youtube.com/watch?v=CtulRqznbzI&t=697s"
+  },
+  {
+   "id": "yyZSlbQSZww",
+   "t": "Surveillance Robot Prop - First Prop Making Job(s)",
+   "d": "2019-02-08",
+   "v": 33039,
+   "s": 1355,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nFirst video about this project:\nhttps://youtu.be/oNYCyV92AjM"
+  },
+  {
+   "id": "sOh0LpcTG1Y",
+   "t": "Update:  Workshop - and Robot Upgrades",
+   "d": "2019-02-24",
+   "v": 33250,
+   "s": 720,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US\n\nLink to the first video about the robot and the washing machine motor: \n\nhttps://www.youtube.com/watch?v=FgkcC7BnVCQ\n\nhttps://www.youtube.com/watch?v=CtulRqznbzI&t=697s"
+  },
+  {
+   "id": "V1DznNQOL4s",
+   "t": "Build: Robot with Inexpensive Motors and Components",
+   "d": "2019-03-24",
+   "v": 134180,
+   "s": 717,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "ZrofNdyzdTY",
+   "t": "Announcement: New TV Show Airs Tonight! Trailer!",
+   "d": "2019-04-11",
+   "v": 32424,
+   "s": 95,
+   "vertical": false,
+   "desc": "The ten episodes will be aired every Thursday 21:15 CET on DMAX for the next ten weeks. \n\nVideo link for the first episode\nhttps://www.dmax.de/programme/dein-bestes-stuck-gebracht-gemacht/video/rummelplatz\n\nThe show is in German without subtitles. But if the show turns out to be a success there is a good chance that it will be \"exported\" to other countries later."
+  },
+  {
+   "id": "AWlj8vtT1zQ",
+   "t": "[GERMAN VIDEO] Schmiede-Schraubstock Restauration",
+   "d": "2019-04-24",
+   "v": 15638,
+   "s": 735,
+   "vertical": false,
+   "desc": "ENGLISH VERSION: https://www.youtube.com/watch?v=-pw4u67ca4c&t=29s\n\nhttps://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Spenden-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "-pw4u67ca4c",
+   "t": "Restoring a Blasckmith's Vise from the Scrapyard",
+   "d": "2019-04-24",
+   "v": 75294,
+   "s": 730,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "0ZAspSh9KZE",
+   "t": "(GERMAN VIDEO) Schwei\u00dftisch aus Schrott",
+   "d": "2019-04-27",
+   "v": 13441,
+   "s": 450,
+   "vertical": false,
+   "desc": "ENGLISH VERSION: https://www.youtube.com/watch?v=vBkB9VJWXUQ&t=300s&frags=pl%2Cwn\npatreon: patreon.com/TPAI"
+  },
+  {
+   "id": "vBkB9VJWXUQ",
+   "t": "Building a Welding Table from Scrap",
+   "d": "2019-04-27",
+   "v": 54538,
+   "s": 451,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nhttps://www.instagram.com/the_post_apocalyptic_inventor/\nhttps://www.facebook.com/realTPAI\nPaypal-Email-Address: inventordonations@gmail.com\nPaypal-Donation-Link:\nhttps://www.paypal.com/donate/?token=QbsZY3GnBoF1Ts8vL_-UwHRBVxQvvPPAD59kcL8x9hWlkCOXgfIjD3y1a7ZltPIWwg6Dmm&country.x=US&locale.x=US"
+  },
+  {
+   "id": "rnCOT8tbAX0",
+   "t": "Scrapyard Finds Repair-A-Thon",
+   "d": "2019-05-11",
+   "v": 378448,
+   "s": 823,
+   "vertical": false,
+   "desc": "Patreon: www.patreon.com/tpai\npaypal: inventordonations@gmail.com"
+  },
+  {
+   "id": "VTuXNHF7YKo",
+   "t": "[GERMAN VIDEO] Schrottplatz-Funde Reparatur-Marathon",
+   "d": "2019-05-16",
+   "v": 37104,
+   "s": 838,
+   "vertical": false,
+   "desc": "ENGLISH VERSION: https://www.youtube.com/watch?v=rnCOT8tbAX0&t=673s\npatreon: www.patreon.com/TPAI\npaypal: inventordonations@gmail.com"
+  },
+  {
+   "id": "w2uEX_kCTJU",
+   "t": "New Scrapyard Finds! Repair-A-Thon!",
+   "d": "2019-06-01",
+   "v": 324577,
+   "s": 941,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal: inventordonations@gmail.com\n\nLast Repair-A-Thon: https://www.youtube.com/watch?v=rnCOT8tbAX0&t=674s\nWelder repair videos: https://www.youtube.com/watch?v=6Gx9cBPrjAs"
+  },
+  {
+   "id": "46nI3SiL6qA",
+   "t": "[GERMAN VIDEO] Schrottplatz-Werkzeug Reparatur-Marathon",
+   "d": "2019-06-08",
+   "v": 19449,
+   "s": 923,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal: inventordonations@gmail.com\n\nVideo \u00fcber Schwei\u00dfger\u00e4te-Reparatur:  https://www.youtube.com/watch?v=6Gx9cBPrjAs\n\nENGLISH VERSION:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=48s"
+  },
+  {
+   "id": "kwJh6Uq4J50",
+   "t": "More Scrapyard Finds!  Repair-A-Thon!",
+   "d": "2019-06-22",
+   "v": 449288,
+   "s": 1001,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nPaypal: inventordonations@gmail.com"
+  },
+  {
+   "id": "cvayDrE5vDU",
+   "t": "[GERMAN] Mehr Schrottplatz Funde - Reparatur Marathon!",
+   "d": "2019-06-30",
+   "v": 21843,
+   "s": 1013,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\nPaypal: inventordonations@gmail.com\nENGLISH VERSION: https://www.youtube.com/watch?v=kwJh6Uq4J50"
+  },
+  {
+   "id": "vkAH8-rBomY",
+   "t": "Even More Scrapyard Finds! Repair-A-Thon",
+   "d": "2019-07-20",
+   "v": 449729,
+   "s": 1025,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal donations: inventordonations@gmail.com"
+  },
+  {
+   "id": "5fl4u2Xvm2k",
+   "t": "Update: My Accident At Sea / Our Music Festival",
+   "d": "2019-09-14",
+   "v": 51401,
+   "s": 864,
+   "vertical": false,
+   "desc": "An update on recent events and works"
+  },
+  {
+   "id": "weywkv6KzHk",
+   "t": "Many More Scrapyard Finds! Repair-A-Thon!",
+   "d": "2019-09-28",
+   "v": 427021,
+   "s": 1436,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal donations: inventordonations@gmail.com\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nLathe Restoration:\nhttps://www.youtube.com/watch?v=LpMLQb48mps"
+  },
+  {
+   "id": "yQ0b7U2dk8s",
+   "t": "Great Scrapyard Finds! Repair-A-Thon!",
+   "d": "2019-10-12",
+   "v": 291712,
+   "s": 1136,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal donations: inventordonations@gmail.com\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nIsolation Transformer videos:\nhttps://www.youtube.com/watch?v=OBYzvkY2-eA\nand\nhttps://www.youtube.com/watch?v=_pEmpvcNmXg"
+  },
+  {
+   "id": "TXrVkLGDB9U",
+   "t": "Awesome Scrapyard Finds! Repair-A-Thon!",
+   "d": "2019-10-26",
+   "v": 288963,
+   "s": 1004,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal donations: inventordonations@gmail.com\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s"
+  },
+  {
+   "id": "Q0nr168gD_I",
+   "t": "Amazing Scrapyard Finds! Repair-A-Thon!",
+   "d": "2019-11-30",
+   "v": 456447,
+   "s": 1615,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\n\nVideo about Car Radio Tester:\nhttps://youtu."
+  },
+  {
+   "id": "XhzMke72xts",
+   "t": "More Beautiful Scrapyard Finds! Repair-A-Thon",
+   "d": "2019-12-07",
+   "v": 178955,
+   "s": 1227,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\npaypal-donations: inventordonations@gmail.com\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\r\n\nEpisode 2:\r\n\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\r\n\nEpisode 3:\r\n\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\r\n\nEpisode 4:\r\n\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\r\n\nEpisode 5:\r\n\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\r\n\nEpisode 6: \r\n\nhttps://youtu.be/yQ0b7U2dk8s\r\n\nEpisode 7:\r\n\nhttps://youtu.be/TXrVkLGDB9U\r\n\nEpisode 8:\r\n\nhttps:/"
+  },
+  {
+   "id": "b9aW6c2w1Fk",
+   "t": "METABO Multitool (1965) Repair-A-Thon / Restoration",
+   "d": "2019-12-14",
+   "v": 163371,
+   "s": 822,
+   "vertical": false,
+   "desc": "https://www.patreon.com/TPAI\n\npaypal-donations: inventordonations@gmail.com"
+  },
+  {
+   "id": "8zeDwAMQCXY",
+   "t": "Huge Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-02-29",
+   "v": 375954,
+   "s": 1568,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "xp1DE3dMNoM",
+   "t": "Terrific Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-03-14",
+   "v": 248959,
+   "s": 1133,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "KTrS-GK7jVI",
+   "t": "Beautiful Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-03-28",
+   "v": 201572,
+   "s": 975,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "p2cWjouwn6w",
+   "t": "Off-Grid Workbench - Post Apocalyptic Workshop!",
+   "d": "2020-04-11",
+   "v": 96800,
+   "s": 716,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\nDonation Link: https://www.paypal.com/donate/?token=VZ2zcEvqvwQVS6lGxbcb8xf7DSTRTK9PTn2gX-KftreCG4QijzuykbcKFZDHFlQxCQ2lhW&country.x=US&locale.x=US\n\nVideo about the METABO Multitool:\nhttps://youtu.be/b9aW6c2w1Fk"
+  },
+  {
+   "id": "2kuk0XalJok",
+   "t": "Let's Repair my Drill Press",
+   "d": "2020-05-02",
+   "v": 103374,
+   "s": 675,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com"
+  },
+  {
+   "id": "X0Spb6RfYRg",
+   "t": "New Amazing Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-05-09",
+   "v": 428967,
+   "s": 1467,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "JvnH4_Xt9ag",
+   "t": "I found Iron Ore! Let's Melt It!",
+   "d": "2020-05-15",
+   "v": 149884,
+   "s": 607,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nDonation-Link:\nhttps://www.paypal.com/donate/?token=v3SJUnvfl6-dHVYZt_rDz7wop_R0z32YxyZ-kJjyup8XyLUiReS-wGngf2SxvjssdfuAQG&country.x=US&locale.x=US\n\nvideo with foundry build:\nhttps://www.youtube.com/watch?v=8zeDwAMQCXY&t=199s"
+  },
+  {
+   "id": "HyhhLHthvvg",
+   "t": "Incredible Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-05-30",
+   "v": 242770,
+   "s": 1394,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "WPR0YSNnMHA",
+   "t": "Not Another Old House !",
+   "d": "2020-06-05",
+   "v": 95448,
+   "s": 679,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\nAin't got time to fix the shingles\nAin't got time to fix the floor\nAin't got time to oil the hinges\nNor to mend no window panes"
+  },
+  {
+   "id": "gpPG3Lf76FA",
+   "t": "New Great Scrapyard-Finds! Repair-A-Thon!",
+   "d": "2020-06-20",
+   "v": 316546,
+   "s": 1276,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "5RV2DPaMOvk",
+   "t": "Building a DIY Photo & Film Special Effects Box",
+   "d": "2020-06-27",
+   "v": 40553,
+   "s": 536,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\nVideo about Canon Eos 60D repair:\nhttps://youtu.be/Afzzvj_KAdA"
+  },
+  {
+   "id": "RbMgzquv9G4",
+   "t": "More Amazing Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-07-11",
+   "v": 292071,
+   "s": 1296,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhttps://www.youtube.com/watch?v=Q0nr16"
+  },
+  {
+   "id": "9WASKdYV6a0",
+   "t": "Scrapyard Finds Galore! Repair-A-Thon!",
+   "d": "2020-09-05",
+   "v": 318736,
+   "s": 1765,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhtt"
+  },
+  {
+   "id": "np1xvISOBNQ",
+   "t": "My Camper Rebuild Project!",
+   "d": "2020-09-12",
+   "v": 129427,
+   "s": 824,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI"
+  },
+  {
+   "id": "FlRy5tVnqF8",
+   "t": "Scrapyard Finds to spare! Repair-A-Thon!",
+   "d": "2020-10-03",
+   "v": 398610,
+   "s": 1434,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\n\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVkLGDB9U\nEpisode 8:\nhtt"
+  },
+  {
+   "id": "KLiqpuJBBD4",
+   "t": "DIY Motor Speed Controller from Cheap Bread Machine",
+   "d": "2020-10-24",
+   "v": 100882,
+   "s": 1542,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\nWant to contact me in other matters: inventordonations@gmail.com\n\nVideos about the Power Grid and Isolation Transformers:\nhttps://www.youtube.com/watch?v=OBYzvkY2-eA\nhttps://www.youtube.com/watch?v=_pEmpvcNmXg&t=1342s"
+  },
+  {
+   "id": "yBeNVcsyjPA",
+   "t": "Rare Scrapyard Finds! Repair-A-Thon!",
+   "d": "2020-11-15",
+   "v": 369943,
+   "s": 1665,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nMy last video:\nhttps://youtu.be/KLiqpuJBBD4\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/"
+  },
+  {
+   "id": "yzOr1bnArVI",
+   "t": "Welder Experiments! DIY Upgrades for Cheap Stick Welders!",
+   "d": "2020-12-19",
+   "v": 263528,
+   "s": 2187,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nOlder episode about welding transformers: \nhttps://www.youtube.com/watch?v=k5684mQJQRU\n\nVideo about my DIY Exercise Machine:\nhttps://www.youtube.com/watch?v=h2YUO4_O4x8&t=335s"
+  },
+  {
+   "id": "eGy1qoAT6Xk",
+   "t": "A Workshop in The Woods? Dream or Nightmare?",
+   "d": "2021-01-22",
+   "v": 69575,
+   "s": 320,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI"
+  },
+  {
+   "id": "RbaNfH3aR1Y",
+   "t": "Fantastic Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-01-30",
+   "v": 397632,
+   "s": 1464,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\nBitcoin : 39RZoxDRyGTCFagHpz7jYkccZyg1AtGcjU \n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be"
+  },
+  {
+   "id": "pz9H850dtqY",
+   "t": "More Epic Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-02-20",
+   "v": 113021,
+   "s": 1323,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVk"
+  },
+  {
+   "id": "kKltqCkhJsY",
+   "t": "Machine Tool Treasure Hunting in Germany!",
+   "d": "2021-03-06",
+   "v": 136206,
+   "s": 603,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI"
+  },
+  {
+   "id": "it0vXwHLDJk",
+   "t": "My Hunt for a Cabin in the Woods! EXPLORATION!",
+   "d": "2021-03-21",
+   "v": 87569,
+   "s": 884,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nVideo about my \"Machine Tool Treasure Hunt\":\nhttps://youtu.be/kKltqCkhJsY\nVideo about my First Visit to the Abandoned Workshop:\nhttps://www.youtube.com/watch?v=eGy1qoAT6Xk&t=10s"
+  },
+  {
+   "id": "qM1qylE1gwk",
+   "t": "Machine Tool Treasure Hunt! Bring the Lathe(s) Home!",
+   "d": "2021-05-02",
+   "v": 121384,
+   "s": 1188,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n First Episode: https://youtu.be/kKltqCkhJsY"
+  },
+  {
+   "id": "bHeii834ujs",
+   "t": "Scrapyard Finds! Repair-A-Thon! Cordless Tools Galore!",
+   "d": "2021-05-20",
+   "v": 205505,
+   "s": 1492,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVk"
+  },
+  {
+   "id": "7gXJs6MeS5o",
+   "t": "Exciting Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-06-19",
+   "v": 219027,
+   "s": 1337,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nhttps://www.subscribestar.com/TPAI\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2dk8s\nEpisode 7:\nhttps://youtu.be/TXrVk"
+  },
+  {
+   "id": "MrZRxjWY_ms",
+   "t": "Battery Tool Experiments:  Converting 120V Tools to Battery Power / NiCd to Lithium",
+   "d": "2021-07-17",
+   "v": 135485,
+   "s": 1342,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\n\nMy other video on battery tools: https://youtu.be/bHeii834ujs\n\nMAKITA 18V Connectors:\nhttps://www.ebay.de/itm/154425524088?_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20170511121231%26meid%3D609b4aaeb0504d16b5ccee2c1636969e%26pid%3D100675%26rk%3D1%26rkt%3D15%26sd%3D154425524088%26itm%3D154425524088%26pmt%3D1%26noa%3D1%26pg%3D2380057%26brand%3DMarkenlos&_trksid=p2380057.c100675.m4236&_trkparms=pageci%3A9c0c8873-b963-11eb-aad9-ee19cb98be5f%7Cparentrq%3A89aa33bb1790a45b4a6513e4ffff0836%7Ciid%3A1\n\nDirectly from C"
+  },
+  {
+   "id": "5maMpAYZ8Lc",
+   "t": "My latest Movie Prop Projects",
+   "d": "2021-07-31",
+   "v": 190278,
+   "s": 786,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com"
+  },
+  {
+   "id": "S8zTjm61v5Y",
+   "t": "Quality Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-08-28",
+   "v": 277270,
+   "s": 1821,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\npaypal-donations: inventordonations@gmail.com\nPaypal-Donation-Link: https://www.paypal.com/donate?hosted_button_id=KBFA2DWJJ6LBW\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu."
+  },
+  {
+   "id": "jFxh8NTgYI0",
+   "t": "Lucky Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-09-18",
+   "v": 199040,
+   "s": 1071,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U"
+  },
+  {
+   "id": "ZRRgam28VWQ",
+   "t": "Surprising Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-10-30",
+   "v": 244464,
+   "s": 1738,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "W9GXv-i45Xo",
+   "t": "Supreme Scrapyard Finds! Repair-A-Thon!",
+   "d": "2021-11-27",
+   "v": 187144,
+   "s": 1504,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "pnNZn279Iqw",
+   "t": "Exotic Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-01-27",
+   "v": 378703,
+   "s": 1750,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "idv8IGzWlXU",
+   "t": "Precious Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-03-12",
+   "v": 275037,
+   "s": 1491,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "eAvp12TrQm0",
+   "t": "Unique Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-04-23",
+   "v": 212299,
+   "s": 1528,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "L3tW4wd0_JE",
+   "t": "Solar E-Bike Trailer! Construction and Field Trip!",
+   "d": "2022-05-21",
+   "v": 268123,
+   "s": 1187,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nMy last video:\nhttps://youtu.be/eAvp12TrQm0"
+  },
+  {
+   "id": "lJctwUfWXss",
+   "t": "Valuable Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-06-25",
+   "v": 236095,
+   "s": 1384,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "7fdcHdaNgfs",
+   "t": "Expensive Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-07-30",
+   "v": 206380,
+   "s": 1429,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.co"
+  },
+  {
+   "id": "nNxYRsMIehI",
+   "t": "DIY Hydro Power Generator! Construction + Field Trip",
+   "d": "2022-08-20",
+   "v": 511949,
+   "s": 1255,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\n\nIf you make a donation and want to receive stickers / patches, please aslo send an email to let me know what you want to have :)\n\nEmail: inventordonations@gmail.com\n\nJohn Rowley's Channel: https://www.youtube.com/watch?v=gNfXON1Kgec\n\nVideo about the Solar E-Bike Trailer:\nhttps://www.youtube.com/watch?v=L3tW4wd0_JE&t=320s"
+  },
+  {
+   "id": "Jzt2Fuy-_ts",
+   "t": "Unusual Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-09-24",
+   "v": 244461,
+   "s": 1510,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "lhZUU4cM59Q",
+   "t": "Military Grade Scrapyard Finds! Repair-A-Thon!",
+   "d": "2022-10-30",
+   "v": 328205,
+   "s": 1681,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "oaP-DABtThE",
+   "t": "German Military Generators!  - Repair-A-Thon -",
+   "d": "2022-11-19",
+   "v": 534875,
+   "s": 1757,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "U6UOyM9ovxA",
+   "t": "Building a DIY Off-Grid Power System (vs. Ecoflow )",
+   "d": "2022-12-10",
+   "v": 140024,
+   "s": 1158,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nECOFLOW-Links:\nUS Amz: https://www.amazon.com/dp/B0BKGLCVRR?maas=maas_adg_A5690EE89D70CBDDB2C607068599E505_afap_abs&ref_=aa_maas&tag=maas\nUS Web: https://us.ecoflow.com/?aff=594\nPromo code from Nov 29 to Dec 31 by using this code VMCLQGAE (available for both platforms).\n\nGermany Web: https://de.ecoflow.com/?aff=151 with a 5% discount code by using this code Inventor5 (unavailable for Xmas promo products).\n\n#EcoFlow #EcoFlowDeltaPro #solargenerators"
+  },
+  {
+   "id": "1pC4daWhHgw",
+   "t": "The Tools of Socialist East-Germany! Repair-A-Thon!",
+   "d": "2023-01-28",
+   "v": 263705,
+   "s": 1684,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "q6YH4OPxaeo",
+   "t": "East-German Military Generators! Repair-A-Thon!",
+   "d": "2023-02-25",
+   "v": 198668,
+   "s": 1360,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nLast video about generators:\nhttps://youtu.be/oaP-DABtThE\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv"
+  },
+  {
+   "id": "ba3JjHmCB80",
+   "t": "Scrapyard -Treasure Hunt East Germany! Repair-A-Thon!",
+   "d": "2023-04-29",
+   "v": 221867,
+   "s": 2287,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nMore Videos about GDR equipment:\nhttps://youtu.be/1pC4daWhHgw\nhttps://youtu.be/q6YH4OPxaeo\n\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttp"
+  },
+  {
+   "id": "imaCQq3FL7E",
+   "t": "Terrific Scrapyard Finds! Repair-A-Thon!",
+   "d": "2023-05-26",
+   "v": 176414,
+   "s": 1403,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nMy last video:\nhttps://youtu.be/ba3JjHmCB80\n\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature"
+  },
+  {
+   "id": "X1whdnlQm2U",
+   "t": "High Power Scrapyard Finds! Repair-A-Thon",
+   "d": "2023-06-23",
+   "v": 163394,
+   "s": 1981,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "E83qF3t55DY",
+   "t": "Scrapyard Pneumatics and Compressors! Repair-A-Thon!",
+   "d": "2023-08-26",
+   "v": 191999,
+   "s": 1812,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "ae2p8HDmRBI",
+   "t": "Scrap-Vehicles and Electronics! Scrapyard Repair-A-Thon",
+   "d": "2023-09-23",
+   "v": 125690,
+   "s": 1747,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nFirst Camper Video: https://youtu.be/np1xvISOBNQ\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&fea"
+  },
+  {
+   "id": "ZEa1fOCIAyE",
+   "t": "Boost your Electronics Skills with Boost Converters! A Tutorial",
+   "d": "2023-10-28",
+   "v": 162576,
+   "s": 1685,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\n\nWaterwheel video:\n https://youtu.be/nNxYRsMIehI\n\nsmps tutorial part 4:\nhttps://youtu.be/SOp57JCnWqE\n\nwebsite for converter and inductor calculations:\nhttp://schmidt-walter-schaltnetzteile.de/smps/smps.html"
+  },
+  {
+   "id": "Bj3PtkeMqOA",
+   "t": "DIY Hydro Generator! Build and Experiments!",
+   "d": "2023-12-02",
+   "v": 292302,
+   "s": 1202,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: tpaimerch@gmail.com\n\nOther Waterwheel videos:\nhttps://youtu.be/nNxYRsMIehI\nhttps://youtu.be/ZEa1fOCIAyE"
+  },
+  {
+   "id": "GV5b30w-S6I",
+   "t": "Vintage German Toys and Models! Christmas Repair-A-Thon",
+   "d": "2023-12-22",
+   "v": 53319,
+   "s": 1184,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "8nmCbulLn8c",
+   "t": "Machine Shop Time Capsule! Treasure Hunt - Before it's Gone!",
+   "d": "2023-12-28",
+   "v": 95406,
+   "s": 545,
+   "vertical": false,
+   "desc": "My Patreon: https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://yout"
+  },
+  {
+   "id": "tJg5rNwFFlE",
+   "t": "Generating Electric Power with my Wood Stove - Peltier Experiments",
+   "d": "2024-01-27",
+   "v": 445582,
+   "s": 1163,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nMy Hydro-Power Videos:\nhttps://youtu.be/nNxYRsMIehI\nhttps://youtu.be/ZEa1fOCIAyE"
+  },
+  {
+   "id": "fwI_aReEldc",
+   "t": "DIY Surveillance Robot from Cheap IP Camera! Build and Test!",
+   "d": "2024-03-02",
+   "v": 95030,
+   "s": 1194,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n#ipcamera #ipcameras #tplink #homesecurity #diyrobot\nVideo about boost converters:\nhttps://youtu.be/ZEa1fOCIAyE"
+  },
+  {
+   "id": "3yesW2IePI4",
+   "t": "New Awesome Scrapyard Finds! Repair-A-Thon!",
+   "d": "2024-03-30",
+   "v": 174059,
+   "s": 2000,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "X1v_pmDTW7E",
+   "t": "Powerful Scrapyard Finds! Repair-A-Thon!",
+   "d": "2024-04-27",
+   "v": 197338,
+   "s": 1785,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nOther Repair-A-Thons:\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7U2"
+  },
+  {
+   "id": "18-lrsp8Vg8",
+   "t": "I built a CNC Plasma Cutting Table from Scrap!",
+   "d": "2024-06-01",
+   "v": 112879,
+   "s": 1657,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nFirst Video about the CNC Plasma Cutter:\nhttps://youtu.be/18-lrsp8Vg8\n\nScrapyard Repair-Vi\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watc"
+  },
+  {
+   "id": "2jEJWaAYD7k",
+   "t": "I built a big CNC Portal Milling Machine from Scrap!",
+   "d": "2024-07-06",
+   "v": 164767,
+   "s": 2308,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: gerokeber@gmail.com\n\nFirst Video about the CNC Plasma Cutter:\nhttps://youtu.be/18-lrsp8Vg8\n\nRepairing the Plasma Cutter / Compressor etc:\nhttps://youtu.be/X1v_pmDTW7E\n\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://ww"
+  },
+  {
+   "id": "BJklwDYfZDo",
+   "t": "Milling Machine Adventure! Bring her Home! / Gantry Build",
+   "d": "2024-08-10",
+   "v": 165722,
+   "s": 1311,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: gerokeber@gmail.com\n\nVideo about Machine Shop Visit:\nhttps://www.youtube.com/watch?v=8nmCbulLn8c"
+  },
+  {
+   "id": "kKB2IOE0QvA",
+   "t": "I built a Magnetic Drilling Machine from Scrap!",
+   "d": "2024-09-14",
+   "v": 158181,
+   "s": 1229,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: gerokeber@gmail.com\n\nVideo about the CNC table:\nhttps://youtu.be/2jEJWaAYD7k\n\nVideo about the Fein Drill Repair: \nhttps://youtu.be/yBeNVcsyjPA\n\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vk"
+  },
+  {
+   "id": "NdmWqaC5Zog",
+   "t": "Drill Press and Plasma Cutter Repair / Upgrades! BREAK-IN AT THE WORKSHOP",
+   "d": "2024-11-02",
+   "v": 110133,
+   "s": 2353,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: gerokeber@gmail.com\n\nVideo about the Drill Press Restoration:\nhttps://youtu.be/HyhhLHthvvg\n\nVideo about Plasma Cutter Repair:\nhttps://www.youtube.com/watch?v=X1v_pmDTW7E&t=556s\n\nVideos about DIY CNC tables:\nhttps://www.youtube.com/watch?v=18-lrsp8Vg8&t=1491s\nhttps://www.youtube.com/watch?v=2jEJWaAYD7k"
+  },
+  {
+   "id": "V2Y12k3v7GA",
+   "t": "Industrial Scrapyard Finds! Repair-A-Thon!",
+   "d": "2024-12-07",
+   "v": 236801,
+   "s": 2303,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nBitcoin-Donation-Address: 3Q1PHj4kEs6tYvWDpUuP8LMkj6dtCmsAn6\nEmail: tpaimerch@gmail.com\n\n\nLast Video ( With Drill Press Repair/Mod)\nhttps://youtu.be/NdmWqaC5Zog\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/"
+  },
+  {
+   "id": "ZHVC9vLiIuI",
+   "t": "Handtools Restoration and History! Big Scrapyard Treasure Trove!",
+   "d": "2024-12-20",
+   "v": 124513,
+   "s": 1552,
+   "vertical": false,
+   "desc": "Patreon: https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nBitcoin-Donation-Address: 3Q1PHj4kEs6tYvWDpUuP8LMkj6dtCmsAn6\nEmail: inventordonations@gmail.com\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/w"
+  },
+  {
+   "id": "vab-eRPnSqg",
+   "t": "New Industrial Scrapyard Finds! Repair-A-Thon!",
+   "d": "2025-03-15",
+   "v": 194394,
+   "s": 2503,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nBitcoin-Donation-Address: 3Q1PHj4kEs6tYvWDpUuP8LMkj6dtCmsAn6\nEmail: tpaimerch@gmail.com\n\nLast Repair-A-Thon: https://youtu.be/V2Y12k3v7GA\n\nSecond Channel: https://www.youtube.com/channel/UCLgIt75tT2xP008xCb1DJ_g\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQq"
+  },
+  {
+   "id": "a2U5smhqVfE",
+   "t": "On the Road in Australia - One Workshop at a Time",
+   "d": "2025-05-09",
+   "v": 93042,
+   "s": 3002,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nBitcoin-Donation-Address: 3Q1PHj4kEs6tYvWDpUuP8LMkj6dtCmsAn6\nEmail: tpaimerch@gmail.com\n\nLast Repair-A-Thon: https://youtu.be/V2Y12k3v7GA"
+  },
+  {
+   "id": "Qppm4C3mCvk",
+   "t": "Scrapyard Finds - Repair-A-Thon! Fantastic old Machines repaired!",
+   "d": "2025-05-24",
+   "v": 142266,
+   "s": 1699,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nBitcoin-Donation-Address: 3Q1PHj4kEs6tYvWDpUuP8LMkj6dtCmsAn6\nEmail: inventordonations@gmail.com\n\nOlder Video about the East-German tractor:\nhttp://youtube.com/watch?v=ba3JjHmCB80&t=1911s\n\n\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode"
+  },
+  {
+   "id": "5QCX9u0omRg",
+   "t": "Aluminium Casting Experiments! New Furnace, Melting down Scrap and Casting!",
+   "d": "2025-07-12",
+   "v": 84669,
+   "s": 1141,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com"
+  },
+  {
+   "id": "lPjKRMfsCgI",
+   "t": "Historic Scrapyard Finds! Repair-A-Thon! FEIN, METABO Power Tools and more!",
+   "d": "2025-08-30",
+   "v": 160227,
+   "s": 1916,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v=vkAH8-rBomY\nEpisode 5:\nhttps://www.youtube.com/watch?v=weywkv6KzHk&feature=youtu.be\nEpisode 6: \nhttps://youtu.be/yQ0b7"
+  },
+  {
+   "id": "URk3MUVEfYo",
+   "t": "Curious Scrapyard Finds! Repair-A-Thon! Quality Tools and Strange Devices repaired METABO, REMA etc",
+   "d": "2025-09-26",
+   "v": 129088,
+   "s": 2062,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nThe last epsiode: https://www.youtube.com/watch?v=lPjKRMfsCgI\n\nPDF about Single Phase Motors: \nhttps://nit-edu.org/wp-content/uploads/2021/09/Ch-36-Single-phase-motors.pdf?utm_source=chatgpt.com\n\n\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnt"
+  },
+  {
+   "id": "cNv-3opP8pk",
+   "t": "Repair-A-Thon! Beautiful Scrapyard Finds brought back to Life!",
+   "d": "2025-11-15",
+   "v": 156447,
+   "s": 2361,
+   "vertical": false,
+   "desc": "Try Onshape for Free: \nhttps://onshape.pro/ThePostApocalypticInventor\n\nhttps://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nThe last epsiode: https://youtu.be/URk3MUVEfYo\n\nScrapyard Repair-Videos\nEpisode 1: \nhttps://www.youtube.com/watch?v=rnCOT8tbAX0&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=14\nEpisode 2:\nhttps://www.youtube.com/watch?v=w2uEX_kCTJU&t=41s\nEpisode 3:\nhttps://www.youtube.com/watch?v=kwJh6Uq4J50&list=PLxaGnte1Dq0kWWN39muuFylKBQqBCoNoJ&index=16\nEpisode 4:\nhttps://www.youtube.com/watch?v"
+  },
+  {
+   "id": "ZmwAY4V94h4",
+   "t": "German Tools!  Repair-A-Thon!",
+   "d": "2026-01-24",
+   "v": 97842,
+   "s": 2039,
+   "vertical": false,
+   "desc": "https://patreon.com/tpai\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nAUCTION-LINKS:\nVISES: \nhttps://docs.google.com/forms/d/e/1FAIpQLSephtVbNhki2YdhujMS2lNiaJoSWC8YvyhJ1CsLCBUUoS36TA/viewform?usp=sharing&ouid=106079373253906847411\n\nAXES: \nhttps://docs.google.com/forms/d/e/1FAIpQLSc0XfePKW1I7c4k4vL1uI3kxl3P5oVouVNp41ty53fBZOutdg/viewform?usp=header\n\nWOODWORKING TOOLS:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdwPjK46c68R9Z9Gc8zKNlQce9oO_sfTYlIUSnJ-k9YnKLHWA/viewform?usp=header\n\nMILITARY TOOLBOXES: \nhttps://docs.google.c"
+  },
+  {
+   "id": "WoRzWYCehV8",
+   "t": "Restoring a hundred year old Lathe! (Only took me five years)",
+   "d": "2026-05-02",
+   "v": 207560,
+   "s": 2073,
+   "vertical": false,
+   "desc": "Try Onshape for Free: \nhttps://onshape.pro/ThePostApocalypticInventor\n\nhttps://patreon.com/tpai\n\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nIBAN ONLY FOR EU-CITIZENS. Don't use in UK or elsewhere!\n\nIBAN-account for donations: (EU only) \nIBAN: DE91 3705 0198 1959 1104 93\nBIC: COLSDE33XXX\nOwner: Gerolf Kebernik\nquestions? gerokeber@gmail.com\n\nPlease don't use the IBAN-account if you are not in the EU. I had to pay a fee to cover an error that was caused by a UK-based transaction. The Fee was more than twice the amount t"
+  },
+  {
+   "id": "1xN6jNfOaVg",
+   "t": "Massive Scrapyard Finds! Repair-A-Thon!",
+   "d": "2026-07-04",
+   "v": 213890,
+   "s": 2129,
+   "vertical": false,
+   "desc": "Patreon Link: https://patreon.com/tpai\n\nFixHub Soldering Toolkit: https://www.ifixit.com/products/fixhub-soldering-toolkit?ref=qgqmytsq\nPortable Soldering Station (without tools): https://www.ifixit.com/products/fixhub-power-series-portable-soldering-station?ref=qgqmytsq\nSoldering Iron only: https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron?ref=qgqmytsq\n\n\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nIBAN ONLY FOR EU-CITIZENS. Don't use in UK or elsewhere!\n\nIBAN-account for donations: (EU only) \nIB"
+  },
+  {
+   "id": "cSbhh64TYM4",
+   "t": "Heavy Duty Scrapyard Finds! Repair-A-Thon!",
+   "d": "2026-08-29",
+   "v": 334352,
+   "s": 2027,
+   "vertical": false,
+   "desc": "Try Onshape for Free: \nhttps://onshape.pro/ThePostApocalypticInventor\n\nhttps://patreon.com/tpai\n\nPaypal-Donation-Link: https://www.paypal.com/donate/?hosted_button_id=B9WWK5L3TPTLG\nEmail: inventordonations@gmail.com\n\nIBAN ONLY FOR EU-CITIZENS. Don't use in UK or elsewhere!\n\nIBAN-account for donations: (EU only) \nIBAN: DE91 3705 0198 1959 1104 93\nBIC: COLSDE33XXX\nOwner: Gerolf Kebernik\nquestions? gerokeber@gmail.com\n\nPlease don't use the IBAN-account if you are not in the EU. I had to pay a fee to cover an error that was caused by a UK-based transaction. The Fee was more than twice the amount t"
+  }
+ ]
+}

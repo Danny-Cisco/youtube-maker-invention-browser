@@ -142,6 +142,58 @@ Makers found through maker events (Open Sauce, Hackaday Supercon and Europe, EMF
 | Shawn Hymel | 16 | 31 |
 | Banished Builds | 15 | 152 |
 
+
+Medium makers (100K–1M) from the wishlist, also drafted with `build/auto_inventions.py`.
+
+| Maker | Inventions | Uploads |
+|---|---|---|
+| She Builds Robots | 40 | 87 |
+| NeedItMakeIt | 40 | 275 |
+| 3DSage | 40 | 168 |
+| Eric Strebel | 40 | 304 |
+| Proper Printing | 40 | 96 |
+| Sam Zeloof | 31 | 36 |
+| BigRig Creates | 40 | 101 |
+| Evil Ted Smith | 40 | 493 |
+| Huy Vector | 40 | 69 |
+| Matt Denton | 40 | 171 |
+| Hainbach | 40 | 883 |
+| Bionic Armory | 40 | 143 |
+| mitxela | 40 | 77 |
+| Will Cogley | 40 | 145 |
+| Concept Bytes | 40 | 76 |
+| Bobby Fingers | 8 | 11 |
+| Fran Blanche | 40 | 1,746 |
+| Kiara's Workshop | 27 | 77 |
+| Hyperspace Pirate | 40 | 110 |
+| Not An Engineer | 20 | 20 |
+| Bad Obsession Motorsport | 36 | 110 |
+| Aging Wheels | 40 | 226 |
+| The Post Apocalyptic Inventor | 40 | 251 |
+| Ivan Miranda | 40 | 88 |
+| Uncle Jessy | 40 | 1,032 |
+| Marius Hornberger | 40 | 213 |
+| Zack Freedman | 40 | 106 |
+| Joel Creates | 40 | 80 |
+| Works By Design | 32 | 33 |
+| Gravity Industries | 40 | 208 |
+| Punished Props Academy | 40 | 972 |
+| RCLifeOn | 40 | 316 |
+| ProjectAir | 40 | 155 |
+| Saveitforparts | 40 | 871 |
+| Carl Bugeja | 40 | 147 |
+| Samy Kamkar | 17 | 17 |
+| Joe Grand | 40 | 251 |
+| mewtru | 40 | 326 |
+| Sean Hodgins | 40 | 283 |
+| Chomp Shop | 23 | 103 |
+| Aaed Musa | 38 | 64 |
+| Explosions&Fire | 31 | 41 |
+| Inheritance Machining | 40 | 91 |
+| Weisz | 40 | 107 |
+| BPS.space | 40 | 244 |
+| AlphaPhoenix | 40 | 130 |
+
 ## View it
 
 Open `index.html` through a web address, e.g. GitHub Pages (Settings → Pages → Deploy from branch → `main`), or locally:

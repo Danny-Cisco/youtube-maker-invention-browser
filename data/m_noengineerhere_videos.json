@@ -1,0 +1,198 @@
+{
+ "channel": {
+  "id": "UCXh9mHdcBD-3aGCiECZMP1Q",
+  "title": "Not An Engineer",
+  "handle": "@noengineerhere",
+  "description": "Degrees are expensive, just make stuff.\n\nBusiness enquiries: NotAnEngineer@lighthouseagents.com",
+  "since": "2023-07-09",
+  "avatar": "https://yt3.ggpht.com/tEFylqcgkkca650k4hQPvDYnMtJKc-1qfMZ8go8m4NDiJoyLMJucgxRF4H3iuOxr05EoVc1aSzs=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "17279382",
+  "subscriberCount": "396000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "20"
+ },
+ "videos": [
+  {
+   "id": "uallSKJGoug",
+   "t": "I built a CNC mill because I have no self control",
+   "d": "2023-07-14",
+   "v": 610226,
+   "s": 586,
+   "vertical": false,
+   "desc": "I've always wanted a CNC mill, so now I'm building one. \n\nThis episode dives head first into the fabrication and machining of my heavy-duty DIY CNC milling machine, with a splash of paint at the end.\n\nWe've got merch! https://notanengineer.shop\n\nPatreon: www.patreon.com/NotAnEngineer"
+  },
+  {
+   "id": "Rg_Yfkv7OaY",
+   "t": "My DIY CNC mill eats metal",
+   "d": "2023-08-04",
+   "v": 577318,
+   "s": 624,
+   "vertical": false,
+   "desc": "Last time you saw me build it. Now it's time to assemble and test my DIY CNC Milling machine. Was it worth it? You be the judge.\n\nWe've got merch! https://notanengineer.shop\n\nPatreon: www.patreon.com/NotAnEngineer\n\nFAQ:\n\nQ. How much does it weigh?\nA. Around 500kg\n\nQ. What are the travels?\nA. X - 580mm, Y - 340mm, Z - 455mm\n\nQ. How much did it cost?\nA. Somewhere between $6000AUD and all of my sanity and money\n\nQ. How long did it take to build?\nA. I had the machine running in 6 months, I spent every spare moment working on this project, nights and weekends. My best guess is somewhere between 300"
+  },
+  {
+   "id": "c0bEvdv_03A",
+   "t": "I \"fixed\" this cheap Chinese tool",
+   "d": "2023-09-22",
+   "v": 466412,
+   "s": 662,
+   "vertical": false,
+   "desc": "I was sick of manual tool changes on my DIY CNC Milling machine, so I bought this cheap BT30 spindle with automatic tool change capability from AliExpress on impulse. It wasn't long before I started to regret it. Watch me stumble my way through two (2) attempts at taper grinding, and finally settle for a barbaric final solution. If it wasn't clear from the video, you should NOT buy this spindle.\n\nWe've got merch! https://notanengineer.shop\n\nPatreon: www.patreon.com/NotAnEngineer"
+  },
+  {
+   "id": "MRCEj4fptWg",
+   "t": "I made a steady rest because I suck at planning",
+   "d": "2023-11-04",
+   "v": 269458,
+   "s": 895,
+   "vertical": false,
+   "desc": "A failure to plan, is a plan to fail, that is, unless you're like me and won't let anything stand between you and a bad idea. I designed a part that's too big for the machines I have access too; the sensible option would've been to scale back my hopes and dreams, but instead I cobbled together a brand-spankin'  new steady rest. With a little help from the home-made milling machine.\n\nWe've got merch! https://notanengineer.shop\n\nIf you want to facilitate more side quests, and hurry me up on the bigger stuff, consider supporting the channel on Patreon:\n\nwww.patreon.com/NotAnEngineer"
+  },
+  {
+   "id": "pq47yXFmj24",
+   "t": "I need a PRECISION straight-edge, so I made three",
+   "d": "2023-12-21",
+   "v": 1471393,
+   "s": 749,
+   "vertical": false,
+   "desc": "Have you seen the price of precision metrology equipment lately? Neither have I, I've been too busy rubbing these sticks together in an attempt to find flatness. \n\nWe've got merch! https://notanengineer.shop\n\nPatreon: https://www.patreon.com/NotAnEngineer\n\nHere's Alex's channel: https://www.youtube.com/@anengineersfindings\n\nAnd some better reference material on the three plate method, if you're interested: \n\nAccidental Science:\n\nFlat From Scratch, revised - The 3 plates method\n\nRobrenz:\n\nROBRENZ ATD #1 INTRO, 3 PLATE METHOD\n\nOxtoolco:\n\nMaking flat lapping plates 1"
+  },
+  {
+   "id": "fWomfEL9Jrw",
+   "t": "I just want to make things ROUND (accurately)",
+   "d": "2024-02-15",
+   "v": 473618,
+   "s": 653,
+   "vertical": false,
+   "desc": "Go to https://pcbway.com/g/RE6Nqt [aff] for all your custom manufacturing needs; whether you need PCBs, 3D prints, laser cut sheet metal, or CNC machining services, they've got you covered.\n\nWe've got merch! https://notanengineer.shop\n\nPatreon: https://www.patreon.com/NotAnEngineer\n\nIt's about damn time I got to make some cylinders (accurately) in the home workshop.\n\nBambu Lab Store (affiliate);\nhttps://shareasale.com/r.cfm?b=2282157&u=4236696&m=138211&urllink=&afftrack="
+  },
+  {
+   "id": "YFJJkZm796I",
+   "t": "I made a precision gearbox - with NO GEARS.",
+   "d": "2024-04-04",
+   "v": 2811746,
+   "s": 1809,
+   "vertical": false,
+   "desc": "If you want to build your own Cyloidal drive, let https://pcbway.com/g/RE6Nqt [aff] take care of the machining. \n\nThis was one heck of a project, but I made it in the end. A (nearly) zero-backlash 4th axis for my home made milling machine. \n\nWe've got merch! https://notanengineer.shop\n\nIf you want to follow the projects a little closer, head over to https://www.patreon.com/NotAnEngineer.\n\n@InheritanceMachining had to build a bigger box of shame because of me, go watch that NOW: https://youtu.be/uQQH8XzlgVU?si=NrNNeq5qd045CpV7\n\nBambu Lab Store: (affiliate)\nhttps://shareasale.com/r.cfm?b=2282157"
+  },
+  {
+   "id": "io4S9amExNM",
+   "t": "I made a parallel axis tripteron",
+   "d": "2024-06-20",
+   "v": 1289824,
+   "s": 1950,
+   "vertical": false,
+   "desc": "Go to https://pcbway.com/g/RE6Nqt [aff] for all your parallel axis tripteron component machining needs.\n\nIt's shiny, and it moves on it's own, but what is it even good for?\n\nWe've got merch! https://notanengineer.shop\n\nThanks to Dan Rudman (https://www.youtube.com/@Rudmin) for allowing the use of his footage, and for sparking me on this adventure.\n\nDan's video: https://www.youtube.com/watch?v=6EtXycVGJg4\n\nGet the CAD and code for free over on my Patreon (I'll warn you now, it's janky as heck): \n\nhttps://www.patreon.com/posts/tripteron-files-106552546?utm_medium=clipboard_copy&utm_source=copyLi"
+  },
+  {
+   "id": "iSDNKmk5B20",
+   "t": "Putting an end to the WORST kind of gears.",
+   "d": "2024-09-12",
+   "v": 527462,
+   "s": 932,
+   "vertical": false,
+   "desc": "I hate change gears, let's do something about it.\n\nWe've got merch! https://notanengineer.shop\n\nI haven't released the code for this project yet - stay tuned for the next video, or keep an eye on things over at https://www.patreon.com/NotAnEngineer\n\nIf you need an electronic leadscrew NOW, make sure you go check out @Clough42.\n\nUse this link for all your Bambu lab purchases (It costs you nothing, and helps support the channel!): https://shareasale.com/r.cfm?b=2282157&u=4236696&m=138211&urllink=&afftrack=\n\nEncoder validation logic source: https://cdn.sparkfun.com/datasheets/Robotics/How%20to%20"
+  },
+  {
+   "id": "z1fYeBZptUc",
+   "t": "How I gave my lathe a \"nut\" button, and why I'll never look back",
+   "d": "2024-09-26",
+   "v": 482414,
+   "s": 724,
+   "vertical": false,
+   "desc": "Threading to a shoulder has never been easier with the nut button. Single-handedly reducing the number of code browns by an order of magnitude. \n\nWe've got merch! https://notanengineer.shop\n\nGet all the latest, while supporting the channel, over at https://www.patreon.com/NotAnEngineer\n\n@jackfromscratch  has done an incredible amount of work beyond what you've seen in this video of the \"Video Production Deadline\" branch, so go subscribe to him for updates, and check out the source code at https://github.com/NoEngineerHere/TeensyELS.\n\n\"Video production deadline branch\" source code: https://gith"
+  },
+  {
+   "id": "CdrQqRY8wuc",
+   "t": "Building precision machines is simple, until it isn't.",
+   "d": "2024-12-21",
+   "v": 1387676,
+   "s": 2393,
+   "vertical": false,
+   "desc": "Go to https://pcbway.com/g/RE6Nqt [aff] for all your CNC machining needs, and make the hard parts simple.\n\nA long overdue upgrade to the homemade CNC milling machine, among other things.\n\nWe've got merch! https://notanengineer.shop\n\nSupport the channel on patreon: https://www.patreon.com/NotAnEngineer\n\nOr by using my Bambu Lab affiliate link: \nhttps://shareasale.com/r.cfm?b=2282157&u=4236696&m=138211&urllink=&afftrack=\n\nThanks to Stefan for the bandsaw inspo, Marcus for the tutelage on load paths, and Mitch, for drying the rocks.\n\nYH2WK2QFAW7OEH1F\nCLTTJLQWDKJ2IGPE"
+  },
+  {
+   "id": "FfsGUQjTAZs",
+   "t": "The answer is DRAWERS! (I don\u2019t care what the question is)",
+   "d": "2025-03-06",
+   "v": 359399,
+   "s": 633,
+   "vertical": false,
+   "desc": "This one's a bit of a stretch, but it had to be done. Drawers.\n\nWe've got merch! https://notanengineer.shop\n\nConsider supporting the channel on Patreon: https://www.patreon.com/c/NotAnEngineer\n\nThe following are affiliate links - using them for your next purchase helps support the channel!\n\nBambu Lab: https://shareasale.com/r.cfm?b=2282157&u=4236696&m=138211&urllink=&afftrack="
+  },
+  {
+   "id": "PIBVM0Pyxyk",
+   "t": "Precision machine control is harder than it looks (it looks hard)",
+   "d": "2025-05-29",
+   "v": 619814,
+   "s": 1972,
+   "vertical": false,
+   "desc": "Want to fix the feng shui in your home office, but blew all your cash on industrial control electronics? No worries - go to https://displate.com/@engineer, and use code 'ENGINEER' for 27% off 1, 32% off 2, or 37% off 3 or more Displates! (including Textra). \n\nToday's episode of \"I don't know when to quit\" follows the assembly and integration of an all-new motion control cabinet for the milling machine, paving the way for more \"what the heck am I doing with my life\" in the form of 6 axes of step and direction control, closed loop encoder feedback, and virtually limitless pneumatically actuated "
+  },
+  {
+   "id": "khRzQz0PnZ0",
+   "t": "I made a mechanical counter, but it's a little bit different.",
+   "d": "2025-08-15",
+   "v": 1085093,
+   "s": 2320,
+   "vertical": false,
+   "desc": "Send pareto's principle packing with PCBWay's comprehensive range of cnc machining services: https://pcbway.com/g/RE6Nqt [affiliate]\n\nEngineers get Onshape Professional free for up to 6 months: http://onshape.pro/NotanEngineer\n\nWhat a rush. Building the most ridiculous video title generator you've ever seen (and I know you've seen a few!) for the biggest blacksmith on YouTube, @AlecSteele, as my contribution to #ToolroomTakeover2025.\n\nWatch @InheritanceMachining's build here: https://youtu.be/9CBT4Rp0lK0 (If you spoil the solution in the comments I will find you.)\n\nAnd see @AlecSteele's full u"
+  },
+  {
+   "id": "ExNgwQxWs44",
+   "t": "Are gears that bend, better?",
+   "d": "2025-10-30",
+   "v": 873447,
+   "s": 2114,
+   "vertical": false,
+   "desc": "Engineers get Onshape Professional free for up to 6 months: https://onshape.pro/NotanEngineer\n\nPCBWay has all your CNC machining needs covered: https://pcbway.com/g/RE6Nqt [affiliate]\n\nAt long last, the fourth axis of my dreams has become a reality. Or has it?\n\nWatch @InheritanceMachining  build the puzzle here: https://youtu.be/9CBT4Rp0lK0\n\nGet 10% off Merch using this link: https://notanengineer.shop/promo/PRETENDGINEER\n(Or use code 'PRETENDGINEER' at checkout)\n\nPatreon: https://www.patreon.com/NotAnEngineer\nInstagram: https://www.instagram.com/noengineerhere/\n\nThe following are affiliate li"
+  },
+  {
+   "id": "8UlASBVusb8",
+   "t": "Can I make a precision component from scrap metal?",
+   "d": "2025-12-04",
+   "v": 633991,
+   "s": 965,
+   "vertical": false,
+   "desc": "Engineers get Onshape Professional free for up to 6 months: https://onshape.pro/NotanEngineer\n\nFrom an economic perspective, it's probably not worth melting down your chips, but there's definitely something to be said for the design possibilities it opens up.\n\nPatreon: https://www.patreon.com/NotAnEngineer\nInstagram: https://www.instagram.com/noengineerhere/\n\nThe following are affiliate links - using them for your next purchase helps support the channel!\n\nBambu Lab: https://shareasale.com/r.cfm?b=2282157&u=4236696&m=138211&urllink=&afftrack="
+  },
+  {
+   "id": "CDiRZrl7ntM",
+   "t": "I built a better bandsaw",
+   "d": "2026-03-20",
+   "v": 625734,
+   "s": 1131,
+   "vertical": false,
+   "desc": "Keep your projects on track with @Odoo, your first application is free for life: https://www.odoo.com/r/LBYd\n\nTry Onshape Professional, free for up to 6 months: https://onshape.pro/NotanEngineer\n\nI love bandsaws, but mine could be better.\n\nThanks to @InheritanceMachining and @ThePostApocalypticInventor for their cameo contributions;\n\nAnd @StefanGotteswinter for the absolute brainworm of putting a linear axis on a bandsaw.\n\n- 3D Scanner: https://crealityofficialstore.sjv.io/AgPRQx (affiliate)\n\n- Radius Master Belt Grinder: https://lp.radiusmaster.com.au/\n\n- Grinding belts: https://artisansuppli"
+  },
+  {
+   "id": "reDaHg4QAH0",
+   "t": "This clever mechanism can double its length",
+   "d": "2026-05-28",
+   "v": 565121,
+   "s": 926,
+   "vertical": false,
+   "desc": "Skip the sheet metal work - go to https://pcbway.com/g/RE6Nqt and use code PCBWay-NotAnEngineer10, for $10 off (first 200 orders over $30)\n\nTry Onshape Professional, free for up to six months: https://onshape.pro/NotanEngineer\n\nShould've bought a Rollin saw.\n\nCarbide Punch and Scribe set: https://notan.engineer\n\n- 3D Scanner: https://crealityofficialstore.sjv.io/AgPRQx (affiliate)\n\n- Radius Master Belt Grinder: https://lp.radiusmaster.com.au/\n\n- Grinding belts: https://artisansupplies.com.au\n\n- Merch: https://notanengineer.shop\n- Patreon: https://www.patreon.com/NotAnEngineer\n- Instagram: http"
+  },
+  {
+   "id": "BMCxCuTc1MA",
+   "t": "What if angles were metric?",
+   "d": "2026-08-14",
+   "v": 1616393,
+   "s": 2389,
+   "vertical": false,
+   "desc": "Need custom machined parts? Go to https://pcbway.com/g/RE6Nqt and use code PCBWay-NotAnEngineer10 for $10 off orders over $30.\n\nTry Onshape Professional, free for up to six months: https://onshape.pro/NotanEngineer\n\nIsn\u2019t it kinda strange that there\u2019s a thousand grams in a kilogram, a thousand millimetres in a metre, but 360 degrees in a circle? I thought so too.\n\n\nWatch Marius unbox it here: https://youtu.be/a-LCOP9Wxt4\n\nSee James\u2019 build video here: https://www.youtube.com/watch?v=g4hQ4XcZXJU\n\nAnd make sure you check out the full Toolroom Takeover 2026 playlist: https://youtube.com/playlist?l"
+  },
+  {
+   "id": "5rh_DswKRqM",
+   "t": "Photo-ablative Micromachining (and Other Contagious Diseases)",
+   "d": "2026-10-09",
+   "v": 490687,
+   "s": 760,
+   "vertical": false,
+   "desc": "Try Onshape Professional, free for up to six months: https://onshape.pro/NotanEngineer\n\nThe origins of GAS, or \"gear acquisition syndrome\", aren't yet fully understood. Some say the tax man has played a pretty big role in it's proliferation, while others posit inter-workshop interaction is to blame. \n\nI don't have all the answers, but I do have a fibre laser. (For business use, of course.)\n\n\nWhen he's not geeking out over capstan tooling, Corin manufactures a bunch of really cool stuff right here in Australia:\n\nNiroc Tools: https://www.niroc.com.au\nRadius Master Belt Grinders: https://lp.radiu"
+  }
+ ]
+}

@@ -1,0 +1,342 @@
+{
+ "channel": {
+  "id": "UC7E8-0Ou69hwScPW1_fQApA",
+  "title": "Sam Zeloof",
+  "handle": "@samzeloof",
+  "description": " http://sam.zeloof.xyz",
+  "since": "2013-03-10",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_niDOklXY8UCpfJIa06CYMMiqvw_aqr7oFByh17kVX2Pbeh=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "5185823",
+  "subscriberCount": "148000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "36"
+ },
+ "videos": [
+  {
+   "id": "KPU5GrgDuX4",
+   "t": "3D Printed Mini Quadcopter First Flight",
+   "d": "2013-09-13",
+   "v": 7467,
+   "s": 53,
+   "vertical": false,
+   "desc": "Test of a 3D printed quadcopter, using a KK2 flashed with HefnyCopter firmware to achieve altitude hold, and other features.\nMusic: http://ocremix.org/remix/OCR00788/"
+  },
+  {
+   "id": "QcsvWJLWKxo",
+   "t": "DJI Naza V2 GPS Hold Test",
+   "d": "2016-05-25",
+   "v": 1848,
+   "s": 48,
+   "vertical": false,
+   "desc": ""
+  },
+  {
+   "id": "lhF4Yi9W4Ik",
+   "t": "DIY 8000 Lumen 100watt LED Light on Quadcopter with Remote Control",
+   "d": "2016-07-06",
+   "v": 5570,
+   "s": 904,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz"
+  },
+  {
+   "id": "kxoOVR-8Wwc",
+   "t": "DIY Doppler Speed Radar from Satellite Dish LNB - Microwave Radio Electronics",
+   "d": "2016-09-25",
+   "v": 95290,
+   "s": 732,
+   "vertical": false,
+   "desc": "Watch Jeri Ellsworth's Videos: https://www.youtube.com/watch?v=vDyo_OQFdAc\n\nMod closeup pic: http://sam.zeloof.xyz/wp-content/uploads/2017/01/IMG_8212.jpg\n\nModifying a LNB from a TV satellite dish to transmit ~10ghz and mix the received signal with a local oscillator to measure and quantize Doppler effect on an oscilloscope.\n\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "k8l4Z3EP7N4",
+   "t": "RF Gallium Arsenide Heterojunction-based High Electron Mobility FET - Decapped under Microscope",
+   "d": "2016-10-13",
+   "v": 6846,
+   "s": 91,
+   "vertical": false,
+   "desc": "a look inside an active receptacle for microwave rf black magic and voodoo\n\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "8aBDsLOMWDY",
+   "t": "Thermal Oxide Growth on Silicon Wafer - 500nm",
+   "d": "2016-10-18",
+   "v": 18429,
+   "s": 174,
+   "vertical": false,
+   "desc": "oxide growth in the home lab\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "IfzSYI7cv_Y",
+   "t": "RTL-SDR as Spectrum Analyzer",
+   "d": "2016-10-20",
+   "v": 6916,
+   "s": 58,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz"
+  },
+  {
+   "id": "8zwAMsdP-po",
+   "t": "Opening a furnace at 2000 degrees F (1100 deg. C)",
+   "d": "2016-10-23",
+   "v": 18195,
+   "s": 28,
+   "vertical": false,
+   "desc": "pop tart diffusion furnace\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "QTJ63nbxTM8",
+   "t": "DIY Arduino Paper R2R Ladder DAC 8 bit",
+   "d": "2016-11-11",
+   "v": 19177,
+   "s": 349,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz"
+  },
+  {
+   "id": "QxHt-7jP6LU",
+   "t": "Homemade Silicon PN Junction Diode Test",
+   "d": "2016-12-04",
+   "v": 14758,
+   "s": 124,
+   "vertical": false,
+   "desc": "quick curve tracer test of a homemade pn junction \ncopyright zeloof semicon 2016 all rights reserved\n\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "rrhtbbhflbU",
+   "t": "Homemade Photovoltaics - DIY Silicon PN Junction Solar Cell Testing",
+   "d": "2016-12-10",
+   "v": 19632,
+   "s": 731,
+   "vertical": false,
+   "desc": "Testing some homemade photovoltaics\nhttp://wiki.zeloof.xyz\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "5S3M6fue2is",
+   "t": "mosfet gate capacitance demo",
+   "d": "2016-12-24",
+   "v": 3526,
+   "s": 28,
+   "vertical": false,
+   "desc": "turning on a mosfet my touching the gate and discharging the charge held on the gate by draining to ground\n\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "qCSIGejNT4M",
+   "t": "Semiconductor Fabrication Basics - Thin Film Processes, Doping, Photolithography, etc.",
+   "d": "2017-01-16",
+   "v": 163352,
+   "s": 2898,
+   "vertical": false,
+   "desc": "http://wiki.zeloof.xyz\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "TrmqZ0hgAXk",
+   "t": "Semiconductor Fabrication Basics - Home Chip Lab Tour",
+   "d": "2017-02-12",
+   "v": 135786,
+   "s": 848,
+   "vertical": false,
+   "desc": "http://wiki.zeloof.xyz\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "s1MCi7FliVY",
+   "t": "Semiconductor Fabrication Basics - DIY Homemade NMOS FET/MOSFET/Transistor Step by Step",
+   "d": "2017-02-13",
+   "v": 278101,
+   "s": 1785,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz\nhttp://wiki.zeloof.xyz\n\nHuge thank you to Jeri Ellsworth and her awesome work https://www.youtube.com/user/jeriellsworth/videos"
+  },
+  {
+   "id": "XVoldtNpIzI",
+   "t": "Maskless Photolithography with DLP Projector - 10um Feature Sizes",
+   "d": "2017-02-25",
+   "v": 104930,
+   "s": 1386,
+   "vertical": false,
+   "desc": "Using a DLP projector to expose photoresist for making ICs at home.\nhttp://wiki.zeloof.xyz\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "iZ9ieSHOZsg",
+   "t": "High Vacuum Chamber Basics, Part 1",
+   "d": "2017-03-05",
+   "v": 109129,
+   "s": 1011,
+   "vertical": false,
+   "desc": "http://wiki.zeloof.xyz\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "lewKtYRnZiA",
+   "t": "Electron Microscope Moving Montage",
+   "d": "2017-03-26",
+   "v": 8934,
+   "s": 143,
+   "vertical": false,
+   "desc": "Moving and setting up my new Jeol JSM-6300 Scanning Electron Microscope. Weighs 2000lbs in total.\nhttp://sam.zeloof.xyz\n\n\n\n\n\n64 Sundays by Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nArtist: http://www.twinmusicom.org/"
+  },
+  {
+   "id": "d-hBp4PsvDo",
+   "t": "Ion sputter/getter pump (UHV)",
+   "d": "2017-04-30",
+   "v": 16160,
+   "s": 61,
+   "vertical": false,
+   "desc": "Using the anode layer ion source from rtftechnologies.org as an ion pump.\nhttp://sam.zeloof.xyz/alis-testing/"
+  },
+  {
+   "id": "RJXio_jpc_Y",
+   "t": "SEM Startup Procedure and Demonstration - Electron Microscopy In The Garage",
+   "d": "2017-05-24",
+   "v": 43207,
+   "s": 1350,
+   "vertical": false,
+   "desc": "JEOL JSM-6300 \nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "vOBUx9HtMi4",
+   "t": "High Vacuum Chamber Basics, Part 2 - Atmospheric to 1e-6 Torr Pumpdown Procedure",
+   "d": "2017-05-26",
+   "v": 57321,
+   "s": 582,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz"
+  },
+  {
+   "id": "OSkeIcz9SqI",
+   "t": "Photonic Bandgap Nanostructures - Butterfly Wing SEM Imaging",
+   "d": "2017-06-04",
+   "v": 16551,
+   "s": 450,
+   "vertical": false,
+   "desc": "More pics here: http://sam.zeloof.xyz/photonic-nanostructes-in-butterfly-wings-sem-analysis/"
+  },
+  {
+   "id": "zZO-ueIYBok",
+   "t": "Inductively Coupled Plasma Photoresist O2 Ashing/Descum",
+   "d": "2017-08-31",
+   "v": 15729,
+   "s": 151,
+   "vertical": false,
+   "desc": "ICP 100watt HF ham radio RF source http://sam.zeloof.xyz"
+  },
+  {
+   "id": "HUtW7a3XWBM",
+   "t": "RGA Residual Gas Analyzer (Mass Spectrometer) Experiments and Helium Leak Checking",
+   "d": "2017-12-31",
+   "v": 20622,
+   "s": 980,
+   "vertical": false,
+   "desc": "High vacuum troubleshooting with an Inficon Transpector quadrupole mass spectrometer\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "IHai1Vf0BD0",
+   "t": "SEM Optimization, Astigmatism Correction, and Basic Electron Optics",
+   "d": "2018-01-04",
+   "v": 13331,
+   "s": 1165,
+   "vertical": false,
+   "desc": "Procedures for advanced scanning electron microscope operation down to 300,000x magnification and 1.5nm resolution \nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "kOJGZJa3cZg",
+   "t": "Energy Dispersive X-ray Spectroscopy (EDS) with Silicon Drift Detector (SDD) Theory and Demo",
+   "d": "2018-02-03",
+   "v": 24003,
+   "s": 1635,
+   "vertical": false,
+   "desc": "A brief explanation of the theory behind X-ray detection and analysis followed by a demo of an SDD EDS system on my SEM.\nhttp://sam.zeloof.xyz/eds/"
+  },
+  {
+   "id": "SB94rQtKlKI",
+   "t": "Making Tiny Things with Electron Microscope - E-beam Lithography",
+   "d": "2018-12-07",
+   "v": 75843,
+   "s": 524,
+   "vertical": false,
+   "desc": "More info: http://sam.zeloof.xyz/e-beam-lithography/"
+  },
+  {
+   "id": "mvZ1dJuvenw",
+   "t": "Wire Bonding Basics - Manual Wedge Bonding ICs",
+   "d": "2019-07-04",
+   "v": 251154,
+   "s": 800,
+   "vertical": false,
+   "desc": "http://sam.zeloof.xyz"
+  },
+  {
+   "id": "XrEC2LGGXn0",
+   "t": "\"Z1\" - Homemade Silicon ICs / Computer Chips",
+   "d": "2019-10-02",
+   "v": 643307,
+   "s": 142,
+   "vertical": false,
+   "desc": "Making ICs in the garage\nhttp://sam.zeloof.xyz/first-ic/\n\nintro video is from https://www.youtube.com/watch?v=5ksXcPmB6zk\nsong is Slow Dance by STRFKR"
+  },
+  {
+   "id": "vOijNeDcX-0",
+   "t": "Simple Thin Film Thickness Measurement with Spectrometer",
+   "d": "2020-05-09",
+   "v": 38600,
+   "s": 475,
+   "vertical": false,
+   "desc": "Measuring the thickness (thinness?) of thin films using an optical spectrometer and a light bulb\nhttp://sam.zeloof.xyz\n\nAnimation at 4:40 is stolen from here thank you https://www.youtube.com/watch?v=qZgKjZC1uqY"
+  },
+  {
+   "id": "vPu6lN9yJOY",
+   "t": "Counting Atoms with the Doppler Effect - Heterodyne Interferometer",
+   "d": "2020-05-12",
+   "v": 68757,
+   "s": 985,
+   "vertical": false,
+   "desc": "if you want to see a measurement setup so sensitive that an approaching rainstorm can reasonably be cited as a source of error, look no further.\n\nhttp://sam.zeloof.xyz"
+  },
+  {
+   "id": "Z2OYdKb2fpM",
+   "t": "High energy particle mirror",
+   "d": "2020-05-14",
+   "v": 20535,
+   "s": 259,
+   "vertical": false,
+   "desc": "Looking at an electron microscope under an electron microscope\nhttp://sam.zeloof.xyz\n\nMore SEM info: https://www.youtube.com/watch?v=RJXio_jpc_Y"
+  },
+  {
+   "id": "Nxz_ENnmgtI",
+   "t": "Maskless Photolithography Stepper for Homemade Chips",
+   "d": "2020-06-18",
+   "v": 229611,
+   "s": 581,
+   "vertical": false,
+   "desc": "Bringing Moore\u2019s Law to the garage with a DLP maskless photolithography stepper \nhttp://sam.zeloof.xyz/maskless-photolithography/\n\nAlso check out!!\nhttps://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ\nhttps://www.youtube.com/watch?v=YAPt_DcWAvw&t=2s\n\nOUTLINE:\n0:00 - intro\n0:45 - mind blowing\n1:28 - system overview\n3:04 - demonstration\n5:01 - flat-field correction\n5:30 - optics"
+  },
+  {
+   "id": "RoQgnC0Oz2k",
+   "t": "Etching Silicon with Plasma - Reactive Ion Etching (RIE)",
+   "d": "2021-06-27",
+   "v": 92618,
+   "s": 700,
+   "vertical": false,
+   "desc": "https://twitter.com/szeloof\n\n\n\nOUTLINE:\n0:00 - intro\n1:10 - chamber overview\n2:26 - etch demo\n3:58 - demo results\n5:40 - endpoint detection\n7:37 - quirks, subtleties, safety\n10:39 - construction \n\nMusic is shanghai by king gizzard and the lizard wizard"
+  },
+  {
+   "id": "IS5ycm7VfXg",
+   "t": "\"Z2\" - Upgraded Homemade Silicon Chips",
+   "d": "2021-08-13",
+   "v": 2511886,
+   "s": 346,
+   "vertical": false,
+   "desc": "https://www.patreon.com/szeloof\n\nhttp://sam.zeloof.xyz/second-ic/\n\nCheck our Jeri Ellsworth's amazing work making the first transistors and logic gates at home https://www.youtube.com/watch?v=PdcKwOo7dmM&t=1s\n\nDipping a rock into chemicals until it becomes a computer chip\nUpgraded Homemade Silicon IC Fab Process"
+  },
+  {
+   "id": "S8dRUz1E0PQ",
+   "t": "https://fab2.com",
+   "d": "2023-03-01",
+   "v": 28994,
+   "s": 6,
+   "vertical": true,
+   "desc": ""
+  }
+ ]
+}

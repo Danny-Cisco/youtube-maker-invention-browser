@@ -1,0 +1,711 @@
+{
+ "channel": {
+  "id": "UCeEf90AEmmxaQs5BUkHqR3Q",
+  "title": "mitxela",
+  "handle": "@mitxela",
+  "description": "",
+  "since": "2015-10-25",
+  "avatar": "https://yt3.ggpht.com/ytc/AIdro_m7ighiC9UvxvQHS8k5bNw9JgLVjRDxd0ezyE7Ex4Q=s800-c-k-c0x00ffffff-no-rj"
+ },
+ "stats": {
+  "viewCount": "20709946",
+  "subscriberCount": "237000",
+  "hiddenSubscriberCount": false,
+  "videoCount": "77"
+ },
+ "videos": [
+  {
+   "id": "QqVYLrvO8DA",
+   "t": "(Audio corrected) 21. Magnetohydrodynamics",
+   "d": "2015-10-25",
+   "v": 3156,
+   "s": 1617,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "G8b-ww_Z24U",
+   "t": "(Audio corrected) 19. Rotating Flows",
+   "d": "2015-10-25",
+   "v": 2130,
+   "s": 1860,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "Tur2YeEOX_A",
+   "t": "(Audio corrected) 16. Cavitation",
+   "d": "2015-10-25",
+   "v": 2230,
+   "s": 1920,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "9lowHks4su8",
+   "t": "(Audio corrected) 15. Flow Instabilities",
+   "d": "2015-10-25",
+   "v": 6037,
+   "s": 1680,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "mWP_5MBrt8U",
+   "t": "(Audio corrected) 14. Waves In Fluids",
+   "d": "2015-10-25",
+   "v": 1706,
+   "s": 1960,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "9-98OsVoTUg",
+   "t": "(Audio corrected) 11. Turbulence",
+   "d": "2015-10-25",
+   "v": 4028,
+   "s": 1743,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "ko8_j7_V0B0",
+   "t": "(Audio corrected) 9. Vorticity 2 of 2",
+   "d": "2015-10-25",
+   "v": 1613,
+   "s": 1259,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "OYtN8jaJ4GQ",
+   "t": "(Audio corrected) 9. Vorticity 1 of 2",
+   "d": "2015-10-25",
+   "v": 3218,
+   "s": 1376,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "45w1-lwFSzM",
+   "t": "(Audio corrected) 8. Channel Flow of a Compressible Fluid",
+   "d": "2015-10-25",
+   "v": 7424,
+   "s": 1739,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "53Rgjmr2rl0",
+   "t": "(Audio corrected) 7. Low Reynolds Number Flows",
+   "d": "2015-10-25",
+   "v": 3368,
+   "s": 1979,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "BnQQkrWyFjM",
+   "t": "(Audio corrected) 6. Pressure Fields and Fluid Acceleration",
+   "d": "2015-10-25",
+   "v": 3662,
+   "s": 1851,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "7FpW960gkVE",
+   "t": "(Audio corrected) 5. Flow Visualization",
+   "d": "2015-10-25",
+   "v": 8294,
+   "s": 1924,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "jeB2q75eJNw",
+   "t": "(Audio corrected) 4. Surface Tension in Fluid Mechanics",
+   "d": "2015-10-25",
+   "v": 3014,
+   "s": 1811,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "uzCrZ8GvqXE",
+   "t": "(Audio corrected) 3. Rheological Behavior of Fluids",
+   "d": "2015-10-25",
+   "v": 2329,
+   "s": 1345,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "Tmsn2qXbgXU",
+   "t": "(Audio corrected) 2. Deformation of Continuous Media",
+   "d": "2015-10-25",
+   "v": 4804,
+   "s": 2288,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "zyyzEiKftIM",
+   "t": "(Audio corrected) 1. Eulerian and Lagrangian Descriptions in Fluid Mechanics",
+   "d": "2015-10-25",
+   "v": 20665,
+   "s": 1620,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio. \n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "6wWYKQirmJ4",
+   "t": "(Audio corrected) 17. Rarefied Gas Dynamics",
+   "d": "2015-10-30",
+   "v": 1417,
+   "s": 1961,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio.\n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "IEBvAG48UFE",
+   "t": "(Audio corrected) 13. Secondary Flow",
+   "d": "2015-10-30",
+   "v": 5206,
+   "s": 1859,
+   "vertical": false,
+   "desc": "Excellent series of videos on fluid mechanics. The other uploaded versions of these films have a progressive audio desync, in some cases making it completely unwatchable. I've now gone through each video and manually resynchronized the audio.\n\nFilm notes available here: http://web.mit.edu/hml/ncfmf.html"
+  },
+  {
+   "id": "6PEI7agaeYc",
+   "t": "Wobbler (model engine from printer parts)",
+   "d": "2015-12-23",
+   "v": 11588,
+   "s": 76,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/wobbler"
+  },
+  {
+   "id": "sK6SHGm2AZg",
+   "t": "Midi Monotron",
+   "d": "2015-12-23",
+   "v": 50698,
+   "s": 132,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/midi_monotron"
+  },
+  {
+   "id": "tnm6agF8oog",
+   "t": "World's Smallest MIDI synthesizer",
+   "d": "2015-12-23",
+   "v": 31372,
+   "s": 118,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/smallest_midi_synth"
+  },
+  {
+   "id": "MS1pQFArHKs",
+   "t": "Hardware Reverse Oscilloscope (synthesizer)",
+   "d": "2015-12-23",
+   "v": 11054,
+   "s": 312,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/hardware_reverse_oscilloscope"
+  },
+  {
+   "id": "9NENegqhEEw",
+   "t": "Better Continuity Tester",
+   "d": "2015-12-23",
+   "v": 6943,
+   "s": 94,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/better_continuity_test"
+  },
+  {
+   "id": "FcsjieDfGno",
+   "t": "Synth Cable: an ATtiny85-based MIDI synthesizer",
+   "d": "2015-12-23",
+   "v": 14075,
+   "s": 222,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/midi_on_the_attiny"
+  },
+  {
+   "id": "cw42utdcHlE",
+   "t": "Stylophone Circuit Bending",
+   "d": "2015-12-23",
+   "v": 13836,
+   "s": 215,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/stylophone_circuit_bending\n(Update) The song is now on bandcamp: https://mitxela.bandcamp.com/track/stylobend"
+  },
+  {
+   "id": "oE-uB1Vw40w",
+   "t": "Breath Controllers and the Electric Melodica",
+   "d": "2016-02-27",
+   "v": 109623,
+   "s": 371,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/breath_controller_mk_ii"
+  },
+  {
+   "id": "xgJmhjM_Kpg",
+   "t": "Polyphonic MIDI Synth on an ATtiny2313",
+   "d": "2016-02-29",
+   "v": 53157,
+   "s": 341,
+   "vertical": false,
+   "desc": "Construction pictures here: http://mitxela.com/projects/polyphonic_synth_cable\nATtiny85 MIDI playback here: http://mitxela.com/projects/musical_card"
+  },
+  {
+   "id": "tUNjKQWjo80",
+   "t": "Simple Morse Code USB Keyboard",
+   "d": "2016-03-09",
+   "v": 35422,
+   "s": 62,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/morse_code_usb_keyboard_mk_ii"
+  },
+  {
+   "id": "u7AJvNMHu-c",
+   "t": "Electric engine from junk",
+   "d": "2016-03-09",
+   "v": 9374,
+   "s": 60,
+   "vertical": false,
+   "desc": "From a few years ago (before I got a lathe)\nhttp://mitxela.com/projects/electric_engine"
+  },
+  {
+   "id": "V4qf5L1Ww-A",
+   "t": "A Theremin with only one component?",
+   "d": "2016-03-11",
+   "v": 73524,
+   "s": 486,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/a_tiny_theremin"
+  },
+  {
+   "id": "__hWliAwwNY",
+   "t": "Building an Etch-a-Sketch USB Mouse",
+   "d": "2016-03-18",
+   "v": 190845,
+   "s": 710,
+   "vertical": false,
+   "desc": "Schematic & source code here: http://mitxela.com/projects/etch_mouse"
+  },
+  {
+   "id": "D7qEo8GECUQ",
+   "t": "An even smaller, even sillier synth",
+   "d": "2016-04-15",
+   "v": 242439,
+   "s": 409,
+   "vertical": false,
+   "desc": "For more info: http://mitxela.com/projects/silly_synth"
+  },
+  {
+   "id": "JdKfuitVTns",
+   "t": "Acoustic QR Codes",
+   "d": "2016-05-07",
+   "v": 14130,
+   "s": 98,
+   "vertical": false,
+   "desc": "Quick demonstration. The phone was about 4 metres from the desktop speakers.\n\nhttps://mitxela.com/projects/acoustic_qr_code"
+  },
+  {
+   "id": "EFuItpRkImg",
+   "t": "Touch Screen as a MIDI Ribbon Controller",
+   "d": "2016-06-28",
+   "v": 61363,
+   "s": 215,
+   "vertical": false,
+   "desc": "For more info: https://mitxela.com/projects/ribbon_controller"
+  },
+  {
+   "id": "fWXJDNcbZAA",
+   "t": "HC-05 Bluetooth Gamepad (without LPT programmer)",
+   "d": "2016-07-31",
+   "v": 52418,
+   "s": 232,
+   "vertical": false,
+   "desc": "For more info: https://mitxela.com/projects/bluetooth_hid_gamepad"
+  },
+  {
+   "id": "kHMZByJl61c",
+   "t": "Making a Two-headed Coin",
+   "d": "2016-09-10",
+   "v": 62996,
+   "s": 849,
+   "vertical": false,
+   "desc": "0:00 Make a collet in order to hold a coin firmly without damaging the rim\n2:00 Use it to hollow out the tails face of one coin\n5:00 Hollow out another coin in the same way\n6:36 Make a wax chuck to hold the second coin\n9:50 Remove rim of second coin\n12:49 Test fit and glue together\n\nFor more info: https://mitxela.com/projects/another_two-headed_coin"
+  },
+  {
+   "id": "GvkoKPkOkEY",
+   "t": "Hand soldering an MSOP-10 package",
+   "d": "2016-10-08",
+   "v": 109831,
+   "s": 544,
+   "vertical": false,
+   "desc": "I like a challenge. 0.5mm pitch? Breakout boards are for wimps!\nhttps://mitxela.com/projects/soldering_msop"
+  },
+  {
+   "id": "MEEt9e8boiQ",
+   "t": "1kB TFTP Bootloader for AVR / ENC28J60",
+   "d": "2017-01-02",
+   "v": 7057,
+   "s": 153,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/kiloboot\nSource code: https://github.com/mitxela/kiloboot"
+  },
+  {
+   "id": "Fzbg-BqIdJI",
+   "t": "Programmable LED Earrings",
+   "d": "2017-02-12",
+   "v": 141385,
+   "s": 2161,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/charliestar"
+  },
+  {
+   "id": "EL020eUrgNY",
+   "t": "Portable Jacob's Ladder",
+   "d": "2017-06-03",
+   "v": 69459,
+   "s": 124,
+   "vertical": false,
+   "desc": "You know, for when you need a Jacob's Ladder on the go.\n\nhttps://mitxela.com/jacobs_ladder"
+  },
+  {
+   "id": "GB-yyyBCIjE",
+   "t": "Making a MIDI Medallion",
+   "d": "2017-08-05",
+   "v": 22229,
+   "s": 240,
+   "vertical": false,
+   "desc": "I wanted to try casting pewter into a laser cut mould, and couldn't think of anything better to do.\n\nhttps://mitxela.com/midi_medallion"
+  },
+  {
+   "id": "ExGMMumWFdc",
+   "t": "A tiny joystick for pitch bending",
+   "d": "2017-09-11",
+   "v": 93292,
+   "s": 486,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/tiny_joystick\nIf you'd like to buy one of these, check out Brendan's website: http://www.brendan-power.com/DM48.php"
+  },
+  {
+   "id": "rBqc1AiUsk8",
+   "t": "EXECU-CALM",
+   "d": "2017-12-20",
+   "v": 20196,
+   "s": 97,
+   "vertical": false,
+   "desc": "Laser cut replica of the Executive Decision Maker featured in the film Brazil (1985, Terry Gilliam).\n\nThe last shot was meant to be a Gilliamesque Ultrawide Uncomfortable Closeup\n\nhttps://mitxela.com/execucalm"
+  },
+  {
+   "id": "EuggcDJOED8",
+   "t": "MIDI Music Box",
+   "d": "2018-03-17",
+   "v": 469101,
+   "s": 1370,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/musicbox\n\n(Update) Song Listing:\n1:12 Link's Awakening - Sword Search\n2:16 Super Mario Bros. - Underwater Theme\n3:00 Majora's Mask - Music Box House\n4:36 Majora's Mask - Astral Observatory\n7:51 (mario theme, realtime keyboard demo)\n9:14 Banjo-Kazooie - Click Clock Woods (winter)\n11:54 Link's Awakening - Mabe Village\n12:18 Super Mario Land - World 1-1\n14:05 Minish Cap - Cloud Tops\n14:41 Majora's Mask - Clock Town Day 2\n16:01 Pokemon Red/Blue - Pallet Town\n17:06 Super Mario Bros 3. - Underwater\n18:08 Mario 64 - Inside the Castle Walls\n19:10 Yoshi's Island - Hop! Ho"
+  },
+  {
+   "id": "6CwaT4R5_WA",
+   "t": "Thermal Paper Polaroid",
+   "d": "2018-04-05",
+   "v": 74393,
+   "s": 361,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/thermal_paper_polaroid"
+  },
+  {
+   "id": "zHVrY_xLM3c",
+   "t": "Stylophone Business Card",
+   "d": "2018-05-05",
+   "v": 3961351,
+   "s": 335,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/stylocard"
+  },
+  {
+   "id": "edERx4x5eY0",
+   "t": "Hand soldering a WLCSP package",
+   "d": "2018-06-23",
+   "v": 126704,
+   "s": 938,
+   "vertical": false,
+   "desc": "Brace yourselves for 15 minutes of pure adrenaline...\nhttps://mitxela.com/soldering_wlcsp\n(update) Music is now on bandcamp: https://mitxela.bandcamp.com/track/hand-soldering-a-wlcsp-package"
+  },
+  {
+   "id": "qK0vmuQib8Y",
+   "t": "AI in Brainfuck",
+   "d": "2018-09-27",
+   "v": 581360,
+   "s": 766,
+   "vertical": false,
+   "desc": "Animated version of a talk I gave on writing a program in brainfuck.\n\nhttps://mitxela.com/ai_in_brainfuck\n\nDemo: https://mitxela.com/projects/bf_tic_tac_toe\nSource code: https://github.com/mitxela/bf-tic-tac-toe\nDebug interpreter: https://mitxela.com/other/brainfuck"
+  },
+  {
+   "id": "TbMg2LK4eFk",
+   "t": "How an Accordion works",
+   "d": "2018-10-11",
+   "v": 175652,
+   "s": 829,
+   "vertical": false,
+   "desc": "Teardown of a piano accordion.\n\nMore info: https://mitxela.com/accordion_repair"
+  },
+  {
+   "id": "i08S5qolgvc",
+   "t": "Writing a GB emulator in JS",
+   "d": "2018-12-06",
+   "v": 36810,
+   "s": 372,
+   "vertical": false,
+   "desc": "About 60 hours of work condensed into 6 minutes.\n\nI love javascript (and I've been saying that since before it became cool). But there's one thing that's lacking in a conventional javascript-fueled hacking session: assembly programming and machine code. Not so, when writing an emulator!\n\nThis video isn't a recording, it's a timelapse generated directly from the git history. As such the typing doesn't quite line up with what really happened, but the commits were frequent enough that it's pretty close.\n\nThe soundtrack was supposed to be produced entirely on a gameboy, but that got tedious and I "
+  },
+  {
+   "id": "dTGOEe8f8ls",
+   "t": "DIY Games Console",
+   "d": "2018-12-23",
+   "v": 735831,
+   "s": 963,
+   "vertical": false,
+   "desc": "Finally got around to filming a video about it.\n\nLoads more info: http://mitxela.com/console"
+  },
+  {
+   "id": "SNqm5T5syTM",
+   "t": "Precision Clock",
+   "d": "2019-05-04",
+   "v": 365094,
+   "s": 1373,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/precision_clock_mk_iii\nInterested in buying the kit? https://mitxela.com/shop/clock\n(Update) Music is now on bandcamp: https://mitxela.bandcamp.com/track/assembling-the-precision-clock"
+  },
+  {
+   "id": "KTvVS8guBsY",
+   "t": "The Smallest MIDI Synth Again...",
+   "d": "2019-10-18",
+   "v": 223349,
+   "s": 2263,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/flash_synth\n\nInterested in owning one? Head to Aaron's shop: https://hpi.zentral.zone/flash"
+  },
+  {
+   "id": "gLG6Mp4n-Ms",
+   "t": "Plotter Fun",
+   "d": "2020-06-05",
+   "v": 230828,
+   "s": 370,
+   "vertical": false,
+   "desc": "https://mitxela.com/plotterfun\n\nProject page: https://mitxela.com/projects/plotting\nSource code: https://github.com/mitxela/plotterfun\nBandcamp for plotter funk: https://mitxela.bandcamp.com"
+  },
+  {
+   "id": "me4gGfazUdw",
+   "t": "More MIDI madness",
+   "d": "2021-02-07",
+   "v": 310444,
+   "s": 904,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/slide\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\n\n2:05 God only knows (bioshock version)\n6:28 Dragon roost island\n10:02 Cruel angel's thesis\n12:20 Mr Sandman"
+  },
+  {
+   "id": "Qw-VvGsYpSU",
+   "t": "Ode to Rockbox",
+   "d": "2021-03-16",
+   "v": 26205,
+   "s": 321,
+   "vertical": false,
+   "desc": "Not actually an ode. Normality will resume shortly.\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\n\nMore info: https://mitxela.com/ode_to_rockbox"
+  },
+  {
+   "id": "JhNMeJZ8Ll0",
+   "t": "UV Protection Amulet",
+   "d": "2021-10-30",
+   "v": 304658,
+   "s": 3172,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/amulet\n\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\n\n\n00:00 Intro\n01:29 Plan\n02:16 Metalwork\n05:47 Threading talk\n08:40 First thread\n12:25 Second thread\n15:19 More metalwork\n21:40 Soft Soldering\n24:49 Electronics\n33:42 Software\n35:28 Sensor rant\n37:38 UV-Index explanation\n41:20 Neat renders\n41:52 More sensor rant\n42:58 Gold plating\n45:37 PCB assembly\n49:27 Demo\n51:43 Instruction manual"
+  },
+  {
+   "id": "CUtJFKyDCNE",
+   "t": "WebRTC Pong",
+   "d": "2021-12-13",
+   "v": 38619,
+   "s": 1228,
+   "vertical": false,
+   "desc": "Play the game: https://mitxela.com/pong\nLearn how it works: https://mitxela.com/webrtc-pong\nSupport me: https://patreon.com/mitxela or https://paypal.me/mitxela"
+  },
+  {
+   "id": "8UbVgUFfN8U",
+   "t": "The smallest and worst HDMI display ever",
+   "d": "2022-03-31",
+   "v": 202461,
+   "s": 122,
+   "vertical": false,
+   "desc": "more info: https://mitxela.com/ddc-oled\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "euJgtLcWWyo",
+   "t": "Melt your circuit boards",
+   "d": "2022-04-14",
+   "v": 471213,
+   "s": 718,
+   "vertical": false,
+   "desc": "Plugin info:\nhttps://github.com/mitxela/kicad-round-tracks\nhttps://mitxela.com/melting_kicad\nhttps://mitxela.com/melting_kicad_2\n\nSupport me:\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\nhttps://mitxela.bandcamp.com"
+  },
+  {
+   "id": "TfBQi_peHI4",
+   "t": "Building a tiny steampunk \"HDMI\" display",
+   "d": "2022-05-12",
+   "v": 452321,
+   "s": 1174,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/steampunk-oled\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\nhttps://mitxela.bandcamp.com"
+  },
+  {
+   "id": "Qv88mkIijy8",
+   "t": "Infinite Brass Cubes",
+   "d": "2022-11-07",
+   "v": 34665,
+   "s": 775,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/brass_infinity_cube\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela\nhttps://mitxela.bandcamp.com\n\n00:00 Protocubes\n02:50 Chamfertron\n05:17 Hingetopia\n07:05 Rounding and welding\n09:57 Demo"
+  },
+  {
+   "id": "KB2eRY8ZT4E",
+   "t": "Musings on Invention",
+   "d": "2023-01-03",
+   "v": 20608,
+   "s": 663,
+   "vertical": false,
+   "desc": "Some thoughts about great inventions.\n\nObligatory post for the exceptionally keen: https://mitxela.com/musings_on_invention"
+  },
+  {
+   "id": "0AA-Le7cmH0",
+   "t": "How SLR cameras work: Nikon F3",
+   "d": "2023-09-14",
+   "v": 30102,
+   "s": 1939,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/f3_video \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela \nEnding music is on bandcamp: https://mitxela.bandcamp.com"
+  },
+  {
+   "id": "2XhaSXmPdKI",
+   "t": "R-Scope mk.2 synth demo",
+   "d": "2023-09-22",
+   "v": 25576,
+   "s": 1731,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/rscope2 \n\nDave's modular synth: https://www.nervoussquirrel.com/modular \n\n00:00 Intro and motivation\n02:21 Controls explained\n08:16 Demo (sequencing, gate)\n15:04 Talking\n16:27 Demo (janky envelope)\n23:04 Technical details\n26:12 Outro\n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "HKpBhE7QVAI",
+   "t": "Tiny volumetric display",
+   "d": "2023-12-01",
+   "v": 3233873,
+   "s": 323,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/candle \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "bmFmsn6VZSM",
+   "t": "The smallest and silliest MIDI synth yet",
+   "d": "2023-12-15",
+   "v": 258624,
+   "s": 208,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/smsc \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "T3evnh9lT9k",
+   "t": "LED Industrial Piercing",
+   "d": "2023-12-22",
+   "v": 778066,
+   "s": 1291,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/scaffold \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela \nhttps://mitxela.bandcamp.com \n\n00:00 Idea\n01:07 Metalworking\n07:35 Circuit design\n10:34 Soldering\n15:15 Enlightenment\n18:17 Test and epoxy\n19:52 Case\n20:46 Demo"
+  },
+  {
+   "id": "CHoGIvOi-jw",
+   "t": "LED Matrix Earring",
+   "d": "2024-02-20",
+   "v": 468240,
+   "s": 1196,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/ledstud\n\nhttps://patreon.com/mitxela\nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "p-q8mrZ7V68",
+   "t": "0201 rework / hand soldering 0201 LED",
+   "d": "2024-02-23",
+   "v": 61050,
+   "s": 409,
+   "vertical": false,
+   "desc": "Follow up to the LED Matrix Earring ( https://youtu.be/CHoGIvOi-jw )\n\nMore info: https://mitxela.com/ledstud \nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "6JeV53LZ8ag",
+   "t": "Robot Slide Whistle Orchestrion",
+   "d": "2024-04-01",
+   "v": 318105,
+   "s": 861,
+   "vertical": false,
+   "desc": "Inevitable really.\n\nMore info: https://mitxela.com/slide2 \nEmulator: https://mitxela.com/projects/slide2/emu \n\nPatreon: https://patreon.com/mitxela \nPaypal: https://paypal.me/mitxela \n\n00:00 Mii channel\n01:22 Talking\n02:51 Magic roundabout\n03:36 Insides\n04:47 All star\n07:57 More talking\n11:07 da vinci's notebook"
+  },
+  {
+   "id": "IHD3ji-F600",
+   "t": "Light communication on CH32V003",
+   "d": "2024-07-31",
+   "v": 44650,
+   "s": 184,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/lightcomm \n\npatreon: https://patreon.com/mitxela \npaypal: https://paypal.me/mitxela"
+  },
+  {
+   "id": "jis1MC5Tm8k",
+   "t": "Fluid Simulation Pendant",
+   "d": "2025-01-13",
+   "v": 2588267,
+   "s": 2282,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/fluid-pendant \n\nTen minute physics: https://www.youtube.com/@TenMinutePhysics \n\nBandcamp: https://mitxela.bandcamp.com \nPatreon: https://patreon.com/mitxela \nPayPal: https://paypal.me/mitxela \n\n00:00 Intro and FLIP\n06:38 Hardware design\n15:21 Metalwork\n23:42 PCB assembly\n24:31 Software\n28:24 Assembly\n33:30 2nd Pendant and beyond"
+  },
+  {
+   "id": "dLw2QQdOLaM",
+   "t": "Eurorack Knob Idea",
+   "d": "2025-04-24",
+   "v": 43137,
+   "s": 273,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/euroknob \n\nhttps://paypal.me/mitxela \nhttps://patreon.com/mitxela"
+  },
+  {
+   "id": "XL2cZjO5IUY",
+   "t": "Precision Clock Mk IV",
+   "d": "2025-05-31",
+   "v": 92943,
+   "s": 561,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/precision_clock_mk_iv \nBuy the kit: https://mitxela.com/shop/clock4 \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "MkfHD2ShE5s",
+   "t": "Simple Screw Counter",
+   "d": "2026-02-28",
+   "v": 71015,
+   "s": 674,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/screwcounter \n\nSupport me: \nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  },
+  {
+   "id": "aZzOWnEWgww",
+   "t": "Fluid Simulation on Flipdots",
+   "d": "2026-09-24",
+   "v": 2262683,
+   "s": 1192,
+   "vertical": false,
+   "desc": "More info: https://mitxela.com/flipflip \n\nhttps://patreon.com/mitxela \nhttps://paypal.me/mitxela"
+  }
+ ]
+}
