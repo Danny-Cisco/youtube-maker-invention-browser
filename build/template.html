@@ -74,6 +74,11 @@ body{overflow-x:clip}
 .crow{margin-top:40px}
 .junk{margin-top:64px;padding-top:28px;border-top:1px solid var(--line);transition:opacity .3s}
 .junk.fade{opacity:0}
+.totop{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:40;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:10px 16px 10px 13px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,.18);animation:tin .25s ease}
+.totop[hidden]{display:none}
+.totop:hover{border-color:var(--accent)}
+.totop svg{width:18px;height:18px;fill:none;stroke:var(--accent);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+@keyframes tin{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 .jumpbar{margin-top:28px;display:flex;justify-content:center}
 .jumpjunk{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:10px 20px;font-size:15px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.08)}
 .jumpjunk:hover{border-color:var(--accent)}
@@ -378,6 +383,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
   <nav class="path wrap" id="path" aria-label="Move between inventions" hidden></nav>
 </div>
 <main id="main"></main>
+<button class="totop" id="toTop" aria-label="Back to top" title="Back to top" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg><span>Top</span></button>
 <script>
 const DATA = /*DATA*/null;
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -590,15 +596,15 @@ const ROWS = [
   { k: "deep", title: "Deep cuts", sub: "Lesser-known builds worth finding", pick: pickDeep, big: false, every: 5000 },
 ];
 const car = {};
-// Junk Drawer: four rows of tiles drifting continuously, alternate rows in opposite directions. Hover pauses a row.
+// Junk Drawer: three rows of tiles drifting continuously, alternate rows in opposite directions. Hover pauses a row.
 let junk = null;
 function drawJunk(fresh){
   const el = $("junk"); if (!el) return;
-  if (!junk || fresh) junk = pickJunk(48);
-  const vw = window.innerWidth, tw = vw < 600 ? 190 : 250, gap = 12, per = Math.ceil(junk.length / 4);
+  if (!junk || fresh) junk = pickJunk(36);
+  const vw = window.innerWidth, tw = vw < 600 ? 190 : 250, gap = 12, per = Math.ceil(junk.length / 3);
   const tile = ({ c, x }) => `<a class="slide on jt" href="#/${c.slug}/${x.slug}" style="width:${tw}px"><img class="th" src="https://i.ytimg.com/vi/${x.hero}/mqdefault.jpg" alt="" loading="lazy" onerror="this.style.opacity=0">
     <div class="cap"><b>${esc(x.name)}</b><span>${esc(c.name)} · ${fmt(x.views)} views</span></div></a>`;
-  const rows = [0, 1, 2, 3].map(r => junk.slice(r * per, r * per + per)).filter(r => r.length);
+  const rows = [0, 1, 2].map(r => junk.slice(r * per, r * per + per)).filter(r => r.length);
   el.innerHTML = `<div class="rhead wrap"><h2>Junk Drawer</h2><span>Rummage through each maker's least-watched builds</span><button class="rshuf" id="junkShuf">Shuffle ↻</button></div>
     ${rows.map((r, i) => { const len = r.length * (tw + gap);   // one copy of the row, in px; ~38 px a second
       return `<div class="jrow${i % 2 ? " rev" : ""}"><div class="jtrack" style="--dur:${Math.round(len / 38)}s">${[0, 1].map(k => `<div class="jset"${k ? ' aria-hidden="true"' : ""}>${r.map(tile).join("")}</div>`).join("")}</div></div>`; }).join("")}`;
@@ -1201,6 +1207,11 @@ window.addEventListener("pageshow", ev => { if (ev.persisted && page === "makers
 const topbar = document.querySelector(".topbar");
 const markStuck = () => topbar.classList.toggle("stuck", topbar.getBoundingClientRect().top <= 0 && window.scrollY > 0);
 window.addEventListener("scroll", markStuck, { passive: true });
+// Back-to-top button: appears once the page has scrolled more than a screen and a half.
+const toTop = $("toTop");
+const markTop = () => { const show = window.scrollY > window.innerHeight * 1.5; if (toTop.hidden === show) toTop.hidden = !show; };
+window.addEventListener("scroll", markTop, { passive: true });
+toTop.onclick = () => window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
 route();
 </script>
 </body>
