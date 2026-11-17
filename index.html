@@ -74,6 +74,15 @@ body{overflow-x:clip}
 .crow{margin-top:40px}
 .junk{margin-top:64px;padding-top:28px;border-top:1px solid var(--line);transition:opacity .3s}
 .junk.fade{opacity:0}
+.jumpbar{margin-top:28px;display:flex;justify-content:center}
+.jumpjunk{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:10px 20px;font-size:15px;font-weight:600;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.jumpjunk:hover{border-color:var(--accent)}
+.jumpjunk svg{width:20px;height:20px;fill:none;stroke:var(--accent);stroke-width:1.8;stroke-linecap:round}
+.jumpjunk span{color:var(--muted);transition:transform .2s}
+.jumpjunk:hover span{transform:translateY(2px)}
+.junk.opened .jrow{animation:jopen .7s cubic-bezier(.2,.8,.3,1) both}
+.junk.opened .jrow:nth-of-type(3){animation-delay:.06s}.junk.opened .jrow:nth-of-type(4){animation-delay:.12s}.junk.opened .jrow:nth-of-type(5){animation-delay:.18s}
+@keyframes jopen{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 .jrow{margin:12px calc(50% - 50vw) 0;width:100vw;overflow:hidden}
 .jtrack{display:flex;width:max-content;animation:jscroll var(--dur) linear infinite}
 .jrow.rev .jtrack{animation-direction:reverse}
@@ -657,8 +666,13 @@ function renderHeader(){
         <div class="facts"><span><b>${CREATORS.length}</b> makers</span><span><b>${CREATORS.reduce((a, c) => a + c.inventions.length, 0).toLocaleString()}</b> inventions</span><span><b>${CREATORS.reduce((a, c) => a + c.uploads.length, 0).toLocaleString()}</b> uploads</span></div>
       </div>
       <div class="hero" id="hero"></div>
+      <div class="jumpbar"><button class="jumpjunk" id="openJunk"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 12h18M10 8h4M10 16h4"/></svg>Open junk drawer <span aria-hidden="true">↓</span></button></div>
       <div class="browse"><h2>Browse all makers</h2><span>Search by maker or invention, sort, or filter by channel size</span></div>`;
     drawHero(true);
+    $("openJunk").onclick = () => { const j = $("junk"); if (!j) return;
+      const top = j.getBoundingClientRect().top + window.scrollY - (document.querySelector(".topbar")?.offsetHeight || 0) - 8;
+      window.scrollTo({ top, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+      j.classList.remove("opened"); void j.offsetWidth; j.classList.add("opened"); };
     return;
   }
   $("hdr").innerHTML = `
