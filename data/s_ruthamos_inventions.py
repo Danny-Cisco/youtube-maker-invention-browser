@@ -1,253 +1,209 @@
-"""Curated inventions for Ruth Amos (@ruth_amos).
+"""Curated inventions for Ruth Amos. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
+drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
-"""
-
-CREATOR = {'slug': 'ruth-amos', 'name': 'Ruth Amos', 'person': 'Ruth Amos', 'tagline': 'British inventor and engineer making crazy inventions; one half of Kids Invent Stuff.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
+CREATOR = {'slug': 'ruth-amos', 'name': 'Ruth Amos', 'tagline': 'British inventor and engineer making crazy inventions; one half of Kids Invent Stuff.', 'other_label': 'Other uploads: shorts, stories and updates', 'person': 'Ruth Amos'}
 
 INVENTIONS = [
- dict(name="Building my Dream Workshop", kind="Build",
-  desc="I built my own workshop from scratch in my back garden, loosely based on Colin Furze's award winning workshop.",
+ dict(name="Dream Workshop", kind="Workshop",
+  desc="Building her dream workshop, then a tour and upgrades.",
   videos=[
    "cPbL-fosCaU",  # 2021-05-19 Building my Dream Workshop!
+   "DSrR6LUTuXI",  # 2022-03-03 Workshop Tour & Upgrades
   ],
  ),
- dict(name="Making a robot LEGO pumpkin", kind="Build",
-  desc="Making a robot LEGO pumpkin.",
+ dict(name="LEGO Door Handles", kind="Workshop",
+  desc="LEGO door handles for the workshop.",
+  videos=[
+   "E-GtttQkyXE",  # 2021-08-06 Making Lego Door Handles for my Workshop
+  ],
+ ),
+ dict(name="LEGO Roof", kind="Workshop",
+  desc="Putting LEGO on the workshop roof, and answering questions about it.",
+  videos=[
+   "Gij8txsEXVI",  # 2022-04-28 I put Lego on my workshop roof!
+   "iG9yBHuC8yY",  # 2022-05-20 Lego Roof: Answering your questions
+  ],
+ ),
+ dict(name="Robot LEGO Pumpkin", kind="Robot",
+  desc="A robot LEGO pumpkin, and the only way to carve a pumpkin.",
   videos=[
    "GusdRm9dwkA",  # 2021-10-20 Making a robot LEGO pumpkin
-  ],
- ),
- dict(name="The only way to carve a pumpkin", kind="Build",
-  desc="The only way to carve a pumpkin! 🎃🔥😆 #pumpkincarving #halloween  #pumpkin.",
-  videos=[
    "-Udy6Y2dAUE",  # 2021-10-26 The only way to carve a pumpkin! 🎃🔥😆 #pumpkincarving #halloween  #pump
   ],
  ),
- dict(name="Building an invention to make me a better parent", kind="Build",
-  desc="My child is learning to talk and I don't want him picking up any bad habits...",
+ dict(name="Better-Parent Invention", kind="Gadget",
+  desc="An invention to make her a better parent.",
   videos=[
    "RZvADQMPKn4",  # 2022-01-28 Building an invention to make me a better parent!
   ],
  ),
- dict(name="I made myself some new overalls for the workshop", kind="Build",
-  desc="I made myself some new overalls for the workshop.",
-  videos=[
-   "72JsElUzfoI",  # 2022-03-02 I made myself some new overalls for the workshop
-  ],
- ),
- dict(name="Happy International Women’s Day", kind="Build",
-  desc="Happy International Women’s Day! #breakthebias #iwd2022 #welding.",
-  videos=[
-   "MOez6QsTl6s",  # 2022-03-08 Happy International Women’s Day! #breakthebias #iwd2022 #welding
-  ],
- ),
- dict(name="This is why being an inventor is so cool", kind="Build",
-  desc="This is why being an inventor is so cool!.",
-  videos=[
-   "me65g1sKYVU",  # 2022-04-24 This is why being an inventor is so cool!
-  ],
- ),
- dict(name="Making A DIY SawStop", kind="Build",
-  desc="Making A DIY SawStop!.",
+ dict(name="DIY SawStop", kind="Tool",
+  desc="A homemade version of the SawStop flesh-sensing table-saw brake, built in her shed.",
   videos=[
    "F87u7IQL-3M",  # 2022-07-31 Making A DIY SawStop!
+   "S-yoJQB8EJ4",  # 2024-10-30 I'm making a DIY SawStop!
+   "Quzr71SfSoE",  # 2024-11-01 I made a SawStop in my Shed
+   "jvjPwUzdORQ",  # 2024-11-03 A DIY SawStop in my shed... what could go wrong
+   "DUhVaqIhSyY",  # 2024-11-05 Can I build a SawStop in my shed?!
   ],
  ),
- dict(name="They are making what", kind="Build",
-  desc="They are making what?! 🤯.",
+ dict(name="Workshop Dungarees", kind="Wearable",
+  desc="Making her own overalls and dungarees for the workshop.",
   videos=[
-   "eoqP9WHCFO0",  # 2022-11-01 They are making what?! 🤯
+   "72JsElUzfoI",  # 2022-03-02 I made myself some new overalls for the workshop
+   "fVk_6ga0wQ4",  # 2025-06-02 Dungarees DIY
   ],
  ),
- dict(name="Such a lovely moment", kind="Build",
-  desc="Such a lovely moment ❤️.",
-  videos=[
-   "k7Kz0e9m_wI",  # 2023-02-08 Such a lovely moment ❤️
-  ],
- ),
- dict(name="It didn’t start well…", kind="Build",
-  desc="It didn’t start well…..",
-  videos=[
-   "i4eiikduj4E",  # 2023-05-16 It didn’t start well….
-  ],
- ),
- dict(name="Anyone else get these thoughts", kind="Build",
-  desc="Anyone else get these thoughts? #engineer.",
-  videos=[
-   "jSEYhRD6VDQ",  # 2023-09-10 Anyone else get these thoughts? #engineer
-  ],
- ),
- dict(name="Wi-fi connected hammer", kind="Build",
-  desc="Wi-fi connected hammer! 🔨.",
+ dict(name="Wi-Fi Hammer", kind="Tool",
+  desc="A Wi-Fi-connected hammer.",
   videos=[
    "CiEJ93QogHg",  # 2024-04-01 Wi-fi connected hammer! 🔨
   ],
  ),
- dict(name="Making Life-Sized Barbie Heels", kind="Build",
-  desc="Making Life-Sized Barbie Heels!.",
+ dict(name="Life-Sized Barbie Heels", kind="Wearable",
+  desc="Wearable life-sized Barbie heels.",
   videos=[
    "wVTCHlKXpDg",  # 2024-07-30 Making Life-Sized Barbie Heels!
   ],
  ),
- dict(name="Etching Metal at Home", kind="Build",
-  desc="It's super simple to etch metal at home!",
+ dict(name="Etching Metal at Home", kind="Technique",
+  desc="Etching metal at home.",
   videos=[
    "qzPV5SojLCc",  # 2024-10-18 Etching Metal at Home
   ],
  ),
- dict(name="Welding on my workbench", kind="Build",
-  desc="Welding on my workbench: adding metal.",
+ dict(name="Workshop Anodising", kind="Technique",
+  desc="Learning to anodise in the workshop.",
   videos=[
-   "VRvxQj827c4",  # 2024-10-20 Welding on my workbench: adding metal
+   "FC82_WKmOG4",  # 2024-11-15 Learning to Anodise in the Workshop
   ],
  ),
- dict(name="More Riveting Content", kind="Build",
-  desc="More Riveting Content.",
-  videos=[
-   "0EhjWCbvMdY",  # 2024-10-28 More Riveting Content
-  ],
- ),
- dict(name="I'm making a DIY SawStop", kind="Build",
-  desc="I'm making a DIY SawStop!.",
-  videos=[
-   "S-yoJQB8EJ4",  # 2024-10-30 I'm making a DIY SawStop!
-  ],
- ),
- dict(name="I made a SawStop in my Shed", kind="Build",
-  desc="I made a SawStop in my Shed.",
-  videos=[
-   "Quzr71SfSoE",  # 2024-11-01 I made a SawStop in my Shed
-  ],
- ),
- dict(name="A DIY SawStop in my shed... what could go wrong", kind="Build",
-  desc="A DIY SawStop in my shed... what could go wrong.",
-  videos=[
-   "jvjPwUzdORQ",  # 2024-11-03 A DIY SawStop in my shed... what could go wrong
-  ],
- ),
- dict(name="Driving Matt's Lego Cart", kind="Build",
-  desc="Driving Matt's Lego Cart.",
-  videos=[
-   "qu-mX824Mzs",  # 2024-11-11 Driving Matt's Lego Cart
-  ],
- ),
- dict(name="I'm a workshop girly", kind="Build",
-  desc="I'm a workshop girly.",
-  videos=[
-   "xYBvc_nWw9c",  # 2024-11-17 I'm a workshop girly
-  ],
- ),
- dict(name="PSA: Replace your Dyson battery with a Makita battery", kind="Build",
-  desc="PSA: Replace your Dyson battery with a Makita battery.",
+ dict(name="Dyson to Makita Battery Adapter", kind="Tool",
+  desc="Swapping a Dyson's battery for a Makita one.",
   videos=[
    "EXKDDpSiUAQ",  # 2024-11-19 PSA: Replace your Dyson battery with a Makita battery
   ],
  ),
- dict(name="It's a giant tungsten pencil sharpener", kind="Build",
-  desc="It's a giant tungsten pencil sharpener!.",
+ dict(name="Giant Tungsten Pencil Sharpener", kind="Tool",
+  desc="A giant pencil sharpener for tungsten welding electrodes.",
   videos=[
    "SX7CI8XyOcs",  # 2024-11-29 It's a giant tungsten pencil sharpener!
   ],
  ),
- dict(name="I got a new Sander", kind="Build",
-  desc="I got a new Sander!.",
-  videos=[
-   "TLNuYNJLuKQ",  # 2024-12-03 I got a new Sander!
-  ],
- ),
- dict(name="GIANT LEGO Christmas Tree", kind="Build",
-  desc="GIANT LEGO (inspired) Christmas Tree!.",
+ dict(name="Giant LEGO-Inspired Tree", kind="Decoration",
+  desc="A giant 3D-printed LEGO-inspired Christmas tree that lit up and was redecorated for spring, summer, Halloween and National Engineering Day.",
   videos=[
    "RK3AwJg0UiM",  # 2024-12-07 GIANT LEGO (inspired) Christmas Tree!
-  ],
- ),
- dict(name="I built a Lego Inspired Christmas Tree", kind="Build",
-  desc="I built a Lego Inspired Christmas Tree.",
-  videos=[
    "Yq-QBHT9jZw",  # 2024-12-15 I built a Lego Inspired Christmas Tree
-  ],
- ),
- dict(name="GIANT Lego* Christmas Tree ASMR", kind="Build",
-  desc="GIANT Lego* Christmas Tree ASMR #3dprinting.",
-  videos=[
    "T0MCfnmiJfc",  # 2024-12-17 GIANT Lego* Christmas Tree ASMR #3dprinting
+   "eY9_3zA5wbw",  # 2024-12-18 GIANT Lego Tree: Cat vs Human
+   "6QPIHtbIAJM",  # 2024-12-24 Thank you for the Lego Tree love
+   "mNmeOAqdqKA",  # 2024-12-27 Making the GIANT LEGO Tree Light up!
+   "OLJ7_swXm34",  # 2025-04-18 Decorating the GIANT Lego Tree for SPRING! 🌼
+   "IoHo9cNrt-c",  # 2025-05-05 This giant 3D printed LEGO tree was supposed to be just for Christmas.
+   "S0WXhy7UHno",  # 2025-08-20 The summer Lego tree is getting started…
+   "hKrk0Y2WOHM",  # 2025-08-29 The Summer Tree Reveal you've been waiting for!
+   "gOIYc3JEdiE",  # 2025-10-02 Decorating my Lego Tree for Halloween!
+   "ghy5NhLwl9o",  # 2025-10-06 Decorating my lego tree for Halloween Part 2
+   "Zzg-30Edgv4",  # 2025-10-08 Rating my GIANT lego Halloween decorations
+   "Cn2Py8Zmaz0",  # 2025-11-04 To mark #NationalEngineeringDay I am giving my giant LEGO tree a full 
+   "nVG0i-QnjHI",  # 2025-11-04 Celebrating #NationalEngineeringDay the only way I know.
+   "Liz6n-d5jNk",  # 2025-11-05 To celebrate #NationalEngineeringDay I decorated my giant LEGO inspire
+   "HDoQRQM-lE0",  # 2026-03-25 The Tree has left the building
   ],
  ),
- dict(name="Can I DIY Kim K’s $78,000 LED Bed for CHEAP", kind="Build",
-  desc="Red light therapy is all the rage, but what if I DIY'd my own version of those expensive beauty gadgets?",
+ dict(name="Giant LEGO-Inspired Decorations", kind="Decoration",
+  desc="More oversized LEGO-style decorations: a Halloween wreath, Halloween pieces and a candle arch.",
+  videos=[
+   "t4yaAyCIL-E",  # 2025-10-04 Halloween Wreath  #lego
+   "-dz1m49uSdc",  # 2025-10-11 3D Print Giant Halloween Lego* (*inspired)
+   "jGaD4KUfTYs",  # 2025-11-04 My next #NationalEngineeringDay decoration is...
+   "zQapXBXZmBM",  # 2025-11-04 Im making Lego inspired decorations for #NationalEngineeringDay
+   "_JEGMG76UCI",  # 2025-12-21 Giant Lego *inspired Candle Arch
+  ],
+ ),
+ dict(name="Giant LEGO Pumpkin", kind="Decoration",
+  desc="A giant 3D-printed LEGO-style pumpkin for Halloween.",
+  videos=[
+   "k0HFkSQ3RAo",  # 2026-10-16 I had a terrible idea… so naturally, I decided to make it. 🎃
+   "nLZwG3JyQHE",  # 2026-10-21 Let’s 3D print a giant Lego inspired pumpkin for Halloween!
+   "lcx-WJ-sf4E",  # 2026-10-27 I made a GIANT Lego Pumpkin
+   "PMQFVtQIvUI",  # 2026-10-28 3D printing a GIANT Lego-style pumpkin for Halloween
+   "WtXB2Xc85p4",  # 2026-10-29 Witch or Brewster?
+  ],
+ ),
+ dict(name="Heat-Reactive Shield", kind="Prop",
+  desc="A heat-reactive shield.",
+  videos=[
+   "fHxTVZjOQDw",  # 2025-02-14 AD: Heat Reactive Shield
+  ],
+ ),
+ dict(name="DIY Kim K LED Bed", kind="Gadget",
+  desc="A cheap DIY version of Kim Kardashian's $78,000 red-light LED bed.",
   videos=[
    "4ZCb4rtJzpo",  # 2025-02-17 Can I DIY Kim K’s $78,000 LED Bed for CHEAP?!
+   "PgGLmIMGGWc",  # 2025-02-18 My red LED light obsession has got out of hand! #skincare #ledmask
   ],
  ),
- dict(name="Unknown", kind="Build",
-  desc="This week on Masters of Reinvention Carl and I built a burglar alarm.",
+ dict(name="DIY LED Face Mask", kind="Gadget",
+  desc="A homemade LED skincare mask, and answers to questions about it.",
   videos=[
-   "zRb9tcuY17w",  # 2025-04-15 unknown
-   "gmnCSownfns",  # 2025-05-22 unknown
-   "HdEW-xGWAyc",  # 2025-05-23 unknown
-   "zeT98-b5XE0",  # 2025-12-09 unknown
+   "dhUmwwNLkzA",  # 2025-06-12 DIY LED mask in the workshop!
+   "O-J3QOeUNbA",  # 2025-06-13 Part 1 of answering your LED face mask questions...
   ],
  ),
- dict(name="This giant 3D printed LEGO tree was supposed to be just for Christmas", kind="Build",
-  desc="This giant 3D printed LEGO tree was supposed to be just for Christmas....",
+ dict(name="Glitter Champagne", kind="Gadget",
+  desc="Glitter champagne DIY.",
   videos=[
-   "IoHo9cNrt-c",  # 2025-05-05 This giant 3D printed LEGO tree was supposed to be just for Christmas.
+   "qG5HTGpftME",  # 2025-04-16 Glitter Champagne DIY 🍾
   ],
  ),
- dict(name="What do the settings on your drill really mean", kind="Build",
-  desc="Hammer?",
+ dict(name="Chiming Electromagnetic Doorbell", kind="Gadget",
+  desc="A chiming electromagnetic doorbell built for Hannah Fry.",
   videos=[
-   "v3j0C4tJHEk",  # 2025-05-07 What do the settings on your drill really mean?
+   "NEIcbd0s-7k",  # 2025-05-01 Building Hannah Fry a chiming electromagnetic doorbell for Secret Geni
   ],
  ),
- dict(name="Of building a Captain America Shield...but with. TWIST", kind="Build",
-  desc="Do you think it will work?",
+ dict(name="Captain America Shield", kind="Prop",
+  desc="A fibreglass-and-resin Captain America shield, with a twist.",
   videos=[
+   "LPxpF1j3j4E",  # 2025-05-09 🛡️ Fibreglass + Resin Captain America Shield – Part 1!
    "cZiMmEewPdE",  # 2025-05-13 Part 2 of building a Captain America Shield...but with. TWIST
-  ],
- ),
- dict(name="Of my Captain America shield build is here", kind="Build",
-  desc="It’s part cosplay, part science experiment—and entirely fun.",
-  videos=[
    "ZhbA_H5QqaU",  # 2025-05-19 Part 3 of my Captain America shield build is here!
   ],
  ),
- dict(name="I am a 3D printing fairy godmother", kind="Build",
-  desc="I am a 3D printing fairy godmother..",
+ dict(name="Eternal Roses", kind="Gadget",
+  desc="Roses that never wilt.",
   videos=[
-   "yvZxDkZPR-0",  # 2025-07-11 I am a 3D printing fairy godmother.
+   "7Tmsa5Hoz2c",  # 2025-05-20 🌹 Eternal roses – because who says flowers have to wilt?
   ],
  ),
- dict(name="The end of a saga", kind="Build",
-  desc="The end of a saga.",
+ dict(name="Magical NFC Business Cards", kind="Gadget",
+  desc="Magical business cards and NFC badges.",
   videos=[
-   "0Ezg5hHRbEw",  # 2025-11-25 The end of a saga
+   "eO_spkBU1KA",  # 2025-05-27 Magical Business Cards ✨
+   "zqkGfmuYWaQ",  # 2025-05-30 Showing them their NFC badges
   ],
  ),
- dict(name="Visiting London as an Engineer", kind="Build",
-  desc="Visiting London as an Engineer.",
+ dict(name="Poke-A-Pumpkin", kind="Game",
+  desc="A pumpkin poking game.",
   videos=[
-   "eJbH4Z5J-00",  # 2026-02-12 Visiting London as an Engineer
+   "DOEJYhJv3b8",  # 2025-09-12 Poke-A-Pumkin
   ],
  ),
- dict(name="POV: you forgot your eclipse glasses but remembered the colander", kind="Build",
-  desc="Never look directly at the Sun.",
+ dict(name="Pepper's Ghost Witch", kind="Effect",
+  desc="A last-minute Halloween ghost witch using the Pepper's ghost illusion.",
   videos=[
-   "YlbaOZnVv3E",  # 2026-08-11 POV: you forgot your eclipse glasses but remembered the colander 🌒✨
+   "e61fO4Pfde4",  # 2025-10-30 Who doesn't love a last minute Halloween Project?
+   "-JJmwTBMhEc",  # 2025-10-31 Last Minute Halloween Peppers Ghost
+   "RP6h0QxR3MU",  # 2025-10-31 My last minute Halloween Ghost Witch is done!
+   "WwW-GbK-XNY",  # 2025-10-31 Pepper Ghost
   ],
  ),
- dict(name="Can you use a welding mask to look at the eclipse", kind="Build",
-  desc="Please check the spec of your mask",
+ dict(name="StairSteady", kind="Product",
+  desc="Her StairSteady stair-climbing aid, and the long road to selling it.",
   videos=[
-   "MrNXkSO_Bpg",  # 2026-08-11 Can you use a welding mask to look at the eclipse?
-  ],
- ),
- dict(name="I made a GIANT Lego Pumpkin", kind="Build",
-  desc="You can currently see this at Gullivers Valley, Rotherham, UK.",
-  videos=[
-   "lcx-WJ-sf4E",  # 2026-10-27 I made a GIANT Lego Pumpkin
+   "TZmvRBXzwZ8",  # 2026-08-01 Day 515 of trying to sell StairSteady…
   ],
  ),
 ]

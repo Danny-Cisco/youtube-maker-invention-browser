@@ -1,259 +1,175 @@
-"""Curated inventions for mewtru (@mewtru).
+"""Curated inventions for mewtru. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
+drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
-"""
-
-CREATOR = {'slug': 'mewtru', 'name': 'mewtru', 'person': 'mewtru', 'tagline': 'Wearable electronics and cute gadgets.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
+CREATOR = {'slug': 'mewtru', 'name': 'mewtru', 'tagline': 'A software engineer turned hardware maker: tiny e-readers, a digital camera, plant Tamagotchis and an mp3 hairclip.', 'other_label': 'Other uploads: coding skits and tips', 'person': 'mewtru'}
 
 INVENTIONS = [
- dict(name="When you use a 49” ultrawide monitor…", kind="Build",
-  desc="When you use a 49” ultrawide monitor….",
+ dict(name="Pochi Cam Digital Camera", kind="Gadget",
+  desc="Her own mini digital camera, built over many iterations, problems and fixes until Pochi Cam.",
   videos=[
-   "3tPauFgibQo",  # 2022-10-24 When you use a 49” ultrawide monitor…
+   "Cwuwlw0gSj4",  # 2025-09-24 I built my own mini digital camera!!
+   "a_qGv-R86Ag",  # 2025-10-06 I made my own digital camera (part 2)
+   "gKlRSarGygE",  # 2026-02-13 I’m making a digital camera part 1
+   "YOr-WQ5v-ss",  # 2026-02-14 I made a digital camera!! Part 3
+   "y-elnjy-w3o",  # 2026-02-14 I’m making a digital camera part two!
+   "tHSxVCHEeqA",  # 2026-03-23 I made a digital camera… but something’s wrong with it 😪
+   "6RUlP8JFl6g",  # 2026-04-08 I made a digital camera but there’s STILL something wrong with it …
+   "yT8ajgIuYok",  # 2026-09-08 I made a digital camera!!!
+   "kS83de4WpR8",  # 2026-09-09 I made a camera BUT I need your help 😩
+   "4dZ9EGxWYxI",  # 2026-10-09 I made a digital camera!!
+   "q8Pr1lw2oWU",  # 2026-10-13 This is pochi cam!!!
+   "4uES5ZcplGg",  # 2026-11-16 Unboxing the camera I made!!!
   ],
  ),
- dict(name="Make your browser speak to you with JavaScript", kind="Build",
-  desc="Make your browser speak to you with JavaScript!.",
-  videos=[
-   "585CTOcUiD8",  # 2022-11-28 Make your browser speak to you with JavaScript!
-  ],
- ),
- dict(name="Frontend dev vs. backend dev", kind="Build",
-  desc="Frontend dev vs. backend dev.",
-  videos=[
-   "9JVaqlzYL5A",  # 2023-02-16 Frontend dev vs. backend dev
-  ],
- ),
- dict(name="What I did today as a software engineer at Discord", kind="Build",
-  desc="What I did today as a software engineer at Discord! #shorts #javascript.",
-  videos=[
-   "mVNyjHYtNv8",  # 2023-03-20 What I did today as a software engineer at Discord! #shorts #javascrip
-  ],
- ),
- dict(name="What I coded today", kind="Build",
-  desc="What I coded today 🔥  #coding.",
-  videos=[
-   "pn-Hcv-FxC8",  # 2023-08-14 What I coded today 🔥  #coding
-   "soRDduWahBg",  # 2025-03-24 What I coded today (as a chaotic good programmer)
-   "eZC9muGvYPc",  # 2025-05-30 What I coded today (as a software engineer)
-   "ZHvT1J6By5A",  # 2025-06-17 What I coded today 🫣 #coding
-   "6vVOehIxq_4",  # 2025-07-14 What i coded today 🫡
-   "w-yXmw3iwng",  # 2025-07-17 What I coded today (instead of doing my job 😅)
-   "k1URS_429qo",  # 2026-01-08 What I coded today 👀
-   "Iqwd6M3mJwU",  # 2026-01-12 What I coded (and launched!!!) today
-  ],
- ),
- dict(name="Made a website to ask my crush to be my valentine ‍", kind="Build",
-  desc="Made a website to ask my crush to be my valentine 😮‍💨 #coding.",
-  videos=[
-   "MDYzgYfdYFU",  # 2024-02-02 Made a website to ask my crush to be my valentine 😮‍💨 #coding
-  ],
- ),
- dict(name="Is it a programming term or Pokémon", kind="Build",
-  desc="Is it a programming term or Pokémon???.",
-  videos=[
-   "b-CaKFaefAM",  # 2024-03-02 Is it a programming term or Pokémon???
-  ],
- ),
- dict(name="Gen z programmers are insane???? …", kind="Build",
-  desc="gen z programmers are insane???? 😅… #coding.",
-  videos=[
-   "oy0QD-40ppg",  # 2024-11-25 gen z programmers are insane???? 😅… #coding
-  ],
- ),
- dict(name="Gen Z programmers are TOO creative man", kind="Build",
-  desc="Gen Z programmers are TOO creative man 😅.",
-  videos=[
-   "HBCUYgAFxTQ",  # 2024-12-03 Gen Z programmers are TOO creative man 😅
-  ],
- ),
- dict(name="My boss said to be more creative…", kind="Build",
-  desc="My boss said to be more creative… #coding.",
-  videos=[
-   "jAeAu50xdA4",  # 2024-12-04 My boss said to be more creative… #coding
-  ],
- ),
- dict(name="JavaScript but it’s actually cool", kind="Build",
-  desc="JavaScript but it’s actually cool?!?! #coding.",
-  videos=[
-   "icvu9Zy3ROo",  # 2025-01-05 JavaScript but it’s actually cool?!?! #coding
-  ],
- ),
- dict(name="Day in the life of a software engineer at Lumon Industries", kind="Build",
-  desc="Day in the life of a software engineer at Lumon Industries 🤫.",
-  videos=[
-   "jYCIWsG-O1s",  # 2025-01-17 Day in the life of a software engineer at Lumon Industries 🤫
-  ],
- ),
- dict(name="The Gen z intern got me", kind="Build",
-  desc="The Gen z intern got me 😔 #coding.",
-  videos=[
-   "PkYZtzQAVY4",  # 2025-01-31 The Gen z intern got me 😔 #coding
-  ],
- ),
- dict(name="Can’t take software engineers anywhere ‍", kind="Build",
-  desc="Can’t take software engineers anywhere 🤦🏽‍♀️.",
-  videos=[
-   "uXTNouj4qX0",  # 2025-02-05 Can’t take software engineers anywhere 🤦🏽‍♀️
-  ],
- ),
- dict(name="Don’t let backend devs write frontend code", kind="Build",
-  desc="Don’t let backend devs write frontend code 😒.",
-  videos=[
-   "JlJA8sgLLag",  # 2025-02-28 Don’t let backend devs write frontend code 😒
-  ],
- ),
- dict(name="Junior vs. senior developer on linkedin", kind="Build",
-  desc="Junior vs. senior developer on linkedin 👀.",
-  videos=[
-   "yKcyq12qY74",  # 2025-03-01 Junior vs. senior developer on linkedin 👀
-  ],
- ),
- dict(name="Average day as a JavaScript developer", kind="Build",
-  desc="Average day as a JavaScript developer.",
-  videos=[
-   "e7b84V2Op1Q",  # 2025-03-05 Average day as a JavaScript developer
-  ],
- ),
- dict(name="Vibe coding is getting out of hand", kind="Build",
-  desc="Vibe coding is getting out of hand 😅.",
-  videos=[
-   "TZt6thN7AU8",  # 2025-03-18 Vibe coding is getting out of hand 😅
-  ],
- ),
- dict(name="Coding then vs. now", kind="Build",
-  desc="Coding then vs. now.",
-  videos=[
-   "SKs45GSHCwM",  # 2025-03-31 Coding then vs. now
-  ],
- ),
- dict(name="My company hired a “vibe coder”", kind="Build",
-  desc="My company hired a “vibe coder” 😭.",
-  videos=[
-   "l-jL_rnvWYM",  # 2025-04-02 My company hired a “vibe coder” 😭
-  ],
- ),
- dict(name="This software engineer is gaslighting me", kind="Build",
-  desc="This software engineer is gaslighting me 🥲.",
-  videos=[
-   "DFRRFzN-0T8",  # 2025-04-21 This software engineer is gaslighting me 🥲
-  ],
- ),
- dict(name="Fixing prod as a software engineer", kind="Build",
-  desc="Fixing prod as a software engineer 😌.",
-  videos=[
-   "Cd8wgMPdwAE",  # 2025-05-22 Fixing prod as a software engineer 😌
-  ],
- ),
- dict(name="THIS is a SENIOR software engineer", kind="Build",
-  desc="THIS is a SENIOR software engineer 😌.",
-  videos=[
-   "Cn8-nLKIeE0",  # 2025-05-22 THIS is a SENIOR software engineer 😌
-  ],
- ),
- dict(name="TWO gen z programmers", kind="Build",
-  desc="TWO gen z programmers??!.",
-  videos=[
-   "pqlA9eggWkw",  # 2025-06-16 TWO gen z programmers??!
-  ],
- ),
- dict(name="Vim doesn’t make any sense", kind="Build",
-  desc="Vim doesn’t make any sense 😩 #coding.",
-  videos=[
-   "sYSll6ZqF-k",  # 2025-08-24 Vim doesn’t make any sense 😩 #coding
-  ],
- ),
- dict(name="Programming websites is SO boring", kind="Build",
-  desc="Programming websites is SO boring.",
-  videos=[
-   "1uBmx4_EqTQ",  # 2025-10-24 Programming websites is SO boring
-  ],
- ),
- dict(name="We hired a game developer as a software engineer", kind="Build",
-  desc="We hired a game developer as a software engineer 🫣.",
-  videos=[
-   "_m-JTt5qPbs",  # 2025-10-29 We hired a game developer as a software engineer 🫣
-  ],
- ),
- dict(name="I’m making a tamagotchi for my plant", kind="Build",
-  desc="I’m making a tamagotchi for my plant!.",
+ dict(name="Plant Tamagotchi", kind="Gadget",
+  desc="A Tamagotchi that lives on your plant and reports how it's doing. Over 3 million views.",
   videos=[
    "2oZ54jr4moM",  # 2026-03-12 I’m making a tamagotchi for my plant!
    "f53gpwbqXVA",  # 2026-03-14 I’m making a tamagotchi for my plant! Part 2!
    "kusHKiR-NXQ",  # 2026-03-18 I’m making a tamagotchi for my plant! Part 3!
-  ],
- ),
- dict(name="How to make a tiny kindle", kind="Build",
-  desc="How to make a tiny kindle!!.",
-  videos=[
-   "O4odvhCgHxE",  # 2026-03-16 How to make a tiny kindle!!
-  ],
- ),
- dict(name="This full color epaper display is INSANE", kind="Build",
-  desc="This full color epaper display is INSANE.",
-  videos=[
-   "tgJq2mhtZaU",  # 2026-03-17 This full color epaper display is INSANE
-  ],
- ),
- dict(name="I made a digital camera… but something’s wrong with it", kind="Build",
-  desc="I made a digital camera… but something’s wrong with it 😪.",
-  videos=[
-   "tHSxVCHEeqA",  # 2026-03-23 I made a digital camera… but something’s wrong with it 😪
-  ],
- ),
- dict(name="I made a tamagotchi for my plant", kind="Build",
-  desc="I made a tamagotchi for my plant! (final part).",
-  videos=[
    "IVS2FFVhVU0",  # 2026-04-01 I made a tamagotchi for my plant! (final part)
+   "b_bSyVHxBDY",  # 2026-05-14 I made a tamagotchi for your plants, but there’s a problem 😅…
   ],
  ),
- dict(name="The COOLEST way to power your electronics project", kind="Build",
-  desc="The COOLEST way to power your electronics project 👀.",
+ dict(name="Tiny Kindle", kind="Gadget",
+  desc="A pocket-sized e-reader, later a charm for her journal.",
   videos=[
-   "iqAvnnkibfQ",  # 2026-04-07 The COOLEST way to power your electronics project 👀
+   "G0DJrlwTY7s",  # 2026-01-30 I’m making myself a tiny kindle
+   "yX6tyC9Pzik",  # 2026-02-02 I made myself a pocket kindle 💗
+   "O4odvhCgHxE",  # 2026-03-16 How to make a tiny kindle!!
+   "L_pxNyXWAvg",  # 2026-06-16 I built a mini e-reader #googlepartner
+   "roJlQMiN1_s",  # 2026-07-13 Let’s make a mini ereader charm for my journal!
   ],
  ),
- dict(name="I made a digital camera but there’s STILL something wrong with it …", kind="Build",
-  desc="I made a digital camera but there’s STILL something wrong with it ….",
+ dict(name="Seashell E-Reader", kind="Gadget",
+  desc="The seashell e-reader from the film It Follows, made real.",
   videos=[
-   "6RUlP8JFl6g",  # 2026-04-08 I made a digital camera but there’s STILL something wrong with it …
+   "ccEcxYso2mU",  # 2026-04-15 Making the seashell ereader from It Follows! Part 1
+   "P4J-VQV1pLA",  # 2026-04-18 Making the seashell ereader from it follows! Part 2
+   "6qcXQGqLqR8",  # 2026-04-20 I made a tiny seashell kindle!!
+   "HFBe2ljm-Ec",  # 2026-04-21 I made a mini seashell kindle!!
   ],
  ),
- dict(name="How to make an mp3 player", kind="Build",
-  desc="How to make an mp3 player!.",
+ dict(name="Hit Clips MP3 Player", kind="Gadget",
+  desc="A tiny Arduino mp3 player inspired by Hit Clips.",
   videos=[
+   "BMvmli2z1ek",  # 2026-02-17 I’m making an mp3 player (hit clips)!! Part 1
+   "MPK69k36u7Q",  # 2026-02-20 I’m making an mp3 player! Part 2
+   "6VGDNXXLp2Q",  # 2026-05-19 I made an mp3 player using Arduino!
    "6eObZsWDjgo",  # 2026-05-20 How to make an mp3 player!
   ],
  ),
- dict(name="How to make a Spotify music display using a raspberry pi", kind="Build",
-  desc="How to make a Spotify music display using a raspberry pi!.",
-  videos=[
-   "_FG3dVilc94",  # 2026-06-25 How to make a Spotify music display using a raspberry pi!
-  ],
- ),
- dict(name="This display is the PERFECT mix of epaper and lcd", kind="Build",
-  desc="This display is the PERFECT mix of epaper and lcd 🫡.",
-  videos=[
-   "9vZaG81Ob1Y",  # 2026-08-17 This display is the PERFECT mix of epaper and lcd 🫡
-  ],
- ),
- dict(name="I only have 48 hours to finish this", kind="Build",
-  desc="I only have 48 hours to finish this?! #ad.",
-  videos=[
-   "gOr0a3t4Pa8",  # 2026-09-18 I only have 48 hours to finish this?! #ad
-  ],
- ),
- dict(name="This Esp32 board has SO MUCH built in", kind="Build",
-  desc="This Esp32 board has SO MUCH built in 🤯.",
-  videos=[
-   "UmoahpcU_Rc",  # 2026-10-19 This Esp32 board has SO MUCH built in 🤯
-  ],
- ),
- dict(name="I made an mp3 hairclip", kind="Build",
-  desc="I made an mp3 hairclip!.",
+ dict(name="MP3 Hairclip", kind="Wearable",
+  desc="An mp3 player you wear as a hairclip.",
   videos=[
    "yhnDbmMaMPw",  # 2026-10-24 I made an mp3 hairclip!
+  ],
+ ),
+ dict(name="Spotify Music Display", kind="Gadget",
+  desc="A tiny Raspberry Pi screen showing what's playing on Spotify.",
+  videos=[
+   "_FG3dVilc94",  # 2026-06-25 How to make a Spotify music display using a raspberry pi!
+   "Q8yJJkra2gw",  # 2026-06-26 Making a Spotify music display part 2!
+   "Imc0zfjhUTw",  # 2026-07-02 How to build a tiny screen for Spotify
+  ],
+ ),
+ dict(name="Taco Bell Compass", kind="Gadget",
+  desc="A compass that only points to Taco Bell.",
+  videos=[
+   "q59pUPNFDSM",  # 2026-08-10 I’m making a Taco Bell compass!!!
+   "bVMnN5Zgsn8",  # 2026-09-24 A compass that only points to Taco Bell?!?
+   "y3XZwy5V-qM",  # 2026-09-25 I made a Taco Bell compass 😌
+   "5hIPtDvaz6U",  # 2026-09-26 I made my fiancé a Taco Bell compass
+  ],
+ ),
+ dict(name="Magic 8 Ball Hairpin", kind="Wearable",
+  desc="Shake your head to get your fortune.",
+  videos=[
+   "XP4N080JEsc",  # 2026-09-10 I made a magic 8 ball hair pin!!
+   "1VLPUVXjxAg",  # 2026-09-11 Shake my head and get your fortune 😏
+  ],
+ ),
+ dict(name="Step Counter Tamagotchi", kind="Gadget",
+  desc="A Tamagotchi powered by your steps.",
+  videos=[
+   "yei93zTBlTg",  # 2026-06-05 I’m making a step counter tamagotchi!!
+  ],
+ ),
+ dict(name="Pocket Pikmin", kind="Gadget",
+  desc="A pocket Pikmin.",
+  videos=[
+   "ejEFEyBHbZ8",  # 2026-06-15 I’m making a pocket pikmin!
+  ],
+ ),
+ dict(name="Talking Rubber Duck", kind="Gadget",
+  desc="A rubber debugging duck that talks back.",
+  videos=[
+   "aGh--mwXsBY",  # 2025-10-20 I made a rubber duck that talks back
+  ],
+ ),
+ dict(name="Arduino Fish Game", kind="Game",
+  desc="A fish game on an Arduino.",
+  videos=[
+   "aDmbn8gJEYo",  # 2025-03-04 I coded a fish game on an arduino!!!
+   "BDsjN9ALwhI",  # 2025-03-05 Somebody’s watching me… #arduino
+  ],
+ ),
+ dict(name="Charge-to-Shoot Game", kind="Game",
+  desc="A game where you charge your phone to shoot.",
+  videos=[
+   "6hCD8Iuv-hQ",  # 2026-01-23 A game where you charge your phone to shoot???!
+  ],
+ ),
+ dict(name="Light-Up Dress", kind="Wearable",
+  desc="How she made a light-up dress.",
+  videos=[
+   "WLMJT7fQcbk",  # 2026-08-28 How I made a LIGHT UP dress!!! ✨ ​⁠w/ @KalitaKu1
+  ],
+ ),
+ dict(name="Smart Mirror", kind="Gadget",
+  desc="A smart mirror built with Codex.",
+  videos=[
+   "4OEKfIibZW4",  # 2026-09-02 I made a smart mirror using Codex! @OpenAI
+  ],
+ ),
+ dict(name="Workout Flappy Bird", kind="Game",
+  desc="Flappy Bird, but it's a workout.",
+  videos=[
+   "pODxIBO5JUU",  # 2025-06-05 I coded a workout game...
+   "WQK9l-IDBRc",  # 2025-06-24 Flappy bird BUT it’s a workout??? #coding
+  ],
+ ),
+ dict(name="Blow-Out Birthday Candles", kind="Software",
+  desc="Coded birthday candles you can actually blow out, then custom interactive birthday cards.",
+  videos=[
+   "UO6Lp-3wx6o",  # 2023-12-13 Coding birthday candles that blow out😱 🎂 #coding #coderlife
+   "INQGyXKcBA4",  # 2024-01-02 Create your own custom interactive birthday cards! 🎉
+  ],
+ ),
+ dict(name="Valentine Websites", kind="Software",
+  desc="Websites and games coded to ask her crush to be her valentine.",
+  videos=[
+   "MDYzgYfdYFU",  # 2024-02-02 Made a website to ask my crush to be my valentine 😮‍💨 #coding
+   "S0OfgnQgzLo",  # 2025-01-31 Made a game to ask my crush to be my valentine🤞🏽
+   "NaHXKLTkbo4",  # 2025-02-27 I made a website for my crush 🥰📼
+   "7bt2-rBpNbs",  # 2026-01-23 I coded a website for my crush…
+   "y6vJyY2m7a0",  # 2026-01-26 Codng a Valentine’s Day website for my crush 😌
+   "r8TX5o0Ghxw",  # 2026-08-12 I made a website for my crush …
+  ],
+ ),
+ dict(name="Her iPhone App", kind="Software",
+  desc="Building and launching her own iPhone app from scratch.",
+  videos=[
+   "f5phjxlk1kA",  # 2026-01-06 I made an iPhone app!!!
+   "_nkakE7CNkI",  # 2026-01-09 My app gets better everyday 😌
+   "Iqwd6M3mJwU",  # 2026-01-12 What I coded (and launched!!!) today
+   "Nbr0FiwZ8Y8",  # 2026-01-29 Coding my app from scratch 😌
+  ],
+ ),
+ dict(name="Discord Wordle Bot", kind="Software",
+  desc="A Wordle bot for Discord.",
+  videos=[
+   "ztt3J_lsbBo",  # 2022-01-25 I made a Discord wordle bot!
   ],
  ),
 ]

@@ -1,251 +1,209 @@
-"""Curated inventions for She Builds Robots (@shebuildsrobots).
+"""Curated inventions for She Builds Robots. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
+drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
-"""
-
-CREATOR = {'slug': 'she-builds-robots', 'name': 'She Builds Robots', 'person': 'She Builds Robots', 'tagline': 'Fashioneering: engineering meets fashion, from moving jellyfish dresses to robot wearables.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
+CREATOR = {'slug': 'she-builds-robots', 'name': 'She Builds Robots', 'tagline': 'Fashioneering: engineering meets fashion, from moving jellyfish dresses to a robot Remy.', 'other_label': 'Other uploads: cosplays, tutorials and updates', 'person': 'She Builds Robots'}
 
 INVENTIONS = [
- dict(name="Medusa snake dress", kind="Build",
-  desc="Medusa snake dress part 3 #arduino #coding  #wearables #stem #fashion.",
+ dict(name="Coded Painting", kind="Art",
+  desc="A painting brought to life with code, with a full tutorial.",
   videos=[
+   "e4nnKYYfu00",  # 2022-09-22 Coding a painting! #womeninstem #girlswhocode
+   "M6-8LrNFjrg",  # 2022-09-28 Full tutorial and code available on my website! #girlswhocode #womenin
+  ],
+ ),
+ dict(name="Tea Robot", kind="Robot",
+  desc="A tea-serving robot.",
+  videos=[
+   "mUplb8v0pGk",  # 2022-09-28 Help build my tea robot army, girlies 🔥 #girlswhocode #womeninstem
+  ],
+ ),
+ dict(name="Halloween E-Textiles", kind="Wearable",
+  desc="Spooky e-textiles and a coded Halloween bat circuit.",
+  videos=[
+   "niy0ZgEQ5pw",  # 2022-10-03 Spooky e-textiles
+   "u--Gf1EfAoI",  # 2022-10-29 Code a Halloween bat circuit with me! #girlswhocode
+  ],
+ ),
+ dict(name="Robotic Medusa Snake Dress", kind="Wearable",
+  desc="A dress with moving robotic snakes, controlled by a Wii nunchuck, built over seven parts.",
+  videos=[
+   "RqyRl15K5hM",  # 2024-04-24 Make a robot dress controlled by a Wii nunchuck! #coding #arduino #pro
+   "-433IsHtJ9I",  # 2024-05-02 Making the Medusa dress part 2! #coding #arduino #programming #wearabl
    "tqDLoG9MgDw",  # 2024-05-05 Medusa snake dress part 3 #arduino #coding  #wearables #stem #fashion
    "W0ULh0rG2hE",  # 2024-05-15 Medusa snake dress part 4 #wearables #3dprinting #arduino #fashion #ro
+   "OdDsnWnOaBA",  # 2024-05-24 Medusa dress part 5! #3dprinting #wearables #coding #arduino #robotics
+   "6OdEqkN7oGA",  # 2024-06-06 Almost finished with the robotic Medusa snake dress!! #wearables #3dpr
+   "SE-GSyie7Jg",  # 2024-06-29 Medusa dress is done!! #wearables #3dprinting #coding #programming #ar
   ],
  ),
- dict(name="Rediscovered free will this Halloween", kind="Build",
-  desc="Rediscovered free will this Halloween #3dprinting #robotics #coding #arduino #halloween #cosplay.",
+ dict(name="Pink Pony Club Fringe Hat", kind="Wearable",
+  desc="An engineered fringe hat.",
+  videos=[
+   "p3lJvCpXOFU",  # 2024-07-03 Engineered my own pink pony club fringe hat! #3dprinting #coding #fash
+  ],
+ ),
+ dict(name="Venus Flytrap Hat", kind="Wearable",
+  desc="A working Venus flytrap hat that eats.",
+  videos=[
+   "1VPa5yzhtkM",  # 2024-07-26 Build a working Venus flytrap hat with me! #coding #arduino #fashion #
+   "uqV-v1aiRXI",  # 2024-08-06 She eats ✨ #arduino #coding #costumes #engineering #cosplay
+  ],
+ ),
+ dict(name="City Data Dress", kind="Wearable",
+  desc="A dress coded to react to Chicago's public city data.",
+  videos=[
+   "bkZGI0kXxTM",  # 2024-07-27 Public data shenanigans #coding #arduino #chicago #robotics #engineeri
+   "2ij0YNJmQvI",  # 2025-04-09 Using city data to code a dress! #coding #arduino #programming #chicag
+  ],
+ ),
+ dict(name="Stained Glass Dress", kind="Wearable",
+  desc="A coded, glowing stained-glass dress.",
+  videos=[
+   "6jnvzboAe5Y",  # 2024-09-04 I coded a stained glass dress ✨#arduino #sewing #coding #fashion #hall
+  ],
+ ),
+ dict(name="Lantern Earrings", kind="Wearable",
+  desc="Real lantern earrings.",
+  videos=[
+   "f9UBPTgemq4",  # 2024-09-09 I made real lantern earrings! #3dprinting #circuits #halloween #diy #e
+  ],
+ ),
+ dict(name="Remy Robot (Ratatouille)", kind="Robot",
+  desc="A real-life Remy from Ratatouille who steers you from under your hat.",
   videos=[
    "sfJhb5hC2xw",  # 2024-10-09 Rediscovered free will this Halloween #3dprinting #robotics #coding #a
-  ],
- ),
- dict(name="Remy’s back with tech", kind="Build",
-  desc="Remy’s back with tech #3dprinting #robotics #engineering #coding #arduino #halloween #ratatouille.",
-  videos=[
    "8Qi-176GX2w",  # 2024-10-12 Remy’s back with tech #3dprinting #robotics #engineering #coding #ardu
+   "SLZKEGMwa90",  # 2024-12-09 Building REAL LIFE Ratatouille | Coding a Remy Robot
+   "nMCLHiOiUlg",  # 2025-04-10 You all loved Remy and it changed my life, thank you so much 💕 #coding
+   "EknnhPTvHe8",  # 2025-09-14 Love being an engineer around Halloween 🎃 #arduino #disney #ratatouill
   ],
  ),
- dict(name="I need some feedback on how to finish", kind="Build",
-  desc="I need some feedback on how to finish! #robotics #costume #sewing #3dprinting #coding #arduino.",
+ dict(name="Phoenix Bird Dress", kind="Wearable",
+  desc="A robotic phoenix dress with moving wings, later improved.",
   videos=[
    "gFNhF0gDXYo",  # 2024-11-08 I need some feedback on how to finish! #robotics #costume #sewing #3dp
+   "m6bL74VRc_A",  # 2024-12-10 Phoenix dress progress #engineering #arduino #sewing #robotics
+   "sYXxRQVmEc0",  # 2025-06-11 I improved the bird dress! #sewing #costume #cosplay #3dprinting
   ],
  ),
- dict(name="Needlecraft meets programming", kind="Build",
-  desc="Needlecraft meets programming #knitting #crochet #arduino.",
+ dict(name="Needlecraft Robot", kind="Robot",
+  desc="Needlecraft meets programming.",
   videos=[
    "HMv-Gdt5UaM",  # 2024-12-17 Needlecraft meets programming #knitting #crochet #arduino
   ],
  ),
- dict(name="Sewing a display piece for the library", kind="Build",
-  desc="Sewing a display piece for the library 🧵.",
+ dict(name="LED Candlelight Corset", kind="Wearable",
+  desc="A sewn corset with flickering LED candles.",
   videos=[
-   "ZtnGa6rn2No",  # 2025-02-02 Sewing a display piece for the library 🧵
+   "PbLAP7Zn1M4",  # 2025-01-10 Black or white for this sewing project? #sewing #cosplay #circuits
+   "uPRZjQd_nUY",  # 2025-01-26 I sewed a candlelight corset 🕯️#sewing #corset #cosplay #circuits
+   "PlfE0ZUyHjM",  # 2025-01-27 Sewing an LED Candle Corset | Arduino Costume Magic
   ],
  ),
- dict(name="Happy hackathon season", kind="Build",
-  desc="Happy hackathon season! #sewing #fashion.",
-  videos=[
-   "x1pgn4pNqpg",  # 2025-02-21 Happy hackathon season! #sewing #fashion
-  ],
- ),
- dict(name="I’m sewing with motors today", kind="Build",
-  desc="I’m sewing with motors today! #sewing #coding #fashioneering.",
+ dict(name="Self-Twirling Dress", kind="Wearable",
+  desc="A dress that twirls itself, sewn with motors.",
   videos=[
    "iuRafuWdWYg",  # 2025-03-09 I’m sewing with motors today! #sewing #coding #fashioneering
-  ],
- ),
- dict(name="Snow White if she was an engineer", kind="Build",
-  desc="Snow White if she was an engineer #disney #cosplay.",
-  videos=[
-   "_W8mrl0IDAA",  # 2025-03-15 Snow White if she was an engineer #disney #cosplay
-  ],
- ),
- dict(name="Using city data to code a dress", kind="Build",
-  desc="Using city data to code a dress! #coding #arduino #programming #chicago.",
-  videos=[
-   "2ij0YNJmQvI",  # 2025-04-09 Using city data to code a dress! #coding #arduino #programming #chicag
-  ],
- ),
- dict(name="You all loved Remy and it changed my life, thank you so much", kind="Build",
-  desc="You all loved Remy and it changed my life, thank you so much 💕 #coding #arduino #disney.",
-  videos=[
-   "nMCLHiOiUlg",  # 2025-04-10 You all loved Remy and it changed my life, thank you so much 💕 #coding
-  ],
- ),
- dict(name="Never take an engineer to the Kentucky Derby", kind="Build",
-  desc="Never take an engineer to the Kentucky Derby #costumes.",
-  videos=[
-   "babd0-bAQQM",  # 2025-04-29 Never take an engineer to the Kentucky Derby #costumes
-  ],
- ),
- dict(name="My self-twirling dress", kind="Build",
-  desc="My self-twirling dress 💖 #sewing #costume #fashion #cosplay.",
-  videos=[
    "d-IXo9iwm1w",  # 2025-05-02 My self-twirling dress 💖 #sewing #costume #fashion #cosplay
   ],
  ),
- dict(name="It’s gear time", kind="Build",
-  desc="It’s gear time! ⚙️ #costume #cosplay #engineering.",
+ dict(name="Steampunk Gear Wings", kind="Wearable",
+  desc="Moving steampunk gear wings.",
   videos=[
    "hHf7qEdwRw0",  # 2025-05-08 It’s gear time! ⚙️ #costume #cosplay #engineering
-  ],
- ),
- dict(name="Gear wings in progress", kind="Build",
-  desc="Gear wings in progress ⚙️ #costume #steampunk #circuit.",
-  videos=[
    "S3Qd0pFp-QA",  # 2025-05-16 Gear wings in progress ⚙️ #costume #steampunk #circuit
-  ],
- ),
- dict(name="I gave up…but only on the motor", kind="Build",
-  desc="I gave up…but only on the motor! #steampunk #cosplay #costume.",
-  videos=[
    "p9zWq__Kusw",  # 2025-05-26 I gave up…but only on the motor! #steampunk #cosplay #costume
+   "WOVom4jOLEA",  # 2025-06-18 #steampunk #arduino #engineering #cosplay #costume
   ],
  ),
- dict(name="I improved the bird dress", kind="Build",
-  desc="I improved the bird dress! #sewing #costume #cosplay #3dprinting.",
-  videos=[
-   "sYXxRQVmEc0",  # 2025-06-11 I improved the bird dress! #sewing #costume #cosplay #3dprinting
-  ],
- ),
- dict(name="Engineering an Ironheart look! @marvel", kind="Build",
-  desc="Engineering an Ironheart look! @marvel #ad #ironheart #engineering #marvel.",
-  videos=[
-   "3ggmGb8ldB0",  # 2025-06-25 Engineering an Ironheart look! @marvel #ad #ironheart #engineering #ma
-  ],
- ),
- dict(name="Hire me please Bridgerton", kind="Build",
-  desc="Hire me please Bridgerton 🫖 #bridgerton #cosplay #renfaire #3dprinting.",
-  videos=[
-   "R1jwUXIRJas",  # 2025-07-03 Hire me please Bridgerton 🫖 #bridgerton #cosplay #renfaire #3dprinting
-  ],
- ),
- dict(name="My wearable radio will play music", kind="Build",
-  desc="My wearable radio will play music! #sewing #electronics #costume #arduino.",
+ dict(name="Wearable Gramophone", kind="Wearable",
+  desc="A working, wearable radio-gramophone controlled over Bluetooth.",
   videos=[
    "lsBOTCm2rFQ",  # 2025-07-13 My wearable radio will play music! #sewing #electronics #costume #ardu
-  ],
- ),
- dict(name="My wearable radio/gramophone progress", kind="Build",
-  desc="My wearable radio/gramophone progress! #arduino #vintage #costume.",
-  videos=[
    "z51ip5FMjTY",  # 2025-08-04 My wearable radio/gramophone progress! #arduino #vintage #costume
-  ],
- ),
- dict(name="My Bluetooth-connected wearable gramophone", kind="Build",
-  desc="My Bluetooth-connected wearable gramophone! #vintage #cosplay #arduino.",
-  videos=[
    "oLVtDQZHszw",  # 2025-08-11 My Bluetooth-connected wearable gramophone! #vintage #cosplay #arduino
+   "zrEHKUBQEsc",  # 2025-08-15 I Made a Working, Wearable Gramophone | Control Bluetooth at the Party
   ],
  ),
- dict(name="The answer is always “more feathers”", kind="Build",
-  desc="The answer is always “more feathers” #burlesque #showgirl #taylorswift #3dprinting.",
+ dict(name="Showgirl Feather Costume", kind="Wearable",
+  desc="A motorised burlesque feather costume and its ugly prototypes.",
   videos=[
    "xBTCH9MwEb0",  # 2025-09-04 The answer is always “more feathers” #burlesque #showgirl #taylorswift
-  ],
- ),
- dict(name="Love being an engineer around Halloween", kind="Build",
-  desc="Love being an engineer around Halloween 🎃 #arduino #disney #ratatouille #3dprinting.",
-  videos=[
-   "EknnhPTvHe8",  # 2025-09-14 Love being an engineer around Halloween 🎃 #arduino #disney #ratatouill
-  ],
- ),
- dict(name="I want to see some UGLY prototypes", kind="Build",
-  desc="I want to see some UGLY prototypes #engineering #arduino #fashion #burlesque.",
-  videos=[
    "1-lnHl352qI",  # 2025-09-24 I want to see some UGLY prototypes #engineering #arduino #fashion #bur
-  ],
- ),
- dict(name="No one needs to see the back", kind="Build",
-  desc="No one needs to see the back! #arduino #fashion #burlesque.",
-  videos=[
    "25HckUupOVk",  # 2025-09-30 No one needs to see the back! #arduino #fashion #burlesque
   ],
  ),
- dict(name="I made booook! ‍", kind="Build",
-  desc="I made booook! 🧙‍♀️🎃🕯️#hocuspocus #halloween #arduino.",
+ dict(name="Hocus Pocus Spellbook", kind="Prop",
+  desc="Booook! A Hocus Pocus spellbook.",
   videos=[
    "toDzDlIUF9g",  # 2025-10-12 I made booook! 🧙‍♀️🎃🕯️#hocuspocus #halloween #arduino
   ],
  ),
- dict(name="Can you wear a moving sewing machine? Let’s find out", kind="Build",
-  desc="Can you wear a moving sewing machine? Let’s find out! #3dprinting #sewing #costume.",
+ dict(name="Wearable Sewing Machine", kind="Wearable",
+  desc="Can you wear a moving sewing machine?",
   videos=[
    "T0ER5DjxMPM",  # 2025-10-27 Can you wear a moving sewing machine? Let’s find out! #3dprinting #sew
   ],
  ),
- dict(name="Of my tech/costume learning series", kind="Build",
-  desc="Part 2 of my tech/costume learning series #arduino #costume #sewing.",
-  videos=[
-   "VfhHhkfFol0",  # 2025-11-10 Part 2 of my tech/costume learning series #arduino #costume #sewing
-  ],
- ),
- dict(name="What are some gear alternatives for moving fabric", kind="Build",
-  desc="What are some gear alternatives for moving fabric? #costume #3dprinting.",
-  videos=[
-   "E1Qmy1dYdBg",  # 2025-11-23 What are some gear alternatives for moving fabric? #costume #3dprintin
-  ],
- ),
- dict(name="Give up or pivot", kind="Build",
-  desc="Give up or pivot? #sewing #3dprinting #engineering.",
-  videos=[
-   "cINcRhuELbA",  # 2025-12-12 Give up or pivot? #sewing #3dprinting #engineering
-  ],
- ),
- dict(name="My pirate hat with a moving ship topper", kind="Build",
-  desc="My pirate hat with a moving ship topper!.",
+ dict(name="Moving Ship Hat", kind="Wearable",
+  desc="A pirate hat with a moving ship on top.",
   videos=[
    "-kwUuOIwsvo",  # 2026-01-12 My pirate hat with a moving ship topper!
+   "7cka_3dJ2Yk",  # 2026-01-18 DIY Moving Ship Hat
   ],
  ),
- dict(name="Making a moving fish dress", kind="Build",
-  desc="Making a moving fish dress 🐠.",
+ dict(name="Moving Fish Dress", kind="Wearable",
+  desc="A dress with swimming fish.",
   videos=[
    "8yi5ykA_2PQ",  # 2026-01-23 Making a moving fish dress 🐠
-  ],
- ),
- dict(name="Can Fosshape save the day for my fish dress", kind="Build",
-  desc="Can Fosshape save the day for my fish dress? #sewing.",
-  videos=[
    "6C402-2EeOI",  # 2026-02-13 Can Fosshape save the day for my fish dress? #sewing
+   "0w_eMagjFFU",  # 2026-03-07 Sewing progress on my fish dress 🐠
   ],
  ),
- dict(name="3D printing elastic scissors with @Formlabs", kind="Build",
-  desc="3D printing elastic scissors with @Formlabs #formlabs #form4.",
-  videos=[
-   "OGRd3mzxC8s",  # 2026-03-23 3D printing elastic scissors with @Formlabs #formlabs #form4
-  ],
- ),
- dict(name="Prototyping a Met Gala look with 3D prints and motors", kind="Build",
-  desc="Prototyping a Met Gala look with 3D prints and motors! #sewing #engineering.",
+ dict(name="Met Gala Look", kind="Wearable",
+  desc="Prototyping a Met Gala look with 3D prints and motors.",
   videos=[
    "r5derdvUi9s",  # 2026-04-01 Prototyping a Met Gala look with 3D prints and motors! #sewing #engine
-  ],
- ),
- dict(name="What I’d make for the Met Gala", kind="Build",
-  desc="What I’d make for the Met Gala #3dprinting #fashion #metgala.",
-  videos=[
    "E7DdIYQhq2Q",  # 2026-05-03 What I’d make for the Met Gala #3dprinting #fashion #metgala
   ],
  ),
- dict(name="Progress on my dress that sews itself", kind="Build",
-  desc="Progress on my dress that sews itself! #xtoolapparelprinter #formlabs #form4 #3dprinting.",
+ dict(name="Moving Gear Graduation Hat", kind="Wearable",
+  desc="A graduation cap with moving gears.",
+  videos=[
+   "SgNcz4Yz9Ko",  # 2026-04-16 DIY moving gear graduation hat! @dassaultsystemes
+  ],
+ ),
+ dict(name="3D-Printed Propeller Hat", kind="Wearable",
+  desc="A propeller hat you can print yourself.",
+  videos=[
+   "sD6R17PELOM",  # 2026-06-01 3D print your own propeller hat! #3dprinting #diy
+  ],
+ ),
+ dict(name="Dress That Sews Itself", kind="Wearable",
+  desc="A dress with a sewing mechanism built in.",
   videos=[
    "5RMrS09QHdc",  # 2026-06-17 Progress on my dress that sews itself! #xtoolapparelprinter #formlabs 
   ],
  ),
- dict(name="I Cheated Mark Rober at Blackjack", kind="Build",
-  desc="I Cheated Mark Rober at Blackjack.",
+ dict(name="Moving Jellyfish Dress", kind="Wearable",
+  desc="A jellyfish dress with motorised, flowing tentacles.",
   videos=[
-   "hHeorEd8zwE",  # 2026-09-19 I Cheated Mark Rober at Blackjack
+   "5YyMrAkbE44",  # 2026-07-01 Jellyfish dress with @BambuLab#BambuLetsMakeIt #bambulabh2d #3dprintin
+   "h6miA2_AHRI",  # 2026-08-25 Jellyfish dress progress 🪼#3dprinting #sewing
+   "cX4DV3iv5QA",  # 2026-11-11 Progress on my moving jellyfish dress! Last step is to motorize the ge
   ],
  ),
- dict(name="Secret Blackjack garter 3D printed with @Formlabs", kind="Build",
-  desc="Secret Blackjack garter 3D printed with @Formlabs #form4.",
+ dict(name="Bunny Rotary Restaurant", kind="Gadget",
+  desc="A conveyor-belt restaurant for a bunny.",
+  videos=[
+   "dsY_6DZ8qtk",  # 2026-09-09 DIY bunny rotary restaurant #3dprinting #bunny #rabbit
+  ],
+ ),
+ dict(name="Secret Blackjack Garter", kind="Gadget",
+  desc="A 3D-printed garter for cheating Mark Rober at blackjack.",
   videos=[
    "fAXam15U5jM",  # 2026-09-19 Secret Blackjack garter 3D printed with @Formlabs #form4
+   "hHeorEd8zwE",  # 2026-09-19 I Cheated Mark Rober at Blackjack
   ],
  ),
 ]
