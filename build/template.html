@@ -89,18 +89,17 @@ body{overflow-x:clip}
 .junk.opened .jrow:nth-of-type(3){animation-delay:.06s}.junk.opened .jrow:nth-of-type(4){animation-delay:.12s}.junk.opened .jrow:nth-of-type(5){animation-delay:.18s}
 @keyframes jopen{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 .jrow{margin:12px calc(50% - 50vw) 0;width:100vw;overflow:hidden}
-.jtrack{display:flex;width:max-content;animation:jscroll var(--dur) linear infinite}
-.jrow.rev .jtrack{animation-direction:reverse}
-.jrow:hover .jtrack,.jrow:focus-within .jtrack{animation-play-state:paused}
+.jtrack{display:flex;width:max-content;will-change:transform}
+.jrow{touch-action:pan-y;cursor:grab;user-select:none;-webkit-user-select:none}
+.jrow.dragging{cursor:grabbing}
 .jset{display:flex;gap:12px;padding-right:12px}
-@keyframes jscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 .slide.jt{border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,.12)}
 .slide.jt img.th{transform:none;transition:transform .4s ease}
 .slide.jt:hover img.th{transform:scale(1.06)}
 .slide.jt .cap{padding:26px 10px 8px}
 .slide.jt .cap b{font-size:14px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .slide.jt .cap span{font-size:11.5px;margin-top:2px}
-@media (prefers-reduced-motion:reduce){.jtrack{animation:none}.jrow{overflow-x:auto}.jset+.jset{display:none}}
+
 .browse{margin-top:72px;padding-top:28px;border-top:1px solid var(--line);display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
 .browse h2{margin:0;font-size:22px;letter-spacing:-.015em}
 .browse span{font-size:13px;color:var(--muted)}
@@ -607,8 +606,36 @@ function drawJunk(fresh){
   const rows = [0, 1, 2].map(r => junk.slice(r * per, r * per + per)).filter(r => r.length);
   el.innerHTML = `<div class="rhead wrap"><h2>Junk Drawer</h2><span>Rummage through each maker's least-watched builds</span><button class="rshuf" id="junkShuf">Shuffle ↻</button></div>
     ${rows.map((r, i) => { const len = r.length * (tw + gap);   // one copy of the row, in px; ~38 px a second
-      return `<div class="jrow${i % 2 ? " rev" : ""}"><div class="jtrack" style="--dur:${Math.round(len / 38)}s">${[0, 1].map(k => `<div class="jset"${k ? ' aria-hidden="true"' : ""}>${r.map(tile).join("")}</div>`).join("")}</div></div>`; }).join("")}`;
+      return `<div class="jrow${i % 2 ? " rev" : ""}"><div class="jtrack" >${[0, 1].map(k => `<div class="jset"${k ? ' aria-hidden="true"' : ""}>${r.map(tile).join("")}</div>`).join("")}</div></div>`; }).join("")}`;
   $("junkShuf").onclick = () => { el.classList.add("fade"); setTimeout(() => { drawJunk(true); el.classList.remove("fade"); }, 300); };
+  // Each row drifts (alternate rows in opposite directions) and can be dragged with a finger or mouse.
+  // Vertical swipes still scroll the page (touch-action: pan-y); a drag doesn't count as a click on a tile.
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches, SPEED = 38;   // px per second
+  const R = [...el.querySelectorAll(".jrow")].map((row, i) => ({ row, track: row.querySelector(".jtrack"), set: row.querySelector(".jset"),
+    dir: i % 2 ? 1 : -1, x: i % 2 ? -row.querySelector(".jset").offsetWidth : 0, hover: false, drag: null, moved: 0, rest: 0 }));
+  const wrapX = r => { const w = r.set.offsetWidth || 1; while (r.x > 0) r.x -= w; while (r.x <= -w) r.x += w; };
+  R.forEach(r => {
+    const { row } = r;
+    row.addEventListener("dragstart", ev => ev.preventDefault());   // stop the browser's own link/image drag
+    row.addEventListener("pointerdown", ev => { if (ev.button) return; r.drag = { id: ev.pointerId, sx: ev.clientX, sy: ev.clientY, x0: r.x, on: false }; r.moved = 0; });
+    row.addEventListener("pointermove", ev => { const d = r.drag; if (!d || d.id !== ev.pointerId) return;
+      const dx = ev.clientX - d.sx, dy = ev.clientY - d.sy;
+      if (!d.on) { if (Math.abs(dx) < 6 || Math.abs(dx) < Math.abs(dy)) return; d.on = true; row.classList.add("dragging"); try { row.setPointerCapture(ev.pointerId); } catch (e) {} }
+      r.moved = Math.abs(dx); r.x = d.x0 + dx; wrapX(r); r.track.style.transform = `translateX(${r.x}px)`; });
+    const end = ev => { if (!r.drag || (ev && r.drag.id !== ev.pointerId)) return; r.drag = null; row.classList.remove("dragging"); r.rest = performance.now() + 1500; };
+    row.addEventListener("pointerup", end); row.addEventListener("pointercancel", end);
+    row.addEventListener("click", ev => { if (r.moved > 6) { ev.preventDefault(); ev.stopPropagation(); } r.moved = 0; }, true);
+    row.addEventListener("mouseenter", () => r.hover = true); row.addEventListener("mouseleave", () => { r.hover = false; end(); });
+    wrapX(r); r.track.style.transform = `translateX(${r.x}px)`;
+  });
+  cancelAnimationFrame(drawJunk.raf); let last = performance.now();
+  const tick = now => {
+    if (!document.body.contains(el)) return;
+    const dt = Math.min(.1, (now - last) / 1000); last = now;
+    if (!still) for (const r of R) if (!r.drag && !r.hover && now > r.rest) { r.x += r.dir * SPEED * dt; wrapX(r); r.track.style.transform = `translateX(${r.x}px)`; }
+    drawJunk.raf = requestAnimationFrame(tick);
+  };
+  drawJunk.raf = requestAnimationFrame(tick);
 }
 function drawHero(fresh){
   const el = $("hero"); if (!el) return;
@@ -949,7 +976,7 @@ function renderMakers(){
   </div></section>
   <div id="makerGrid"></div>
   <section class="junk" id="junk" aria-label="Junk Drawer"></section>
-  <p class="wrap sub small" style="margin:18px auto 50px">Inventions are grouped from each maker's full upload history: hand-curated (with press coverage) for the first makers, auto-drafted from video titles and descriptions for later additions. Size bands follow YouTube's Play Button awards: Silver at 100K subscribers, Gold at 1M, Diamond at 10M.</p>`;
+  <div style="height:60px"></div>`;
   wireSize();
   updateSizeUI();
   renderMakerGrid();
