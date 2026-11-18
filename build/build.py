@@ -24,6 +24,10 @@ def is_short(v):
 # Other platforms each maker links from their YouTube descriptions: {slug: [[platform, url], ...]} (see MAKER_PLATFORMS.md).
 _soc = os.path.join(here, "..", "data", "socials.json")
 SOCIALS = json.load(open(_soc)) if os.path.exists(_soc) else {}
+# Each maker's country: {slug: [ISO alpha-2, "channel" (from their YouTube settings) or "manual"]}, and the world map outline.
+_cty = os.path.join(here, "..", "data", "countries.json")
+COUNTRIES = json.load(open(_cty)) if os.path.exists(_cty) else {}
+WORLD = json.load(open(os.path.join(here, "world.json"))) if os.path.exists(os.path.join(here, "world.json")) else None
 
 def load(prefix):
     spec = importlib.util.spec_from_file_location("inv", prefix + "_inventions.py")
@@ -53,12 +57,12 @@ def load(prefix):
     creator = dict(slug=C["slug"], name=C["name"], person=C.get("person", ""), tagline=C["tagline"],
         otherLabel=C.get("other_label", "Other uploads"), handle=ch["handle"], url="https://www.youtube.com/" + ch["handle"],
         avatar=ch["avatar"], subs=int(data["stats"]["subscriberCount"]), uploadCount=len(V), since=min(v["d"] for v in V.values()),
-        inventions=invs, links=SOCIALS.get(C["slug"], []),
+        inventions=invs, links=SOCIALS.get(C["slug"], []), country=(COUNTRIES.get(C["slug"]) or [""])[0],
         other=sorted(other, key=lambda i: V[i]["d"]),
         uploads=[dict(id=v["id"], t=v["t"], d=v["d"], v=v["v"], s=v["s"], short=is_short(v)) for v in sorted(V.values(), key=lambda v: v["d"])])
     print(f"{C['name']}: {len(invs)} inventions, {len(assigned)} videos in inventions, {len(other)} other uploads")
     return creator
 
-payload = dict(creators=[load(p) for p in prefixes])
+payload = dict(creators=[load(p) for p in prefixes], world=WORLD)
 tpl = open(os.path.join(here, "template.html")).read()
 open(out, "w").write(tpl.replace("/*DATA*/null", json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")))

@@ -74,6 +74,25 @@ body{overflow-x:clip}
 .crow{margin-top:40px}
 .junk{margin-top:64px;padding-top:28px;border-top:1px solid var(--line);transition:opacity .3s}
 .junk.fade{opacity:0}
+:root{--m0:#e9e7e1;--m1:#cfe0f6;--m2:#93bcec;--m3:#4c8edf;--m4:#1d5fb8}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--m0:#2a2a28;--m1:#1f3654;--m2:#2a5a95;--m3:#3d84dc;--m4:#9cc3f5}}
+:root[data-theme="dark"]{--m0:#2a2a28;--m1:#1f3654;--m2:#2a5a95;--m3:#3d84dc;--m4:#9cc3f5}
+.cmap{margin:-24px 0 48px;padding:22px 26px!important}
+.mapwrap{position:relative;margin-top:12px}
+.mapwrap svg{display:block;width:100%;height:auto}
+.mapwrap path,.mapwrap circle{stroke:var(--card);stroke-width:.6;transition:fill .2s}
+.mapwrap .l0{fill:var(--m0)}.mapwrap .l1{fill:var(--m1)}.mapwrap .l2{fill:var(--m2)}.mapwrap .l3{fill:var(--m3)}.mapwrap .l4{fill:var(--m4)}
+.mapwrap .l1:hover,.mapwrap .l2:hover,.mapwrap .l3:hover,.mapwrap .l4:hover{filter:brightness(1.12)}
+.mapwrap .sel{stroke:var(--accent);stroke-width:2.2;paint-order:stroke}
+.mapwrap circle{stroke-width:1.5}
+.ficon.globe{fill:none;stroke:var(--accent);stroke-width:1.8}
+.cchips{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 4px}
+.cchip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px;font-size:13px;cursor:pointer;color:var(--text)}
+.cchip span{color:var(--muted);margin-left:3px}
+.cchip[aria-pressed="true"]{background:var(--text);border-color:var(--text);color:var(--bg)}
+.cchip[aria-pressed="true"] span{color:inherit;opacity:.7}
+.cchip.none{border-style:dashed}
+.cchip.clear{border-color:var(--accent);color:var(--accent)}
 .totop{position:fixed;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));z-index:40;display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:10px 16px 10px 13px;font-size:14px;font-weight:600;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,.18);animation:tin .25s ease}
 .totop[hidden]{display:none}
 .totop:hover{border-color:var(--accent)}
@@ -438,7 +457,7 @@ const SORTS = [
   { k:"runShort",label:"Runtime: shortest first", cmp:(a,b) => a.runtime - b.runtime }
 ];
 const SORT = Object.fromEntries(SORTS.filter(o => !o.sep).map(o => [o.k, o]));
-const st = { sort:"views", kind:"All", q:"", creator:"", mSort:"subs", mq:"" };
+const st = { sort:"views", kind:"All", q:"", creator:"", mSort:"subs", mq:"", cc:[] };
 // Front-page sorts, same "Field: direction" style as the project sorts.
 const progressOf = c => { const seen = getSeen(); return c.inventions.filter(x => isSeen(seen, c, x)).length / c.inventions.length; };
 const MAKER_SORTS = [
@@ -459,6 +478,7 @@ const MSORT = Object.fromEntries(MAKER_SORTS.filter(o => !o.sep).map(o => [o.k, 
 const onMakers = () => !C;
 try { Object.assign(st, JSON.parse(sessionStorage.getItem("ma.list") || "{}")); } catch {}
 st.kind = "All";  // the type-filter pills were removed; never leave an old type filter switched on
+if (!Array.isArray(st.cc)) st.cc = [];
 if (!SORT[st.sort]) st.sort = "views";
 const saveSt = () => { try { sessionStorage.setItem("ma.list", JSON.stringify(st)); } catch {} };
 function getSeen(){ try { return new Set(JSON.parse(localStorage.getItem("ma.seen") || "[]")); } catch { return new Set(); } }
@@ -713,7 +733,7 @@ function renderHeader(){
     <div class="who"><img class="avatar" src="${esc(C.avatar)}" alt="" referrerpolicy="no-referrer"><div>
       <h1><a href="${home()}">${esc(C.name)}</a></h1>
       <p class="lead">${esc(C.tagline)}</p></div></div>
-    <div class="facts"><span><b>${I.length}</b> inventions</span><span><b>${C.uploadCount}</b> uploads since ${new Date(C.since).getFullYear()}</span><span><b>${fmt(C.subs)}</b> subscribers</span><a href="${C.url}" target="_blank" rel="noopener">${esc(C.handle)} ↗</a></div>
+    <div class="facts"><span><b>${I.length}</b> inventions</span><span><b>${C.uploadCount}</b> uploads since ${new Date(C.since).getFullYear()}</span><span><b>${fmt(C.subs)}</b> subscribers</span>${C.country ? `<span>${esc(ccName(C.country))}</span>` : ""}<a href="${C.url}" target="_blank" rel="noopener">${esc(C.handle)} ↗</a></div>
     ${C.links.length ? `<div class="socials" aria-label="Also on">${C.links.map(([p, u]) => `<a class="soc${p === "Patreon" ? " pat" : ""}" href="${esc(u)}" target="_blank" rel="noopener">${esc(p)} ↗</a>`).join("")}</div>` : ""}`;
 }
 function renderControls(){
@@ -968,6 +988,13 @@ function renderMakers(){
       ${ticks.map(e => `<span class="tick" style="left:${sizePct(e)}%;top:${trackTop + 14}px">${fmt(10 ** e)}</span>`).join("")}
     </div>
   </section></div>
+  <div class="wrap"><section class="panel cmap" aria-label="Filter by country">
+    <div class="ph"><div><h3 class="fh"><svg class="ficon globe" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>Filter by country</h3>
+      <p class="fhint">Tap a country to show only its makers, and more to add them. Darker means more makers.</p></div><span class="sub" id="ccLabel"></span></div>
+    <div class="mapwrap" id="worldMap"></div>
+    <div class="cchips" id="ccChips"></div>
+    <p class="fhint">Countries come from the location makers set on their YouTube channels; a few were filled in by hand from public information, and the rest are under "Not set".</p>
+  </section></div>
   <section class="wrap"><div class="panel lenall">
     <div class="ph"><h3>Video length over time, every maker</h3><span class="legend"><span><i style="background:var(--s1)"></i>Long-form</span><span><i class="lg-sq" style="background:var(--s2)"></i>Shorts</span><span><i class="lg-line"></i>Long-form trend</span><span><i class="lg-line sh"></i>Shorts trend</span></span></div>
     <p class="sub small" id="allLenNote"></p>
@@ -1016,6 +1043,39 @@ function wireSize(){
   scale.onpointerdown = e => { if (e.target.closest(".hdl,.sdot")) return; const v = snap(valAt(e.clientX));
     Math.abs(v - st.sMin) < Math.abs(v - st.sMax) ? setSize(v, st.sMax) : setSize(st.sMin, v); };
 }
+// ---------- country map (doubles as a filter) ----------
+const WORLD = DATA.world, CNAME = Object.fromEntries((WORLD ? [...WORLD.countries, ...WORLD.dots] : []).map(c => [c[0], c[1]]));
+const ccOf = c => c.country || "none", ccName = k => k === "none" ? "Not set" : (CNAME[k] || k).replace(/^United States of America$/, "United States");
+const inCountry = c => !st.cc || !st.cc.length || st.cc.includes(ccOf(c));
+function toggleCountry(k){ st.cc = st.cc || []; st.cc = st.cc.includes(k) ? st.cc.filter(x => x !== k) : [...st.cc, k]; saveSt(); renderMakerGrid(); }
+function drawCountryMap(base){
+  const el = $("worldMap"); if (!el || !WORLD) return;
+  const n = {}; base.forEach(c => n[ccOf(c)] = (n[ccOf(c)] || 0) + 1);
+  const max = Math.max(1, ...Object.entries(n).filter(([k]) => k !== "none").map(([, v]) => v));
+  // 4 sequential steps of one hue on a log-ish scale, so the US (≈100) doesn't wash every other country out
+  const lvl = k => !n[k] ? 0 : Math.min(4, 1 + Math.floor(Math.log(n[k]) / Math.log(max + 1) * 4));
+  const sel = new Set(st.cc || []), tipOf = k => `<b>${esc(ccName(k))}</b>${n[k] ? plural(n[k], "maker") : "No makers yet"}${sel.has(k) ? " · selected" : ""}`;
+  el.innerHTML = `<svg viewBox="0 0 ${WORLD.w} ${WORLD.h}" role="img" aria-label="World map of makers by country">${WORLD.countries.map(([k, , d]) =>
+      `<path d="${d}" data-cc="${k}" class="l${lvl(k)}${sel.has(k) ? " sel" : ""}"/>`).join("")}${WORLD.dots.filter(([k]) => n[k]).map(([k, , , x, y]) =>
+      `<circle cx="${x}" cy="${y}" r="6" data-cc="${k}" class="l${lvl(k)}${sel.has(k) ? " sel" : ""}"/>`).join("")}</svg><div class="ptip"></div>`;
+  const tip = el.querySelector(".ptip"), svg = el.querySelector("svg");
+  const at = ev => ev.target.closest("[data-cc]")?.dataset.cc;
+  svg.onmousemove = ev => { const k = at(ev); svg.style.cursor = k && n[k] ? "pointer" : "";
+    if (!k) { tip.style.display = "none"; return; }
+    tip.innerHTML = tipOf(k); tip.style.display = "block"; const r = el.getBoundingClientRect();
+    tip.style.left = Math.max(0, Math.min(ev.clientX - r.left - tip.offsetWidth / 2, r.width - tip.offsetWidth)) + "px";
+    tip.style.top = Math.max(0, ev.clientY - r.top - tip.offsetHeight - 14) + "px"; };
+  svg.onmouseleave = () => tip.style.display = "none";
+  svg.onclick = ev => { const k = at(ev); if (k && (n[k] || sel.has(k))) toggleCountry(k); };
+  const keys = Object.keys(n).filter(k => k !== "none").sort((a, b) => n[b] - n[a] || ccName(a).localeCompare(ccName(b)));
+  [...sel].filter(k => !n[k] && k !== "none").forEach(k => keys.push(k));
+  $("ccChips").innerHTML = (sel.size ? `<button class="cchip clear" data-clear="1">Clear ✕</button>` : "") +
+    [...keys, ...(n.none || sel.has("none") ? ["none"] : [])].map(k => `<button class="cchip${k === "none" ? " none" : ""}" data-cc="${k}" aria-pressed="${sel.has(k)}">${esc(ccName(k))} <span>${n[k] || 0}</span></button>`).join("");
+  $("ccChips").onclick = ev => { const b = ev.target.closest("button"); if (!b) return;
+    if (b.dataset.clear) { st.cc = []; saveSt(); renderMakerGrid(); } else toggleCountry(b.dataset.cc); };
+  const shownN = base.filter(inCountry).length;
+  $("ccLabel").textContent = sel.size ? `${[...sel].map(ccName).join(", ")} · ${plural(shownN, "maker")}` : `All countries · ${Object.keys(n).filter(k => k !== "none").length} with makers`;
+}
 const ALL_UP = (() => { const a = []; CREATORS.forEach(c => c.uploads.forEach(u => { if (u.s > 0) { u.c = c; a.push(u); } })); return a.sort((x, y) => x.d < y.d ? -1 : x.d > y.d ? 1 : 0); })();
 let allLenT, allLenKey = "";
 function drawAllLengths(shown, force){
@@ -1033,7 +1093,9 @@ function renderMakerGrid(){
   const seen = getSeen();
   const t = st.mq.trim().toLowerCase();
   const matchInv = c => t ? c.inventions.filter(x => (x.name + " " + x.desc).toLowerCase().includes(t)) : [];
-  const shown = CREATORS.filter(c => inSize(c) && (!t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length)).sort(MSORT[st.mSort].cmp);
+  const base = CREATORS.filter(c => inSize(c) && (!t || (c.name + " " + c.person + " " + c.tagline + " " + c.handle).toLowerCase().includes(t) || matchInv(c).length));
+  drawCountryMap(base);
+  const shown = base.filter(inCountry).sort(MSORT[st.mSort].cmp);
   drawAllLengths(shown);
   const ago = d => { const days = (Date.now() - ms(d)) / DAY; return days < 1 ? "today" : days < 2 ? "yesterday" : days < 14 ? Math.round(days) + " days ago" : days < 60 ? Math.round(days / 7) + " weeks ago" : days < 730 ? Math.round(days / 30.4) + " months ago" : Math.round(days / 365) + " years ago"; };
   grid.innerHTML = (shown.length ? "" : `<p class="wrap empty">No makers match${t ? ` “${esc(st.mq)}”` : ""} in this size range.</p>`) + `<div class="wrap makers">${shown.map((c, ci) => {
