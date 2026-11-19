@@ -1294,6 +1294,12 @@ window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(()
 }, 150); });
 $("q").value = st.q;
 window.addEventListener("hashchange", route);
+// "All makers" and the logo go back to the front page with a fresh, empty search (even when already there).
+document.addEventListener("click", e => {
+  if (!e.target.closest('a[href="#/"]')) return;
+  clearTimeout(qTimer); $("q").value = ""; st.q = ""; st.mq = ""; saveSt();
+  if (page === "makers") renderMakerGrid();
+});
 $("qform").addEventListener("submit", ev => { ev.preventDefault(); applySearch(); $("q").blur();
   const target = $("makerGrid") || $("main"); const top = target.getBoundingClientRect().top + window.scrollY - topbar.offsetHeight - 12;
   if (top > window.scrollY) window.scrollTo({ top, behavior: "smooth" }); });
