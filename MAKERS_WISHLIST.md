@@ -249,3 +249,14 @@ Concept Bytes (@concept_bytes, 288K), Kiara's Workshop (@kiarasworkshop, 366K), 
 Ivan Miranda (@ivanmirandawastaken, 538K), Marius Hornberger (@mariushornberger, 578K), Inheritance Machining (@inheritancemachining, 610K),
 Joel Creates (@joelcreates, 693K), Weisz (@weisz, 744K), BPS.space (@bpsspace, 899K), AlphaPhoenix (@alphaphoenixchannel, 725K).
 Already Big: Steve Mould (EMF Camp, 3.6M).
+
+## Out of scope
+
+The site is for makers who make things. These channels were added, then removed after review because they mainly review, repair, restore, assemble kits or comment:
+
+- **Kynosys**: Tool reviews; nothing of his own made on the channel.
+- **Ken Shirriff**: Reverse-engineers and restores other people's chips and computers.
+- **Chris Gammell**: Talks and tutorials; almost nothing built on camera.
+- **Uncle Jessy**: Printer reviews, deals and prints of other people's models.
+- **Canuck Creator**: Assembles commercial printer kits; firmware guides and reviews.
+- **3D Printing Nerd**: Reviews and showcase prints of other people's designs.

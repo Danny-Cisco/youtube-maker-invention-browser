@@ -1,0 +1,26 @@
+{
+ "data/s_kynosys": {
+  "name": "Kynosys",
+  "reason": "Tool reviews; nothing of his own made on the channel."
+ },
+ "data/e_kenshirriff": {
+  "name": "Ken Shirriff",
+  "reason": "Reverse-engineers and restores other people's chips and computers."
+ },
+ "data/e_chrisgammell": {
+  "name": "Chris Gammell",
+  "reason": "Talks and tutorials; almost nothing built on camera."
+ },
+ "data/m_unclejessy": {
+  "name": "Uncle Jessy",
+  "reason": "Printer reviews, deals and prints of other people's models."
+ },
+ "data/s_canuckcreator": {
+  "name": "Canuck Creator",
+  "reason": "Assembles commercial printer kits; firmware guides and reviews."
+ },
+ "data/nerd3d": {
+  "name": "3D Printing Nerd",
+  "reason": "Reviews and showcase prints of other people's designs."
+ }
+}

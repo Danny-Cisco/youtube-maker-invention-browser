@@ -51,7 +51,6 @@ Makers so far:
 | Jeff Geerling | 8 | 585 |
 | CNC Kitchen | 18 | 258 |
 | Made with Layers | 7 | 597 |
-| 3D Printing Nerd | 10 | 1,525 |
 | Thomas Burns | 9 | 15 |
 
 Smaller makers (Tiny and Small channels). Their inventions were drafted automatically with `build/auto_inventions.py`: long-form builds only, multi-part series merged, descriptions taken from the maker's own words. They are a first pass and can be refined by hand.
@@ -90,10 +89,8 @@ Smaller makers (Tiny and Small channels). Their inventions were drafted automati
 | Way of the Wrench | 40 | 221 |
 | Marb's Lab | 40 | 102 |
 | Ragmop and Goose | 22 | 305 |
-| Kynosys | 4 | 370 |
 | Charlie Solis | 40 | 592 |
 | Props To History | 40 | 590 |
-| Canuck Creator | 40 | 1,183 |
 
 
 Makers found through maker events (Open Sauce, Hackaday Supercon and Europe, EMF Camp, Chaos Communication Congress; see `MAKERS_WISHLIST.md`). Also drafted with `build/auto_inventions.py`.
@@ -103,13 +100,11 @@ Makers found through maker events (Open Sauce, Hackaday Supercon and Europe, EMF
 | Tylon | 31 | 43 |
 | Dovetail | 3 | 3 |
 | Katie Steckles | 24 | 24 |
-| Ken Shirriff | 17 | 17 |
 | Science Shack | 17 | 17 |
 | Sprite_tm | 40 | 78 |
 | Woolybeetle | 14 | 144 |
 | Edwin Hwu | 40 | 103 |
 | Niklas Roy | 40 | 95 |
-| Chris Gammell | 17 | 22 |
 | Get Circuit Bent | 34 | 56 |
 | Debra Ansell | 40 | 58 |
 | Voja Antonic | 25 | 25 |
@@ -171,7 +166,6 @@ Medium makers (100K–1M) from the wishlist, also drafted with `build/auto_inven
 | Aging Wheels | 40 | 226 |
 | The Post Apocalyptic Inventor | 40 | 251 |
 | Ivan Miranda | 40 | 88 |
-| Uncle Jessy | 40 | 1,032 |
 | Marius Hornberger | 40 | 213 |
 | Zack Freedman | 40 | 106 |
 | Joel Creates | 40 | 80 |
@@ -232,6 +226,8 @@ The rule for the whole site: an invention is something the maker designed or mad
 How videos are grouped into inventions: `build/auto_inventions.py` drafts a maker from scratch. Videos join an invention when their titles share the same key words (so numbered series, "Part 3"s and livestream build sessions all land in the same invention; "LIVE", "#livestream" and "[stream]" labels are ignored). Non-builds such as Q&As, chats, podcasts, unboxings, reviews, launch events, mail bags and courses are left out. For channels that were curated by hand, `build/attach_unassigned.py` proposes where their livestreams belong and only applies the joins you approve; `build/hand_group.py` is for Shorts-heavy channels whose titles vary too much for either.
 
 Each maker's country is in `data/countries.json` as `[ISO code, source]`: "channel" means it comes from the location the maker set on YouTube, "manual" means it was filled in by hand. Edit it to correct a country. The world map outline is `build/world.json`, made once with `build/make_map.mjs`.
+
+Makers who don't make things are out of scope; they are listed with the reason in `data/out_of_scope.json` (their data is kept).
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), or draft one automatically with `build/auto_inventions.py`, and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.
 
