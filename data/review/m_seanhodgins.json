@@ -1,0 +1,526 @@
+{
+"channel": "Sean Hodgins",
+"videos": 283,
+"labels": {
+"rVQk1lezW0c": "invention",
+"9GRpEMw-EoU": "invention",
+"1y0aJ6OKjWc": "invention",
+"WH3N03ZdPEk": "invention",
+"iP-wCNDS2kg": "invention",
+"PnGwj5Q8DO8": "invention",
+"PoPzBuoFOps": "invention",
+"67Kh_ikb-ds": "invention",
+"hfqsooRx62Q": "invention",
+"quEMfbOoROQ": "invention",
+"tHKs_LHq1KQ": "invention",
+"Ib7my6o6tnQ": "invention",
+"o4a5EwD1C8c": "invention",
+"K_uXaCo1KIg": "invention",
+"31ITJO-95iQ": "invention",
+"eyG5GFpSRSM": "invention",
+"W5LlMNW-vLA": "invention",
+"cXzuY-OdSq0": "invention",
+"Uu_M_le5S2U": "invention",
+"bjgAxe94dU8": "invention",
+"tKmjRi5BOhI": "invention",
+"lljkikMWPBw": "invention",
+"BQUf0EvZWkc": "invention",
+"u1pPG5NZyvw": "invention",
+"1wWT9QnN1YI": "invention",
+"XT5R4Tftu7k": "invention",
+"5JT6WzVlcRo": "invention",
+"dVT4Nei8qHg": "invention",
+"FdQuI5x9SBY": "invention",
+"YA3uAYVbMNc": "invention",
+"POHFos43u30": "invention",
+"FSWPsA_3NI0": "invention",
+"CyyXmATzEqs": "invention",
+"UNvMEfPD-Hg": "invention",
+"2Ubsu7u6Qi0": "invention",
+"nyTs-qJ_F98": "invention",
+"e4h7akFXovM": "invention",
+"F3dUfRxtwv4": "invention",
+"ZU-IiH7f58s": "invention",
+"7S2FcrVHBxY": "invention",
+"DacD-qZ0WnU": "invention",
+"BM-LiPFgZBc": "invention",
+"bd1iaVNwYvI": "invention",
+"LRTtZSRfYVY": "invention",
+"pWzIHIispJ4": "invention",
+"8TaMxIwHQto": "invention",
+"CiPm3to5vCE": "invention",
+"DCqymgH1_Ts": "invention",
+"-XI6wWHZd9E": "invention",
+"mPIOGmVp_cM": "invention",
+"IpMxOmUcfOI": "invention",
+"VCcJjI2u4AU": "invention",
+"PUvCP1_2Gww": "invention",
+"nfvzyg8gkIE": "invention",
+"PwL2Ct8mRfc": "invention",
+"wtNaPLmpy1I": "invention",
+"IaYjGdEZq18": "invention",
+"_jc9CL6Ikfg": "invention",
+"WefSub8qesQ": "invention",
+"PaXweP73NT4": "invention",
+"UNz-xwCNh1c": "invention",
+"F9KJvoohiPE": "invention",
+"pzH9Pax2f3s": "invention",
+"5DvJ-7lDHkw": "invention",
+"sVv1oc14X1w": "invention",
+"Wo5yLfvocJw": "invention",
+"-R5Wl697IuM": "invention",
+"HWP3dSttmy8": "invention",
+"dZ4IUd8FqbU": "invention",
+"DlL3AunnM_I": "invention",
+"AHSqyuOPpf0": "invention",
+"lBl54D4Eon0": "invention",
+"Qt41SqWQd3Q": "invention",
+"xbj6FowNlZw": "invention",
+"sWH7SDVjv1M": "invention",
+"rn6n5MG1Krw": "invention",
+"2np7Va2ASF0": "invention",
+"IklV_jTcl2A": "invention",
+"m6OeIMj0Up4": "invention",
+"UtuNriooEdM": "invention",
+"l8-RDYw6qxk": "invention",
+"t-QdiJcz1b4": "invention",
+"IK88ALh8d5w": "invention",
+"1Syx5_sFCT0": "invention",
+"Aq0U8vcM4QE": "invention",
+"0eSrmeFNd1Q": "invention",
+"G3vplbJCBBQ": "invention",
+"0GPoMWd9rxA": "invention",
+"cQIuGVuEgX4": "invention",
+"4fF_Y8t30FM": "repair",
+"OPBWC4xK6dE": "repair",
+"CGwzsiYUuZI": "repair",
+"4885gll19O0": "repair",
+"uQjjcaN57y8": "tutorial",
+"dkcU3bc66ZA": "tutorial",
+"6dnidbhjpm4": "workshop",
+"2JRV4WfOA_s": "workshop",
+"2BWcjVmKt_U": "workshop",
+"LFhgG2FGFYU": "workshop",
+"bJDB7FIcRRg": "workshop",
+"MPX-MqDsVE0": "workshop",
+"JDZYybgcerE": "workshop",
+"j4MHBG3ZS-M": "workshop",
+"4NJRyyQEpt8": "other",
+"afVguG0n-AU": "other",
+"QjqCj6PTHVY": "other",
+"vZwrfbA6vSg": "other",
+"98D2fULbpys": "other",
+"OzelWHNNdtY": "other",
+"psdIIWtmPzk": "other",
+"8U3MNCzMYB4": "other",
+"Vg9yvezFWJs": "other",
+"w3GLak3TZJQ": "other",
+"TF30tIS8DSw": "other",
+"yBuKEzNRnWg": "other",
+"VPZU4qAiWLA": "other",
+"6Y9unuIjh24": "other",
+"BuRT118k888": "other",
+"wZDJUFv29Vg": "other",
+"PQ-kznG3jTA": "other",
+"JYkcFQrWf0k": "other",
+"lF9jQa9G788": "other",
+"4YSvpeA0DEY": "other",
+"UJRg6cyj4k4": "other",
+"le2LROh7Wt4": "other",
+"tPoTOX4pOl8": "other",
+"5vWfGKDMARw": "other",
+"pQ_WA_pxMHg": "other",
+"GWyQ2Zj3m5o": "other",
+"r13wJTieroE": "other",
+"veRor4T0iWE": "other",
+"kX3jFsXD7hA": "other",
+"2oswVws7f30": "other",
+"l6mwNddqg18": "other",
+"uWW_TZ578p0": "other",
+"s37KlR4mHJo": "other",
+"iGQW7IIP4bk": "other",
+"hhwK0wsc-9Y": "other",
+"3m5QWJkwwHc": "other",
+"Q5QeMagI6GU": "other",
+"im5oxHT-zrI": "other",
+"yRUFjqnpW-k": "other",
+"JNYABWNadQM": "other",
+"WjQfMW4AUe8": "other",
+"XI9_bPz9e_A": "other",
+"G69ZiSmfz9E": "other",
+"Jm-DqFXBda4": "other",
+"FHyZePhjVRQ": "other",
+"cuJ4yL36Ez4": "other",
+"5zvFxKf8n-c": "other",
+"q8YtYcRtyY0": "other",
+"E4p7u4-pJ6w": "other",
+"P_3wLRiNk2c": "other",
+"mta0Csg8NSQ": "other",
+"tPUjwYTZQqE": "other",
+"LLij6iRSnY0": "other",
+"pUtNMDJHpXI": "other",
+"4UpHJzDh874": "other",
+"0GOhVjkkuIE": "other",
+"xZPYN-kAxnk": "other",
+"3p-C1Pw5hc0": "other",
+"BasjonMaieg": "other",
+"9rGhks5OulQ": "other",
+"9T80Qz9RnoE": "other",
+"9F75-6l1Oq0": "other",
+"TQTGQOyC-GQ": "other",
+"pO_KX0QCfjc": "other",
+"PV_Cdqh4xj8": "other",
+"UoWSKqWKw4Y": "other",
+"D34eWYKoxtk": "other",
+"fQ3exL8ijJ0": "other",
+"qGM85WioU5A": "other",
+"cdxEI3yBZKQ": "other",
+"uC-2U2D-Gic": "other",
+"DxHBQWl40PY": "other",
+"XmJ6V0KzfP4": "other",
+"hzsPM6C4oQg": "other",
+"8ZPFofdQq4o": "other",
+"06rcMVdvDco": "other",
+"JkSvFfCpOW4": "other",
+"pfGnLNTVATk": "other",
+"TY5uTpxhQXA": "other",
+"tlFWzMXrfHc": "other",
+"JfHHPs07dog": "other",
+"OPzhDksRml8": "other",
+"qTZqa2LYF_g": "other",
+"QdjNn2I0bm4": "other",
+"n95zgai6cEY": "other",
+"W6gK1yAlb9k": "other",
+"u9ZHp83yHQw": "other",
+"mtSx51YRbCU": "other",
+"nIQfFSe9KOU": "other",
+"uCbOJqpMwS8": "other",
+"Wjs1f1fr84U": "other",
+"uCPxXWt3uVE": "other",
+"PIaB2OjF46E": "other",
+"lhJj7kZit2s": "other",
+"qdG2iXMiooo": "other",
+"llkvKMBXGQc": "other",
+"IWNLCgjcHKM": "other",
+"XEtB_NoB668": "other",
+"m_iCkb-pd5w": "other",
+"Iem744VDBJc": "other",
+"fJwwqJIo7Yk": "other",
+"JjIarj_k0uU": "other",
+"sDbBfu7dBdQ": "other",
+"Si9oX25en2Y": "other",
+"jEc6jl34vUw": "other",
+"OEAWHif9dZA": "other",
+"NmiO6v_5H2o": "other",
+"JRV02CPVyow": "other",
+"VN32LU9Lbo8": "other",
+"k__MC8jbc_s": "other",
+"muqUqU8H4Ms": "other",
+"J31B_KbARwg": "other",
+"dIDyYWl3qC4": "other",
+"U5xXI-_PFVo": "other",
+"lwD5SZdu2Mg": "other",
+"Zrz8Cux-CIw": "other",
+"2rnXPvYJW2A": "other",
+"bIYi4Brxo-k": "other",
+"uPgxbS-wzbg": "other",
+"a2CHCkHRYLk": "other",
+"dJAsAL7t8tE": "other",
+"w1HYwB8Zw8A": "other",
+"obQ1V1uo9jE": "other",
+"cIsPUWNQx7Q": "other",
+"6_P9q5EvbTg": "other",
+"qZNQJFmYs60": "other",
+"ykBhalC8u0Q": "other",
+"tdCdNnDxAV8": "other",
+"5eVH4lNLxJs": "other",
+"4H7q_gbKIUs": "other",
+"u8_xM9xLk2Q": "other",
+"SXXa5A6wGn4": "other",
+"8RHuL-PxL0s": "other",
+"kY8-RhyFlZw": "other",
+"aZkp6qvMs9k": "other",
+"vhrOpQX2HCQ": "other",
+"hgSh1zKZ_Bg": "other",
+"3JDoVhy8PTo": "other",
+"1VwlAW6J0Y8": "other",
+"VwmD9DYVuI8": "other",
+"eMtTB9UfRmw": "other",
+"jEcG1RSd07k": "other",
+"EMXKXpPVhao": "other",
+"n3nqW3ftjrs": "other",
+"NwZ0aXwKMK4": "other",
+"RTSVV1Aw0vg": "other",
+"UsQ7p0FW0w0": "other",
+"qf1jWw4BUsI": "other",
+"CFBoAUBFPC0": "other",
+"jNEIHbFw400": "other",
+"_VKrhcnS6B4": "other",
+"I-f-7x-3m5c": "other",
+"BYtZiJz7nUs": "other",
+"k73xWdTxMgQ": "other",
+"TpXxXkESiK4": "other",
+"gLAFS4WahvM": "other",
+"uEa_s5nv-X8": "other",
+"hyZ95vB00uk": "other",
+"Mz6uCnffgsY": "other",
+"wyD5DAT4A8M": "other",
+"aR50bch1JVU": "other",
+"gTyMcitYqyI": "other",
+"B1XRBBsWByM": "other",
+"yO_c69XA4-4": "other",
+"mSQ8qx4jCoE": "other",
+"jtb7lLg6pqI": "other",
+"0N7bGHJVGWI": "other",
+"FV2OqOJcQRc": "other",
+"GExSMURny_o": "other",
+"XYX1DHubkH8": "other",
+"Vlavv_4ro2k": "other",
+"nFRRgE47pjc": "other",
+"Q3OnI3crDUE": "other",
+"gr8JvWObhAI": "other",
+"pcRugqhVHN0": "other",
+"kkNGU4DWcns": "other",
+"I7pd_cSRzRY": "other",
+"4kCo_dboROk": "other",
+"mC5iZvdhj1Y": "other",
+"AWfZhZb0zD0": "other"
+},
+"inventions": {
+"Hacking some RF": [
+"rVQk1lezW0c"
+],
+"DIY Multi-Layer Acrylic Stencil Art Desk Light": [
+"9GRpEMw-EoU"
+],
+"Make a Raspberry Pi Zero USB Hub": [
+"1y0aJ6OKjWc"
+],
+"Diy Nfc Bentwood Ring": [
+"WH3N03ZdPEk"
+],
+"Idle Hands Fidget Spinner": [
+"iP-wCNDS2kg"
+],
+"Dream Inception Tool": [
+"PnGwj5Q8DO8"
+],
+"ESP8266 Christmas Ornaments": [
+"PoPzBuoFOps"
+],
+"ESP Everywhere": [
+"67Kh_ikb-ds",
+"hfqsooRx62Q"
+],
+"Arduino POV Fidget Spinner": [
+"quEMfbOoROQ"
+],
+"Laser Cut Antique Steel Lock": [
+"tHKs_LHq1KQ"
+],
+"3D Print of the Week": [
+"Ib7my6o6tnQ",
+"o4a5EwD1C8c",
+"K_uXaCo1KIg"
+],
+"DIY Bitcoin Lottery with a Raspberry Pi": [
+"31ITJO-95iQ"
+],
+"The PIDDYBOT - DIY Arduino Balancing Robot": [
+"W5LlMNW-vLA",
+"eyG5GFpSRSM"
+],
+"#3DPOTW - - Dewalt Sander Vacuum Adapter": [
+"cXzuY-OdSq0",
+"Uu_M_le5S2U"
+],
+"Haunted Jack in the Box": [
+"bjgAxe94dU8"
+],
+"Watch Retro Christmas Commercials on your Christmas Tree": [
+"tKmjRi5BOhI"
+],
+"Arduino Geocache Locator": [
+"lljkikMWPBw",
+"BQUf0EvZWkc"
+],
+"Open Source Cajon": [
+"u1pPG5NZyvw"
+],
+"DIY Arduino Hot-Key Button Panel": [
+"1wWT9QnN1YI"
+],
+"PIXO Pixel - An ESP32 Based RGB Desktop Display": [
+"XT5R4Tftu7k",
+"5JT6WzVlcRo",
+"dVT4Nei8qHg",
+"FdQuI5x9SBY",
+"YA3uAYVbMNc"
+],
+"3D Printed Quick Fix": [
+"POHFos43u30"
+],
+"Assembling A Neural Network Robot Army": [
+"FSWPsA_3NI0"
+],
+"Open Source Flashlight Kit": [
+"CyyXmATzEqs"
+],
+"3D Printable Robotic Actuator": [
+"UNvMEfPD-Hg"
+],
+"3D Printing for We The Builders": [
+"2Ubsu7u6Qi0"
+],
+"3D Printed Accelerometer Soldering Jig": [
+"nyTs-qJ_F98"
+],
+"MegaMUX - 32 Channel Multiplexer Board and Tutorial": [
+"e4h7akFXovM"
+],
+"Bootloader Programming Jig for the HCC Module": [
+"F3dUfRxtwv4",
+"ZU-IiH7f58s"
+],
+"Easily Design Your Own PCBs! The SAMD21 HCC Module": [
+"7S2FcrVHBxY"
+],
+"HCC Module - Easy/Ready to Solder Arduino Module - Kickstarter": [
+"BM-LiPFgZBc",
+"DacD-qZ0WnU"
+],
+"DIY RGB + Cherry MX Macro Keypad with the HCC Module": [
+"bd1iaVNwYvI"
+],
+"DIY Arduino Game System and Controller! The MOD_Boy": [
+"LRTtZSRfYVY"
+],
+"Cheap Temp Sensor KiCad Design": [
+"pWzIHIispJ4"
+],
+"Diresta Ice Pick Twister": [
+"8TaMxIwHQto"
+],
+"Fake Walkie-Talkie for Fake Ghost Tours": [
+"CiPm3to5vCE"
+],
+"Radioactive Tritium Tesseract Prototype": [
+"DCqymgH1_Ts",
+"-XI6wWHZd9E"
+],
+"Custom Embossed Notebooks Using 3D Printing": [
+"mPIOGmVp_cM"
+],
+"Building Glitterbomb 1.0 with Mark Rober": [
+"IpMxOmUcfOI"
+],
+"This 3D Printer Fits in your Hand": [
+"VCcJjI2u4AU",
+"PUvCP1_2Gww"
+],
+"Addressable 7-Segment Displays": [
+"nfvzyg8gkIE"
+],
+"Accelerate your Arduino Projects with the WIND Board": [
+"PwL2Ct8mRfc"
+],
+"Build Your Own Arduino Neural Network Robot": [
+"wtNaPLmpy1I"
+],
+"Twitch Robotic Chicken Feeder": [
+"IaYjGdEZq18"
+],
+"3D Printed LED Panel Sit/Stand Desk Mounts": [
+"_jc9CL6Ikfg"
+],
+"Become Anyone": [
+"WefSub8qesQ"
+],
+"I Made My Own Image Sensor": [
+"PaXweP73NT4",
+"UNz-xwCNh1c"
+],
+"Custom Heat-Set Threaded Insert Tools": [
+"F9KJvoohiPE"
+],
+"Spinning Holographic Christmas Ornament": [
+"pzH9Pax2f3s"
+],
+"Reddit Upvote POV Christmas Ornament": [
+"5DvJ-7lDHkw"
+],
+"TENEX Solid State Volumetric OLED Display": [
+"sVv1oc14X1w"
+],
+"35 Year Old CNC Controller Retrofit": [
+"Wo5yLfvocJw"
+],
+"Extremely Dangerous Holographic Christmas Tree of Death": [
+"-R5Wl697IuM"
+],
+"Don't Do What I Do": [
+"HWP3dSttmy8"
+],
+"I Built the Craziest LED Mask": [
+"dZ4IUd8FqbU"
+],
+"I Built A Tiny Model Train and it Nearly Broke My Brain": [
+"DlL3AunnM_I"
+],
+"This Signal Runs the World, and it Comes From Space": [
+"AHSqyuOPpf0"
+],
+"Raspberry Pi Car Install": [
+"lBl54D4Eon0"
+],
+"3DRing Light Painting": [
+"Qt41SqWQd3Q"
+],
+"Wireless Power": [
+"xbj6FowNlZw"
+],
+"Arduino BEME Remote Shutter": [
+"sWH7SDVjv1M"
+],
+"Energy Harvesting Ring": [
+"rn6n5MG1Krw"
+],
+"Open Source Glucose Meter": [
+"2np7Va2ASF0"
+],
+"OLED GPS Bike Speedometer": [
+"IklV_jTcl2A"
+],
+"Arduino Timelapse Vehicle": [
+"m6OeIMj0Up4"
+],
+"Peltier Raspberry Pi": [
+"UtuNriooEdM"
+],
+"Sketching Tool Holder": [
+"l8-RDYw6qxk"
+],
+"Pi Zero Steam Box": [
+"t-QdiJcz1b4"
+],
+"Arduino YouTube Play Button": [
+"IK88ALh8d5w"
+],
+"$5 Fidget Spinner": [
+"1Syx5_sFCT0",
+"Aq0U8vcM4QE"
+],
+"Real-Snow Snow Globe": [
+"0eSrmeFNd1Q"
+],
+"Doom Gadget": [
+"G3vplbJCBBQ"
+],
+"Gravity-Defying Christmas Ornaments": [
+"0GPoMWd9rxA"
+],
+"Palm-Sized Marble Machine": [
+"cQIuGVuEgX4"
+]
+}
+}
