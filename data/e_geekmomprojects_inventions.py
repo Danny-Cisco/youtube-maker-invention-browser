@@ -1,7 +1,7 @@
 """Curated inventions for Debra Ansell (@geekmomprojects).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'debra-ansell', 'name': 'Debra Ansell', 'person': 'Debra Ansell', 'tagline': 'LED and PCB sculptures (geekmomprojects).', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -11,6 +11,12 @@ INVENTIONS = [
   desc="Light Up Sweatshirt Using Arduino Lilypad.",
   videos=[
    "pj_oD76-ehg",  # 2013-01-22 Light Up Sweatshirt Using Arduino Lilypad
+  ],
+ ),
+ dict(name="Arduino LilyPad Simple Board LED Panel", kind="Build",
+  desc="Arduino LilyPad Simple Board LED Panel.",
+  videos=[
+   "W1PeSWYvpUE",  # 2013-01-22 Arduino LilyPad Simple Board LED Panel
   ],
  ),
  dict(name="6x6x6 LED Cube", kind="Build",
@@ -29,6 +35,7 @@ INVENTIONS = [
   desc="MPU-6050 Data with a Complementary Filter.",
   videos=[
    "qmd6CVrlHOM",  # 2013-04-02 MPU-6050 Data with a Complementary Filter
+   "2t-5CCyPJ74",  # 2014-06-30 MPU-6050 Orientation from DMP vs. Complementary Filter
   ],
  ),
  dict(name="Wii Nunchuck Controlled Servos", kind="Build",
@@ -56,33 +63,24 @@ INVENTIONS = [
   ],
  ),
  dict(name="The \"Halfway\" - a DIY Segway Clone", kind="Build",
-  desc="The \"Halfway\" - a DIY Segway Clone.",
+  desc="Test drive of the self-balancing scooter.",
   videos=[
+   "uo8BLzKFOcc",  # 2014-05-16 The "Halfway" - testing a DIY Segway Clone
    "sB7AT3vIn4k",  # 2014-05-20 The "Halfway" - a DIY Segway Clone
-  ],
- ),
- dict(name="MPU-6050 Orientation from DMP vs. Complementary Filter", kind="Build",
-  desc="MPU-6050 Orientation from DMP vs. Complementary Filter.",
-  videos=[
-   "2t-5CCyPJ74",  # 2014-06-30 MPU-6050 Orientation from DMP vs. Complementary Filter
-  ],
- ),
- dict(name="Made a PlotClock", kind="Build",
-  desc="Made a PlotClock.",
-  videos=[
-   "OwxYyyqTgKE",  # 2014-12-29 Made a PlotClock
   ],
  ),
  dict(name="More PlotClock", kind="Build",
   desc="More PlotClock.",
   videos=[
+   "OwxYyyqTgKE",  # 2014-12-29 Made a PlotClock
    "L9eMfZe16cw",  # 2014-12-31 More PlotClock
   ],
  ),
- dict(name="Wall Plotter Draws Crosshatch", kind="Build",
+ dict(name="Wall Plotter", kind="Build",
   desc="Wall plotter, based on the Der Kritzler model, makes a crosshatch-style drawing of the Mona Lisa.",
   videos=[
    "xUPZLzWAgos",  # 2015-01-07 Wall Plotter Draws Crosshatch
+   "M2_-auIwJdU",  # 2015-03-19 Wall Plotter
   ],
  ),
  dict(name="Tiny CNC v0.29", kind="Build",
@@ -95,12 +93,6 @@ INVENTIONS = [
   desc="Mini CNC Spirograph.",
   videos=[
    "n6NJcqj8Jwk",  # 2015-01-19 Mini CNC Spirograph
-  ],
- ),
- dict(name="Wall Plotter", kind="Build",
-  desc="Wall Plotter.",
-  videos=[
-   "M2_-auIwJdU",  # 2015-03-19 Wall Plotter
   ],
  ),
  dict(name="Made the MeArm", kind="Build",
@@ -163,22 +155,23 @@ INVENTIONS = [
    "NcUoPSsXDQQ",  # 2015-11-20 EtchABot with Joystick Control
   ],
  ),
- dict(name="LED Matrix Handbag", kind="Build",
-  desc="LED Matrix Handbag.",
+ dict(name="EtchABot Draws a Snowflake", kind="Build",
+  desc="Snowflake drawn from vector image file using EtchABot.",
+  videos=[
+   "bkTMifinoYM",  # 2015-12-24 EtchABot Draws a Snowflake (time lapse)
+  ],
+ ),
+ dict(name="LED Matrix Handbag 2 0", kind="Build",
+  desc="LED Matrix Handbag 2 0.",
   videos=[
    "bbf2wOXC0QI",  # 2016-03-11 LED Matrix Handbag
+   "lfA74XauPrM",  # 2016-08-24 LED Matrix Handbag 2 0
   ],
  ),
  dict(name="LED Matrix Bag v 2.0 Quick Demo", kind="Build",
   desc="LED Matrix Bag v 2.0 Quick Demo.",
   videos=[
    "8qWwN1uZo3Y",  # 2016-05-31 LED Matrix Bag v 2.0 Quick Demo
-  ],
- ),
- dict(name="LED Matrix Handbag 2 0", kind="Build",
-  desc="LED Matrix Handbag 2 0.",
-  videos=[
-   "lfA74XauPrM",  # 2016-08-24 LED Matrix Handbag 2 0
   ],
  ),
  dict(name="LED Headband Workshop", kind="Build",
@@ -205,10 +198,17 @@ INVENTIONS = [
    "HO6LkEJmnu8",  # 2019-01-29 Acrylic LED Heart
   ],
  ),
- dict(name="Edge Lit Pendant Construction", kind="Build",
-  desc="Edge Lit Pendant Construction.",
+ dict(name="Inner Glow LED Hearts", kind="Build",
+  desc="Trying out different etching patterns in the \"Inner Glow\" LED acrylic heart.",
+  videos=[
+   "RUeIZLl3-bs",  # 2019-02-11 Inner Glow LED Hearts
+  ],
+ ),
+ dict(name="Layered Edge-Lit Pendants", kind="Build",
+  desc="Layered Edge-Lit Pendants.",
   videos=[
    "THnr-gYRNls",  # 2019-05-06 Edge Lit Pendant Construction
+   "Mu3Chlfe5Bk",  # 2020-03-16 Layered Edge-Lit Pendants
   ],
  ),
  dict(name="Edge-Lit Seven Segment Clocks", kind="Build",
@@ -223,10 +223,22 @@ INVENTIONS = [
    "KpumGcMKYs0",  # 2019-06-22 Etched Teeny Tiny Edge Lit Display Project
   ],
  ),
- dict(name="Layered Edge-Lit Pendants", kind="Build",
-  desc="Layered Edge-Lit Pendants.",
+ dict(name="Fairy Light Belt", kind="Build",
+  desc="Directions to assemble Fairy Light Belt project for PS Science",
   videos=[
-   "Mu3Chlfe5Bk",  # 2020-03-16 Layered Edge-Lit Pendants
+   "U5Z9CbSnDVE",  # 2020-06-07 Fairy Light Belt
+  ],
+ ),
+ dict(name="Microbit Carrying Case", kind="Build",
+  desc="Directions to assemble and wear the micro:bit carrying case for PS Science Summer Camp 2020",
+  videos=[
+   "XZODGcOzatA",  # 2020-06-07 microbit Carrying Case
+  ],
+ ),
+ dict(name="Translucent Hanukiyah", kind="Build",
+  desc="Edge-lit acrylic illuminated by a double-sided side-emitting LED strip makes a fun and unusual hanukiyah for the holidays.",
+  videos=[
+   "zcXqucuBYBg",  # 2020-11-28 Translucent Hanukiyah
   ],
  ),
  dict(name="Fiber-Optic Hyperbolic Parabolid", kind="Build",
@@ -245,6 +257,12 @@ INVENTIONS = [
   desc="Description of how I constructed an articulated PCB assembly",
   videos=[
    "9HDyzVgGNhk",  # 2021-06-01 Bendy Boards (Articulated PCBs)
+  ],
+ ),
+ dict(name="Pixel Pillows", kind="Build",
+  desc="A set of RGB LED enhanced pillows created by sewing a flexible LED string (5cm LED spacing) in a  to a decorative (20\"x20\") pillow insert, covering with a layer of batting and inserting into a white velveteen cover.",
+  videos=[
+   "GCXvjJFsTxE",  # 2022-06-07 Pixel Pillows
   ],
  ),
 ]

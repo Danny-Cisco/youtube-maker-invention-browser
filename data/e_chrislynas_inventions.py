@@ -1,7 +1,7 @@
 """Curated inventions for Chris Lynas (@chrislynas).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'chris-lynas', 'name': 'Chris Lynas', 'person': 'Chris Lynas', 'tagline': 'Pen plotters, servo pen lifts and open-hardware PCBs.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -11,6 +11,7 @@ INVENTIONS = [
   desc="I made a flat-sheet paper plotter by adapting my Evil Mad Scientist Labs \"Eggbot\" plotter.",
   videos=[
    "FSrF2Gh0HrY",  # 2011-09-01 Eggbot based plotter
+   "a74ko5Yc8rA",  # 2012-04-22 Eggbot Plotter - Driven by StippleGen
   ],
  ),
  dict(name="3D Printed Record", kind="Build",
@@ -18,12 +19,6 @@ INVENTIONS = [
   videos=[
    "8AgtJdaBUhs",  # 2012-01-23 3D Printed Record - 'Still Alive'
    "ElAJJnSvQtk",  # 2012-01-23 3D Printed Record - 'Still Alive'
-  ],
- ),
- dict(name="Eggbot Plotter", kind="Build",
-  desc="Evil Mad Scientist's Eggbot plotter contains most of the parts to make a polargraph/drawbot hanging pen plotter.",
-  videos=[
-   "a74ko5Yc8rA",  # 2012-04-22 Eggbot Plotter - Driven by StippleGen
   ],
  ),
  dict(name="Recursive Trees", kind="Build",
@@ -35,6 +30,7 @@ INVENTIONS = [
  dict(name="Impossible Spirograph 1", kind="Build",
   desc="Eggbot-based drawbot drawing computer-generated patterns like a \"Spirograph\" - the simulation includes more complex double and triple circles than could ever be practically made",
   videos=[
+   "-ftRwzq6b1U",  # 2012-08-19 Impossible Spirograph 2
    "vO7Rdt6nsjo",  # 2012-08-19 Impossible Spirograph 1
   ],
  ),
@@ -42,12 +38,6 @@ INVENTIONS = [
   desc="Drawbot Shading.",
   videos=[
    "Yl74ub5F3ao",  # 2012-08-19 Drawbot Shading
-  ],
- ),
- dict(name="Impossible Spirograph 2", kind="Build",
-  desc="Eggbot-based drawbot drawing computer-generated patterns like a Spirograph - however the Spirograph simulation includes more complex double- and triple-circles than could ever be practically made & pinned to a piece o…",
-  videos=[
-   "-ftRwzq6b1U",  # 2012-08-19 Impossible Spirograph 2
   ],
  ),
  dict(name="State of the Art", kind="Build",
@@ -68,15 +58,10 @@ INVENTIONS = [
    "nLsLxMhf5CQ",  # 2014-08-09 3d printed lithophane lampshade
   ],
  ),
- dict(name="2d delta drawbot first moves", kind="Build",
+ dict(name="2d delta drawbot", kind="Build",
   desc="First moves of a new 2d delta drawbot.",
   videos=[
    "0wbuI6lByGg",  # 2015-03-07 2d delta drawbot first moves
-  ],
- ),
- dict(name="2d delta drawbot", kind="Build",
-  desc="2d delta drawbot.",
-  videos=[
    "8k7BzzRfje8",  # 2016-04-03 2d delta drawbot
   ],
  ),
@@ -90,6 +75,15 @@ INVENTIONS = [
   desc="\"ExtruDraw\" 3D Printed Pen Plotter.",
   videos=[
    "ASuk1-8ooXM",  # 2020-11-22 "ExtruDraw" 3D Printed Pen Plotter
+   "DjPsXUIdhBs",  # 2025-03-30 3d printed pen plotter: hatching #3dprinting #3dprinted
+   "brruMgZ-fIU",  # 2025-04-06 3d Printed Pen Plotter: offset spirals #3dprinted
+   "mSKpU3ufnYo",  # 2025-04-12 3d printed pen plotter: colour halftone with spiral black layer #3dpri
+   "hwfMWG_cmM4",  # 2025-04-20 3d Printed Pen Plotter: Simulated Pond Ripples #3dprinted #penplotter
+   "Bpz_lB0kKuU",  # 2025-05-03 3d Printed Pen Plotter: offset lines #3dprinted #penplotter
+   "C89j52tY2YM",  # 2025-05-05 3d Printed Pen Plotter: Stipples & Spirals #3dprinted #plotterart
+   "MPDe6LsIRRM",  # 2025-10-29 3D Printed Pen Plotter: New Board (& some plotting)
+   "4DbMvii9APQ",  # 2026-03-02 3d Printed Pen Plotter: distorted grid halftone spiral dots #3dprinted
+   "cvYBpniYfkk",  # 2026-04-12 3d Printed Pen Plotter - ballpoint CMYK colour plot #3dprinted
   ],
  ),
  dict(name="RGB Ripple Solar Garden Lights", kind="Build",
@@ -104,21 +98,17 @@ INVENTIONS = [
    "yS-YZyUkDbA",  # 2023-03-11 My Best 3D Printed Fan (and the others)
   ],
  ),
- dict(name="3D Printed Pen Plotter", kind="Build",
-  desc="The CoreXY plotter in the video is a modificatio",
+ dict(name="Slapdash CoreXY Plotter Tour", kind="Build",
+  desc="This is another quick, low effort tour of my plotter and its current status: it's now changed to coreXY from H-bot (the sidegrade) and has a new electrostatic paper holder (the major upgrade)",
   videos=[
-   "MPDe6LsIRRM",  # 2025-10-29 3D Printed Pen Plotter: New Board (& some plotting)
+   "2fh67D114oU",  # 2024-09-27 Quick and Slapdash Tour of the ExtruH Plotter
+   "tY8XKtWAoJY",  # 2025-03-08 Slapdash CoreXY Plotter Tour: "Sidegrades" & Upgrades
   ],
  ),
  dict(name="Plotter Pen Lifts", kind="Build",
   desc="Plotter Pen Lifts.",
   videos=[
    "Qwu3u70EML4",  # 2026-04-22 Plotter Pen Lifts
-  ],
- ),
- dict(name="Plotter Pen Lift Servos", kind="Build",
-  desc="For a while I've been running on a high-voltage brushless servo which can't be supplied with power by the EiBotBoard directly because:",
-  videos=[
    "E6YwN_Clrto",  # 2026-06-07 Plotter Pen Lift Servos: open power supply PCB for brushless servos
   ],
  ),

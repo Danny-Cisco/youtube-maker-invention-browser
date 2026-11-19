@@ -1,7 +1,7 @@
 """Curated inventions for Sam Zeloof (@samzeloof).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'sam-zeloof', 'name': 'Sam Zeloof', 'person': 'Sam Zeloof', 'tagline': 'Making silicon chips at home, in a garage fab.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -80,9 +80,10 @@ INVENTIONS = [
   ],
  ),
  dict(name="Semiconductor Fabrication Basics", kind="Build",
-  desc="Semiconductor Fabrication Basics - Thin Film Processes, Doping, Photolithography, etc..",
+  desc="Semiconductor Fabrication Basics - DIY Homemade NMOS FET/MOSFET/Transistor Step by Step.",
   videos=[
    "qCSIGejNT4M",  # 2017-01-16 Semiconductor Fabrication Basics - Thin Film Processes, Doping, Photol
+   "TrmqZ0hgAXk",  # 2017-02-12 Semiconductor Fabrication Basics - Home Chip Lab Tour
    "s1MCi7FliVY",  # 2017-02-13 Semiconductor Fabrication Basics - DIY Homemade NMOS FET/MOSFET/Transi
   ],
  ),
@@ -187,6 +188,12 @@ INVENTIONS = [
   desc="Bringing Moore’s Law to the garage with a DLP maskless photolithography stepper",
   videos=[
    "Nxz_ENnmgtI",  # 2020-06-18 Maskless Photolithography Stepper for Homemade Chips
+  ],
+ ),
+ dict(name="Etching Silicon with Plasma", kind="Build",
+  desc="Music is shanghai by king gizzard and the lizard wizard",
+  videos=[
+   "RoQgnC0Oz2k",  # 2021-06-27 Etching Silicon with Plasma - Reactive Ion Etching (RIE)
   ],
  ),
  dict(name="\"Z2\" - Upgraded Homemade Silicon Chips", kind="Build",

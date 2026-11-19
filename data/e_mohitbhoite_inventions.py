@@ -1,7 +1,7 @@
 """Curated inventions for Mohit Bhoite (@mohitbhoite).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'mohit-bhoite', 'name': 'Mohit Bhoite', 'person': 'Mohit Bhoite', 'tagline': 'Free-form circuit sculptures and gadgets.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -26,7 +26,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="Coin Dispenser", kind="Build",
-  desc="Coin Dispenser (Ideation 2).",
+  desc="This was part of my IPD 511 class (Creative Thinking & Functional Iteration in Design) .",
   videos=[
    "etZ7wwkVjNc",  # 2011-02-24 Coin Dispenser (Ideation 2)
    "uwsr4HMdi8c",  # 2011-02-24 Coin Dispenser (Ideation 1)
@@ -99,6 +99,12 @@ INVENTIONS = [
    "TpqhSoQkl1Y",  # 2015-08-04 SevenSeg
   ],
  ),
+ dict(name="MohitBhoite", kind="Build",
+  desc="MohitBhoite Live Stream.",
+  videos=[
+   "UtOGwiuXJeQ",  # 2016-10-12 MohitBhoite Live Stream
+  ],
+ ),
  dict(name="LED sand animation", kind="Build",
   desc="LED sand animation using Adafruit's M0 feather, CharlieWing, and ADXL362 accelerometer.",
   videos=[
@@ -145,6 +151,7 @@ INVENTIONS = [
   desc="LM3915 based VU Meter.",
   videos=[
    "L5AoaqwUZK0",  # 2018-12-04 LM3915 based VU Meter
+   "5r_m_ANgJXc",  # 2025-10-28 An ATtiny85 based VU meter #circuitsculpture #arduino #spaceexploratio
   ],
  ),
  dict(name="How to straighten a brass wire into a rod", kind="Build",
@@ -175,11 +182,6 @@ INVENTIONS = [
   desc="Experimenting with geared micro linear stepper motor.",
   videos=[
    "TMj_0AWkfXM",  # 2021-02-16 Experimenting with geared micro linear stepper motor
-  ],
- ),
- dict(name="Experiments with micro linear stepper motor", kind="Build",
-  desc="Running some basic tests on the micro linear stepper motor.",
-  videos=[
    "_-Au_sUVYPk",  # 2021-02-16 Experiments with micro linear stepper motor
   ],
  ),

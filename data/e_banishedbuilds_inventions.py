@@ -1,7 +1,7 @@
 """Curated inventions for Banished Builds (@banishedbuilds).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'banished-builds', 'name': 'Banished Builds', 'person': 'Banished Builds', 'tagline': 'Working replicas of sci-fi and historical props.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -16,18 +16,15 @@ INVENTIONS = [
  dict(name="Building my Carnage Peacekeeper", kind="Build",
   desc="In this video, I show how I built a Carnage themed Peacekeeper using 3D printing, painting, and other skills.",
   videos=[
+   "s1zOQIAiQNU",  # 2022-09-30 finished my Carnage Peacekeeper. build video will be posted in the nex
    "7KaKKkFnDWI",  # 2022-12-04 Building my Carnage Peacekeeper, Part 1
-  ],
- ),
- dict(name="Airsoft RE-45 built in under 24 hours! Bringing Apex Legends to life", kind="Build",
-  desc="I wanted to push myself to finish a project I've been putting off in under 24 hours.",
-  videos=[
-   "5Lhhaklk8RI",  # 2023-03-19 Airsoft RE-45 built in under 24 hours!   Bringing Apex Legends to life
+   "TZuMP2O3qYQ",  # 2026-10-21 Quick overview of my Carnage Peacekeeper! #apex #apexlegends #gaming #
   ],
  ),
  dict(name="Sentinel made for Airsoft! Bringing Apex Legends to life", kind="Build",
   desc="I turned one of my favorite guns, the Sentinel, from Apex Legends into an Airsoft gun!",
   videos=[
+   "5Lhhaklk8RI",  # 2023-03-19 Airsoft RE-45 built in under 24 hours!   Bringing Apex Legends to life
    "pt3w0zHzBC0",  # 2023-04-23 Sentinel made for Airsoft!   Bringing Apex Legends to life
   ],
  ),
@@ -53,6 +50,7 @@ INVENTIONS = [
   desc="In this video I designed and built a 1:1 scale paintball Kraber from Titanfall/Apex Legends!",
   videos=[
    "Czp--k7YJF0",  # 2023-12-19 Designing a full scale Paintball Kraber! | Bringing Apex Legends to li
+   "PFNOYzRxj-M",  # 2024-01-19 This thing turned out amazing! my 1:1 Scale paintball Kraber from #ape
   ],
  ),
  dict(name="How I painted my Paintball Kraber", kind="Build",
@@ -65,6 +63,7 @@ INVENTIONS = [
   desc="In this video, I share with you the G7 Scout build!",
   videos=[
    "ulBbepV58wE",  # 2024-12-03 The real life G7 Scout from Apex Legends!
+   "nQfYIxDk7_c",  # 2026-01-12 G7 Scout in real life? 👀 #apexlegends #apex #titanfall2 #gaming #pewpe
   ],
  ),
  dict(name="Using the Paintball Kraber, The Worlds Largest Paintball Sniper", kind="Build",
@@ -77,6 +76,7 @@ INVENTIONS = [
   desc="I've absolutely loved the Elegoo Centauri Carbon 3D printer so far, and wanted to give my thoughts for beginner users.",
   videos=[
    "q6KSxXXnNuY",  # 2025-11-26 The Elegoo Centauri Carbon: The Best 3D printer for beginners on a bud
+   "t7rHmxnGyns",  # 2025-11-26 The Elegoo Centauri Carbon, my number one recommendation! #3dprint #3d
   ],
  ),
  dict(name="Choosing lights for your cosplay and props", kind="Build",

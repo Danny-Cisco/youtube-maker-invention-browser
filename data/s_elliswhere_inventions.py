@@ -1,22 +1,17 @@
 """Curated inventions for Ellis Ware (@elliswhere).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'ellis-ware', 'name': 'Ellis Ware', 'person': 'Ellis Ware', 'tagline': 'Robotics, design and 3D-printed engineering experiments.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Giant Lego Christmas Tree", kind="Build",
-  desc="FULL VIDEO now up on my channel!",
-  videos=[
-   "8VyWQj-4mGw",  # 2024-12-07 Giant Lego (inspired) Christmas Tree
-   "oDUkaDJje3o",  # 2024-12-08 Giant Lego Christmas Tree (fully 3D printed)
-  ],
- ),
  dict(name="Making a Giant Lego Inspired Christmas Tree", kind="Build",
   desc="This is my first video, and what a monster.",
   videos=[
+   "8VyWQj-4mGw",  # 2024-12-07 Giant Lego (inspired) Christmas Tree
+   "oDUkaDJje3o",  # 2024-12-08 Giant Lego Christmas Tree (fully 3D printed)
    "G3WCXHcAFsU",  # 2024-12-15 Making a Giant Lego Inspired Christmas Tree
   ],
  ),
@@ -26,7 +21,7 @@ INVENTIONS = [
    "QsQHqSSQFWs",  # 2024-12-17 Dry hands are my instrument
   ],
  ),
- dict(name="Giant \"Brick\" Christmas STLs", kind="Build",
+ dict(name="Giant \"Brick\" Christmas STLs #3dprinting", kind="Build",
   desc="Giant \"Brick\" Christmas STLs #3dprinting #bambu.",
   videos=[
    "qIrcBk-t5nc",  # 2024-12-20 Giant "Brick" Christmas STLs #3dprinting #bambu
@@ -38,7 +33,7 @@ INVENTIONS = [
    "BDHyvmcGeEY",  # 2024-12-24 Building Mini Battle Robots in Time for Christmas
   ],
  ),
- dict(name="The nation's favourite toy since 1954", kind="Build",
+ dict(name="The nation's favourite toy since 1954! #3dprinting", kind="Build",
   desc="The nation's favourite toy since 1954! #3dprinting #toys #shorts.",
   videos=[
    "WW1x85EtIRU",  # 2024-12-31 The nation's favourite toy since 1954! #3dprinting #toys #shorts
@@ -60,11 +55,6 @@ INVENTIONS = [
   desc="Building a tiny fighting robot.",
   videos=[
    "caA_zIUIA7w",  # 2026-02-14 Building a tiny fighting robot
-  ],
- ),
- dict(name="The tiny fighting robot is now lethal", kind="Build",
-  desc="The tiny fighting robot is now lethal!.",
-  videos=[
    "jfM_uPluaVA",  # 2026-02-18 The tiny fighting robot is now lethal!
   ],
  ),

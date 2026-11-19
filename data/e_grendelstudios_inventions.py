@@ -1,7 +1,7 @@
 """Curated inventions for Grendel Studios (@grendelstudios).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'grendel-studios', 'name': 'Grendel Studios', 'person': 'Grendel Studios', 'tagline': 'Cosplay props with built-in effects, like a banjo with a fog machine inside.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -41,6 +41,7 @@ INVENTIONS = [
   desc="Exhibiting this year at Opensauce 2024 and showcasing some of my animatronics.",
   videos=[
    "8nCx_z89NIM",  # 2024-07-10 Opensauce 2024: Animatronic Gargoyle Mask
+   "tX1zQR_7fzM",  # 2026-08-03 Opensauce 2026 with Grendel Studios!
   ],
  ),
  dict(name="Building 10ft-Tall Animatronic Monster; Halloween 2024", kind="Build",
@@ -53,12 +54,6 @@ INVENTIONS = [
   desc="This time, I tried making a movie prop replica from the Pirates of the Caribbean Movies: The Dead Man's Chest.",
   videos=[
    "QLLTDGqp-AM",  # 2025-09-23 This Chest Contains the Beating Heart of Davy Jones
-  ],
- ),
- dict(name="Opensauce 2026 with Grendel Studios", kind="Build",
-  desc="This is a showcase of our time at Opensauce 2026.",
-  videos=[
-   "tX1zQR_7fzM",  # 2026-08-03 Opensauce 2026 with Grendel Studios!
   ],
  ),
  dict(name="Sinners Remmick Cosplay", kind="Build",

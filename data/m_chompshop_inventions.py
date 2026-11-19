@@ -1,7 +1,7 @@
 """Curated inventions for Chomp Shop (@chompshop).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'chomp-shop', 'name': 'Chomp Shop', 'person': 'Chomp Shop', 'tagline': 'Cardboard builds and easy DIY.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -11,6 +11,7 @@ INVENTIONS = [
   desc="We are launching on Kickstarter on September 28th at 1 PM!",
   videos=[
    "UwiyGFLXEc8",  # 2023-09-21 ChompSaw: A kid-safe power tool for cutting cardboard!
+   "v2_1bGShf44",  # 2024-06-30 Honored to have @jimmydiresta use our kid-safe cardboard cutting power
   ],
  ),
  dict(name="Pen Ryn School ChompSaw Testimonial", kind="Build",
@@ -65,12 +66,23 @@ INVENTIONS = [
   desc="Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!.",
   videos=[
    "XKYMsQw4qEU",  # 2025-04-11 Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!
+   "fSUWxhZWgHk",  # 2025-04-22 Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!
   ],
  ),
  dict(name="Cardboard Puppet Heads with Sam Wilde", kind="Build",
   desc="Cardboard Puppet Heads with Sam Wilde!.",
   videos=[
    "W4cI_ttjNQY",  # 2025-05-09 Cardboard Puppet Heads with Sam Wilde!
+   "eGwK7D0hn38",  # 2025-05-09 The Wilde Puppet!
+  ],
+ ),
+ dict(name="Real Tools for Young Inventors", kind="Build",
+  desc="Real Tools for Young Inventors.",
+  videos=[
+   "ZECgSMuCatw",  # 2025-05-14 The ChompSaw is real power tool for young inventors! 📦🪚
+   "UGjHaxLtlfA",  # 2026-02-06 Real Tools for Young Inventors
+   "DIpy831owwY",  # 2026-02-06 Real Tools for Young Inventors
+   "aGSIYpl7m5U",  # 2026-03-30 Real Tools for Young Inventors 📦🪚
   ],
  ),
  dict(name="Cardboard Graduation Cap Project", kind="Build",
@@ -89,6 +101,7 @@ INVENTIONS = [
   desc="Build Your Own Solar Oven From Cardboard!.",
   videos=[
    "N9wrAWf0RbA",  # 2025-08-29 Build Your Own Solar Oven From Cardboard!
+   "bgwuDdHmD6A",  # 2025-08-30 Make a Cardboard Solar Oven!
   ],
  ),
  dict(name="Chompshop: 12-Day Advent Calendar Project", kind="Build",
@@ -101,12 +114,6 @@ INVENTIONS = [
   desc="Each month, we’ll send a project pack straight to your door with printed patterns you can glue onto cardboard and cut out, all the materials needed for that month’s build (rubber bands, double-sided tape, fasteners, n…",
   videos=[
    "N_viOYDovYs",  # 2026-01-21 The Inventor’s Club: A Monthly Cardboard Project Subscription from Cho
-  ],
- ),
- dict(name="Real Tools for Young Inventors", kind="Build",
-  desc="Real Tools for Young Inventors.",
-  videos=[
-   "UGjHaxLtlfA",  # 2026-02-06 Real Tools for Young Inventors
   ],
  ),
  dict(name="Valentine's Day Postbox Project", kind="Build",
@@ -126,6 +133,7 @@ INVENTIONS = [
   desc="Made for little hands and BIG imaginations!",
   videos=[
    "DAwcxYNAXTs",  # 2026-08-26 Introducing The Explorer's Club - A DIY Subscription of Cardboard Proj
+   "u8QqjWwh9VA",  # 2026-08-26 The Explorer's Club: For Kids Who Love To Build!
   ],
  ),
  dict(name="Chompshop Halloween Project", kind="Build",

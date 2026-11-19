@@ -1,46 +1,31 @@
 """Curated inventions for Hench & Scrap (@henchandscrap).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'hench-and-scrap', 'name': 'Hench & Scrap', 'person': 'Hench & Scrap', 'tagline': 'Aussie nerds making props and cosplay from video games.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Hench & Scrap build the Shadowlands -, Kyrian Mace", kind="Build",
+  desc="We've been working in collaboration with Blizzard on a series of prop builds as part of the lead up to the release of the upcoming Shadowlands expansion for World of Warcraft!",
+  videos=[
+   "H6UDajwy3fk",  # 2020-11-02 Hench & Scrap build the Shadowlands - Part 1, Kyrian Mace
+   "0mFJGL6jE4s",  # 2020-11-09 Hench & Scrap build the Shadowlands - Part 2, Necrolords Staff
+   "aeV-jWC09vo",  # 2020-11-16 Hench & Scrap build the Shadowlands - Part 3, Venthyr sword and shield
+   "EGovjMxwR64",  # 2020-11-23 Hench & Scrap build the Shadowlands - Part 4, Night Fae Bow
+  ],
+ ),
  dict(name="Crash Bandicoot 4", kind="Build",
   desc="To celebrate the launch of Crash Bandicoot 4, we created a set of Quantum Masks!",
   videos=[
    "Bv8ikCORLpc",  # 2020-11-02 Crash Bandicoot 4 - building the Quantum Masks
   ],
  ),
- dict(name="Hench & Scrap build the Shadowlands -, Kyrian Mace", kind="Build",
-  desc="We've been working in collaboration with Blizzard on a series of prop builds as part of the lead up to the release of the upcoming Shadowlands expansion for World of Warcraft!",
-  videos=[
-   "H6UDajwy3fk",  # 2020-11-02 Hench & Scrap build the Shadowlands - Part 1, Kyrian Mace
-  ],
- ),
  dict(name="Hench & Scrap Foundry", kind="Build",
   desc="For the Starcraft Anniversary, we were tasked to produce a short run of Starcraft Zealot Psi-blades for giveaways and display in Blizzard offices around the globe.",
   videos=[
    "IxMkDVoxG0w",  # 2020-11-02 Hench & Scrap Foundry - Starcraft Anniversary Zealot Psi-blades
-  ],
- ),
- dict(name="Hench & Scrap build the Shadowlands -, Necrolords Staff", kind="Build",
-  desc="Part 2 of our World of Warcraft: Shadowlands collaboration with Blizzard ANZ, where we selected a prop to build from each of the four covenants of the Shadowlands!",
-  videos=[
-   "0mFJGL6jE4s",  # 2020-11-09 Hench & Scrap build the Shadowlands - Part 2, Necrolords Staff
-  ],
- ),
- dict(name="Hench & Scrap build the Shadowlands -, Venthyr sword and shield", kind="Build",
-  desc="Part 3 of our World of Warcraft: Shadowlands collaboration with Blizzard ANZ, where we selected a prop to build from each of the four covenants of the Shadowlands!",
-  videos=[
-   "aeV-jWC09vo",  # 2020-11-16 Hench & Scrap build the Shadowlands - Part 3, Venthyr sword and shield
-  ],
- ),
- dict(name="Hench & Scrap build the Shadowlands -, Night Fae Bow", kind="Build",
-  desc="Part 4 of our World of Warcraft: Shadowlands collaboration with Blizzard ANZ, where we selected a prop to build from each of the four covenants of the Shadowlands!",
-  videos=[
-   "EGovjMxwR64",  # 2020-11-23 Hench & Scrap build the Shadowlands - Part 4, Night Fae Bow
   ],
  ),
  dict(name="Making of: Ask an Old God", kind="Build",
@@ -83,6 +68,7 @@ INVENTIONS = [
   desc="For Bethesda ANZ's Bethesda Holiday Special, we were asked to bring the Sanguine Rose - one of the more iconic staves from Skyrim - to life, in meticulous detail!",
   videos=[
    "Al8Pvh7d46g",  # 2021-12-17 Crafting Skyrim's Sanguine Rose for Bethesda
+   "D_qYCvGOAZs",  # 2024-09-25 The Sanguine Rose - Skyrim staff made for Bethesda
   ],
  ),
  dict(name="Hench & Scrap Foundry 2021 retrospective", kind="Build",
@@ -95,6 +81,7 @@ INVENTIONS = [
   desc="In celebration of the release of Wrath of the Lich King classic, Blizzard gave us the once in a lifetime opportunity to build a full Lich King cosplay, complete with Frostmourne and the Helm of Domination.",
   videos=[
    "XsrqgcTKtcI",  # 2022-10-15 We cosplayed the Lich King for Blizzard!
+   "JJXNkbrMdhE",  # 2022-10-17 We Made The Lich King for Blizzard (Highlights)
   ],
  ),
  dict(name="Bringing Dragonflight's Whelplings to life", kind="Build",
@@ -154,6 +141,7 @@ INVENTIONS = [
  dict(name="We built a MASSIVE Warframe Krubie puppet", kind="Build",
   desc="We're so, so excited to finally show you our full size Krubie puppet from Warframe, in all its ridiculous splendour!",
   videos=[
+   "FbWa3pzPYjE",  # 2025-06-17 How we made our cable controlled Warframe Krubie puppet head for Tenno
    "7XK_SPOHFPU",  # 2025-08-01 We built a MASSIVE Warframe Krubie puppet!
   ],
  ),

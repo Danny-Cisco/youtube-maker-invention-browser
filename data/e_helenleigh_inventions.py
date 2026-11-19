@@ -1,7 +1,7 @@
 """Curated inventions for Helen Leigh (@helenleigh).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'helen-leigh', 'name': 'Helen Leigh', 'person': 'Helen Leigh', 'tagline': 'Music hacking and soft circuits, like a tentacle that purrs.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -60,6 +60,18 @@ INVENTIONS = [
   desc="I made a herd of very unreliable, very cute Robot Unicorns that you control with gestures.",
   videos=[
    "qAakgfNouOI",  # 2019-06-06 Code your gesture controlled robot unicorn
+  ],
+ ),
+ dict(name="My favourite technologies to teach with", kind="Build",
+  desc="For Make Magazine's Maker Education teacher workshop at Makerfaire.",
+  videos=[
+   "fl8L-_I5Lm0",  # 2019-08-11 My favourite technologies to teach with
+  ],
+ ),
+ dict(name="Music hacking & soft electronics! Short talk at Raspberry Pint about s", kind="Build",
+  desc="Just me, chatting about some of the noisy squishy things I've made in the last year or so.",
+  videos=[
+   "aGDYuqumycA",  # 2020-05-04 Music hacking & soft electronics! Short talk at Raspberry Pint about s
   ],
  ),
  dict(name="I made a soft, cuddly tentacle that purrs when you stroke it", kind="Build",

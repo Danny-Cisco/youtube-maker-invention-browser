@@ -1,7 +1,7 @@
 """Curated inventions for Sam Machin (@sammachin).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'sam-machin', 'name': 'Sam Machin', 'person': 'Sam Machin', 'tagline': 'EMF badge hacks, speech-to-matter and other experiments.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -31,10 +31,28 @@ INVENTIONS = [
    "838V259GREI",  # 2014-04-21 Twilo and Sonos hack
   ],
  ),
+ dict(name="3D Led Cube", kind="Build",
+  desc="3D Led Cube.",
+  videos=[
+   "fQfXIeMUpaA",  # 2014-08-04 3D Led Cube
+  ],
+ ),
  dict(name="IndieTalk Demo", kind="Build",
   desc="Demo video of browser to browser calling on your own site using indieAuth for Identity and WebRTC for voice transport.",
   videos=[
    "9cUgyVqLMko",  # 2014-09-11 indieTalk Demo
+  ],
+ ),
+ dict(name="RTCChat", kind="Build",
+  desc="Demo of RTC DataChannel with a 'Bring your own signalling' client",
+  videos=[
+   "TWl08wI_eb8",  # 2015-02-16 RTCChat
+  ],
+ ),
+ dict(name="Rtcchatsms", kind="Build",
+  desc="rtcchatsms.",
+  videos=[
+   "88MQfHZvQj8",  # 2015-02-16 rtcchatsms
   ],
  ),
  dict(name="SMS List Sheet", kind="Build",
@@ -43,10 +61,22 @@ INVENTIONS = [
    "FGTZEdLs3Bk",  # 2015-05-05 SMS List Sheet
   ],
  ),
+ dict(name="Webdial", kind="Build",
+  desc="webdial.",
+  videos=[
+   "IgWu9QnCe3Q",  # 2015-07-31 webdial
+  ],
+ ),
  dict(name="Alexa Web", kind="Build",
   desc="Alexa Web.",
   videos=[
    "zSUXjpljM84",  # 2015-12-17 Alexa Web
+  ],
+ ),
+ dict(name="Amazon Voice Remote with Nexus 6", kind="Build",
+  desc="Amazon Voice Remote with Nexus 6.",
+  videos=[
+   "w3xzjgrI93c",  # 2015-12-19 Amazon Voice Remote with Nexus 6
   ],
  ),
  dict(name="The $10* Echo**", kind="Build",
@@ -55,10 +85,17 @@ INVENTIONS = [
    "Z1HGJyfoUBE",  # 2016-01-03 The $10* Echo**
   ],
  ),
+ dict(name="BATTLEHACK LONDON 2015 Team @Risk Demo", kind="Build",
+  desc="Our winning entry to BattleHack London 2015",
+  videos=[
+   "ZDVn2W71mco",  # 2016-01-21 BATTLEHACK LONDON 2015 Team @Risk Demo
+  ],
+ ),
  dict(name="AlexaPi", kind="Build",
   desc="An updated demo of my AlexaPi project this ones in a nice case and has music working.",
   videos=[
    "cbJqs2IMbcQ",  # 2016-06-21 AlexaPi
+   "wpkjoHZHxnM",  # 2017-03-06 AlexaPi Streaming (300k upload)
   ],
  ),
  dict(name="Alexa multi device detection", kind="Build",
@@ -67,13 +104,7 @@ INVENTIONS = [
    "Owf6_DsWg6E",  # 2016-10-13 Alexa multi device detection
   ],
  ),
- dict(name="AlexaPi Streaming", kind="Build",
-  desc="AlexaPi Streaming (300k upload).",
-  videos=[
-   "wpkjoHZHxnM",  # 2017-03-06 AlexaPi Streaming (300k upload)
-  ],
- ),
- dict(name="Alexa Pi Streaming", kind="Build",
+ dict(name="Alexa Pi", kind="Build",
   desc="Alexa Pi Streaming (64k upload).",
   videos=[
    "0vuD8kO9kFM",  # 2017-03-06 Alexa Pi Streaming (64k upload)
@@ -83,6 +114,18 @@ INVENTIONS = [
   desc="Google Home meet Alexa.",
   videos=[
    "JyTuC5XQ-OI",  # 2017-04-07 Google Home meet Alexa
+  ],
+ ),
+ dict(name="Nexmo Workshop", kind="Build",
+  desc="Nexmo Workshop.",
+  videos=[
+   "wPegdujR1Qc",  # 2017-04-29 Nexmo Workshop
+  ],
+ ),
+ dict(name="Lurcher Paddling", kind="Build",
+  desc="Got the boys a pool, they seem to like it.",
+  videos=[
+   "gGN0SrHoOv4",  # 2017-06-17 Lurcher Paddling
   ],
  ),
  dict(name="CameraPi on the Echo Show", kind="Build",
@@ -139,6 +182,12 @@ INVENTIONS = [
    "tls0CXa87lc",  # 2021-05-06 JSON URL
   ],
  ),
+ dict(name="TADHack 2021 Jambonz", kind="Build",
+  desc="My implementation of a moderated conf call using NodeRED and the Jambonz platform",
+  videos=[
+   "ws6_FunNy18",  # 2021-09-26 TADHack 2021 Jambonz
+  ],
+ ),
  dict(name="Alexa in the Node-RED Dashboard", kind="Build",
   desc="Alexa in the Node-RED Dashboard.",
   videos=[
@@ -185,6 +234,12 @@ INVENTIONS = [
   desc="Transmitting phone app alerts (SMS, Signal anything) to a Flex pager using a SenseCap T1000E hardware",
   videos=[
    "bnzopw1mBpU",  # 2026-03-04 Notification to Pager
+  ],
+ ),
+ dict(name="EBay Blocker Plugin", kind="Build",
+  desc="Quick browser plugin to hide the enshittification that is eBay live all over the homepage.",
+  videos=[
+   "oH0D3I6b_Z8",  # 2026-03-27 eBay Live Blocker Plugin
   ],
  ),
  dict(name="Motorola PMR2000 Pager", kind="Build",

@@ -1,9 +1,6 @@
-"""Curated builds for Jeff Geerling (@jeffgeerling). A tech-review channel; only his own builds and projects are listed.
-kind: Cluster | Storage | Network | Media
+"""Curated inventions for Jeff Geerling.
 
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+Livestreams and series videos attached by build/attach_unassigned.py."""
 
 CREATOR = {'slug': 'jeff-geerling', 'name': 'Jeff Geerling', 'person': 'Jeff Geerling', 'tagline': 'Raspberry Pi clusters, petabyte NAS boxes and a mini rack homelab.', 'other_label': 'Other uploads: reviews, tutorials, news and Ansible lessons'}
 
@@ -119,6 +116,27 @@ INVENTIONS = [
   desc="Controlling any computer with Pi KVMs.",
   videos=[
    "TIrkEr2AeDY",  # 2021-09-22 Control ANY COMPUTER with these Pi KVMs!
+  ],
+ ),
+ dict(name="Drupal 7 to 8 Migration", kind="Build",
+  desc="In this inaugural livestream, I set up a new Drupal project and Git repository for JeffGeerling.com, and show you how I set up a simple local development environment using Docker.",
+  videos=[
+   "EyI_OwhufNk",  # 2020-02-04 Drupal 7 to 8 LIVE Migration - Ep 1 - Set up Drupal codebase, git repo
+   "yS1qIcpWZZI",  # 2020-02-11 Drupal 7 to 8 LIVE Migration - Ep 2 - Adding modules with Composer, be
+   "lP7RHTu7K0k",  # 2020-02-18 Drupal 7 to 8 LIVE Migration - Ep 3 - Migrating with Drush, exporting 
+   "dE7IksPs9EY",  # 2020-02-25 Drupal 7 to 8 LIVE Migration - Ep 4 - GitHub Actions and Outage, Migra
+   "PMFSv5B4Z20",  # 2020-03-03 Drupal 7 to 8 LIVE Migration - Ep 5 - GitHub Actions CI and migration 
+   "o-LmI6PVKHc",  # 2020-03-10 Drupal 7 to 8 LIVE Migration - Ep 6 - Claro admin theme, Admin toolbar
+   "T7gSB9as6DM",  # 2020-03-17 Drupal 7 to 8 LIVE Migration - Ep 7 - Local dev environment comparison
+   "v7S0BB6V7eA",  # 2020-03-24 Drupal 7 to 8 LIVE Migration - Ep 8 - Blog view migration and theming
+   "VwFMx8vm8Rs",  # 2020-03-31 Drupal 7 to 8 LIVE Migration - Ep 9 - Upgrade Drupal with Composer and
+   "pX_5k0mO3sU",  # 2020-04-07 Drupal 7 to 8 LIVE Migration - Ep 10 - Project view and home page migr
+   "Le82L7EAcaY",  # 2020-04-14 Drupal 7 to 8 LIVE Migration - Ep 11 - Migrating redirects
+   "Ql_-krnxv3U",  # 2020-04-21 Drupal 7 to 8 LIVE Migration - Ep 12 - Pathauto and redirect SEO migra
+   "-FC68Sds-TE",  # 2020-04-28 Drupal 7 to 8 LIVE Migration - Ep 13 - Config Split and Solr Search
+   "gjNxY_5q7Xc",  # 2020-05-05 Drupal 7 to 8 LIVE Migration - Ep 14 - Dark Mode and Accessibility
+   "SxR4N9inlYA",  # 2020-05-12 Drupal 7 to 8 LIVE Migration - Ep 15 - Prepping for Go-Live!
+   "4ehIIFGtMRg",  # 2020-05-19 Drupal 7 to 8 LIVE Migration - Ep 16 - TODAY IS THE DAY!
   ],
  ),
 ]

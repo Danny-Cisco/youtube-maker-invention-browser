@@ -268,6 +268,9 @@ INVENTIONS = [
  dict(name="Marble Machine 3", kind="Instrument",
   desc="The third Marble Machine (2023 on): flywheel prototypes, the holy-grail marble divider, giant plywood gears and production CAD.",
   videos=[
+   "b01MUffzMQ8",  # 2026-04-21 9:16 Stream: Vibraphone Holders Part 3 | Marble Machine Live
+   "jOYu4zZLELk",  # 2026-04-22 9:16 Vertical Stream: Vibraphone Holders Part 4 | Marble Machine Live
+   "fqkVZue6eaM",  # 2026-04-28 Vertical Stream: Vibraphone Pivot Arm Experiments | Marble Machine Liv
    "1FFTaI__l_A",  # 2023-01-04 A New Music Programming Pin
    "AEbqvrLkvbA",  # 2023-01-11 A New Music Programming Wheel
    "RGh8XVB8y9k",  # 2023-01-25 A New Music Reader For Marble Machine 3

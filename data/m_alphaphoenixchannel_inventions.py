@@ -1,16 +1,136 @@
 """Curated inventions for AlphaPhoenix (@alphaphoenixchannel).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'alphaphoenix', 'name': 'AlphaPhoenix', 'person': 'AlphaPhoenix', 'tagline': 'Physics experiments and homemade high-speed cameras.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Magnetic Levitator", kind="Build",
+  desc="How a photogate-based magnetic levitator works and how to build one!",
+  videos=[
+   "72WDH7B7_I4",  # 2013-08-06 Magnetic Levitator
+  ],
+ ),
+ dict(name="DIY Fire Tornado", kind="Build",
+  desc="How to build a fire tornado machine with no moving parts or screens!",
+  videos=[
+   "tuIokrTZdSU",  # 2014-05-26 DIY Fire Tornado (the original no-moving-parts design!)
+   "uNo2lp12Qxk",  # 2014-07-06 Build a Fire Tornado from cardboard in 30 minutes!
+  ],
+ ),
+ dict(name="The $5 PVC DIY Sled", kind="Build",
+  desc="On a snow day at NCSU, I built a sled out of PVC I had laying around for another project.",
+  videos=[
+   "q8iYxSs6N-w",  # 2015-03-14 The $5 PVC DIY Sled
+  ],
+ ),
+ dict(name="Doggie Doorbell", kind="Build",
+  desc="A foot-pedal buzzer for our dog Bailey.",
+  videos=[
+   "zaMg15CZXug",  # 2016-01-22 Doggie Doorbell
+   "5PZuWLUlaog",  # 2016-01-22 Doggie Doorbell (circuit)
+  ],
+ ),
+ dict(name="Thermite Art", kind="Build",
+  desc="Using physics and chemistry to make art!",
+  videos=[
+   "KkVMbAWKsbQ",  # 2016-05-15 Thermite Art
+   "g4YkJXWQ92I",  # 2016-06-07 Thermite Art (#2)
+  ],
+ ),
+ dict(name="3D Printed, Lasercut, 555-based Useless Machine", kind="Build",
+  desc="My Useless Machine is Hitchiker's Guide themed, Made of lasercut and 3D printed parts, and it contains no microcontroller.",
+  videos=[
+   "6Scni4y7Ys8",  # 2016-06-24 Useless Machine (pt. 2: How it works)
+   "Zd_DHMEkwUA",  # 2016-06-24 3D Printed, Lasercut, 555-based Useless Machine
+  ],
+ ),
+ dict(name="Settlers of Catan", kind="Build",
+  desc="This Settlers of Catan board shocks you when you take a slow turn!",
+  videos=[
+   "RGm3B0_0HeM",  # 2016-07-05 Settlers of Catan: Electroshock Therapy Expansion
+  ],
+ ),
+ dict(name="The Wilhelm Scream", kind="Build",
+  desc="This is my incarnation of Wilhelm - and he does nothing but scream when he falls.",
+  videos=[
+   "9Gl989nb1Jc",  # 2016-07-26 The Wilhelm Scream (robot)
+  ],
+ ),
+ dict(name="RainPi - Calculate Pi with Raindrops", kind="Build",
+  desc="Calculating Pi with the Monte Carlo Method is a common introductory programming exercise, but I wanted to get away from computer-generated \"random\" numbers and used falling raindrops!",
+  videos=[
+   "akmFVxh1ZPQ",  # 2016-08-23 RainPi - Calculating Pi with Raindrops! (Part 2: How it Works)
+   "I-BC_vI4CAE",  # 2016-08-23 RainPi - Calculate Pi with Raindrops!
+  ],
+ ),
+ dict(name="Cannon Parabolas", kind="Build",
+  desc="I've made a few potato cannons over the years, and in this video I fire my favorite ammunition, VHS tape.",
+  videos=[
+   "ZNFNdvU0mDc",  # 2016-09-20 Cannon Parabolas
+  ],
+ ),
+ dict(name="The 24-hr \"Polaris-Lapse\"", kind="Build",
+  desc="I Found an Answer by Twin Musicom is licensed under a Creative Commons Attribution license",
+  videos=[
+   "JBizFlGmLPM",  # 2016-11-12 The Polaris-Lapse part 3: The Photography
+   "BBU4mQP1Y3Y",  # 2016-11-12 The Polaris-Lapse part 2: The Astronomy
+   "NpI4WQCTe8U",  # 2016-11-12 The 24-hr "Polaris-Lapse"
+  ],
+ ),
+ dict(name="The Infinite Polaris Timelapse", kind="Build",
+  desc="The stars in the sky appear to move in arcs overhead, but it's actually the Earth that is spinning.",
+  videos=[
+   "btQFD3_TLAE",  # 2017-01-04 The Infinite Polaris Timelapse - Spinning (4k)
+   "LTfSu60TnMY",  # 2017-01-04 The Infinite Polaris Timelapse - Static (4k)
+  ],
+ ),
+ dict(name="Star-Stabilization", kind="Build",
+  desc="The stars in the sky appear to move in arcs overhead, but it's actually the Earth that is spinning.",
+  videos=[
+   "SYcKaBzr87g",  # 2017-01-04 Star-Stabilization: The Infinite Polaris Timelapse (4k)
+  ],
+ ),
+ dict(name="2^11 Subscriber Play Button", kind="Build",
+  desc="Stay with You by Silent Partner is licensed under a Creative Commons license",
+  videos=[
+   "__esCNRIFFI",  # 2017-02-23 2^10 Subscriber Play Button - 3D printed PLA
+   "0q76GMg6dDg",  # 2018-11-30 2^11 Subscriber Play Button: CNC-Routed Poplar
+  ],
+ ),
+ dict(name="Star-tracking camera mount", kind="Build",
+  desc="In this video, I explain (using a bunch of timelapses) why \"polar tracker\" or \"star tracker\" camera mounts allow you to take long exposures of the sky without streaking.",
+  videos=[
+   "vg3a0I0duMI",  # 2017-05-14 Star-tracking camera mount: Why it works and how to build one
+  ],
+ ),
  dict(name="Metal Butter Bot IRL", kind="Build",
   desc="The big reveal of my Butter Bot, in my take on the original scene from Rick and Morty.",
   videos=[
+   "3PpORrycZG8",  # 2017-07-13 Rick and Morty Butter Bot machined from metal
    "MByi1te9L8U",  # 2017-07-19 Metal Butter Bot IRL (Stop Motion)
+  ],
+ ),
+ dict(name="Inside Grande Pines Observatory", kind="Build",
+  desc="A look inside Grande Pines Observatory!",
+  videos=[
+   "WimDiqq5Iqk",  # 2017-10-01 Asteroid Hunting at Grande Pines Observatory (3122 Florence)
+   "j1llWnhX1-c",  # 2017-10-01 Inside Grande Pines Observatory: Top-of-the-line amateur astronomy
+  ],
+ ),
+ dict(name="Supermoon Tides", kind="Build",
+  desc="Supermoon Tides: a 24 hour timelapse (4k).",
+  videos=[
+   "WrfNfsOEAdg",  # 2017-12-10 Supermoon Tides: a 24 hour timelapse (4k)
+  ],
+ ),
+ dict(name="24-hr Timelapse", kind="Build",
+  desc="Another looping 24-hr timelapse, and my first timelapse to ever include the WHOLE sky in the frame!",
+  videos=[
+   "RswhLz9TuPE",  # 2018-01-21 24-hr Timelapse: Full Moon at the Winter Solstice (VR Cut)
+   "4c1VRMUBh_4",  # 2018-01-21 24-hr Timelapse: Full Moon at the Winter Solstice
   ],
  ),
  dict(name="Measuring the speed of light the old fashioned way", kind="Build",
@@ -19,15 +139,41 @@ INVENTIONS = [
    "YMO9uUsjXaI",  # 2018-05-26 Measuring the speed of light the old fashioned way: Replicating the Fi
   ],
  ),
+ dict(name="Staring at the sky for 24 hours", kind="Build",
+  desc="I like to think of this as the whole sky always being \"there\", but if we look straight \"up\", we're always pointed towards a different part of same sky.",
+  videos=[
+   "VGAkMqM5fnI",  # 2018-12-02 Staring at the sky for 24 hours (4k/Virtual Reality timelapse)
+   "gfSRGHrsYKU",  # 2018-12-02 Staring at the sky for 24 hours (4k timelapse)
+  ],
+ ),
+ dict(name="Star-Stabilizing the Entire Sky", kind="Build",
+  desc="I like to think of this as the whole sky always being \"there\", but the Earth blocks about half of it ALL THE TIME!",
+  videos=[
+   "JmCNNHQ86NE",  # 2018-12-02 Star-Stabilizing the Entire Sky (spherical distortion)
+  ],
+ ),
+ dict(name="A Tiny Planet in the Cosmos", kind="Build",
+  desc="This video featured as an Astronomy Picture of the Day!",
+  videos=[
+   "14TrSQQsrNM",  # 2018-12-08 A Tiny Planet in the Cosmos: APOD 20181208
+  ],
+ ),
  dict(name="Crystals: Building patterns with randomness", kind="Build",
   desc="Crystals are materials that have all their atoms assembled in a precise, repeating pattern, and crystalline materials are everywhere.",
   videos=[
    "06TscuHNvGQ",  # 2018-12-14 Crystals: Building patterns with randomness
   ],
  ),
+ dict(name="Overnight timelapse on a deserted island", kind="Build",
+  desc="Ever wish you could extract one day of nature from the world and play that frame on a loop?",
+  videos=[
+   "1YorUDE0f9g",  # 2019-04-19 Overnight timelapse on a deserted island: full equipment stack
+  ],
+ ),
  dict(name="Boil Water at Room Temperature with 50 ft. of Hose and a Stairway", kind="Build",
   desc="This was a fun quick experiment that makes a great physics demo about pressures and state-changes of matter.",
   videos=[
+   "yYBQHFCqw_A",  # 2019-07-23 How to Boil Water With Water (pt. 2: experiment setup)
    "hHNoHhbfFDQ",  # 2019-07-23 Boil Water at Room Temperature with 50 ft. of Hose and a Stairway
   ],
  ),
@@ -49,6 +195,12 @@ INVENTIONS = [
    "TOpBcfbAgPg",  # 2020-02-17 How to Win Snake: The UNKILLABLE Snake AI
   ],
  ),
+ dict(name="The UNKILLABLE Snake AI", kind="Build",
+  desc="If you're anything like me, you'll love zoning out watching a computer play a very basic computer game for hours on end.",
+  videos=[
+   "YqL7bl3I5IE",  # 2020-02-17 The UNKILLABLE Snake AI (Entire 30x30 game)
+  ],
+ ),
  dict(name="Air-tight vs. Vacuum-tight", kind="Build",
   desc="When I'm not making YouTube videos, I'm growing crystals in a Molecular Beam Epitaxy vacuum chamber held about 12 orders of magnitude below atmospheric pressure.",
   videos=[
@@ -67,10 +219,22 @@ INVENTIONS = [
    "exRgzJaB3D4",  # 2020-05-28 Why does smoke from a soldering iron ALWAYS go towards your face???
   ],
  ),
+ dict(name="SpaceX's Starlink, satellite flares, and spectacular twilight rocket p", kind="Build",
+  desc="If you follow as much space news as I do, you've probably heard of Starlink, the low-earth-orbit satellite-internet megaconstellation of 12,000-40,000 satellites that theoretically will be able to provide global high …",
+  videos=[
+   "aWpeN3cU17Q",  # 2020-07-06 SpaceX's Starlink, satellite flares, and spectacular twilight rocket p
+  ],
+ ),
  dict(name="Why are metals so stretchy", kind="Build",
   desc="It's play button time, and today it's made from copper foil - a surprisingly stretchable material.",
   videos=[
    "sn1Y6zIS91g",  # 2020-08-18 Why are metals so stretchy? (2^13 sub special)
+  ],
+ ),
+ dict(name="Some REAL science for the channel! Growing semiconducting PbSe crystal", kind="Build",
+  desc="I've posted a few videos about awesome equipment I get to use in the lab (and plan to post many more because big fancy machines are awesome) but I haven't actually explained any of my research on the channel!",
+  videos=[
+   "UeZVD94oC6Y",  # 2020-10-29 Some REAL science for the channel! Growing semiconducting PbSe crystal
   ],
  ),
  dict(name="The Sound of Freezing", kind="Build",
@@ -78,6 +242,25 @@ INVENTIONS = [
   videos=[
    "hpzutKRSukw",  # 2020-11-09 The Sound of Freezing: BONUS RAW FOOTAGE
    "Wd_c0A8u3lw",  # 2020-11-09 The Sound of Freezing: Explained!
+   "o7dljhMgkPo",  # 2021-02-09 Freezing water sounds like a special effect #shorts
+  ],
+ ),
+ dict(name="How to go Faster than “Mach 1” on a Surfboard", kind="Build",
+  desc="I'm an avid surfer, and have been wanting to make a video about the physics of surfing for a long time!",
+  videos=[
+   "4wg07uxOpto",  # 2020-11-22 How to go Faster than “Mach 1” on a Surfboard
+  ],
+ ),
+ dict(name="How does PLANETARY RADAR actually work", kind="Build",
+  desc="Arecibo was condemned a couple weeks ago, and collapsed a couple days ago as a result of a minor earthquake and well-overdue maintenance.",
+  videos=[
+   "AAJTHsjYoPA",  # 2020-12-03 How does PLANETARY RADAR actually work?
+  ],
+ ),
+ dict(name="3D Printing a Spritz Cookie Press", kind="Build",
+  desc="As the holiday season draws near (or almost misses me this year with how fast everything's moving) I took the time to make a batch of AlphaPhoenix-branded Christmas cookies!",
+  videos=[
+   "BOdWyncMDYw",  # 2020-12-22 3D Printing a Spritz Cookie Press! (Christmas Special)
   ],
  ),
  dict(name="What is polycrystalline water", kind="Build",
@@ -90,6 +273,30 @@ INVENTIONS = [
   desc="Episode 3 of my series on water ice!",
   videos=[
    "L0SYxpVab6M",  # 2021-02-12 A DIY Recipe for Giant Hexagonal Ice Crystals
+  ],
+ ),
+ dict(name="Impressions: Every exploit to “break the algorithm” targets this baffl", kind="Build",
+  desc="Welcome to my first meta-video!",
+  videos=[
+   "iGW54Rr87Rg",  # 2021-02-19 Impressions: Every exploit to “break the algorithm” targets this baffl
+  ],
+ ),
+ dict(name="Big Hexagons of Ice 2", kind="Build",
+  desc="A DIY Recipe for Giant Hexagonal Ice Crystals",
+  videos=[
+   "VA710QYxEu0",  # 2021-02-19 Big Hexagons of Ice 2: Thermoelectric Boogaloo
+  ],
+ ),
+ dict(name="Growing Giant Snowflakes", kind="Build",
+  desc="Bonus footage from episode 3 of my ice crystal growth project - lots of timelapses!",
+  videos=[
+   "MqIvuWsd5OI",  # 2021-02-19 Growing Giant Snowflakes (Timelapse Supercut)
+  ],
+ ),
+ dict(name="I went to a Delta IV Heavy Launch", kind="Build",
+  desc="Took a break from Dissertation-y things today to visit Vandenberg and watch a Delta IV Heavy take off!",
+  videos=[
+   "1P6MBt534v8",  # 2021-04-27 I went to a Delta IV Heavy Launch!
   ],
  ),
  dict(name="Ditch the DSLR? The 200-year-old science of my new favorite camera", kind="Build",
@@ -134,6 +341,19 @@ INVENTIONS = [
    "lBOB9SSdDfU",  # 2022-04-01 Introducing the Magneto-Turboencabulator
   ],
  ),
+ dict(name="Eye vs Camera: Why it's nearly impossible to film an eclipse", kind="Build",
+  desc="Hey everyone!",
+  videos=[
+   "yXhzfPT29es",  # 2022-06-11 A Lunar Eclipse filmed with two cameras #Shorts
+   "6R-iMmcQ5aI",  # 2022-06-12 Eye vs Camera: Why it's nearly impossible to film an eclipse
+  ],
+ ),
+ dict(name="The most realistic eclipse timelapse I've ever taken", kind="Build",
+  desc="A real lunar eclipse is DARK - the red moon is super faint, and it doesn't illuminate the clouds around it the way the regular sunlit moon does.",
+  videos=[
+   "sgmzoshAopU",  # 2022-06-18 The most realistic eclipse timelapse I've ever taken - Spring 2022 Lun
+  ],
+ ),
  dict(name="50,000,000x Magnification", kind="Build",
   desc="Admittedly it's old footage, but since it's REAL research, I was waiting for the paper to get published.",
   videos=[
@@ -158,10 +378,22 @@ INVENTIONS = [
    "3c6-BqT9AwM",  # 2023-03-25 A laser powered by tiny molecular springs (2^16)
   ],
  ),
+ dict(name="IP over AC: Mmmmmm Ppppfffftttt SssshhhhhhhWOOOSH", kind="Build",
+  desc="I needed better home internet, so I used a plastic bag and a long string.",
+  videos=[
+   "1IVhtoFYMVo",  # 2023-04-01 IP over AC: Mmmmmm Ppppfffftttt SssshhhhhhhWOOOSH
+  ],
+ ),
  dict(name="How does electricity find the \"Path of Least Resistance\"", kind="Build",
   desc="Ever wonder how electrons know where they are going?",
   videos=[
    "C3gnNpYK3lo",  # 2023-04-17 How does electricity find the "Path of Least Resistance"?
+  ],
+ ),
+ dict(name="Two ways to make asymmetric mirrors", kind="Build",
+  desc="The long-awaited sequel (lol) to my first 3D printed mirrors video, where I take your advice and switch to UV-cure resin, get great results, but not good enough results, and then cheat by silvering a chunk of regular …",
+  videos=[
+   "fyD1yv-6sTc",  # 2023-05-26 Two ways to make asymmetric mirrors (Printing vs. Warping)
   ],
  ),
  dict(name="An intuitive approach for understanding electricity", kind="Build",
@@ -222,6 +454,7 @@ INVENTIONS = [
   desc="Theoretically, it should be possible to measure the weight of a flying object from far below that object - by measuring the air that object displaced when it pushes on the ground.",
   videos=[
    "hnvtstq3ztI",  # 2025-06-17 I weighed an airplane... while it was flying!
+   "_Krzug8Blgs",  # 2025-06-17 Weighing a paper airplane WHILE IT'S FLYING. #physics #slowmo
   ],
  ),
  dict(name="A laser pointer at 2 billion fps makes the speed of light look... kind", kind="Build",

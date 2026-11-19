@@ -1,7 +1,7 @@
 """Curated inventions for Jenny List (@jennylist).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'jenny-list', 'name': 'Jenny List', 'person': 'Jenny List', 'tagline': 'Radio and hardware tinkering from a Hackaday writer.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -84,6 +84,9 @@ INVENTIONS = [
   videos=[
    "rMHyIJiuAD4",  # 2023-02-21 What's On Jenny's Bench: Digital Super 8 cartridge, part 1
    "DHZ9sHTW6DE",  # 2023-03-08 What's On Jenny's Bench: Digital Super 8 cartridge, part 2
+   "PflR7qbyOLA",  # 2023-03-28 Finally! A Fix For The Caps Lock Key! What's On Jenny's Bench
+   "KkA4EcvjDdw",  # 2023-06-06 Is This The Cheapest Audio Mixer You Can Build? What's On Jenny's Benc
+   "5zvgmXJs2yI",  # 2023-06-20 A decent microphone and mount for under a tenner! What's On Jenny's Be
   ],
  ),
  dict(name="Super 8 camera teardown", kind="Build",
@@ -92,40 +95,18 @@ INVENTIONS = [
    "M-JUQ07jUkY",  # 2023-03-15 Super 8 camera teardown: What's On Jenny's Bench
   ],
  ),
- dict(name="Finally! A Fix For The Caps Lock Key! What's On Jenny's Bench", kind="Build",
-  desc="Hitting the Caps Lock key by accident has been the bane of my life, as I end up SHOUTING AS I TYPE.",
-  videos=[
-   "PflR7qbyOLA",  # 2023-03-28 Finally! A Fix For The Caps Lock Key! What's On Jenny's Bench
-  ],
- ),
- dict(name="A New Single 8 Movie Cartridge In 2023", kind="Build",
-  desc="The \"other\" 8mm movie camera format was Fuji's Single 8, for which new film cartridges haven't been manufactured since around 2010.",
+ dict(name="A New Single 8 Cartridge", kind="Build",
+  desc="Returning to my 3D printed Single 8 home movie film cartridge project, with some real world tests from the summer, and a new SLA-printed version of the cartridge.",
   videos=[
    "yVY8U5CFZAA",  # 2023-04-07 A New Single 8 Movie Cartridge In 2023: What's On Jenny's Bench
-  ],
- ),
- dict(name="A New Single 8 Cartridge", kind="Build",
-  desc="My new Single 8 cartridge project, the second instalment.",
-  videos=[
    "gYYqynN0Mr0",  # 2023-04-23 A New Single 8 Cartridge Part 2: What's On Jenny's Bench
    "b7hVY0ctULY",  # 2023-05-22 A New Single 8 Cartridge Part 3: What's On Jenny's Bench
    "591IDBrCmpI",  # 2023-11-06 A New Single 8 Cartridge Part 4: What's On Jenny's Bench
+   "myzEYK66l9Q",  # 2024-01-07 A New Single 8 Cartridge Part 5, The Release. What's On Jenny's Bench
   ],
  ),
- dict(name="Is This The Cheapest Audio Mixer You Can Build? What's On Jenny's Benc", kind="Build",
-  desc="I needed a small audio mixer, and the cheaper offerings are pretty dismal.",
-  videos=[
-   "KkA4EcvjDdw",  # 2023-06-06 Is This The Cheapest Audio Mixer You Can Build? What's On Jenny's Benc
-  ],
- ),
- dict(name="A decent microphone and mount for under a tenner! What's On Jenny's Be", kind="Build",
-  desc="I picked up second-hand a Logitech gaming microphone and an Ikea Kvart clamp lamp for 4 quid each.",
-  videos=[
-   "5zvgmXJs2yI",  # 2023-06-20 A decent microphone and mount for under a tenner! What's On Jenny's Be
-  ],
- ),
- dict(name="Digital Super 8 cartridge", kind="Build",
-  desc="The latest instalment in my Super 8 digital cartridge series, in which I bring you up to date with progress and show some rather sketchy but in-focus footage.",
+ dict(name="Digital Super 8 Cartridge", kind="Build",
+  desc="A further update to my digital Super 8 cartridge project, in which I produce a first practical cartridge and take it out to shoot some footage in the woods.",
   videos=[
    "tUpKRRCAmNQ",  # 2023-07-03 Digital Super 8 cartridge, part 3: What's On Jenny's Bench
    "ukOetGxbn-k",  # 2023-07-18 Digital Super 8 cartridge, part 4: What's On Jenny's Bench
@@ -151,16 +132,28 @@ INVENTIONS = [
    "T5TqsGfNRHw",  # 2023-09-13 Impressions of BornHack 2023 in Denmark, on Kodak Vision3 50D Super 8 
   ],
  ),
- dict(name="A New Single 8 Cartridge, The Release. What's On Jenny's Bench", kind="Build",
-  desc="This is the culmination of a series of videos working on a 3D-printable shell and parts for a film cartridge to fit Fuji Single 8 home movie cameras.",
+ dict(name="Channel intro", kind="Build",
+  desc="My name's Jenny List, and I have a fascination for technology.",
   videos=[
-   "myzEYK66l9Q",  # 2024-01-07 A New Single 8 Cartridge Part 5, The Release. What's On Jenny's Bench
+   "E2YEIoHtpzY",  # 2023-11-24 Channel intro
+  ],
+ ),
+ dict(name="Reinventing the Single 8 home movie format, my talk at Hacker Hotel 20", kind="Build",
+  desc="This is my presentation of the 3D printed Single 8 cartridge project, presented at Hacker Hotel 2024 on the 11th of February 2024.",
+  videos=[
+   "NLqAXySaA_s",  # 2024-02-14 Reinventing the Single 8 home movie format, my talk at Hacker Hotel 20
   ],
  ),
  dict(name="Shure Unidyne III connector hack. Amphenol MC3M microphone plug replac", kind="Build",
   desc="I have  a pair of vintage Shure Unidyne III microphones, but not the unobtainable Amphenol connector to use them.",
   videos=[
    "L6kH2qO_q8w",  # 2024-03-03 Shure Unidyne III connector hack. Amphenol MC3M microphone plug replac
+  ],
+ ),
+ dict(name="An update, Super 8, Single 8 progress, and what's coming up", kind="Build",
+  desc="It's been a few months since I put up a video, I'm still here but have a lot on my plate.",
+  videos=[
+   "9of4LMykii0",  # 2024-07-23 An update, Super 8, Single 8 progress, and what's coming up.
   ],
  ),
  dict(name="Impressions of EMF2024 in the UK, on Kodak Vision3 Super 8 film", kind="Build",

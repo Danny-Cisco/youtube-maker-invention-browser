@@ -1,7 +1,7 @@
 """Curated inventions for Dr. Sci-Fi (@drscifi).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'dr-sci-fi', 'name': 'Dr. Sci-Fi', 'person': 'Dr. Sci-Fi', 'tagline': "Darren Moser's science-fiction creations and robot woodworking.", 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -35,11 +35,6 @@ INVENTIONS = [
   desc="I made this Star Trek film when I was 11 years old in 1994 using my Playmates toys and my willing family.",
   videos=[
    "PnGmHBaucl8",  # 2012-09-28 Star Trek 1994
-  ],
- ),
- dict(name="Earl Grey Plays Star Trek Scene-It", kind="Build",
-  desc="Darren, Daniel and Phillip play Star Trek Scene-It!",
-  videos=[
    "4N-kzg19x2E",  # 2013-09-18 Earl Grey Plays Star Trek Scene-It - Game 1
    "kjdZ6o5ZLFY",  # 2013-10-24 Earl Grey Plays Star Trek Scene-It - Game 2
   ],
@@ -66,6 +61,10 @@ INVENTIONS = [
   desc="K-2SO Puppet Assembly Time-lapse.",
   videos=[
    "dJu1vwdLGlE",  # 2017-05-29 K-2SO Puppet Assembly Time-lapse
+   "01TVNfFsxv4",  # 2017-05-30 K-2SO puppet walking
+   "ClngMGJUhFU",  # 2017-05-30 K-2SO Puppet Dancing
+   "DkSrAyz26EI",  # 2025-03-06 K-2SO puppet in a sci-fi hallway
+   "ygfdiO3NZ9U",  # 2025-04-26 K-2SO Puppet (V5) Assembly and Systems Demo
   ],
  ),
  dict(name="L3 The Audition", kind="Build",
@@ -90,6 +89,8 @@ INVENTIONS = [
   desc="Designing BD-1 Droid Puppet - Star Wars Jedi Fallen Order.",
   videos=[
    "IdDwhR8pOis",  # 2021-01-06 Designing BD-1 Droid Puppet - Star Wars Jedi Fallen Order
+   "M2qdM1Lhh-8",  # 2021-12-02 BD-1 Droid Puppet - Perched
+   "iRnGEnQ5INo",  # 2022-01-31 BD-1 Droid Puppet - Star Wars Jedi Fallen Order
   ],
  ),
  dict(name="Ceti Alpha 3 - TNG Title Screen Game", kind="Build",

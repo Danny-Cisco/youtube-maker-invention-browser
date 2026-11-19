@@ -1,7 +1,7 @@
 """Curated inventions for Woolybeetle (@woolybeetle1).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'woolybeetle', 'name': 'Woolybeetle', 'person': 'Woolybeetle', 'tagline': 'Maker shorts and costume builds.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -68,9 +68,17 @@ INVENTIONS = [
   ],
  ),
  dict(name="Beating GODSKIN DUO on GUITAR HERO DRUMS", kind="Build",
-  desc="Beating GODSKIN DUO on GUITAR HERO DRUMS!!!.",
+  desc="hi i am doing godskin duo from elden ring on guitar hero drums and it is really hard and  this is how it is going if you were wondering okay thanks bye pls follow me on twitch WoolyBeetle1",
   videos=[
+   "Lr-W-nqNJMA",  # 2024-02-16 thoughts on godskin duo on guitar hero drums  #twitch #eldenring #gami
    "gKRwo_-Mg4M",  # 2024-02-23 Beating GODSKIN DUO on GUITAR HERO DRUMS!!!
+   "lFE8Uzz1GEE",  # 2024-02-23 DEFEATING GODSKIN DUO ON GUITAR HERO DRUMS  #twitch #gaming #twitchstr
+   "nbhpqZWu51k",  # 2024-03-14 Mohg on guitar hero drums!!!!!!!!!!!  #eldenring #twitch #gaming
+   "AMlmm2vFOsU",  # 2024-03-15 Radagon on guitar hero drums!!!
+   "4Q5yAJrOC6w",  # 2024-03-19 Haligtree on guitar hero drums!!!!!!!!!!!!!!!  #eldenring #twitch #gam
+   "pU7OcmQCec4",  # 2024-03-24 BEATING GODFREY on guitar hero drums!!!!!!!!!!!  #eldenring #twitch #g
+   "KIEyFUKbSpI",  # 2024-04-05 malenia on guitar hero drums pt 2!!!!!!!!!!!!!  #twitch #gaming
+   "swiP7JVxruA",  # 2024-04-05 Malenia on guitar hero drums!!!!!!!!!!!  #twitch #gaming #eldenring
   ],
  ),
  dict(name="Elden Ring but I Have to Exercise to Survive", kind="Build",

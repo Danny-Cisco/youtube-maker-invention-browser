@@ -227,6 +227,8 @@ python3 build/build.py index.html $(cat build/makers.txt)
 node build/make_social.js   # refreshes the link-preview image and icons in assets/ (numbers on the card)
 ```
 
+How videos are grouped into inventions: `build/auto_inventions.py` drafts a maker from scratch. Videos join an invention when their titles share the same key words (so numbered series, "Part 3"s and livestream build sessions all land in the same invention; "LIVE", "#livestream" and "[stream]" labels are ignored). Non-builds such as Q&As, chats, podcasts, unboxings, reviews, launch events, mail bags and courses are left out. For channels that were curated by hand, `build/attach_unassigned.py` proposes where their livestreams belong and only applies the joins you approve; `build/hand_group.py` is for Shorts-heavy channels whose titles vary too much for either.
+
 Each maker's country is in `data/countries.json` as `[ISO code, source]`: "channel" means it comes from the location the maker set on YouTube, "manual" means it was filled in by hand. Edit it to correct a country. The world map outline is `build/world.json`, made once with `build/make_map.mjs`.
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), or draft one automatically with `build/auto_inventions.py`, and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.

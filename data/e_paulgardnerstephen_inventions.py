@@ -1,7 +1,7 @@
 """Curated inventions for Paul Gardner-Stephen (@paulgardnerstephen).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'paul-gardner-stephen', 'name': 'Paul Gardner-Stephen', 'person': 'Paul Gardner-Stephen', 'tagline': 'The MEGA65 retro computer and its open-source phone.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -17,6 +17,12 @@ INVENTIONS = [
   desc="In this third of three C65 videos we demonstrate the speed difference between the C64 and C65 in fast mode by showing a short clip of Stunt Car Racer and the de-packer for the game.",
   videos=[
    "3ub8oKxsJug",  # 2010-03-13 C65 Accelerated Stunt Car Racer
+  ],
+ ),
+ dict(name="C65 Hardware Overview", kind="Build",
+  desc="In this first of three videos of the Commodore 65 / C65 / C64DX prototype system we have a brief overview of the hardware, inside and out.",
+  videos=[
+   "RgmC8XqJLho",  # 2010-03-13 C65 Hardware Overview
   ],
  ),
  dict(name="Serval TD1 - First Call in Arkaroola Wilderness", kind="Build",
@@ -55,6 +61,12 @@ INVENTIONS = [
    "iBxce1ClNVA",  # 2011-06-29 An American Toilet Flushing North of the Equator
   ],
  ),
+ dict(name="Serval Rhizome Retriever Prototype Preview", kind="Build",
+  desc="Serval Rhizome Retriever Prototype Preview.",
+  videos=[
+   "FIk4g6ALu5I",  # 2011-10-25 Serval Rhizome Retriever Prototype Preview
+  ],
+ ),
  dict(name="ServalProject.org 1 Minute Introduction for ChangeMakers 2011", kind="Build",
   desc="Dr.",
   videos=[
@@ -65,6 +77,12 @@ INVENTIONS = [
   desc="Serval Project Rhizome MeshMS (Store-and-Forward Mesh SMS) Demonstration.",
   videos=[
    "KDhJcwsnxf0",  # 2011-11-22 Serval Project Rhizome MeshMS (Store-and-Forward Mesh SMS) Demonstrati
+  ],
+ ),
+ dict(name="WESC2011-Acceptance", kind="Build",
+  desc="Serval Project Acceptance of 2011 World Embedded Software Competition Distinction Award",
+  videos=[
+   "eYbNEevAVKI",  # 2011-11-30 WESC2011-Acceptance
   ],
  ),
  dict(name="Serval Mesh Encrypted Call CPU Usage Tamed", kind="Build",
@@ -115,7 +133,7 @@ INVENTIONS = [
    "9HHFi8cagyg",  # 2014-03-25 C65GS Hello World
   ],
  ),
- dict(name="HTTP/SOCKS Proxy over Serval Mesh Streaming Protocol", kind="Build",
+ dict(name="HTTP/SOCKS Proxy over Serval Mesh Protocol", kind="Build",
   desc="HTTP/SOCKS Proxy over Serval Mesh Streaming Protocol (MSP).",
   videos=[
    "4Kmh8Wiix0o",  # 2014-05-28 HTTP/SOCKS Proxy over Serval Mesh Streaming Protocol (MSP)
@@ -125,6 +143,12 @@ INVENTIONS = [
   desc="C65GS 8-bit FPGA based computer booting C65 ROM from SD card, and running the SynthMark64 benchmark.",
   videos=[
    "4sKuP1A_EMI",  # 2014-06-12 C65GS booting, speed benchmark and simple BASIC interaction
+  ],
+ ),
+ dict(name="C65GS scrolling properly in C65-mode after fixing colour RAM bug", kind="Build",
+  desc="Eventually tracked down the DMA/colour RAM bug that was stopping scrolling from working.",
+  videos=[
+   "L80mip946EM",  # 2014-06-16 C65GS scrolling properly in C65-mode after fixing colour RAM bug
   ],
  ),
  dict(name="Stunt Car Racer on C65GS at 29x Speed", kind="Build",
@@ -146,10 +170,28 @@ INVENTIONS = [
    "ajYKBAOIUFw",  # 2014-10-24 Kangaroo on Minchinbury Terrace (4) - Close shot through gap in fence.
   ],
  ),
+ dict(name="Police and DPTI Rail Operations officers contemplating how to deal wit", kind="Build",
+  desc="A kangaroo has been on the loose in suburban Adelaide for about two weeks.",
+  videos=[
+   "FLv56U9-z3Y",  # 2014-10-24 Police and DPTI Rail Operations officers contemplating how to deal wit
+  ],
+ ),
+ dict(name="At Arkaroola for National Science Week 2015", kind="Build",
+  desc="At Arkaroola for National Science Week 2015 - Spotting Yellow-Footed Rock Wallabies.",
+  videos=[
+   "kamJpQ7BZgU",  # 2015-08-18 At Arkaroola for National Science Week 2015 - Spotting Yellow-Footed R
+  ],
+ ),
  dict(name="Using \"Understandable Computers\" to make computers unstandable", kind="Build",
   desc="Dr.",
   videos=[
    "2H2mh8wLXco",  # 2015-12-07 Using "Understandable Computers" to make computers unstandable
+  ],
+ ),
+ dict(name="Yellow Footed Rock Wallabies at Arkaroola, December 2015", kind="Build",
+  desc="Three yellow-footed rock wallabies hoping along the rock face near Arkaroola Waterhole.",
+  videos=[
+   "ItPz8ho82d4",  # 2015-12-31 Yellow Footed Rock Wallabies at Arkaroola, December 2015
   ],
  ),
  dict(name="MEGA65 new Disk Menu progress", kind="Build",
@@ -162,6 +204,12 @@ INVENTIONS = [
   desc="The MEGA65, an open-source retro-computer, designed to be what the un-finished Commodore 65 promised to be, with better C64 compatibility for both hardware and software.",
   videos=[
    "mxbOAk0xfF4",  # 2018-01-02 MEGA65  running International Soccer from a real cartridge
+  ],
+ ),
+ dict(name="Using a 1351 mouse on the MEGA65 rev1 prototype PCB", kind="Build",
+  desc="Using a 1351 mouse on the MEGA65 rev1 prototype PCB.",
+  videos=[
+   "i7HrWQtyhqA",  # 2018-01-06 Using a 1351 mouse on the MEGA65 rev1 prototype PCB
   ],
  ),
  dict(name="An unexpected visitor helps test 16-colour sprite mode on the MEGA65", kind="Build",
@@ -188,16 +236,35 @@ INVENTIONS = [
    "PAmCwymu4ss",  # 2018-01-31 Raster split in BASIC on the MEGA65
   ],
  ),
+ dict(name="Blinking anti-aliased proportional text on the MEGA65 8-bit computer", kind="Build",
+  desc="This little video is to demonstrate hardware blinking text on the MEGA65.",
+  videos=[
+   "58wj1znvYu0",  # 2018-11-05 Blinking anti-aliased proportional text on the MEGA65 8-bit computer
+  ],
+ ),
  dict(name="Simple slide presentation running on the MEGA65", kind="Build",
   desc="More progress on the simple presentation software for the MEGA65, that we hope to use to introduce the MEGA65 at Linux Conf 2019 in Christchurch, New Zealand in just a couple of months time.",
   videos=[
    "wwAfD9FrmZo",  # 2018-11-13 Simple slide presentation running on the MEGA65
   ],
  ),
- dict(name="First look at the progress on the MEGA65's Freeze Menu and disk image ", kind="Build",
-  desc="Today's video shows the recent work on the MEGA65's built-in freeze menu, which also doubles as the disk image switcher.",
+ dict(name="Serval Project Update 20181115", kind="Build",
+  desc="Serval Project Update 20181115 - Proof-of-concept iOS Port.",
   videos=[
-   "B4kA4M7y6tE",  # 2019-01-17 First look at the progress on the MEGA65's Freeze Menu and disk image 
+   "-1np0RzAD0k",  # 2018-11-15 Serval Project Update 20181115 - Proof-of-concept iOS Port
+  ],
+ ),
+ dict(name="It lives! The MEGA65's built-in freezer is now minimally functional", kind="Build",
+  desc="It freezes.",
+  videos=[
+   "4e0q4rrwf9I",  # 2019-01-17 It lives! The MEGA65's built-in freezer is now minimally functional
+  ],
+ ),
+ dict(name="After Fixing the SID on the MEGA65", kind="Build",
+  desc="This is the result after fixing the input clock to the VHDL SID implementation in the MEGA65.",
+  videos=[
+   "f-6wJ9M-qGY",  # 2019-03-01 Before fixing the SID clock speed on the MEGA65
+   "FwZZ7y32jHY",  # 2019-03-01 After Fixing the SID on the MEGA65
   ],
  ),
  dict(name="Introduction to using the MEGA65 as at FEB 2019", kind="Build",
@@ -206,22 +273,35 @@ INVENTIONS = [
    "2fi1fsKtfxc",  # 2019-03-02 Introduction to using the MEGA65 as at FEB 2019 (English begins at 5:2
   ],
  ),
- dict(name="Running some freely-available games on the C64 using our free C64 ROM-", kind="Build",
-  desc="This is a very early version of our open-source C64 ROM-set running several free-to-distribute games, which we thought was a fitting first demonstration.",
+ dict(name="MEGA65 Fast formatting with multi-sector writes", kind="Build",
+  desc="In the last few days, we have implemented multi-sector writes on the SD card interface.",
   videos=[
-   "bks2H4VxGmA",  # 2019-05-07 Running some freely-available games on the C64 using our free C64 ROM-
+   "GzARdw7kzjo",  # 2019-03-12 MEGA65 Fast formatting with multi-sector writes
+  ],
+ ),
+ dict(name="MEGA65 Schnell Freezen mit mehr-sektoren SD-Karte schreiben", kind="Build",
+  desc="In dieser Video zeigen wir wie schnell den Freeze Menü jetzt funktioniert.",
+  videos=[
+   "-QTF_c3jVo4",  # 2019-03-12 MEGA65 Schnell Freezen mit mehr-sektoren SD-Karte schreiben
+  ],
+ ),
+ dict(name="MEGA65 Fast-Freezing with mult-sector SD card writes", kind="Build",
+  desc="In the last few days we have implement multi-sector writes with the SD card interface.",
+  videos=[
+   "X6p6GEEbBl8",  # 2019-03-12 MEGA65 Fast-Freezing with mult-sector SD card writes
   ],
  ),
  dict(name="Early version of C64 open-source ROM-set running Nebulus", kind="Build",
   desc="This is a very early version of our open-source C64 ROM-set running Nebulus.",
   videos=[
    "FgO9K5CLG8E",  # 2019-05-07 Early version of C64 open-source ROM-set running Nebulus
+   "SuWts8DSnp4",  # 2019-05-07 Early version of C64 open-source ROM-set running Wizball
   ],
  ),
- dict(name="Early version of C64 open-source ROM-set running Wizball", kind="Build",
-  desc="This is a very early version of our open-source C64 ROM-set running Wizball.",
+ dict(name="Running some freely-available games on the C64 using our free C64 ROM-", kind="Build",
+  desc="This is a very early version of our open-source C64 ROM-set running several free-to-distribute games, which we thought was a fitting first demonstration.",
   videos=[
-   "SuWts8DSnp4",  # 2019-05-07 Early version of C64 open-source ROM-set running Wizball
+   "bks2H4VxGmA",  # 2019-05-07 Running some freely-available games on the C64 using our free C64 ROM-
   ],
  ),
  dict(name="MEGA65 handheld prototype playing Nebulus music", kind="Build",
@@ -237,7 +317,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="Computer Networks", kind="Build",
-  desc="Computer Networks: A Systems Approach, Chapter 1, Slides 39 - 40 (Example Socket Client Programme)",
+  desc="Computer Networks: A Systems Approach.",
   videos=[
    "waJhSnmQ9f8",  # 2021-02-21 Computer Networks: A Systems Approach, Chapter 1, Slides 39 - 40 (Exam
    "AJhE_Qt83oc",  # 2021-02-21 Computer Networks: A Systems Approach, Chapter 1, Slides 32 - 38 (Sock
@@ -303,10 +383,84 @@ INVENTIONS = [
    "iBkfsMrxwBU",  # 2021-03-26 Computer Networks: A Systems Approach: Chapter4 Slides 1 to 19
   ],
  ),
+ dict(name="Testing out first version pressure sensors with reins", kind="Build",
+  desc="Testing out first version pressure sensors with reins.",
+  videos=[
+   "rql89FFP65g",  # 2023-03-05 Testing out first version pressure sensors with reins
+  ],
+ ),
+ dict(name="Very crude first hook-up of my fake horse head controller and reins to", kind="Build",
+  desc="This is a totally unofficial effort by me to use the mechanical horse riding machine parts I am building to control Unbridled: That Horse Game.",
+  videos=[
+   "WbsErpa4KyA",  # 2023-03-19 Very crude first hook-up of my fake horse head controller and reins to
+  ],
+ ),
+ dict(name="Next steps in controlling Unbridled", kind="Build",
+  desc="This is still super-experimental, and totally unofficial (I have nothing to do with the Unbridled team), but I thought I'd share the latest progress with you all, using Unbridled with the horse riding machine parts I …",
+  videos=[
+   "Rb2yd8UOKi0",  # 2023-03-25 Next steps in controlling Unbridled: That Horse Game with real reins
+  ],
+ ),
  dict(name="How do I control Unbridled", kind="Build",
   desc="In the previous video, I showed how I can control the horse direction using my mechanical horse head in Unbridled: That Horse Game.",
   videos=[
    "x0cT5AEljes",  # 2023-03-26 How do I control Unbridled: That Horse Game using my mechanical horse 
+  ],
+ ),
+ dict(name="Rope saddle holder and structural improvements to the horse riding mac", kind="Build",
+  desc="The open-source mechanical horse riding machine continues!",
+  videos=[
+   "cjcjPNeOD84",  # 2023-04-10 Rope saddle holder and structural improvements to the horse riding mac
+  ],
+ ),
+ dict(name="Core Breach -- Prototyping the MEGA65 Expansion Board Integrated JTAG ", kind="Build",
+  desc="Prototyping the MEGA65 Expansion Board Integrated JTAG Loader.",
+  videos=[
+   "Ho_4_Ar4meA",  # 2024-02-01 MEGA65 Expansion board assembly
+   "6iHQ0JZj_0s",  # 2026-07-16 Core Breach -- Prototyping the MEGA65 Expansion Board Integrated JTAG 
+   "4dnnoaP30QE",  # 2026-08-31 MEGA65 Native Utility for Loading Cores via Expansion Board Integrated
+  ],
+ ),
+ dict(name="MEGAphone Modular", kind="Build",
+  desc="MEGAphone Modular: Cellular Modem Insertion.",
+  videos=[
+   "v0tuZBf23OE",  # 2025-06-27 MEGAphone Modular: Cellular Modem Insertion
+  ],
+ ),
+ dict(name="MEGA65 SCART 15KHz RGB Output Demonstration", kind="Build",
+  desc="We still need to do a few more things before this can get rolled into production cores for the MEGA65, but that part should be fairly straight-forward from here.",
+  videos=[
+   "ciPsY3DvK1Y",  # 2025-09-06 MEGA65 SCART 15KHz RGB Output Demonstration
+  ],
+ ),
+ dict(name="MEGAphone telephony software demo 7 December 2025", kind="Build",
+  desc="I now have the telephony software working with dialer, contact list and SMS message thread display -- all with nice anti-aliased proportional text and very responsive to input.",
+  videos=[
+   "uSk8Us_xkFE",  # 2025-12-07 MEGAphone telephony software demo 7 December 2025
+  ],
+ ),
+ dict(name="MEGAphone Power Control Firmware and Interface Software Demonstration", kind="Build",
+  desc="This video shows the low-power FPGA that monitors the cellular modem and power switch for the MEGAphone, and the API it provides to allow control of the power to the various sub-systems of this (eventually) hand-held …",
+  videos=[
+   "S-Hjlwr8WiE",  # 2025-12-14 MEGAphone Power Control Firmware and Interface Software Demonstration
+  ],
+ ),
+ dict(name="MEGAphone SMS Handling Library Demonstration", kind="Build",
+  desc="To make development quicker and easier, I make many of these libraries cross-compilable to run on either Linux or natively on the MEGA65, just by swapping out the low-level serial port control routines.",
+  videos=[
+   "6miIYhcRL0c",  # 2025-12-16 MEGAphone SMS Handling Library Demonstration
+  ],
+ ),
+ dict(name="MEGAphone Voice Call Library Demonstration", kind="Build",
+  desc="Here we can see the MEGAphone library for voice calls running cross-compiled under linux as we test functionality, showing that we can talk to the modem and query network name etc, as well as handle incoming voice calls.",
+  videos=[
+   "hFwpnrKNiKE",  # 2025-12-28 MEGAphone Voice Call Library Demonstration
+  ],
+ ),
+ dict(name="MEGAphone Cellular Modem Communications and Phone Calls", kind="Build",
+  desc="Short video showing that the MEGAphone software can handle calls on the cellular network and read basic status information from the network, like time, network name, signal strength and whether we're using VoLTE.",
+  videos=[
+   "LGfBRdxbZHU",  # 2026-01-01 MEGAphone Cellular Modem Communications and Phone Calls!
   ],
  ),
 ]

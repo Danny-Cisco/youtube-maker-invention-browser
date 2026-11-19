@@ -1,7 +1,7 @@
 """Curated inventions for Adam Bender (@adambender).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'adam-bender', 'name': 'Adam Bender', 'person': 'Adam Bender', 'tagline': 'Engineering and science builds made to promote education.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -53,11 +53,6 @@ INVENTIONS = [
   desc="In this tutorial, I'll provide step by step instructions on how I built a 48 cell lithium ion battery pack out of 18650 cells.",
   videos=[
    "JldTYkcFDM8",  # 2019-06-01 How To Build a Lithium Battery (Part 1 of 2)
-  ],
- ),
- dict(name="How To Design A Lithium Battery of 2)", kind="Build",
-  desc="In this video tutorial, I'll go through all the detailed information needed when designing a lithium battery pack with 18650 cells.",
-  videos=[
    "f9fZZVfcBVQ",  # 2019-06-10 How To Design A Lithium Battery (Part 2 of 2)
   ],
  ),

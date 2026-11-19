@@ -1,7 +1,7 @@
 """Curated inventions for Kiara's Workshop (@kiarasworkshop).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'kiaras-workshop', 'name': "Kiara's Workshop", 'person': "Kiara's Workshop", 'tagline': 'Childhood dreams and fantasy gadgets made real, like a working grapple gauntlet.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -11,6 +11,25 @@ INVENTIONS = [
   desc="IRON MAN HELMET | THE MARK 42 PROJECT.",
   videos=[
    "ii-ZGuVszWU",  # 2020-03-19 IRON MAN HELMET | THE MARK 42 PROJECT
+   "JrSGWd1P7l4",  # 2022-05-26 How My Iron Man Helmets Work! #shorts #ironman
+  ],
+ ),
+ dict(name="Exoskeleton/Build Update", kind="Build",
+  desc="Song used: Away - Subtact ( I'm not trying to get copyright striked lmao)",
+  videos=[
+   "NxchIR5xBwY",  # 2020-05-09 Exoskeleton/Build Update | THE MARK 42 PROJECT
+  ],
+ ),
+ dict(name="With Frankly Built", kind="Build",
+  desc="Here's a super messy live with one of my good buddies Frank!",
+  videos=[
+   "WCprWnhlbCg",  # 2020-05-18 LIVE with Frankly Built!
+  ],
+ ),
+ dict(name="Suit Breakdown/Another Update", kind="Build",
+  desc="I've been hard at work on the suit the last few months, so here's another update on my progress!",
+  videos=[
+   "kXMis3JwSs8",  # 2020-07-29 Suit Breakdown/Another Update | THE MARK 42 PROJECT
   ],
  ),
  dict(name="My Jarvis System", kind="Build",
@@ -19,29 +38,50 @@ INVENTIONS = [
    "s3vOg3G_akc",  # 2021-05-15 MY JARVIS SYSTEM (WIP) | THE MARK 42 PROJECT
   ],
  ),
+ dict(name="I Built an Iron Man Suit", kind="Build",
+  desc="VOLTURNUS is available now here & everywhere music is sold and streamed:",
+  videos=[
+   "MAAGEf5rj0M",  # 2021-09-04 I built an Iron Man suit! #shorts
+   "H4o2Ampzxo0",  # 2021-09-08 Wearing Iron Man Suits to SILICON 2021!
+   "yQl5RBv-JQE",  # 2021-10-14 My Iron Man Suit Build Evolution! #shorts #ironman #marvel
+   "oylKvK-f_sE",  # 2023-06-05 How I BUILT an IRON MAN SUIT! | Iron Man Mark 6 Part 3 - Con Crunch
+   "uD4XGMB3oNs",  # 2026-04-06 I Built an Iron Man Suit (Mark 42)
+   "iPMXlAgzerA",  # 2026-04-08 New Iron Man Suit Reveal!
+  ],
+ ),
  dict(name="My Exoskeleton Broke :( Exo V2", kind="Build",
   desc="Sorry I'm releasing this literally 2 months late!",
   videos=[
    "hZZqz0Gjj-8",  # 2021-09-04 MY EXOSKELETON BROKE :( EXO V2 | THE MARK 42 PROJECT
   ],
  ),
- dict(name="Wearing Iron Man Suits to SILICON 2021", kind="Build",
-  desc="Technically my suit is screen accurate now right??",
-  videos=[
-   "H4o2Ampzxo0",  # 2021-09-08 Wearing Iron Man Suits to SILICON 2021!
-  ],
- ),
  dict(name="Iron Man Mark 6", kind="Build",
-  desc="Here's what goes through my head when I plan for a build like this!",
+  desc="Hey everyone!",
   videos=[
    "Q5v8PdrtdFw",  # 2021-09-21 Iron Man Mark 6 Part 1: The planning stage!
+   "i_EsxAbbpbo",  # 2022-04-25 Iron Man Mark 6 - The process so far! #shorts #ironman
+   "hLUSj6tqRoM",  # 2022-05-07 How My Iron Man Mark 6 Missile Pods Work! #shorts
+   "yOWDa1gv4Eo",  # 2022-05-17 Iron Man Mark 6 Build - Prototype Shoulder Missiles! #shorts
    "hPEZZOzI1hw",  # 2022-05-21 Iron Man Mark 6 Part 2: Raw Parts, Fitment and More!
+   "cJhLqPZSEyM",  # 2023-04-02 Battle Damaged Iron Man Mark 6 At C2E2! #3dprinting
+  ],
+ ),
+ dict(name="HOW TO: Modify Iron Man files using Blender", kind="Build",
+  desc="Please go follow my friend Konrad (the Blender God himself)!",
+  videos=[
+   "bB9XFdwfiyc",  # 2021-09-25 HOW TO: Modify Iron Man files using Blender! (cutting panels out)
   ],
  ),
  dict(name="HOW TO: Scale Armor for Cosplay! | Blender", kind="Build",
   desc="Here's a quick and easy way I've been scaling my new suit!",
   videos=[
    "gVeRfKxrYEo",  # 2022-01-02 HOW TO: Scale Armor for Cosplay! | Blender
+  ],
+ ),
+ dict(name="Kiara's Workshop", kind="Build",
+  desc="Kiara's Workshop Live Stream.",
+  videos=[
+   "hGvW3fv48mA",  # 2022-01-16 Kiara's Workshop Live Stream
   ],
  ),
  dict(name="I BUILT Sam Wilson's Wings", kind="Build",
@@ -54,24 +94,36 @@ INVENTIONS = [
   desc="Happy Star Wars day, May the 4th be with you!",
   videos=[
    "HPpUCnhg80E",  # 2023-05-04 DROiD DEPOT | A Galaxy's Edge Miniature
-  ],
- ),
- dict(name="How I BUILT an IRON MAN SUIT", kind="Build",
-  desc="This video was long overdue, but details the con crunch I went through last summer in order to finish my suit for C2E2 2022.",
-  videos=[
-   "oylKvK-f_sE",  # 2023-06-05 How I BUILT an IRON MAN SUIT! | Iron Man Mark 6 Part 3 - Con Crunch
+   "Q576CDpgSOc",  # 2023-05-12 Building a Miniature Droid Depot! #droiddepot #galaxysedge
   ],
  ),
  dict(name="Making Rocket Raccoons Blaster REAL", kind="Build",
   desc="they also provide E5 or E2 standing desk which is more budget-friendly, you can use my code ''YTB30'' to get $30 off on it.",
   videos=[
+   "yKGf0NSe0rc",  # 2023-05-19 Making Rocket Raccoons Blaster REAL Pt 1 #guardiansofthegalaxy
    "ciBnxgRuH3k",  # 2023-06-16 Making Rocket Raccoons Blaster REAL | GOTG Laser Cannon Part 1
   ],
  ),
- dict(name="I Built A Working Pokeball", kind="Build",
-  desc="Growing up, Pokemon was my favorite game and this was an absolute joy to bring to life!",
+ dict(name="I Built a Real Le Spatula 3000 To Grill With", kind="Build",
+  desc="I Built a Real Le Spatula 3000 To Grill With (SpongeBob).",
+  videos=[
+   "ZlHDesFjY0s",  # 2023-06-19 Le Spatula 3000 is REAL! We Made The Coolest Spongebob Prop! #shorts #
+   "8jdb1q7dFM4",  # 2023-06-20 REAL Le Spatula 3000 Spongebob Prop! #spongebob #shorts
+   "Xmax8XZkiwY",  # 2026-06-30 I Built a Real Le Spatula 3000 To Grill With (SpongeBob)
+  ],
+ ),
+ dict(name="I built working Pokeballs you can throw... kinda", kind="Build",
+  desc="throwing things that you care about hurts so much :(",
   videos=[
    "AZzpK03AeCM",  # 2024-04-03 I Built A Working Pokeball
+   "vxERVdH4Tes",  # 2024-12-18 I built working Pokeballs you can throw... kinda
+  ],
+ ),
+ dict(name="I Made Glamrock Bonnie Real", kind="Build",
+  desc="I Made Glamrock Bonnie Real! (Fixing My Bonnie Cosplay).",
+  videos=[
+   "Bw1MPXKWj70",  # 2024-05-07 How I Built Glamrock Bonnie!
+   "aam4mdLbi3M",  # 2025-12-31 I Made Glamrock Bonnie Real! (Fixing My Bonnie Cosplay) 
   ],
  ),
  dict(name="Crafting Minecraft's Enchanted Tools in Real Life", kind="Build",
@@ -90,12 +142,6 @@ INVENTIONS = [
   desc="I am still recovering from this build...",
   videos=[
    "I3l2AAHb6d8",  # 2024-10-07 I built a Transformer in 23 days (Elita-1)
-  ],
- ),
- dict(name="I built working Pokeballs you can throw... kinda", kind="Build",
-  desc="throwing things that you care about hurts so much :(",
-  videos=[
-   "vxERVdH4Tes",  # 2024-12-18 I built working Pokeballs you can throw... kinda
   ],
  ),
  dict(name="I Built A Pikachu Animatronic From Scratch", kind="Build",
@@ -120,6 +166,7 @@ INVENTIONS = [
   desc="I Built Superman Robot Gary (REAL Animatronic!).",
   videos=[
    "b3qv66j7VZU",  # 2025-10-18 I Built Superman Robot Gary (REAL Animatronic!)
+   "NmrLZkKO2Tw",  # 2025-11-07 I built Superman robot Gary! #shorts #superman
   ],
  ),
  dict(name="I Rebuilt Big Mouth Billy Bass as Magikarp", kind="Build",
@@ -128,34 +175,17 @@ INVENTIONS = [
    "spsPT778ws0",  # 2025-11-28 I Rebuilt Big Mouth Billy Bass as Magikarp
   ],
  ),
- dict(name="I Made Glamrock Bonnie Real", kind="Build",
-  desc="I Made Glamrock Bonnie Real! (Fixing My Bonnie Cosplay).",
-  videos=[
-   "aam4mdLbi3M",  # 2025-12-31 I Made Glamrock Bonnie Real! (Fixing My Bonnie Cosplay) 
-  ],
- ),
  dict(name="Can I Turn M-O from Wall-E into a Real Vacuum", kind="Build",
   desc="Can I Turn M-O from Wall-E into a Real Vacuum?.",
   videos=[
    "ZdyHG45VR3Y",  # 2026-02-28 Can I Turn M-O from Wall-E into a Real Vacuum?
   ],
  ),
- dict(name="I Built an Iron Man Suit", kind="Build",
-  desc="I Built an Iron Man Suit (Mark 42).",
-  videos=[
-   "uD4XGMB3oNs",  # 2026-04-06 I Built an Iron Man Suit (Mark 42)
-  ],
- ),
  dict(name="I Built Goddard from Jimmy Neutron", kind="Build",
   desc="I Built Goddard from Jimmy Neutron (REAL Robot!).",
   videos=[
    "iMNQjPxvfTk",  # 2026-05-27 I Built Goddard from Jimmy Neutron (REAL Robot!)
-  ],
- ),
- dict(name="I Built a Real Le Spatula 3000 To Grill With", kind="Build",
-  desc="I Built a Real Le Spatula 3000 To Grill With (SpongeBob).",
-  videos=[
-   "Xmax8XZkiwY",  # 2026-06-30 I Built a Real Le Spatula 3000 To Grill With (SpongeBob)
+   "ON5kHje0OSc",  # 2026-06-13 Building Goddard from Jimmy Neutron! #BambuLabX2D
   ],
  ),
  dict(name="I Built a Functional Arceus Ball", kind="Build",
@@ -167,6 +197,7 @@ INVENTIONS = [
  dict(name="I Built a Working Grapple Gauntlet from The Batman", kind="Build",
   desc="I Built a Working Grapple Gauntlet from The Batman.",
   videos=[
+   "wUT2Pgb0JmE",  # 2026-10-01 Building Real Batman Grapple Gauntlets! #Creality
    "TvJmQ5xZCQo",  # 2026-10-09 I Built a Working Grapple Gauntlet from The Batman
   ],
  ),

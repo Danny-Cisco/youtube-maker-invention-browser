@@ -1,7 +1,7 @@
 """Curated inventions for Wood Brain (@wood_brain).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'wood-brain', 'name': 'Wood Brain', 'person': 'Wood Brain', 'tagline': 'Big ideas and a workshop full of possibilities.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -23,6 +23,12 @@ INVENTIONS = [
   desc="I partnered with my friends at Home Depot and BEHR Paints to create a super graphics mural in our guest room / home office.",
   videos=[
    "zal2UYn-nS0",  # 2020-01-15 Easy Colorful Mural
+  ],
+ ),
+ dict(name="Concrete Nightmares", kind="Build",
+  desc="In todays video I'm experimenting with concrete for the first time.",
+  videos=[
+   "rSlGmBMuvuI",  # 2020-02-01 Concrete Nightmares: 3 Epic Fails and 1 Remarkable Win
   ],
  ),
  dict(name="How to restore a garage cabinet", kind="Build",
@@ -47,12 +53,20 @@ INVENTIONS = [
   desc="Ultimate Dream Garage Makeover.",
   videos=[
    "9JheIMiNodc",  # 2021-02-20 Ultimate Dream Garage Makeover
+   "QOz1nmEOknE",  # 2022-05-02 Ultimate Garage Makeover
   ],
  ),
  dict(name="Add sparkle to your plants with a DIY disco ball planter", kind="Build",
   desc="In todays video I’m showing you how I turned three different sized Styrofoam disco balls into unique hanging planters.",
   videos=[
    "Jce7p1qsdZw",  # 2021-03-08 Add sparkle to your plants with a DIY disco ball planter
+  ],
+ ),
+ dict(name="MAXIMIZE Your Workshop Efficiency with a Router Lift and Table Saw Ext", kind="Build",
+  desc="Router Table Extension Upgrade | O’Skool Cast Iron & Bosch Router Install",
+  videos=[
+   "Uvqv5LK_XPM",  # 2021-03-16 #shorts table saw
+   "F9Vuok3TECo",  # 2024-09-18 MAXIMIZE Your Workshop Efficiency with a Router Lift and Table Saw Ext
   ],
  ),
  dict(name="Unlock the Power of Sharing", kind="Build",
@@ -133,6 +147,13 @@ INVENTIONS = [
    "X0FcihOWGZ8",  # 2021-12-01 Add Bohemian Flair to Your Christmas Tree: DIY Ornaments
   ],
  ),
+ dict(name="DIY Mini Wooden Christmas Tree", kind="Build",
+  desc="DIY Mini Wooden Christmas Tree | Easy Holiday Decor Project",
+  videos=[
+   "LlWfzcdFu9E",  # 2021-12-11 Wooden Christmas
+   "UaxdzXXF5Kk",  # 2023-11-30 DIY Mini Wooden Christmas Tree | Budget Holiday Decor
+  ],
+ ),
  dict(name="Shed Shop Makeover", kind="Build",
   desc="In today’s video I’m sharing with you my Ultimate Dream Shed Shop Makeover that took me a little over a month to complete.",
   videos=[
@@ -143,12 +164,6 @@ INVENTIONS = [
   desc="Transforming Our Hallway into a Galaxy-Themed Masterpiece | Fiber Optic Ceiling, Glow-in-the-Dark Moon Hatch & More",
   videos=[
    "c5VkR78SRM0",  # 2022-04-20 Fiber Optic Star Ceiling
-  ],
- ),
- dict(name="Ultimate Garage Makeover", kind="Build",
-  desc="Deep Cleaning: Started with a thorough cleaning to prep the space.",
-  videos=[
-   "QOz1nmEOknE",  # 2022-05-02 Ultimate Garage Makeover
   ],
  ),
  dict(name="Discover the Extraordinary", kind="Build",
@@ -163,10 +178,52 @@ INVENTIONS = [
    "3KwIxV72Q1w",  # 2022-09-09 Mind-Blowing Epoxy Skull: Revealing a Walnut Wood Brain
   ],
  ),
+ dict(name="Transforming Tools", kind="Build",
+  desc="DIY Epoxy Tools and Tool Box | Mold Making and Epoxy Casting Project",
+  videos=[
+   "9LIPOifzEz8",  # 2022-12-09 Transforming Tools: Creating an Extraordinary Epoxy Masterpiece
+  ],
+ ),
+ dict(name="Unlock your creativity with this DIY Arch Backdrop project", kind="Build",
+  desc="How I Built the Wedding Backdrop:",
+  videos=[
+   "1LqJ_tKRJUA",  # 2023-01-16 Unlock your creativity with this DIY Arch Backdrop project
+  ],
+ ),
+ dict(name="Discover the ultimate under-sink upgrades for your home", kind="Build",
+  desc="Under Bathroom Sink Organization & Upgrades | DIY Storage Solutions",
+  videos=[
+   "VOAdsR9zP6M",  # 2023-04-18 Discover the ultimate under-sink upgrades for your home
+  ],
+ ),
  dict(name="Closet Makeover", kind="Build",
   desc="DIY Custom Closet Build | How to Build a Closet with Plywood, Edge Banding, and Barn Door",
   videos=[
    "Ct8mCcrrCG0",  # 2023-06-21 Closet Makeover: Unlocking the Potential of Your Space
+  ],
+ ),
+ dict(name="Transform Your Front Porch with These Easy Updates", kind="Build",
+  desc="How to Refresh Your Front Porch with Wood Slats, Planter Boxes & Paint | DIY Porch Makeover",
+  videos=[
+   "xtmgXni-QtY",  # 2023-08-11 Transform Your Front Porch with These Easy Updates
+  ],
+ ),
+ dict(name="Get Inspired: Watch this Privacy Fence Refresh and Upgrade", kind="Build",
+  desc="How to Refresh a Privacy Fence with Planter Boxes & Colorful Succulents | DIY Backyard Makeover",
+  videos=[
+   "Xytk4rMsnXQ",  # 2023-08-16 Get Inspired: Watch this Privacy Fence Refresh and Upgrade!
+  ],
+ ),
+ dict(name="Escape the ordinary", kind="Build",
+  desc="DIY Dog House Build for Our English Bulldog Zoey | Charity Dog House Competition with Recycled Materials & Water Feature",
+  videos=[
+   "XfbIHXPJkI4",  # 2023-09-02 Escape the ordinary: Building the Ultimate Dog House
+  ],
+ ),
+ dict(name="The Most Epic Frontyard Renovation", kind="Build",
+  desc="How to Transform Your Lawn Into a Succulent Oasis | DIY Front Yard Landscaping with Rock River, Pavers & Succulents",
+  videos=[
+   "HuwiNRgRFeA",  # 2023-09-27 The Most Epic Frontyard Renovation: Prepare to Be Amazed
   ],
  ),
  dict(name="Why Building a Green House is a Game-Changer", kind="Build",
@@ -181,10 +238,22 @@ INVENTIONS = [
    "JzLmD4WA-YE",  # 2023-11-02 Unlock Your Home's Full Potential with a Gorgeous Fence
   ],
  ),
+ dict(name="How to DIY a Jaw-Dropping Succulent Wall Garden", kind="Build",
+  desc="DIY Custom Succulent Wall Design | Felt Planter Pockets & Grommets",
+  videos=[
+   "xgXz_fgRCyw",  # 2023-11-15 How to DIY a Jaw-Dropping Succulent Wall Garden
+  ],
+ ),
  dict(name="Making a Wooden Surfboard", kind="Build",
   desc="How to Build a Hollow Surfboard from Redwood | DIY Surfboard Project",
   videos=[
    "OHAjBh7gXQs",  # 2024-01-05 Making a Wooden Surfboard: The Surfer's Dream Come True
+  ],
+ ),
+ dict(name="Transforming a Broken Computer into a Living Terrarium", kind="Build",
+  desc="Transforming an Old Apple Desktop into a Living Terrarium | DIY Home Decor Project",
+  videos=[
+   "qgzzAV1R9RU",  # 2024-01-18 Transforming a Broken Computer into a Living Terrarium
   ],
  ),
  dict(name="Best desktop Laser EVER", kind="Build",
@@ -199,10 +268,10 @@ INVENTIONS = [
    "uKnRLvhfsgs",  # 2024-05-24 Fiber Optic Surf Board, will it surf?
   ],
  ),
- dict(name="MAXIMIZE Your Workshop Efficiency with a Router Lift and Table Saw Ext", kind="Build",
-  desc="Router Table Extension Upgrade | O’Skool Cast Iron & Bosch Router Install",
+ dict(name="Transform your Door with Gold Leaf Gilding", kind="Build",
+  desc="Rebuilding a Side Garage Door with Reverse Gold Leaf Gilding | DIY Door Transformation",
   videos=[
-   "F9Vuok3TECo",  # 2024-09-18 MAXIMIZE Your Workshop Efficiency with a Router Lift and Table Saw Ext
+   "AB--pWL2Odw",  # 2024-06-28 Transform your Door with Gold Leaf Gilding
   ],
  ),
  dict(name="I Built a STUNNING Shed in Just One Weekend", kind="Build",
@@ -245,6 +314,24 @@ INVENTIONS = [
   desc="I built a custom DIY prone paddleboard rack to store our 12' stock prone paddle boards, and the whole thing turned out way better than I expected.",
   videos=[
    "2Pw-KtfsDoA",  # 2025-12-05 DIY Multi-Board Rack Build | Paddleboards, Surfboards, Kayaks, & More
+  ],
+ ),
+ dict(name="Can You 3D Print a Ship in a Bottle", kind="Build",
+  desc="Is it possible to 3D print a ship INSIDE a glass bottle?",
+  videos=[
+   "Y2dbZU7CwdM",  # 2026-02-01 Can You 3D Print a Ship in a Bottle?
+  ],
+ ),
+ dict(name="Miniature Chair Build", kind="Build",
+  desc="Miniature Chair Build | Why Small Is Harder Than Big.",
+  videos=[
+   "s1y2DoH6XlE",  # 2026-07-18 Miniature Chair Build | Why Small Is Harder Than Big
+  ],
+ ),
+ dict(name="A $40 Wooden Balance Board That Will Make You a Better Surfer", kind="Build",
+  desc="Build a wooden balance board for your home gym with just a few basic materials.",
+  videos=[
+   "cjwiBmQD4YU",  # 2026-11-14 A $40 Wooden Balance Board That Will Make You a Better Surfer
   ],
  ),
 ]

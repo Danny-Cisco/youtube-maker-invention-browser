@@ -1,7 +1,7 @@
 """Curated inventions for BuildDanielBuild (@builddanielbuild).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'build-daniel-build', 'name': 'BuildDanielBuild', 'person': 'BuildDanielBuild', 'tagline': 'Dan builds stuff.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -46,6 +46,7 @@ INVENTIONS = [
  dict(name="I built Reze Bomb Devil Helmet", kind="Build",
   desc="I made Reze’s Bomb Devil helmet from Chainsaw Man.",
   videos=[
+   "qX7Os6T91hA",  # 2025-10-27 Bomb Devil Helmet 😈 Printed on @Creality3D  K2 #3dprinting #cosplay #c
    "hDzy3J_G7X4",  # 2025-11-16 I built Reze Bomb Devil Helmet
   ],
  ),
@@ -71,6 +72,7 @@ INVENTIONS = [
   desc="I show you how I get a mirror-like chrome finish on your 3D prints in this simple, step-by-step tutorial!",
   videos=[
    "oc6pnAQtaVA",  # 2026-08-23 Easy Mirror Chrome Finish on your 3D Prints (Step-by-Step)
+   "llSuEsC06PM",  # 2026-11-02 This is how I Chrome my 3D Prints! #3dprinting #cosplay #drdoom #inokr
   ],
  ),
 ]

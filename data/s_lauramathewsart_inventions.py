@@ -1,7 +1,7 @@
 """Curated inventions for Laura Mathews (@lauramathewsart).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'laura-mathews', 'name': 'Laura Mathews', 'person': 'Laura Mathews', 'tagline': 'String puppets and articulating animals, obsessed with biological mechanics.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -13,10 +13,11 @@ INVENTIONS = [
    "fud0Zg-CmMU",  # 2018-05-08 Stop motion galloping horse.
   ],
  ),
- dict(name="Sparrow Puppet", kind="Build",
-  desc="Fully articulated wings that open and close realistically.",
+ dict(name="Flying Sparrow Puppet", kind="Build",
+  desc="Vidoe of my Flying Sparrow Puppet by David Wayman Visuals.",
   videos=[
    "IEsdCK4M_v8",  # 2018-06-01 Sparrow Puppet
+   "AWZMwqxozoo",  # 2018-06-04 Flying Sparrow Puppet
   ],
  ),
  dict(name="Hare Jump", kind="Build",
@@ -25,21 +26,10 @@ INVENTIONS = [
    "-ysjLVv66m0",  # 2018-06-01 Hare Jump
   ],
  ),
- dict(name="Flying Sparrow Puppet", kind="Build",
-  desc="Vidoe of my Flying Sparrow Puppet by David Wayman Visuals.",
-  videos=[
-   "AWZMwqxozoo",  # 2018-06-04 Flying Sparrow Puppet
-  ],
- ),
- dict(name="Badger Commission Progress", kind="Build",
-  desc="Short video of my latest Badger Commission.",
-  videos=[
-   "QTYRWA_IXS8",  # 2018-06-20 Badger Commission Progress
-  ],
- ),
  dict(name="Badger Making Progress", kind="Build",
   desc="Little video of the steps involved in making my articulated badger.",
   videos=[
+   "QTYRWA_IXS8",  # 2018-06-20 Badger Commission Progress
    "JX33fqnBQzY",  # 2018-06-27 Badger Making Progress
   ],
  ),
@@ -59,6 +49,7 @@ INVENTIONS = [
   desc="This is an update for my flying bird puppet which will allow a much bigger scale!",
   videos=[
    "ioxxIeyw33Q",  # 2019-03-09 New Compound Wing Mechanism
+   "S7ZGAmqGni0",  # 2021-07-07 Wing Mechanism
   ],
  ),
  dict(name="Raven wings with feathers maquette", kind="Build",
@@ -95,6 +86,12 @@ INVENTIONS = [
   desc="Okay so this is why we pay the professionals, but I wanted to get a video of the basic movements of the owl...",
   videos=[
    "pkX55RF6iI8",  # 2019-12-21 Barn Owl 2019
+  ],
+ ),
+ dict(name="Laura Mathews Art", kind="Build",
+  desc="Laura Mathews Art Live Stream.",
+  videos=[
+   "qU_SUpMn06U",  # 2020-03-25 Laura Mathews Art Live Stream
   ],
  ),
  dict(name="Goat Kit Assembly", kind="Build",

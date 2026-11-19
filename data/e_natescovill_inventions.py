@@ -1,7 +1,7 @@
 """Curated inventions for Nate Scovill (@natescovill).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'nate-scovill', 'name': 'Nate Scovill', 'person': 'Nate Scovill', 'tagline': 'Rockets and engineering challenges.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -29,6 +29,7 @@ INVENTIONS = [
   desc="I put far too much effort into making this silly idea look cinematic than is reasonable, and it was completely worth it.",
   videos=[
    "PdRflzdHviE",  # 2024-04-26 Making coffee with the wrong beans
+   "RvYErqHAXz0",  # 2025-12-13 The Wrong Beans #coffee #beans #experiment #science #recipe #meme
   ],
  ),
  dict(name="Turning a raisin back into a grape", kind="Build",
@@ -59,6 +60,7 @@ INVENTIONS = [
   desc="I built a workshop in my garage, and absolutely nothing interesting happens the entire time.",
   videos=[
    "zKX1dmGjHXc",  # 2024-08-30 Building a workshop and stealing from God
+   "eOSun5PRR9E",  # 2025-12-17 Stealing my workshop #workshop #woodworking #maker #woodshop #upcyclin
   ],
  ),
  dict(name="I made an umbrella that rains", kind="Build",
@@ -83,6 +85,7 @@ INVENTIONS = [
   desc="The story of how and why I plan to kidnap Santa and save the world",
   videos=[
    "u9_T-8w5qiA",  # 2024-12-20 Building The Perfect Santa Trap
+   "uPJyo44R5c8",  # 2024-12-24 The Santa Trap  #lego #rubegoldbergmachine #christmas #santa #santacla
   ],
  ),
  dict(name="Acquiring Terrible Tastes", kind="Build",

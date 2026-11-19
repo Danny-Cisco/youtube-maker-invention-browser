@@ -1,7 +1,7 @@
 """Curated inventions for Jiří Praus (@jiripraus).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'jiri-praus', 'name': 'Jiří Praus', 'person': 'Jiří Praus', 'tagline': 'LED sculptures and free-form electronics.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -17,6 +17,7 @@ INVENTIONS = [
   desc="Ever blooming mechanical tulip.",
   videos=[
    "NvRck1Xt7Oc",  # 2019-02-14 Ever blooming mechanical tulip
+   "CZ3g8XZyTWM",  # 2019-04-09 Ever Blooming Mechanical Tulip WiFi upgrade
   ],
  ),
  dict(name="Making one of the petals for mechanical tulip", kind="Build",
@@ -25,28 +26,18 @@ INVENTIONS = [
    "GoVWk30cFtE",  # 2019-02-15 Making one of the petals for mechanical tulip
   ],
  ),
- dict(name="Ever Blooming Mechanical Tulip WiFi upgrade", kind="Build",
-  desc="So I've just upgraded my Ever Blooming Mechanical Tulip with ESP32 WiFi microcontroller.",
-  videos=[
-   "CZ3g8XZyTWM",  # 2019-04-09 Ever Blooming Mechanical Tulip WiFi upgrade
-  ],
- ),
  dict(name="Freeduino is alive", kind="Build",
   desc="This is my free-form build of Arduino UNO.",
   videos=[
    "-wf_KZKH_PI",  # 2019-05-17 Freeduino is alive!
   ],
  ),
- dict(name="Wire bending machine prototype", kind="Build",
-  desc="I build sculptures out of brass wires and since I hate repeating creating same part over and over again I decided to build a wire bending CNC machine that would do the job for me.",
+ dict(name="DIY 3D-printed Wire Bending Machine", kind="Build",
+  desc="Build a wire bending machine capable of bending 0.8/0.9/1 mm wire into any 2D shape.",
   videos=[
    "bJxFfSG3ASA",  # 2019-07-04 Wire bending machine prototype
-  ],
- ),
- dict(name="Wire bending machine version 3", kind="Build",
-  desc="Wire bending machine version 3.",
-  videos=[
    "Q3-M9l8atiY",  # 2019-07-07 Wire bending machine version 3
+   "WENEK-LJA6E",  # 2019-09-25 DIY 3D-printed Wire Bending Machine
   ],
  ),
  dict(name="Hex badge made by machine", kind="Build",
@@ -59,12 +50,6 @@ INVENTIONS = [
   desc="Yes, it can make springs.",
   videos=[
    "eihgmoybQ6E",  # 2019-07-16 Satisfying spring making
-  ],
- ),
- dict(name="DIY 3D-printed Wire Bending Machine", kind="Build",
-  desc="Build a wire bending machine capable of bending 0.8/0.9/1 mm wire into any 2D shape.",
-  videos=[
-   "WENEK-LJA6E",  # 2019-09-25 DIY 3D-printed Wire Bending Machine
   ],
  ),
  dict(name="Adorable Halloween Ghost Badge", kind="Build",

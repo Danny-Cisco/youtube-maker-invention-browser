@@ -1,7 +1,7 @@
 """Curated inventions for Not An Engineer (@noengineerhere).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'not-an-engineer', 'name': 'Not An Engineer', 'person': 'Not An Engineer', 'tagline': '"Degrees are expensive, just make stuff."', 'other_label': 'Other uploads: Shorts, updates and other videos'}

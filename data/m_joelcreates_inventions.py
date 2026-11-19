@@ -1,16 +1,96 @@
 """Curated inventions for Joel Creates (@joelcreates).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'joel-creates', 'name': 'Joel Creates', 'person': 'Joel Creates', 'tagline': 'Improbable, impractical devices.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="108 light bulb mini-sun project", kind="Build",
+  desc="If you want to see the light in action, skip to 8:42, 10:02, and 10:34!",
+  videos=[
+   "PIEAd_btlIA",  # 2019-02-12 108 light bulb (86,400 lumen) mini-sun project!
+  ],
+ ),
+ dict(name="Testing Awful Goodwill Microphones", kind="Build",
+  desc="We will be messing around with $10 worth of Goodwill (thrift store) microphones, as well as taking a look at how mics work!",
+  videos=[
+   "FLzpYMr3KLc",  # 2019-02-18 Testing Awful Goodwill Microphones!
+  ],
+ ),
+ dict(name="Radio controlled beans", kind="Build",
+  desc="See it in action: 9:05 From the side: 10:10 Slow motion: 10:19",
+  videos=[
+   "6lsZLbSoevg",  # 2019-02-20 Radio controlled beans??
+  ],
+ ),
+ dict(name="Ceiling camera rail with integrated charging! Made from cheap re-purpo", kind="Build",
+  desc="CAUTION: Do NOT mount to existing live (electrified) rails!!",
+  videos=[
+   "6HVQQSySTuU",  # 2019-03-01 Ceiling camera rail with integrated charging! Made from cheap re-purpo
+  ],
+ ),
+ dict(name="\"Chungus: The Awakening\"", kind="Build",
+  desc="Scary warning!",
+  videos=[
+   "soqXhB6bXQQ",  # 2019-03-05 "Chungus: The Awakening" (Fire breathing Chungus project)
+  ],
+ ),
+ dict(name="Cutest cat house made from repurposed book shelf", kind="Build",
+  desc="Kirsten hosts Joel Creates, and we bring her idea for a bookshelf cat house to life with my CNC machine!",
+  videos=[
+   "kwwK7MDtkW0",  # 2019-03-12 Cutest cat house made from repurposed book shelf!
+  ],
+ ),
  dict(name="Hot glue gun", kind="Build",
   desc="Do NOT try this at home!",
   videos=[
    "cTXCRcKk1dI",  # 2019-03-23 Hot glue gun! (A response to Michael Reeves)
+   "SMSFvKIj7d4",  # 2020-04-25 Hot glue gun 2.0! (A response to Michael Reeves fans)
+   "Vxq6W9XIAd0",  # 2020-08-21 Hot glue gun 3.0 - Super Soaker!
+  ],
+ ),
+ dict(name="Two scooters transformed into Go Kart", kind="Build",
+  desc="Watch as two Razor electric scooters are transformed into a miniature Go Kart!",
+  videos=[
+   "sssQMZA6L4M",  # 2019-03-30 Two scooters transformed into Go Kart!
+  ],
+ ),
+ dict(name="CNC Machine Paintball Gun Printer", kind="Build",
+  desc="Watch as I turn my giant CNC machine into a working (and extremely messy) printer by attaching a paintball gun to it!",
+  videos=[
+   "rp2Vl56gE-Q",  # 2019-04-09 CNC Machine Paintball Gun Printer!
+  ],
+ ),
+ dict(name="Mom test-drives supercars in homemade simulator", kind="Build",
+  desc="My mom tests out a variety of iconic cars on my homemade triple 55\" screen racing rig with Logitech Momo force feedback wheel and 7.2 surround sound!",
+  videos=[
+   "Zw-lZMmapJY",  # 2019-04-23 Mom test-drives supercars in homemade simulator!
+  ],
+ ),
+ dict(name="Glass Speakers Made From Recycled Materials", kind="Build",
+  desc="I took some recycled glass bricks, and cut holes to mount these mid-century University brand speakers, for an awesome looking final result!",
+  videos=[
+   "nz_lLIM_R1M",  # 2019-05-01 Glass Speakers Made From Recycled Materials!
+  ],
+ ),
+ dict(name="Glitter spewing Roomba", kind="Build",
+  desc="A lot of you asked me for it, so here it is!",
+  videos=[
+   "qrqvOOwUw6A",  # 2019-05-11 Glitter spewing Roomba (how to repurpose your swearing roomba)
+  ],
+ ),
+ dict(name="Robot that bangs a cowbell when you turn signal", kind="Build",
+  desc="I built an automatic cowbell and strapped it to my moped...because.",
+  videos=[
+   "DJUqErCCAJw",  # 2019-06-04 Robot that bangs a cowbell when you turn signal
+  ],
+ ),
+ dict(name="Nintendo Rocket Launcher", kind="Build",
+  desc="We converted a Nintendo Super Scope into a rocket launcher, and fire CNC machined Bullet Bill rockets at a large Bowser target!",
+  videos=[
+   "vsF1FQC81t4",  # 2019-06-29 Nintendo Rocket Launcher! | Super Scope fires Bullet Bill rockets
   ],
  ),
  dict(name="Fighting @I did a thing over hot trash", kind="Build",
@@ -19,28 +99,76 @@ INVENTIONS = [
    "yg4agh4lTdk",  # 2019-08-05 Fighting @I did a thing  over hot trash
   ],
  ),
+ dict(name="Fortnite Goggles", kind="Build",
+  desc="The only way to play Fortnite.",
+  videos=[
+   "remQOHaXjDY",  # 2019-10-04 Fortnite Goggles (Satire)
+  ],
+ ),
+ dict(name="CNC Pumpkin Carving Was A Mistake", kind="Build",
+  desc="Watch as I cut designs into three pumpkins on my CNC machine.",
+  videos=[
+   "Svvm0h-sYlI",  # 2019-10-29 CNC Pumpkin Carving Was (Not) A Mistake
+  ],
+ ),
+ dict(name="Joel Composes", kind="Build",
+  desc="#Roomiemelody - Joel Composes.",
+  videos=[
+   "aIhjxNqsua0",  # 2019-12-02 #Roomiemelody - Joel Composes
+  ],
+ ),
  dict(name="I built a Sci-Fi movie set", kind="Build",
   desc="I built a Sci-Fi movie set!.",
   videos=[
    "FitxuWNgnJM",  # 2019-12-20 I built a Sci-Fi movie set!
   ],
  ),
- dict(name="Hot glue gun 2.0", kind="Build",
-  desc="Long range hot glue gun!",
+ dict(name="Karate boards that burst with color", kind="Build",
+  desc="Watch me design, make, and break several colorful karate boards with martial arts legend Mike Welch!",
   videos=[
-   "SMSFvKIj7d4",  # 2020-04-25 Hot glue gun 2.0! (A response to Michael Reeves fans)
+   "e--HzW2jv1A",  # 2020-01-11 Karate boards that burst with color!
   ],
  ),
- dict(name="Hot glue gun 3.0", kind="Build",
-  desc="It really shoots hot glue up to 30 feet!",
+ dict(name="@Weisz and I make voice controlled power wheels", kind="Build",
+  desc="Be sure to check out Louis' video!",
   videos=[
-   "Vxq6W9XIAd0",  # 2020-08-21 Hot glue gun 3.0 - Super Soaker!
+   "YOZFVyFXiVc",  # 2020-02-26 @Weisz and I make voice controlled power wheels
+  ],
+ ),
+ dict(name="I own the Donkey Kong board game", kind="Build",
+  desc="Look at all this weird and interesting stuff...",
+  videos=[
+   "RsycurEEA9E",  # 2020-03-22 I own the Donkey Kong board game (and other weird stuff too)
+  ],
+ ),
+ dict(name="My Sister plays \"Alien Isolation\" in VR", kind="Build",
+  desc="My sister Amy bravely faces down the Xenomorph in Alien Isolation VR!",
+  videos=[
+   "cO7aY71b7kA",  # 2020-05-22 My Sister plays "Alien Isolation" in VR
+  ],
+ ),
+ dict(name="Motherland", kind="Build",
+  desc="I composed \"Motherland\" for my Glue gun 2.0 video.",
+  videos=[
+   "8PV6mJpFIG4",  # 2020-06-07 Motherland - (Glue Gun Music)
+  ],
+ ),
+ dict(name="Infinitus - Sci-Fi short film", kind="Build",
+  desc="You saw me build the set, now watch the award winning film!",
+  videos=[
+   "tHAwCqXyIc8",  # 2020-07-04 Infinitus - Sci-Fi short film
   ],
  ),
  dict(name="Hot glue web shooter", kind="Build",
   desc="Watch me glue my sister to a wall and lift a car with this sticky Spider-Man web shooter that fires over 20 feet!",
   videos=[
    "Xhk5DHV6x-w",  # 2020-11-19 Hot glue web shooter - can it lift a car?!
+  ],
+ ),
+ dict(name="Zero dentists recommend this toothbrush", kind="Build",
+  desc="This toothbrush is too powerful for mere mortals, tremble in the presence of its awesome tartar control!",
+  videos=[
+   "n0AMarCppqo",  # 2020-12-24 Zero dentists recommend this toothbrush
   ],
  ),
  dict(name="Manscaped rejected my idea", kind="Build",
@@ -53,6 +181,12 @@ INVENTIONS = [
   desc="Thanks Louis Weisz for lending me the camer",
   videos=[
    "oFLupbWUHtM",  # 2021-07-07 Destroying tomatoes for Integza (& Michael Reeves)
+  ],
+ ),
+ dict(name="Barbers hate this one simple invention", kind="Build",
+  desc="and get 50% off your first order of hair loss treatment.",
+  videos=[
+   "cL0YPAoebas",  # 2021-08-05 Barbers hate this one simple invention
   ],
  ),
  dict(name="Reverse Toaster", kind="Build",
@@ -215,6 +349,7 @@ INVENTIONS = [
   desc="Amazing cinematic camera work by Quincy, go check out his channel!",
   videos=[
    "gmmS-bEf-IA",  # 2024-12-23 I finished the Nerf Nuke!
+   "3LEMYOcjyPE",  # 2025-07-11 Nerf Nuke!
   ],
  ),
  dict(name="I Made Nerf Scary", kind="Build",

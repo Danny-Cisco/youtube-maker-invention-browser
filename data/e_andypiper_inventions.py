@@ -1,7 +1,7 @@
 """Curated inventions for Andy Piper (@andypiper).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'andy-piper', 'name': 'Andy Piper', 'person': 'Andy Piper', 'tagline': 'Pen plotters and maker experiments.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -17,6 +17,18 @@ INVENTIONS = [
   desc="A little look around Swanage beach in Dorset, UK - testing the Flip Mino",
   videos=[
    "6fpTpYXSLfw",  # 2008-11-14 Swanage Beach
+  ],
+ ),
+ dict(name="Clarifi case for iPhone", kind="Build",
+  desc="Clarifi case for iPhone.",
+  videos=[
+   "-t6gjfyf--E",  # 2008-11-20 Clarifi case for iPhone
+  ],
+ ),
+ dict(name="Freehands", kind="Build",
+  desc="Review of the Freehands gloves, ideal for handling touchscreens and cameras",
+  videos=[
+   "SN64AoAey74",  # 2008-11-27 Freehands
   ],
  ),
  dict(name="Current Cost iPhone webapp demo", kind="Build",
@@ -49,6 +61,20 @@ INVENTIONS = [
    "zZOGrbvh-YQ",  # 2009-02-02 Hursley Snow (iMovie 09 / Kodak Zi6 HD test, take 2!)
   ],
  ),
+ dict(name="What is Dogear Nation", kind="Build",
+  desc="What is Dogear Nation?.",
+  videos=[
+   "HdjMvetIRqE",  # 2009-02-03 Dogear-Nation behind the scenes: making of episode 87
+   "IEGDhzm3gYo",  # 2009-04-13 What is Dogear Nation?
+   "4J0oxrAJWo8",  # 2009-07-16 What is Dogear Nation? part 2
+  ],
+ ),
+ dict(name="Farnborough snow", kind="Build",
+  desc="Farnborough snow.",
+  videos=[
+   "3LhS4aT9_9I",  # 2009-02-03 Farnborough snow
+  ],
+ ),
  dict(name="Anarkik 3D, Haptics and eightbar", kind="Build",
   desc="Anarkik 3D, Haptics and eightbar.",
   videos=[
@@ -63,6 +89,12 @@ INVENTIONS = [
    "867BT573eYc",  # 2009-02-09 iMovie 09 Beyond the Basics pt 1
   ],
  ),
+ dict(name="Home Camp TV - Desktop application for CurrentCost", kind="Build",
+  desc="A chat with Dale Lane, creator of a Python-based desktop application for displaying CurrentCost usage information.",
+  videos=[
+   "Ohd3ALcqrEY",  # 2009-02-16 Home Camp TV - Desktop application for CurrentCost
+  ],
+ ),
  dict(name="Experimenting with MQTT and PHP", kind="Build",
   desc="Experimenting with MQTT and PHP.",
   videos=[
@@ -75,10 +107,22 @@ INVENTIONS = [
    "tFjakukw8Fc",  # 2009-02-24 A quick look at Safari 4 beta on OS X
   ],
  ),
+ dict(name="Alex Cornish at St Giles", kind="Build",
+  desc="Alex Cornish with a string quartet - from the gig at St Giles in the Fields, London, February 24 2009",
+  videos=[
+   "o1DLW1SdkJI",  # 2009-02-25 Alex Cornish live at St Giles
+  ],
+ ),
  dict(name="IBM IMPACT 2009 highlights", kind="Build",
   desc="IBM IMPACT 2009 highlights.",
   videos=[
    "w0U-nQemDRE",  # 2009-05-08 IBM IMPACT 2009 highlights
+  ],
+ ),
+ dict(name="Parasols at the Palazzo", kind="Build",
+  desc="Something a bit different - footage of the parasols at The Palazzo in Las Vegas, set to the music \"Ethereal Awakening\" by Project Divinity",
+  videos=[
+   "vt8d4X-A6po",  # 2009-05-11 Parasols at the Palazzo
   ],
  ),
  dict(name="Korg nanokey - quick look", kind="Build",
@@ -93,22 +137,46 @@ INVENTIONS = [
    "lc8QRi_wvS0",  # 2009-06-23 iShowU HD Pro quick test
   ],
  ),
+ dict(name="Stourhead Gardens", kind="Build",
+  desc="Stourhead Gardens National Trust in Wiltshire, England - from iPhone 3GS",
+  videos=[
+   "abvWFoYcIWI",  # 2009-06-27 Stourhead Gardens
+  ],
+ ),
  dict(name="Snowglobe Second Life lipsync", kind="Build",
   desc="A quick test of avatar voice lipsync in the Second Life Snowglobe test viewer",
   videos=[
    "fxywMIZ-Vdo",  # 2009-06-29 Snowglobe Second Life lipsync
   ],
  ),
- dict(name="First look at touchatag", kind="Build",
-  desc="A quick look at the touchatag RFID reader and a screencast demo setting up a simple service",
+ dict(name="Yateley 10k Series Race 2 2009", kind="Build",
+  desc="The start and clips from the 5k mark in the 2nd race of the Yateley 10k Series 2009.",
   videos=[
-   "1J4LG1wHFVg",  # 2009-07-03 First look at touchatag
+   "0mzT4PamRL4",  # 2009-07-02 Yateley 10k Series Race 2 2009
+  ],
+ ),
+ dict(name="Touchnote", kind="Build",
+  desc="Touchnote make cards out of your photos.",
+  videos=[
+   "2iGzLzXStvg",  # 2009-07-16 Touchnote
+  ],
+ ),
+ dict(name="Minicards in stop motion", kind="Build",
+  desc="A short stop-motion film shot using a Canon EOS 350D tethered to Adobe Lightroom, and edited in iMovie 09.",
+  videos=[
+   "dZiEgYvT7rQ",  # 2009-07-26 Minicards in stop motion
   ],
  ),
  dict(name="Order MOO MiniCards in 3 minutes", kind="Build",
   desc="How to order MOO MiniCards on the moo.com website.",
   videos=[
    "jMsAV4IoV0o",  # 2009-07-30 Order MOO MiniCards in 3 minutes!
+  ],
+ ),
+ dict(name="LG Arena KM900 quick tour", kind="Build",
+  desc="A look at the user interface and features of the LG Arena KM900, which LG kindly lent me for a month",
+  videos=[
+   "MjmcMN4Hwy0",  # 2009-08-02 LG Arena KM900 quick tour
   ],
  ),
  dict(name="Snow Leopard Terminal splitting", kind="Build",
@@ -121,6 +189,18 @@ INVENTIONS = [
   desc="A very quick look at the UNR desktop on an Acer Aspire One 110L - it's waaaay better than 9.04 Jaunty, with almost every single thing working out of the box and full graphics acceleration available.",
   videos=[
    "60H3FIKe-Gk",  # 2009-10-17 Ubuntu Netbook Remix 9.10 Karmic Koala on Acer Aspire One 110L
+  ],
+ ),
+ dict(name="Hong Kong at night", kind="Build",
+  desc="Walking along the harbour and on the Star Ferry from Hong Kong to Kowloon",
+  videos=[
+   "_kGv4yOS_Fg",  # 2009-12-27 Hong Kong at night
+  ],
+ ),
+ dict(name="AR Retail and WebSphere", kind="Build",
+  desc="Nice demo from the Solution Center floor at IBM Impact 2010 showing an Augmented Retail scenario and webapp running on an iPhone - backend all powered by IBM WebSphere middleware (Commerce, Voice Server etc)",
+  videos=[
+   "g6AijgH_u34",  # 2010-05-11 AR Retail and WebSphere - IBM Impact 2010
   ],
  ),
  dict(name="IPhone 4 TomTom kit fix", kind="Build",
@@ -177,6 +257,12 @@ INVENTIONS = [
    "gbDVVUVMcZU",  # 2011-08-30 Owl display at Birdworld
   ],
  ),
+ dict(name="Lanyrd Quick Tour", kind="Build",
+  desc="A brief overview of how to use Lanyrd to manage the events you attend",
+  videos=[
+   "3d3ydYXPoU8",  # 2011-09-04 Lanyrd Quick Tour
+  ],
+ ),
  dict(name="Raspberry Pi video capabilities", kind="Build",
   desc="Raspberry Pi video capabilities.",
   videos=[
@@ -201,10 +287,34 @@ INVENTIONS = [
    "LaZ3afRQrQs",  # 2012-05-12 Google Maps 3D route mapping
   ],
  ),
+ dict(name="Fignition RevD introduction", kind="Build",
+  desc="Fignition RevD introduction.",
+  videos=[
+   "8AkqG6aZjHA",  # 2012-05-13 Fignition RevD introduction
+  ],
+ ),
+ dict(name="Mozilla London Open House 2012", kind="Build",
+  desc="Fun as the new Mozilla Space in London opened - crazy fiddlers and lots of refreshments!",
+  videos=[
+   "MsGzWVCZhxA",  # 2012-05-17 Mozilla London Open House 2012
+  ],
+ ),
  dict(name="BlinkenPi", kind="Build",
   desc="BlinkenPi.",
   videos=[
    "_-ncDclqQUg",  # 2012-05-21 BlinkenPi
+  ],
+ ),
+ dict(name="IOS-based Admin Tools for Cloud Foundry", kind="Build",
+  desc="A short screencast showing two iPhone apps for managing applications running on a Cloud Foundry instance.",
+  videos=[
+   "MfsxcYJSCA8",  # 2012-05-28 iOS-based Admin Tools for Cloud Foundry
+  ],
+ ),
+ dict(name="Apple Basingstoke iPhone 5 launch", kind="Build",
+  desc="Apple Basingstoke iPhone 5 launch.",
+  videos=[
+   "TdvfsdeEI9I",  # 2012-09-21 Apple Basingstoke iPhone 5 launch
   ],
  ),
  dict(name="MicroDoc Eclipse Paho MQTT demo at EclipseCon Europe 2012", kind="Build",
@@ -231,6 +341,15 @@ INVENTIONS = [
    "YiOiKKKo4nY",  # 2013-07-08 Liquid Pixels
   ],
  ),
+ dict(name="Wii U - Mario Kart 8 - Piranha Plant Pipeway highlights", kind="Build",
+  desc="Shy Guy riding a Mercedes W25 Silver Arrow",
+  videos=[
+   "z_-lsSTK_UM",  # 2014-06-05 Wii U - Mario Kart 8 - Mario Kart Stadium
+   "ZFNN5_gxNUw",  # 2014-06-07 Wii U - Mario Kart 8 - Mario Circuit
+   "SSP_EhucpR8",  # 2014-09-01 Wii U - Mario Kart 8 - Piranha Plant Pipeway highlights
+   "Al78RLlnK2o",  # 2015-05-03 Wii U - Mario Kart 8 - (3DS) Koopa City
+  ],
+ ),
  dict(name="ESP32-C3 NeoPixel board", kind="Build",
   desc="This is a short clip of the ESP32-C3FH4 RGB board running an out-of-the-box demo it arrived with.",
   videos=[
@@ -243,10 +362,34 @@ INVENTIONS = [
    "AoxiDqkFxXI",  # 2022-02-13 CheerDot (MicroPython with ESP32-C3 RGB board and Cheerlights)
   ],
  ),
+ dict(name="A Wordle Device", kind="Build",
+  desc="A Wordle Device - ESP32-C3FH4-RGB.",
+  videos=[
+   "2UfY--8PEmA",  # 2022-02-13 A Wordle Device - ESP32-C3FH4-RGB
+  ],
+ ),
  dict(name="TinyGo simple NeoPixel test on ESP32-C3FH4-RGB", kind="Build",
   desc="A small demo TinyGo sketch running on the ESP32-C3FH4-RGB development board",
   videos=[
    "6fdQINVSJFc",  # 2022-02-18 TinyGo simple NeoPixel test on ESP32-C3FH4-RGB
+  ],
+ ),
+ dict(name="5x5 single digit clock", kind="Build",
+  desc="This video shows Arduino code running on the ESP32-C3FH4-RGB NeoPixel board.",
+  videos=[
+   "eF4v-Na2XIM",  # 2022-02-22 5x5 single digit clock - ESP32-C3FH4-RGB board
+  ],
+ ),
+ dict(name="IKEA Hacking - IVAR/SKADIS Hook 3D print", kind="Build",
+  desc="Printing a set of hooks to mount IKEA SKADIS to the side of IKEA IVAR shelving, using a FlashForge Adventurer 3",
+  videos=[
+   "Dfeto6Zj7V8",  # 2023-01-04 IKEA Hacking - IVAR/SKADIS Hook 3D print
+  ],
+ ),
+ dict(name="Jolly Wrencher 5x5 on FluidNC CoreXY plotter", kind="Build",
+  desc="Testing a LY Drawbot plotter that I've refitted with a FluidNC board.",
+  videos=[
+   "muXezKabU64",  # 2024-07-21 Jolly Wrencher 5x5 on FluidNC CoreXY plotter
   ],
  ),
 ]

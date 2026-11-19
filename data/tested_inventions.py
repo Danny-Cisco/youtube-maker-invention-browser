@@ -1,9 +1,6 @@
-"""Curated builds for Adam Savage (Adam Savage's Tested, @tested). The channel covers far more than Adam's own work, so only his builds (One Day Builds, Adam Savage Builds, Inside Adam Savage's Cave) are grouped here, by theme.
-kind: Spacesuit | Prop replica | Costume | Shop tool | Model | Machine
+"""Curated inventions for Adam Savage (Tested).
 
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+Livestreams and series videos attached by build/attach_unassigned.py."""
 
 CREATOR = {'slug': 'adam-savage', 'name': 'Adam Savage (Tested)', 'person': 'Adam Savage', 'tagline': "The MythBusters host's One Day Builds: spacesuits, movie-prop replicas and endlessly organised shop storage.", 'other_label': 'Other uploads: Tested reviews, interviews, Show and Tell, podcasts and guest builds'}
 
@@ -365,6 +362,19 @@ INVENTIONS = [
    "Hv14-nlQJ2s",  # 2021-04-27 Inside Adam Savage's Cave: The Return of Moly Dee!
    "WokB7aRN0sU",  # 2022-09-26 Inside Adam Savage's Cave: Lifelike Nicolas Cage Mask!
    "rZjQVmkRuRg",  # 2023-01-10 Inside Adam Savage's Cave: New Acoustic Guitar!
+  ],
+ ),
+ dict(name="Building a Custom Arcade Cabinet", kind="Build",
+  desc="Our next Tested Project is a custom arcade cabinet, built from scratch!",
+  videos=[
+   "SIYx2Altf2k",  # 2014-08-26 Building a Custom Arcade Cabinet, Part 1
+   "V_xeOvdOnsQ",  # 2014-09-02 Building a Custom Arcade Cabinet, Part 2
+   "sVLnM9fMGdw",  # 2014-09-08 Building a Custom Arcade Cabinet, Part 3
+   "2tZ0t6gArAk",  # 2014-09-17 Building a Custom Arcade Cabinet, Part 4
+   "cEeNG_MP7GE",  # 2014-09-23 Building a Custom Arcade Cabinet, Part 5
+   "O4yiHxiQ3c4",  # 2014-09-30 Building a Custom Arcade Cabinet, Part 6
+   "I3wMvh8_I_s",  # 2014-12-01 Building a Custom Arcade Cabinet, Part 7
+   "qS9a9h4qk30",  # 2018-05-25 Custom-Built Live-Streaming Arcade Cabinet!
   ],
  ),
 ]

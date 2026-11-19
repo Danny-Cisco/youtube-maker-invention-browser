@@ -1,7 +1,7 @@
 """Curated inventions for Diligent Dwarves (@diligent_dwarves).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'diligent-dwarves', 'name': 'Diligent Dwarves', 'person': 'Diligent Dwarves', 'tagline': 'Craft and creativity from nearly 50 years of making.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -35,6 +35,13 @@ INVENTIONS = [
   desc="These are nearly exact copies of a 1595 Greenwich armour that is in the Wallace Collection (London) and another armour in the Metropolitan Museum of Art (NYC).",
   videos=[
    "H69whKzV3wQ",  # 2019-09-17 Greenwich leg armour
+   "kDdPe3vuxQ8",  # 2020-08-15 How I made my Greenwich armour: Etching- Vinyl weeding
+   "OIQRULUg8_c",  # 2020-08-15 How I made my Greenwich Armour: Etching: Vinyl application
+   "YO7ZLKqMPJM",  # 2020-10-29 How I made my Greenwich armour: Creating capped rivets
+   "zBN1OVvxfLY",  # 2024-06-26 Greenwich armour project - Replicating an late 16th C. Garniture.
+   "bYp4A3rlg9I",  # 2025-01-12 Greenwich Armour - Jousting
+   "uoWPkutDSSs",  # 2025-02-02 The Greenwich Armour Project - The Jousting Pieces
+   "MKbLBhjdFBA",  # 2025-06-07 Greenwich Armour Project: Articulation - Arms
   ],
  ),
  dict(name="Lime Rock 1973 Newman", kind="Build",
@@ -67,50 +74,28 @@ INVENTIONS = [
    "9yLm7mMh1Sw",  # 2020-06-22 Dave Beldon Ralph Gilman Spitfire at Bryer
   ],
  ),
- dict(name="How I made my Greenwich armour", kind="Build",
-  desc="I’m sure there are more experienced people doing tutorials of this work, but this application may be at a much finer scale than most vinyl cutting.",
-  videos=[
-   "kDdPe3vuxQ8",  # 2020-08-15 How I made my Greenwich armour: Etching- Vinyl weeding
-   "OIQRULUg8_c",  # 2020-08-15 How I made my Greenwich Armour: Etching: Vinyl application
-  ],
- ),
  dict(name="Thompson Raceway 1966 SCCA Racing", kind="Build",
   desc="For usage, or more info contact Chris Gilman",
   videos=[
    "mz3hECvg8FM",  # 2020-10-12 Thompson Raceway 1966 SCCA Racing
   ],
  ),
- dict(name="Sebring 12 hour 1969", kind="Build",
+ dict(name="Sebring 12 hour 1967", kind="Build",
   desc="Home movies of the 1969 12 hour Sebring Race",
   videos=[
+   "hHUXKJPA2JE",  # 2020-10-30 Sebring 12 hour 1968
    "_2oDmFiYms4",  # 2020-10-30 Sebring 12 hour 1969
+   "_54PmVqMXHg",  # 2020-11-01 Sebring 12 hour 1967 (1)
+   "pg8t-aEPGf8",  # 2020-11-02 Sebring 12 hour 1967 (Part 2)
   ],
  ),
  dict(name="Road Atlanta - ARRC 1975", kind="Build",
   desc="SCCA American Road Race of Champions 1975",
   videos=[
+   "1WLdZG-cfCs",  # 2020-10-30 Road Atlanta ARRC 1971
    "FjY3n6D5Fjk",  # 2020-10-30 Road Atlanta - ARRC 1975
    "0j1hn4qJOVA",  # 2020-10-30 Road Atlanta ARRC 1975?
-  ],
- ),
- dict(name="Road Atlanta ARRC 1971", kind="Build",
-  desc="SCCA American Road Race of Champions 1971",
-  videos=[
-   "1WLdZG-cfCs",  # 2020-10-30 Road Atlanta ARRC 1971
    "GzHcp4AAO88",  # 2020-10-30 Road Atlanta ARRC 1971 (2)
-  ],
- ),
- dict(name="Sebring 12 hour 1968", kind="Build",
-  desc="Home movies of the 1968 Sebring race, footage shot from the Goodyear Blimp",
-  videos=[
-   "hHUXKJPA2JE",  # 2020-10-30 Sebring 12 hour 1968
-  ],
- ),
- dict(name="Sebring 12 hour 1967", kind="Build",
-  desc="Home movies of the 1969 12 hour Sebring Race",
-  videos=[
-   "_54PmVqMXHg",  # 2020-11-01 Sebring 12 hour 1967 (1)
-   "pg8t-aEPGf8",  # 2020-11-02 Sebring 12 hour 1967 (Part 2)
   ],
  ),
  dict(name="Christopher Gilman", kind="Build",
@@ -137,7 +122,7 @@ INVENTIONS = [
    "u6h0T7YlpVM",  # 2024-07-14 Greenwich Armour introduction - More details of the Armet Helmet
   ],
  ),
- dict(name="Diligent Dwarves- Dracula to SpaceX", kind="Build",
+ dict(name="Dracula to SpaceX", kind="Build",
   desc="A little sampling of some of the things I build.",
   videos=[
    "OGmNAlGyE04",  # 2024-07-21 Diligent Dwarves- Dracula to SpaceX - Out of this world projects
@@ -155,24 +140,11 @@ INVENTIONS = [
    "XB6TLRf9QTE",  # 2024-08-17 Greenwich Armour Project   Burgonet
   ],
  ),
- dict(name="Greenwich Armour", kind="Build",
-  desc="Short video, showing visibility of Jousting visor, and why it needs to be small.",
-  videos=[
-   "bYp4A3rlg9I",  # 2025-01-12 Greenwich Armour - Jousting
-  ],
- ),
- dict(name="The Greenwich Armour Project", kind="Build",
-  desc="The documentation of a replica Greenwich armour garniture.",
-  videos=[
-   "uoWPkutDSSs",  # 2025-02-02 The Greenwich Armour Project - The Jousting Pieces
-  ],
- ),
  dict(name="40 years of Movies...In 40 Seconds", kind="Build",
   desc="How was Gary Oldman's Dracula armor made.",
   videos=[
    "2DIs-r-qhd8",  # 2025-05-10 40 years of Movies...In 40 Seconds - Dracula Armor
    "C2qFnOnEN7w",  # 2025-05-10 40 Years of Movies...in 40 Seconds - Space Cowboys
-   "Jn-94Z6c9WA",  # 2025-05-31 40 years of Movies in...40 seconds: The Spaceman
   ],
  ),
  dict(name="Is this real armor, the Leda or Ebony Armor", kind="Build",
@@ -181,10 +153,23 @@ INVENTIONS = [
    "Gr7pZ4KRy7A",  # 2025-05-18 Is this real armor, the Leda or Ebony Armor?
   ],
  ),
+ dict(name="40 years of Movies in...40 seconds", kind="Build",
+  desc="With over 40 years, making costumes and Props for film, I highlight some of the behind the scenes details that went into some of your favorite films.",
+  videos=[
+   "Jn-94Z6c9WA",  # 2025-05-31 40 years of Movies in...40 seconds: The Spaceman
+  ],
+ ),
  dict(name="Is there such a thing, as Parade Armor", kind="Build",
   desc="I explore the idea of \"Parade armour\" and show why the idea, is mostly a modern one.",
   videos=[
    "eftigGtOlhY",  # 2025-06-29 Is there such a thing, as Parade Armor
+  ],
+ ),
+ dict(name="An overview of the types of molds you can make in your shop, from a To", kind="Build",
+  desc="Mold types used in the movie industry (and others) for prop and costume projects.",
+  videos=[
+   "j0l3nnKJs54",  # 2026-06-01 An overview of the types of molds you can make in your shop, from a To
+   "VJJG9Jtqg_4",  # 2026-06-08 An overview of the types of molds you can make in your shop, from a To
   ],
  ),
  dict(name="Greenwich Armour- Jousting configuration", kind="Build",

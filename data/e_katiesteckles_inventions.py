@@ -1,7 +1,7 @@
 """Curated inventions for Katie Steckles (@katiesteckles).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'katie-steckles', 'name': 'Katie Steckles', 'person': 'Katie Steckles', 'tagline': 'Maths you can build, like a card-shuffling machine.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -119,30 +119,15 @@ INVENTIONS = [
   desc="I'm using MacOS Keynote, as I do for all my slides and animations, and as you'll see I've done a slightly wrong but perfectly adequate job of creating an animation to demonstrate the fact that the sine of an angle is …",
   videos=[
    "CQbzrUOIVQE",  # 2025-03-20 Animation Generation Collaboration entry for March 2025: Katie Steckle
-  ],
- ),
- dict(name="Animation Generation Collaboration entry for April 2025", kind="Build",
-  desc="I'm using MacOS Keynote, as I do for all my slides and animations, and as you'll see I've done a slightly wrong but perfectly adequate job of creating an animation to show a net of a polyhedron folding up into a polyh…",
-  videos=[
    "bbrfb0nnlCo",  # 2025-04-29 Animation Generation Collaboration entry for April 2025: Katie Steckle
-  ],
- ),
- dict(name="Animation Generation Collaboration entry for May 2025", kind="Build",
-  desc="I'm using MacOS Keynote, as I do for all my slides and animations, and as you'll see I've done an animation that proves Pythagoras' theorem (just about, maybe a couple of pixels out here and there) with labels that mo…",
-  videos=[
    "SVcnjg6jqHg",  # 2025-05-28 Animation Generation Collaboration entry for May 2025: Katie Steckles
+   "ZlYXJoQexIc",  # 2025-07-05 Animation Generation Collaboration entry for June 2025: Katie Steckles
   ],
  ),
  dict(name="Why Can't People Draw Pictures of Real Noughts and Crosses Games", kind="Build",
   desc="Join Katie and her combinatorial game theory pal Peter Rowlett for a look at some of the pictures people have drawn of tic-tac-toe games, and why some of them are real bad.",
   videos=[
    "K29O13EUnZQ",  # 2025-06-11 Why Can't People Draw Pictures of Real Noughts and Crosses Games?
-  ],
- ),
- dict(name="Animation Generation Collaboration entry for June 2025", kind="Build",
-  desc="I'm using MacOS Keynote, as I do for all my slides and animations, and as you'll see I've done an animation that shows a pursuit curve.",
-  videos=[
-   "ZlYXJoQexIc",  # 2025-07-05 Animation Generation Collaboration entry for June 2025: Katie Steckles
   ],
  ),
  dict(name="How good is my card shuffling machine", kind="Build",

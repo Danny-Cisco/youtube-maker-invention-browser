@@ -1,7 +1,7 @@
 """Curated inventions for Bad Obsession Motorsport (@badobsessionmotorsport).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'bad-obsession-motorsport', 'name': 'Bad Obsession Motorsport', 'person': 'Bad Obsession Motorsport', 'tagline': 'Engineering lunacy, most famously Project Binky, a rally-car Mini.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -55,10 +55,19 @@ INVENTIONS = [
    "qVN3DRkn9ig",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Swansea Bay SS5 Tyle
   ],
  ),
- dict(name="Project Binky: Turbocharged 4WD Mini", kind="Build",
-  desc="These are some of the outtakes from the shooting of the trailer for Project Binky.",
+ dict(name="Project Binky - The Outtakes. Strong language", kind="Build",
+  desc="We figured in the current rather uncertain climate you might like to have a laugh at our expense.",
   videos=[
    "C0JfHyj04no",  # 2013-06-28 Project Binky - The Outtakes. Strong language and cocking about.
+   "uSTbnT8D_DI",  # 2015-05-10 Project Binky - The Outtakes Part 2. Strong language.
+   "lVV_za4wkEc",  # 2017-06-24 Project Binky - The Outtakes Part 3. Strong language.
+   "OxJc57T_dwU",  # 2017-12-16 Project Binky - The Outtakes Part 4. Strong language
+   "EzxcuBJUE7E",  # 2020-04-01 Project Binky - The Outtakes Part 5. Strong language.
+  ],
+ ),
+ dict(name="Project Binky - - Austin Mini GT-Four - Turbo Charged 4WD Mini", kind="Build",
+  desc="In the first episode of Project Binky, we take a rotten old Austin Mini and strip it down to a bare shell.",
+  videos=[
    "7hCPODjJO7s",  # 2013-08-17 Project Binky - Episode 1  - Austin Mini GT-Four - Turbo Charged 4WD M
    "9VKegYsSRG0",  # 2013-10-18 Project Binky - Episode 2 - Austin Mini GT-Four - Turbo Charged 4WD Mi
    "ksbtdPgQM00",  # 2013-12-24 Project Binky - Episode 3 - Austin Mini GT-Four - Turbo Charged 4WD Mi
@@ -68,16 +77,13 @@ INVENTIONS = [
    "r0wMIF6EPfY",  # 2014-09-26 Project Binky - Episode 7 - Austin Mini GT-Four - Turbocharged 4WD Min
    "n_H8bK8o3UM",  # 2014-12-24 Project Binky - Episode 8 - Austin Mini GT-Four - Turbocharged 4WD Min
    "7v59dDxCk9w",  # 2015-04-17 Project Binky - Episode 9 - Austin Mini GT-Four - Turbocharged 4WD Min
-   "uSTbnT8D_DI",  # 2015-05-10 Project Binky - The Outtakes Part 2. Strong language.
    "X3DTTL9xRQ0",  # 2015-07-31 Project Binky - Episode 10 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "ob-FUF0Sh_E",  # 2015-12-04 Project Binky - Episode 11 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "NMT9Ykmneiw",  # 2016-04-08 Project Binky - Episode 12 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "I_ajcKhHLjU",  # 2016-07-22 Project Binky - Episode 13 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "mB4NXA_vNWs",  # 2016-11-25 Project Binky - Episode 14 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "hViplB84We4",  # 2017-03-17 Project Binky - Episode 15 - Austin Mini GT-Four - Turbocharged 4WD Mi
-   "lVV_za4wkEc",  # 2017-06-24 Project Binky - The Outtakes Part 3. Strong language.
    "hR1nU9IJsoM",  # 2017-10-13 Project Binky - Episode 16 - Austin Mini GT-Four - Turbocharged 4WD Mi
-   "OxJc57T_dwU",  # 2017-12-16 Project Binky - The Outtakes Part 4. Strong language
    "M7aZzkqLtFM",  # 2018-05-18 Project Binky - Episode 17 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "NX4lBvHDMs8",  # 2018-08-01 Project Binky - Episode 18 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "QBXT1sHP92w",  # 2018-10-01 Project Binky - Episode 19 - Austin Mini GT-Four - Turbocharged 4WD Mi
@@ -88,12 +94,10 @@ INVENTIONS = [
    "ulmmJlhecdQ",  # 2019-05-12 Project Binky - Episode 24 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "LtLmuTgYTZw",  # 2019-06-30 Project Binky - Episode 25 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "wKeCH5QQPXk",  # 2019-09-29 Project Binky - Episode 26 - Austin Mini GT-Four - Turbocharged 4WD Mi
-   "0C1z1MtHAU4",  # 2019-10-12 Project Binky - An Understanding Enhancement
    "QqhoTkDS_KA",  # 2019-12-08 Project Binky - Episode 27 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "oKtQEFoexFk",  # 2019-12-24 Project Binky - Episode 28 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "UMZ8_pqJgek",  # 2020-02-09 Project Binky - Episode 29 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "cN8DYQIuW9Y",  # 2020-03-01 Project Binky - Episode 30 - Austin Mini GT-Four - Turbocharged 4WD Mi
-   "EzxcuBJUE7E",  # 2020-04-01 Project Binky - The Outtakes Part 5. Strong language.
    "4mCmv0jrya4",  # 2020-05-02 Project Binky - Episode 31 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "Yo0oqVtCJt8",  # 2020-06-20 Project Binky - Episode 32 - Austin Mini GT-Four - Turbocharged 4WD Mi
    "PE9UP2NbIVU",  # 2021-01-29 Project Binky - Episode 33 - Austin Mini GT-Four - Turbocharged 4WD Mi
@@ -123,12 +127,6 @@ INVENTIONS = [
    "PPYNCt5yV-U",  # 2018-11-25 Howie Did It - Machining the flexi-shaft auxiliary drive. Part 2
   ],
  ),
- dict(name="Bad Obsession Motorsport", kind="Build",
-  desc="Just a quick video detailing what's coming up after the mini is completed.",
-  videos=[
-   "hBePeBMklko",  # 2019-03-15 Bad Obsession Motorsport - Life After Death's Horse
-  ],
- ),
  dict(name="The Escargot - RV/Camper Car Transporter Conversion", kind="Build",
   desc="In part one of our side project, we take a 34 year old ex-library bus and begin its transformation into what we hope will be a hotel on wheels with the added bonus of being able to transport any of our vehicles at the…",
   videos=[
@@ -144,6 +142,12 @@ INVENTIONS = [
   desc="Howie Did It - Hydraulic Lifting Platform.",
   videos=[
    "FmZ6eNj-IzQ",  # 2019-05-26 Howie Did It - Hydraulic Lifting Platform
+  ],
+ ),
+ dict(name="Project Binky - An Understanding Enhancement", kind="Build",
+  desc="We try and answer some of the more frequent questions we get asked across our social media platforms.",
+  videos=[
+   "0C1z1MtHAU4",  # 2019-10-12 Project Binky - An Understanding Enhancement
   ],
  ),
  dict(name="Rallying History Track Day", kind="Build",
@@ -182,6 +186,7 @@ INVENTIONS = [
   desc="Faced with the reality of having to make a complete set of extended wheel arches for our turbo charged, 4WD monster mini, a chance meeting with a mad Spaniard gave us pause for thought.",
   videos=[
    "XM5z6DSsQzU",  # 2020-12-24 Howie Did It - An Experiment in 3D Printing
+   "FzrZoVKT8gM",  # 2024-11-16 Howie Did It - 3D Printing a Printed Circuit Board
   ],
  ),
  dict(name="1964 Austin Healey 3000 MKIII BJ8", kind="Build",
@@ -238,16 +243,22 @@ INVENTIONS = [
    "bDI5jqQfce0",  # 2023-11-11 BMW M50 Powered Celica
   ],
  ),
+ dict(name="100 Year Old Dodge Touring Car", kind="Build",
+  desc="Earlier this year - on a rare excursion from the shed – we visited James Cameron, the boss of armed forces charity Mission Motorsport to see his fabulous 1923 Dodge Touring Car.",
+  videos=[
+   "tXuAgGKj0tw",  # 2023-11-24 100 Year Old Dodge Touring Car
+  ],
+ ),
  dict(name="A Fuelish Endeavour", kind="Build",
   desc="We're well used to not everything going to plan, so when we turned up to our friend James Cameron's place to film the 100 Year Old Dodge video it came as little surprise to find the car reluctant take us to the pub fo…",
   videos=[
    "qrlMgmjr9VQ",  # 2023-12-25 A Fuelish Endeavour - Taking a Centenarian to the Pub
   ],
  ),
- dict(name="Howie Did It - 3D Printing a Printed Circuit Board", kind="Build",
-  desc="Faced with some clearance issues, we needed a printed circuit board, but with no electronics experience, how would we go about that?",
+ dict(name="The Escargot - Update", kind="Build",
+  desc="It's been a while and due to popular demand, we figured there's probably three of you that still want to know what's going on with the R/V Camper, Motorhome, Race Transporter vehicle we started eons ago.",
   videos=[
-   "FzrZoVKT8gM",  # 2024-11-16 Howie Did It - 3D Printing a Printed Circuit Board
+   "dkoyPUqG1Vw",  # 2025-08-29 The Escargot - Update!
   ],
  ),
  dict(name="Howie Did It - Learning Ardunio and Electronics", kind="Build",

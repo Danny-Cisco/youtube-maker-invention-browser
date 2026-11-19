@@ -1,13 +1,8 @@
-"""Curated inventions for LOOK MUM NO COMPUTER (Sam Battle).
+"""Curated inventions for Look Mum No Computer.
 
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not listed
-here appears under "Other uploads" on the site.
-kind: Instrument | Machine | Mod | Synth module
-"""
+Livestreams and series videos attached by build/attach_unassigned.py."""
 
-CREATOR = dict(slug="look-mum-no-computer", name="Look Mum No Computer", person="Sam Battle",
-               tagline="Music machines made from Furbies, Game Boys, fire, church organs and test equipment.",
-               other_label="Other uploads: songs, covers, live sets, gear tours, tutorials, cars and more")
+CREATOR = {'slug': 'look-mum-no-computer', 'name': 'Look Mum No Computer', 'person': 'Sam Battle', 'tagline': 'Music machines made from Furbies, Game Boys, fire, church organs and test equipment.', 'other_label': 'Other uploads: songs, covers, live sets, gear tours, tutorials, cars and more'}
 
 INVENTIONS = [
  dict(name="Synth Bike", kind="Instrument",
@@ -187,7 +182,8 @@ INVENTIONS = [
    "mhgALAYwYPU",  # 2019-04-25 Furby Organ 2.0 THE PORTABLE FURBY ORGAN
    "IforMSCQhW8",  # 2026-03-12 What do the furbys think? #furby #furbyorgan
   ],
-  links=[("Vice: why he built it", "https://vice.com/en/article/we-asked-the-creator-of-the-furby-organ-why"), ("New Atlas", "https://newatlas.com/look-mum-no-computer-furby-organ/53392/"), ("Make:", "https://makezine.com/article/craft/you-dont-know-terror-until-youve-experienced-the-furby-organ/")]),
+  links=[('Vice: why he built it', 'https://vice.com/en/article/we-asked-the-creator-of-the-furby-organ-why'), ('New Atlas', 'https://newatlas.com/look-mum-no-computer-furby-organ/53392/'), ('Make:', 'https://makezine.com/article/craft/you-dont-know-terror-until-youve-experienced-the-furby-organ/')],
+ ),
  dict(name="TV Oscillograph", kind="Machine",
   desc="An old CRT television converted into an oscillograph for drawing pictures with sound.",
   videos=[
@@ -268,7 +264,8 @@ INVENTIONS = [
    "cOzDvGR1evM",  # 2021-11-17 Playing on the GAMEBOY Mega Machine - Church Reverb In A Minor -
    "5tIOIEb_5IU",  # 2021-11-24 Stereo filters in THE GAMEBOY MEGA MACHINE episode 17
   ],
-  links=[("Hackaday", "https://hackaday.com/2018/11/29/an-englishman-and-48-gameboys-walk-into-a-bar"), ("Geeky Gadgets", "https://www.geeky-gadgets.com/gameboy-mega-machine-synthesiser-08-06-2021/")]),
+  links=[('Hackaday', 'https://hackaday.com/2018/11/29/an-englishman-and-48-gameboys-walk-into-a-bar'), ('Geeky Gadgets', 'https://www.geeky-gadgets.com/gameboy-mega-machine-synthesiser-08-06-2021/')],
+ ),
  dict(name="Torture Me Elmo", kind="Mod",
   desc="A modified Elmo toy made to sing like an angel.",
   videos=[
@@ -353,6 +350,7 @@ INVENTIONS = [
    "JbccJpJvwDo",  # 2020-05-17 Making a Super Sketchy TRIPLE Delay/Noise Module - DIY KOSMO TRIPLE SP
    "3q5JJWKzNno",  # 2020-11-01 One Year Of Designing And Releasing A Synthesizer Module A Month.
    "w-KZj-DXevc",  # 2021-05-21 DIY MOOG STYLE MODULAR SYNTH
+   "L6HM-YR0Oms",  # 2021-06-22 RETHINKING MY KOSMO MODULAR SYNTH LIVESTREAM
    "46yD53AYE8s",  # 2022-05-06 KOSMO VCO Faithfully SHRUNK TO EURORACK -  Analog #1222 Look Mum No Co
    "bZemkosa3Yo",  # 2023-03-11 Improving My DIY MODULAR SYNTHESIZER pt1
    "bL0IztO2b7E",  # 2023-11-26 Making My Modular Synth Bigger And Better For Live Shows
@@ -414,7 +412,8 @@ INVENTIONS = [
    "M_rvF1mKoP8",  # 2021-06-20 KILO DRONE DIY Analog Controller For 1000 Oscillator Megadrone
    "f5pdKuwabfA",  # 2022-03-23 THE KILODRONE FINALLY HAS A DETUNE KNOB WOOP WOOP
   ],
-  links=[("IEEE Spectrum", "https://spectrum.ieee.org/geek-life/profiles/the-intense-sound-of-1000-analog-oscillators"), ("Hackster", "https://www.hackster.io/news/the-kilodrone-features-a-thousand-individual-oscillators-568c4b19146d"), ("MusicRadar interview", "https://www.musicradar.com/news/look-mum-no-computer-my-1000-oscillator-megadrone-was-challenging")]),
+  links=[('IEEE Spectrum', 'https://spectrum.ieee.org/geek-life/profiles/the-intense-sound-of-1000-analog-oscillators'), ('Hackster', 'https://www.hackster.io/news/the-kilodrone-features-a-thousand-individual-oscillators-568c4b19146d'), ('MusicRadar interview', 'https://www.musicradar.com/news/look-mum-no-computer-my-1000-oscillator-megadrone-was-challenging')],
+ ),
  dict(name="Owl Organ", kind="Instrument",
   desc="A musical instrument made from owl garden ornaments.",
   videos=[
@@ -585,7 +584,8 @@ INVENTIONS = [
    "AtDhUIQq6co",  # 2023-10-10 Can You Play A Church Organ With A GAMEBOY? (It works surprisingly wel
    "MhZUYTrFl98",  # 2023-12-22 LOADING DODGY CHRISTMAS SONG FILES INTO MY CHURCH ORGAN LIVESTREAM
   ],
-  links=[("Hackaday: moving it", "https://hackaday.com/2022/05/31/how-to-move-a-full-sized-church-organ-from-a-house-to-a-museum"), ("Time Extension: played by a Game Boy", "https://www.timeextension.com/news/2023/10/random-youtube-musician-uses-modded-game-boy-to-play-church-organ")]),
+  links=[('Hackaday: moving it', 'https://hackaday.com/2022/05/31/how-to-move-a-full-sized-church-organ-from-a-house-to-a-museum'), ('Time Extension: played by a Game Boy', 'https://www.timeextension.com/news/2023/10/random-youtube-musician-uses-modded-game-boy-to-play-church-organ')],
+ ),
  dict(name="Electromechanical Visitor Counter", kind="Machine",
   desc="An electromechanical counter that survives an electromagnetic storm and plays you a song, later with a robotic glockenspiel.",
   videos=[
@@ -764,7 +764,8 @@ INVENTIONS = [
    "Swvmhe6OCJk",  # 2025-07-25 A GAME WITH AN INTERACTIVE SOUNDTRACK #retrogaming #gaming
    "9sMCkMzWQ8Q",  # 2026-01-29 THE LOOK MUM NO COMPUTER GAME IS NOW OUT ON ALL CONSOLES. Like the swi
   ],
-  links=[("PC Gamer", "https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit"), ("Nintendo eShop", "https://www.nintendo.com/us/store/products/look-mum-no-computer-switch/")]),
+  links=[('PC Gamer', 'https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit'), ('Nintendo eShop', 'https://www.nintendo.com/us/store/products/look-mum-no-computer-switch/')],
+ ),
  dict(name="Flamethrower Violin", kind="Instrument",
   desc="A flamethrower violin, inspired by Finland's Eurovision entry.",
   videos=[
@@ -848,6 +849,22 @@ INVENTIONS = [
   desc="A keyboard to make your cat a musical virtuoso, for the YouTube Secret Santa 2020.",
   videos=[
    "7Zn7MasWpds",  # 2020-12-23 Musical Keyboard For Cats - Make Your Cat A Musical Virtuoso - YOUTUBE
+  ],
+ ),
+ dict(name="CIRCUIT BENDING YAMAHA DD5 drum machine", kind="Build",
+  desc="Part 2 of circuit bending this machine!",
+  videos=[
+   "Uh0WFEn7sSw",  # 2021-10-07 Live Circuit bending(or breaking) a Yamaha dd5 drum machine PART 1
+   "2vkAKo4Wi2k",  # 2021-10-09 CIRCUIT BENDING(or breaking) YAMAHA DD5 drum machine part 2
+  ],
+ ),
+ dict(name="Building A SUPERCHARGED Classic Mini Engine. From Start To Finish. BIG", kind="Build",
+  desc="cheers for the engine machine work :-",
+  videos=[
+   "4lK7kdgK7dI",  # 2021-06-10 Building A Super Simple Sound Machine, LIVE From Start To Finish
+   "GsTGu2V7tcU",  # 2023-08-10 Building A Whole Analog Synthesizer voice From Start To Finish On Brea
+   "ZMEvETQELe4",  # 2025-02-19 FROM START TO FINISH - Assembling Uprated Subframes For A Classic Mini
+   "B58E-AxS6eo",  # 2025-06-15 Building A SUPERCHARGED Classic Mini Engine. From Start To Finish. BIG
   ],
  ),
 ]

@@ -1,23 +1,22 @@
 """Curated inventions for Frazer Merrick (@frazermerrick).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'frazer-merrick', 'name': 'Frazer Merrick', 'person': 'Frazer Merrick', 'tagline': 'DIY synths and Eurorack modules.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="CLIP ft. Ranieri Spina", kind="Build",
+  desc="CLIP ft.",
+  videos=[
+   "ajlhJHEgzDg",  # 2017-11-05 CLIP ft. Ranieri Spina - Tour de First
+  ],
+ ),
  dict(name="Hidden Noises by Frazer Merrick @ Chalton Gallery, London", kind="Build",
   desc="Hidden Noises: An improvised performance uncovering the hidden electromagnetic soundscape around us.",
   videos=[
    "AtTVBblqi5g",  # 2018-01-29 Hidden Noises by Frazer Merrick @ Chalton Gallery, London
-  ],
- ),
- dict(name="Frazer Merrick", kind="Build",
-  desc="Frazer Merrick - Carousel.",
-  videos=[
-   "N9DxOYVZw0Y",  # 2019-09-02 Frazer Merrick - Carousel
-   "S9ct3f2zKKU",  # 2020-04-12 Frazer Merrick - Gaiety (Laser Pen Music Video)
   ],
  ),
  dict(name="Electromagnetic Fields of Clacton Arcades", kind="Build",
@@ -26,9 +25,11 @@ INVENTIONS = [
    "feSQbwof6j4",  # 2019-12-19 Electromagnetic Fields of Clacton Arcades
   ],
  ),
- dict(name="Listening to Light", kind="Build",
-  desc="Listening to Light?!.",
+ dict(name="Listening to light with a solar panel microphone", kind="Build",
+  desc="When photons of light hit a solar panel a small electrical signal is generated due to the photovoltaic effect.",
   videos=[
+   "MOxknAPli0s",  # 2020-02-24 DIY Solar Panel Microphone
+   "aM6TPDAiELE",  # 2020-05-19 Listening to light with a solar panel microphone
    "TJuP60Apq5c",  # 2020-12-13 Listening to Light?!
   ],
  ),
@@ -72,6 +73,7 @@ INVENTIONS = [
   desc="Improvised jam with the Photon Smasher prototype sampled onto the Casio SK1 with some delay from the mini.",
   videos=[
    "qTf2z5FWpPI",  # 2021-11-10 Distorted drones with hot tub LEDs and bike lights
+   "RoCgKVZl_iw",  # 2026-11-05 Making drones from hot tub LEDs.
   ],
  ),
  dict(name="PCB Redesign", kind="Build",

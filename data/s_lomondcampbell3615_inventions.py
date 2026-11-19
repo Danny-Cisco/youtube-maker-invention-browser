@@ -1,7 +1,7 @@
 """Curated inventions for Lomond Campbell (@lomondcampbell3615).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'lomond-campbell', 'name': 'Lomond Campbell', 'person': 'Lomond Campbell', 'tagline': 'Music, machines and videos from the Scottish Highlands.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -71,12 +71,8 @@ INVENTIONS = [
   desc="This is a video about the concepts behind LŪP and how I went about making it.",
   videos=[
    "NweFQQSFFYU",  # 2020-12-03 The making of LŪP - the instrument that wants to be Basinski and Reich
-  ],
- ),
- dict(name="LŪP - custom tape looper and phase pattern generator", kind="Build",
-  desc="LŪP came about when I was commissioned to build a custom tape-looper instrument.",
-  videos=[
    "HSnan0yz8Ns",  # 2020-12-03 LŪP  -  custom tape looper and phase pattern generator
+   "P70ho0quZns",  # 2021-11-30 MODULAR SESSION WITH LŪP
   ],
  ),
  dict(name="Harmonograph Poetry Machine", kind="Build",
@@ -85,24 +81,16 @@ INVENTIONS = [
    "x6fDuH9wxMQ",  # 2021-06-03 Harmonograph Poetry Machine
   ],
  ),
- dict(name="Lomond Campbell", kind="Build",
-  desc="Taken from the album LŪP available on One Little Independent Records",
+ dict(name="Engineer Of Fear / version", kind="Build",
+  desc="Live version of the single Engineer Of Fear recorded in the golden hour at The Lengths using every single extension cable in the highlands.",
   videos=[
-   "IYX_Y2DvlFc",  # 2021-08-04 Lomond Campbell - Engineer of Fear
-   "nyu1gWsYVw8",  # 2021-09-01 Lomond Campbell - Rad Brad Ivy
-   "aFpnOSVD9XI",  # 2021-09-29 Lomond Campbell - Swam
-   "q_uIkNPz9JY",  # 2021-11-22 Lomond Campbell - Fifths
-   "_eHDudFuyDQ",  # 2022-03-03 Lomond Campbell - Reel 1 Phase 6
-   "pMqqHfRA8Z8",  # 2022-08-09 Lomond Campbell - The Mountain And The Pendulum
-   "ZpaEmrFDifU",  # 2022-09-07 Lomond Campbell - Even Songbirds Suffer
-   "uZfPVQZ6FBk",  # 2022-10-06 Lomond Campbell - Sister Rena
-   "Wp_9oCtgarQ",  # 2022-11-02 Lomond Campbell - Leave Only Love Behind
-   "O5BsydmGzsg",  # 2023-01-31 Lomond Campbell - Bastard Wing
-   "Ry0iOokVnDQ",  # 2023-03-05 Lomond Campbell - And They Are Afraid Of Her
-   "_PYafGpWmN4",  # 2023-03-08 Lomond Campbell - For The Uncarved
-   "C4N_2KbeA3s",  # 2023-06-27 Lomond Campbell - Draw Breath
-   "60v0oH2dPWg",  # 2025-07-31 Lomond Campbell - Always Awake
-   "CyV95wXoGlA",  # 2025-08-28 Lomond Campbell - Ternary I
+   "FaQgoylHckM",  # 2021-08-26 Engineer Of Fear / live version
+  ],
+ ),
+ dict(name="RAD BRAD IVY - performance from a highland rooftop", kind="Build",
+  desc="This is a live version of Rad Brad Ivy, recorded on the roof of The Lengths studio on 25th August.",
+  videos=[
+   "yQr7aoUOLBo",  # 2021-09-16 RAD BRAD IVY - live performance from a highland rooftop
   ],
  ),
  dict(name="TRADE - Julija Pustovrh", kind="Build",
@@ -111,10 +99,10 @@ INVENTIONS = [
    "lmQ3XW6OVXs",  # 2021-10-17 TRADE #1 - Julija Pustovrh
   ],
  ),
- dict(name="Modular Session With Lūp", kind="Build",
-  desc="Just before handing the machine over to King Creosote, I found an old tape loop that never made it on to the album,  so I filmed this ambient improvisation around it.",
+ dict(name="Swam / version", kind="Build",
+  desc="Live studio version of the single Swam recorded at The Lengths.",
   videos=[
-   "P70ho0quZns",  # 2021-11-30 MODULAR SESSION WITH LŪP
+   "T7v6eSmrdlE",  # 2021-10-18 Swam / live version
   ],
  ),
  dict(name="Modular Synth On A Highland Rooftop", kind="Build",
@@ -126,7 +114,9 @@ INVENTIONS = [
  dict(name="LOST LOOPS on a DIY MIDI CONTROLLER", kind="Build",
   desc="This performance makes use of sounds from my album Lost Loops using a DIY MIDI interface to sample and manipulate the sounds.",
   videos=[
+   "9-x_NVM5y5g",  # 2022-03-31 LOST LOOPS LIVE on a DIY MIDI CONTROLLER #1
    "-vz7mzmwNa4",  # 2022-04-05 LOST LOOPS on a DIY MIDI CONTROLLER #2
+   "vDaGZ4xcvIU",  # 2022-04-24 LOST LOOPS LIVE on a DIY MIDI CONTROLLER #3
   ],
  ),
  dict(name="Modular synth and DIY MIDI interface", kind="Build",
@@ -148,7 +138,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="The Unsung Machine", kind="Build",
-  desc="Looking for a meaningful way to incorporate language into music that bypassed the convention of hearing words being said or sung, I built The Unsung Machine.",
+  desc="I was looking for a meaningful way to incorporate language in to music that bypassed the convention of hearing the words being said or sung…so I came up with The Unsung Machine.",
   videos=[
    "9IWYKMr0IX0",  # 2022-07-08 The Unsung Machine #1 - words by Dot Allison
    "mRD3jM2hYVI",  # 2022-07-14 The Unsung Machine #2 - words by Kathryn Joseph
@@ -163,6 +153,18 @@ INVENTIONS = [
   desc="Micheal Pedersen reads the prologue from his book Boy Friends set to a composition by Lomond Campbell.",
   videos=[
    "ehJBABi1p7g",  # 2022-08-18 Prologue - by Michael Pedersen and Lomond Campbell
+  ],
+ ),
+ dict(name="Kathryn Joseph", kind="Build",
+  desc="Recorded on Sunday 18th September 2022 at The Lengths, a former primary school turned studio in the Highlands of Scotland.",
+  videos=[
+   "UQMDlOTWRIY",  # 2022-09-21 Kathryn Joseph - How Well You Are - live at The Lengths
+  ],
+ ),
+ dict(name="The Mountain And The Pendulum", kind="Build",
+  desc="The Mountain And The Pendulum recorded on 24th September 2022 at The Lengths for The Scotsman.",
+  videos=[
+   "HmnyLqCWwUk",  # 2022-09-30 The Mountain And The Pendulum live - Scotsman Session
   ],
  ),
  dict(name="Double Sided CNC machining", kind="Build",
@@ -211,6 +213,12 @@ INVENTIONS = [
   desc="Some early examples of sound and vision from MŮO",
   videos=[
    "Jy2cvRy5yW0",  # 2025-05-22 MŮO visuals excerpt
+  ],
+ ),
+ dict(name="MŮO | The Muonophone", kind="Build",
+  desc="The Muonophone is a custom built instrument that uses muon detectors to generate sound and visuals.",
+  videos=[
+   "HEJ8CaawCmg",  # 2025-07-27 MŮO Live | The Muonophone
   ],
  ),
 ]

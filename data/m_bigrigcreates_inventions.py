@@ -1,7 +1,7 @@
 """Curated inventions for BigRig Creates (@bigrigcreates).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'bigrig-creates', 'name': 'BigRig Creates', 'person': 'BigRig Creates', 'tagline': 'Bringing gaming worlds into the real world, like a working Pokédex.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -11,6 +11,24 @@ INVENTIONS = [
   desc="I go over how to use the Titan One device to help with combo labbing, parrying, and more!",
   videos=[
    "Ige1MLRAW54",  # 2019-01-21 The ULTIMATE Smash Bros. Training Tool
+  ],
+ ),
+ dict(name="Recording inputs for Smash Bros. Ultimate", kind="Build",
+  desc="Recording inputs for Smash Bros. Ultimate.",
+  videos=[
+   "zq7JaVL0hY0",  # 2019-01-27 Recording inputs for Smash Bros. Ultimate
+  ],
+ ),
+ dict(name="4 CRAZY ways to play Smash Bros. Ultimate", kind="Build",
+  desc="Who would have thought smash on a touch screen would be difficult?",
+  videos=[
+   "Oseo2Jh6X8I",  # 2019-03-23 4 CRAZY ways to play Smash Bros. Ultimate
+  ],
+ ),
+ dict(name="I combined DDR, Tetris, and VR because why not", kind="Build",
+  desc="Sometimes, I can take a joke a little too far.",
+  videos=[
+   "HpfdUGtZU24",  # 2020-06-15 I combined DDR, Tetris, and VR because why not?
   ],
  ),
  dict(name="Real Life Emergency Meeting Button", kind="Build",
@@ -43,10 +61,17 @@ INVENTIONS = [
    "XKUkAKE7sXI",  # 2021-09-04 Gaming on an abandoned McDonald's touchscreen table
   ],
  ),
+ dict(name="Uncovering the dark secrets of my McDonald's touchscreen table", kind="Build",
+  desc="Strap in.",
+  videos=[
+   "TvJJ2Z0M2nA",  # 2021-09-18 Uncovering the dark secrets of my McDonald's touchscreen table
+  ],
+ ),
  dict(name="I made a real Spiritomb", kind="Build",
   desc="Hey all, I've teamed with another creator to bring back the Spiritombs.",
   videos=[
    "2yXdaBOpFLw",  # 2022-01-26 I made a real Spiritomb
+   "HFRqdeS63ug",  # 2022-11-01 My farm of real Spiritombs
   ],
  ),
  dict(name="I made a Shiny Hologram Spiritomb", kind="Build",
@@ -89,6 +114,7 @@ INVENTIONS = [
   desc="I made this Pokémon animation invention real.",
   videos=[
    "-XKY9VxeYos",  # 2023-11-22 I made this Pokémon animation invention real
+   "Obpq47fXyYQ",  # 2024-12-02 I made this Pokémon console REAL
   ],
  ),
  dict(name="I made EVERY Rotom appliance real", kind="Build",
@@ -149,12 +175,7 @@ INVENTIONS = [
   desc="Want to get into 3D printing?",
   videos=[
    "qJDh2Hax4Yo",  # 2024-11-23 I 3D Printed the Internet's BEST Pokémon Projects
-  ],
- ),
- dict(name="I made this Pokémon console REAL", kind="Build",
-  desc="Porygon Wii models can be found here:",
-  videos=[
-   "Obpq47fXyYQ",  # 2024-12-02 I made this Pokémon console REAL
+   "Yi34x3jgDw8",  # 2025-04-22 I 3D printed more Pokémon Consoles
   ],
  ),
  dict(name="I 3D Printed Pokémon's Item Printer", kind="Build",
@@ -163,16 +184,28 @@ INVENTIONS = [
    "uPh2qADqtdU",  # 2025-01-09 I 3D Printed Pokémon's Item Printer
   ],
  ),
+ dict(name="REAL Streamer vs Scrub Streamer", kind="Build",
+  desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
+  videos=[
+   "kAx1HdwT8LA",  # 2025-01-14 REAL Streamer (@glassesjournal ) vs Scrub Streamer (Me) : PokéDoku Tou
+  ],
+ ),
+ dict(name="I may have met my match PokeDoku Semi-finals PROJECT REVEAL AFTER", kind="Build",
+  desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
+  videos=[
+   "AdA_QSHHHBM",  # 2025-01-19 I may have met my match (VS @UltimaShadowX ) PokeDoku Semi-finals➡️ PR
+  ],
+ ),
+ dict(name="Can I Win The Pokedoku Finals", kind="Build",
+  desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
+  videos=[
+   "gzqFrZ4aXrE",  # 2025-01-30 CAN I WIN THE POKEDOKU FINALS?
+  ],
+ ),
  dict(name="I 3D printed the beta Rotom Toilet Form", kind="Build",
   desc="This is the Rotom everyone was asking for....right?",
   videos=[
    "9L7LO3jA51U",  # 2025-03-21 I 3D printed the beta Rotom Toilet Form
-  ],
- ),
- dict(name="I 3D printed more Pokémon Consoles", kind="Build",
-  desc="Want to make your own projects come to life?",
-  videos=[
-   "Yi34x3jgDw8",  # 2025-04-22 I 3D printed more Pokémon Consoles
   ],
  ),
  dict(name="I 3D Printed Your Bad Pokemon Video Ideas", kind="Build",
@@ -215,12 +248,19 @@ INVENTIONS = [
   desc="Episode 2 coming next week!",
   videos=[
    "5Nio8m2Objc",  # 2025-12-20 I Made a Pokemon Snap Game Show - Shutter Speed Showdown
+   "tTTodcwNIj8",  # 2025-12-29 I Made a Pokemon Snap Game Show FINALE - Shutter Speed Showdown
   ],
  ),
- dict(name="I Made a Pokemon Snap Game Show FINALE", kind="Build",
-  desc="In the finale of the pilot of Shutter Speed Showdown, Matt has an early lead with almost no camera roll to spare.",
+ dict(name="I 3D Printed a 5Ft Anime Girl to Protect My House", kind="Build",
+  desc="My biggest, strongest, and most intimidating project yet!",
   videos=[
-   "tTTodcwNIj8",  # 2025-12-29 I Made a Pokemon Snap Game Show FINALE - Shutter Speed Showdown
+   "YWVwidKD-8E",  # 2026-02-10 I 3D Printed a 5Ft Anime Girl to Protect My House  (from Punishing: Gr
+  ],
+ ),
+ dict(name="I made a Talking Tenna Cosplay", kind="Build",
+  desc="The Tenna Cosplay files are out now!",
+  videos=[
+   "KR8yb54V-9g",  # 2026-02-21 I made a Talking Tenna Cosplay
   ],
  ),
  dict(name="I made the GameCube Hot Tub real", kind="Build",

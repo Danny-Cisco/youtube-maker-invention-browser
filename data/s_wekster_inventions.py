@@ -1,12 +1,18 @@
 """Curated inventions for Wekster (@wekster).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'wekster', 'name': 'Wekster', 'person': 'Wekster', 'tagline': 'Geeky stuff: 3D printing, 3D modelling, game making and comics.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Wekster's Geeky Stuff", kind="Build",
+  desc="Wekster's Geeky Stuff.",
+  videos=[
+   "S2uMviGUCTA",  # 2018-01-07 Wekster's Geeky Stuff
+  ],
+ ),
  dict(name="3D Printed - HELLBOY'S GOOD SAMARITAN", kind="Build",
   desc="My first 3D printed movie prop!!!",
   videos=[
@@ -19,8 +25,8 @@ INVENTIONS = [
    "zJseHQmVA8M",  # 2018-01-22 Realistic Han Solo's Blaster from STAR WARS - 3D Printed!!!
   ],
  ),
- dict(name="3D printed NERF gun", kind="Build",
-  desc="I decided to try to make a 3d printed NERF gun and since I am a huge fan of Rick and Morty it had to look like Morty's laser gun!",
+ dict(name="3D Printed NERF gun", kind="Build",
+  desc="Thirst Zapper also known as Nuka Cola Pistol!!!!",
   videos=[
    "6iVhzz-H4wY",  # 2018-02-05 3D printed NERF gun - Rick and Morty style - Will it work???
    "I1ysAEWrXzw",  # 2018-02-21 3D Printed NERF gun - Thirst Zapper from Fallout!!!
@@ -32,22 +38,29 @@ INVENTIONS = [
    "X9zZo7t15NE",  # 2018-02-25 Basic FUSION360 - Earthworm Jim's RAY GUN!
   ],
  ),
+ dict(name="Ready Player One DeLorean stunt with Hot Wheels", kind="Build",
+  desc="After I've seen Ready Player One Trailer I decided to try to recreate one scene from it using Hot Wheels and my 3D printer.",
+  videos=[
+   "p8-GlWbdNF8",  # 2018-03-04 Amazing Hot Wheels Stunt - CORKSCREW JUMP!!!
+   "90Y_VqwbUyo",  # 2018-04-02 Ready Player One DeLorean stunt with Hot Wheels!
+  ],
+ ),
  dict(name="Making Hellboy in MasterpieceVR", kind="Build",
   desc="I decided to try to make Hellboy figurine using my HTC Vive and 3D printer.",
   videos=[
    "kWDwHWdexJ8",  # 2018-03-11 Making Hellboy in MasterpieceVR - 3D printed stuff
   ],
  ),
+ dict(name="Can VR Sculpting replace traditional 3D software", kind="Build",
+  desc="A few thoughts about VR sculpting and which software I'm using to make my own creations.",
+  videos=[
+   "KVyr7BRZWms",  # 2018-03-23 Can VR Sculpting replace traditional 3D software???
+  ],
+ ),
  dict(name="3D printed EGG PAINTER", kind="Build",
   desc="I decided to design something that my kid could use to paint eggs for Easter - I created Eggbrandt :)",
   videos=[
    "d3R7d0WSMCc",  # 2018-03-25 3D printed EGG PAINTER - Eggbrandt!
-  ],
- ),
- dict(name="Ready Player One DeLorean stunt with Hot Wheels", kind="Build",
-  desc="After I've seen Ready Player One Trailer I decided to try to recreate one scene from it using Hot Wheels and my 3D printer.",
-  videos=[
-   "90Y_VqwbUyo",  # 2018-04-02 Ready Player One DeLorean stunt with Hot Wheels!
   ],
  ),
  dict(name="Puffy Vehicles", kind="Build",
@@ -66,24 +79,6 @@ INVENTIONS = [
   desc="Realistic Han Solo's Blaster from STAR WARS - 3D Printed!!!",
   videos=[
    "UsV-WjZTQKA",  # 2018-04-24 Make Peter from Deadpool and don't burn your house down!
-  ],
- ),
- dict(name="Mini figurines in Fusion360", kind="Build",
-  desc="Mini figurines in Fusion360 - Venom & hangout.",
-  videos=[
-   "PhV7DOmlS7o",  # 2018-05-01 Mini figurines in Fusion360 - Venom & hangout
-  ],
- ),
- dict(name="We finally did it", kind="Build",
-  desc="We did it, my Peter (Deadpool 2) was in the air!!!",
-  videos=[
-   "RQcEKPCqFHo",  # 2018-05-03 We finally did it! - Peter jumped from an airplane!!!
-  ],
- ),
- dict(name="Mini figurines in Fusion360 & Hangout", kind="Build",
-  desc="Mini figurines in Fusion360 & Hangout.",
-  videos=[
-   "dL8H4TJGp8I",  # 2018-05-05 Mini figurines in Fusion360 & Hangout
   ],
  ),
  dict(name="I'm trying something new", kind="Build",
@@ -110,6 +105,12 @@ INVENTIONS = [
    "YUoJ_KCECmg",  # 2018-06-22 Mini Masters of the Universe - 3d printed
   ],
  ),
+ dict(name="My day with 3d printed Back to the Future and Jurassic Park related st", kind="Build",
+  desc="I'm trying to print stuff and to hunt some items...",
+  videos=[
+   "9Yauj1Y28To",  # 2018-07-19 My day with 3d printed Back to the Future and Jurassic Park related st
+  ],
+ ),
  dict(name="3d printed Mini Rocketeer", kind="Build",
   desc="I'm trying to print stuff and to hunt some items...",
   videos=[
@@ -122,16 +123,37 @@ INVENTIONS = [
    "3A6iAUhpBDQ",  # 2018-08-19 How to make an awesome looking Jurassic Park gate
   ],
  ),
+ dict(name="Making my own Spider-Man figurine", kind="Build",
+  desc="FDM print printed on Prusa I3mk3 with prusa silver filament",
+  videos=[
+   "dWywB3Zg69M",  # 2018-09-07 Making my own Spider-Man figurine - 3d printed stuff
+  ],
+ ),
  dict(name="Mini Pinhead - Printed on MMU2", kind="Build",
   desc="Realistic Han Solo's Blaster from STAR WARS - 3D Printed!!!",
   videos=[
    "7vuRlMBmiuQ",  # 2018-10-15 Mini Pinhead (Hellraiser) - Printed on MMU2
   ],
  ),
+ dict(name="Spooky Snowman", kind="Build",
+  desc="Spooky Snowman - Scrooge McSnowy available here",
+  videos=[
+   "CE4nT8JJsYY",  # 2018-11-05 Spooky Snowman - model for 3d printing
+  ],
+ ),
  dict(name="Zbrush tutorial for absolute beginners", kind="Build",
   desc="Short and basic stuff to get you started!",
   videos=[
    "8qJGX_o6-qU",  # 2018-12-16 Zbrush tutorial for absolute beginners
+   "Pgo0SJbUOLg",  # 2019-02-23 How to model hair in Zbrush for 3d printing for absolute beginners
+   "viq7RgpCYaA",  # 2019-03-27 Quick teeth tutorial for Zbrush beginners
+   "y8H6JWvEZSQ",  # 2020-03-07 Zbrush tutorial - How to sculpt an orangutan
+  ],
+ ),
+ dict(name="Modeling something new", kind="Build",
+  desc="Trying to make something cool today :)",
+  videos=[
+   "YwK9aFT0fcM",  # 2018-12-22 Modeling something new
   ],
  ),
  dict(name="3d printed Captain Marvel", kind="Build",
@@ -140,16 +162,22 @@ INVENTIONS = [
    "rEzw6eQPYFw",  # 2019-01-07 3d printed Captain Marvel -  My first model in 2019
   ],
  ),
+ dict(name="My most creative month", kind="Build",
+  desc="My most creative month, I've \"busted\" a lot of busts :)",
+  videos=[
+   "U2-iJE2XigE",  # 2019-01-31 My most creative month - Terminator, Two face, Bane, Cyclops and more
+  ],
+ ),
  dict(name="I've made Lion-O from Thundercats, Cyclops and Mini Spock", kind="Build",
   desc="I've made Lion-O from Thundercats, Cyclops and Mini Spock - 3D printing and modeling.",
   videos=[
    "bIuCCo_uSzg",  # 2019-02-21 I've made Lion-O from Thundercats, Cyclops and Mini Spock - 3D printin
   ],
  ),
- dict(name="How to model hair in Zbrush for 3d printing for absolute beginners", kind="Build",
-  desc="This is how I model hair for most of my 3d models :)",
+ dict(name="Friday night with Fotis Mint and Printed Obsession", kind="Build",
+  desc="I wanted to do this stream with Fotis Mint for a while now and today is the day + we have Printed Obsession joining in too - CRAZY!",
   videos=[
-   "Pgo0SJbUOLg",  # 2019-02-23 How to model hair in Zbrush for 3d printing for absolute beginners
+   "yHFhjf3DjRw",  # 2019-03-09 Friday night with Fotis Mint and Printed Obsession
   ],
  ),
  dict(name="Zbrush - Fixing holes in your model for 3d printing", kind="Build",
@@ -158,21 +186,28 @@ INVENTIONS = [
    "Lt0qZN4U-Og",  # 2019-03-14 Zbrush - Fixing holes in your model for 3d printing
   ],
  ),
- dict(name="Quick teeth tutorial for Zbrush beginners", kind="Build",
-  desc="Quick teeth tutorial for Zbrush beginners.",
+ dict(name="Catwoman model", kind="Build",
+  desc="Finally had some time to paint my latest 3d model...",
   videos=[
-   "viq7RgpCYaA",  # 2019-03-27 Quick teeth tutorial for Zbrush beginners
+   "Jml4ysim_V0",  # 2019-03-17 Catwoman model - finally using my airbrush!
   ],
  ),
- dict(name="Zbrush session and hangout", kind="Build",
-  desc="Zbrush session and hangout.",
+ dict(name="Fotis, Chris and Weks do stuff", kind="Build",
+  desc="Chris Warkocki is telling us stuff sbout his SL1 and CW1 beta testing...",
   videos=[
-   "AXO7bstjfnc",  # 2019-04-30 Zbrush session and hangout
+   "srd-L9sBF5k",  # 2019-03-23 Fotis, Chris and Weks do stuff - Prusa SL1
+  ],
+ ),
+ dict(name="Fotis and Weks without Eastman", kind="Build",
+  desc="Fotis will again join me in the casual stream where someone will probably do or say something stupid.",
+  videos=[
+   "2Nm-lxaI8VA",  # 2019-04-13 Fotis and Weks without Eastman
   ],
  ),
  dict(name="Zbrush timelapse", kind="Build",
   desc="Who doesn't like to model possessed toys...",
   videos=[
+   "XkV3XYfhbRI",  # 2019-05-24 Wolverito Zbrush timelapse
    "LE1xrBldg_o",  # 2019-06-01 Zbrush timelapse - Chucky from Child's Play
   ],
  ),
@@ -224,22 +259,62 @@ INVENTIONS = [
    "E8y6-fKgT9A",  # 2020-02-15 Zbrush - polygroups, slicinig and trimming - Some stuff I wish I learn
   ],
  ),
- dict(name="Zbrush tutorial", kind="Build",
-  desc="Valid from April 16th to May 15th",
+ dict(name="The Vault edition", kind="Build",
+  desc="The Vault edition part 2.",
   videos=[
-   "y8H6JWvEZSQ",  # 2020-03-07 Zbrush tutorial - How to sculpt an orangutan
+   "TqNQ57EdF1Y",  # 2020-03-21 Another stream - The Vault edition
+   "MFkc3UwFyBo",  # 2020-04-04 The Vault edition part 2
+  ],
+ ),
+ dict(name="Zbrush - Mini Shaun", kind="Build",
+  desc="Zbrush stream - Mini Shaun (of the Dead).",
+  videos=[
+   "7XRXRkRC6YQ",  # 2020-06-25 Zbrush stream - Mini Shaun (of the Dead)
   ],
  ),
  dict(name="Mini Dude", kind="Build",
   desc="Mini Dude - day 3.",
   videos=[
    "d-FRG3x16t4",  # 2020-06-26 Mini Dude - day 3
+   "8FgGRkfPggI",  # 2026-04-14 Mini Dude went to space and came back different!
+  ],
+ ),
+ dict(name="Zbrush - Mini Punisher", kind="Build",
+  desc="Zbrush stream - Mini Punisher.",
+  videos=[
+   "vlMfsr3RYkc",  # 2020-06-26 Zbrush stream - Mini Punisher
+  ],
+ ),
+ dict(name="DSK is teaching me some Fusion Kung Fu", kind="Build",
+  desc="My guest tonight is Fernando - also known as DSK and he's gonna try to teach me some new stuff",
+  videos=[
+   "u9Gpg71dAS0",  # 2020-07-21 DSK is teaching me some Fusion Kung Fu!
   ],
  ),
  dict(name="My Showreel 2021", kind="Build",
   desc="New zbrush tutorial videos coming soon!",
   videos=[
    "1w8wc-Uf_bI",  # 2021-04-20 My Showreel 2021
+  ],
+ ),
+ dict(name="Sunday sculpting session", kind="Build",
+  desc="Sunday sculpting session.",
+  videos=[
+   "M8r9Pkx0OXY",  # 2026-01-26 Sunday sculpting session
+   "lyfDahlaNn8",  # 2026-03-09 Sunday sculpting session
+  ],
+ ),
+ dict(name="How to create seamless textures in Zbrush", kind="Build",
+  desc="Do you want to learn how to create seamless textures without leaving Zbrush!",
+  videos=[
+   "e-r-rBNgKPI",  # 2026-06-10 How to create seamless textures in Zbrush
+   "sW-ZE2tTIOM",  # 2026-06-10 Make seamless textures inside Zbrush
+  ],
+ ),
+ dict(name="Making a 3D Printed Action Figure", kind="Build",
+  desc="I made my first articulated action figure for 3d printing and...",
+  videos=[
+   "7SdwPIQsWNA",  # 2026-08-27 Making a 3D Printed Action Figure
   ],
  ),
  dict(name="Everything you need to know about my Digital Project", kind="Build",

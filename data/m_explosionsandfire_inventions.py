@@ -1,12 +1,18 @@
 """Curated inventions for Explosions&Fire (@explosionsandfire).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'explosions-and-fire', 'name': 'Explosions&Fire', 'person': 'Explosions&Fire', 'tagline': 'Chemistry in a backyard lab.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Explosions&Fire2", kind="Build",
+  desc="Explosions&Fire2 Live Stream.",
+  videos=[
+   "c28hElHFSKs",  # 2017-09-26 Explosions&Fire2 Live Stream
+  ],
+ ),
  dict(name="Energetic Chromium", kind="Build",
   desc="Hello again, another old video.",
   videos=[

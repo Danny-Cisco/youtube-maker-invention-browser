@@ -1,7 +1,7 @@
 """Curated inventions for nerdy3d (@nerdy3d).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'nerdy3d', 'name': 'nerdy3d', 'person': 'nerdy3d', 'tagline': '3D-printed mechanisms, a mechanical sixth finger, and repairs.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -19,10 +19,11 @@ INVENTIONS = [
    "aEYFAp2ZYMc",  # 2025-07-18 Opensauce 2025 Behind the scenes | Part one (Load in)
   ],
  ),
- dict(name="Opensauce 2025 Part two", kind="Build",
-  desc="This was the first day of Opensauce 2025!",
+ dict(name="Opensauce 2026", kind="Build",
+  desc="On Friday night, Opensauce held an event for the exhibitors to freely walk around, and for creators to record videos withought crowds.",
   videos=[
    "E5dZ3lcEUQo",  # 2025-07-21 Opensauce 2025 Part two (Day one before the event)
+   "GGXepNbm7L0",  # 2026-07-21 Opensauce 2026 | Private Event (Friday night party)
   ],
  ),
  dict(name="Last day of Opensauce 2025 and cool other stuff", kind="Build",
@@ -41,12 +42,6 @@ INVENTIONS = [
   desc="These are almost all the mechanical Iris’s I have ever made up untill 2024, as the past year I have been giving out my finest ones to teachers and friends for fun.",
   videos=[
    "qYwa7IrdOVM",  # 2025-08-19 Mechanical Iris collection (2025)
-  ],
- ),
- dict(name="First look of the Stargazer V5", kind="Build",
-  desc="First look of the Stargazer V5.",
-  videos=[
-   "HVrRkwxNTyI",  # 2025-09-17 First look of the Stargazer V5
   ],
  ),
  dict(name="Puppeteer-able full finger hand prosthietic", kind="Build",
@@ -89,12 +84,6 @@ INVENTIONS = [
   desc="Holy cow!",
   videos=[
    "r-pmrUJGm6w",  # 2026-07-20 Tom Scott operates my machine at Opensauce 2026😱!
-  ],
- ),
- dict(name="Opensauce 2026", kind="Build",
-  desc="On Friday night, Opensauce held an event for the exhibitors to freely walk around, and for creators to record videos withought crowds.",
-  videos=[
-   "GGXepNbm7L0",  # 2026-07-21 Opensauce 2026 | Private Event (Friday night party)
   ],
  ),
  dict(name="OPENSAUCE 2026 Exhibitor View", kind="Build",

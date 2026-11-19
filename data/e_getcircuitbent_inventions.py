@@ -1,7 +1,7 @@
 """Curated inventions for Get Circuit Bent (@getcircuitbent).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'get-circuit-bent', 'name': 'Get Circuit Bent', 'person': 'Get Circuit Bent', 'tagline': 'Circuit bending and bringing old electronics back to life.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -113,11 +113,6 @@ INVENTIONS = [
   desc="Full length demo of my N64 to MIDI Interface!",
   videos=[
    "UqKTtgpL9DQ",  # 2021-06-20 Nintendo 64 Controller to MIDI Interface Tech Demo
-  ],
- ),
- dict(name="Gamecube Controller to MIDI Interface Tech Demo", kind="Build",
-  desc="Full length demo of my GC to MIDI Interface!",
-  videos=[
    "ovje4MHV0gs",  # 2021-06-20 Gamecube Controller to MIDI  Interface Tech Demo
   ],
  ),
@@ -176,6 +171,12 @@ INVENTIONS = [
   desc="Makin’ It Work is a series where I take broken or messed up stuff and, well, make it work!",
   videos=[
    "MM1pTe1W9Wo",  # 2024-11-14 Troubleshooting Power Issues - Suzuki QChord | Makin' It Work 4
+  ],
+ ),
+ dict(name="Circuit Bending a Musical Moose", kind="Build",
+  desc="It’s the Super Circuit Bending Super Show!",
+  videos=[
+   "hNkBwkQFk20",  # 2024-12-25 Circuit Bending a Musical Moose: Building Audio Reactive Circuits | SC
   ],
  ),
  dict(name="Easy-Mode Circuit Bent Glitch Camera", kind="Build",

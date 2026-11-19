@@ -1,9 +1,6 @@
-"""Curated restorations for CuriousMarc (Marc Verdiell, @curiousmarc). He restores rather than invents; his long restoration series are grouped by machine.
-kind: Space hardware | Computer | Instrument | Robot
+"""Curated inventions for CuriousMarc.
 
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+Livestreams and series videos attached by build/attach_unassigned.py."""
 
 CREATOR = {'slug': 'curiousmarc', 'name': 'CuriousMarc', 'person': 'Marc Verdiell', 'tagline': 'Bringing historic machines back to life: the Apollo Guidance Computer, Soyuz Globus and vintage IBM.', 'other_label': 'Other uploads: one-off repairs, explainers, museum visits and teardowns'}
 
@@ -331,6 +328,18 @@ INVENTIONS = [
   videos=[
    "wYsG-lXfih8",  # 2019-03-16 Inertial Gyroscope Spin Up and Demo
    "pz-LA71tMWw",  # 2021-08-19 WWII USAF Gyroscope Spin Up and Turntable Test
+  ],
+ ),
+ dict(name="HP 182C Oscilloscope Repair", kind="Build",
+  desc="We begin the restoration of a gorgeous HP 182 oscilloscope, which takes a turn for the worse when an ElectroBOOM event destroys the high voltage power supply.",
+  videos=[
+   "UuPvDULyP4Y",  # 2025-07-20 HP 182C Scope Live Repair at Opensauce 2025
+   "UAQ-kU-xS2g",  # 2025-08-04 HP 182C Oscilloscope Repair - Part 1: High Voltage Power Supply "Accid
+   "FjojgNwPflQ",  # 2025-08-05 HP 182C Oscilloscope Repair - Part 2: Alive Again!
+   "ECaBv4kxQjw",  # 2025-08-09 HP 182C Oscilloscope Repair - Part 3: the HP 1821A Timebase plugin fro
+   "xgMcukBO2uE",  # 2025-08-12 HP 182C Oscilloscope Repair - Part 4: HP 1821A timebase really tough d
+   "MA577SE2FRA",  # 2025-08-28 HP 182C Oscilloscope Repair - Part 5: HP 1801A Dual Vertical Amplifier
+   "YA6Po22cR78",  # 2026-01-06 HP 182C (and 180C/D) Oscilloscope Repair - Part 6: HP 1805A and 1825A 
   ],
  ),
 ]

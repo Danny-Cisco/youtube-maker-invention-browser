@@ -1,7 +1,7 @@
 """Curated inventions for Shawn Hymel (@shawnhymel).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'shawn-hymel', 'name': 'Shawn Hymel', 'person': 'Shawn Hymel', 'tagline': 'Embedded machine learning and small robots.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -14,15 +14,10 @@ INVENTIONS = [
    "XMr6Fg74fZY",  # 2016-08-29 micro:bit Tutorial Series Part 2: Images, Buttons, and Conditionals
   ],
  ),
- dict(name="How to Make an Arduino WebSocket Server with an ESP32", kind="Build",
-  desc="How to Make an Arduino WebSocket Server with an ESP32.",
-  videos=[
-   "ZbX-l1Dl4N4",  # 2018-11-01 How to Make an Arduino WebSocket Server with an ESP32
-  ],
- ),
  dict(name="How to Create a Web Server Using an ESP32 in Arduino", kind="Build",
   desc="Note that we use the ESP32 as an access point (AP) here to simplify the process.",
   videos=[
+   "ZbX-l1Dl4N4",  # 2018-11-01 How to Make an Arduino WebSocket Server with an ESP32
    "mkXsmCgvy0k",  # 2019-09-09 How to Create a Web Server (with WebSockets) Using an ESP32 in Arduino
   ],
  ),
@@ -33,8 +28,9 @@ INVENTIONS = [
   ],
  ),
  dict(name="Getting Started with Mozilla WebThings", kind="Build",
-  desc="The ESP8266 is connected to a digital temperature sensor, which we can query using the I2C protocol.",
+  desc="Mozilla (the makers of Firefox) have created a custom Internet of Things (IoT) hub that can run on a single-board computer (SBC).",
   videos=[
+   "WHite8vdcbE",  # 2019-12-20 Getting Started with Mozilla WebThings Part 1: Setup on a Raspberry Pi
    "papxaeII0vo",  # 2019-12-23 Getting Started with Mozilla WebThings Part 2: Building an ESP8266 Tem
   ],
  ),
@@ -57,33 +53,13 @@ INVENTIONS = [
    "h7VfpoJvIpg",  # 2025-08-12 ESP32 - Getting Started with ESP-IDF
   ],
  ),
- dict(name="ESP32 - CMake with ESP-IDF Tutorial", kind="Build",
-  desc="Learn how to use CMake with ESP-IDF to configure, build, and link projects for the ESP32 manually and without relying on idf.py build.",
-  videos=[
-   "uJ9RtAxStpo",  # 2025-08-26 ESP32 - CMake with ESP-IDF Tutorial
-  ],
- ),
- dict(name="ESP32 - Kconfig with ESP-IDF Tutorial", kind="Build",
-  desc="In this video, I’ll show you how to use Kconfig with ESP-IDF to make your ESP32 projects configurable and easier to maintain.",
-  videos=[
-   "KsrDYfQ9geU",  # 2025-09-09 ESP32 - Kconfig with ESP-IDF Tutorial
-  ],
- ),
- dict(name="ESP32 - I2C with ESP-IDF Tutorial", kind="Build",
-  desc="In this video, I’ll show you how to use I2C communication in ESP-IDF to read temperature data from the TMP102 sensor.",
-  videos=[
-   "FDscfXLesjQ",  # 2025-09-23 ESP32 - I2C with ESP-IDF Tutorial
-  ],
- ),
  dict(name="ESP32 - WiFi Driver with ESP-IDF Tutorial", kind="Build",
   desc="Learn how to build a robust WiFi driver for ESP32 using ESP-IDF from scratch.",
   videos=[
+   "uJ9RtAxStpo",  # 2025-08-26 ESP32 - CMake with ESP-IDF Tutorial
+   "KsrDYfQ9geU",  # 2025-09-09 ESP32 - Kconfig with ESP-IDF Tutorial
+   "FDscfXLesjQ",  # 2025-09-23 ESP32 - I2C with ESP-IDF Tutorial
    "j1ve8mYjUoU",  # 2025-10-07 ESP32 - WiFi Driver with ESP-IDF Tutorial
-  ],
- ),
- dict(name="ESP32 - HTTP GET with ESP-IDF Tutorial", kind="Build",
-  desc="If you would like to go further, check out my full IoT Firmware Developm",
-  videos=[
    "ZQatV_Fi0Vc",  # 2025-10-21 ESP32 - HTTP GET with ESP-IDF Tutorial
   ],
  ),

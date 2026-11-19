@@ -1,7 +1,7 @@
 """Curated inventions for Atarabyte (@atarabyte).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'atarabyte', 'name': 'Atarabyte', 'person': 'Atarabyte', 'tagline': 'PCB design and electronics projects.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -31,6 +31,14 @@ INVENTIONS = [
    "t3U2IghFBkc",  # 2024-04-17 How I Got Rid Of My Acne Scars! (Before + After Pictures) My Experienc
   ],
  ),
+ dict(name="Finally Soldering Again", kind="Build",
+  desc="I hope you enjoy this video!",
+  videos=[
+   "E8jZPPkkO4M",  # 2024-09-19 How to solder! #soldering #electronics #diy #engineering #pcb #tech #t
+   "w2-VLTIHajw",  # 2024-09-20 Soldering #soldering #electronics #engineering #tech #pcb #stem #howto
+   "-gjVtJbt_fE",  # 2026-01-29 Finally Soldering Again!!!
+  ],
+ ),
  dict(name="I turned my doge into a saiyan", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
@@ -49,10 +57,10 @@ INVENTIONS = [
    "5yAYFZDHhAk",  # 2025-11-05 Doing some Arts and Crafts today
   ],
  ),
- dict(name="Finally Soldering Again", kind="Build",
+ dict(name="Hi Everyone!! Project updatees and show and tell", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
-   "-gjVtJbt_fE",  # 2026-01-29 Finally Soldering Again!!!
+   "fYhZ7IpAgXE",  # 2026-01-21 Hi Everyone!! Project updatees and show and tell
   ],
  ),
  dict(name="Playing games @Katya", kind="Build",
@@ -77,19 +85,22 @@ INVENTIONS = [
   desc="Soldering a synth kit.",
   videos=[
    "d-lYezT0ho8",  # 2026-02-19 Soldering a synth kit
+   "84y0LgfVsVw",  # 2026-02-20 Soldering a Synth Kit! #engineering #tech #soldering #egirl #twitch
   ],
  ),
  dict(name="Soldering the Minicord", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
+   "8T95VUgcFNc",  # 2026-02-27 soldering a minicord! #engineering #electronics #diy #soldering #short
    "EqTses223aU",  # 2026-03-05 Soldering the Minicord!
    "UkL2r5YtkkI",  # 2026-03-24 Soldering the Minicord!
+   "ULp9CQGQWls",  # 2026-06-03 Finishing Soldering the Minicord!
   ],
  ),
- dict(name="Finishing Soldering the Minicord", kind="Build",
-  desc="I hope you enjoy this video!",
+ dict(name="Soldering and tech talk", kind="Build",
+  desc="Soldering and tech talk.",
   videos=[
-   "ULp9CQGQWls",  # 2026-06-03 Finishing Soldering the Minicord!
+   "DqFjQpTIIeA",  # 2026-02-27 Soldering and tech talk
   ],
  ),
  dict(name="Playing Subnatica", kind="Build",
@@ -108,6 +119,7 @@ INVENTIONS = [
   desc="In this video, I'm showing you how to use Altium designer to make schematics for your circuit!",
   videos=[
    "4Acl3_edCOk",  # 2026-11-12 Creating a PCB from the beginning
+   "Z-FL6SRvqFc",  # 2026-11-12 Creating a PCB #pcb #altium #circuit #electricalengineering  #ad
   ],
  ),
 ]

@@ -1,7 +1,7 @@
 """Curated inventions for Clockspring 3D (@clockspring3d).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'clockspring-3d', 'name': 'Clockspring 3D', 'person': 'Clockspring 3D', 'tagline': 'Creative 3D-printed design: print-in-place mechanisms and clever printed objects.', 'other_label': 'Other uploads: Shorts, updates and other videos'}

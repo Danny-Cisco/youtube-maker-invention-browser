@@ -1,7 +1,7 @@
 """Curated inventions for Ian Charnas (@iancharnas).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'ian-charnas', 'name': 'Ian Charnas', 'person': 'Ian Charnas', 'tagline': 'Engineering degrees put to work on wonderfully ambitious builds.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -53,6 +53,12 @@ INVENTIONS = [
   desc="Will It Deposit? ($10,000 to Stop Suicide).",
   videos=[
    "3ZFOVtBw7aA",  # 2020-09-11 Will It Deposit? ($10,000 to Stop Suicide)
+  ],
+ ),
+ dict(name="I Put a Talking Backpack in a Public Park", kind="Build",
+  desc="I Put a Talking Backpack in a Public Park!.",
+  videos=[
+   "wPHCFw6XBBk",  # 2020-10-26 I Put a Talking Backpack in a Public Park!
   ],
  ),
  dict(name="Will It Deposit? A Check Made Entirely of Cake", kind="Build",

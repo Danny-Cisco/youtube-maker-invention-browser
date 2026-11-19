@@ -1,7 +1,7 @@
 """Curated inventions for Tylon (@tylon22).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'tylon', 'name': 'Tylon', 'person': 'Tylon', 'tagline': 'Odd engineering builds, from a robot dog that grades MIT work to "wrong" utility knives.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
@@ -90,6 +90,7 @@ INVENTIONS = [
   desc="I built an Axial Flux Motor by hand.",
   videos=[
    "3bp78Y_Filc",  # 2026-01-07 Homemade 1000-watt motor
+   "5obbJyF5ouQ",  # 2026-06-08 Homemade 1000 Watt Motor
   ],
  ),
  dict(name="Chain Based Cycloidal Gearbox", kind="Build",
@@ -173,6 +174,7 @@ INVENTIONS = [
  dict(name="Fixing a $5000 Axial Flux Motor", kind="Build",
   desc="Opening up a used Emrax 268 that I got for free since it wouldn't spin.",
   videos=[
+   "3yJnB8LtTZo",  # 2026-06-08 Handmade Axial Flux Motor Explodes #motor #science
    "HGzfaKnVs2s",  # 2026-08-23 Fixing a $5000 Axial Flux Motor
   ],
  ),

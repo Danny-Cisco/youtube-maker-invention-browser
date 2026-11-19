@@ -1,21 +1,16 @@
 """Curated inventions for Chris Gammell (@chrisgammell).
 
-Drafted by build/auto_inventions.py (long-form builds, series merged, descriptions in the maker's own words),
-then reviewed. Every upload not listed here appears under "Other uploads" on the site.
+Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
+maker's own words). Every upload not listed here appears under "Other uploads" on the site.
 """
 
 CREATOR = {'slug': 'chris-gammell', 'name': 'Chris Gammell', 'person': 'Chris Gammell', 'tagline': 'Electronics design and hardware engineering.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Chris's New Idea For An Electronics Workbench", kind="Build",
-  desc="In which I show off my proposed new bench using Google Sketchup",
-  videos=[
-   "e4W9AD-LrnY",  # 2011-01-19 Chris's New Idea For An Electronics Workbench
-  ],
- ),
  dict(name="Building An Electronics Workbench", kind="Build",
   desc="Chris Gammell shows the process of building an electronics workbench in his basement, start to finish.",
   videos=[
+   "e4W9AD-LrnY",  # 2011-01-19 Chris's New Idea For An Electronics Workbench
    "7l7y-67xRo4",  # 2011-03-14 Building An Electronics Workbench
   ],
  ),
@@ -29,6 +24,18 @@ INVENTIONS = [
   desc="Chris goes over how you can convey your interest in electronics through your resume to help you get hired.",
   videos=[
    "oIMTMum9igQ",  # 2011-12-09 How to Write a Resume for Electronics
+  ],
+ ),
+ dict(name="Introduction to my CNC Setup", kind="Build",
+  desc="No mill yet, but all the stuff that will be surrounding it!",
+  videos=[
+   "6ni-bSP-JZE",  # 2013-01-13 Introduction to my CNC Setup (Workbench, Stepper Motors, Controls and 
+  ],
+ ),
+ dict(name="Rough Setup of Taig Micro Mill", kind="Build",
+  desc="Chris opens and roughly assembles his Taig 2019ER-CR Micro Mill.",
+  videos=[
+   "vslqK_PcCcw",  # 2013-01-16 Rough Setup of Taig Micro Mill
   ],
  ),
  dict(name="A Slightly Shocking Discovery On My New Mill", kind="Build",
@@ -107,6 +114,12 @@ INVENTIONS = [
   desc="I am embarrassed and saddened by the US decision to pull out of the Paris Climate Agreement.",
   videos=[
    "Rd5F4V404pw",  # 2017-06-03 Words from Carl Sagan
+  ],
+ ),
+ dict(name="Bells don't work", kind="Build",
+  desc="Bells don't work: Keep up on YouTube channels with RSS and Slack.",
+  videos=[
+   "D5OhjUE-D48",  # 2025-12-31 Bells don't work: Keep up on YouTube channels with RSS and Slack
   ],
  ),
 ]
