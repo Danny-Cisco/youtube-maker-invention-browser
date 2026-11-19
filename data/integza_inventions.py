@@ -330,6 +330,12 @@ INVENTIONS = [
    "XiuD_DddAks",  # 2026-05-11 LEVITATING FIDGET TOY
   ],
  ),
+ dict(name="Biodiesel From Human Fat", kind="Fuel",
+  desc="Biodiesel made from human fat, with Rosanna Pansino.",
+  videos=[
+   "vhWJfXbbmyM",  # 2018-09-16 Making Biodiesel from Human Fat (ft. Rosana Pansino)
+  ],
+ ),
 ]
 
 OTHER = None  # None = every upload not assigned above

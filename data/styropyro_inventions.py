@@ -236,6 +236,38 @@ INVENTIONS = [
    "zr-eZ_pLTNI",  # 2025-11-20 30,000 watt light bulb experiments
   ],
  ),
+ dict(name="Homemade Fireworks & Flare Stars", kind="Pyrotechnics",
+  desc="Fireworks and a zinc pink flare star mixed and made at home.",
+  videos=[
+   "31G4dtw-Huk",  # 2006-12-16 Zinc Pink flare star formula
+   "FIl-ArnRZvU",  # 2015-05-27 DIY Fireworks Demo!!
+  ],
+ ),
+ dict(name="Homemade Smoke Bombs", kind="Pyrotechnics",
+  desc="Home-made smoke bombs.",
+  videos=[
+   "WUOY0h8BPPk",  # 2010-04-11 How to Make the BEST Smoke Bomb!
+  ],
+ ),
+ dict(name="Coloured Fire Mixes", kind="Pyrotechnics",
+  desc="Green and coloured fire made from household materials.",
+  videos=[
+   "xlrhIiu1IWw",  # 2009-06-28 How to Make Green Fire from Materials Found at Home
+   "eRNLqTfIjQo",  # 2011-04-20 DIY Colored Fire!
+  ],
+ ),
+ dict(name="Ballistic Gel", kind="Material",
+  desc="Home-made ballistic gelatin.",
+  videos=[
+   "ae3vSmKTpz8",  # 2008-06-01 DIY: How to make BALLISTIC GEL!
+  ],
+ ),
+ dict(name="Galinstan Liquid Metal", kind="Material",
+  desc="Galinstan, a gallium alloy that's liquid like mercury.",
+  videos=[
+   "wdwfm33tPwE",  # 2009-10-25 Liquid Metal Gallium Alloy Galinstan - Looks like Mercury!
+  ],
+ ),
 ]
 
 OTHER = None  # None = every upload not assigned above

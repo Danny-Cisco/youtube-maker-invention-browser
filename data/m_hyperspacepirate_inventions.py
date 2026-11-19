@@ -409,6 +409,12 @@ INVENTIONS = [
    "jRKbjT8AoJw",  # 2026-10-31 DIY Synthetic Fuel Part II - The Fischer Tropsch Reactor
   ],
  ),
+ dict(name="Copper Parts From Algaecide", kind="Build",
+  desc="Copper parts made from algaecide.",
+  videos=[
+   "7M5x2OFYP-k",  # 2024-08-13 Making Copper Parts from Algaecide
+  ],
+ ),
 ]
 
 OTHER = None  # None = every upload not assigned above

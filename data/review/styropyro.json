@@ -68,15 +68,17 @@
 "xNmbvaUzC8Q": "invention",
 "mg79n_ndR68": "invention",
 "zr-eZ_pLTNI": "invention",
-"ae3vSmKTpz8": "tutorial",
-"xlrhIiu1IWw": "tutorial",
+"31G4dtw-Huk": "invention",
+"FIl-ArnRZvU": "invention",
+"WUOY0h8BPPk": "invention",
+"xlrhIiu1IWw": "invention",
+"eRNLqTfIjQo": "invention",
+"ae3vSmKTpz8": "invention",
+"wdwfm33tPwE": "invention",
 "UWk0ldPi4nk": "tutorial",
 "AZBjbjmv4cs": "tutorial",
-"WUOY0h8BPPk": "tutorial",
 "PYIQpP3-ZXY": "tutorial",
-"eRNLqTfIjQo": "tutorial",
 "q0kETJwL9mY": "tutorial",
-"31G4dtw-Huk": "other",
 "yomwJk-pYbs": "other",
 "3SPZjK2mRfs": "other",
 "LTVQzc75YiQ": "other",
@@ -127,7 +129,6 @@
 "9A1SgaEid9w": "other",
 "4wMTcnNIw7A": "other",
 "vu7xW6FrpnY": "other",
-"wdwfm33tPwE": "other",
 "OC_sEKomWpM": "other",
 "5SRq2-VUGi8": "other",
 "76cZiri0PO8": "other",
@@ -175,7 +176,6 @@
 "LeC1Y3UTg2E": "other",
 "79RBwVZUoxY": "other",
 "HcGiWBrBAa8": "other",
-"FIl-ArnRZvU": "other",
 "64XJ3mnI2kw": "other",
 "5PquJdIK_z8": "other",
 "clGhGacfiqI": "other",
@@ -340,6 +340,23 @@
 ],
 "30,000W Light Bulb": [
 "zr-eZ_pLTNI"
+],
+"Homemade Fireworks & Flare Stars": [
+"31G4dtw-Huk",
+"FIl-ArnRZvU"
+],
+"Homemade Smoke Bombs": [
+"WUOY0h8BPPk"
+],
+"Coloured Fire Mixes": [
+"xlrhIiu1IWw",
+"eRNLqTfIjQo"
+],
+"Ballistic Gel": [
+"ae3vSmKTpz8"
+],
+"Galinstan Liquid Metal": [
+"wdwfm33tPwE"
 ]
 }
 }

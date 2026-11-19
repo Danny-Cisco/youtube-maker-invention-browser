@@ -96,7 +96,7 @@
 "9-Bq0iL6F8w": "invention",
 "UXNcivV8JNw": "invention",
 "jRKbjT8AoJw": "invention",
-"7M5x2OFYP-k": "tutorial",
+"7M5x2OFYP-k": "invention",
 "2Vb82SZE3JA": "other",
 "UKFEbYdKdJg": "other",
 "U5eoK2vEHDQ": "other",
@@ -331,6 +331,9 @@
 "DIY Synthetic Fuel Plant": [
 "UXNcivV8JNw",
 "jRKbjT8AoJw"
+],
+"Copper Parts From Algaecide": [
+"7M5x2OFYP-k"
 ]
 }
 }

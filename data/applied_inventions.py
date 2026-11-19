@@ -598,6 +598,54 @@ INVENTIONS = [
    "8HiAw4x82eg",  # 2026-11-04 Two-photon fluorescence playing pong in rhodamine 6G
   ],
  ),
+ dict(name="Chemically Strengthened Glass", kind="Material",
+  desc="Glass strengthened chemically, like Gorilla Glass.",
+  videos=[
+   "y02AXdec1sE",  # 2014-08-07 How to chemically strengthen glass (eg Gorilla Glass)
+  ],
+ ),
+ dict(name="Self-Cleaning Glass", kind="Material",
+  desc="Self-cleaning glass windows made with a photocatalytic coating.",
+  videos=[
+   "UgbT2fJTqFY",  # 2014-02-11 Self-cleaning glass windows
+  ],
+ ),
+ dict(name="Disappearing Laser Ink", kind="Material",
+  desc="Ink that a UV laser writes into ordinary printer paper and later fades.",
+  videos=[
+   "vDsjHQPjMVI",  # 2019-08-05 UV laser creates disappearing ink in normal printer paper
+  ],
+ ),
+ dict(name="Laser-Grown Structural Colours", kind="Material",
+  desc="Silver nanoprisms grown into structural colours by a high-power laser.",
+  videos=[
+   "v8pko9IlFW4",  # 2022-04-10 Silver nanoprisms grown into structural colors by high power LEDs
+  ],
+ ),
+ dict(name="Multi-Layer Reactive Foil", kind="Material",
+  desc="A reactive foil that gives off lots of heat with no fuel and no oxygen.",
+  videos=[
+   "eGj4jfYhDxA",  # 2023-05-28 Multi-layer reactive foil: no fuel, no oxygen, tons of heat
+  ],
+ ),
+ dict(name="Laminated Wooden Vase", kind="Build",
+  desc="A laminated wooden vase turned on the lathe.",
+  videos=[
+   "K43v_ABjQIU",  # 2012-10-16 Turning a laminated wooden vase on the lathe
+  ],
+ ),
+ dict(name="Whipped Chocolate", kind="Food",
+  desc="Chocolate whipped with high-pressure nitrous oxide.",
+  videos=[
+   "mqcErDStLfQ",  # 2012-05-08 Whipped chocolate made with high pressure nitrous oxide
+  ],
+ ),
+ dict(name="Blow-Moulded Bottles", kind="Build",
+  desc="Plastic water bottles blow-moulded at home.",
+  videos=[
+   "WKfID-i41sc",  # 2013-04-01 Blow molding plastic water bottles
+  ],
+ ),
 ]
 
 OTHER = None  # None = every upload not assigned above

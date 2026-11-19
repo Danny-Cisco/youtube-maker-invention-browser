@@ -260,4 +260,3 @@ The site is for makers who make things. These channels were added, then removed 
 - **Uncle Jessy**: Printer reviews, deals and prints of other people's models.
 - **Canuck Creator**: Assembles commercial printer kits; firmware guides and reviews.
 - **3D Printing Nerd**: Reviews and showcase prints of other people's designs.
-- **Explosions&Fire**: Chemistry experiments and syntheses, not things he designed and made.
