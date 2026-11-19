@@ -1,9 +1,6 @@
-"""Curated inventions for This Old Tony (@thisoldtony). Machining technique, welding talk and reviews stay under Other uploads.
-kind: Machine tool | Shop tool | Vehicle | Gadget
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of This Old Tony. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'this-old-tony', 'name': 'This Old Tony', 'person': 'This Old Tony', 'tagline': 'A home machinist building his own tools, a chainsaw go-kart and a CNC conversion, with jokes.', 'other_label': 'Other uploads: machining technique, welding talk, repairs and Q&As'}
 
@@ -26,14 +23,6 @@ INVENTIONS = [
   desc="A DIY punch and die.",
   videos=[
    "Dmj42zD8yEs",  # 2013-10-08 diy punch & die
-  ],
- ),
- dict(name="Surface Grinder Rebuild", kind="Machine tool",
-  desc="Rebuilding a surface grinder in three parts.",
-  videos=[
-   "RjwKQCiDgBQ",  # 2014-01-05 Surface Grinder Rebuild - part 1
-   "1mfz2lJRSHo",  # 2014-01-13 Surface Grinder Rebuild - part 2
-   "WcIkjhJv_oM",  # 2014-02-17 Surface Grinder Rebuild - part 3
   ],
  ),
  dict(name="Fixed Gantry CNC Router", kind="Machine tool",
@@ -164,13 +153,6 @@ INVENTIONS = [
   videos=[
    "5FgXTi2ikvA",  # 2018-04-22 Spinning Metal - Round 1 - I LOST!
    "Lyvqj78M1gg",  # 2018-10-20 Spinning Metal - Part 2! - GODOX Strobe Reflector Build
-  ],
- ),
- dict(name="Pasta Machine Rebuild", kind="Gadget",
-  desc="Rebuilding Alex's pasta machine.",
-  videos=[
-   "cygx0Ng6qMk",  # 2018-05-29 Alex's Pasta Machine: The Rebuildening!
-   "wl9WFLOP7xE",  # 2018-07-03 So How About That Pasta Machine, huh?
   ],
  ),
  dict(name="Two-Piece Machine Vise", kind="Shop tool",
@@ -337,6 +319,123 @@ INVENTIONS = [
   desc="The easiest winch.",
   videos=[
    "TFOT4kpwgdw",  # 2025-11-28 Making The Easiest Winch!
+  ],
+ ),
+ dict(name="Lathe Soft Jaws", kind="Tool",
+  desc="Lathe soft jaws.",
+  videos=[
+   "iGw7gLNKM18",  # 2014-03-01 Lathe Soft Jaws
+  ],
+ ),
+ dict(name="Small Hand Scraper", kind="Tool",
+  desc="A small hand scraper.",
+  videos=[
+   "6ZKhqn7TozI",  # 2014-07-02 Making a Small Hand Scraper
+  ],
+ ),
+ dict(name="Lil' Automation Project", kind="Machine",
+  desc="A little automation project.",
+  videos=[
+   "M08aD3Uy0Ck",  # 2015-03-01 Lil' Automation Project
+  ],
+ ),
+ dict(name="End Mill Grinding Fixture", kind="Tool",
+  desc="An end mill grinding fixture.",
+  videos=[
+   "aqw-f-lTz-A",  # 2016-02-05 Shoot'n The Poop #1 - End Mill Grinding Fixture
+  ],
+ ),
+ dict(name="Lathe Chuck Back Plate", kind="Tool",
+  desc="A lathe chuck back plate.",
+  videos=[
+   "uAQLrM1P-YQ",  # 2016-02-25 Making A Lathe Chuck Back Plate
+  ],
+ ),
+ dict(name="Mill Taper Tooling", kind="Tool",
+  desc="Taper tooling for the mill and a tightening fixture.",
+  videos=[
+   "a2LcYKi0o3U",  # 2016-04-14 Taper Tooling  For The Mill
+   "yGB3vD7sEgQ",  # 2017-01-24 Taper Tooling Tightening Fixture
+  ],
+ ),
+ dict(name="QCTP Tool Holders", kind="Tool",
+  desc="Quick-change tool post holders.",
+  videos=[
+   "ZNWkhxKNHGM",  # 2016-05-09 QCTP Tool Holders for the Lathe
+  ],
+ ),
+ dict(name="Horizontal Milling Overarm Support", kind="Tool",
+  desc="An overarm support for horizontal milling.",
+  videos=[
+   "Cw7Mwd6ey6g",  # 2016-05-15 Horizontal Milling - Building the Overarm Support
+  ],
+ ),
+ dict(name="Homemade Springs", kind="Part",
+  desc="Making springs at home.",
+  videos=[
+   "jAawhg6JtyY",  # 2016-05-25 Making Springs At Home
+  ],
+ ),
+ dict(name="Manual Metal Benders", kind="Tool",
+  desc="Manual metal benders.",
+  videos=[
+   "NzXecCoQWgg",  # 2016-09-18 Manual Metal Benders
+  ],
+ ),
+ dict(name="Project Drawbar", kind="Tool",
+  desc="A drawbar.",
+  videos=[
+   "e89g6-A0m2s",  # 2016-10-31 Project Drawbar
+  ],
+ ),
+ dict(name="Project Vise Handle", kind="Tool",
+  desc="A vise handle.",
+  videos=[
+   "-zXfydde_nE",  # 2016-12-21 Project Vise Handle
+  ],
+ ),
+ dict(name="DIY Tool Holder", kind="Tool",
+  desc="A DIY tool holder.",
+  videos=[
+   "vJIzkIc_wIU",  # 2017-02-15 Stress, Strain & DIY Tool Holder
+  ],
+ ),
+ dict(name="Coring Auger", kind="Tool",
+  desc="A coring auger.",
+  videos=[
+   "bHJzbLNW72c",  # 2017-03-10 Coring Auger
+  ],
+ ),
+ dict(name="Diresta Collaboration Prototype", kind="Object",
+  desc="A prototype designed and master-modelled with Jimmy Diresta.",
+  videos=[
+   "mYfshoR1HgE",  # 2017-09-06 PROTOTYPING! - The Diresta Collaboration
+   "LrPggPn5BB0",  # 2017-09-12 CAD, Master Modeling, & The Diresta Prototype
+  ],
+ ),
+ dict(name="Air File", kind="Tool",
+  desc="An air file.",
+  videos=[
+   "V4OBbXUhIno",  # 2018-07-01 dial M for Air File
+   "Mv1BdL_0U4Q",  # 2018-08-03 Dial N for MORE Air File!!
+  ],
+ ),
+ dict(name="DIY Bandsaw Guides", kind="Tool",
+  desc="DIY bandsaw guides.",
+  videos=[
+   "XIAC1zyYGrc",  # 2018-10-14 Ends & Odds: DIY Bandsaw Guides & More!
+  ],
+ ),
+ dict(name="Welded Stand", kind="Furniture",
+  desc="A TIG-welded stand.",
+  videos=[
+   "aGsFdudG7Ho",  # 2019-03-23 Making A Stand! Why I Love TIG Welding
+  ],
+ ),
+ dict(name="Easy Flywheel Puller", kind="Tool",
+  desc="An easy flywheel puller.",
+  videos=[
+   "SjTh_IVEHQg",  # 2020-05-24 EASY Flywheel Puller... using ONLY industrial lathe and milling machin
   ],
  ),
 ]
