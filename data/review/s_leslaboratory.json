@@ -1,0 +1,140 @@
+{
+"channel": "Les' Lab",
+"videos": 69,
+"labels": {
+"US3vLJIUGoU": "invention",
+"pCnXftuJ9Zo": "invention",
+"AyN1o_3XaTw": "invention",
+"q9zQ3_Kjxd8": "invention",
+"-ny_-Y1MpRY": "invention",
+"ERNVgGmjALY": "invention",
+"GbQEan4gwWM": "invention",
+"ZYzuInzSt7Y": "invention",
+"8wUxYVe98Uo": "invention",
+"NEHiv4lv68U": "invention",
+"k5MOAKHPVG8": "invention",
+"T_goVwwxKE4": "invention",
+"dm3woVQp8Xc": "invention",
+"vEqj33MGwmc": "invention",
+"Tw3HJEhE2dI": "invention",
+"jAV7bnNrE-M": "invention",
+"SCp9T8NKfnM": "invention",
+"Em6pVB7z9lA": "invention",
+"O6eFNKaFXCk": "invention",
+"iOB8jyYetvw": "invention",
+"BtMqx5P74n4": "invention",
+"ma-xpn1WPuI": "invention",
+"WQhi3bTNnF4": "invention",
+"_i1J7TGpPnQ": "invention",
+"w4mWgVDPIiQ": "invention",
+"pZWq-u2lOu8": "invention",
+"L6JiVzpxVc8": "invention",
+"RxjqMh3gkx8": "invention",
+"C_Ci-ufpkdM": "invention",
+"0MvXXwAizrM": "repair",
+"ngs9zPdI_t0": "repair",
+"mkGD6Riflfs": "repair",
+"8iTCxZdQiGY": "repair",
+"T-VjYr7sZC4": "tutorial",
+"xAoEe28itAA": "tutorial",
+"ZQJoJEr3US8": "tutorial",
+"BMlGyAYNdF8": "tutorial",
+"y39UKU7niRE": "tutorial",
+"oA-nNeQ1zyA": "tutorial",
+"UaslPhb9_ls": "tutorial",
+"8khFcicKwJ4": "tutorial",
+"oUM1OD_WWgM": "tutorial",
+"uSSoSIcXWa0": "tutorial",
+"BWd_aLo8DmU": "other",
+"yYIft-1WCYE": "other",
+"Z4wwBWRWr2M": "other",
+"6eXZT4_T7is": "other",
+"77WVaUkEDC4": "other",
+"n0KfTD7HfB4": "other",
+"jI6V9jWbgR8": "other",
+"yI11c1X0vIY": "other",
+"j-w7V_Z9uj4": "other",
+"w1wSHizmbYg": "other",
+"Gd8ckZ4hSes": "other",
+"l6uH0Ok9IOo": "other",
+"L4p881zz0Ls": "other",
+"bvvG6gVnkmw": "other",
+"UpuN0dS23Nw": "other",
+"Uxc5H5Ui1n0": "other",
+"PiVwZoQ8_jQ": "other",
+"2KYW38_8-U0": "other",
+"sMpdqBPZSr8": "other",
+"BjaLvwcfYTk": "other",
+"ad4hxXz4bwA": "other",
+"PLr8smynpdw": "other",
+"3-htF8Jrixo": "other",
+"MZdHofoIPe8": "other",
+"fp-jHYiTUVY": "other",
+"h0LF1kq0GEE": "other"
+},
+"inventions": {
+"Homemade TEA Nitrogen and Dye Laser": [
+"US3vLJIUGoU",
+"pCnXftuJ9Zo",
+"AyN1o_3XaTw"
+],
+"Tunable Dye Laser": [
+"q9zQ3_Kjxd8",
+"-ny_-Y1MpRY",
+"ERNVgGmjALY"
+],
+"30 kV ZVS Power Supply": [
+"GbQEan4gwWM"
+],
+"HeNe Laser Power Supply": [
+"ZYzuInzSt7Y"
+],
+"Inexpensive Nitrogen Laser Capacitors": [
+"8wUxYVe98Uo",
+"NEHiv4lv68U"
+],
+"MNL-100 Fibre-Optic Interface": [
+"k5MOAKHPVG8"
+],
+"Raspberry Pi Spectrometer": [
+"T_goVwwxKE4",
+"dm3woVQp8Xc",
+"vEqj33MGwmc",
+"Tw3HJEhE2dI",
+"jAV7bnNrE-M",
+"SCp9T8NKfnM"
+],
+"Barcode Scanner Laser Show": [
+"Em6pVB7z9lA",
+"O6eFNKaFXCk"
+],
+"Acousto-Optic Controller": [
+"iOB8jyYetvw"
+],
+"Integrating Sphere": [
+"BtMqx5P74n4"
+],
+"Triggered Spark Gap": [
+"ma-xpn1WPuI"
+],
+"10W Laser Diode Power Supply": [
+"WQhi3bTNnF4"
+],
+"Industrial CO2 Coder to Engraver": [
+"_i1J7TGpPnQ",
+"w4mWgVDPIiQ"
+],
+"1 GHz Tektronix Scope Hack": [
+"pZWq-u2lOu8"
+],
+"DIY Raman Laser": [
+"L6JiVzpxVc8"
+],
+"Home-Grown Crystal Light Modulator": [
+"RxjqMh3gkx8"
+],
+"High-Current Trigger Transformer": [
+"C_Ci-ufpkdM"
+]
+}
+}

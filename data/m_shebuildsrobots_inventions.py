@@ -1,5 +1,6 @@
-"""Curated inventions for She Builds Robots. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of She Builds Robots. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'she-builds-robots', 'name': 'She Builds Robots', 'tagline': 'Fashioneering: engineering meets fashion, from moving jellyfish dresses to a robot Remy.', 'other_label': 'Other uploads: cosplays, tutorials and updates', 'person': 'She Builds Robots'}
 

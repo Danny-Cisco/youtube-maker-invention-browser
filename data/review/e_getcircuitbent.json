@@ -1,0 +1,141 @@
+{
+"channel": "Get Circuit Bent",
+"videos": 56,
+"labels": {
+"qYESxsGpcq8": "invention",
+"BPM9VEJxe_E": "invention",
+"hnb99mErlQU": "invention",
+"UqKTtgpL9DQ": "invention",
+"ovje4MHV0gs": "invention",
+"6ITLHbkJ7C4": "invention",
+"_ONI_Kui6XI": "invention",
+"kHf7WUVE1LU": "invention",
+"8rj6zfIaVts": "invention",
+"ycMJNzTI6tg": "invention",
+"G-_FRUykGnU": "invention",
+"DUhVnB_wbo0": "invention",
+"_QH9TjtXYEM": "invention",
+"4epmUKdBZ0A": "invention",
+"DeTOcwbkaoE": "invention",
+"Ng7-lD5mub4": "invention",
+"yqVU0I47wjY": "invention",
+"AezP-8t-TKI": "invention",
+"ZF0-4DFcV10": "invention",
+"WXOeDEXKspU": "invention",
+"sCVJS1uQUMQ": "invention",
+"cdvh6Fc6TZg": "invention",
+"ShdLWItzjb0": "invention",
+"B_s_CKk9xFk": "invention",
+"glWDAbDxrLY": "invention",
+"hNkBwkQFk20": "invention",
+"qfKpkMrxo50": "invention",
+"yab0vFGAiJ8": "invention",
+"vuC6QAmMsQs": "invention",
+"7vLm8fvA-UU": "invention",
+"s4wwnGqcuuc": "invention",
+"VcH2L6oIcsE": "invention",
+"zg-kOUHmbnk": "invention",
+"EbMWyWU8nX0": "invention",
+"wk36qJ6shR4": "invention",
+"rCbWeOV460k": "repair",
+"SF-VT3cLmXY": "repair",
+"gfwk4rlzZZ0": "repair",
+"HzVtS21Y0wA": "repair",
+"bdlrjQqG1pI": "repair",
+"MM1pTe1W9Wo": "repair",
+"bhPbMFmWr3E": "repair",
+"IDVD0XXiGhY": "tutorial",
+"3z0ETmdAh7w": "other",
+"cAQTr7w626I": "other",
+"JRFi7ghMpWs": "other",
+"Nrtb5_hYNc8": "other",
+"-bzp0Tc3K8I": "other",
+"PJVe3P9feUc": "other",
+"keekv00DHng": "other",
+"xgN3C0xfCv8": "other",
+"yBJW7OZHVmU": "other",
+"GxCzBL-be7I": "other",
+"kYdP_ZgYEJs": "other",
+"HOe42E8aoCc": "other",
+"DOhLlTGjxwg": "other"
+},
+"inventions": {
+"Power Glove MIDI Controller": [
+"qYESxsGpcq8"
+],
+"MSXey Synth": [
+"BPM9VEJxe_E"
+],
+"N64 and GameCube Controller MIDI Interfaces": [
+"hnb99mErlQU",
+"UqKTtgpL9DQ",
+"ovje4MHV0gs"
+],
+"Shouty Cat Filter Module": [
+"6ITLHbkJ7C4"
+],
+"Bit Bot Pitch-Shift Module": [
+"_ONI_Kui6XI"
+],
+"Twinkle Echo Module": [
+"kHf7WUVE1LU"
+],
+"Circuit-Bent Casio SK-1": [
+"8rj6zfIaVts"
+],
+"Hamberder Soundscape Mangler": [
+"ycMJNzTI6tg"
+],
+"Circuit-Bent Casio MT-400V": [
+"G-_FRUykGnU"
+],
+"Clock Modder": [
+"DUhVnB_wbo0"
+],
+"Glitch Mixer": [
+"_QH9TjtXYEM"
+],
+"Glitch Cam": [
+"4epmUKdBZ0A"
+],
+"Hello Kitty Karaoke Glitch Mixer": [
+"DeTOcwbkaoE"
+],
+"Circuit-Bent Meowsic Cat Keyboard": [
+"Ng7-lD5mub4",
+"yqVU0I47wjY",
+"AezP-8t-TKI",
+"ZF0-4DFcV10",
+"WXOeDEXKspU"
+],
+"Circuit-Bent Yamaha REX50": [
+"sCVJS1uQUMQ",
+"cdvh6Fc6TZg",
+"ShdLWItzjb0",
+"B_s_CKk9xFk",
+"glWDAbDxrLY"
+],
+"Audio-Reactive Musical Moose": [
+"hNkBwkQFk20",
+"qfKpkMrxo50"
+],
+"Easy-Mode Glitch Camera": [
+"yab0vFGAiJ8",
+"vuC6QAmMsQs",
+"7vLm8fvA-UU",
+"s4wwnGqcuuc"
+],
+"Tape Player Tube Amp": [
+"VcH2L6oIcsE"
+],
+"Digital Glitch Mixer (Karl Klomp)": [
+"zg-kOUHmbnk"
+],
+"Circuit-Bent VTech VideoPainter": [
+"EbMWyWU8nX0"
+],
+"Repurposed Medical Thermal Printer": [
+"wk36qJ6shR4"
+]
+}
+}

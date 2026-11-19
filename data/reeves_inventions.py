@@ -1,9 +1,6 @@
-"""Curated inventions for Michael Reeves (@michaelreeves).
-kind: Robot | Hack | Vehicle
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Michael Reeves. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'michael-reeves', 'name': 'Michael Reeves', 'person': 'Michael Reeves', 'tagline': 'Gloriously terrible robots: screaming Roombas, taser machines and a goldfish that trades stocks.', 'other_label': 'Other uploads: early C# tutorials, vlogs, AMAs and Shorts'}
 
@@ -14,7 +11,7 @@ INVENTIONS = [
    "Q8zC3-ZQFJI",  # 2017-04-17 The Robot That Shines a Laser in Your Eye
    "HgMQTvDcn_s",  # 2017-04-24 Laser Robot In Depth | The Truth
   ],
-  links=[("Digital Trends", "https://www.digitaltrends.com/cool-tech/robot-shines-laser-in-eye/")]),
+ ),
  dict(name="DIY Laser Turret", kind="Robot",
   desc="A two-part build of a laser turret: hardware, then software.",
   videos=[
@@ -148,7 +145,7 @@ INVENTIONS = [
   videos=[
    "mvz3LRK263E",  # 2019-05-04 The Roomba That Screams When it Bumps Into Stuff
   ],
-  links=[("Raspberry Pi", "https://www.raspberrypi.com/news/the-nsfw-roomba-that-screams-when-it-bumps-into-stuff/"), ("Hackster", "https://www.hackster.io/news/nothing-is-more-heartbreaking-than-a-screaming-roomba-d57a750efb1c"), ("Designboom", "https://www.designboom.com/technology/michael-reeves-youtube-hacked-roomba-robot-05-06-2019/")]),
+ ),
  dict(name="Gas-Powered Fishing Pole", kind="Robot",
   desc="A fishing pole with a gas engine.",
   videos=[
@@ -184,7 +181,7 @@ INVENTIONS = [
   videos=[
    "A_BlNA7bBxo",  # 2020-04-28 I Built A Surgery Robot
   ],
-  links=[("Hackaday", "https://hackaday.com/2020/05/07/surgery-robot-is-a-real-cut-up"), ("Hackster", "https://www.hackster.io/news/this-surgery-robot-is-the-most-terrifying-use-for-technology-that-we-can-imagine-d182ea537f77")]),
+ ),
  dict(name="Where's Waldo Taser", kind="Robot",
   desc="If you can't find Waldo, you get tased.",
   videos=[

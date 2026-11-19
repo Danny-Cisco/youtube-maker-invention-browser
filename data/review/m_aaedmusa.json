@@ -1,0 +1,170 @@
+{
+"channel": "Aaed Musa",
+"videos": 64,
+"labels": {
+"BAxYj-h0lB0": "invention",
+"kvsU6-gOC1g": "invention",
+"d-KMRckBQrs": "invention",
+"98Llchzygx8": "invention",
+"06LlqRsLDFg": "invention",
+"ztjZDpbVqf8": "invention",
+"1ggUXlYrNng": "invention",
+"KdGkQ9Kb8Jk": "invention",
+"ycqgwixEzEs": "invention",
+"HUYeWwfZO0c": "invention",
+"r6VSVCb_3mo": "invention",
+"J_UTZypgVkI": "invention",
+"7Ee2DimSPwg": "invention",
+"3UthF45Twrs": "invention",
+"Nfo2iKi_8YU": "invention",
+"-Gtw1KFiQsc": "invention",
+"XExeQqSq_7o": "invention",
+"nTYyQoMi3TI": "invention",
+"Q3_HFzhqLwk": "invention",
+"A-Q2NJdNv5Y": "invention",
+"3PN_b1KqNLg": "invention",
+"kAaYaZcpbLo": "invention",
+"NwRuQ7r6xLQ": "invention",
+"v4F-cGDGiEw": "invention",
+"BWSH7EnjaQE": "invention",
+"V8gHTKWw--Y": "invention",
+"m0bMMALYMYk": "invention",
+"q9dPwyPL-EI": "invention",
+"gxXatMr0LX4": "invention",
+"cqpYpj8EaDY": "invention",
+"bdJuIe2igCI": "invention",
+"VhUvoV5XyRg": "invention",
+"GakFB8Tdd98": "invention",
+"MwIBTbumd1Q": "invention",
+"bAYAWDMDU04": "invention",
+"WIU8gnqQJJM": "invention",
+"E864U9bP1H4": "invention",
+"RVKNQdN7XBc": "invention",
+"StH1y1_daz4": "invention",
+"Cgcu_IZPz4g": "invention",
+"8s9TjRz01fo": "invention",
+"_Ba5bdM01CI": "invention",
+"xq2m21NyS2M": "invention",
+"fsNZjyL05oA": "invention",
+"pnh2_c4xKXs": "invention",
+"4GEApeer48A": "invention",
+"GFLa1b1juUo": "invention",
+"8UXc5ImYeZc": "invention",
+"yIYb0EdqA9c": "invention",
+"V3cL6s3VPCs": "invention",
+"Wp5NodfvvF4": "invention",
+"j8vkzQu0qN8": "invention",
+"b_pQts2fDiI": "invention",
+"obba3Hybc0s": "invention",
+"DL86gY9NSuU": "invention",
+"t_IZvusf1lI": "invention",
+"gB9RWnWNd1Y": "invention",
+"5LNYhtvf3hU": "invention",
+"qDtFj4PE3-o": "tutorial",
+"Iq7BIvdjDnM": "tutorial",
+"1c8U_gmQOyE": "tutorial",
+"HQlx3_QHQdY": "tutorial",
+"qKIXccf9ozw": "tutorial",
+"Hem6aPPuO0M": "other"
+},
+"inventions": {
+"Motorized Nerf Gauntlet": [
+"BAxYj-h0lB0",
+"kvsU6-gOC1g",
+"d-KMRckBQrs"
+],
+"Basic Bot": [
+"98Llchzygx8"
+],
+"3D-Printed Robotic Actuator": [
+"06LlqRsLDFg",
+"ztjZDpbVqf8",
+"1ggUXlYrNng"
+],
+"Cycloidal Robotic Actuator": [
+"KdGkQ9Kb8Jk",
+"ycqgwixEzEs"
+],
+"Compliant Servo Actuator": [
+"HUYeWwfZO0c",
+"r6VSVCb_3mo",
+"J_UTZypgVkI"
+],
+"3D-Printed Quadrupedal Robot": [
+"7Ee2DimSPwg",
+"3UthF45Twrs",
+"Nfo2iKi_8YU",
+"-Gtw1KFiQsc",
+"XExeQqSq_7o",
+"nTYyQoMi3TI",
+"Q3_HFzhqLwk"
+],
+"Electronic Wolverine Claws": [
+"A-Q2NJdNv5Y"
+],
+"Maker's Module": [
+"3PN_b1KqNLg"
+],
+"Ball Balancing Robot": [
+"kAaYaZcpbLo",
+"NwRuQ7r6xLQ",
+"v4F-cGDGiEw"
+],
+"3D-Printed Servo Motor": [
+"BWSH7EnjaQE"
+],
+"Rubik's Cube Solving Robot": [
+"V8gHTKWw--Y",
+"m0bMMALYMYk",
+"q9dPwyPL-EI"
+],
+"Robotic Actuator Test Rig": [
+"gxXatMr0LX4"
+],
+"Dancing Robot Dog": [
+"cqpYpj8EaDY",
+"bdJuIe2igCI",
+"VhUvoV5XyRg"
+],
+"Internal Cycloidal Actuator": [
+"GakFB8Tdd98"
+],
+"Rope Speed Reducer": [
+"MwIBTbumd1Q",
+"bAYAWDMDU04"
+],
+"Impulse Ice-Skating Robot": [
+"WIU8gnqQJJM",
+"E864U9bP1H4"
+],
+"Wrist-Mounted CD Launcher": [
+"RVKNQdN7XBc",
+"StH1y1_daz4",
+"Cgcu_IZPz4g"
+],
+"CARA Rope-Driven Robot Dog": [
+"8s9TjRz01fo",
+"_Ba5bdM01CI",
+"xq2m21NyS2M",
+"fsNZjyL05oA",
+"pnh2_c4xKXs",
+"4GEApeer48A",
+"GFLa1b1juUo",
+"8UXc5ImYeZc",
+"yIYb0EdqA9c",
+"V3cL6s3VPCs"
+],
+"Infinite Spinning Top": [
+"Wp5NodfvvF4",
+"j8vkzQu0qN8",
+"b_pQts2fDiI",
+"obba3Hybc0s",
+"DL86gY9NSuU",
+"t_IZvusf1lI"
+],
+"Real Spider-Man Web-Shooters": [
+"gB9RWnWNd1Y",
+"5LNYhtvf3hU"
+]
+}
+}

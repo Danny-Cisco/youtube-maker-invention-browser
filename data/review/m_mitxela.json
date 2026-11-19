@@ -1,0 +1,228 @@
+{
+"channel": "mitxela",
+"videos": 77,
+"labels": {
+"6PEI7agaeYc": "invention",
+"9NENegqhEEw": "invention",
+"FcsjieDfGno": "invention",
+"MS1pQFArHKs": "invention",
+"cw42utdcHlE": "invention",
+"sK6SHGm2AZg": "invention",
+"tnm6agF8oog": "invention",
+"D7qEo8GECUQ": "invention",
+"KTvVS8guBsY": "invention",
+"bmFmsn6VZSM": "invention",
+"oE-uB1Vw40w": "invention",
+"xgJmhjM_Kpg": "invention",
+"tUNjKQWjo80": "invention",
+"u7AJvNMHu-c": "invention",
+"V4qf5L1Ww-A": "invention",
+"__hWliAwwNY": "invention",
+"JdKfuitVTns": "invention",
+"EFuItpRkImg": "invention",
+"fWXJDNcbZAA": "invention",
+"kHMZByJl61c": "invention",
+"MEEt9e8boiQ": "invention",
+"Fzbg-BqIdJI": "invention",
+"EL020eUrgNY": "invention",
+"GB-yyyBCIjE": "invention",
+"ExGMMumWFdc": "invention",
+"rBqc1AiUsk8": "invention",
+"EuggcDJOED8": "invention",
+"6CwaT4R5_WA": "invention",
+"zHVrY_xLM3c": "invention",
+"qK0vmuQib8Y": "invention",
+"i08S5qolgvc": "invention",
+"dTGOEe8f8ls": "invention",
+"SNqm5T5syTM": "invention",
+"XL2cZjO5IUY": "invention",
+"gLG6Mp4n-Ms": "invention",
+"me4gGfazUdw": "invention",
+"JhNMeJZ8Ll0": "invention",
+"CUtJFKyDCNE": "invention",
+"8UbVgUFfN8U": "invention",
+"TfBQi_peHI4": "invention",
+"Qv88mkIijy8": "invention",
+"2XhaSXmPdKI": "invention",
+"HKpBhE7QVAI": "invention",
+"T3evnh9lT9k": "invention",
+"CHoGIvOi-jw": "invention",
+"6JeV53LZ8ag": "invention",
+"IHD3ji-F600": "invention",
+"jis1MC5Tm8k": "invention",
+"dLw2QQdOLaM": "invention",
+"MkfHD2ShE5s": "invention",
+"aZzOWnEWgww": "invention",
+"GvkoKPkOkEY": "tutorial",
+"edERx4x5eY0": "tutorial",
+"TbMg2LK4eFk": "tutorial",
+"euJgtLcWWyo": "tutorial",
+"0AA-Le7cmH0": "tutorial",
+"p-q8mrZ7V68": "tutorial",
+"45w1-lwFSzM": "other",
+"53Rgjmr2rl0": "other",
+"7FpW960gkVE": "other",
+"9-98OsVoTUg": "other",
+"9lowHks4su8": "other",
+"BnQQkrWyFjM": "other",
+"G8b-ww_Z24U": "other",
+"OYtN8jaJ4GQ": "other",
+"QqVYLrvO8DA": "other",
+"Tmsn2qXbgXU": "other",
+"Tur2YeEOX_A": "other",
+"jeB2q75eJNw": "other",
+"ko8_j7_V0B0": "other",
+"mWP_5MBrt8U": "other",
+"uzCrZ8GvqXE": "other",
+"zyyzEiKftIM": "other",
+"6wWYKQirmJ4": "other",
+"IEBvAG48UFE": "other",
+"Qw-VvGsYpSU": "other",
+"KB2eRY8ZT4E": "other"
+},
+"inventions": {
+"Wobbler Engine from Printer Parts": [
+"6PEI7agaeYc"
+],
+"Better Continuity Tester": [
+"9NENegqhEEw"
+],
+"Synth Cable": [
+"FcsjieDfGno"
+],
+"Hardware Reverse Oscilloscope": [
+"MS1pQFArHKs"
+],
+"Stylophone Circuit Bending": [
+"cw42utdcHlE"
+],
+"MIDI Monotron": [
+"sK6SHGm2AZg"
+],
+"World's Smallest MIDI Synth": [
+"tnm6agF8oog",
+"D7qEo8GECUQ",
+"KTvVS8guBsY",
+"bmFmsn6VZSM"
+],
+"Electric Melodica": [
+"oE-uB1Vw40w"
+],
+"ATtiny2313 Polyphonic Synth": [
+"xgJmhjM_Kpg"
+],
+"Morse Code USB Keyboard": [
+"tUNjKQWjo80"
+],
+"Electric Engine from Junk": [
+"u7AJvNMHu-c"
+],
+"One-Component Theremin": [
+"V4qf5L1Ww-A"
+],
+"Etch-a-Sketch USB Mouse": [
+"__hWliAwwNY"
+],
+"Acoustic QR Codes": [
+"JdKfuitVTns"
+],
+"Touch Screen MIDI Ribbon": [
+"EFuItpRkImg"
+],
+"HC-05 Bluetooth Gamepad": [
+"fWXJDNcbZAA"
+],
+"Two-Headed Coin": [
+"kHMZByJl61c"
+],
+"1kB TFTP Bootloader": [
+"MEEt9e8boiQ"
+],
+"Programmable LED Earrings": [
+"Fzbg-BqIdJI"
+],
+"Portable Jacob's Ladder": [
+"EL020eUrgNY"
+],
+"MIDI Medallion": [
+"GB-yyyBCIjE"
+],
+"Tiny Pitch-Bend Joystick": [
+"ExGMMumWFdc"
+],
+"EXECU-CALM": [
+"rBqc1AiUsk8"
+],
+"MIDI Music Box": [
+"EuggcDJOED8"
+],
+"Thermal Paper Polaroid": [
+"6CwaT4R5_WA"
+],
+"Stylophone Business Card": [
+"zHVrY_xLM3c"
+],
+"AI in Brainfuck": [
+"qK0vmuQib8Y"
+],
+"JavaScript Game Boy Emulator": [
+"i08S5qolgvc"
+],
+"DIY Games Console": [
+"dTGOEe8f8ls"
+],
+"Precision Clock": [
+"SNqm5T5syTM",
+"XL2cZjO5IUY"
+],
+"Plotter Fun": [
+"gLG6Mp4n-Ms"
+],
+"More MIDI Madness": [
+"me4gGfazUdw"
+],
+"UV Protection Amulet": [
+"JhNMeJZ8Ll0"
+],
+"WebRTC Pong": [
+"CUtJFKyDCNE"
+],
+"Tiny Steampunk HDMI Display": [
+"8UbVgUFfN8U",
+"TfBQi_peHI4"
+],
+"Infinite Brass Cubes": [
+"Qv88mkIijy8"
+],
+"R-Scope Mk.2 Synth": [
+"2XhaSXmPdKI"
+],
+"Tiny Volumetric Display": [
+"HKpBhE7QVAI"
+],
+"LED Industrial Piercing": [
+"T3evnh9lT9k"
+],
+"LED Matrix Earring": [
+"CHoGIvOi-jw"
+],
+"Robot Slide Whistle Orchestrion": [
+"6JeV53LZ8ag"
+],
+"CH32V003 Light Communication": [
+"IHD3ji-F600"
+],
+"Fluid Simulation Pendant": [
+"jis1MC5Tm8k"
+],
+"Eurorack Knob Idea": [
+"dLw2QQdOLaM"
+],
+"Simple Screw Counter": [
+"MkfHD2ShE5s"
+],
+"Fluid Simulation on Flipdots": [
+"aZzOWnEWgww"
+]
+}
+}

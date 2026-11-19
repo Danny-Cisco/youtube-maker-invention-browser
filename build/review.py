@@ -12,7 +12,8 @@ Usage:
   python3 build/review.py list data/NAME [FROM [TO]]   numbered uploads, oldest first
   python3 build/review.py write data/NAME SPEC.json      record the review and regenerate data/NAME_inventions.py
 
-SPEC.json: {"inventions": [[name, kind, [numbers], description], ...],
+SPEC.json: {"current": {"drop": [...], "add": {...}, "remove": [...], "rename": {...}} (optional, start from existing),
+            "inventions": [[name, kind, [numbers], description], ...],
             "repair": [numbers], "tutorial": [numbers], "workshop": [numbers],
             "creator": {optional overrides, e.g. "tagline"}}
 Numbers not listed anywhere are labelled "other". The review is saved in data/review/<NAME>.json by video ID, so it
@@ -25,13 +26,33 @@ V = sorted(json.load(open(prefix + "_videos.json"))["videos"], key=lambda v: (v[
 if mode == "list":
     a = int(sys.argv[3]) if len(sys.argv) > 3 else 0
     b = int(sys.argv[4]) if len(sys.argv) > 4 else len(V)
+    cur = {}
+    try:
+        g = {}; exec(open(prefix + "_inventions.py").read(), g)
+        cur = {i: x["name"] for x in g["INVENTIONS"] for i in x["videos"]}
+    except Exception: pass
     for i, v in enumerate(V[a:b], a):
-        print(f'{i} {v["d"][2:7]} {"S" if v.get("vertical") else "L"}{v["s"] // 60:>4}m {v["v"]:>8} {v["t"][:80]}')
+        tag = f'  [{cur[v["id"]][:28]}]' if v["id"] in cur else ""
+        vv = f'{v["v"] / 1e6:.1f}M' if v["v"] >= 1e6 else f'{v["v"] // 1000}k'
+        print(f'{i} {v["d"][2:7]} {"S" if v.get("vertical") else "L"}{v["s"] // 60:>3}m {vv:>6} {v["t"][:78]}{tag}')
     sys.exit()
 
 spec = json.load(open(sys.argv[3]))
 old = {}; exec(open(prefix + "_inventions.py").read(), old)
 C = {**old["CREATOR"], **spec.get("creator", {})}
+# "current": start from the maker's existing inventions (keeping names, kinds, descriptions), then
+#   {"drop": [names], "add": {name: [numbers]}, "remove": [numbers], "rename": {old: new}}
+pos = {v["id"]: i for i, v in enumerate(V)}
+if "current" in spec:
+    cu = spec["current"]; base = []
+    for x in old["INVENTIONS"]:
+        if x["name"] in cu.get("drop", []): continue
+        idx = [pos[i] for i in x["videos"] if i in pos and pos[i] not in cu.get("remove", [])]
+        idx += [i for i in cu.get("add", {}).get(x["name"], []) if i not in idx]
+        if idx: base.append([cu.get("rename", {}).get(x["name"], x["name"]), x.get("kind", "Build"), idx, x["desc"]])
+    missing = set(cu.get("drop", [])) - {x["name"] for x in old["INVENTIONS"]}
+    assert not missing, f"unknown inventions to drop: {missing}"
+    spec["inventions"] = base + spec.get("inventions", [])
 labels, used = {}, set()
 for name, kind, idx, desc in spec["inventions"]:
     dup = used & set(idx); assert not dup, f"{name}: already used {sorted(dup)}"

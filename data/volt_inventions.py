@@ -1,9 +1,6 @@
-"""Curated inventions for Mr. Volt (@mrvolt).
-kind: Animatronic | Prop | Gadget
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Mr. Volt. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'mr-volt', 'name': 'Mr. Volt', 'person': 'Mr. Volt', 'tagline': 'Fictional technology made real: GLaDOS, Wheatley, Claptrap and a working Pip-Boy.', 'other_label': 'Other uploads: updates, tips and reviews'}
 
@@ -75,11 +72,6 @@ INVENTIONS = [
   desc="A Securitron from Fallout: New Vegas.",
   videos=[
    "s_RIMZ2yiBs",  # 2021-09-09 Building a Securitron from Fallout: New Vegas in Real Life Part 1
-  ],
- ),
- dict(name="Coffee Mug Computer Vision", kind="Gadget",
-  desc="Coffee-mug computer vision for a sentry build.",
-  videos=[
    "BOyEE5Yv7Y4",  # 2021-09-24 Coffee Mug Computer Vision | Building a Securitron in Real Life Part 2
   ],
  ),
@@ -121,7 +113,7 @@ INVENTIONS = [
    "2MN4uuE-bg0",  # 2024-12-24 Designing a Magic Dice Box for Crescent Shay
   ],
  ),
- dict(name="Working Pok\u00e9dex", kind="Gadget",
+ dict(name="Working Pokédex", kind="Gadget",
   desc="A real working Pokédex.",
   videos=[
    "k5cQ_2DNEOU",  # 2026-04-09 I made a real working Pokedex

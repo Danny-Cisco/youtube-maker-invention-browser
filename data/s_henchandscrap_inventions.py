@@ -1,14 +1,18 @@
-"""Curated inventions for Hench & Scrap (@henchandscrap).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Hench & Scrap. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'hench-and-scrap', 'name': 'Hench & Scrap', 'person': 'Hench & Scrap', 'tagline': 'Aussie nerds making props and cosplay from video games.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Hench & Scrap build the Shadowlands -, Kyrian Mace", kind="Build",
-  desc="We've been working in collaboration with Blizzard on a series of prop builds as part of the lead up to the release of the upcoming Shadowlands expansion for World of Warcraft!",
+ dict(name="Crash Bandicoot Quantum Masks", kind="Prop",
+  desc="The Quantum Masks from Crash Bandicoot 4.",
+  videos=[
+   "Bv8ikCORLpc",  # 2020-11-02 Crash Bandicoot 4 - building the Quantum Masks
+  ],
+ ),
+ dict(name="Shadowlands Covenant Weapons", kind="Prop",
+  desc="Four World of Warcraft Shadowlands weapons: Kyrian mace, Necrolord staff, Venthyr sword and shield, Night Fae bow.",
   videos=[
    "H6UDajwy3fk",  # 2020-11-02 Hench & Scrap build the Shadowlands - Part 1, Kyrian Mace
    "0mFJGL6jE4s",  # 2020-11-09 Hench & Scrap build the Shadowlands - Part 2, Necrolords Staff
@@ -16,108 +20,188 @@ INVENTIONS = [
    "EGovjMxwR64",  # 2020-11-23 Hench & Scrap build the Shadowlands - Part 4, Night Fae Bow
   ],
  ),
- dict(name="Crash Bandicoot 4", kind="Build",
-  desc="To celebrate the launch of Crash Bandicoot 4, we created a set of Quantum Masks!",
+ dict(name="Zealot Psi-Blades", kind="Prop",
+  desc="StarCraft anniversary Zealot psi-blades.",
   videos=[
-   "Bv8ikCORLpc",  # 2020-11-02 Crash Bandicoot 4 - building the Quantum Masks
+   "IxMkDVoxG0w",  # 2020-11-02 Hench & Scrap Foundry - Starcraft Anniversary Zealot Psi-blades
   ],
  ),
- dict(name="Making of: Ask an Old God", kind="Build",
-  desc="In a pact with the Old Gods, we created the board for Blizzard ANZ's Ask An Old God online event!",
+ dict(name="Ask an Old God (Hearthstone)", kind="Prop",
+  desc="A Hearthstone 'Ask an Old God' build.",
   videos=[
    "_yjsvD8fVv0",  # 2020-12-16 Making of: Ask an Old God (Hearthstone)
   ],
  ),
- dict(name="We built a life size Sentinel Hammer from DOOM Eternal", kind="Build",
-  desc="For the launch of DOOM Eternal: The Ancient Gods - Part Two, we teamed up with Bethesda ANZ to construct a life-size version of the Sentinel Hammer.",
+ dict(name="DOOM Sentinel Hammer", kind="Prop",
+  desc="A life-size Sentinel Hammer from DOOM Eternal.",
   videos=[
    "-wlmVHqm6x4",  # 2021-04-06 We built a life size Sentinel Hammer from DOOM Eternal: The Ancient Go
   ],
  ),
- dict(name="We made Illidan's Warglaives for Blizzard", kind="Build",
-  desc="So, we've spent the past month building these utterly insane Twin Blades of Azzinoth from World of Warcraft for Blizzard ANZ to celebrate the upcoming release of Burning Crusade Classic!",
+ dict(name="Illidan's Warglaives", kind="Prop",
+  desc="Illidan's warglaives, made for Blizzard.",
   videos=[
    "1uw_03TnCbE",  # 2021-05-18 We made Illidan's Warglaives for Blizzard!
   ],
  ),
- dict(name="We made a Tyrael cosplay", kind="Build",
-  desc="We reveled in the opportunity to turn Oarin into Tyrael, celebrating the release of Diablo II: Resurrected in our collaboration with Blizzard!",
+ dict(name="Tyrael Cosplay", kind="Costume",
+  desc="A Tyrael cosplay.",
   videos=[
    "Y03j19LD5cg",  # 2021-10-11 We made a Tyrael cosplay!
   ],
  ),
- dict(name="Making a FUNCTIONAL Trebuchet Trophy for Red Bull Wololo V", kind="Build",
-  desc="We built the trophy for this year's Red Bull Gaming Wololo V!",
+ dict(name="Functional Trebuchet Trophy", kind="Prop",
+  desc="A working trebuchet trophy for Red Bull Wololo V.",
   videos=[
    "s8oy12I8QzY",  # 2021-10-11 Making a FUNCTIONAL Trebuchet Trophy for Red Bull Wololo V!
   ],
  ),
- dict(name="Making Skyrim's Mace of Molag Bal for Bethesda", kind="Build",
-  desc="We're really proud of this one!",
+ dict(name="Mace of Molag Bal", kind="Prop",
+  desc="Skyrim's Mace of Molag Bal, made for Bethesda.",
   videos=[
    "w08v9_ABR0g",  # 2021-11-23 Making Skyrim's Mace of Molag Bal for Bethesda
+   "BG5rVhrXQhw",  # 2023-09-01 Lighting and painting the Mace of Molag Bal #skyrim #3dprinting #gamin
+   "NFUNudpup_w",  # 2023-09-26 Painting a Daedric mace #skyrim
   ],
  ),
- dict(name="Crafting Skyrim's Sanguine Rose for Bethesda", kind="Build",
-  desc="For Bethesda ANZ's Bethesda Holiday Special, we were asked to bring the Sanguine Rose - one of the more iconic staves from Skyrim - to life, in meticulous detail!",
+ dict(name="Sanguine Rose", kind="Prop",
+  desc="Skyrim's Sanguine Rose staff, made for Bethesda.",
   videos=[
    "Al8Pvh7d46g",  # 2021-12-17 Crafting Skyrim's Sanguine Rose for Bethesda
    "D_qYCvGOAZs",  # 2024-09-25 The Sanguine Rose - Skyrim staff made for Bethesda
   ],
  ),
- dict(name="Making an ESO Breton Chest cooler", kind="Build",
-  desc="Last year we made not one, but twenty five of these Breton chest coolers for Bethesda ANZ!",
+ dict(name="The Lich King", kind="Costume",
+  desc="A full Lich King cosplay for Blizzard: sculpted greaves, slush-cast armour, embroidery and helmet.",
+  videos=[
+   "XsrqgcTKtcI",  # 2022-10-15 We cosplayed the Lich King for Blizzard!
+   "JJXNkbrMdhE",  # 2022-10-17 We Made The Lich King for Blizzard (Highlights)
+   "Odq6TFlDLag",  # 2023-09-06 Sculpting Lich King greaves #cosplay #worldofwarcraft
+   "x3KOte10Paw",  # 2023-09-08 Slush casting Lich King armor #cosplay #moldmaking #armor #warcraft
+   "yJmm17TjvZI",  # 2023-09-10 Lich King embroidery #worldofwarcraft #cosplay
+   "H82c0HK7kjA",  # 2023-09-12 Making the Lich King helmet #warcraft #cosplay
+  ],
+ ),
+ dict(name="Dragonflight Whelplings", kind="Puppet",
+  desc="Dragonflight whelpling puppets.",
+  videos=[
+   "5Q1vNQsrjPE",  # 2023-08-11 Bringing Dragonflight's Whelplings to life!
+   "L-snAjrdj9Y",  # 2023-09-04 Painting baby dragon puppets #warcraft #cosplay #creaturefx
+  ],
+ ),
+ dict(name="ESO Breton Chest Cooler", kind="Prop",
+  desc="An Elder Scrolls Online Breton chest cooler.",
   videos=[
    "6F9Nl2YcW1k",  # 2023-08-25 Making an ESO Breton Chest cooler!
   ],
  ),
- dict(name="We made a light up Balrog statue with infinity mirror for WOTC", kind="Build",
-  desc="For MTGxLOTR we created a huge, one meter long diorama of the infamous scene where Gandalf faces down the Balrog.",
+ dict(name="Light-Up Balrog Statue", kind="Sculpture",
+  desc="A light-up Balrog statue with an infinity mirror, for Wizards of the Coast.",
   videos=[
    "YbQpjZgaHmI",  # 2023-08-28 We made a light up Balrog statue with infinity mirror for WOTC!
+   "PGh4i6RWBhk",  # 2023-08-29 Painting our huge Balrog model #MTG #LOTR
   ],
  ),
- dict(name="Making a huge Elesh Norn statue from Magic", kind="Build",
-  desc="Earlier this year WOTC approached us to make a huge (50 cm!) tall statue of our favorite monster mommy from Phyrexia, so we spent a few weeks meticulously bringing her to life in gorgeous detail.",
+ dict(name="Destiny 2 Synaptic Spear", kind="Prop",
+  desc="A Destiny 2 Synaptic Spear.",
+  videos=[
+   "zMKAe9_ScmA",  # 2023-08-31 Hydrodipping the tip of a Destiny 2 Synaptic Spear #destiny2 #propmaki
+  ],
+ ),
+ dict(name="Elesh Norn Statue", kind="Sculpture",
+  desc="A huge Elesh Norn statue from Magic: The Gathering.",
   videos=[
    "uocw_r_1gXk",  # 2023-09-04 Making a huge Elesh Norn statue from Magic: The Gathering
   ],
  ),
- dict(name="How we made a Starfield Crimson Fleet helmet & Kraken", kind="Build",
-  desc="We were pretty stoked when Bethesda asked us to create the Crimson Fleet’s Corsair Helmet and Kraken to celebrate the launch of the game.",
+ dict(name="Owlbear Cub", kind="Puppet",
+  desc="A Baldur's Gate 3 owlbear cub in real life.",
+  videos=[
+   "hRY5Z3vRuu0",  # 2023-10-10 Baldur's Gate 3 owlbear cub in real life #bg3 #cosplay
+   "qp5W1qGGoHA",  # 2023-10-14 Owlbear cub IRL 🥺 #bg3 #baldursgate3
+   "ivcRjeyZxMI",  # 2023-10-31 Owlbear cub trick or treat #baldursgate3
+  ],
+ ),
+ dict(name="Starfield Crimson Fleet Helmet and Kraken", kind="Prop",
+  desc="A Starfield Crimson Fleet helmet and kraken.",
   videos=[
    "CsNzpJhgRp8",  # 2023-10-27 How we made a Starfield Crimson Fleet helmet & Kraken
   ],
  ),
- dict(name="How we crafted an MTG Beckett Brass Cosplay", kind="Build",
-  desc="How we crafted an MTG Beckett Brass Cosplay.",
+ dict(name="MTG Beckett Brass Cosplay", kind="Costume",
+  desc="A Magic: The Gathering Beckett Brass cosplay.",
   videos=[
    "T-gPp13GeGM",  # 2024-01-15 How we crafted an MTG Beckett Brass Cosplay
   ],
  ),
- dict(name="We brought Bloomburrow's Mabel to life as a puppet", kind="Build",
-  desc="Bloomburrow has officially released, so it's time for us to show you the finished result of our Mabel Puppet, built in collaboration with Magic the Gathering!",
+ dict(name="Bloomburrow Mabel Puppet", kind="Puppet",
+  desc="Bloomburrow's Mabel as a puppet.",
   videos=[
    "lOlE3j8ll1I",  # 2024-08-06 We brought Bloomburrow's Mabel to life as a puppet!
   ],
  ),
- dict(name="Bringing Loot to life, as a puppet", kind="Build",
-  desc="We've been working on a puppet build for Wizards of the Coast for a few weeks now, and now that MTG Foundations is out and the Summer Of Magic has kicked off, it's time for Loot!",
+ dict(name="Loot Puppet", kind="Puppet",
+  desc="Loot, as a puppet.",
   videos=[
    "0NnlGOkUeMQ",  # 2024-12-06 Bringing Loot to life, as a puppet!
   ],
  ),
- dict(name="We made a Va'Ruun Helmet from Starfield for Bethesda", kind="Build",
-  desc="We're still pretty enamored with the House Va'ruun helmet we made last year for Bethesda.",
+ dict(name="DOOM Shield Saw", kind="Prop",
+  desc="The Shield Saw from DOOM: The Dark Ages.",
+  videos=[
+   "4d-juU7EX_A",  # 2025-01-27 DOOM: The Dark Ages Shield Saw #doom #doomthedarkages #bethesda #devel
+  ],
+ ),
+ dict(name="Va'Ruun Helmet", kind="Prop",
+  desc="A Va'Ruun helmet from Starfield, for Bethesda.",
   videos=[
    "qOUcGbvvlwA",  # 2025-03-10 We made a Va'Ruun Helmet from Starfield for Bethesda
   ],
  ),
- dict(name="We built a MASSIVE Warframe Krubie puppet", kind="Build",
-  desc="We're so, so excited to finally show you our full size Krubie puppet from Warframe, in all its ridiculous splendour!",
+ dict(name="Warframe Krubie Puppet", kind="Puppet",
+  desc="A massive, cable-controlled Krubie puppet for TennoCon 2025.",
   videos=[
+   "nL0VqrqbkUw",  # 2025-06-06 We're making a Krubie from Warframe!
    "FbWa3pzPYjE",  # 2025-06-17 How we made our cable controlled Warframe Krubie puppet head for Tenno
+   "TLwMXLNEFYo",  # 2025-06-20 3D Printing our Krubie Puppet tail for TennoCon
+   "bkPsv2TKyGI",  # 2025-07-16 Flex Foam casting Krubie puppet legs!
+   "TO2j8PaSz0o",  # 2025-07-17 Warframe Puppet - Krubie teaser
+   "ojDD8yY7hj4",  # 2025-07-18 Painting a Warframe Krubie
+   "bphUeMbiA8M",  # 2025-07-19 Krubie Puppet Inner Workings
+   "lIYRLctT_Aw",  # 2025-07-21 Sneak peak of our Krubie puppet with bonus Drifter Cosplay
+   "p2LEw5VxUvU",  # 2025-07-29 We made a life-size Krubie Puppet!
    "7XK_SPOHFPU",  # 2025-08-01 We built a MASSIVE Warframe Krubie puppet!
+   "CoC3CNnjXc8",  # 2025-08-19 A look at our life size Krubie Puppet
+  ],
+ ),
+ dict(name="DOOM Skull Crusher", kind="Prop",
+  desc="The Skull Crusher from DOOM: The Dark Ages at Slayer scale.",
+  videos=[
+   "oSP1DoKNVsc",  # 2025-06-12 DOOM: The Dark Ages Skull Crusher IRL at Slayer Scale
+  ],
+ ),
+ dict(name="Gryphon Combat Sparrow Minis", kind="Model",
+  desc="Destiny 2 Gryphon combat sparrow miniatures.",
+  videos=[
+   "Wk8kI8SrmMw",  # 2025-11-05 Destiny 2: Gryphon Combat Sparrow mini's
+  ],
+ ),
+ dict(name="WoW Player Housing IRL", kind="Prop",
+  desc="World of Warcraft player housing in real life.",
+  videos=[
+   "nk3z5dIg7CQ",  # 2025-12-24 We made World of Warcraft Player Housing IRL
+  ],
+ ),
+ dict(name="Skyrim Prop Stand", kind="Prop",
+  desc="A CNC-milled stand for a Skyrim prop.",
+  videos=[
+   "X9cXnLTHstc",  # 2023-09-17 CNC milling a Skyrim prop stand - audio is approximately what a 90 deg
+  ],
+ ),
+ dict(name="One Ring Coffee Table", kind="Furniture",
+  desc="A One Ring coffee table for The Rings of Power.",
+  videos=[
+   "lawGd4x6CjY",  # 2026-11-11 Making a One Ring Coffee Table for The Rings of Power #RingsOfPower #L
   ],
  ),
 ]

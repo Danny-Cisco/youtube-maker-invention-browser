@@ -1,108 +1,98 @@
-"""Curated inventions for Downen Creative Studios (@downencreativestudios).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Downen Creative Studios. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'downen-creative-studios', 'name': 'Downen Creative Studios', 'person': 'Downen Creative Studios', 'tagline': 'EVA-foam costumes, props and the techniques behind them.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="DIY Faux Feathers Tutorial", kind="Build",
-  desc="Beverly from Downen Creative Studios shows you how to make your own feathers using FABRIC!",
+ dict(name="Furiosa Prosthetic Arm", kind="Prop",
+  desc="Imperator Furiosa's prosthetic arm and steering wheel.",
   videos=[
-   "5qTQfPnL8SQ",  # 2016-09-20 DIY Faux Feathers Tutorial
+   "ZBYMiYMs_w4",  # 2015-10-20 Furiosa Prosthetic arm prop build
+   "iCiCX-lkGDM",  # 2016-03-19 Imperator Furiosa's steering wheel detailing : Downen Creative Studios
   ],
  ),
- dict(name="Hippolyta/Wonder Woman 3D printed sword runes winners", kind="Build",
-  desc="Beverly announces the three winners of a set of 120 3D printed runes!",
+ dict(name="Briareos Armour", kind="Costume",
+  desc="Briareos armour with a zipper closure on the lower leg.",
   videos=[
-   "EPEoL8P0PZg",  # 2017-01-01 Hippolyta/Wonder Woman 3D printed sword runes winners!
+   "us4epsDA1PY",  # 2016-02-29 Zipper closure added to Briareos' lower leg armor
   ],
  ),
- dict(name="Wasp Cosplay: Assembling Large Wasp Wings", kind="Build",
-  desc="Beverly Downen of Downen Creative Studios made a Wasp costume from the movie Ant Man and the Wasp for the Marvel Becoming series!",
+ dict(name="Wasp Cosplay", kind="Costume",
+  desc="The Wasp, with large wings and a hex-foam chest.",
   videos=[
    "Ave4G2hlNqc",  # 2018-10-18 Wasp Cosplay: Assembling Large Wasp Wings
+   "FzA95XtG3Xs",  # 2018-10-18 Wasp Gluing Hex Foam to Chest Cup
   ],
  ),
- dict(name="ShePropTalk!: Smooth-On - Level Up Your Cosplay Projects", kind="Build",
-  desc="ShePropTalk!",
-  videos=[
-   "3a1RO2xav_A",  # 2018-11-25 ShePropTalk! Episode 1. Sharon Rose Cosplay
-   "Yd8FozpdLug",  # 2018-12-03 ShePropTalk! Episode 2: Dahlia Darling Cosplay
-   "bQzBbXgIbxc",  # 2018-12-15 ShePropTalk! Episode 3: JediManda
-   "ldo1DfmatHQ",  # 2018-12-21 ShePropTalk! Episode 4: Alexandria the Geek
-   "64z2AZsA4W8",  # 2018-12-31 ShePropTalk! Episode 5: AbbyCat Cosplay
-   "YZye5Hdf1ns",  # 2019-01-10 ShePropTalk! Episode 6: Sewing tips with Abby Cat Cosplay
-   "iEQzSehFdNw",  # 2019-01-16 ShePropTalk! Episode 7: Deela Designs
-   "pD6TlJXcq0Y",  # 2019-01-24 ShePropTalk! Episode 8: Cowbutt Crunchies
-   "65T7drnTkQQ",  # 2019-02-01 ShePropTalk! Episode 9: Becka Noel
-   "vVvQmRK92NQ",  # 2019-02-11 ShePropTalk! Episode 10: Tina Rivets
-   "Tjq77FEZHvw",  # 2019-02-20 ShePropTalk! Episode 11: The Cosplay Journal
-   "z8V8toxrJM4",  # 2019-05-03 ShePropTalk! Episode 13: Silhouette Cosplay
-   "Zikn45rup5E",  # 2019-07-01 ShePropTalk! Ep14: Smooth-On - Level Up Your Cosplay Projects!
-   "TlJNzEZFIEA",  # 2020-04-20 ShePropTalk! Episode 18: Potty Talk Special
-  ],
- ),
- dict(name="My Hela Helmet Assembly Walkthrough", kind="Build",
-  desc="Beverly from Downen Creative Studios and Epoch Echo shows you how she assembles her Hela helmet (inspired by Thor: Ragnarok), as well as what materials she used to build it.",
+ dict(name="Hela Helmet", kind="Prop",
+  desc="Her Hela helmet.",
   videos=[
    "OYXB7wKPsxQ",  # 2018-12-03 My Hela Helmet Assembly Walkthrough
   ],
  ),
- dict(name="Cricut For Cosplay", kind="Build",
-  desc="Turn your multi-day builds into 1-day builds with these techniques for your cosplay and crafting projects!",
-  videos=[
-   "QfDo9LnAF-A",  # 2018-12-14 Cricut For Cosplay: Cutting & Scoring EVA Foam
-   "4KfDzeU902k",  # 2019-01-15 Cricut for Cosplay: Cutting Worbla, Thibra and other Thermoplastics!
-   "Vu10epw6mro",  # 2019-04-20 Cricut For Cosplay: Cutting Pearly Worbla & Kobracast Art
-  ],
- ),
- dict(name="Making the Shield of Athena", kind="Build",
-  desc="In this quick build tutorial I show you how I created my shield for my Athena costume using materials you can find in the resource list below.",
+ dict(name="Shield of Athena", kind="Prop",
+  desc="The Shield of Athena.",
   videos=[
    "pocnhY6zv0M",  # 2019-03-31 Making the Shield of Athena
   ],
  ),
- dict(name="What We Do In The Shadows Costume and Cursed Hat Walkthrough with Moos", kind="Build",
-  desc="Illustrator and cosplayer Matt Grigsby of Mooseforge Creations talks to Beverly about how he made his Laszlo cosplay from cult classic FX series \"What We Do In The Shadows\".",
+ dict(name="What We Do in the Shadows Costume", kind="Costume",
+  desc="A What We Do In The Shadows costume and cursed hat.",
   videos=[
    "rM1GypcRYF0",  # 2020-09-07 What We Do In The Shadows Costume and Cursed Hat Walkthrough with Moos
   ],
  ),
- dict(name="Prop EVA Foam Dagger & Sheath", kind="Build",
-  desc="Build along with me as I walk you step-by-step through this nifty little prop dagger and sheath using EVA Foam.",
+ dict(name="Lucifer Morningstar Cosplay", kind="Costume",
+  desc="Lucifer Morningstar from The Sandman, with wings and corset.",
   videos=[
-   "tJPj6fEFOQU",  # 2023-06-03 Prop Dagger & Sheath Template for EVA Foam
-   "SfljlOUvseg",  # 2023-11-17 Prop EVA Foam Dagger & Sheath: Step-by-Step Project!
+   "12KBPtAR4I0",  # 2023-04-28 Lucifer Morningstar Cosplay with Wings! #evafoam #foam #cosplay #thesa
+   "HaUr3H4WYU0",  # 2023-05-03 Corset and Wings Fit Test
+   "nOSc0IIdsZY",  # 2023-05-06 How I Made This Lucifer Morningstar Costume
   ],
  ),
- dict(name="DIY Dress Form with Fosshape", kind="Build",
-  desc="Learn how to make your own lightweight dress form with Fosshape and steam!",
+ dict(name="Fosshape Dress Form", kind="Tool",
+  desc="A DIY dress form made from Fosshape.",
   videos=[
    "Bs3bSvlN4Gc",  # 2023-06-06 DIY Dress Form with Fosshape
    "D3GPKRJyKwo",  # 2023-06-08 DIY Dress Form with Fosshape
   ],
  ),
- dict(name="How To Attach Silicone to Fabric with Sil-Poxy", kind="Build",
-  desc="Learn how to attach silicone to fabric with Sil-Poxy from Smooth-On!",
+ dict(name="Prop Dagger and Sheath", kind="Prop",
+  desc="An EVA foam dagger and sheath, with template.",
   videos=[
-   "sJNdHzbIwDM",  # 2024-07-04 How To Attach Silicone to Fabric with Sil-Poxy
+   "tJPj6fEFOQU",  # 2023-06-03 Prop Dagger & Sheath Template for EVA Foam
+   "SfljlOUvseg",  # 2023-11-17 Prop EVA Foam Dagger & Sheath: Step-by-Step Project!
   ],
  ),
- dict(name="Making Lae'zel", kind="Build",
-  desc="Work smarter not harder when you are pressed for time!",
+ dict(name="Quarter-Scale Mini-Me Body Form", kind="Tool",
+  desc="A 3D-printed 1/4-scale body form for patterning cosplay.",
   videos=[
+   "1vtjVyOSdjE",  # 2023-07-11 3D Printed Mini-Me for Patterning Cosplay
+   "FyRxKSsp604",  # 2023-07-15 Patterning on my 1/4 Scale 3D Printed Body Form
+   "klP38JYZ4lA",  # 2024-04-15 Hello Beatrice MINI me!
+  ],
+ ),
+ dict(name="Nemesis Shield (Hades II)", kind="Prop",
+  desc="Nemesis's shield from Hades II.",
+  videos=[
+   "rLutSRiImfA",  # 2023-07-11 Nemesis from Hades II shield timelapse build
+  ],
+ ),
+ dict(name="Lae'zel Costume", kind="Costume",
+  desc="Lae'zel from Baldur's Gate 3, with upcycled sword, latex ears and gems.",
+  videos=[
+   "zDB3aPriMRU",  # 2024-06-18 Lae’Zel costume in progress! #baldursgate #sponsored #plastidip
+   "b4TEqDfnEik",  # 2024-09-17 Upcycled Sword Prop for Lae’zel Photoshoot⚔️ #baldursgate3 #laezel
    "ud0hNHBHSS0",  # 2024-09-25 Making Lae'zel - Priming Before Painting
    "ZikNRUU14Wg",  # 2024-09-26 Making Lae'zel - Latex Ears!
-   "pfmZuya-YMk",  # 2024-09-27 Making Lae'zel - Makeup & Tights
    "nYbEjJD7gcM",  # 2024-09-29 Making Lae'zel - Fake Gems!
   ],
  ),
- dict(name="Totoro Kit Assembly", kind="Build",
-  desc="Follow along with this 3-minute assembly video to put together your own Totoro!",
+ dict(name="Totoro-Inspired Costume", kind="Costume",
+  desc="A Totoro-inspired costume.",
   videos=[
-   "5tukFl1JPik",  # 2025-12-24 Totoro Kit Assembly!
+   "wEBKRxVtB8E",  # 2024-07-04 I Made A Totoro-Inspired Costume!
   ],
  ),
 ]

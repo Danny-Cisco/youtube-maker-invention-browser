@@ -1,179 +1,193 @@
-"""Curated inventions for Wood Brain (@wood_brain).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Wood Brain. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'wood-brain', 'name': 'Wood Brain', 'person': 'Wood Brain', 'tagline': 'Big ideas and a workshop full of possibilities.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Weaving a palm frond by hand", kind="Build",
-  desc="While in Costa Rica for a month I built a palapa on the beach with a bamboo bar.",
+ dict(name="Wooden Portrait", kind="Art",
+  desc="A wooden portrait.",
   videos=[
-   "uPVA-Mfaf4k",  # 2015-10-16 Weaving a palm frond by hand
+   "P7TnFdWDEJ4",  # 2019-06-01 I made a wooden portrait VLOG 03
   ],
  ),
- dict(name="How to restore a garage cabinet", kind="Restoration",
-  desc="I'm in the process of restoring and cleaning out my childhood garage that I recently inherited.",
-  videos=[
-   "R4Ke09RPlZY",  # 2020-10-12 How to restore a garage cabinet
-  ],
- ),
- dict(name="The Ultimate Wood Christmas Tree", kind="Build",
-  desc="In todays video I’m showing you how I gave last years 7’ wood christmas tree a revamp.",
+ dict(name="Wooden Christmas Trees", kind="Decor",
+  desc="Wooden Christmas trees, full-size and mini.",
   videos=[
    "g6FiBqK1ENo",  # 2020-12-08 The Ultimate Wood Christmas Tree: Simple and Stunning Design
-  ],
- ),
- dict(name="How to make an epoxy table with keys", kind="Build",
-  desc="Here are a few of my take aways:",
-  videos=[
-   "y_N8VrZrKcg",  # 2021-02-05 How to make an epoxy table with keys
-  ],
- ),
- dict(name="Add sparkle to your plants with a DIY disco ball planter", kind="Build",
-  desc="In todays video I’m showing you how I turned three different sized Styrofoam disco balls into unique hanging planters.",
-  videos=[
-   "Jce7p1qsdZw",  # 2021-03-08 Add sparkle to your plants with a DIY disco ball planter
-  ],
- ),
- dict(name="Level up your space with a custom LED sign masterpiece", kind="Build",
-  desc="In today’s video I’m showing you how I created a LED sign for my garage.",
-  videos=[
-   "EebY7RdKpBs",  # 2021-06-04 Level up your space with a custom LED sign masterpiece
-  ],
- ),
- dict(name="Unlock the hidden potential of your space with a Vertical Garden Slidi", kind="Build",
-  desc="In today’s video I’m showing you how I made a vertical garden sliding door to help hide and disguise our laundry area.",
-  videos=[
-   "7vfsJSzY7EM",  # 2021-07-13 Unlock the hidden potential of your space with a Vertical Garden Slidi
-  ],
- ),
- dict(name="Crafting a Spooky Skeleton Planter Step-by-Step", kind="Build",
-  desc="Flat black spray paint by Behr",
-  videos=[
-   "vkGkaMd9HR0",  # 2021-10-04 Crafting a Spooky Skeleton Planter Step-by-Step
-  ],
- ),
- dict(name="Add Bohemian Flair to Your Christmas Tree", kind="Build",
-  desc="In today’s video I’m showing you how I made a bunch of fun and easy bohemian and Scandinavian inspired Christmas ornaments for our wood Christmas tree.",
-  videos=[
-   "X0FcihOWGZ8",  # 2021-12-01 Add Bohemian Flair to Your Christmas Tree: DIY Ornaments
-  ],
- ),
- dict(name="DIY Mini Wooden Christmas Tree", kind="Build",
-  desc="DIY Mini Wooden Christmas Tree | Easy Holiday Decor Project",
-  videos=[
    "LlWfzcdFu9E",  # 2021-12-11 Wooden Christmas
    "UaxdzXXF5Kk",  # 2023-11-30 DIY Mini Wooden Christmas Tree | Budget Holiday Decor
   ],
  ),
- dict(name="Shed Shop Makeover", kind="Build",
-  desc="In today’s video I’m sharing with you my Ultimate Dream Shed Shop Makeover that took me a little over a month to complete.",
+ dict(name="Epoxy Table with Keys", kind="Furniture",
+  desc="An epoxy table with antique keys.",
   videos=[
-   "vPzCfNcqaVo",  # 2022-01-10 Shed Shop Makeover
+   "y_N8VrZrKcg",  # 2021-02-05 How to make an epoxy table with keys
+   "7U3FY6ab5UA",  # 2021-03-05 #shorts antique keys 🔑 in epoxy resin
   ],
  ),
- dict(name="Discover the Extraordinary", kind="Build",
-  desc="DIY Turtle Oasis in Our Greenhouse | Building Turtle Town for Our Red-Footed Tortoises",
+ dict(name="Disco Ball Planter", kind="Decor",
+  desc="A DIY disco ball planter.",
+  videos=[
+   "Jce7p1qsdZw",  # 2021-03-08 Add sparkle to your plants with a DIY disco ball planter
+  ],
+ ),
+ dict(name="Little Free Library", kind="Furniture",
+  desc="A little free library.",
+  videos=[
+   "5gwwc0ErXLM",  # 2021-04-13 Unlock the Power of Sharing: Create Your Own Free Library
+  ],
+ ),
+ dict(name="Hexagon Shadow Boxes", kind="Decor",
+  desc="Hexagon shadow boxes.",
+  videos=[
+   "qYyfzOkZ3Dk",  # 2021-05-07 How to Create Stunning Hexagon Shadow Boxes
+  ],
+ ),
+ dict(name="Custom LED Sign", kind="Light",
+  desc="A custom LED sign.",
+  videos=[
+   "EebY7RdKpBs",  # 2021-06-04 Level up your space with a custom LED sign masterpiece
+  ],
+ ),
+ dict(name="Sea Shell Epoxy Table", kind="Furniture",
+  desc="A sea-shell epoxy table.",
+  videos=[
+   "rQ7WLflc71w",  # 2021-06-28 #Shorts Sea Shell epoxy table
+  ],
+ ),
+ dict(name="Vertical Garden Sliding Door", kind="Furniture",
+  desc="A vertical garden sliding door.",
+  videos=[
+   "7vfsJSzY7EM",  # 2021-07-13 Unlock the hidden potential of your space with a Vertical Garden Slidi
+  ],
+ ),
+ dict(name="Plant Stands", kind="Furniture",
+  desc="Five plant stand designs.",
+  videos=[
+   "nv3xnVpT9Dk",  # 2021-09-24 Elevate Your Indoor Garden: 5 Creative Plant Stand Designs
+  ],
+ ),
+ dict(name="Skeleton Planter", kind="Decor",
+  desc="A spooky skeleton planter, later a Christmas planter.",
+  videos=[
+   "vkGkaMd9HR0",  # 2021-10-04 Crafting a Spooky Skeleton Planter Step-by-Step
+   "-kARQTywMs8",  # 2021-12-01 #shorts turning our skeleton planter into a Christmas tree planter.
+  ],
+ ),
+ dict(name="Wooden Cash Registers", kind="Toy",
+  desc="Hand-made wooden cash registers.",
+  videos=[
+   "_mb0p0lfUYQ",  # 2022-03-06 #shorts Wooden cash registers hand made
+  ],
+ ),
+ dict(name="Fibre Optic Star Ceiling", kind="Light",
+  desc="A fibre-optic star ceiling.",
+  videos=[
+   "c5VkR78SRM0",  # 2022-04-20 Fiber Optic Star Ceiling
+  ],
+ ),
+ dict(name="Turtle Town", kind="Structure",
+  desc="A turtle town.",
   videos=[
    "aCdKdvXcZ7k",  # 2022-06-06 Discover the Extraordinary: Building the Ultimate Turtle Town
   ],
  ),
- dict(name="Mind-Blowing Epoxy Skull", kind="Build",
-  desc="DIY Life-Size Epoxy Skull with Walnut Wood Brain | Epoxy Casting & CNC Project",
+ dict(name="Epoxy Walnut Brain Skull", kind="Art",
+  desc="An epoxy skull with a walnut brain.",
   videos=[
    "3KwIxV72Q1w",  # 2022-09-09 Mind-Blowing Epoxy Skull: Revealing a Walnut Wood Brain
   ],
  ),
- dict(name="Transforming Tools", kind="Build",
-  desc="DIY Epoxy Tools and Tool Box | Mold Making and Epoxy Casting Project",
+ dict(name="Epoxy Tool Art", kind="Art",
+  desc="Tools cast in epoxy.",
   videos=[
    "9LIPOifzEz8",  # 2022-12-09 Transforming Tools: Creating an Extraordinary Epoxy Masterpiece
   ],
  ),
- dict(name="Unlock your creativity with this DIY Arch Backdrop project", kind="Build",
-  desc="How I Built the Wedding Backdrop:",
+ dict(name="Arch Backdrop", kind="Decor",
+  desc="A DIY arch backdrop.",
   videos=[
    "1LqJ_tKRJUA",  # 2023-01-16 Unlock your creativity with this DIY Arch Backdrop project
   ],
  ),
- dict(name="Closet Makeover", kind="Build",
-  desc="DIY Custom Closet Build | How to Build a Closet with Plywood, Edge Banding, and Barn Door",
-  videos=[
-   "Ct8mCcrrCG0",  # 2023-06-21 Closet Makeover: Unlocking the Potential of Your Space
-  ],
- ),
- dict(name="Escape the ordinary", kind="Build",
-  desc="DIY Dog House Build for Our English Bulldog Zoey | Charity Dog House Competition with Recycled Materials & Water Feature",
+ dict(name="Dog House", kind="Structure",
+  desc="The ultimate dog house.",
   videos=[
    "XfbIHXPJkI4",  # 2023-09-02 Escape the ordinary: Building the Ultimate Dog House
   ],
  ),
- dict(name="Why Building a Green House is a Game-Changer", kind="Build",
-  desc="DIY Fence & Retaining Wall Build | How to Add a Tongue and Groove Fence & Smart Lighting to Your Property",
+ dict(name="Greenhouse", kind="Structure",
+  desc="A greenhouse.",
   videos=[
    "3LgmCS6pj5M",  # 2023-10-20 Why Building a Green House is a Game-Changer: Transforming Your Living
   ],
  ),
- dict(name="Unlock Your Home's Full Potential with a Gorgeous Fence", kind="Build",
-  desc="DIY Fence & Retaining Wall Build | How to Add a Tongue and Groove Fence & Smart Lighting to Your Property",
-  videos=[
-   "JzLmD4WA-YE",  # 2023-11-02 Unlock Your Home's Full Potential with a Gorgeous Fence
-  ],
- ),
- dict(name="How to DIY a Jaw-Dropping Succulent Wall Garden", kind="Build",
-  desc="DIY Custom Succulent Wall Design | Felt Planter Pockets & Grommets",
+ dict(name="Succulent Wall Garden", kind="Decor",
+  desc="A succulent wall garden.",
   videos=[
    "xgXz_fgRCyw",  # 2023-11-15 How to DIY a Jaw-Dropping Succulent Wall Garden
   ],
  ),
- dict(name="Making a Wooden Surfboard", kind="Build",
-  desc="How to Build a Hollow Surfboard from Redwood | DIY Surfboard Project",
+ dict(name="Wooden Surfboard", kind="Sport",
+  desc="A wooden surfboard, then a fibre-optic surfboard.",
   videos=[
    "OHAjBh7gXQs",  # 2024-01-05 Making a Wooden Surfboard: The Surfer's Dream Come True
+   "uKnRLvhfsgs",  # 2024-05-24 Fiber Optic Surf Board, will it surf?
   ],
  ),
- dict(name="Best desktop Laser EVER", kind="Build",
-  desc="Unboxing & First Project with the Thunder Bolt Laser | Fun Planter Trellis Build",
+ dict(name="Computer Terrarium", kind="Decor",
+  desc="A broken computer turned into a terrarium.",
   videos=[
-   "fsqsh34hm8w",  # 2024-02-23 Best desktop Laser EVER!
+   "qgzzAV1R9RU",  # 2024-01-18 Transforming a Broken Computer into a Living Terrarium
   ],
  ),
- dict(name="I Built a STUNNING Shed in Just One Weekend", kind="Build",
-  desc="DIY Surfboard Shed Build | Custom Shed for Sports Equipment Storage",
+ dict(name="Weekend Shed", kind="Structure",
+  desc="A shed built in one weekend.",
   videos=[
    "w2vCJDkN2Ck",  # 2024-09-27 I Built a STUNNING Shed in Just One Weekend
   ],
  ),
- dict(name="How to Build a Hot Tub Surround", kind="Build",
-  desc="Building a Custom Redwood Hot Tub Surround for Our Coleman Inflatable Hot Tub | DIY Tutorial",
+ dict(name="Hot Tub Surround", kind="Structure",
+  desc="A hot tub surround.",
   videos=[
    "dWaiT1py5Kg",  # 2024-11-15 How to Build a Hot Tub Surround
   ],
  ),
- dict(name="Flower Lamp", kind="Build",
-  desc="Dandelion LED Lamp DIY | Casting Dandelions into Epoxy",
+ dict(name="Flower Lamp", kind="Light",
+  desc="A flower lamp.",
   videos=[
    "e1soruZfySg",  # 2025-03-10 FLOWER LAMP?
   ],
  ),
- dict(name="My French Cleat Sliding Door Changed EVERYTHING", kind="Build",
-  desc="My French Cleat Sliding Door Changed EVERYTHING!.",
-  videos=[
-   "veQ9fyw7tXM",  # 2025-05-03 My French Cleat Sliding Door Changed EVERYTHING!
-  ],
- ),
- dict(name="DIY Multi-Board Rack Build", kind="Build",
-  desc="I built a custom DIY prone paddleboard rack to store our 12' stock prone paddle boards, and the whole thing turned out way better than I expected.",
+ dict(name="Multi-Board Rack", kind="Furniture",
+  desc="A rack for paddleboards, surfboards and kayaks.",
   videos=[
    "2Pw-KtfsDoA",  # 2025-12-05 DIY Multi-Board Rack Build | Paddleboards, Surfboards, Kayaks, & More
   ],
  ),
- dict(name="Miniature Chair Build", kind="Build",
-  desc="Miniature Chair Build | Why Small Is Harder Than Big.",
+ dict(name="3D Printed Ship in a Bottle", kind="Model",
+  desc="A 3D-printed ship in a bottle.",
+  videos=[
+   "Y2dbZU7CwdM",  # 2026-02-01 Can You 3D Print a Ship in a Bottle?
+  ],
+ ),
+ dict(name="Miniature Chair", kind="Furniture",
+  desc="A miniature chair.",
   videos=[
    "s1y2DoH6XlE",  # 2026-07-18 Miniature Chair Build | Why Small Is Harder Than Big
+  ],
+ ),
+ dict(name="Topographic Wood Art", kind="Art",
+  desc="A topographical wood piece.",
+  videos=[
+   "_b6BA_WFZoI",  # 2026-10-16 Fun topographical piece I made for a white elephant gift. #topographic
+  ],
+ ),
+ dict(name="Wooden Balance Board", kind="Sport",
+  desc="A $40 wooden balance board.",
+  videos=[
+   "cjwiBmQD4YU",  # 2026-11-14 A $40 Wooden Balance Board That Will Make You a Better Surfer
   ],
  ),
 ]
