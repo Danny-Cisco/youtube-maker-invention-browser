@@ -1,16 +1,10 @@
-"""Curated inventions for Ruth Amos. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of Ruth Amos. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'ruth-amos', 'name': 'Ruth Amos', 'tagline': 'British inventor and engineer making crazy inventions; one half of Kids Invent Stuff.', 'other_label': 'Other uploads: shorts, stories and updates', 'person': 'Ruth Amos'}
 
 INVENTIONS = [
- dict(name="Dream Workshop", kind="Workshop",
-  desc="Building her dream workshop, then a tour and upgrades.",
-  videos=[
-   "cPbL-fosCaU",  # 2021-05-19 Building my Dream Workshop!
-   "DSrR6LUTuXI",  # 2022-03-03 Workshop Tour & Upgrades
-  ],
- ),
  dict(name="LEGO Door Handles", kind="Workshop",
   desc="LEGO door handles for the workshop.",
   videos=[
@@ -64,18 +58,6 @@ INVENTIONS = [
   desc="Wearable life-sized Barbie heels.",
   videos=[
    "wVTCHlKXpDg",  # 2024-07-30 Making Life-Sized Barbie Heels!
-  ],
- ),
- dict(name="Etching Metal at Home", kind="Technique",
-  desc="Etching metal at home.",
-  videos=[
-   "qzPV5SojLCc",  # 2024-10-18 Etching Metal at Home
-  ],
- ),
- dict(name="Workshop Anodising", kind="Technique",
-  desc="Learning to anodise in the workshop.",
-  videos=[
-   "FC82_WKmOG4",  # 2024-11-15 Learning to Anodise in the Workshop
   ],
  ),
  dict(name="Dyson to Makita Battery Adapter", kind="Tool",
