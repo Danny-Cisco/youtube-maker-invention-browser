@@ -1,0 +1,83 @@
+{
+"channel": "nerdy3d",
+"videos": 37,
+"labels": {
+"r6ceLbnQtS0": "invention",
+"qYwa7IrdOVM": "invention",
+"E-94S3BRr9w": "invention",
+"pSC5fsApeRo": "invention",
+"HVrRkwxNTyI": "invention",
+"Y5qxexcAZVk": "invention",
+"47wYvn_ggW0": "invention",
+"XJm1nj6z4v4": "invention",
+"riz8K5eVbiY": "invention",
+"r-pmrUJGm6w": "invention",
+"QJwUpiPYQJ4": "invention",
+"LzitSN1IgDo": "invention",
+"dwmHLlrzYMk": "invention",
+"7Bc9pcwqcJA": "invention",
+"YhYdZu0w93A": "invention",
+"bZ-zaCafIHw": "invention",
+"tuvVROW_G8E": "repair",
+"PP2X8ly73J0": "repair",
+"EXkkIglkKMU": "repair",
+"aEYFAp2ZYMc": "other",
+"E5dZ3lcEUQo": "other",
+"lmZ-tEtZ0DA": "other",
+"mgEI-auFhKo": "other",
+"UpbDasKfviA": "other",
+"NgFZZqu6vUc": "other",
+"x7N-jZgMglQ": "other",
+"uoWYKpef1sE": "other",
+"e6LE2irOz0c": "other",
+"lQG-9lQHd1Y": "other",
+"hv4SZekzzOY": "other",
+"45gkef33NyI": "other",
+"1H-ICZswur4": "other",
+"9nP3dWGTw_c": "other",
+"eZK29eURJEo": "other",
+"GGXepNbm7L0": "other",
+"bB07-n4hOFw": "other",
+"-dVVs87p5lY": "other"
+},
+"inventions": {
+"Antikythera Mechanism Model": [
+"r6ceLbnQtS0"
+],
+"Mechanical Iris Collection": [
+"qYwa7IrdOVM"
+],
+"Murder Drones Props": [
+"E-94S3BRr9w",
+"pSC5fsApeRo"
+],
+"Stargazer Orrery": [
+"HVrRkwxNTyI",
+"Y5qxexcAZVk"
+],
+"Puppeteerable Finger Prosthetic": [
+"47wYvn_ggW0"
+],
+"Laser-Projected Bad Apple": [
+"XJm1nj6z4v4"
+],
+"Pointless Task Machine": [
+"riz8K5eVbiY",
+"r-pmrUJGm6w",
+"QJwUpiPYQJ4"
+],
+"Constellation Mapper": [
+"LzitSN1IgDo"
+],
+"Mechanical Sixth Finger": [
+"dwmHLlrzYMk",
+"7Bc9pcwqcJA"
+],
+"3D-Printed Zoetrope": [
+"YhYdZu0w93A"
+],
+"Mechanical Business Card": [
+"bZ-zaCafIHw"
+]
+}
+}

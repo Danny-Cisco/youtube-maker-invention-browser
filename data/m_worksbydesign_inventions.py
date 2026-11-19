@@ -1,5 +1,6 @@
-"""Curated inventions for Works By Design. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of Works By Design. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'works-by-design', 'name': 'Works By Design', 'tagline': 'Design and engineering projects: pickproof locks, transforming chess pieces and flying machines.', 'other_label': 'Other uploads: shorts and animations', 'person': 'Works By Design'}
 
@@ -9,7 +10,6 @@ INVENTIONS = [
   videos=[
    "4VmQuiWUQCQ",  # 2023-04-11 POV: you are the key  #blender #animation #design #shorts
    "v2DS-Z8nJGI",  # 2023-04-27 Making a pickproof lock to stop honest criminals.
-   "rk5Spwae9AU",  # 2024-05-01 A quick recap on how locks work #animation #blender #onshape #lock #me
    "xCg3qNnh59w",  # 2024-06-14 Making another pickproof lock (but better)
    "6llLVUsbkW4",  # 2024-06-15 The Adaptive Pin Lock! #blender #mechanical #animation #engineering #r
    "G6Q50ZaVcFE",  # 2024-06-15 Another pickproof lock! #mechanical #custom #engineering #design #chal
@@ -60,12 +60,6 @@ INVENTIONS = [
    "G-ZknZSIw0A",  # 2025-06-07 How a CO2 cartridge regulator works #engineering #design #animation
    "QG-4JdAJR_U",  # 2025-06-07 How my compressed air engine works #design #engineering #animation #3d
    "vywG2lilRew",  # 2025-06-12 How the twin cylinder air motor works in my latest video #3danimation 
-  ],
- ),
- dict(name="Lightsaber", kind="Prop",
-  desc="How lightsabers are made.",
-  videos=[
-   "lnEPdLi7gM0",  # 2023-03-18 How lightsabers are made.
   ],
  ),
 ]

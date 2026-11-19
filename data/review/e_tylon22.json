@@ -1,0 +1,127 @@
+{
+"channel": "Tylon",
+"videos": 43,
+"labels": {
+"R4RfK19Nfy0": "invention",
+"BbzfPWMaGVE": "invention",
+"3VTUWWy6MJU": "invention",
+"-jxIjoHRdYo": "invention",
+"ChXMx-bBV2I": "invention",
+"ITTo3OnkC0g": "invention",
+"IsQzEdD1shY": "invention",
+"Poh0wHPFWN4": "invention",
+"by473LYzz7Y": "invention",
+"tjw6KKUxCHI": "invention",
+"C_kRTesfkUE": "invention",
+"uYgVWauiQCY": "invention",
+"zF_P4AZdfPs": "invention",
+"t-vRqPiflrw": "invention",
+"V_KT43HOWAI": "invention",
+"A1rKK3Zetb8": "invention",
+"sUQcapz271Q": "invention",
+"MzeTC-37gxY": "invention",
+"91Gh4txK_nE": "invention",
+"6BN6WhBwXy0": "invention",
+"3bp78Y_Filc": "invention",
+"1J_-kCW8Sko": "invention",
+"3yJnB8LtTZo": "invention",
+"5obbJyF5ouQ": "invention",
+"qIohXjRYOMI": "invention",
+"lt-zYAgjo74": "invention",
+"Dk3vBh7MdCc": "invention",
+"J8zS0spy08k": "invention",
+"kt6VPUpQ1y8": "invention",
+"rSX10mkdyMA": "invention",
+"TqVjz-5218U": "invention",
+"o2Lb7xlwzYU": "invention",
+"LQ78nl4UPPg": "invention",
+"neQLgBfpT6M": "invention",
+"HGzfaKnVs2s": "repair",
+"750cAuQOnGw": "tutorial",
+"IPFzaj058Fc": "tutorial",
+"y3JDDzlxdc4": "tutorial",
+"wyw2Xv1Um7U": "tutorial",
+"Fqx7u1TZWrc": "other",
+"-ihTm3adUd0": "other",
+"lSW-NeJKbFg": "other",
+"c4UdioLu6DQ": "other"
+},
+"inventions": {
+"MakeMIT EvE": [
+"R4RfK19Nfy0"
+],
+"ARES Combat Robot": [
+"BbzfPWMaGVE",
+"3VTUWWy6MJU",
+"-jxIjoHRdYo",
+"ChXMx-bBV2I",
+"ITTo3OnkC0g",
+"IsQzEdD1shY",
+"Poh0wHPFWN4",
+"by473LYzz7Y",
+"tjw6KKUxCHI",
+"C_kRTesfkUE"
+],
+"MIT's God of War": [
+"uYgVWauiQCY"
+],
+"Weaponised Class Project": [
+"zF_P4AZdfPs"
+],
+"Pipe Cutter on Wheels": [
+"t-vRqPiflrw"
+],
+"Speedrun Combat Robot": [
+"V_KT43HOWAI"
+],
+"The Obliterated Robot": [
+"A1rKK3Zetb8"
+],
+"Hackathon Gun": [
+"sUQcapz271Q"
+],
+"Welded Steel Flamethrower Bot": [
+"MzeTC-37gxY"
+],
+"24-Hour Freshman Challenge Bot": [
+"91Gh4txK_nE"
+],
+"$500 Combat Robot": [
+"6BN6WhBwXy0"
+],
+"Homemade 1000-Watt Motor": [
+"3bp78Y_Filc",
+"1J_-kCW8Sko",
+"3yJnB8LtTZo",
+"5obbJyF5ouQ"
+],
+"Chain-Based Cycloidal Gearbox": [
+"qIohXjRYOMI"
+],
+"Orbital Drive Gearbox": [
+"lt-zYAgjo74"
+],
+"Everything-but-Snowballs Crossbow": [
+"Dk3vBh7MdCc"
+],
+"Pirated Ridge Wallet": [
+"J8zS0spy08k",
+"kt6VPUpQ1y8"
+],
+"Deadly Alarm Clock": [
+"rSX10mkdyMA"
+],
+"Robot Arm Joint": [
+"TqVjz-5218U"
+],
+"Casino Cheating Device": [
+"o2Lb7xlwzYU"
+],
+"Graduation Robot Dog": [
+"LQ78nl4UPPg"
+],
+"Utility Knives, But Wrong": [
+"neQLgBfpT6M"
+]
+}
+}

@@ -1,0 +1,53 @@
+{
+"channel": "Shawn Hymel",
+"videos": 31,
+"labels": {
+"IYvLr-H5bME": "invention",
+"jSWUEDTICnc": "invention",
+"vSu1brEBTYU": "invention",
+"QJ4b08dlG9g": "invention",
+"yqJCVyzOd0M": "invention",
+"vbkPWHdQpZ4": "invention",
+"ZIW_6rxYNBg": "tutorial",
+"XMr6Fg74fZY": "tutorial",
+"ZbX-l1Dl4N4": "tutorial",
+"mkXsmCgvy0k": "tutorial",
+"WHite8vdcbE": "tutorial",
+"papxaeII0vo": "tutorial",
+"DdFBMtq2jso": "tutorial",
+"rsK8oRaAqio": "tutorial",
+"a_osS0VdkzE": "tutorial",
+"GKre2KIrkWo": "tutorial",
+"h7VfpoJvIpg": "tutorial",
+"uJ9RtAxStpo": "tutorial",
+"KsrDYfQ9geU": "tutorial",
+"FDscfXLesjQ": "tutorial",
+"j1ve8mYjUoU": "tutorial",
+"ZQatV_Fi0Vc": "tutorial",
+"QSeMT4RK62M": "tutorial",
+"LTAm1R_4YYE": "tutorial",
+"-bKEWqcyEBY": "tutorial",
+"oKf5MG7Z_Qk": "tutorial",
+"HRaRQ1Vcrgg": "other",
+"DvKmxQYcc6I": "other",
+"GdWItne6OR8": "other",
+"av-J61aduJA": "other",
+"mvfsA3UIqL8": "other"
+},
+"inventions": {
+"Spoopy Poopy, the Gaseous Gourd": [
+"IYvLr-H5bME"
+],
+"Reinforcement-Learning Balance Bot": [
+"jSWUEDTICnc",
+"vSu1brEBTYU",
+"QJ4b08dlG9g"
+],
+"Meshtastic Repeater with Sensor": [
+"yqJCVyzOd0M"
+],
+"Headphone Desk Mod": [
+"vbkPWHdQpZ4"
+]
+}
+}

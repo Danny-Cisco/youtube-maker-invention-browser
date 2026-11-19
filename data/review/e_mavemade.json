@@ -1,0 +1,102 @@
+{
+"channel": "Mave Made",
+"videos": 44,
+"labels": {
+"jOPSXLOJD3M": "invention",
+"52fiJJ7pKOU": "invention",
+"xJ1XzlvU1rs": "invention",
+"HtmrjKnXcPg": "invention",
+"a92HBJ4ooyc": "invention",
+"IzqkpzJzoxs": "invention",
+"coBgyMDEk5Q": "invention",
+"4xiqP7-byO8": "invention",
+"tQEWfXcoTto": "invention",
+"fO9Of_4s1ao": "invention",
+"hMezX27OjVQ": "invention",
+"F4Vn-0sh86Q": "invention",
+"WQJAi8npBhU": "invention",
+"Hox8F1JjnVs": "invention",
+"3SWUtYi2d6s": "invention",
+"Vtvx8N0EF_Q": "invention",
+"R4ZWS1eSS0M": "invention",
+"C6ln-7VmRtc": "invention",
+"vXxsKxv1LpI": "invention",
+"Nb4yfIo8oaA": "invention",
+"sPoKx6kcc7o": "invention",
+"Je41UaNbHtk": "invention",
+"W4HL_C3AjxI": "invention",
+"qxH9MGnNcZ4": "invention",
+"XGs7_Frb8RE": "invention",
+"is-OQO8gnEg": "invention",
+"K_dFu2mFqOg": "invention",
+"J_-FN4KFF5s": "invention",
+"cOuragpOrKE": "invention",
+"k0RhrDJpZtE": "invention",
+"PxpqpOdvvgs": "workshop",
+"4HzexE3QMZQ": "other",
+"DLZ4HNRk1a4": "other",
+"HSifrTrY-_I": "other",
+"oEQIanevKI0": "other",
+"3MIMVP-PWhU": "other",
+"Bi2XvF01P94": "other",
+"9pgIZ6GGr1I": "other",
+"WzI7TzHHSFw": "other",
+"D42z5MYwVNY": "other",
+"ECL3qWhZL-A": "other",
+"kKRbKxk1umM": "other",
+"m1-93RHp-GM": "other",
+"vURZIEzv92I": "other"
+},
+"inventions": {
+"Vintage Calculator Mod": [
+"jOPSXLOJD3M",
+"52fiJJ7pKOU",
+"xJ1XzlvU1rs"
+],
+"Magic Scroll": [
+"HtmrjKnXcPg"
+],
+"Hunger Games To-Do List": [
+"a92HBJ4ooyc"
+],
+"indieDR: A DDR Machine for Indie Music": [
+"IzqkpzJzoxs",
+"coBgyMDEk5Q",
+"4xiqP7-byO8",
+"tQEWfXcoTto",
+"fO9Of_4s1ao",
+"hMezX27OjVQ",
+"F4Vn-0sh86Q"
+],
+"Breadboard Arcade Advent": [
+"WQJAi8npBhU",
+"Hox8F1JjnVs",
+"3SWUtYi2d6s",
+"Vtvx8N0EF_Q",
+"R4ZWS1eSS0M",
+"C6ln-7VmRtc"
+],
+"Overcooked-Style IRL Game": [
+"vXxsKxv1LpI"
+],
+"DIY Digital Camera": [
+"Nb4yfIo8oaA",
+"sPoKx6kcc7o"
+],
+"Inductive LED Prop": [
+"Je41UaNbHtk"
+],
+"Cardboard Raspberry Pi Phone": [
+"W4HL_C3AjxI",
+"qxH9MGnNcZ4",
+"XGs7_Frb8RE"
+],
+"Immersive D&D Experience": [
+"is-OQO8gnEg",
+"K_dFu2mFqOg",
+"J_-FN4KFF5s",
+"cOuragpOrKE",
+"k0RhrDJpZtE"
+]
+}
+}

@@ -1,5 +1,6 @@
-"""Curated inventions for Devising Delight. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of Devising Delight. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'devising-delight', 'name': 'Devising Delight', 'tagline': 'Custom inflatable creatures, including a wearable Trogdor, taken to cons and Open Sauce.', 'other_label': 'Other uploads: con clips and how-tos', 'person': 'Devising Delight'}
 
@@ -73,7 +74,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="Dragon Con Dragon", kind="Costume",
-  desc="A dancing inflatable dragon from Emerald City Comic Con 2025.",
+  desc="A dancing inflatable dragon.",
   videos=[
    "igLdIgGt6KU",  # 2026-08-06 Dragon Con Dragon tore up the dance floor at Emerald City in 2025!#inf
   ],

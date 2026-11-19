@@ -1,14 +1,11 @@
-"""Curated inventions for Stuff Made Here (Shane Wighton, @stuffmadehere).
-kind: Sports | Robot | Tool | Kitchen | Wearable
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Stuff Made Here. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'stuff-made-here', 'name': 'Stuff Made Here', 'person': 'Shane Wighton', 'tagline': 'Ridiculously over-engineered machines: hoops that never miss, explosive bats, unpickable locks.', 'other_label': 'Other uploads: shop tours and odds and ends'}
 
 INVENTIONS = [
- dict(name="Never-Miss Basketball Hoop", kind="Sports",
+ dict(name="Never-Miss Basketball Hoop", kind="Machine",
   desc="His signature build, refined over four versions: a curved backboard that always banks it in, then a robotic backboard that tracks your shot with a Kinect and moves to deflect the ball in, then a hoop that seeks the ball. \"Moving hoop won't let you miss\" is the channel's most-watched video.",
   videos=[
    "vtN4tkvcBMA",  # 2020-04-17 My curved basketball hoop always goes in
@@ -16,14 +13,14 @@ INVENTIONS = [
    "myO8fxhDRW0",  # 2020-09-09 Moving hoop won't let you miss
    "xHWXZyfhQas",  # 2022-06-05 I made a ball seeking hoop
   ],
-  links=[("Hackster", "https://www.hackster.io/news/this-robotic-basketball-hoop-won-t-let-you-miss-21c09345bd20"), ("PC Gamer", "https://www.pcgamer.com/this-robotic-basketball-hoop-turns-bricks-into-buckets")]),
+ ),
  dict(name="Explosive Bat", kind="Sports",
   desc="A baseball bat with an explosive piston that fires the ball on contact, then a bigger version aimed at beating Babe Ruth's 575-foot home run, with Smarter Every Day.",
   videos=[
    "B3CsOx5U9Gs",  # 2020-08-10 World's most powerful bat goes boom. Made on my new Tormach 24r
    "Puo6Vgcbxps",  # 2020-10-18 Explosive Bat: crushing MLB records. Ft: Smarter Every Day
   ],
-  links=[("Gizmodo", "https://gizmodo.com/an-explosive-piston-inside-this-baseball-bat-means-anyo-1844674691"), ("Hackster", "https://www.hackster.io/news/stuff-made-here-is-making-more-than-just-exploding-bats-c0c60388d6b7")]),
+ ),
  dict(name="Self-Correcting Golf Clubs", kind="Sports",
   desc="A golf club that adjusts itself to correct your swing, later an autocorrecting mini-golf putter tested on holes that keep getting harder.",
   videos=[
@@ -32,7 +29,7 @@ INVENTIONS = [
    "2OfjZ3ORJfc",  # 2026-04-15 Robot golf vs holes that keep getting harder
   ],
  ),
- dict(name="Plastic Sheet-Metal Tools", kind="Tool",
+ dict(name="Plastic Sheet-Metal Tools", kind="Shop tool",
   desc="Bending steel with 3D-printed tools, a marker made for sheet metal, and 3D-printed sheet-metal forming.",
   videos=[
    "WuY2-OrT9ig",  # 2020-03-04 Bending Steel With Plastic Tools
@@ -40,7 +37,7 @@ INVENTIONS = [
    "8cNeAOpR-Ws",  # 2020-03-23 3D Printed Sheet Metal Forming (Part 2)
   ],
  ),
- dict(name="Plasma Cutter Particle Filter", kind="Tool",
+ dict(name="Plasma Cutter Particle Filter", kind="Shop tool",
   desc="A particle filter for his plasma cutter that doesn't wear out.",
   videos=[
    "BuC1IiZBY_o",  # 2020-03-09 Making a particle filter that doesn't wear out for my plasma cutter
@@ -70,7 +67,7 @@ INVENTIONS = [
    "X9zXcnSXNF0",  # 2020-10-27 Making a robot to carve photos into pumpkins
   ],
  ),
- dict(name="Unpickable Locks", kind="Tool",
+ dict(name="Unpickable Locks", kind="Lock",
   desc="A lock designed to be unpickable, sent to locksmiths, then two new designs sent to LockPickingLawyer.",
   videos=[
    "_7vPNcnYWQ4",  # 2020-11-26 Making an unpickable lock. Calling locksmiths
@@ -101,7 +98,7 @@ INVENTIONS = [
    "osUTMnDFV30",  # 2021-10-30 My GIANT wall painting robot
   ],
  ),
- dict(name="Explosive Nutcracker", kind="Kitchen",
+ dict(name="Explosive Nutcracker", kind="Gadget",
   desc="An explosive-powered nutcracker, tested on metal nuts.",
   videos=[
    "Q1RaC7YJ7sk",  # 2021-12-05 Explosive powered nut cracker vs. metal nuts
@@ -131,7 +128,7 @@ INVENTIONS = [
    "cQO2XTP7QDw",  # 2023-05-27 I sent robot forgeries to a handwriting expert
   ],
  ),
- dict(name="Questionably Legal Pencil Sharpeners", kind="Tool",
+ dict(name="Questionably Legal Pencil Sharpeners", kind="Gadget",
   desc="Six over-the-top pencil sharpeners.",
   videos=[
    "wh8ij9NnLIQ",  # 2023-10-11 Six questionably legal pencil sharpeners
@@ -149,13 +146,25 @@ INVENTIONS = [
    "t9rClZrbnrQ",  # 2024-05-02 Precision guided launcher turns noobs into pros
   ],
  ),
- dict(name="Reverse Camera", kind="Tool",
+ dict(name="100-Part, 45-Hour Build", kind="Machine",
+  desc="After 100+ parts and 45 hours of practice, he did it.",
+  videos=[
+   "YqywL9PkM2s",  # 2024-08-09 After 100+ parts and 45 hours of practice, I did it
+  ],
+ ),
+ dict(name="Reverse Camera", kind="Optics",
   desc="A camera that sees in reverse.",
   videos=[
    "aXfTgCCsRSg",  # 2024-12-04 What if we made a camera that sees in reverse?
   ],
  ),
- dict(name="Inside-Out Brownies", kind="Kitchen",
+ dict(name="The Build That Should Have Flown", kind="Flying machine",
+  desc="He really thought this would fly well.",
+  videos=[
+   "BO_YGcSzJdA",  # 2025-03-04 I really thought this would fly well
+  ],
+ ),
+ dict(name="Inside-Out Brownies", kind="Gadget",
   desc="A way to bake brownies from the inside out.",
   videos=[
    "dXIkUkwzTQU",  # 2025-06-02 Baking brownies from the inside out
@@ -167,13 +176,13 @@ INVENTIONS = [
    "vJ43DjwLPGA",  # 2025-08-30 Why is this task so difficult for machines?
   ],
  ),
- dict(name="Self-Peeling Apple", kind="Kitchen",
+ dict(name="Self-Peeling Apple", kind="Machine",
   desc="A machine that makes an apple peel itself.",
   videos=[
    "RpslsMqPFWA",  # 2026-08-05 I made an apple peel itself
   ],
  ),
- dict(name="Muddy Dog Fix", kind="Tool",
+ dict(name="Muddy Dog Fix", kind="Gadget",
   desc="A build for a dog who won't stay out of the mud.",
   videos=[
    "BuRyQYf03xA",  # 2026-11-01 My dog won't stay out of mud so I made this...

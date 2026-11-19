@@ -1,0 +1,76 @@
+{
+"channel": "Sam Zeloof",
+"videos": 36,
+"labels": {
+"KPU5GrgDuX4": "invention",
+"lhF4Yi9W4Ik": "invention",
+"kxoOVR-8Wwc": "invention",
+"QTJ63nbxTM8": "invention",
+"QxHt-7jP6LU": "invention",
+"rrhtbbhflbU": "invention",
+"s1MCi7FliVY": "invention",
+"XVoldtNpIzI": "invention",
+"Nxz_ENnmgtI": "invention",
+"vPu6lN9yJOY": "invention",
+"XrEC2LGGXn0": "invention",
+"IS5ycm7VfXg": "invention",
+"8aBDsLOMWDY": "tutorial",
+"5S3M6fue2is": "tutorial",
+"qCSIGejNT4M": "tutorial",
+"iZ9ieSHOZsg": "tutorial",
+"RJXio_jpc_Y": "tutorial",
+"vOBUx9HtMi4": "tutorial",
+"zZO-ueIYBok": "tutorial",
+"HUtW7a3XWBM": "tutorial",
+"IHai1Vf0BD0": "tutorial",
+"kOJGZJa3cZg": "tutorial",
+"SB94rQtKlKI": "tutorial",
+"mvZ1dJuvenw": "tutorial",
+"vOijNeDcX-0": "tutorial",
+"RoQgnC0Oz2k": "tutorial",
+"TrmqZ0hgAXk": "workshop",
+"QcsvWJLWKxo": "other",
+"k8l4Z3EP7N4": "other",
+"IfzSYI7cv_Y": "other",
+"8zwAMsdP-po": "other",
+"lewKtYRnZiA": "other",
+"d-hBp4PsvDo": "other",
+"OSkeIcz9SqI": "other",
+"Z2OYdKb2fpM": "other",
+"S8dRUz1E0PQ": "other"
+},
+"inventions": {
+"3D-Printed Mini Quadcopter": [
+"KPU5GrgDuX4"
+],
+"8000-Lumen Quadcopter Light": [
+"lhF4Yi9W4Ik"
+],
+"Satellite-Dish Doppler Radar": [
+"kxoOVR-8Wwc"
+],
+"Paper R2R Ladder DAC": [
+"QTJ63nbxTM8"
+],
+"Homemade Silicon Diode and Solar Cell": [
+"QxHt-7jP6LU",
+"rrhtbbhflbU"
+],
+"Homemade MOSFET": [
+"s1MCi7FliVY"
+],
+"Maskless Photolithography Stepper": [
+"XVoldtNpIzI",
+"Nxz_ENnmgtI"
+],
+"Heterodyne Interferometer": [
+"vPu6lN9yJOY"
+],
+"Z1 Homemade Silicon Chips": [
+"XrEC2LGGXn0"
+],
+"Z2 Upgraded Homemade Chips": [
+"IS5ycm7VfXg"
+]
+}
+}

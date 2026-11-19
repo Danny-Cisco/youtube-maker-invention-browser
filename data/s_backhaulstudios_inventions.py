@@ -1,5 +1,6 @@
-"""Curated inventions for Backhaul Studios. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of Backhaul Studios. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'backhaul-studios', 'name': 'Backhaul Studios', 'tagline': 'Davis DeWitt builds special effects and props for movies and TV.', 'other_label': 'Other uploads: shorts and updates', 'person': 'Backhaul Studios'}
 
@@ -35,7 +36,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="LED Neon Sign", kind="Light",
-  desc="How to make an LED neon sign.",
+  desc="An LED neon sign.",
   videos=[
    "hBRBIxCuMsU",  # 2023-12-20 How to make an LED neon sign #diy #shorts
   ],
@@ -55,7 +56,7 @@ INVENTIONS = [
   ],
  ),
  dict(name="Real Mixtape", kind="Gadget",
-  desc="How to make a real mixtape.",
+  desc="A real, playable mixtape.",
   videos=[
    "lZq8VbgTlgM",  # 2024-03-21 How to make a real mixtape #diy #shorts
   ],
@@ -84,14 +85,8 @@ INVENTIONS = [
    "OXdwiAA1_ZQ",  # 2025-01-28 Making a fake blood geyser for a music video #specialeffects
   ],
  ),
- dict(name="Pixar Animatronic Restoration", kind="Restoration",
-  desc="Restoring a super-rare Pixar animatronic.",
-  videos=[
-   "0GyUF806E9E",  # 2025-03-09 I restored this super rare Pixar animatronic
-  ],
- ),
  dict(name="Bambu AMS Dehumidifier", kind="Mod",
-  desc="Adding a dehumidifier to a Bambu AMS.",
+  desc="A dehumidifier built into his Bambu AMS.",
   videos=[
    "9kThJKHqTo4",  # 2025-03-24 Adding a dehumidifier to my Bambu AMS #3dprinting
   ],
@@ -138,10 +133,10 @@ INVENTIONS = [
    "0C9weP97l5Q",  # 2026-05-22 Building a Hand Cannon for Marathon (Behind the Scenes)
   ],
  ),
- dict(name="Motor Mythbusters", kind="Experiment",
-  desc="Testing motor myths.",
+ dict(name="Cute Ugly Robots", kind="Robot",
+  desc="Can ugly robots be cute?",
   videos=[
-   "hrw7ARWOHFU",  # 2022-03-11 Motor Mythbusters - Davis DeWitt
+   "WTy1QIYLnmE",  # 2026-08-13 Can ugly robots be cute?
   ],
  ),
 ]
