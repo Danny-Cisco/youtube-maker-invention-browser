@@ -155,6 +155,8 @@ def built_by_maker(vs, top, firm=False):
     if title_built(top, firm) or desc_built(top): return True
     return sum(title_built(v, firm) or desc_built(v) for v in vs) * 3 >= len(vs) and len(vs) > 1
 
+_ovp = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "curation_overrides.json")
+OV_EARLY = (json.load(open(_ovp)) if os.path.exists(_ovp) else {}).get(slug, {})
 _tops = [(vs := [V[i] for i in idx], max(vs, key=lambda v: (not v.get("vertical"), not LIVE.search(v["t"]), v["v"]))) for idx in groups.values()]
 firm_share = sum(built_by_maker(vs, top, firm=True) for vs, top in _tops) / max(1, len(_tops))
 BUILD_CHANNEL[0] = firm_share >= 0.25
@@ -163,7 +165,7 @@ for idx in groups.values():
     vs = [V[i] for i in idx]
     first = min(vs, key=lambda v: v["d"])
     top = max(vs, key=lambda v: (not v.get("vertical"), not LIVE.search(v["t"]), v["v"]))   # name it after its main edited video
-    if not built_by_maker(vs, top):
+    if not built_by_maker(vs, top) and not OV_EARLY.get("keep"):   # a hand-judged keep list is the authority
         dropped += 1
         continue
     nm = clean_title(top["t"])
@@ -188,6 +190,19 @@ for target, pats in OV.get("merge", {}).items():
         keep["videos"].sort(key=lambda i: V[i]["d"]); keep["name"] = target
 inv = [x for x in inv if not any(re.search(p, x["name"], re.I) for p in OV.get("drop", []))]
 if OV.get("keep"): inv = [x for x in inv if any(re.search(p, x["name"], re.I) for p in OV["keep"])]   # reviewed allow-list
+
+# Fully hand-judged channels: {"videos": {"Invention name": [title regex, ...]}} assigns each video directly,
+# replacing the automatic groups entirely (each video goes to the first invention whose pattern matches it).
+if OV.get("videos"):
+    inv, taken = [], set()
+    for nm, pats in OV["videos"].items():
+        idx = [i for i, v in enumerate(V) if i not in taken and any(re.search(p, v["t"], re.I) for p in pats)]
+        if not idx: print(f"  note: no video matches {nm!r}", file=sys.stderr); continue
+        taken |= set(idx)
+        vs = [V[i] for i in idx]
+        top = max(vs, key=lambda v: (not v.get("vertical"), not LIVE.search(v["t"]), v["v"]))
+        desc = OV.get("desc", {}).get(nm) or first_sentence(top.get("desc", "")) or f"{top['t'].strip()}."
+        inv.append(dict(name=nm, kind=OV.get("kind", {}).get(nm, "Build"), views=sum(v["v"] for v in vs), videos=sorted(idx, key=lambda i: V[i]["d"]), desc=desc))
 
 multi = [x for x in inv if len(x["videos"]) > 1]
 single = sorted([x for x in inv if len(x["videos"]) == 1], key=lambda x: -x["views"])[:max_single]

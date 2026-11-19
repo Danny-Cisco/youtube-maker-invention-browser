@@ -1,7 +1,7 @@
 {
  "fran-blanche": {
-  "reviewed": "Judged by hand: only things Fran designed or made. Repairs, restorations, kits, techniques, Q&As and studies of other people's work are out.",
-  "merge": {
+  "reviewed": "Judged by hand, video by video: only things Fran designed or made. Repairs of her own builds (Frantone pedals) count as part of that build; repairs and restorations of other things, kits, techniques, Q&As and studies of other people's work are out.",
+  "videos": {
    "Project Egress": [
     "project egress"
    ],
@@ -9,26 +9,62 @@
     "bina"
    ],
    "Apollo DSKY Display": [
-    "dsky"
+    "^(?!updates,|the francast).*dsky"
    ],
    "Sputnik Model and Beeper Kit": [
     "sputnik"
-   ],
-   "Nixie Counter": [
-    "nixie test project",
-    "nixie counter prototype",
-    "^Nixie Counter$"
    ],
    "Digital Audio Cartridge Recorder": [
     "audio cartridge",
     "voice recorder with cartridge",
     "cartridge recorder"
    ],
+   "Mini Manual Movie Machine": [
+    "mini manual movie machine",
+    "animated titles for the franlab movie machine"
+   ],
+   "Nixie Counter": [
+    "nixie test project",
+    "nixie counter prototype"
+   ],
+   "Numitron BCD Counter": [
+    "bcd modular counter"
+   ],
    "Frantone Vibutron Pedal": [
     "vibutron"
    ],
+   "Frantone Peachfuzz Pedal": [
+    "peachfuzz"
+   ],
+   "Frantone Cream Puff Pedal": [
+    "^new 2016 frantone cream puff"
+   ],
+   "Frantone Brooklyn Overdrive": [
+    "brooklyn"
+   ],
+   "Frantone The Sweet Pedal": [
+    "the sweet repair"
+   ],
+   "Frantone Lo-Tone Fuzz": [
+    "lo-tone"
+   ],
+   "Frantone Franocaster Guitar": [
+    "franocaster"
+   ],
+   "The First Frantone (1994)": [
+    "first frantone"
+   ],
+   "Frantone Model A Tube Amplifier": [
+    "frantone \\\"model a\\\""
+   ],
    "Frantone Fretboard": [
     "frantone fretboard"
+   ],
+   "Frantone CuteUino": [
+    "cuteuino"
+   ],
+   "Frantone Shredcam": [
+    "shredcam project"
    ],
    "Cessna 172 Flight Simulator": [
     "flight sim with real cessna"
@@ -36,87 +72,61 @@
    "Apollo Flight Com System": [
     "apollo flight com"
    ],
-   "TTL NAND Logic Device": [
-    "home made ttl nand"
+   "Apollo 13 Squawk Box Prop": [
+    "squawk box prop"
+   ],
+   "Apollo 13 Meter Project": [
+    "apollo 13 meter"
+   ],
+   "Star Trek Red Alert Wall Alarm": [
+    "star trek wall alarm"
    ],
    "Space Attack Video Multicade": [
     "space attack"
    ],
-   "Numitron BCD Counter": [
-    "bcd modular counter"
+   "Space Odyssey Control Panel": [
+    "space odyssey control panel"
+   ],
+   "TTL NAND Logic Device": [
+    "home made ttl nand"
    ],
    "AC Synchronous NIMO Clock": [
     "designing ac synchronous"
    ],
-   "Camera Mount": [
-    "new camera mount"
-   ],
-   "Silkscreen Jig and Vacuum Holddown": [
-    "silkscreen jig"
+   "50 Hz Clock Circuit Converter": [
+    "50hz digital clock"
    ],
    "CNC-Cut Clock Case": [
     "clock case with the origin"
    ],
-   "50 Hz Clock Circuit Converter": [
-    "50hz digital clock"
+   "ATmega328P Custom Sign": [
+    "custom sign with an atmega"
    ],
-   "Center Punch": [
-    "ultimate center punch"
+   "3D-Printed Mega Displays": [
+    "3d printed mega displays"
+   ],
+   "Camera Mount": [
+    "new camera mount"
    ],
    "3D Printer Vent Hood": [
     "m3 3d printer vent hood"
    ],
-   "Space Odyssey Control Panel": [
-    "space odyssey control panel"
-   ],
    "PCB Assembly Jigs": [
     "pcb production assembly jigs"
    ],
-   "Mini Manual Movie Machine": [
-    "mini manual movie machine"
+   "Center Punch": [
+    "ultimate center punch"
    ],
-   "ATmega328P Custom Sign": [
-    "custom sign with an atmega"
+   "Sketchbook Pencil Caddy": [
+    "pencil caddy"
    ],
    "Scrounge Build": [
     "scrounge build"
    ],
    "Plaster Sculpture": [
     "plaster sculpture"
-   ],
-   "3D-Printed Mega Displays": [
-    "3d printed mega displays"
    ]
-  },
-  "keep": [
-   "^Project Egress$",
-   "^BINA-VIEW Controller$",
-   "^Apollo DSKY Display$",
-   "^Sputnik Model and Beeper Kit$",
-   "^Nixie Counter$",
-   "^Digital Audio Cartridge Recorder$",
-   "^Frantone Vibutron Pedal$",
-   "^Frantone Fretboard$",
-   "^Cessna 172 Flight Simulator$",
-   "^Apollo Flight Com System$",
-   "^TTL NAND Logic Device$",
-   "^Space Attack Video Multicade$",
-   "^Numitron BCD Counter$",
-   "^AC Synchronous NIMO Clock$",
-   "^Camera Mount$",
-   "^Silkscreen Jig and Vacuum Holddown$",
-   "^CNC-Cut Clock Case$",
-   "^50 Hz Clock Circuit Converter$",
-   "^Center Punch$",
-   "^3D Printer Vent Hood$",
-   "^Space Odyssey Control Panel$",
-   "^PCB Assembly Jigs$",
-   "^Mini Manual Movie Machine$",
-   "^ATmega328P Custom Sign$",
-   "^Scrounge Build$",
-   "^Plaster Sculpture$",
-   "^3D-Printed Mega Displays$"
-  ]
+  }
  },
  "hainbach": {
   "keep": [
