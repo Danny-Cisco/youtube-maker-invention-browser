@@ -1,14 +1,11 @@
-"""Curated inventions for William Osman (@williamosman). His second channel (@WilliamOsman2) is not included.
-kind: Laser | Robot | Vehicle | Machine | Experiment
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of William Osman. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'william-osman', 'name': 'William Osman', 'person': 'William Osman', 'tagline': 'Dubious quality, questionable integrity: lasers, BattleBots, egg drops. Founder of Open Sauce.', 'other_label': 'Other uploads: vlogs, house fire, travel and life updates'}
 
 INVENTIONS = [
- dict(name="Can a Laser\u2026? Series", kind="Experiment",
+ dict(name="Can a Laser…? Series", kind="Experiment",
   desc="His long-running CO2 laser series: can a laser cut pumpkins, melt sand, pop popcorn, engrave music onto records, cut ice, cook chips, cut hair?",
   videos=[
    "pOR8oNARQ-4",  # 2016-10-31 Can a Laser Cut Pumpkins?
