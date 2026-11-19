@@ -1,258 +1,305 @@
-"""Curated inventions for Tony Goacher (@tonygoacher).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Tony Goacher. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'tony-goacher', 'name': 'Tony Goacher', 'person': 'Tony Goacher', 'tagline': 'Self-syncing festival badges, trikes and automation projects.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Incredomobile Headlight Controller 1", kind="Build",
-  desc="This is a video of the Incredomobile Headlight Controller running 1 channel, receiving commands from the PC based host software.",
+ dict(name="Incredomobile Headlamp Controller", kind="Electronics",
+  desc="A dual-channel headlamp controller with synthetic speech.",
   videos=[
    "5z4cLtBhNTw",  # 2008-08-27 Incredomobile Headlight Controller 1
-  ],
- ),
- dict(name="Defending the universe in a pith helmet", kind="Build",
-  desc="Defending the universe in a pith helmet.",
-  videos=[
-   "kGvnkS7XDOU",  # 2009-02-28 Defending the universe in a pith helmet
-  ],
- ),
- dict(name="Krypton Factor Super Round Grand Finale", kind="Build",
-  desc="I was involved in the production of this part of the show in 1995.",
-  videos=[
-   "T68ZZW9tbPc",  # 2009-06-06 Krypton Factor Super Round Grand Finale
-  ],
- ),
- dict(name="Incredomobile Headlamp controller with dual channel and synthetic spee", kind="Build",
-  desc="This is the incredomobile headlamp controller running two channels from PC host with synthetic speech",
-  videos=[
    "n77Sc68QB_4",  # 2009-08-15 Incredomobile Headlamp controller with dual channel and synthetic spee
   ],
  ),
- dict(name="Halloween 2009 skeleton raising system test", kind="Build",
-  desc="This is a test of the skeleton raising system I designed for Halloween 2009",
+ dict(name="Halloween Skeleton Raising System", kind="Prop",
+  desc="A Halloween coffin and skeleton raising system.",
   videos=[
+   "jXzz8N-rzcc",  # 2009-08-19 The coffin lid opens
+   "Ro1To3AvW2Y",  # 2009-09-26 Protoype for Halloween 2009
+   "HEzcX-fJcdk",  # 2009-10-18 Halloween 2009 dry run without lights
    "2hQhywJVEQw",  # 2009-10-19 Halloween 2009 skeleton raising system test
+   "_7IAVqhWuzw",  # 2009-11-08 Halloween 2009 1
+   "jtz2TTDpR4o",  # 2009-11-08 Halloween 2009 2
+   "oFDKIrDVkrw",  # 2009-11-08 Halloween 2009 3
    "l321pzAzRWY",  # 2012-10-21 Halloween skeleton test
   ],
  ),
- dict(name="Krypton Factor 1995 Group C, Heat﻿ 2 Super Round", kind="Build",
-  desc="I was involved in the production of this part of the show.",
+ dict(name="Screaming Runners", kind="Prop",
+  desc="Halloween screaming runners.",
   videos=[
-   "SGznVhJy6QI",  # 2010-05-08 Krypton Factor 1995 Group C, Heat﻿ 2 Super Round
+   "9hwXlzoytrI",  # 2014-11-01 Screaming Runners Haloween 2014
+   "p-nsq8iYiik",  # 2014-11-01 Halloween 2014 Screaming Runners 2
+   "CZCxb33tJeQ",  # 2025-11-04 Halloween2025 screamers
   ],
  ),
- dict(name="Homemade water gun", kind="Build",
-  desc="Homemade water gun.",
+ dict(name="Pneumatic Halloween Coffin", kind="Prop",
+  desc="A pneumatic Halloween coffin and its scares.",
   videos=[
+   "8ZCJyvBezYg",  # 2023-10-29 Pneumatic Halloween Coffin assembly hyper lapse
+   "grGJ1jsXlok",  # 2023-11-04 Halloween 2023 scare compilation
+  ],
+ ),
+ dict(name="Homemade Water Gun", kind="Gadget",
+  desc="A homemade solenoid water gun.",
+  videos=[
+   "Pd5ztWApTeU",  # 2010-05-19 Water gun nozzle test
+   "W1oRkuLPK-w",  # 2010-05-20 Water gun nozzle test. Externally tapered nozzle
    "nxRC39_0ESU",  # 2010-05-22 Homemade water gun
    "ebTytJFRWYg",  # 2010-05-24 More homemade water gun
    "n6azvs2rzHo",  # 2010-06-20 Homemade water gun solenoid valve test
   ],
  ),
- dict(name="RepRap printer", kind="Build",
-  desc="RepRap printer.",
+ dict(name="Pneumatic Water Gun", kind="Gadget",
+  desc="A pneumatic water gun.",
   videos=[
-   "Wjsml4RExBc",  # 2011-12-18 RepRap printer
+   "c4HT464Q0ao",  # 2021-12-31 Pneumatic Water Gun
   ],
  ),
- dict(name="Rolls-Royce 37L V12 Griffon engine", kind="Build",
-  desc="Rolls-Royce 37L V12 Griffon engine being run at Uppermill Yanks Weekend.",
+ dict(name="Milestag Laser Tag Gear", kind="Game",
+  desc="Milestag laser tag kit: domination tubes with displays and audio, a battle box and zombie collars.",
   videos=[
-   "9GhS0p2eJo0",  # 2012-08-11 Rolls-Royce 37L V12 Griffon engine
+   "TKR2OZIuXW4",  # 2011-03-04 Milestag sensor test
+   "QYrukQ6QWjE",  # 2013-06-23 Milestag domination tube special with audio and digital displays
+   "ofI7r_gWhmg",  # 2013-06-26 Milestag Domination tube with display and custom audio
+   "TlAr7jviiWY",  # 2014-02-18 Milestag Battle Box
+   "GRdfXI_eF7U",  # 2014-12-03 Zombie Collar Test
+   "q4fLmyWn6BI",  # 2014-12-20 Milestag Zombie Collar
+   "j_SGzHWy9TY",  # 2016-05-22 Milestag Display Domination Tube in timer mode
+   "sOoIv75fW9M",  # 2016-05-22 Milestag Display Domination Tube in count mode
+   "FxwfqZcZEU4",  # 2018-07-07 DomTube test
   ],
  ),
- dict(name="Mendel90 Full Kit First Print", kind="Build",
-  desc="Here is my Mendel90 full kit from nophead doing its first print.",
+ dict(name="Spud Gun", kind="Gadget",
+  desc="A spud gun.",
   videos=[
-   "-8w3Y40Ir_0",  # 2013-02-14 Mendel90 Full Kit First Print
+   "oCXJuYyVWFs",  # 2013-08-10 Manchester mini maker faire: Spud Gun
   ],
  ),
- dict(name="Making Stuff in Tandem", kind="Build",
-  desc="Making Stuff in Tandem.",
+ dict(name="Countdown", kind="Electronics",
+  desc="Countdown.",
   videos=[
-   "vWbOHWFx0C8",  # 2014-09-06 Making Stuff in Tandem
+   "9c5SwEjVQ9E",  # 2014-01-26 Countdown
   ],
  ),
- dict(name="Proton Pack Lights + Charlieplexing", kind="Build",
-  desc="Proton Pack Lights + Charlieplexing.",
+ dict(name="HotRocks", kind="Gadget",
+  desc="HotRocks.",
+  videos=[
+   "tcF-3qAfWOY",  # 2014-02-24 HotRocks
+  ],
+ ),
+ dict(name="Proton Pack", kind="Prop",
+  desc="A 3D-printed proton pack with Charlieplexed lighting.",
   videos=[
    "5UxXXjNfrCg",  # 2015-01-20 Proton Pack Lights + Charlieplexing
    "DqYRMVQ5ay4",  # 2015-03-11 3D printed Proton Pack with lighting
   ],
  ),
- dict(name="Banggood electronic dice kit", kind="Build",
-  desc="I bought this electronic dice kit for my 13yo son to have a go at making as he enjoys soldering.",
+ dict(name="PyroBox", kind="Gadget",
+  desc="PyroBox.",
   videos=[
-   "f2pSqhuLLp8",  # 2016-03-12 Banggood electronic dice kit
+   "K7sp3nYDO6I",  # 2015-02-21 PyroBox
   ],
  ),
- dict(name="Faux Ghostbusters Belt Gizmo", kind="Build",
-  desc="A replica of the Ghostbusters belt gizmo.",
+ dict(name="Laser-Etched Glowing Sign", kind="Light",
+  desc="A laser-etched acrylic glowing sign.",
+  videos=[
+   "3azGju1kL7A",  # 2015-11-15 Laser etched acrlylic glowing sign
+  ],
+ ),
+ dict(name="Duelling Banjos Doorbell", kind="Gadget",
+  desc="A Duelling Banjos doorbell.",
+  videos=[
+   "qUg-LaPRlhY",  # 2015-12-06 Duelling Banjos Doorbell
+  ],
+ ),
+ dict(name="Gigameter Display", kind="Display",
+  desc="A gigameter display with seeking digits.",
+  videos=[
+   "BHfmERgPEY8",  # 2015-12-30 Giga Meter Display First Run
+   "hO0Lbys6lBY",  # 2015-12-30 Gigameter display with seeking digits
+  ],
+ ),
+ dict(name="Micro:Bit Tilt Game", kind="Game",
+  desc="A Micro:Bit tilt game.",
+  videos=[
+   "HL8y1yd985Q",  # 2016-03-26 Micro:Bit tilt game.
+  ],
+ ),
+ dict(name="RGB Tent Lights", kind="Light",
+  desc="An RGB tent peg and EMF Camp tent LEDs.",
+  videos=[
+   "GhoyuV8cAEM",  # 2016-07-30 RGB Tent peg
+   "snKy2YHLfqI",  # 2016-08-10 Electromagnetic Field Camp 2016 Tent LEDs
+  ],
+ ),
+ dict(name="Ghostbusters Belt Gizmo", kind="Prop",
+  desc="A faux Ghostbusters belt gizmo.",
   videos=[
    "nChaVyAyGDU",  # 2016-10-04 Faux Ghostbusters Belt Gizmo
   ],
  ),
- dict(name="3D printed Ghost Trap Lighting", kind="Build",
-  desc="The lighting on my ghost trap uses an Arduino Nano to multiplex the LEDs and give 16 brightness levels.",
+ dict(name="Dalek Bob", kind="Robot",
+  desc="Dalek Bob, later motorised.",
+  videos=[
+   "gV-pLYbHTWA",  # 2016-10-16 Dalek Bob
+   "rc9Nly-5Yj8",  # 2025-11-25 The Motorisation of Dalek Bob
+  ],
+ ),
+ dict(name="Ghost Trap Lighting", kind="Prop",
+  desc="3D-printed ghost trap lighting.",
   videos=[
    "NESNAmDrrFw",  # 2016-10-18 3D printed Ghost Trap Lighting
   ],
  ),
- dict(name="Oldham Illuminate Festival", kind="Build",
-  desc="To celebrate the rejuvination of Oldham's town centre a festival of light was commisioned.",
+ dict(name="Festival Badges", kind="Electronics",
+  desc="Light Night and Hack Oldham Illuminate badges, a Tildagon sound-to-light demo, and CrowdC badges that sync themselves.",
   videos=[
+   "Upfqr370BYg",  # 2017-01-01 Light Night Badge
    "Bq8_oJuj1Tc",  # 2017-02-11 Oldham Illuminate Festival
    "GZxzPd1oLGI",  # 2018-01-21 Hack Oldham Illuminate! Festival badge
+   "Oy822CMz1iM",  # 2026-02-12 Tildagon badge sound to light demo
+   "YINVdLlnf9U",  # 2026-04-28 Festival Badges That Sync Themselves (No Pairing, No WiFi) | CrowdCloc
   ],
  ),
- dict(name="Diy cnc x axis", kind="Build",
-  desc="Diy cnc x axis.",
+ dict(name="Arduino Sound to Light", kind="Light",
+  desc="Arduino sound-to-light RGB LEDs.",
+  videos=[
+   "IQzfxvAUWqg",  # 2017-02-05 Arduino Sound To Light
+   "TQ692u0i-HY",  # 2017-02-05 Arduino RGB LEDs
+  ],
+ ),
+ dict(name="DIY CNC Router", kind="Machine",
+  desc="A home-made CNC router.",
   videos=[
    "8op7_dDALyI",  # 2017-09-19 Diy cnc x axis
-  ],
- ),
- dict(name="Diy cnc router. All 3 axes on first run", kind="Build",
-  desc="Diy cnc router. All 3 axes on first run!.",
-  videos=[
    "3lxJdN5Ype0",  # 2017-09-20 Diy cnc router. All 3 axes on first run!
-  ],
- ),
- dict(name="Home made CNC router making a clock", kind="Build",
-  desc="This is my own design of a CNC router making a clock from a Russell Hobbs breadboard.",
-  videos=[
    "Tkr2V-IziJU",  # 2018-01-21 Home made CNC router making a clock
+   "ck-OqC2uzyU",  # 2019-03-03 CNC milling the motor mount for an electric scooter
   ],
  ),
- dict(name="Making a clock", kind="Build",
-  desc="Making a custom clock from a Russell Hobbs breadboard....",
+ dict(name="CNC Clock", kind="Clock",
+  desc="A clock made on his CNC.",
   videos=[
    "4B0LQ1flzXc",  # 2018-01-21 Making a clock
   ],
  ),
- dict(name="Ellenroad Mill Engine running", kind="Build",
-  desc="The largest running mill engine in the world running at Ellenroad, Rochdale, UK",
+ dict(name="Home-Made Furnace", kind="Tool",
+  desc="A home-made furnace.",
   videos=[
-   "NzqJl_FWWKo",  # 2018-02-06 Ellenroad Mill Engine running
+   "0j90wWXFbwg",  # 2018-04-29 furnace
+   "X_rb4vXaoGY",  # 2018-04-29 Home made furnace when steel crucible melts
   ],
  ),
- dict(name="Emf Camp 2018 Laser Display", kind="Build",
-  desc="One of the laser discos at EMF camp 2018",
+ dict(name="Escape Room Puzzles", kind="Game",
+  desc="Escape room timer, bomb puzzle and a coin-activated clue dispenser.",
+  videos=[
+   "ndtYAinko7I",  # 2018-05-31 Escape room timer
+   "JiKBT_2rqMc",  # 2018-06-11 Escape Room Bomb Puzzle
+   "i8alFJGIx8s",  # 2019-01-14 Escape room 'bomb' puzzle.
+   "0EZh9fXja4E",  # 2023-10-27 Escape Room Coin Activated Clue Dispenser
+  ],
+ ),
+ dict(name="Strobe Flagpole", kind="Light",
+  desc="A flagpole with strobe.",
+  videos=[
+   "lXeTf3Bbwoc",  # 2018-08-08 Flagpole with strobe
+  ],
+ ),
+ dict(name="EMF Camp Laser Display", kind="Light",
+  desc="A laser display for EMF Camp 2018.",
   videos=[
    "Fkt7D0yiurE",  # 2018-10-28 Emf Camp 2018 Laser Display
   ],
  ),
- dict(name="Making the Hack Oldham arcade machine control panel", kind="Build",
-  desc="The Hack Oldham arcade machine project needs a control panel.",
+ dict(name="Back-Projected Halloween Video", kind="Prop",
+  desc="A back-projected Halloween video.",
+  videos=[
+   "N8UlJAMBFD0",  # 2018-10-31 Back projected Halloween video
+  ],
+ ),
+ dict(name="Hack Oldham Arcade Panel", kind="Game",
+  desc="An arcade machine control panel.",
   videos=[
    "kY4FVEh6MdI",  # 2019-10-23 Making the Hack Oldham arcade machine control panel
   ],
  ),
- dict(name="Pneumatic Water Gun", kind="Build",
-  desc="I made this pneumatic water gun years ago when the kids were little.",
+ dict(name="Leadscrew Buddy", kind="Tool",
+  desc="Leadscrew Buddy, a power feed and seek controller for a 70-year-old lathe.",
   videos=[
-   "c4HT464Q0ao",  # 2021-12-31 Pneumatic Water Gun
+   "2yjz89n_yM0",  # 2020-09-23 Leadscrew buddy seek mode
+   "VcrZfZOl4X8",  # 2020-09-28 Leadscrew Buddy Demo on 70 year old lathe
+   "_x8gHGMyXSo",  # 2020-09-28 LeadscrewBuddy power feed and seek mode
+   "sxRDW9yacHw",  # 2020-09-28 Leadscrew buddy software test
+   "ehSjVE9yx90",  # 2021-02-05 Leadscrew Buddy step function
+   "SeCLCmwV7Is",  # 2023-10-27 First test of Leadscrew Buddy
   ],
  ),
- dict(name="Plasma Cutting, 3D Printing and Air Bending", kind="Build",
-  desc="For EMF Camp 2024 I'm creating an electrically powered, tracked tricycle.",
+ dict(name="DIY Electric Mountain Board", kind="Vehicle",
+  desc="A DIY electric mountain board.",
   videos=[
-   "HTxGoYXx00A",  # 2023-10-27 Plasma Cutting, 3D Printing and Air Bending
+   "r2rnm-M8rLE",  # 2021-09-11 Youngest on DIY electric mountain board.
   ],
  ),
- dict(name="Cog Clock power up initialisation", kind="Build",
-  desc="Cog Clock power up initialisation..",
+ dict(name="E-Scooter to E-Trike", kind="Vehicle",
+  desc="An e-scooter converted to an e-trike.",
   videos=[
-   "xUmo1JLrNy8",  # 2023-10-27 Cog Clock power up initialisation.
+   "QL4B50nqjeU",  # 2021-12-19 E SCooter To E trike conversion:  ELectronic speed controller
   ],
  ),
- dict(name="AccelStepper arduino library driving none sequential gear clock", kind="Build",
-  desc="AccelStepper arduino library driving none sequential gear clock..",
-  videos=[
-   "ug29_KW1bIE",  # 2023-10-27 AccelStepper arduino library driving none sequential gear clock.
-  ],
- ),
- dict(name="Glock 17 replica as lasertag", kind="Build",
-  desc="A UK legal Glock 17 blank firing replica emitting lasertag pulses when fired.",
+ dict(name="Glock Laser Tag Replica", kind="Game",
+  desc="A Glock 17 replica as laser tag.",
   videos=[
    "ErIFCsUb9rY",  # 2023-10-27 Glock 17 replica as lasertag
   ],
  ),
- dict(name="High Speed Cog Clock", kind="Build",
-  desc="I made this 'Cog Clock' which uses an ESP32 to control two stepper motors which drive separate hour and minute rings.",
+ dict(name="Cog Clock", kind="Clock",
+  desc="A non-sequential gear clock with a base from an old chopping block.",
   videos=[
+   "LZjqchBaMtw",  # 2023-10-27 Test of Cog Clock minute increment software
    "O5NmmSGbUe4",  # 2023-10-27 High Speed Cog Clock
-  ],
- ),
- dict(name="Machining Cog Clock base from an old chopping block", kind="Build",
-  desc="Machining Cog Clock base from an old chopping block..",
-  videos=[
+   "Oe5xyFDR5iI",  # 2023-10-27 Cog Clock hour change.
+   "ug29_KW1bIE",  # 2023-10-27 AccelStepper arduino library driving none sequential gear clock.
+   "xUmo1JLrNy8",  # 2023-10-27 Cog Clock power up initialisation.
    "xypeZ-ueRy4",  # 2023-10-27 Machining Cog Clock base from an old chopping block.
   ],
  ),
- dict(name="Cog Clock hour change", kind="Build",
-  desc="Cog Clock hour change..",
+ dict(name="TrakTrike", kind="Vehicle",
+  desc="An electrically powered tracked tricycle built from scratch.",
   videos=[
-   "Oe5xyFDR5iI",  # 2023-10-27 Cog Clock hour change.
-  ],
- ),
- dict(name="Pneumatic Halloween Coffin assembly hyper lapse", kind="Build",
-  desc="I made this ages ago but I've never published anything about how it all goes together.",
-  videos=[
-   "8ZCJyvBezYg",  # 2023-10-29 Pneumatic Halloween Coffin assembly hyper lapse
-  ],
- ),
- dict(name="Creating a 'silkscreen' with a laser cutter", kind="Build",
-  desc="I've designed a distribution PCB for my TrakTrike project.",
-  videos=[
-   "AuwNwJb3sJg",  # 2024-03-09 Creating a 'silkscreen' with a laser cutter
-  ],
- ),
- dict(name="TrakTrike: An electrically powered tracked tricycle built from scratch", kind="Build",
-  desc="Finally I got TrakTrike (electrically powered, track driven trike) working reliably and I was able to take it to EMF Camp 2024",
-  videos=[
+   "87pHzPuJ1yI",  # 2023-11-13 Track driven trike part 1. Drive Unit.
+   "m2QjEd2RqiQ",  # 2023-11-30 Track driven trike part 2. Frame
+   "-mRkct6nrUc",  # 2023-12-16 Track driven trike part 3: Steering
+   "cWTWbB53HMA",  # 2024-02-15 Track driven trike part 4: Battery
+   "lPe-r9bNuCc",  # 2024-04-07 Track Driven Trike part 5: Electronics, wiring and first test.
    "BXZ2RxbJC0U",  # 2024-05-06 TrakTrike test run
    "Ge0lw8hh-Lk",  # 2024-05-14 TrakTrike part 6. Testing and failure
    "8EMOawbBM14",  # 2024-06-25 TrakTrike: An electrically powered tracked tricycle built from scratch
    "fNzUjqsafLI",  # 2026-03-16 TrakTrike track test
   ],
  ),
- dict(name="Broombot 3000", kind="Build",
-  desc="I made a Broom Bot to allow my cosplaying friends to have some fun with a famous scene from HP.",
+ dict(name="Broombot 3000", kind="Robot",
+  desc="Broombot 3000.",
   videos=[
    "fGpyWmHnqGE",  # 2025-11-18 Broombot 3000
   ],
  ),
- dict(name="Excercise Bike as a Game Controller", kind="Build",
-  desc="I 3d printed some attachments to allow an ESP32 based circuit board to be non-destructively attached to the bikes.",
+ dict(name="Exercise Bike Game Controller", kind="Controller",
+  desc="An exercise bike as a game controller.",
   videos=[
    "tXwGMks4NyE",  # 2025-11-26 Excercise Bike as a Game Controller
   ],
  ),
- dict(name="Quick Xmas Video", kind="Build",
-  desc="Quick Xmas Video: MQTT Xmas lights!",
+ dict(name="MQTT Christmas Lights", kind="Light",
+  desc="MQTT Christmas lights.",
   videos=[
    "xOFaSP_cO9M",  # 2025-12-11 Quick Xmas Video: MQTT Xmas lights!
   ],
  ),
- dict(name="Tildagon badge sound to light demo", kind="Build",
-  desc="I created a sound to light 'hexpansion' for the EMF camp tildagon badge using a third party sound detector and the onboard LEDs of the badge.",
-  videos=[
-   "Oy822CMz1iM",  # 2026-02-12 Tildagon badge sound to light demo
-  ],
- ),
- dict(name="CAVE Automatic Virtual Environment + MQTT", kind="Build",
-  desc="Oldham college asked Inclusive Bytes, a none profit tech hub I volunteer at if we could create some physical inputs for their ~$100k CAVE system.",
+ dict(name="CAVE Virtual Environment", kind="Display",
+  desc="A CAVE automatic virtual environment with MQTT.",
   videos=[
    "Q_wAVxR-iig",  # 2026-02-23 CAVE Automatic Virtual Environment + MQTT
-  ],
- ),
- dict(name="Festival Badges That Sync Themselves", kind="Build",
-  desc="Find all the build files at:",
-  videos=[
-   "YINVdLlnf9U",  # 2026-04-28 Festival Badges That Sync Themselves (No Pairing, No WiFi) | CrowdCloc
   ],
  ),
 ]
