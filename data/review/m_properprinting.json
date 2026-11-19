@@ -1,0 +1,273 @@
+{
+"channel": "Proper Printing",
+"videos": 96,
+"labels": {
+"oK3877cbBeM": "invention",
+"NSKOwG8NA9Y": "invention",
+"7eTGU4crL_s": "invention",
+"S5HZwtHooxw": "invention",
+"OSVu7QtVRYo": "invention",
+"UNBvk5W7Cs8": "invention",
+"z_MdPX7IDxE": "invention",
+"I-izkShIDXU": "invention",
+"MZT0NriuEUg": "invention",
+"TXb9_Z33lzE": "invention",
+"Khpa1RAGQd8": "invention",
+"F6G9xlVzEoU": "invention",
+"Fv-dRYbWrd4": "invention",
+"nBVrcIZ095Y": "invention",
+"gHDfA-dlWj4": "invention",
+"X9nnP1qhM_s": "invention",
+"9yjT9ZjxFFE": "invention",
+"YfDWs5B-fYA": "invention",
+"SJBIVYTattk": "invention",
+"n36JhA_yFhQ": "invention",
+"bCjokSxoqAI": "invention",
+"awXJVp4Ovig": "invention",
+"6GTCkd7rDe4": "invention",
+"LpT_Udf0geA": "invention",
+"jKG6umjgve0": "invention",
+"x9ykUgEfBrI": "invention",
+"jkHAWxU8BfE": "invention",
+"kJhjvzcUfiE": "invention",
+"kHQ6xemePSE": "invention",
+"fKwJ7P_5sIs": "invention",
+"7lnvv-khE6Y": "invention",
+"zjXgxJJmE4U": "invention",
+"yDLrBVVPX2g": "invention",
+"GUS_Uqzaf8g": "invention",
+"onGIa0Rgoi4": "invention",
+"b4LytO6cOX4": "invention",
+"Zr_hajXsUJ4": "invention",
+"zYr4i7W96Mo": "invention",
+"S-iXgfNfexU": "invention",
+"lBolYmhvEwA": "invention",
+"PCHZ672zx0g": "invention",
+"bfxqGK7mKAo": "invention",
+"OBB5WuhNhWk": "invention",
+"CV0sm_t--rg": "invention",
+"q5zuoD4Oqiw": "invention",
+"VrzHth2eN8E": "invention",
+"-HobdwFHNtU": "invention",
+"ZhpBUzBHtZk": "invention",
+"-LdFmPYItb0": "invention",
+"ZslI-Z9SZUg": "invention",
+"aRH8MGxnZdY": "invention",
+"KRXehsmyecw": "invention",
+"1iF_qicnkB4": "invention",
+"Fn8Zsql6eOw": "invention",
+"jvjIXA4k-XU": "invention",
+"AV7QsytYXOs": "invention",
+"htj0Zp5YyEQ": "invention",
+"URuI8mbYGBI": "invention",
+"kkrkR1crNEc": "invention",
+"MftDN3f-8nQ": "invention",
+"Ox8zJ4SjDZE": "invention",
+"At8sUUgtR4k": "invention",
+"XBJMz457pEo": "invention",
+"Q0S2c6NhEH8": "invention",
+"y2uLvfdjFCc": "invention",
+"sIj6jKM6YIA": "invention",
+"PvWhdPce7A4": "invention",
+"IiEuZgtOmis": "invention",
+"Cxgb89Jn7Vk": "invention",
+"QuZW259aIn0": "invention",
+"z6Solk2XQcY": "invention",
+"6jiCv7-RTYU": "invention",
+"pSY83FBcMhw": "invention",
+"ef0z9zrmhu4": "invention",
+"DQoEssmHciE": "invention",
+"NGAD-HehA0A": "invention",
+"eDQwFdMI1rE": "invention",
+"IUkSgJZ2wS8": "tutorial",
+"IIns6btekOs": "tutorial",
+"l2g5hXd9vDU": "tutorial",
+"3R2sExPyiok": "tutorial",
+"VRiOiSfkJDw": "tutorial",
+"_jqHqlyDzHo": "tutorial",
+"I-QlnA9cMOY": "tutorial",
+"YVAWq6sKhpo": "tutorial",
+"v3rPDRM3m3s": "tutorial",
+"Kl1DHmVYVvU": "other",
+"xjGgm9f-2xk": "other",
+"_AF9jmpoo04": "other",
+"d2TVU9GhsII": "other",
+"_kJx8TGE9j4": "other",
+"T1u3mse997U": "other",
+"0jlW4ivSDko": "other",
+"dWpqdrbc59g": "other",
+"i-bS5cjMoQI": "other",
+"UNicIXmo6Ps": "other"
+},
+"inventions": {
+"Creality Multitool Machine": [
+"oK3877cbBeM",
+"NSKOwG8NA9Y",
+"7eTGU4crL_s",
+"S5HZwtHooxw",
+"OSVu7QtVRYo",
+"UNBvk5W7Cs8",
+"z_MdPX7IDxE",
+"I-izkShIDXU"
+],
+"Camera Sliders": [
+"MZT0NriuEUg",
+"TXb9_Z33lzE",
+"Khpa1RAGQd8"
+],
+"Hot End Unclogging Tool": [
+"F6G9xlVzEoU"
+],
+"Ender 3 Pro Dual Z Axis": [
+"Fv-dRYbWrd4",
+"nBVrcIZ095Y"
+],
+"3D Printed Fly Swatter": [
+"gHDfA-dlWj4"
+],
+"Ender 3 Pro Upgrades": [
+"X9nnP1qhM_s",
+"9yjT9ZjxFFE",
+"YfDWs5B-fYA",
+"SJBIVYTattk",
+"n36JhA_yFhQ"
+],
+"Ender 3 Pro Enclosure": [
+"bCjokSxoqAI",
+"awXJVp4Ovig"
+],
+"Foldable Ender 3 Pro": [
+"6GTCkd7rDe4"
+],
+"Food Printer": [
+"LpT_Udf0geA"
+],
+"Hand Soap Upgrade": [
+"jKG6umjgve0"
+],
+"Project Rim": [
+"x9ykUgEfBrI",
+"jkHAWxU8BfE",
+"kJhjvzcUfiE",
+"kHQ6xemePSE",
+"fKwJ7P_5sIs",
+"7lnvv-khE6Y"
+],
+"Moving Portal Printer": [
+"zjXgxJJmE4U",
+"yDLrBVVPX2g",
+"GUS_Uqzaf8g",
+"onGIa0Rgoi4",
+"b4LytO6cOX4",
+"Zr_hajXsUJ4",
+"zYr4i7W96Mo"
+],
+"51-Pin Custom Connector": [
+"S-iXgfNfexU"
+],
+"New Cable Management": [
+"lBolYmhvEwA"
+],
+"Filament Joining Rig": [
+"PCHZ672zx0g"
+],
+"3D Printer Controller Software": [
+"bfxqGK7mKAo"
+],
+"Mechanical Tool Swap System": [
+"OBB5WuhNhWk"
+],
+"Timing Belt Extruder": [
+"CV0sm_t--rg"
+],
+"Audio Mixer Fix": [
+"q5zuoD4Oqiw"
+],
+"Ender-3 S1 Mod": [
+"VrzHth2eN8E"
+],
+"Single-Piece Guitar Neck": [
+"-HobdwFHNtU"
+],
+"Manual Laser Drawing": [
+"ZhpBUzBHtZk"
+],
+"TPU Beast Extruder": [
+"-LdFmPYItb0"
+],
+"FDM Resin Printing": [
+"ZslI-Z9SZUg",
+"aRH8MGxnZdY"
+],
+"Licorice Printer": [
+"KRXehsmyecw"
+],
+"Hotend Swap Adapter": [
+"1iF_qicnkB4"
+],
+"Monitor Stand": [
+"Fn8Zsql6eOw"
+],
+"Gel Printing Nozzle": [
+"jvjIXA4k-XU"
+],
+"3D Printed Construction System": [
+"AV7QsytYXOs",
+"htj0Zp5YyEQ"
+],
+"Whiteboard Coffee Table": [
+"URuI8mbYGBI"
+],
+"Plywood Extruder": [
+"kkrkR1crNEc"
+],
+"CPU Cooler Hotend": [
+"MftDN3f-8nQ"
+],
+"Grill Plate Printer": [
+"Ox8zJ4SjDZE",
+"At8sUUgtR4k"
+],
+"Experimental 3D Printer": [
+"XBJMz457pEo"
+],
+"Creality K1 Bondtech Upgrade": [
+"Q0S2c6NhEH8"
+],
+"Over-Engineered IKEA Hack": [
+"y2uLvfdjFCc"
+],
+"Hot Glue 3D Printer": [
+"sIj6jKM6YIA"
+],
+"3D Printed Shoes": [
+"PvWhdPce7A4",
+"IiEuZgtOmis"
+],
+"Treadmill 3D Printer": [
+"Cxgb89Jn7Vk",
+"QuZW259aIn0"
+],
+"The Proper X1C": [
+"z6Solk2XQcY"
+],
+"Belt-Driven Prusa XL Extruders": [
+"6jiCv7-RTYU"
+],
+"PEEK on an X1C": [
+"pSY83FBcMhw"
+],
+"3D Printer as Art": [
+"ef0z9zrmhu4"
+],
+"Custom 3D Printer Controller": [
+"DQoEssmHciE"
+],
+"INDX Mod": [
+"NGAD-HehA0A"
+],
+"CNC and 3D Printing Combined": [
+"eDQwFdMI1rE"
+]
+}
+}

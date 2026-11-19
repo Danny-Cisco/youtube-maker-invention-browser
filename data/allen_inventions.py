@@ -1,9 +1,6 @@
-"""Curated inventions for Allen Pan (@allenpan, formerly Sufficiently Advanced).
-kind: Superpower prop | Gadget | Wearable | Machine | Experiment
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Allen Pan. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'allen-pan', 'name': 'Allen Pan', 'person': 'Allen Pan', 'tagline': 'Superpowers and fictional gadgets made real: Mjolnir, burning lightsabers, rocket legs.', 'other_label': 'Other uploads: Shorts, channel updates and stories'}
 
@@ -58,8 +55,8 @@ INVENTIONS = [
   desc="The X-Men's Cerebro helmet as a mind-control rig using galvanic vestibular stimulation.",
   videos=[
    "1S7FO2Qd6Zc",  # 2016-05-28 Mind Control Cerebro Helmet from X-men (Galvanic Vestibular Stimulatio
-   "vJcdilAzAqc",  # 2016-06-09 How to make a Mind Control Cerebro Helmet from X-men!
    "VW31E5kcL08",  # 2016-06-09 The Science of X-Men: Cerebro
+   "vJcdilAzAqc",  # 2016-06-09 How to make a Mind Control Cerebro Helmet from X-men!
   ],
  ),
  dict(name="Cyclops Eye Flamethrowers", kind="Wearable",
@@ -159,6 +156,7 @@ INVENTIONS = [
   videos=[
    "SbBdUZE-s9Y",  # 2018-05-02 Building Shoto's Half-Cold Half-Hot Quirk in Real Life | My Hero Acade
    "mSoMnq-s_vc",  # 2018-05-11 Ice & Fire From My Hands (Liquid Nitrogen + Flamethrower Wrist Mounted
+   "AdTw4ZKE0HA",  # 2025-08-11 flamethrower + ice thrower gauntlets
   ],
  ),
  dict(name="Taser Nerf Darts", kind="Gadget",
@@ -166,6 +164,7 @@ INVENTIONS = [
   videos=[
    "6RJ9I1HnniI",  # 2018-07-31 Frickin' TASER Nerf Darts
    "zDhHZwNeatg",  # 2019-04-30 Taser Nerf Darts Part II (vs human flesh)
+   "SqmaeqNsssU",  # 2025-08-10 300volt Taser Nerf Darts
   ],
  ),
  dict(name="Ice King Crown", kind="Wearable",
@@ -192,7 +191,7 @@ INVENTIONS = [
    "3wFQPSEPgWc",  # 2018-10-31 How to Play 4D Chess
   ],
  ),
- dict(name="Real Pok\u00e9mon", kind="Superpower prop",
+ dict(name="Real Pokémon", kind="Superpower prop",
   desc="A tasing Pikachu and a flamethrower Charmander.",
   videos=[
    "T0JN2DOCmFU",  # 2019-10-09 Real Tazer Pikachu (it hurts)
@@ -288,24 +287,28 @@ INVENTIONS = [
   desc="Giving snakes their legs back. A viral hit.",
   videos=[
    "1SgGfMlbCoM",  # 2022-08-13 giving snakes there legs back.
+   "pERzI6FYGkY",  # 2026-06-14 I gave snakes there legs back
   ],
  ),
  dict(name="High-Jump Shoes", kind="Wearable",
   desc="Shoes to jump 200% higher.",
   videos=[
    "OXJAXlw2LcI",  # 2023-03-02 Making shoes to jump 200% higher
+   "GCr2Do5rZcA",  # 2025-09-15 building Super Jump Boots
   ],
  ),
  dict(name="Arm-Wrestling Exoskeleton", kind="Wearable",
   desc="An exoskeleton to take on a pro arm wrestler.",
   videos=[
    "-1bw73GtZmE",  # 2023-06-30 I built an Exoskeleton to challenge Pro Arm Wrestlers
+   "vpfyxOm4nSE",  # 2026-02-20 Exoskeleton Arm vs Pro Arm Wrestlers!
   ],
  ),
  dict(name="Year-3000 Mosquito Killer", kind="Gadget",
   desc="Killing mosquitoes like it's the year 3000.",
   videos=[
    "JvWHizqNjoM",  # 2023-09-02 killing mosquitoes like its the year 3000
+   "N0VFuy-OC4o",  # 2025-11-17 killing mosquitoes like its the year 3000
   ],
  ),
  dict(name="Bee Gun", kind="Gadget",
@@ -324,6 +327,7 @@ INVENTIONS = [
   desc="Mowing a lawn like it's the year 3000.",
   videos=[
    "a0H0vOWUjbY",  # 2024-09-03 mowing a Lawn like it's the year 3000
+   "CWXsV0BRM8A",  # 2025-10-20 building Laser Grid Lawnmower
   ],
  ),
  dict(name="Non-Lethal Weapons", kind="Gadget",
@@ -336,12 +340,14 @@ INVENTIONS = [
   desc="A skateboard that does pro tricks for you, with Bam Margera.",
   videos=[
    "MJxz-540WL0",  # 2025-07-24 This skateboard does Pro-Tricks for you (w Bam Margera!)
+   "4Ov9u61BUzE",  # 2025-07-29 This skateboard does Pro Tricks for you!
   ],
  ),
  dict(name="Year-3000 Shaver", kind="Gadget",
   desc="Shaving like it's the year 3000.",
   videos=[
    "vH-WDsoRPI8",  # 2025-11-10 Shaving my face like its the Year 3000
+   "ABBDXD6uEZk",  # 2025-12-07 Shaving with a Laser Razor blade
   ],
  ),
  dict(name="AI Slop in Real Life", kind="Machine",
@@ -354,12 +360,106 @@ INVENTIONS = [
   desc="Giving chickens their tails back.",
   videos=[
    "DfsPNZlRA_Y",  # 2026-05-23 giving chickens there tails back.
+   "4OQVXql_-Y4",  # 2026-07-27 turning chickens back into dinosaurs
   ],
  ),
  dict(name="Exploding Punch Glove", kind="Wearable",
   desc="A glove that explodes whatever it punches.",
   videos=[
+   "UFB_8uU8KKQ",  # 2026-10-08 One Punch Gauntlet Teaser
    "pFvK1-SQP9Q",  # 2026-10-16 I built a glove that Explodes whatever it Punches
+  ],
+ ),
+ dict(name="Anger Expression Device", kind="Gadget",
+  desc="A device to express how angry he is.",
+  videos=[
+   "GcyWBv53gX4",  # 2023-03-22 I made a device to express how angry I am
+  ],
+ ),
+ dict(name="Throwable Smokescreen", kind="Gadget",
+  desc="A fun DIY throwable smokescreen.",
+  videos=[
+   "KW5JyG6WUSs",  # 2023-03-28 Fun DIY throwable smokescreen!
+  ],
+ ),
+ dict(name="10,000V Chidori Glove", kind="Wearable",
+  desc="A 10,000 V Chidori glove.",
+  videos=[
+   "9xwFV92odys",  # 2024-11-18 I made a 10,000V Chidori glove
+  ],
+ ),
+ dict(name="American Style Chopsticks", kind="Gadget",
+  desc="American-style chopsticks.",
+  videos=[
+   "DFHLBvtF2IQ",  # 2025-02-14 American Style Chopsticks
+  ],
+ ),
+ dict(name="Electric Samurai Sword", kind="Prop",
+  desc="A samurai sword that shoots lightning.",
+  videos=[
+   "lxkJcAtI3bU",  # 2025-08-07 shooting lightning with electric samurai sword
+   "ZQuGUA7IOR0",  # 2025-08-31 lightning with performance anxiety
+  ],
+ ),
+ dict(name="Super Flicking Finger Exoskeleton", kind="Wearable",
+  desc="A super flicking finger exoskeleton.",
+  videos=[
+   "JqcuqQtMcDo",  # 2025-08-19 Super Flicking Finger Exoskeleton
+  ],
+ ),
+ dict(name="Taser Shorts", kind="Wearable",
+  desc="Taser shorts.",
+  videos=[
+   "_2-RM31BNUc",  # 2025-09-01 taser shorts for ahh grabbers
+  ],
+ ),
+ dict(name="Real Life Chainsaw Man", kind="Costume",
+  desc="Real-life Chainsaw Man.",
+  videos=[
+   "NxBCkZz17dI",  # 2025-09-25 testing Real Life Chainsaw Man
+  ],
+ ),
+ dict(name="Horse Mobility Scooter", kind="Vehicle",
+  desc="A horse mobility scooter.",
+  videos=[
+   "JKBMCvLut5U",  # 2025-12-09 Horse Mobility Scooter
+  ],
+ ),
+ dict(name="Beer Mug Heels", kind="Wearable",
+  desc="Beer mug heels.",
+  videos=[
+   "pAQpTu4cZKk",  # 2025-12-13 Beer Mug Heels
+  ],
+ ),
+ dict(name="Aquarium Toilet", kind="Object",
+  desc="An aquarium toilet.",
+  videos=[
+   "XWjykP_9mkw",  # 2025-12-26 using an Aquarium Toilet
+  ],
+ ),
+ dict(name="Backpack Gaming PC", kind="Computer",
+  desc="A PC strapped on his back to game outside.",
+  videos=[
+   "1-CxYKRLnDU",  # 2026-03-29 strapping a PC on my back to game outside
+  ],
+ ),
+ dict(name="3D Printed WW2 Weapon", kind="Weapon",
+  desc="A 3D-printed WW2 war crime, tested.",
+  videos=[
+   "7C9aU3ZllIA",  # 2026-04-19 3D printing a war crime from WW2
+   "TS9maiis-4k",  # 2026-04-30 testing an 80 year old Warcrime
+  ],
+ ),
+ dict(name="Weaponised Shopping Cart", kind="Vehicle",
+  desc="A weaponised shopping cart.",
+  videos=[
+   "Ad49_W-0tPs",  # 2026-07-10 weaponized shopping cart
+  ],
+ ),
+ dict(name="Water Stun Gun", kind="Weapon",
+  desc="A water stun gun.",
+  videos=[
+   "A6-aDlzqCsw",  # 2026-07-13 water stun gun
   ],
  ),
 ]

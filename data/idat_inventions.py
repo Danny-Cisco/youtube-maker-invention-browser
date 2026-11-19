@@ -1,9 +1,6 @@
-"""Curated inventions for I Did A Thing (@ididathing, Australia).
-kind: Weapon | Gadget | Machine | Animal | Experiment
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of I Did A Thing. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'i-did-a-thing', 'name': 'I Did A Thing', 'person': 'I Did A Thing', 'tagline': "An Australian making the world's most powerful hammer, giant Beyblades and terrible ideas.", 'other_label': 'Other uploads: experiments, animals, Shorts and odds and ends'}
 
@@ -104,6 +101,7 @@ INVENTIONS = [
   videos=[
    "ZEYbF7XCzAs",  # 2019-07-14 Should Police Use "Man Catchers"?
    "ApbsDH2eWng",  # 2023-06-26 Should police start using Man Catchers?
+   "ai3puX7fIMI",  # 2023-06-26 Making a Man Catcher Spear
   ],
  ),
  dict(name="Milk Bottle Knife", kind="Weapon",
@@ -339,6 +337,102 @@ INVENTIONS = [
   desc="A bizarre invention that blows up clouds.",
   videos=[
    "w3bVfeleYaA",  # 2026-11-08 I made a bizzare invention that blows up clouds
+  ],
+ ),
+ dict(name="Leg Exoskeleton", kind="Wearable",
+  desc="An exoskeleton for his leg.",
+  videos=[
+   "i5XNBYa7U0Y",  # 2023-02-24 I made an exoskeleton for my leg
+  ],
+ ),
+ dict(name="Axe Leg Kicker", kind="Weapon",
+  desc="An axe leg kicker.",
+  videos=[
+   "FhDP97vfJPo",  # 2023-03-11 Making an Axe Leg Kicker
+  ],
+ ),
+ dict(name="Can Throwing Stars", kind="Weapon",
+  desc="Throwing stars made from metal cans.",
+  videos=[
+   "809rN1f8gLU",  # 2023-04-11 Making throwing stars out of metal cans
+  ],
+ ),
+ dict(name="Pressure Washer Gun", kind="Weapon",
+  desc="A pressure washer gun.",
+  videos=[
+   "mGfBe8ZdLws",  # 2023-05-04 My pressure washer is a gun
+  ],
+ ),
+ dict(name="Hidden Motorbike Chain Axe", kind="Weapon",
+  desc="A hidden motorbike chain axe.",
+  videos=[
+   "EGvxJ5qWYH0",  # 2023-06-08 Hidden motorbike chain Axe
+  ],
+ ),
+ dict(name="Car Thief Trap", kind="Gadget",
+  desc="A trap for car thieves.",
+  videos=[
+   "LLXvCrIH1sY",  # 2023-06-20 Making a trap for car thief
+  ],
+ ),
+ dict(name="Circular Saw Throwing Device", kind="Weapon",
+  desc="A circular saw throwing device.",
+  videos=[
+   "jx-frsSYFsw",  # 2023-07-03 Circular Saw Throwing Device
+  ],
+ ),
+ dict(name="Plasma Hacksaw", kind="Tool",
+  desc="A plasma hacksaw.",
+  videos=[
+   "op7bt_vLsGM",  # 2023-07-11 Making a Plasma Hacksaw
+  ],
+ ),
+ dict(name="Spring Axe", kind="Weapon",
+  desc="A spring axe.",
+  videos=[
+   "zj1Yk-EZrSE",  # 2023-08-19 I made a spring axe
+  ],
+ ),
+ dict(name="Giant Nail Clippers", kind="Tool",
+  desc="Giant nail clippers.",
+  videos=[
+   "AcAsft7r5n0",  # 2023-08-26 My giant nail clippers can cut off fingers
+  ],
+ ),
+ dict(name="Pizza Axe", kind="Tool",
+  desc="A pizza axe.",
+  videos=[
+   "wmLmhyPDsNo",  # 2023-09-15 Pizza axe
+  ],
+ ),
+ dict(name="Weighing Toilet Seat", kind="Gadget",
+  desc="A toilet seat that weighs your...",
+  videos=[
+   "kJmGVRfF1u8",  # 2023-09-28 I made a toilet seat that weighs your......
+  ],
+ ),
+ dict(name="Chinese Sausage Trap", kind="Gadget",
+  desc="A Chinese sausage trap.",
+  videos=[
+   "0sfxuw5PKVI",  # 2024-12-10 chinese sausage trap
+  ],
+ ),
+ dict(name="Handheld Vortex Cannon", kind="Gadget",
+  desc="A handheld vortex cannon.",
+  videos=[
+   "80w3UsJKv3Y",  # 2025-02-18 Handheld vortex cannon
+  ],
+ ),
+ dict(name="Tooth Wrench", kind="Tool",
+  desc="A tooth wrench.",
+  videos=[
+   "9FTzaNNwfOo",  # 2025-07-02 tooth wrench
+  ],
+ ),
+ dict(name="Very Powerful Nerf", kind="Weapon",
+  desc="A very powerful Nerf blaster.",
+  videos=[
+   "wxErZj7KCeA",  # 2025-12-12 Very Powerful Nerf
   ],
  ),
 ]

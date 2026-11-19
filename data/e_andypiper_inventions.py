@@ -1,68 +1,59 @@
-"""Curated inventions for Andy Piper (@andypiper).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Andy Piper. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'andy-piper', 'name': 'Andy Piper', 'person': 'Andy Piper', 'tagline': 'Pen plotters and maker experiments.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Matter Box mark 2", kind="Build",
+ dict(name="Matter Box Mark 2", kind="Tool",
   desc="Matter Box mark 2.",
   videos=[
    "ajJvhMyHuLo",  # 2008-12-18 Matter Box mark 2
   ],
  ),
- dict(name="Making a MOO Mosaic Frame", kind="Build",
-  desc="A short video showing how to put together a MOO Mosaic Frame for your minicards",
+ dict(name="MOO Mosaic Frame", kind="Object",
+  desc="A frame for a mosaic of MOO cards.",
   videos=[
    "6V1CXZZG7Tg",  # 2008-12-23 Making a MOO Mosaic Frame
   ],
  ),
- dict(name="IPhone 4 TomTom kit fix", kind="Build",
-  desc="A quick, very cheap, easy-to-undo and safe way of making the iPhone 4 work with the TomTom car kit / mount from the 3G/3GS.",
+ dict(name="Current Cost iPhone Web App", kind="Software",
+  desc="An iPhone web app for the Current Cost energy monitor.",
   videos=[
-   "t_KA7INIP68",  # 2010-06-25 iPhone 4 TomTom kit fix
+   "LxL0zJk7Y-U",  # 2008-12-11 Current Cost iPhone webapp demo
   ],
  ),
- dict(name="WLED Owl Lamp", kind="Build",
-  desc="I modified an LED lamp to run on Wi-Fi using WLED ESP8266 software and some WS2812B multicolour LEDs.",
+ dict(name="Blinkenlights", kind="Light",
+  desc="Blinkenlights on a Nanode, then BlinkenPi.",
+  videos=[
+   "edgeoyE4wIo",  # 2011-08-29 Blinkenlights on Nanode 0340
+   "_-ncDclqQUg",  # 2012-05-21 BlinkenPi
+  ],
+ ),
+ dict(name="WLED Owl Lamp", kind="Light",
+  desc="A WLED owl lamp.",
   videos=[
    "XRqd7Y83uGQ",  # 2021-02-15 WLED Owl Lamp
   ],
  ),
- dict(name="ESP32-C3 NeoPixel board", kind="Build",
-  desc="This is a short clip of the ESP32-C3FH4 RGB board running an out-of-the-box demo it arrived with.",
+ dict(name="ESP32-C3 RGB Gadgets", kind="Gadget",
+  desc="A Wordle device, CheerDot and a single-digit clock on a 5x5 ESP32-C3 RGB board.",
   videos=[
    "SQO4Dn0vE3k",  # 2022-02-03 ESP32-C3 NeoPixel board  - 01Space
-  ],
- ),
- dict(name="CheerDot", kind="Build",
-  desc="Showing the ESP32-C3FH4 RGB board running MicroPython, using MQTT and Cheerlights to update the LEDs.",
-  videos=[
-   "AoxiDqkFxXI",  # 2022-02-13 CheerDot (MicroPython with ESP32-C3 RGB board and Cheerlights)
-  ],
- ),
- dict(name="A Wordle Device", kind="Build",
-  desc="A Wordle Device - ESP32-C3FH4-RGB.",
-  videos=[
    "2UfY--8PEmA",  # 2022-02-13 A Wordle Device - ESP32-C3FH4-RGB
-  ],
- ),
- dict(name="TinyGo simple NeoPixel test on ESP32-C3FH4-RGB", kind="Build",
-  desc="A small demo TinyGo sketch running on the ESP32-C3FH4-RGB development board",
-  videos=[
+   "AoxiDqkFxXI",  # 2022-02-13 CheerDot (MicroPython with ESP32-C3 RGB board and Cheerlights)
    "6fdQINVSJFc",  # 2022-02-18 TinyGo simple NeoPixel test on ESP32-C3FH4-RGB
+   "eF4v-Na2XIM",  # 2022-02-22 5x5 single digit clock - ESP32-C3FH4-RGB board
   ],
  ),
- dict(name="Jolly Module installed in Arduino UNO", kind="Build",
-  desc="The Jolly Module for Arduino UNO - a wireless brain for the classic Arduino board.",
+ dict(name="EMF Camp Duck Facts App", kind="Software",
+  desc="A Duck Facts app for the EMF Camp 2022 badge.",
   videos=[
-   "_GCp32RFADg",  # 2022-08-10 Jolly Module installed in Arduino UNO
+   "23VTqxYQ9Yo",  # 2022-06-06 A Duck Facts app for the EMF Camp 2022 badge
   ],
  ),
- dict(name="IKEA Hacking - IVAR/SKADIS Hook 3D print", kind="Build",
-  desc="Printing a set of hooks to mount IKEA SKADIS to the side of IKEA IVAR shelving, using a FlashForge Adventurer 3",
+ dict(name="IKEA IVAR/SKADIS Hook", kind="Part",
+  desc="A 3D-printed hook for IKEA IVAR and SKADIS.",
   videos=[
    "Dfeto6Zj7V8",  # 2023-01-04 IKEA Hacking - IVAR/SKADIS Hook 3D print
   ],

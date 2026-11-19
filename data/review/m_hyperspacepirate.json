@@ -1,0 +1,336 @@
+{
+"channel": "Hyperspace Pirate",
+"videos": 110,
+"labels": {
+"6zdD5Rkx8OE": "invention",
+"GJcQfJ6JTZg": "invention",
+"HY-rKw4qngk": "invention",
+"0PiGNDu3Oqs": "invention",
+"2j90m6k2vCo": "invention",
+"Nm9DAqkCOKU": "invention",
+"qfmv-rHK_RU": "invention",
+"OIw1JiMGHlw": "invention",
+"uNbL3tRZeMQ": "invention",
+"Wedh-vp-pWI": "invention",
+"UUI0k7w_09g": "invention",
+"npypgEVxdRU": "invention",
+"KefetoLcZgE": "invention",
+"G9mudqJ46xM": "invention",
+"SmjKbNoK6nU": "invention",
+"GUOHjON9RVg": "invention",
+"D9IGjKJaO6w": "invention",
+"on3sQQa88dE": "invention",
+"adTKHcrOzMU": "invention",
+"cRY7HEzoOwk": "invention",
+"mcD3uBld4Y4": "invention",
+"v7t6dXT-Ffs": "invention",
+"CdUaW9StZwg": "invention",
+"U_dhVrOCprA": "invention",
+"ncHoBamK9jA": "invention",
+"iXu-ForqR-M": "invention",
+"T66Ig4iOcig": "invention",
+"USiW2xFOSFg": "invention",
+"1EabqJJnWhc": "invention",
+"X31B1pVow1o": "invention",
+"F8l9Z1HGYcU": "invention",
+"CLS8pbDNHbk": "invention",
+"QHonF5h8tqo": "invention",
+"eOT_G-1ogn4": "invention",
+"XdVXrno-3B4": "invention",
+"1QK6zRQ8D4A": "invention",
+"R29G3hUiZnU": "invention",
+"SwzpX-jgbYM": "invention",
+"Yg5swK_AnbU": "invention",
+"RMUHxo2TOUk": "invention",
+"shNaC7d4CMA": "invention",
+"SdJwY4Huukc": "invention",
+"AvyeK_MXTL0": "invention",
+"IRRF1FadkFw": "invention",
+"E3UMGEl0iVs": "invention",
+"ooPlDbRXzAc": "invention",
+"oiZdNfu083o": "invention",
+"c28rrrnbLow": "invention",
+"18b0OhrSmeI": "invention",
+"xImmwL5MR0o": "invention",
+"u7k2wiY4Flo": "invention",
+"GjRoThMyNGA": "invention",
+"WOmjJFk8rl0": "invention",
+"cy8aGMH8Tz4": "invention",
+"vC2it8LHKSQ": "invention",
+"2LwwqrbKzQ8": "invention",
+"q_dVvGQ72YY": "invention",
+"uxmJ5qT2Gaw": "invention",
+"7QZrHzd3RA8": "invention",
+"T76UDLPv04Y": "invention",
+"JSjlcPMi2yA": "invention",
+"oI_QEbG6mDE": "invention",
+"9MdJLTgTCSU": "invention",
+"tXeFSk1ndWA": "invention",
+"r_B0RmRlFHA": "invention",
+"7uQ3YW3_3eA": "invention",
+"4rjwx5q2fVI": "invention",
+"eqxwsfy72L0": "invention",
+"-qWQaX8_EDY": "invention",
+"oIWgzVaGn4Y": "invention",
+"udIEGE5mfcA": "invention",
+"f6mLykQjxZ0": "invention",
+"zRrgvYJ8gAY": "invention",
+"XORhc8S5psg": "invention",
+"OpyLmIjZaxY": "invention",
+"54Htg4I_ZBA": "invention",
+"15ga4KMSWqU": "invention",
+"AZqjMaiJZMQ": "invention",
+"agwKNLoU6g8": "invention",
+"4NRkFqeO27Y": "invention",
+"Ht9JzOryaKc": "invention",
+"CLX_pQbSFFg": "invention",
+"_nKihWAYrEM": "invention",
+"7IkyVFxDQQw": "invention",
+"WW6ty2aeZ-k": "invention",
+"2hSkXNEV-GU": "invention",
+"qv0IJM3BV9Y": "invention",
+"mCLPCMgDScI": "invention",
+"HSvguJ7u3VM": "invention",
+"Jj7Q7OqaW4A": "invention",
+"4lNIHBHzbn8": "invention",
+"9-Bq0iL6F8w": "invention",
+"UXNcivV8JNw": "invention",
+"jRKbjT8AoJw": "invention",
+"7M5x2OFYP-k": "tutorial",
+"2Vb82SZE3JA": "other",
+"UKFEbYdKdJg": "other",
+"U5eoK2vEHDQ": "other",
+"iuVJOcsRKKg": "other",
+"JN_7KgdB1V8": "other",
+"C3LCjp_REYA": "other",
+"AiHksObCLuU": "other",
+"kwz8VNnRLqk": "other",
+"HZYWpZYuRKc": "other",
+"Fh3kbC1otMM": "other",
+"2Btk_MktgR8": "other",
+"5sWDrweG-as": "other",
+"RvfuDIWNzGc": "other",
+"pIGd8ZqkmzE": "other",
+"5CVnrzNm310": "other"
+},
+"inventions": {
+"Automatic Coil Winding Machine": [
+"6zdD5Rkx8OE",
+"GJcQfJ6JTZg"
+],
+"6 kV Power Supply": [
+"HY-rKw4qngk"
+],
+"Hand-Cranked Generators": [
+"0PiGNDu3Oqs",
+"2j90m6k2vCo"
+],
+"3-Axis Magnetometer": [
+"Nm9DAqkCOKU"
+],
+"Electromagnetic Ring Accelerator": [
+"qfmv-rHK_RU",
+"OIw1JiMGHlw",
+"uNbL3tRZeMQ"
+],
+"150V Mini Mortar": [
+"Wedh-vp-pWI"
+],
+"High Voltage Induction Launcher": [
+"UUI0k7w_09g"
+],
+"30W Bipolar Tesla Coil": [
+"npypgEVxdRU"
+],
+"30 kV Plasma Tube": [
+"KefetoLcZgE"
+],
+"Mini Induction Heater": [
+"G9mudqJ46xM"
+],
+"120 kV Multiplier": [
+"SmjKbNoK6nU"
+],
+"Homemade Submarine": [
+"GUOHjON9RVg"
+],
+"Wireless Power Transmission": [
+"D9IGjKJaO6w",
+"on3sQQa88dE",
+"adTKHcrOzMU"
+],
+"Mechanical Inverter": [
+"cRY7HEzoOwk"
+],
+"1 MHz AM Transmitter": [
+"mcD3uBld4Y4"
+],
+"3D Printed Waterwheel Generator": [
+"v7t6dXT-Ffs"
+],
+"Solid State Tesla Coil": [
+"CdUaW9StZwg",
+"U_dhVrOCprA",
+"ncHoBamK9jA",
+"iXu-ForqR-M"
+],
+"RC Electric Lawnmower": [
+"T66Ig4iOcig"
+],
+"320 kV Marx Generator": [
+"USiW2xFOSFg"
+],
+"Ignition Coil Drivers": [
+"1EabqJJnWhc"
+],
+"152-Transistor 8-Bit Adder": [
+"X31B1pVow1o"
+],
+"Brushless DC Speed Controller": [
+"F8l9Z1HGYcU"
+],
+"Electricity Harvester": [
+"CLS8pbDNHbk"
+],
+"Christmas Tree Maglev Train": [
+"QHonF5h8tqo"
+],
+"Large Magnetic Levitator": [
+"eOT_G-1ogn4"
+],
+"Tightrope-Walking Gyroscope": [
+"XdVXrno-3B4"
+],
+"Stepper Motor Supercap Generator": [
+"1QK6zRQ8D4A"
+],
+"$100 CNC Mill": [
+"R29G3hUiZnU",
+"SwzpX-jgbYM"
+],
+"3D Printed Compressed Air Turbine": [
+"Yg5swK_AnbU",
+"RMUHxo2TOUk"
+],
+"Submarine Kayak": [
+"shNaC7d4CMA"
+],
+"RC Airboat with Water Cannon": [
+"SdJwY4Huukc"
+],
+"Magnetic Remote Control": [
+"AvyeK_MXTL0"
+],
+"Inductor Tester": [
+"IRRF1FadkFw"
+],
+"Lightning Generators": [
+"E3UMGEl0iVs",
+"ooPlDbRXzAc",
+"oiZdNfu083o",
+"c28rrrnbLow",
+"18b0OhrSmeI"
+],
+"Tabletop Tesla Coil": [
+"xImmwL5MR0o"
+],
+"Electro-Mechanical Resonant Oscillator": [
+"u7k2wiY4Flo"
+],
+"Pulse Tube Cryocooler": [
+"GjRoThMyNGA",
+"WOmjJFk8rl0",
+"cy8aGMH8Tz4",
+"vC2it8LHKSQ",
+"2LwwqrbKzQ8"
+],
+"Dry Ice Machines": [
+"q_dVvGQ72YY",
+"uxmJ5qT2Gaw"
+],
+"DIY Vapour Compression Refrigerator": [
+"7QZrHzd3RA8"
+],
+"DIY Cascade Refrigeration": [
+"T76UDLPv04Y",
+"JSjlcPMi2yA",
+"oI_QEbG6mDE",
+"9MdJLTgTCSU",
+"tXeFSk1ndWA"
+],
+"Joule-Thomson Cryocooler": [
+"r_B0RmRlFHA",
+"7uQ3YW3_3eA",
+"4rjwx5q2fVI",
+"eqxwsfy72L0"
+],
+"Radiation Viewer": [
+"-qWQaX8_EDY"
+],
+"Automated Hydrogen Generator": [
+"oIWgzVaGn4Y"
+],
+"Battery-Powered Magnetron": [
+"udIEGE5mfcA"
+],
+"Urine Refrigerator": [
+"f6mLykQjxZ0"
+],
+"Automated Ethylene Plant": [
+"zRrgvYJ8gAY"
+],
+"3D Printed Thread Tapping Arm": [
+"XORhc8S5psg"
+],
+"Gyro-Stabilised Monorail": [
+"OpyLmIjZaxY",
+"54Htg4I_ZBA"
+],
+"DIY Micro Steam Powerplant": [
+"15ga4KMSWqU"
+],
+"Giant Ice Cube Maker": [
+"AZqjMaiJZMQ"
+],
+"4,000-Joule Exploding Wire Machine": [
+"agwKNLoU6g8"
+],
+"DIY X-ray Machine and CT Scanner": [
+"4NRkFqeO27Y",
+"Ht9JzOryaKc"
+],
+"Hand-Powered Plasma": [
+"CLX_pQbSFFg"
+],
+"1,500W HHO Generator": [
+"_nKihWAYrEM"
+],
+"DIY Oxygen Concentrator": [
+"7IkyVFxDQQw"
+],
+"5,000W RC Arc Furnace": [
+"WW6ty2aeZ-k"
+],
+"Mini Battery Air Conditioner": [
+"2hSkXNEV-GU"
+],
+"Refrigerated Vest": [
+"qv0IJM3BV9Y"
+],
+"3D Printed Dive Helmet": [
+"mCLPCMgDScI"
+],
+"Solar Ice Air Conditioning": [
+"HSvguJ7u3VM"
+],
+"Gifford-McMahon Cryocooler": [
+"Jj7Q7OqaW4A",
+"4lNIHBHzbn8",
+"9-Bq0iL6F8w"
+],
+"DIY Synthetic Fuel Plant": [
+"UXNcivV8JNw",
+"jRKbjT8AoJw"
+]
+}
+}

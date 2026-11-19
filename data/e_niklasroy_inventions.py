@@ -1,223 +1,373 @@
-"""Curated inventions for Niklas Roy (@niklasroy).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Niklas Roy. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'niklas-roy', 'name': 'Niklas Roy', 'person': 'Niklas Roy', 'tagline': 'Kinetic art and inventions: cardboard clocks, trash clocks and interactive machines.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Crazy Party Machine", kind="Build",
-  desc="You have to see this!",
+ dict(name="Gallerydrive", kind="Robot",
+  desc="Gallerydrive, presented at UdK Berlin.",
+  videos=[
+   "Zhsia_xPNwQ",  # 2007-06-27 Gallerydrive presentation setup at UdK Berlin
+  ],
+ ),
+ dict(name="International Dance Party", kind="Machine",
+  desc="A party machine with radar dance, fog latch and lifting light effects.",
+  videos=[
+   "CgUnurfizks",  # 2007-09-03 International Dance Party - The crazy nerd radar dance!
+   "E-4qPE6s-Lk",  # 2007-09-18 International Dance Party - Hardware  test & presentation
+   "q0NDNFz8paQ",  # 2007-09-18 International Dance Party - Fog latch engineering test
+   "aw4EaMAwY2s",  # 2007-09-27 International Dance PArty - Light FX lifting mechanism test
+   "2-JZV5vJzVw",  # 2008-01-05 International Dance Party
+   "xekAbQp9Mpk",  # 2010-05-15 Interactive Exhibition Walkthrough - Grafikdemo & International Dance 
+  ],
+ ),
+ dict(name="Remote Controlled Walking Ladder", kind="Robot",
+  desc="A remote-controlled walking ladder.",
+  videos=[
+   "Jbo1KuIk4mw",  # 2008-01-10 Remote Controlled Walking Ladder
+  ],
+ ),
+ dict(name="Autohonk", kind="Gadget",
+  desc="An automatically honking car tuning device.",
+  videos=[
+   "nRBFNvlZKmM",  # 2008-01-11 Autohonk - Automatically honking car tuning device
+  ],
+ ),
+ dict(name="Crazy Party Machine", kind="Machine",
+  desc="A crazy party machine.",
   videos=[
    "_GjD4XLxR6c",  # 2008-01-15 Crazy Party Machine! - Amazing Technology!
   ],
  ),
- dict(name="Laser cut phono record presentation", kind="Build",
-  desc="Burning records instead of CD's - with a laser!",
+ dict(name="Perpetual Motion Energy Production", kind="Machine",
+  desc="Perpetual motion energy production that really works.",
   videos=[
-   "amTZB0UUngs",  # 2010-08-03 Laser cut phono record presentation: "LASER" - "BACK IN"
+   "dTAJp5KyRIY",  # 2008-04-26 Perpetual motion energy production that really works!
   ],
  ),
- dict(name="\"LASER\" - \"BACK IN\" - promotional sales video", kind="Build",
-  desc="Burning records instead of CD's - with a laser!",
+ dict(name="LASER - BACK IN", kind="Audio",
+  desc="A laser-cut phonograph record album and its tracks.",
   videos=[
+   "9L0MTjIL2FY",  # 2010-08-03 "LASER" - "BACK IN" - Track 3
+   "GKVJMR6HbDk",  # 2010-08-03 "LASER" - "BACK IN" - Track 5
+   "NjVsFLRo30g",  # 2010-08-03 "LASER" - "BACK IN" - Track 4
+   "OtcBIw7peXA",  # 2010-08-03 "LASER" - "BACK IN" - Track 8
+   "Uo9ewJAGUNQ",  # 2010-08-03 "LASER" - "BACK IN" - Track 6
+   "Uw60rJWv34I",  # 2010-08-03 "LASER" - "BACK IN" - Track 2
+   "UyuTzY36mJ4",  # 2010-08-03 "LASER" - "BACK IN" - Track 1
+   "VA4CNrjIi3w",  # 2010-08-03 "LASER" - "BACK IN" - Track 7
+   "amTZB0UUngs",  # 2010-08-03 Laser cut phono record presentation: "LASER" - "BACK IN"
    "DGwHEjvMf58",  # 2010-08-05 "LASER" - "BACK IN" - promotional sales video
   ],
  ),
- dict(name="My little piece of privacy", kind="Build",
-  desc="My robotic curtain protects me from nosey looks of pedestrians passing by.",
+ dict(name="Google Neighbourhood Watch", kind="Installation",
+  desc="Google Neighbourhood Watch.",
+  videos=[
+   "89Ckmf5wk2g",  # 2010-08-20 Google Neighbourhood Watch
+  ],
+ ),
+ dict(name="My Little Piece of Privacy", kind="Installation",
+  desc="A curtain that follows passers-by in his shop window. His most-watched work.",
   videos=[
    "rKhbUjVyKIc",  # 2010-10-12 My little piece of privacy
   ],
  ),
- dict(name="Electronic Instant Camera", kind="Build",
-  desc="Electronic Instant Camera.",
+ dict(name="Dokumat", kind="Machine",
+  desc="Dokumat 500.",
+  videos=[
+   "zUK89ZcvBIw",  # 2011-01-20 Dokumat 500 films Takeshi Kitano TV team at Berlin's Alexanderplatz
+  ],
+ ),
+ dict(name="Headpong", kind="Game",
+  desc="Headpong.",
+  videos=[
+   "fRZVXlxa0dw",  # 2011-03-24 Headpong with Windows on the green meadow
+  ],
+ ),
+ dict(name="PING! Augmented Pixel", kind="Installation",
+  desc="PING, an augmented pixel projected onto the world.",
+  videos=[
+   "eeuaqSEIiTY",  # 2011-07-04 PING - augmented pixel
+   "Z4IIO6Iveo4",  # 2011-11-22 PING! on Vasarely
+   "MSUFJkqUAWc",  # 2012-05-13 Ping Pong Country / Edition Sabotage / Hotel Europa / Lille
+  ],
+ ),
+ dict(name="Electronic Instant Camera", kind="Camera",
+  desc="An electronic instant camera.",
   videos=[
    "wt5dBrXg8eY",  # 2011-07-05 Electronic Instant Camera
   ],
  ),
- dict(name="Lumenoise audiovisual synthesizer screencapture", kind="Build",
-  desc="Wondering what kind of strange stuff you've just seen above?",
+ dict(name="Low Radiation Colour Monitor", kind="Display",
+  desc="A no-video-input low radiation colour monitor.",
+  videos=[
+   "NsHxbLZYr_Y",  # 2011-07-21 ʇnduı oǝpıʌ ou (Low Radiation Color Monitor)
+  ],
+ ),
+ dict(name="100% Trash", kind="Machine",
+  desc="100% Trash.",
+  videos=[
+   "t0GB5eKK1Yk",  # 2011-07-21 100% Trash
+  ],
+ ),
+ dict(name="Wasserklang Modulsystem", kind="Instrument",
+  desc="A modular water sound system.",
+  videos=[
+   "nsVSp7ovbJg",  # 2011-08-24 Wasserklang Modulsystem - Test Run #1
+  ],
+ ),
+ dict(name="Lumenoise", kind="Instrument",
+  desc="An audiovisual synthesizer.",
   videos=[
    "lfrOrR6T9FM",  # 2011-10-27 Lumenoise audiovisual synthesizer screencapture
   ],
  ),
- dict(name="Hammer Synthesizer", kind="Build",
-  desc="Hammer Synthesizer.",
+ dict(name="CNC Plasma Cutter", kind="Tool",
+  desc="A CNC plasma cutter.",
+  videos=[
+   "_OBeKhdZX2o",  # 2012-07-14 CNC Plasma cutter in action
+  ],
+ ),
+ dict(name="Umbrellaphone", kind="Instrument",
+  desc="Umbrellaphone and Umbrellabubble.",
+  videos=[
+   "oE0z-0aLDEs",  # 2012-08-25 Umbrellaphone / Umbrellabubble - Berlin rooftop test
+   "JNkvxi2Ewv8",  # 2012-12-19 Umbrellaphone Workshop São Paulo
+  ],
+ ),
+ dict(name="Hammer Synthesizer", kind="Instrument",
+  desc="A hammer synthesizer.",
   videos=[
    "Qw1q1y-Q9fE",  # 2012-09-06 Hammer Synthesizer
   ],
  ),
- dict(name="Perpetual Energy Wasting Machine", kind="Build",
-  desc="The \"Perpetual Energy Wasting Machine\" is a rope and pulley mechanism which moves an elevator continuously between the 1st and 2nd floor of a building.",
+ dict(name="Perpetual Energy Wasting Machine", kind="Machine",
+  desc="A perpetual energy wasting machine.",
   videos=[
    "VARUtWxDg_g",  # 2012-10-18 Perpetual Energy Wasting Machine
   ],
  ),
- dict(name="Roboter Reiniger", kind="Build",
-  desc="Roboter Reiniger - Handy little household robot sweeps Brasília.",
+ dict(name="Roboter Reiniger", kind="Robot",
+  desc="A little household robot that sweeps Brasília.",
   videos=[
    "U8539DxdmwI",  # 2012-11-25 Roboter Reiniger - Handy little household robot sweeps Brasília
   ],
  ),
- dict(name="Umbrellaphone Workshop São Paulo", kind="Build",
-  desc="Umbrellaphone Workshop São Paulo.",
-  videos=[
-   "JNkvxi2Ewv8",  # 2012-12-19 Umbrellaphone Workshop São Paulo
-  ],
- ),
- dict(name="Plotter made out of cardboard", kind="Build",
-  desc="This plotter is made entirely out of cardboard, welding rod, rubber bands, adhesive tape and super glue.",
+ dict(name="Cardboard Plotter", kind="Machine",
+  desc="A plotter made from cardboard.",
   videos=[
    "hfAFWzh2VEM",  # 2013-02-22 Plotter made out of cardboard
   ],
  ),
- dict(name="À Louer / For Rent", kind="Build",
-  desc="À LOUER / FOR RENT.",
+ dict(name="Instant Art Career", kind="Machine",
+  desc="Instant Art Career.",
+  videos=[
+   "fhL3XgkMiMk",  # 2013-06-11 Instant Art Career
+  ],
+ ),
+ dict(name="Micro Monster Modular", kind="Instrument",
+  desc="Micro Monster Modular.",
+  videos=[
+   "QHkRUuHm318",  # 2013-06-28 Micro Monster Modular // packing & unpacking video
+  ],
+ ),
+ dict(name="À Louer / For Rent", kind="Installation",
+  desc="À Louer / For Rent.",
   videos=[
    "skpS_C0HVik",  # 2013-08-06 À LOUER / FOR RENT
   ],
  ),
- dict(name="Carlotta's Robot", kind="Build",
-  desc="My niece wanted to build a robot with me this weekend.",
+ dict(name="Carlotta's Robot", kind="Robot",
+  desc="Carlotta's robot.",
   videos=[
    "lNc2_MXIee4",  # 2013-09-29 Carlotta's Robot
   ],
  ),
- dict(name="Suck The Balls", kind="Build",
-  desc="Before setting up my new installation \"Suck the Balls!\" at the Goethe Institut Kraków - my friend Günter Schulz came over to my workshop in Berlin for a testing session.",
+ dict(name="Suck The Balls!", kind="Installation",
+  desc="A pneumatic ball game installation.",
   videos=[
    "k1WxiOGSjOY",  # 2014-03-03 Suck The Balls! - Beta Test in Berlin
+   "IoiDlbFK4ag",  # 2014-03-20 Suck The Balls! - Installation at Goethe-Institut Krakau
+   "pEgWWGHSrFg",  # 2015-01-30 Suck The Balls / Level 2 - Installation at Goethe-Institut Prag
   ],
  ),
- dict(name="Pneumatic Sponge Ball Accelerator at Tschumi Pavilion / Groningen", kind="Build",
-  desc="The \"Pneumatic Sponge Ball Accelerator\" is installed at the Tschumi Pavilion in Groningen / The Netherlands.",
+ dict(name="Pneumatic Sponge Ball Accelerator", kind="Installation",
+  desc="A pneumatic sponge ball accelerator in transparent tubes.",
   videos=[
    "DH4RaF7LRG4",  # 2014-07-03 Pneumatic Sponge Ball Accelerator at Tschumi Pavilion / Groningen
-  ],
- ),
- dict(name="Inside a transparent pneumatic tube", kind="Build",
-  desc="I have sucked a little spy camera through this installation:",
-  videos=[
    "YbZGqPUiq8s",  # 2014-07-03 Inside a transparent pneumatic tube - psychedelic video footage!
   ],
  ),
- dict(name="Rapid Robots Workshop", kind="Build",
-  desc="These little Arduino controlled, RC hobby servo powered robots were built during a five day workshop of the School of Machines, Making and Make Believe at Fab Lab Berlin.",
-  videos=[
-   "NAdLcie-kP0",  # 2014-08-26 Rapid Robots Workshop
-   "Ccp2rYoNSK0",  # 2017-06-05 Robot Workshop - Polytech Festival - Moscow 2017
-  ],
- ),
- dict(name="Forbidden Fruit Machine", kind="Build",
-  desc="The Forbidden Fruit Machine is an interactive installation made by Kati Hyyppä and Niklas Roy.",
+ dict(name="Forbidden Fruit Machine", kind="Machine",
+  desc="The Forbidden Fruit Machine.",
   videos=[
    "M0FgoJD6Kgg",  # 2015-05-18 Forbidden Fruit Machine
   ],
  ),
- dict(name="Giant Pinball: \"Galactic Dimension\"", kind="Build",
-  desc="Galactic Dimension is a supersized pinball machine which I've built for the Phæno science center in Wolfsburg.",
+ dict(name="Giant Pinball: Galactic Dimension", kind="Game",
+  desc="A giant pinball machine.",
   videos=[
    "lYmd5mME2kE",  # 2015-06-01 Giant Pinball: "Galactic Dimension"
   ],
  ),
- dict(name="Pneumatic Computing / Flop or Future", kind="Build",
-  desc="Charles Carcopino and me gave a workshop in Mons (as part of the Mons2015 Culture Capital program) which lead to this exhibition.",
+ dict(name="Pneumatic Computing", kind="Computer",
+  desc="Pneumatic computing.",
   videos=[
    "8Z5p6x9aS_M",  # 2015-07-23 Pneumatic Computing / Flop or Future?
   ],
  ),
- dict(name="Remote Controlled Beer Crate", kind="Build",
-  desc="I've built a remote controlled beer crate.",
+ dict(name="PRAYDIO", kind="Radio",
+  desc="PRAYDIO.",
+  videos=[
+   "1ggPVB2Kp6I",  # 2015-12-20 PRAYDIO
+  ],
+ ),
+ dict(name="Remote Controlled Beer Crate", kind="Vehicle",
+  desc="A remote-controlled beer crate.",
   videos=[
    "fpIJRScDToI",  # 2016-06-06 Remote Controlled Beer Crate
   ],
  ),
- dict(name="Music Construction Machine", kind="Build",
-  desc="The Music Construction Machine is a large, public, generative music box, which people can operate via a big hand crank.",
+ dict(name="Music Construction Machine", kind="Instrument",
+  desc="A music construction machine.",
   videos=[
    "OEy7A0p0v8g",  # 2016-07-06 Music Construction Machine
   ],
  ),
- dict(name="DIY thermal imaging", kind="Build",
-  desc="A simple and low cost thermal imaging setup where an infrared thermometer is moved with 2 servos and the temperature is read via webcam.",
+ dict(name="DIY Thermal Imaging", kind="Camera",
+  desc="DIY thermal imaging.",
   videos=[
    "q49p4jXGQuA",  # 2017-01-15 DIY thermal imaging
   ],
  ),
- dict(name="Rocket Science", kind="Build",
-  desc="The Rocket Science Workshop was part of Junior Lab's Summer Program at Werkraum Schöpflin, Lörrach, 2017.",
-  videos=[
-   "nMSa0eIw9eQ",  # 2017-08-07 Rocket Science - Water Rocket Workshop
-  ],
- ),
- dict(name="How to build a Windmill-powered Music Box", kind="Build",
-  desc="How to build a Windmill-powered Music Box.",
+ dict(name="Windmill-Powered Music Box", kind="Instrument",
+  desc="A windmill-powered music box, and twenty of them playing Für Elise.",
   videos=[
    "2z_MW1CMjhc",  # 2017-10-19 How to build a Windmill-powered Music Box
    "e5Hm3Qs7Wbw",  # 2017-11-14 20 Windmill-powered Music Boxes playing "Für Elise"
   ],
  ),
- dict(name="Bubble Blast", kind="Build",
+ dict(name="Bubble Blast", kind="Machine",
   desc="Bubble Blast.",
   videos=[
    "FWuRym03L4o",  # 2018-03-15 Bubble Blast
   ],
  ),
- dict(name="Wasserorgel von Winnenden", kind="Build",
-  desc="The \"Wasserorgel von Winnenden\" is a musical fountain, powered by eight pressure washers and controlled by an electronic keyboard.",
+ dict(name="J'ai faim!", kind="Game",
+  desc="A mechatronic game with Kati Hyyppä.",
+  videos=[
+   "KKAWjVZ9pTI",  # 2018-08-05 "J'ai faim!" - A Mechatronic game by Kati Hyyppä & Niklas Roy
+  ],
+ ),
+ dict(name="Wasserorgel von Winnenden", kind="Instrument",
+  desc="A pressure-washer-powered musical fountain.",
   videos=[
    "Erm-MfetKx8",  # 2018-11-06 Wasserorgel von Winnenden - Pressure washer powered musical fountain
   ],
  ),
- dict(name="Please Leave A Message", kind="Build",
-  desc="Please Leave A Message [shop window plotter].",
+ dict(name="Please Leave A Message", kind="Machine",
+  desc="A shop window plotter.",
   videos=[
    "kLdgUGQdG5c",  # 2020-05-08 Please Leave A Message [shop window plotter]
   ],
  ),
- dict(name="The Spooky Machine", kind="Build",
-  desc="How do you celebrate Halloween during a pandemic, where everyone is (or should be) into social distancing?",
+ dict(name="The Spooky Machine", kind="Machine",
+  desc="The Spooky Machine.",
   videos=[
    "AJrBJaMKH8E",  # 2020-11-02 The Spooky Machine
   ],
  ),
- dict(name="Spray Can Plotter Animation", kind="Build",
-  desc="Animation test with Graffomat / Spray can CNC plotter",
+ dict(name="Smart Fairy Tale", kind="Installation",
+  desc="Smart Fairy Tale.",
   videos=[
-   "AOwUW_8Lk2o",  # 2021-06-30 Spray Can Plotter Animation
+   "Q8ShWP1Borc",  # 2020-11-24 Smart Fairy Tale
   ],
  ),
- dict(name="GRAFFOMAT / spray can plotter", kind="Build",
-  desc="This video is available for download in high quality on archive.org:",
+ dict(name="Yukikaki Research Station", kind="Installation",
+  desc="Yukikaki Research Station.",
   videos=[
+   "E0Md2HoNs2A",  # 2020-12-19 Yukikaki Research Station
+  ],
+ ),
+ dict(name="GRAFFOMAT Spray Can Plotter", kind="Machine",
+  desc="GRAFFOMAT, a spray can plotter.",
+  videos=[
+   "AOwUW_8Lk2o",  # 2021-06-30 Spray Can Plotter Animation
    "Pz5CftU_bJw",  # 2021-09-29 GRAFFOMAT / spray can plotter
   ],
  ),
- dict(name="Deflektron", kind="Build",
-  desc="Deflektron is an art installation to explore the magnetic properties of electrons.",
+ dict(name="Cyborg Control", kind="Installation",
+  desc="An interactive shop window installation.",
+  videos=[
+   "TCZTyzKMxyQ",  # 2021-07-08 CYBORG CONTROL - interactive shop window installation
+  ],
+ ),
+ dict(name="VEKTORKOLLEKTOR", kind="Installation",
+  desc="VEKTORKOLLEKTOR.",
+  videos=[
+   "Q7E5uY5ntic",  # 2021-09-09 VEKTORKOLLEKTOR
+  ],
+ ),
+ dict(name="POLYSKOP", kind="Installation",
+  desc="A permanent art installation.",
+  videos=[
+   "Yp1HC9EioiA",  # 2021-10-17 POLYSKOP / Permanent art installation at Campus Efeuweg Berlin Neuköll
+  ],
+ ),
+ dict(name="Bonprix Competitive Shopping", kind="Game",
+  desc="A competitive shopping experience.",
+  videos=[
+   "c2M7-jrn_cI",  # 2022-05-15 🛒 BONPRIX 🛒 competitive shopping experience
+  ],
+ ),
+ dict(name="Operation KiBa", kind="Installation",
+  desc="Operation KiBa.",
+  videos=[
+   "E1pFXp51QnY",  # 2022-09-11 Operation KiBa
+  ],
+ ),
+ dict(name="DEFLEKTRON", kind="Display",
+  desc="DEFLEKTRON.",
   videos=[
    "tEEn_pnoEso",  # 2023-01-05 DEFLEKTRON
   ],
  ),
- dict(name="MASCHINENMOSAIK collaborative mural at Anton-Saefkow-Platz in Berlin", kind="Build",
-  desc="Maschinenmosaik is a collaborative mural, created for Anton-Saefkow-Platz in Berlin.",
+ dict(name="Visitors Magnet", kind="Installation",
+  desc="Visitors Magnet.",
+  videos=[
+   "7U36VbyGnXQ",  # 2023-01-10 🧲 VISITORS MAGNET 🧲
+  ],
+ ),
+ dict(name="Maschinenmosaik", kind="Installation",
+  desc="A collaborative mural machine.",
   videos=[
    "Kn8RmhUHG6s",  # 2023-10-25 🕹️ MASCHINENMOSAIK 🕹️ collaborative mural at Anton-Saefkow-Platz in Be
   ],
  ),
- dict(name="Generative Art Vending Machine", kind="Build",
-  desc="Drop a coin and receive a unique artwork generated using UNIX Epoch time as the seed value.",
+ dict(name="Generative Art Vending Machine", kind="Machine",
+  desc="A generative art vending machine.",
   videos=[
    "g9BWODjYZBY",  # 2025-03-01 Generative Art Vending Machine
   ],
  ),
- dict(name="Glashütte Trash Clock", kind="Build",
-  desc="While working on this clock, I also invented a new time scale: GTC.",
+ dict(name="Schulgong", kind="Installation",
+  desc="Schulgong.",
+  videos=[
+   "XB3CaJLfQpg",  # 2026-02-07 SCHULGONG / Work in Progress
+  ],
+ ),
+ dict(name="Glashütte Trash Clock", kind="Clock",
+  desc="A clock made of trash.",
   videos=[
    "EN-E8uA0V6o",  # 2026-09-20 📎Glashütte Trash Clock
    "wudzJGC7Zcw",  # 2026-09-21 📎Glashütte Trash Clock
+  ],
+ ),
+ dict(name="Carton Clock", kind="Clock",
+  desc="A carton clock.",
+  videos=[
+   "A00jNyzK5No",  # 2026-11-13 Carton Clock
   ],
  ),
 ]

@@ -1,0 +1,386 @@
+{
+"channel": "Allen Pan",
+"videos": 128,
+"labels": {
+"rGHK6yeuU5w": "invention",
+"Jviu_SlW9FI": "invention",
+"0_8Xhzt5YQI": "invention",
+"v1JUXTEe8oI": "invention",
+"WVzlHa5CQnA": "invention",
+"FHqPXcYTv3c": "invention",
+"VZBVn6d_wx8": "invention",
+"uqa9CJcrAqA": "invention",
+"YWPn8kOHNwY": "invention",
+"XPA0ss2_IV0": "invention",
+"u-xHso660tA": "invention",
+"83h7c4Ghsm4": "invention",
+"6FdJ29qBRIs": "invention",
+"bD41lfjcRuo": "invention",
+"RGQEwYsNdI4": "invention",
+"zgzqMTUEoGM": "invention",
+"S7ju8iKex9o": "invention",
+"ecWYRtZFR7E": "invention",
+"qehzq_zE7Pk": "invention",
+"ysFt7n9bmWo": "invention",
+"GQLUWHz47ZA": "invention",
+"1S7FO2Qd6Zc": "invention",
+"vJcdilAzAqc": "invention",
+"VW31E5kcL08": "invention",
+"CfiotQuxujE": "invention",
+"SQApEHUKK2g": "invention",
+"grMccSiQFR8": "invention",
+"rY6IWNkGjA0": "invention",
+"91rUSQpw5xI": "invention",
+"glZnkpIDWSE": "invention",
+"1RzXoieos5Y": "invention",
+"2JZQk_LuXuc": "invention",
+"zgBZtybpEuc": "invention",
+"vN8jwoRClc4": "invention",
+"ffqK2LhwQM4": "invention",
+"GS9A1JuOKE8": "invention",
+"hepN60Cz05o": "invention",
+"J6iyX87SBP0": "invention",
+"CNPKq2dk8nQ": "invention",
+"CYf1SjCJuT0": "invention",
+"lca5HhRgjfY": "invention",
+"jTcut08b2h0": "invention",
+"TzHxR-K_sWc": "invention",
+"amYbTPPE6cE": "invention",
+"4MEm8uUlHoo": "invention",
+"sBkiBV_-1F0": "invention",
+"SbBdUZE-s9Y": "invention",
+"mSoMnq-s_vc": "invention",
+"AdTw4ZKE0HA": "invention",
+"6RJ9I1HnniI": "invention",
+"zDhHZwNeatg": "invention",
+"SqmaeqNsssU": "invention",
+"4TwiBUQmq4Y": "invention",
+"8d60sR6mugg": "invention",
+"g9ChJLsij5A": "invention",
+"3wFQPSEPgWc": "invention",
+"T0JN2DOCmFU": "invention",
+"lNIWN1TeOik": "invention",
+"aH1IEfirbQo": "invention",
+"ho2XO5Dlm9k": "invention",
+"xmABK2Chwe0": "invention",
+"ZGuLkpHFB14": "invention",
+"33GQ2vgASBk": "invention",
+"pa6BlJlrL-k": "invention",
+"vEJ8lElvhVU": "invention",
+"dN2jhnWNyxs": "invention",
+"crKohKpVoAM": "invention",
+"2ADDb2TLdhw": "invention",
+"KbBwqxV0DKU": "invention",
+"4Ex1F6k3OVs": "invention",
+"lHVkCyFo5mY": "invention",
+"Yt_6P6gK2Q4": "invention",
+"esyiUahdINQ": "invention",
+"1SgGfMlbCoM": "invention",
+"pERzI6FYGkY": "invention",
+"OXJAXlw2LcI": "invention",
+"GCr2Do5rZcA": "invention",
+"-1bw73GtZmE": "invention",
+"vpfyxOm4nSE": "invention",
+"JvWHizqNjoM": "invention",
+"N0VFuy-OC4o": "invention",
+"c8AcbOHbifY": "invention",
+"_15Rn2YmROM": "invention",
+"a0H0vOWUjbY": "invention",
+"CWXsV0BRM8A": "invention",
+"l86zE5MXgoI": "invention",
+"MJxz-540WL0": "invention",
+"4Ov9u61BUzE": "invention",
+"vH-WDsoRPI8": "invention",
+"ABBDXD6uEZk": "invention",
+"qE1mBc7Yjdg": "invention",
+"DfsPNZlRA_Y": "invention",
+"4OQVXql_-Y4": "invention",
+"pFvK1-SQP9Q": "invention",
+"UFB_8uU8KKQ": "invention",
+"GcyWBv53gX4": "invention",
+"KW5JyG6WUSs": "invention",
+"9xwFV92odys": "invention",
+"DFHLBvtF2IQ": "invention",
+"lxkJcAtI3bU": "invention",
+"ZQuGUA7IOR0": "invention",
+"JqcuqQtMcDo": "invention",
+"_2-RM31BNUc": "invention",
+"NxBCkZz17dI": "invention",
+"JKBMCvLut5U": "invention",
+"pAQpTu4cZKk": "invention",
+"XWjykP_9mkw": "invention",
+"1-CxYKRLnDU": "invention",
+"7C9aU3ZllIA": "invention",
+"TS9maiis-4k": "invention",
+"Ad49_W-0tPs": "invention",
+"A6-aDlzqCsw": "invention",
+"6Qk59o87I6w": "other",
+"LGD6ustR8Zs": "other",
+"Yj5rzNXdj28": "other",
+"aYWLEbm01G0": "other",
+"7e6lM8IfnmE": "other",
+"rxW6xTsZ0sI": "other",
+"Kml6bc-URu4": "other",
+"Cm2eU8PQQxQ": "other",
+"7qSSBfZ6C6M": "other",
+"p-o_NzQPcdE": "other",
+"lCSrN-e_dkE": "other",
+"mMvqI9Rw77c": "other",
+"vnfO-1hi4x0": "other",
+"aBIlU2DENPc": "other",
+"SdScLGrdUyU": "other",
+"Dc_63eV7HIs": "other"
+},
+"inventions": {
+"Real Rasengan": [
+"rGHK6yeuU5w",
+"Jviu_SlW9FI"
+],
+"Real Mjolnir": [
+"0_8Xhzt5YQI",
+"v1JUXTEe8oI",
+"WVzlHa5CQnA",
+"FHqPXcYTv3c",
+"VZBVn6d_wx8",
+"uqa9CJcrAqA",
+"YWPn8kOHNwY",
+"XPA0ss2_IV0"
+],
+"Burning Lightsaber": [
+"u-xHso660tA",
+"83h7c4Ghsm4",
+"6FdJ29qBRIs",
+"bD41lfjcRuo",
+"RGQEwYsNdI4",
+"zgzqMTUEoGM"
+],
+"Pykrete Ice Weapons": [
+"S7ju8iKex9o",
+"ecWYRtZFR7E"
+],
+"Grappling Hook Gun": [
+"qehzq_zE7Pk",
+"ysFt7n9bmWo",
+"GQLUWHz47ZA"
+],
+"Cerebro Helmet": [
+"1S7FO2Qd6Zc",
+"VW31E5kcL08",
+"vJcdilAzAqc"
+],
+"Cyclops Eye Flamethrowers": [
+"CfiotQuxujE"
+],
+"Electric Wizard Duel": [
+"SQApEHUKK2g"
+],
+"Margarita Vortex Cannon": [
+"grMccSiQFR8"
+],
+"Blood Sword": [
+"rY6IWNkGjA0"
+],
+"Joker Joy Buzzer": [
+"91rUSQpw5xI"
+],
+"Ocarina Home Automation": [
+"glZnkpIDWSE",
+"1RzXoieos5Y"
+],
+"Spider-Man Web Shooters": [
+"2JZQk_LuXuc",
+"zgBZtybpEuc",
+"vN8jwoRClc4"
+],
+"Wonder Woman Gauntlets": [
+"ffqK2LhwQM4"
+],
+"Punch-Activated Flamethrowers": [
+"GS9A1JuOKE8"
+],
+"Microwave Gun": [
+"hepN60Cz05o"
+],
+"Extreme Thanksgiving Turkeys": [
+"J6iyX87SBP0",
+"CNPKq2dk8nQ",
+"CYf1SjCJuT0"
+],
+"Christmas Gift Gun": [
+"lca5HhRgjfY"
+],
+"Bakugo Explosive Bracers": [
+"jTcut08b2h0",
+"TzHxR-K_sWc"
+],
+"Rocket Legs": [
+"amYbTPPE6cE",
+"4MEm8uUlHoo",
+"sBkiBV_-1F0"
+],
+"Ice & Fire Hands": [
+"SbBdUZE-s9Y",
+"mSoMnq-s_vc",
+"AdTw4ZKE0HA"
+],
+"Taser Nerf Darts": [
+"6RJ9I1HnniI",
+"zDhHZwNeatg",
+"SqmaeqNsssU"
+],
+"Ice King Crown": [
+"4TwiBUQmq4Y"
+],
+"Plasma Blades": [
+"8d60sR6mugg"
+],
+"Mouth Flamethrower": [
+"g9ChJLsij5A"
+],
+"4D Chess": [
+"3wFQPSEPgWc"
+],
+"Real Pok\u00e9mon": [
+"T0JN2DOCmFU",
+"lNIWN1TeOik"
+],
+"Childhood Inventions Built": [
+"aH1IEfirbQo",
+"ho2XO5Dlm9k"
+],
+"Treadmill PS4 Controller": [
+"xmABK2Chwe0"
+],
+"Hulk Hands": [
+"ZGuLkpHFB14"
+],
+"Social Distancing Arm": [
+"33GQ2vgASBk"
+],
+"Mask Shooter": [
+"pa6BlJlrL-k"
+],
+"Anti-Vaxxer Vaccinator": [
+"vEJ8lElvhVU"
+],
+"333-Cuts-per-Second Knife": [
+"dN2jhnWNyxs"
+],
+"Rock Lee Leg Weights": [
+"crKohKpVoAM"
+],
+"Anime Sword Exoskeleton": [
+"2ADDb2TLdhw"
+],
+"Fixing YouTubers' Inventions": [
+"KbBwqxV0DKU"
+],
+"$100 BattleBot": [
+"4Ex1F6k3OVs"
+],
+"Fixing a Mythbusters Mistake": [
+"lHVkCyFo5mY"
+],
+"Redeemed Kickstarter Product": [
+"Yt_6P6gK2Q4"
+],
+"Rebuilt Meme Invention": [
+"esyiUahdINQ"
+],
+"Snake Legs": [
+"1SgGfMlbCoM",
+"pERzI6FYGkY"
+],
+"High-Jump Shoes": [
+"OXJAXlw2LcI",
+"GCr2Do5rZcA"
+],
+"Arm-Wrestling Exoskeleton": [
+"-1bw73GtZmE",
+"vpfyxOm4nSE"
+],
+"Year-3000 Mosquito Killer": [
+"JvWHizqNjoM",
+"N0VFuy-OC4o"
+],
+"Bee Gun": [
+"c8AcbOHbifY"
+],
+"Viewers' High-Voltage Inventions": [
+"_15Rn2YmROM"
+],
+"Year-3000 Lawn Mower": [
+"a0H0vOWUjbY",
+"CWXsV0BRM8A"
+],
+"Non-Lethal Weapons": [
+"l86zE5MXgoI"
+],
+"Pro-Trick Skateboard": [
+"MJxz-540WL0",
+"4Ov9u61BUzE"
+],
+"Year-3000 Shaver": [
+"vH-WDsoRPI8",
+"ABBDXD6uEZk"
+],
+"AI Slop in Real Life": [
+"qE1mBc7Yjdg"
+],
+"Chicken Tails": [
+"DfsPNZlRA_Y",
+"4OQVXql_-Y4"
+],
+"Exploding Punch Glove": [
+"UFB_8uU8KKQ",
+"pFvK1-SQP9Q"
+],
+"Anger Expression Device": [
+"GcyWBv53gX4"
+],
+"Throwable Smokescreen": [
+"KW5JyG6WUSs"
+],
+"10,000V Chidori Glove": [
+"9xwFV92odys"
+],
+"American Style Chopsticks": [
+"DFHLBvtF2IQ"
+],
+"Electric Samurai Sword": [
+"lxkJcAtI3bU",
+"ZQuGUA7IOR0"
+],
+"Super Flicking Finger Exoskeleton": [
+"JqcuqQtMcDo"
+],
+"Taser Shorts": [
+"_2-RM31BNUc"
+],
+"Real Life Chainsaw Man": [
+"NxBCkZz17dI"
+],
+"Horse Mobility Scooter": [
+"JKBMCvLut5U"
+],
+"Beer Mug Heels": [
+"pAQpTu4cZKk"
+],
+"Aquarium Toilet": [
+"XWjykP_9mkw"
+],
+"Backpack Gaming PC": [
+"1-CxYKRLnDU"
+],
+"3D Printed WW2 Weapon": [
+"7C9aU3ZllIA",
+"TS9maiis-4k"
+],
+"Weaponised Shopping Cart": [
+"Ad49_W-0tPs"
+],
+"Water Stun Gun": [
+"A6-aDlzqCsw"
+]
+}
+}

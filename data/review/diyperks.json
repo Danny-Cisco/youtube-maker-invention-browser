@@ -1,0 +1,361 @@
+{
+"channel": "DIY Perks",
+"videos": 123,
+"labels": {
+"tedA3DEcFio": "invention",
+"NNp-tne9KaE": "invention",
+"XoW5JZexfNE": "invention",
+"quuHV9pTyoo": "invention",
+"LoQu3XXIayc": "invention",
+"YCZ2j877SIE": "invention",
+"MMlkMWcOLLU": "invention",
+"CB-_JIjhAyA": "invention",
+"QI4CBvPE80g": "invention",
+"RZoX7glIAS4": "invention",
+"vHoqYBZMc_c": "invention",
+"H3_sy3-c6LM": "invention",
+"PRl150F56VM": "invention",
+"K8hLXJUQFoc": "invention",
+"7hP0NFD6p5c": "invention",
+"PpXOvjavjWc": "invention",
+"DawfF4raTzQ": "invention",
+"jLia59KfkSw": "invention",
+"c--5c3Egv4E": "invention",
+"kh9j5mDU_hA": "invention",
+"DhbMnQt14_o": "invention",
+"Y06VHj1GvLI": "invention",
+"G-ZLcAF3ar0": "invention",
+"51CBfsndBhg": "invention",
+"9qZHrDDBCUg": "invention",
+"Ob_E91VUQZU": "invention",
+"-frBfOsSOR0": "invention",
+"N3k9lWz48rw": "invention",
+"a43LXqRwQC8": "invention",
+"27zBr74NuKU": "invention",
+"zNHDbXAmY_0": "invention",
+"Iegpwo9SqSg": "invention",
+"BhkYrzST7V4": "invention",
+"h6hvsqUEtZ4": "invention",
+"kgPghSJhkzU": "invention",
+"xPEa0Wc9iUc": "invention",
+"xsd5b9p19nM": "invention",
+"1Fs4SfVSsLk": "invention",
+"z64-RwxSztU": "invention",
+"D5LjGFkpApw": "invention",
+"BZnljKjJLvM": "invention",
+"j7ZwQa8vYnY": "invention",
+"Y2KK4YiOO1o": "invention",
+"GE37xI14Fyw": "invention",
+"qlMtakaa7u8": "invention",
+"sJ5vhShdVjo": "invention",
+"xaT2hqHgLdY": "invention",
+"pABvTWSxOes": "invention",
+"qczNxoG8s6o": "invention",
+"4IS18-cQtfo": "invention",
+"kl1UPoYSAow": "invention",
+"CfirQC99xPc": "invention",
+"DrqdHVeBkp4": "invention",
+"ibEN9FTLdkI": "invention",
+"qXrn4MqY1Wo": "invention",
+"9aLzfjZu1DY": "invention",
+"kaJVWoKj2a4": "invention",
+"Jh618yi0JZY": "invention",
+"V5uycGosYq4": "invention",
+"FKL9_bdtHq0": "invention",
+"YfvTjQ9MCwY": "invention",
+"e3fnsGHe8eE": "invention",
+"J2aY6cvk-WI": "invention",
+"WLP_L7Mgz6M": "invention",
+"8jeLCQ62vFk": "invention",
+"mciEZKSvva8": "invention",
+"aUKpY0o5tMo": "invention",
+"0J32w-vkcfQ": "invention",
+"N-z9PidYH4E": "invention",
+"tGX34631pdk": "invention",
+"CouxmNqxO4A": "invention",
+"QaoFh1DH51U": "invention",
+"8JrqH2oOTK4": "invention",
+"6bqBsHSwPgw": "invention",
+"rqCt61ZbU10": "invention",
+"puFSdfIRNIw": "invention",
+"JZZGdWV5WX8": "invention",
+"77Y7DHfoFOk": "invention",
+"V-vFtiDYiIw": "invention",
+"2AecAXinars": "invention",
+"Perqf0dOGLk": "invention",
+"HhWDPG8EROw": "invention",
+"UQ6ueTe8KQM": "invention",
+"4VnCJdYImb8": "invention",
+"_E0mNSMBmFQ": "invention",
+"2fX1qYMcfgs": "invention",
+"X1u-9YqrIJc": "invention",
+"VRo-lnBKhLo": "invention",
+"P4Lshbq27nw": "invention",
+"he6xyl_MHXY": "invention",
+"W4PHhurAhwc": "invention",
+"adY-S8AH_Jc": "invention",
+"C3GKe7eXbPE": "invention",
+"dSJZ7MtKe1w": "invention",
+"WlFVPnGEb8o": "invention",
+"yFswDJPvtPY": "invention",
+"Gr9cw-ON2q0": "invention",
+"pUba126uzvU": "invention",
+"nmU7u_RFFSo": "invention",
+"XEspOD1NHr0": "invention",
+"1H4FuNAByUs": "invention",
+"9cT0jXI7l4E": "invention",
+"o8jFJAtVyr8": "invention",
+"EyR2-C9ggi0": "invention",
+"o6Z0MxWCbrc": "invention",
+"7FStfdGjAwc": "invention",
+"FhJ9Tx_eX9c": "repair",
+"yUFd1ojhHhA": "repair",
+"mhOYEQ65a94": "repair",
+"F5Y7BniaRXg": "repair",
+"wYH1KZ_14uE": "repair",
+"1htkOEvtR7c": "repair",
+"bP_8EYQ-2RA": "tutorial",
+"6xFUNFG-UKE": "tutorial",
+"oAA9nCqNfR4": "tutorial",
+"Z0oGIc8dvJ4": "workshop",
+"L3LWXznJx_0": "other",
+"J_TYzy5YQTI": "other",
+"YwIk9Uc1-xc": "other",
+"Q-hQXaxO-cc": "other",
+"CvRlfp236Ms": "other",
+"bBV-1VNWscA": "other",
+"sVc5szSrfIQ": "other"
+},
+"inventions": {
+"LEGO Remote Follow Focus": [
+"tedA3DEcFio"
+],
+"DIY Macro Lens": [
+"NNp-tne9KaE"
+],
+"DIY Microphones": [
+"XoW5JZexfNE",
+"quuHV9pTyoo",
+"LoQu3XXIayc"
+],
+"Ericsson MPS-70 USB Speakers": [
+"YCZ2j877SIE"
+],
+"Micro Amplifier": [
+"MMlkMWcOLLU"
+],
+"Silent PCs (Cloud Unit)": [
+"CB-_JIjhAyA",
+"QI4CBvPE80g",
+"RZoX7glIAS4",
+"vHoqYBZMc_c",
+"H3_sy3-c6LM",
+"PRl150F56VM",
+"K8hLXJUQFoc"
+],
+"PC Control Terminal": [
+"7hP0NFD6p5c"
+],
+"External Control Hub": [
+"PpXOvjavjWc"
+],
+"DIY Sun Blaster LEDs": [
+"DawfF4raTzQ",
+"jLia59KfkSw",
+"c--5c3Egv4E",
+"kh9j5mDU_hA",
+"DhbMnQt14_o",
+"Y06VHj1GvLI"
+],
+"LED Light-Shelf": [
+"G-ZLcAF3ar0"
+],
+"Cosy Leaf-Light": [
+"51CBfsndBhg"
+],
+"Five-Minute Kite": [
+"9qZHrDDBCUg"
+],
+"Bluetooth Speakers": [
+"Ob_E91VUQZU",
+"-frBfOsSOR0",
+"N3k9lWz48rw",
+"a43LXqRwQC8",
+"27zBr74NuKU",
+"zNHDbXAmY_0"
+],
+"CPU Cooler on GPU": [
+"Iegpwo9SqSg",
+"BhkYrzST7V4",
+"h6hvsqUEtZ4"
+],
+"Shard Light": [
+"kgPghSJhkzU"
+],
+"Clean Air Enclosure": [
+"xPEa0Wc9iUc"
+],
+"$25 Video Ring-Light": [
+"xsd5b9p19nM"
+],
+"Battery Protection Circuit": [
+"1Fs4SfVSsLk"
+],
+"Solder Fume Extractor": [
+"z64-RwxSztU"
+],
+"DIY Mushroom Lights": [
+"D5LjGFkpApw"
+],
+"One-Click Backup Button": [
+"BZnljKjJLvM"
+],
+"Spectrum Dock Headphone Stand": [
+"j7ZwQa8vYnY"
+],
+"False Window Light Panel": [
+"Y2KK4YiOO1o"
+],
+"Professional Camera Slider": [
+"GE37xI14Fyw"
+],
+"Flexible LED Panels": [
+"qlMtakaa7u8"
+],
+"Concrete Volume Knob": [
+"sJ5vhShdVjo"
+],
+"Thermoelectric Generator": [
+"xaT2hqHgLdY"
+],
+"Acoustic Panels": [
+"pABvTWSxOes",
+"qczNxoG8s6o"
+],
+"Anti-Griddle": [
+"4IS18-cQtfo"
+],
+"Smartphone Hack": [
+"kl1UPoYSAow"
+],
+"DIY Monitors": [
+"CfirQC99xPc",
+"DrqdHVeBkp4",
+"ibEN9FTLdkI",
+"qXrn4MqY1Wo"
+],
+"Portable Smart TV": [
+"9aLzfjZu1DY"
+],
+"Motorised Monitor Lift": [
+"kaJVWoKj2a4"
+],
+"LED Lighting Projects": [
+"Jh618yi0JZY",
+"V5uycGosYq4"
+],
+"4K Home Cinema Projector": [
+"FKL9_bdtHq0",
+"YfvTjQ9MCwY"
+],
+"Laptop Transformations": [
+"e3fnsGHe8eE",
+"J2aY6cvk-WI",
+"WLP_L7Mgz6M",
+"8jeLCQ62vFk",
+"mciEZKSvva8",
+"aUKpY0o5tMo"
+],
+"Wallpaper TV": [
+"0J32w-vkcfQ"
+],
+"Rope & Wood PC": [
+"N-z9PidYH4E"
+],
+"Wall-Mounted Laptop Dock": [
+"tGX34631pdk"
+],
+"DIY Home Security": [
+"CouxmNqxO4A"
+],
+"Folding Desk PC": [
+"QaoFh1DH51U"
+],
+"Artificial Sun": [
+"8JrqH2oOTK4",
+"6bqBsHSwPgw",
+"rqCt61ZbU10"
+],
+"Smart Mirror": [
+"puFSdfIRNIw"
+],
+"Brass PC": [
+"JZZGdWV5WX8"
+],
+"World's Weirdest Fan": [
+"77Y7DHfoFOk"
+],
+"USB Type-C Conversions": [
+"V-vFtiDYiIw"
+],
+"Eye-Contact Webcam": [
+"2AecAXinars"
+],
+"Invisible PC": [
+"Perqf0dOGLk",
+"HhWDPG8EROw",
+"UQ6ueTe8KQM",
+"4VnCJdYImb8"
+],
+"Invisible Monitor & TV": [
+"_E0mNSMBmFQ",
+"2fX1qYMcfgs"
+],
+"Water-Cooled Camera": [
+"X1u-9YqrIJc"
+],
+"Custom PlayStation 5s": [
+"VRo-lnBKhLo",
+"P4Lshbq27nw",
+"he6xyl_MHXY",
+"W4PHhurAhwc"
+],
+"Portable Power Station": [
+"adY-S8AH_Jc"
+],
+"Breathing PC": [
+"C3GKe7eXbPE"
+],
+"Luggable PC": [
+"dSJZ7MtKe1w"
+],
+"Water-Cooled PCs & TV": [
+"WlFVPnGEb8o",
+"yFswDJPvtPY",
+"Gr9cw-ON2q0"
+],
+"DIY Submarine": [
+"pUba126uzvU"
+],
+"Exceptional Speakers": [
+"nmU7u_RFFSo",
+"XEspOD1NHr0",
+"1H4FuNAByUs"
+],
+"Next-Level Camera": [
+"9cT0jXI7l4E"
+],
+"World's Largest Working iPhone": [
+"o8jFJAtVyr8"
+],
+"Truly Wireless Setup": [
+"EyR2-C9ggi0"
+],
+"Mud Hut": [
+"o6Z0MxWCbrc"
+],
+"New Way to Build a PC": [
+"7FStfdGjAwc"
+]
+}
+}
