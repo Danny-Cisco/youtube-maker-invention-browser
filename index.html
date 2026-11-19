@@ -771,10 +771,16 @@ menu.onkeydown = e => {
   else if (e.key === "Escape" || e.key === "Tab") { openMenu(false); btn.focus(); }
 };
 document.addEventListener("click", e => { if (!menu.hidden && !e.target.closest(".sort")) openMenu(false); });
-$("q").oninput = e => {
-  if (onMakers()) { st.mq = e.target.value; saveSt(); renderMakerGrid(); return; }
-  st.q = e.target.value; saveSt(); if (current) location.hash = home(); else update();
+// Filter once typing pauses, not on every key; Enter or clearing the box applies it straight away.
+let qTimer = 0;
+const applySearch = () => {
+  clearTimeout(qTimer); qTimer = 0;
+  const v = $("q").value;
+  if (onMakers()) { if (st.mq !== v) { st.mq = v; saveSt(); renderMakerGrid(); } return; }
+  if (st.q === v) return;
+  st.q = v; saveSt(); if (current) location.hash = home(); else update();
 };
+$("q").oninput = e => { clearTimeout(qTimer); if (!e.target.value) applySearch(); else qTimer = setTimeout(applySearch, 300); };
 
 // ---------- home: timeline, release schedule, grid ----------
 function cadence(){
@@ -1287,7 +1293,7 @@ window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setTimeout(()
 }, 150); });
 $("q").value = st.q;
 window.addEventListener("hashchange", route);
-$("qform").addEventListener("submit", ev => { ev.preventDefault(); $("q").blur();
+$("qform").addEventListener("submit", ev => { ev.preventDefault(); applySearch(); $("q").blur();
   const target = $("makerGrid") || $("main"); const top = target.getBoundingClientRect().top + window.scrollY - topbar.offsetHeight - 12;
   if (top > window.scrollY) window.scrollTo({ top, behavior: "smooth" }); });
 // Browsers that restore the page from memory (Back button, reopened tab) get a fresh slideshow too.
