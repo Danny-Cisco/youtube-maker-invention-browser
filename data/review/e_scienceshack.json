@@ -1,0 +1,67 @@
+{
+"channel": "Science Shack",
+"videos": 17,
+"labels": {
+"pddGR5Eyc0Q": "invention",
+"vATwzbZwwG8": "invention",
+"cdmSlp2Mt6Q": "invention",
+"QCiCau2Ivlg": "invention",
+"o-wjOA72fw8": "invention",
+"hliMxjl60wo": "invention",
+"bNJDIov5oV4": "invention",
+"MWq_Sb_2myA": "invention",
+"Tym3jMrPnRA": "invention",
+"oKb-OCkHhak": "invention",
+"AQ12wv9Huxo": "invention",
+"poJhWZDTKGU": "invention",
+"_ymsSmxXcHQ": "invention",
+"SUPGqDcc8xo": "invention",
+"by-knPdR8GY": "tutorial",
+"IWD7ihmiMhE": "other",
+"CDZWztFcAMc": "other"
+},
+"inventions": {
+"Arduino Laser Harp": [
+"pddGR5Eyc0Q"
+],
+"Newton's Flaming Laser Sword": [
+"vATwzbZwwG8"
+],
+"Musical Tesla Coils": [
+"cdmSlp2Mt6Q"
+],
+"Fishing Drone": [
+"QCiCau2Ivlg"
+],
+"Cheap Cloud Chamber": [
+"o-wjOA72fw8"
+],
+"Walmart Bike to E-Bike": [
+"hliMxjl60wo"
+],
+"Nuclear Dice": [
+"bNJDIov5oV4"
+],
+"Plant-Connected Robot": [
+"MWq_Sb_2myA"
+],
+"EDF Electric Model Rocket": [
+"Tym3jMrPnRA"
+],
+"Laser Projection Microscope": [
+"oKb-OCkHhak"
+],
+"Fire-Breathing Dragon": [
+"AQ12wv9Huxo"
+],
+"Ultralight Gaming Mouse": [
+"poJhWZDTKGU"
+],
+"Modern Warfare Heartbeat Sensor": [
+"_ymsSmxXcHQ"
+],
+"The Most Stressful Game": [
+"SUPGqDcc8xo"
+]
+}
+}

@@ -1,77 +1,58 @@
-"""Curated inventions for Nate Scovill (@natescovill).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Nate Scovill. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'nate-scovill', 'name': 'Nate Scovill', 'person': 'Nate Scovill', 'tagline': 'Rockets and engineering challenges.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="How to make running harder", kind="Build",
-  desc="My brother and I made the terrible decision to run a Spartan Race this weekend!",
+ dict(name="YouTube Shrine", kind="Sculpture",
+  desc="A shrine to YouTube.",
   videos=[
-   "Ydzp6lVQ-Eo",  # 2023-09-29 How to make running harder
+   "ElY_ek2CiVM",  # 2024-02-24 I built a shrine to YouTube
   ],
  ),
- dict(name="Making coffee with the wrong beans", kind="Build",
-  desc="I put far too much effort into making this silly idea look cinematic than is reasonable, and it was completely worth it.",
-  videos=[
-   "PdRflzdHviE",  # 2024-04-26 Making coffee with the wrong beans
-   "RvYErqHAXz0",  # 2025-12-13 The Wrong Beans #coffee #beans #experiment #science #recipe #meme
-  ],
- ),
- dict(name="How to make a puzzle for 10,000 people", kind="Build",
-  desc="Bleeker Street Blues - Chris Haugen",
+ dict(name="Puzzle for 10,000 People", kind="Game",
+  desc="A puzzle for 10,000 people at Open Sauce 2024.",
   videos=[
    "xPij4d3bppg",  # 2024-06-28 How to make a puzzle for 10,000 people (at Open Sauce 2024)
   ],
  ),
- dict(name="Building a workshop and stealing from God", kind="Build",
-  desc="I built a workshop in my garage, and absolutely nothing interesting happens the entire time.",
+ dict(name="Shredder Derby Racer", kind="Vehicle",
+  desc="A racer for the Shredder Derby.",
   videos=[
-   "zKX1dmGjHXc",  # 2024-08-30 Building a workshop and stealing from God
-   "eOSun5PRR9E",  # 2025-12-17 Stealing my workshop #workshop #woodworking #maker #woodshop #upcyclin
+   "17B491yKD-c",  # 2024-07-26 The Shredder Derby
   ],
  ),
- dict(name="I made an umbrella that rains", kind="Build",
-  desc="I hate the heat and missed the rain, so I made the world’s most useless umbrella.",
+ dict(name="Umbrella That Rains", kind="Gadget",
+  desc="An umbrella that rains.",
   videos=[
    "H4fx4AgaLEM",  # 2024-09-27 I made an umbrella that rains
   ],
  ),
- dict(name="Building The Perfect Santa Trap", kind="Build",
-  desc="The story of how and why I plan to kidnap Santa and save the world",
+ dict(name="Santa Trap", kind="Machine",
+  desc="The perfect Santa trap.",
   videos=[
    "u9_T-8w5qiA",  # 2024-12-20 Building The Perfect Santa Trap
    "uPJyo44R5c8",  # 2024-12-24 The Santa Trap  #lego #rubegoldbergmachine #christmas #santa #santacla
   ],
  ),
- dict(name="Can You Give a Machine a Soul", kind="Build",
-  desc="I learn about 3D printing while making a prop from The Iron Giant, and along the way stumble into what it means to give a machine a soul.",
-  videos=[
-   "Tna3b4i63QI",  # 2025-04-26 Can You Give a Machine a Soul?
-  ],
- ),
- dict(name="I built a Tiny Food Truck", kind="Build",
-  desc="The story of how I built a tiny food truck in an attempt to lure a much larger creator (Allen Pan) into appearing on my channel.",
+ dict(name="Tiny Food Truck", kind="Vehicle",
+  desc="A tiny food truck on a Power Wheels.",
   videos=[
    "uYqcK2fiWZ8",  # 2025-08-15 I built a Tiny Food Truck
+   "sHyj00-ZFAk",  # 2025-09-24 I made a Power Wheels food cart #diy #opensauce #allenpan #powerwheels
   ],
  ),
- dict(name="Making a pinewood derby car out of wood chips", kind="Build",
-  desc="After my pinewood derby car was flung into a wood chipper last year, I took the pieces and rebuilt them into a new car; all so that it could be thrown back into the wood chipper.",
+ dict(name="Wood-Chip Pinewood Derby Car", kind="Vehicle",
+  desc="A pinewood derby car made of wood chips.",
   videos=[
    "IzxGFzt_yMs",  # 2025-09-26 Making a pinewood derby car out of wood chips
+   "LEnTfrFALhs",  # 2025-10-01 They destroyed my work #opensauce #pinewoodderby #woodworking #maker
+   "rbwUFNTCoNw",  # 2025-10-03 I raced against a hot dog #diy #opensauce #woodworking #woodwork #resi
   ],
  ),
- dict(name="Making a video like it's 1878", kind="Build",
-  desc="I love videos, so I recreate the first one ever made, The Horse in Motion using a little bit of modern technology and 150 year old trick that was used to get the original shot.",
-  videos=[
-   "XCs_9vDQG90",  # 2026-05-15 Making a video like it's 1878
-  ],
- ),
- dict(name="Can Red Bull Power a Rocket", kind="Build",
-  desc="This is how I used three different (and not equally valid) methods to turn the energy drink Red Bull into rocket fuel.",
+ dict(name="Red Bull Rocket", kind="Rocket",
+  desc="Can Red Bull power a rocket?",
   videos=[
    "66t8OpOaofg",  # 2026-08-13 Can Red Bull Power a Rocket?
   ],

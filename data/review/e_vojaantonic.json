@@ -1,0 +1,67 @@
+{
+"channel": "Voja Antonic",
+"videos": 25,
+"labels": {
+"VbTwWFwbsE4": "invention",
+"AGDNnjmzUZ4": "invention",
+"OhFEINayP6c": "invention",
+"sQJSBvxbeYM": "invention",
+"IFifeMkfip8": "invention",
+"a2YFsHdKY7c": "invention",
+"nr0YoYSeyoo": "invention",
+"CZPLp6kzcBc": "invention",
+"53D_fnK2Kec": "invention",
+"3H3sWTo3E_g": "invention",
+"ix__enrtYF4": "invention",
+"lwlbDGE16gE": "invention",
+"6HnW1XnXFoA": "other",
+"jkAZXT5YPqg": "other",
+"rC7yrfS0TZI": "other",
+"eRki7wwHgrU": "other",
+"44kpwE2Mv1I": "other",
+"L2eR5Ijt3DM": "other",
+"KNkkfjB6_xA": "other",
+"rHACvfUD0EY": "other",
+"7BSPEcjbJeU": "other",
+"s1VSa-Ad_QY": "other",
+"GExJ-y6PMLk": "other",
+"Uw6D7GT9l-8": "other",
+"-pSMbThbVlU": "other"
+},
+"inventions": {
+"Single-Chip PIC Game Console": [
+"VbTwWFwbsE4"
+],
+"Waveshape Binary Clock": [
+"AGDNnjmzUZ4"
+],
+"Listen to the Colours": [
+"OhFEINayP6c"
+],
+"USB Hardware Password Manager": [
+"sQJSBvxbeYM"
+],
+"BalCCon 2016 Badge": [
+"IFifeMkfip8"
+],
+"Hackaday Belgrade Badge": [
+"a2YFsHdKY7c",
+"nr0YoYSeyoo"
+],
+"RF Dice Reader": [
+"CZPLp6kzcBc"
+],
+"Bingo Ball OCR": [
+"53D_fnK2Kec"
+],
+"Shirt-on-Fire Badge": [
+"3H3sWTo3E_g"
+],
+"Hackaday Supercon Badge 2022": [
+"ix__enrtYF4"
+],
+"Spooky Clock": [
+"lwlbDGE16gE"
+]
+}
+}

@@ -227,6 +227,8 @@ How videos are grouped into inventions: `build/auto_inventions.py` drafts a make
 
 Each maker's country is in `data/countries.json` as `[ISO code, source]`: "channel" means it comes from the location the maker set on YouTube, "manual" means it was filled in by hand. Edit it to correct a country. The world map outline is `build/world.json`, made once with `build/make_map.mjs`.
 
+Every channel is being reviewed by hand with `build/review.py`: each upload is read and labelled invention, repair, tutorial, workshop or other, saved by video ID in `data/review/<maker>.json`. Only inventions (things the maker designed and made, including their own shop tools and machines, and repairs of their own builds) appear on this site; the other labels are kept for future sites about repairs, tutorials and workshops.
+
 Makers who don't make things are out of scope; they are listed with the reason in `data/out_of_scope.json` (their data is kept).
 
 To add a maker, fetch their videos to `data/<name>_videos.json`, write a curation spec and turn it into `data/<name>_inventions.py` with `build/make_inventions.py` (see its docstring), or draft one automatically with `build/auto_inventions.py`, and add `data/<name>` to `build/makers.txt`, which lists every maker in front-page order.

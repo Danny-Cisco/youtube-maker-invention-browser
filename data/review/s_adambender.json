@@ -1,0 +1,32 @@
+{
+"channel": "Adam Bender",
+"videos": 11,
+"labels": {
+"axLIIfqhN_U": "invention",
+"hKbwETd0xQw": "invention",
+"4fh7HhWTf0w": "invention",
+"I-xwtTATRLM": "invention",
+"4aBVAbfxLJw": "invention",
+"7LxakM4VuF4": "tutorial",
+"NauURWekZmY": "tutorial",
+"qx_qqVmjCc0": "tutorial",
+"JldTYkcFDM8": "tutorial",
+"f9fZZVfcBVQ": "tutorial",
+"SwTtltjE2_E": "tutorial"
+},
+"inventions": {
+"Homemade CNC Machine": [
+"axLIIfqhN_U",
+"hKbwETd0xQw"
+],
+"Delta 3D Printer": [
+"4fh7HhWTf0w"
+],
+"One-Wheel Balancing Robot": [
+"I-xwtTATRLM"
+],
+"Epoxy Granite Machine Base": [
+"4aBVAbfxLJw"
+]
+}
+}

@@ -1,0 +1,58 @@
+{
+"channel": "Samy Kamkar",
+"videos": 17,
+"labels": {
+"EHKV01YQX_w": "invention",
+"BnwBdeQB7vQ": "invention",
+"aSLEq7-hlmo": "invention",
+"WqkmGG0biXc": "invention",
+"YcpSvHpbHQ4": "invention",
+"iSSRaIU9_Vc": "invention",
+"3olXUbS-prU": "invention",
+"UHSFf0Lz1qc": "invention",
+"Aatp5gCskvk": "invention",
+"yL4SHtTE3Ik": "invention",
+"ol9q6mtPqq4": "invention",
+"09UgmwtL12c": "tutorial",
+"qkolWO6pAL8": "tutorial",
+"xcUpg-qAJ74": "tutorial",
+"xcA7iXSNmZE": "tutorial",
+"Xnb2rDMiwVo": "other",
+"eejDS2FBOtU": "other"
+},
+"inventions": {
+"SkyJack": [
+"EHKV01YQX_w"
+],
+"Digital Ding Dong Ditch": [
+"BnwBdeQB7vQ"
+],
+"USBdriveby": [
+"aSLEq7-hlmo"
+],
+"KeySweeper": [
+"WqkmGG0biXc"
+],
+"Combo Breaker": [
+"YcpSvHpbHQ4"
+],
+"OpenSesame": [
+"iSSRaIU9_Vc"
+],
+"OwnStar": [
+"3olXUbS-prU"
+],
+"MagSpoof": [
+"UHSFf0Lz1qc"
+],
+"PoisonTap": [
+"Aatp5gCskvk"
+],
+"Sputter Chamber": [
+"yL4SHtTE3Ik"
+],
+"ESP32 Self-Balancing Cube": [
+"ol9q6mtPqq4"
+]
+}
+}

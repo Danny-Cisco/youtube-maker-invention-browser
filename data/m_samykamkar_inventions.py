@@ -1,76 +1,74 @@
-"""Curated inventions for Samy Kamkar (@samykamkar).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Samy Kamkar. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'samy-kamkar', 'name': 'Samy Kamkar', 'person': 'Samy Kamkar', 'tagline': 'Hardware hacking and experiments, from lasers to sputter chambers.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="SkyJack - autonomous drone hacking w/Raspberry Pi, aircrack & Javascri", kind="Build",
-  desc="SkyJack is a drone engineered to autonomously seek out, hack, and wirelessly take over other drones within wifi distance, creating an army of zombie drones under your control.",
+ dict(name="SkyJack", kind="Drone hack",
+  desc="An autonomous drone that hunts and takes over other drones, built on a Raspberry Pi.",
   videos=[
    "EHKV01YQX_w",  # 2013-12-03 SkyJack - autonomous drone hacking w/Raspberry Pi, aircrack & Javascri
   ],
  ),
- dict(name="Digital Ding Dong Ditch Prank", kind="Build",
-  desc="Digital Ding Dong Ditch is a device to hack into and ring my best friend's wireless doorbell whenever I send a text message to the device.",
+ dict(name="Digital Ding Dong Ditch", kind="Hack",
+  desc="Hacking wireless doorbells with an Arduino and an RTL-SDR.",
   videos=[
    "BnwBdeQB7vQ",  # 2014-12-11 Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino a
   ],
  ),
- dict(name="KeySweeper - covert Microsoft wireless keyboard sniffer using Arduino ", kind="Build",
-  desc="Keystrokes are sent back to the KeySweeper operator over the Internet via an optional GSM chip, or can be stored on a flash chip and delivered wirelessly when a secondary KeySweeper device comes within wireless range …",
+ dict(name="USBdriveby", kind="Hack",
+  desc="A USB device that exploits a computer in seconds.",
+  videos=[
+   "aSLEq7-hlmo",  # 2014-12-17 USBdriveby - exploiting USB in style
+  ],
+ ),
+ dict(name="KeySweeper", kind="Hack",
+  desc="A covert wireless keyboard sniffer disguised as a USB charger.",
   videos=[
    "WqkmGG0biXc",  # 2015-01-12 KeySweeper - covert Microsoft wireless keyboard sniffer using Arduino 
   ],
  ),
- dict(name="Combo Breaker - motorized combo lock cracking device", kind="Build",
-  desc="All hardware and software linked to from:",
+ dict(name="Combo Breaker", kind="Machine",
+  desc="A motorised device that cracks Master combination locks.",
   videos=[
    "YcpSvHpbHQ4",  # 2015-05-14 Combo Breaker - motorized combo lock cracking device
   ],
  ),
- dict(name="OpenSesame - hacking garages in seconds using a Mattel toy", kind="Build",
-  desc="Can exploit *some* garages from: Liftmaster, Chamberlain, Stanley, Nortek, Linear, Multi-code, NSCD/North Shore commercial Door, Delta-3, Moore-O-Matic",
+ dict(name="OpenSesame", kind="Hack",
+  desc="Opening fixed-code garages in seconds with a hacked Mattel toy.",
   videos=[
    "iSSRaIU9_Vc",  # 2015-06-04 OpenSesame - hacking garages in seconds using a Mattel toy
   ],
  ),
- dict(name="Protecting against garage hacking", kind="Build",
-  desc="Protect yourself against common garage hacking techniques and the OpenSesame attack.",
-  videos=[
-   "xcUpg-qAJ74",  # 2015-06-04 Protecting against garage hacking
-  ],
- ),
- dict(name="OwnStar - hacking cars with OnStar to locate, unlock and remote start ", kind="Build",
-  desc="OwnStar is a device that can locate, unlock and remote start any vehicle with OnStar RemoteLink after intercepting communication between the RemoteLink mobile app and OnStar servers.",
+ dict(name="OwnStar", kind="Hack",
+  desc="A device that locates, unlocks and starts OnStar cars.",
   videos=[
    "3olXUbS-prU",  # 2015-07-30 OwnStar - hacking cars with OnStar to locate, unlock and remote start 
   ],
  ),
- dict(name="PoisonTap - exploiting locked machines w/Raspberry Pi Zero", kind="Build",
-  desc="When PoisonTap (Raspberry Pi Zero & Node.js) is plugged into a locked/password protected computer (Windows, OS X or Linux), it:",
+ dict(name="MagSpoof", kind="Hack",
+  desc="A magnetic-stripe spoofer that emulates credit cards wirelessly.",
+  videos=[
+   "UHSFf0Lz1qc",  # 2015-11-24 MagSpoof - magnetic stripe spoofer / credit card magstripe emulator
+  ],
+ ),
+ dict(name="PoisonTap", kind="Hack",
+  desc="A Raspberry Pi Zero that hijacks locked computers.",
   videos=[
    "Aatp5gCskvk",  # 2016-11-16 PoisonTap - exploiting locked machines w/Raspberry Pi Zero
   ],
  ),
- dict(name="Lollapawlowski 2018", kind="Build",
-  desc="Wireless, LED balloon network designed, fabricated and executed for our friend's birthday!",
-  videos=[
-   "Xnb2rDMiwVo",  # 2019-03-03 Lollapawlowski 2018
-  ],
- ),
- dict(name="Sputter chamber v1; first test", kind="Build",
-  desc="First attempt at magnetron sputtering.",
+ dict(name="Sputter Chamber", kind="Machine",
+  desc="A homemade sputter chamber, first test.",
   videos=[
    "yL4SHtTE3Ik",  # 2020-01-19 Sputter chamber v1; first test
   ],
  ),
- dict(name="Laser gradient in glass", kind="Build",
-  desc="laser gradient in glass.",
+ dict(name="ESP32 Self-Balancing Cube", kind="Robot",
+  desc="A cube that balances on its corner.",
   videos=[
-   "eejDS2FBOtU",  # 2026-06-03 laser gradient in glass
+   "ol9q6mtPqq4",  # 2026-07-13 ESP32 self balancing cube
   ],
  ),
 ]
