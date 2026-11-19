@@ -1,10 +1,6 @@
-"""Curated inventions for Colin Furze (@colinfurze).
-Early stunt clips (2007-2009) and channel milestones are left under Other uploads.
-kind: Vehicle | Jet & pulsejet | Gadget | Fireworks | Home & garden | Underground
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Colin Furze. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'colin-furze', 'name': 'Colin Furze', 'person': 'Colin Furze', 'tagline': 'Hoverbikes, jet-powered everything and a secret tunnel under his garden.', 'other_label': 'Other uploads: early stunts, Shorts, milestones and channel updates'}
 
@@ -15,8 +11,8 @@ INVENTIONS = [
    "qSjhjaN5zKI",  # 2007-09-21 WALL OF DEATH, The building process
    "0T5UOtMcjIo",  # 2007-10-12 WALL OF DEATH CRASHING
    "dN14xrnZwXw",  # 2007-11-16 WALL OF DEATH (homemade) the SCOOTER did it amazing
-   "Wear7sR65-o",  # 2011-01-21 WALL OF DEATH Teaching a man that sold his life Part 2 of 2
    "4MZZ4k0niaE",  # 2011-01-21 WALL OF DEATH Teaching a man that sold his life Part 1 of 2
+   "Wear7sR65-o",  # 2011-01-21 WALL OF DEATH Teaching a man that sold his life Part 2 of 2
    "iF1KweyWE38",  # 2012-07-19 RC CARS VS WALL OF DEATH
    "RXQOpChgksI",  # 2024-06-06 Drift Trike vs Wall of Death!!
   ],
@@ -132,6 +128,7 @@ INVENTIONS = [
   videos=[
    "V2j9ZutEi7I",  # 2014-04-15 FURZE TO MAKE X-MEN POWERS REAL
    "sdcGek-NoFQ",  # 2014-05-15 DIY X-MEN WOLVERINE fully automatic claws
+   "zR0j7I5gqc8",  # 2024-10-12 Wolverine Claws make the Best Sound
   ],
  ),
  dict(name="Magneto Shoes", kind="Gadget",
@@ -259,6 +256,7 @@ INVENTIONS = [
   videos=[
    "tg_STsy86Fw",  # 2015-07-23 Making the High Voltage Ejector Bed
    "EVzn1pl4nlo",  # 2015-07-30 The High Voltage Ejector Bed
+   "moF25xASCtI",  # 2021-11-25 Ejector bed  #shorts
   ],
  ),
  dict(name="Underground Bunker", kind="Underground",
@@ -341,7 +339,7 @@ INVENTIONS = [
    "soxxPyaAT1k",  # 2016-04-28 Homemade Hoverbike
    "92mIJG-89Bk",  # 2017-04-27 Hoverbike WON the Award so i made this!
   ],
-  links=[("TechCrunch", "https://techcrunch.com/2016/04/28/this-guy-built-a-working-hoverbike-and-somehow-managed-to-not-chop-his-legs-off/amp/"), ("Vice", "https://www.vice.com/en/article/plumber-inventor-builds-hoverbike")]),
+ ),
  dict(name="Flamethrowing Guitar", kind="Gadget",
   desc="A flamethrowing guitar and a smoking bass.",
   videos=[
@@ -637,6 +635,7 @@ INVENTIONS = [
   videos=[
    "rv1qZP2P6Yc",  # 2019-01-24 Making a Staircase TREADMILL
    "Ya1iDTix8Js",  # 2019-01-31 STAIRCASE TREADMILL The ultimate exercise machine
+   "YN0FVs0H9EQ",  # 2024-07-06 Travelator Staircase-NEVER GET UPSTAIRS AGAIN!
   ],
  ),
  dict(name="1000 Rockets vs 1000 Rockets", kind="Fireworks",
@@ -656,6 +655,7 @@ INVENTIONS = [
   desc="A wrist-mounted flick-out axe.",
   videos=[
    "rSous9YunIc",  # 2019-03-14 Flick AXE Wrist Mounted
+   "Ux8JZ-9wZ_A",  # 2023-08-20 FLICK-AXE (Hidden-axe) #assasinscreed #sekiro
   ],
  ),
  dict(name="Fold-Out Shield", kind="Gadget",
@@ -762,6 +762,7 @@ INVENTIONS = [
   desc="A social-distance bike.",
   videos=[
    "vZFDNR9V5Nc",  # 2020-04-10 The Highcycle - Social Distance Bike
+   "gihdG75oS9E",  # 2024-06-28 This bike gets HIGHER as you ride???
   ],
  ),
  dict(name="Griff's Extendable Bat", kind="Gadget",
@@ -837,16 +838,36 @@ INVENTIONS = [
    "WIe5GKyLPek",  # 2021-07-08 DIGGING A SECRET TUNNEL part 3
    "RFLqlHFoI3M",  # 2021-07-15 DIGGING A SECRET TUNNEL part 4
    "s4-gMgdsnHQ",  # 2021-11-11 DIGGING A SECRET TUNNEL Part 5
+   "tB0ELpAYkYc",  # 2021-11-14 It’s F1 Bunker Time. COME ON BOYS.
+   "n2sc5RRRi2Y",  # 2021-11-19 Digging under the house #shorts
+   "lXj49txysLA",  # 2021-11-22 They put me on a Billboard!!! #shorts
+   "aM_pamMNf9E",  # 2021-12-02 Concreting the tunnel #shorts
+   "JbbkzfyuI8o",  # 2021-12-08 How hot does the Tunnel get. #shorts
    "-IjKRK-ORSs",  # 2021-12-09 DIGGING A SECRET TUNNEL Part 6
+   "E03ILLUNYFc",  # 2021-12-30 Drilling through LAWN TO TUNNEL #shorts
+   "OLoXQZNMZ2Y",  # 2022-01-06 PUSHING A VENT UP THROUGH LAWN #shorts
+   "mmy7-6L14ms",  # 2022-01-13 TUNNEL PROGRESS #shorts
+   "mrogwI2tyDw",  # 2022-02-22 Out with the Tea in with the Jack Hammer #shorts
    "cDhWr6s4Fb4",  # 2022-02-24 DIGGING A SECRET TUNNEL Part 7
+   "KW3KcbdurQk",  # 2022-03-01 Should we all be Digging? #shorts
+   "mvIue5q1Mg0",  # 2022-03-06 Taking “Through the house” to the next level #shorts
+   "CvaDiHuld5E",  # 2022-03-14 It’s a British MUST…..NEXT tunnel video out 17th #shorts
    "diAxiWkwlC0",  # 2022-03-17 DIGGING A SECRET TUNNEL Part 8 HOUSE to SHED DONE
+   "tj0stuWYQZQ",  # 2022-03-20 Making the Stainless Steel Tunnel ladder. #short
+   "AIEpPaEp4WI",  # 2022-03-22 Does the Tunnel LEAK when it Rains #shorts
+   "vmRIjeHlHIU",  # 2022-03-25 Making a Steel Resin Underground Sign #shorts
+   "ePBGS5U8gis",  # 2022-04-05 Adding Central heating Loop to the Tunnel #shorts
+   "2pcHGQLlMVY",  # 2022-04-17 TUNNEL HYDRAULIC PRESS INSTALL #shorts
+   "lh_YrdeJ0dU",  # 2022-05-23 Tunnel video is close/Fortnite #shorts
    "A_ESR5zoGYQ",  # 2022-06-16 DIGGING A SECRET TUNNEL Part 9
+   "fNSHNXCeir8",  # 2022-06-19 Neighbours REACTION to my Underground Tunnel #shorts
    "MtZ-l-0HWcg",  # 2022-06-23 DIGGING A SECRET TUNNEL UNEDITED
    "Ok2OPHg0660",  # 2022-09-22 DIGGING A SECRET TUNNEL Part 10 Phase 1 COMPLETE
    "8RVLim5tVwU",  # 2022-12-08 IT TOOK ME 3 YEARS TO DIG.......
    "UdnmioXLVzU",  # 2023-09-28 Digging A Secret Tunnel( Phase 2 HAS BEGUN)
+   "Oz_UYJuHPGA",  # 2026-01-18 Checking the TUNNELS under my house
   ],
-  links=[("ITV News", "https://itv.com/news/anglia/2022-12-16/youtube-stars-three-year-tunnel-project-between-house-and-secret-bunker"), ("Top Gear", "https://www.topgear.com/car-news/big-reads/step-inside-most-ambitious-project-yet-britains-wackiest-inventor")]),
+ ),
  dict(name="Backpack Fireworks Display", kind="Fireworks",
   desc="A backpack-mounted fireworks display.",
   videos=[
@@ -914,15 +935,33 @@ INVENTIONS = [
   desc="Digging a secret underground garage, from the first dig to the cover-up and car lift.",
   videos=[
    "D7aWd-XJSwU",  # 2023-11-09 Digging A SECRET GARAGE Part 1
+   "9pId-pZmSRk",  # 2023-11-12 Making a BATCAVE for my car #secretgarage
    "Z-RqHz5EJqo",  # 2023-11-23 Digging A SECRET GARAGE Part 2
+   "75eSVEMb_8Y",  # 2024-02-28 It just keeps getting better #secretgarage #colinfurze
    "XWNAf7yuRDQ",  # 2024-03-14 Digging A SECRET GARAGE Part 3
+   "GiZXlzBZPCI",  # 2024-09-12 Ultimate car cave progress.
+   "zB0qnzx964U",  # 2024-09-23 Rain is not an Tunnel builders friend!!
    "Cn-sQL2hO1o",  # 2024-10-17 Digging A SECRET GARAGE Part 4 Digging Done!
+   "VhiaNItAxcU",  # 2024-11-12 Epic underground garage final dig complete
+   "3W6O2jBSHT4",  # 2024-11-24 So hot underground it smokes!!
+   "ekkzxH2FkCI",  # 2024-12-01 Is this SECRET TUNNEL still a Secret??
+   "eEV9leeNklg",  # 2024-12-21 Dealing with water in the Secret Garage
+   "niem7ToD2Q8",  # 2025-01-23 Building the BATCAVE
    "o0CFeS_EJR4",  # 2025-02-27 Digging a SECRET GARAGE Part 5 Major Progress
+   "FiLhmjsq1ZE",  # 2025-03-09 The Secret Tunnel Air Compressor!!!
+   "HTVT-WDYBZs",  # 2025-03-14 To STOP the Secret Garage Flooding….
+   "h5J1znfI1-M",  # 2025-03-30 Neighbours reaction #secretgarage
+   "yzpWDGvqAlE",  # 2025-05-13 Lifting the covers of the #secretgarage
    "5DajwrI85A0",  # 2025-05-15 Digging a SECRET Garage Part 6 THE COVER UP!
+   "JsGNY3gzEQU",  # 2025-06-29 Coming home #GTA6 style #secretgarage
+   "4DA-KpWwxfo",  # 2025-08-31 The hinge for 1/4Ton DOOR
    "g_xMKhKUC7s",  # 2026-03-26 Digging SECRET Garage Part 7 Car Lift Prep
+   "oxF2e4nqOMU",  # 2026-08-23 What’s Happened?? #secretgarage
+   "SRW_LjCD7RU",  # 2026-09-06 Fixing my VAULT Door
+   "P4B7Sj_-zVw",  # 2026-09-17 Small details take Time
    "sxur0bhmkFM",  # 2026-10-29 Digging a Secret Garage Part 8 The Last 6 Months!!
   ],
-  links=[("Jalopnik", "https://jalopnik.com/1802779/hidden-garage-under-house-project-video/"), ("Top Gear", "https://www.topgear.com/car-news/big-reads/step-inside-most-ambitious-project-yet-britains-wackiest-inventor")]),
+ ),
  dict(name="Flamethrower Underwear", kind="Gadget",
   desc="Flamethrower underwear.",
   videos=[
@@ -951,7 +990,43 @@ INVENTIONS = [
   desc="A bike, then a skateboard, with magnet suspension.",
   videos=[
    "kxs3yNjlzkg",  # 2025-12-04 The Magnet Suspension Bike
+   "sOf4luOmQCw",  # 2025-12-06 Genius Suspension
+   "_eH-EWIyvYA",  # 2025-12-15 Magnet Bikes Magnets are so Powerfull
    "yzXZ7cZXifo",  # 2026-03-12 The MAGNET Suspension SKATEBOARD
+  ],
+ ),
+ dict(name="The UnDeco", kind="Gadget",
+  desc="A new way to take down the Christmas decorations.",
+  videos=[
+   "Ymp3ZyHjC68",  # 2014-01-02 A NEW way to take down the xmas decorations, The UnDecor 500c
+  ],
+ ),
+ dict(name="Steel Picture Shelves", kind="Furniture",
+  desc="Steel picture shelves.",
+  videos=[
+   "UjzXESq9-9Y",  # 2022-01-02 Making STEEL picture Shelves #shorts
+  ],
+ ),
+ dict(name="Over-Engineered Clothes Hanger", kind="Object",
+  desc="The most over-engineered clothes hanger.",
+  videos=[
+   "1wWvdyA847k",  # 2022-04-10 Most OVER Engineered Clothes Hanger #shorts
+  ],
+ ),
+ dict(name="Magnetic Floating Skateboard", kind="Vehicle",
+  desc="A magnet hoverboard skateboard.",
+  videos=[
+   "qaZUfIboKWY",  # 2026-03-15 Magnets+Skateboard=Hoverboard
+   "fPn6GC4MUhs",  # 2026-03-29 Magnetic Floating Skateboard.
+   "W6dNfWAsJRs",  # 2026-04-19 Magnet Board cleans up!
+  ],
+ ),
+ dict(name="LEGO Tunnel Tea Delivery", kind="Machine",
+  desc="A LEGO tea bag machine, tea elevator and delivery train for the tunnel.",
+  videos=[
+   "vlThrKniVLc",  # 2026-07-09 Amazing LEGO Tea Bag Machine
+   "v746RFUhzIA",  # 2026-09-24 LEGO Tunnel Tea Elevator
+   "7uGk2Qxhkno",  # 2026-11-05 LEGO Tunnel Tea Delivery Train.
   ],
  ),
 ]
