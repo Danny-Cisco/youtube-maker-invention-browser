@@ -1,9 +1,6 @@
-"""Curated inventions for Becky Stern (@beckystern). Tutorials (knitting, braids), reviews, teardowns and motorcycle maintenance stay under Other uploads.
-kind: Wearable | Smart home | Gadget | Light
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Becky Stern. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'becky-stern', 'name': 'Becky Stern', 'person': 'Becky Stern', 'tagline': 'Wearable electronics, ESP8266 smart-home hacks and glowing everything.', 'other_label': 'Other uploads: tutorials, teardowns, reviews, motorcycle repairs and vlogs'}
 
@@ -88,8 +85,8 @@ INVENTIONS = [
    "PipAk_p-ItY",  # 2017-03-15 Motorcycle Seat pt. 1: Teardown // Becky Stern
    "Omkztpc633o",  # 2017-03-30 Motorcycle Seat pt. 2: Pan Rust Removal & Painting // Becky Stern
    "Svhg349YB_U",  # 2017-04-06 Motorcycle Seat pt 3: Shaping Upholstery Foam // Becky Stern
-   "zA2uq8_yI5o",  # 2017-04-21 Motorcycle Seat Rebuild Project Teaser // Becky Stern
    "nL3-qsOdw-I",  # 2017-04-21 Motorcycle Seat pt 4: Sewing a Vinyl Cover // Becky Stern
+   "zA2uq8_yI5o",  # 2017-04-21 Motorcycle Seat Rebuild Project Teaser // Becky Stern
   ],
  ),
  dict(name="DIY Bluetooth LED Sign", kind="Light",
@@ -350,6 +347,351 @@ INVENTIONS = [
   desc="A purse that launches cards.",
   videos=[
    "4R9bSVE5pJQ",  # 2026-09-19 I Built a Card-Launching Purse to Distract Mark Rober
+  ],
+ ),
+ dict(name="Declarative Lamp", kind="Light",
+  desc="The declarative lamp project.",
+  videos=[
+   "2MSGPfqI5L8",  # 2007-07-06 Declarative Lamp Project Overview
+  ],
+ ),
+ dict(name="Maple Cookie Table", kind="Furniture",
+  desc="A maple cookie table.",
+  videos=[
+   "OVNGeJ_ZDtU",  # 2016-03-14 Maple Cookie Table // Becky Stern
+  ],
+ ),
+ dict(name="Circuit Bent Patient Alpha", kind="Mod",
+  desc="Circuit bending Patient Alpha.",
+  videos=[
+   "u4FWm6s2J7w",  # 2016-03-21 Circuit Bending Patient Alpha // Becky Stern
+  ],
+ ),
+ dict(name="Distressed Motorcycle Headlight", kind="Mod",
+  desc="A distressed motorcycle headlight.",
+  videos=[
+   "pXQ0G05nc38",  # 2016-09-20 Distressed Motorcycle Headlight // Becky Stern
+  ],
+ ),
+ dict(name="Mounted Storage Jars", kind="Tool",
+  desc="Mounted storage jars.",
+  videos=[
+   "MJ0BYxjnQZ8",  # 2016-09-26 Mounted Storage Jars // Becky Stern
+  ],
+ ),
+ dict(name="Compubody Sock", kind="Wearable",
+  desc="The Compubody sock.",
+  videos=[
+   "euQvtep54E8",  # 2016-11-17 Compubody Sock Origin Story // Becky Stern
+  ],
+ ),
+ dict(name="Remade Ring", kind="Jewellery",
+  desc="Remaking her ring.",
+  videos=[
+   "QFS88XWWo40",  # 2017-01-10 Remaking Becky's Ring // Becky Stern
+  ],
+ ),
+ dict(name="Winter Overalls", kind="Wearable",
+  desc="Her winter overalls.",
+  videos=[
+   "qvX3t1Yiy2U",  # 2017-01-24 Becky's Winter Overalls // Becky Stern
+  ],
+ ),
+ dict(name="Quilted Vinyl Pencil Case", kind="Object",
+  desc="A quilted vinyl pencil case.",
+  videos=[
+   "F9ov4TeczFY",  # 2017-03-21 Quilted Vinyl Pencil Case // Becky Stern
+  ],
+ ),
+ dict(name="Embroidered Cat Portrait", kind="Art",
+  desc="Embroidering her cat's portrait.",
+  videos=[
+   "CTx4cy9gNXY",  # 2017-06-23 Embroidering My Cat's Portrait // Becky Stern
+  ],
+ ),
+ dict(name="Concrete Mini Planters", kind="Object",
+  desc="Concrete mini planters.",
+  videos=[
+   "N5qEwKVWDek",  # 2017-08-12 Concrete Mini Planters // Becky Stern
+  ],
+ ),
+ dict(name="Custom Helmet Stickers", kind="Object",
+  desc="Custom motorcycle helmet stickers.",
+  videos=[
+   "Qcm6OaBRvN8",  # 2017-09-03 Custom Motorcycle Helmet Stickers // Becky Stern
+  ],
+ ),
+ dict(name="Wine Cork Trivet", kind="Object",
+  desc="A wine cork trivet.",
+  videos=[
+   "tt2z9773K0o",  # 2017-09-16 Wine Cork Trivet // Becky Stern
+  ],
+ ),
+ dict(name="Leather Wallet", kind="Object",
+  desc="A leather wallet.",
+  videos=[
+   "8Fx8NRtKhX8",  # 2018-05-14 Make a Leather Wallet (Beginner Leather Working Project) // Becky Ster
+  ],
+ ),
+ dict(name="Neon Sign Remount", kind="Light",
+  desc="A neon sign remount.",
+  videos=[
+   "pzBKfGUSWZI",  # 2018-11-09 Neon Sign Remount // Becky Stern
+  ],
+ ),
+ dict(name="Easy Motorcycle Ramp", kind="Tool",
+  desc="An easy motorcycle ramp.",
+  videos=[
+   "CMeI6dCQTmw",  # 2019-01-07 Easy Motorcycle Ramp // Becky Stern
+  ],
+ ),
+ dict(name="3D Printed Planters", kind="Object",
+  desc="3D-printed succulent planters.",
+  videos=[
+   "5BqAX1zvgUQ",  # 2019-05-11 DIY Succulent Planter (3D Print)
+   "bUing3DXu-c",  # 2025-09-12 Why buy a planter when you can design your own?
+  ],
+ ),
+ dict(name="Rainbow Portrait Prism Holder", kind="Tool",
+  desc="A prism holder for rainbow portraits.",
+  videos=[
+   "4lHWLSG46QU",  # 2019-06-01 Prism Holder for Rainbow Portraits // Becky Stern
+   "10reh3-EIm4",  # 2023-06-14 Rainbow Portraits with Prism and 3D Printing
+  ],
+ ),
+ dict(name="DIY Plush Toy", kind="Toy",
+  desc="A DIY plush toy.",
+  videos=[
+   "da5L2Bl7JOs",  # 2019-09-30 DIY Plush Toy // Becky Stern
+  ],
+ ),
+ dict(name="Emergency USB Power Source", kind="Gadget",
+  desc="A 3D-printed emergency USB power source.",
+  videos=[
+   "blRWu3bp6Ig",  # 2019-11-29 Emergency USB Power Source (3D Printed) // Becky Stern
+  ],
+ ),
+ dict(name="Dust Port Adapter", kind="Tool",
+  desc="A 3D-printed dust port adapter.",
+  videos=[
+   "N5bf8diyHTs",  # 2020-05-30 3D Printed Dust Port Adapter // Becky Stern
+   "8mdfaIaro00",  # 2023-02-12 Make a Dust Port Adapter
+  ],
+ ),
+ dict(name="Maple and Epoxy Bedside Shelves", kind="Furniture",
+  desc="Bedside shelves of maple and epoxy resin.",
+  videos=[
+   "HanzQAd6fy4",  # 2020-08-02 How I Made my Bedside Shelves (Maple and Epoxy Resin DIY)
+  ],
+ ),
+ dict(name="Custom Candle Mold", kind="Tool",
+  desc="A 3D-printed custom candle mold.",
+  videos=[
+   "AYmZJpKkkEk",  # 2020-12-28 Custom Candle Mold (3D Printing)
+  ],
+ ),
+ dict(name="Embroidery + Electronics", kind="Wearable",
+  desc="Embroidery with electronics, a birthday collab with Estefannie.",
+  videos=[
+   "O9MmJV6g_iw",  # 2021-01-27 Embroidery + Electronics (Birthday Collab with Estefannie)
+  ],
+ ),
+ dict(name="Webcam Privacy Cover", kind="Object",
+  desc="A 3D-printed webcam privacy cover.",
+  videos=[
+   "Rm1C8aBRGXQ",  # 2021-06-03 3D Printed Webcam Privacy Cover
+  ],
+ ),
+ dict(name="Bitty Drum Machine Enclosure", kind="Instrument",
+  desc="Felt knobs and a 3D enclosure for the Bitty pocket drum machine.",
+  videos=[
+   "okRKcGSsdw0",  # 2022-02-20 Felt Knobs and 3D Enclosure for Bitty Pocket Drum Machine
+   "5RQ-bGV-TAU",  # 2023-02-12 Needle Felting Knobs
+   "kqQRNZRs9qQ",  # 2023-02-12 Custom 3D Enclosure
+  ],
+ ),
+ dict(name="Waxed Canvas Tool Roll", kind="Object",
+  desc="A waxed canvas tool roll with pattern.",
+  videos=[
+   "TdPUkeLv9Ac",  # 2022-04-03 Make a Waxed Canvas Tool Roll (With Pattern)
+   "rR3zQ37-UAw",  # 2023-02-27 Waxed Canvas Tool Roll
+   "_XcIBZjfXPU",  # 2025-08-04 This tool roll is one of my favorite quick sewing projects!
+  ],
+ ),
+ dict(name="Portable Soldering Station", kind="Tool",
+  desc="A DIY portable TS80P soldering station.",
+  videos=[
+   "rA5Sr7Wa0eM",  # 2022-05-29 DIY Portable Soldering Station (TS80P)
+  ],
+ ),
+ dict(name="CNC Wire Bender", kind="Machine",
+  desc="A CNC wire bender.",
+  videos=[
+   "zLJSEQ7WLTM",  # 2023-02-12 CNC Wire Bender
+  ],
+ ),
+ dict(name="Raspberry Pi Magic Mirror", kind="Gadget",
+  desc="A Raspberry Pi smart mirror.",
+  videos=[
+   "xjEOr6qgJOI",  # 2023-03-03 Raspberry Pi Smart Mirror
+   "RQ1eRz58nFk",  # 2025-05-09 RasPi Magic Mirror
+  ],
+ ),
+ dict(name="Custom Dyed Shoes", kind="Wearable",
+  desc="Custom dyed and hydrodipped shoes.",
+  videos=[
+   "t_CDRGpGOO4",  # 2023-04-09 Custom Shoes - Dye & Hydrodip
+   "0gVQtsrnYr8",  # 2023-04-10 Custom kicks and GTA 😆
+   "H1Xpc7BqrK0",  # 2025-04-04 Three Methods for Dyeing Shoes
+  ],
+ ),
+ dict(name="LED Hair", kind="Wearable",
+  desc="LEDs in her hair and LED mermaid hair.",
+  videos=[
+   "P6VZig07_qk",  # 2023-05-24 I put LEDs in my hair...
+   "kaPUWZekthw",  # 2025-05-02 LED Mermaid Hair
+  ],
+ ),
+ dict(name="Dopp Kit Bag", kind="Object",
+  desc="A dopp kit bag with free pattern.",
+  videos=[
+   "roYUNXhcySE",  # 2023-07-02 How To Sew a Dopp Kit Bag (Free Pattern)
+  ],
+ ),
+ dict(name="T-Shirt Quilt", kind="Object",
+  desc="A t-shirt quilt with her mom.",
+  videos=[
+   "oG1vu82jMH8",  # 2023-08-13 How to Make a T-Shirt Quilt ft. my Mom
+  ],
+ ),
+ dict(name="Penny Foam Wig", kind="Wearable",
+  desc="A foam wig for her Penny costume.",
+  videos=[
+   "qXZWiO9Okbs",  # 2023-10-17 I made a foam wig for my Penny costume
+  ],
+ ),
+ dict(name="3D Printed Stamps", kind="Object",
+  desc="3D-printed stamping markers and roller stamps.",
+  videos=[
+   "tlGphhJCDgw",  # 2023-11-12 3D Printed Stamping Markers (Files Included)
+   "-qzKWrCGxHw",  # 2023-12-01 Make your own roller stamps with Tinkercad
+  ],
+ ),
+ dict(name="Ring Holder Necklace", kind="Jewellery",
+  desc="A ring holder necklace.",
+  videos=[
+   "QiXbn6OQ9_w",  # 2023-12-03 How to make a ring holder necklace
+  ],
+ ),
+ dict(name="Modded Kit-Cat Clock", kind="Mod",
+  desc="A modded Kit-Cat clock.",
+  videos=[
+   "dOEkjh0NdhQ",  # 2023-12-22 Modded Kit-Cat Clock
+  ],
+ ),
+ dict(name="Cat TV", kind="Gadget",
+  desc="A television for her cat.",
+  videos=[
+   "wLGptYVWmAE",  # 2024-03-19 Cat TV #raspberrypi #3dprinting
+   "ZSttZ2Oncyo",  # 2025-09-19 Yes, I built my cat a television.
+  ],
+ ),
+ dict(name="Easy LED Painting", kind="Art",
+  desc="An LED painting.",
+  videos=[
+   "TvWgfJSrqPU",  # 2024-04-17 Easy LED painting #diy #diyelectronics #neopixel
+  ],
+ ),
+ dict(name="Coin Cell Battery Holder", kind="Part",
+  desc="A coin cell battery holder.",
+  videos=[
+   "_q-SgCRi0Xo",  # 2024-10-21 How I Made This Coincell Battery Holder
+  ],
+ ),
+ dict(name="Wedding Place Cards", kind="Object",
+  desc="Wedding place cards and a robot that wrote 100+ notes.",
+  videos=[
+   "4BTP3QS946g",  # 2024-12-01 How I Made My Wedding Place Cards
+   "KokV03ZQ8Is",  # 2024-12-20 This robot wrote 100+ wedding notes for me @bantamtools
+  ],
+ ),
+ dict(name="PS4 Controller Sequencer", kind="Instrument",
+  desc="A PS4 controller sequencer.",
+  videos=[
+   "ybChqf0R2J0",  # 2025-01-13 Stages of developing a PS4 controller sequencer
+  ],
+ ),
+ dict(name="Canvas Backpack", kind="Object",
+  desc="A canvas backpack with pattern.",
+  videos=[
+   "5w81ZvZcmJs",  # 2025-05-25 Make this canvas backpack!
+   "OpNhvjofDAk",  # 2025-05-25 Making a Canvas Backpack (with Pattern)
+  ],
+ ),
+ dict(name="3D Printed Pattern Weights", kind="Tool",
+  desc="3D-printed pattern weights for sewing.",
+  videos=[
+   "5jZdawoYMZs",  # 2025-05-26 3D printed pattern weights for sewing!
+  ],
+ ),
+ dict(name="LED Mushroom Menus", kind="Light",
+  desc="LED mushroom menus.",
+  videos=[
+   "C0KtfFwE5Gc",  # 2025-06-10 I made these LED mushroom menus
+  ],
+ ),
+ dict(name="Automated Cat Food Bowl", kind="Gadget",
+  desc="An automated food bowl for her diabetic cat.",
+  videos=[
+   "PEtOg0Cfj9s",  # 2025-08-01 Built an automated food bowl for my diabetic cat
+  ],
+ ),
+ dict(name="Inspector Gadget Build", kind="Prop",
+  desc="A build for Inspector Gadget fans.",
+  videos=[
+   "qsG6mIqDU90",  # 2025-10-03 Inspector Gadget fans, this one’s for you!
+  ],
+ ),
+ dict(name="LED Poles", kind="Light",
+  desc="LED poles.",
+  videos=[
+   "aNK8mj8ILIM",  # 2025-10-25 LED Poles
+  ],
+ ),
+ dict(name="Tape Mannequin", kind="Tool",
+  desc="A tape mannequin.",
+  videos=[
+   "gFgsxYwIEZ4",  # 2026-01-31 Tape Mannequin!
+  ],
+ ),
+ dict(name="Custom Suit Jacket", kind="Wearable",
+  desc="A custom suit jacket in five days.",
+  videos=[
+   "vFs3DUMfZfs",  # 2026-02-04 Custom Suit Jacket in 5 Days?!
+  ],
+ ),
+ dict(name="Vape Synth", kind="Instrument",
+  desc="A synth from a disposable vape.",
+  videos=[
+   "906eZCfCDdY",  # 2026-03-31 Vape Synth! 🎷
+  ],
+ ),
+ dict(name="Girlfriend 3D Print", kind="Object",
+  desc="A 3D print to get a girlfriend.",
+  videos=[
+   "WUUnGfWuCdI",  # 2026-07-12 3D Print This to Get a Girlfriend
+  ],
+ ),
+ dict(name="Distraction-Free Sales Notifier", kind="Gadget",
+  desc="A distraction-free sales notifier.",
+  videos=[
+   "mRTlPu6x004",  # 2026-08-13 I built a distraction-free sales notifier
+  ],
+ ),
+ dict(name="Card-Launching Purse", kind="Gadget",
+  desc="A card-launching purse for Mark Rober's casino.",
+  videos=[
+   "RdJuPTXxesU",  # 2026-10-12 Making a card-launching purse for Mark Rober's casino
   ],
  ),
 ]

@@ -1,5 +1,6 @@
-"""Curated inventions for mewtru. Hand-grouped: most uploads are Shorts with varying titles, so the automatic
-drafter could not tell which videos belong to the same build. Every upload not listed here appears under "Other uploads"."""
+"""Inventions of mewtru. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'mewtru', 'name': 'mewtru', 'tagline': 'A software engineer turned hardware maker: tiny e-readers, a digital camera, plant Tamagotchis and an mp3 hairclip.', 'other_label': 'Other uploads: coding skits and tips', 'person': 'mewtru'}
 
@@ -170,6 +171,82 @@ INVENTIONS = [
   desc="A Wordle bot for Discord.",
   videos=[
    "ztt3J_lsbBo",  # 2022-01-25 I made a Discord wordle bot!
+  ],
+ ),
+ dict(name="Cursed UI Inputs", kind="Software",
+  desc="Deliberately cursed and playful web inputs: date pickers, password pianos, phone number inputs, volume controls and login pages.",
+  videos=[
+   "llrm5SStkMg",  # 2023-12-01 Coding cursed date pickers ✨
+   "41Gv2qEq89s",  # 2023-12-12 Making an age input but ✨fun✨ #coding
+   "xhxBLz4c7AI",  # 2024-01-04 Coding an interactive height and weight input 👀
+   "gBMnl6R97V4",  # 2024-01-17 A password input but make it ✨fun✨ 🎹
+   "H58I1ubVvgg",  # 2024-01-23 Writing your password? Nah, how about drawing it!!!
+   "D5mSgZf9eTk",  # 2024-07-29 My website had too many password issues… so I fixed it… #codinglife #c
+   "nGeQWqZAl5M",  # 2024-08-14 My boss told me to fix our login problems… so I did #coding
+   "v6oIP7wFbmc",  # 2024-08-26 My boss said to fix our password issues… so I did
+   "1yP-GRu309E",  # 2024-08-27 Making my security team mad 😌
+   "g3rMU28d0WU",  # 2024-08-30 My boss said I need to increase user retention or I’m fired… 🥲 #webdev
+   "wFXs5PXOg1o",  # 2024-09-25 I got in trouble for something I coded… so I fixed it..
+   "WwvqKpMJwY4",  # 2024-10-14 My boss told me to be more creative…#coding
+   "jAeAu50xdA4",  # 2024-12-04 My boss said to be more creative… #coding
+   "FQrxgvTaSWA",  # 2024-12-20 My boss said be more creative with the feedback page… here’s what we c
+   "G_fltdxUyYM",  # 2025-02-10 Boss said to make phone number input more fun… so I did… #coding
+   "KW66_6KX0S8",  # 2025-02-22 Here’s how you stop people from deleting their accounts #coding #softw
+   "XBn87YMUVYg",  # 2025-02-23 I coded a better scrollbar 🐛
+   "NB6bHoM-vec",  # 2025-03-11 My boss said to code a better sign in page..
+   "8vetCOqE7CA",  # 2025-04-14 Making the WORST volume control UI #coding
+   "iJZSygs6zbw",  # 2025-05-29 My boss said to make our website more ✨ fun ✨… #coding #uiux
+   "5vi22Z8gAhE",  # 2025-09-22 Coding the WORST volume control UI 😛
+   "oJBjm7-TqUo",  # 2025-12-01 When your boss says to be more creative… #uiux #design #website
+  ],
+ ),
+ dict(name="Smallest Flappy Bird", kind="Game",
+  desc="The smallest Flappy Bird game.",
+  videos=[
+   "OBbyyj3xY8I",  # 2025-02-13 I coded the smallest flappy bird game 🤓
+  ],
+ ),
+ dict(name="Coded Valentine Cards", kind="Software",
+  desc="Coded Valentine's cards.",
+  videos=[
+   "FEDpzKv4Jpk",  # 2024-02-23 I asked him to be my bf with code 🥺
+   "CNn6uFkMjJQ",  # 2025-01-28 I coded him a custom Valentine’s Day card 😅…
+  ],
+ ),
+ dict(name="ElevenLabs Build-a-Bear", kind="Toy",
+  desc="A talking build-a-bear.",
+  videos=[
+   "XCIhunbCdRw",  # 2026-05-19 I made a build a bear using ElevenLabs! #ad
+  ],
+ ),
+ dict(name="AI Laundry Chime", kind="Gadget",
+  desc="A laundry chime for her AI.",
+  videos=[
+   "wFY_BBSIT70",  # 2026-05-21 I made a laundry chime for my AI #ad
+  ],
+ ),
+ dict(name="ESP32 Mirror", kind="Gadget",
+  desc="An ESP32 mirror.",
+  videos=[
+   "RhiQpHZ2vpI",  # 2026-05-28 Only real engineers get the esp32 mirror 😤
+  ],
+ ),
+ dict(name="Codex Device", kind="Gadget",
+  desc="A codex made with Codex.",
+  videos=[
+   "Km5XBNmSvbo",  # 2026-08-19 I made a codex with Codex!! @OpenAI
+  ],
+ ),
+ dict(name="Secret Fortnite Gaming Device", kind="Game",
+  desc="A secret Fortnite gaming device.",
+  videos=[
+   "8OuB0VmBJtA",  # 2026-08-22 I made a secret Fortnite gaming device #epicpartner
+  ],
+ ),
+ dict(name="Interactive Electronics Guide", kind="Software",
+  desc="An interactive guide to learning electronics.",
+  videos=[
+   "mvl58ZDpyQY",  # 2026-09-04 I built an interactive guide to learning electronics using @canva #Can
   ],
  ),
 ]
