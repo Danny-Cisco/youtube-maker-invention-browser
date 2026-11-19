@@ -1,75 +1,96 @@
-"""Curated inventions for Atarabyte (@atarabyte).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Atarabyte. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'atarabyte', 'name': 'Atarabyte', 'person': 'Atarabyte', 'tagline': 'PCB design and electronics projects.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Samsung G9 vs Samsung Neo G9", kind="Build",
-  desc="Hey everyone here's a quick side by side of the two monitors!",
+ dict(name="3D Printed Pokémon", kind="Model",
+  desc="A Pokémon she made.",
   videos=[
-   "0tVw6Zn7tic",  # 2021-08-28 Samsung G9 vs Samsung Neo G9 (Quick Comparison)
+   "CJZNXl0oJtU",  # 2024-08-02 I made a Pokemon! #3dprinting #creative #inspiration #painting  #diy #
   ],
  ),
- dict(name="Lego Vespa Build", kind="Build",
-  desc="Lego Vespa Build Part 3!.",
+ dict(name="Her Inventions", kind="Gadget",
+  desc="Things she invented.",
   videos=[
-   "N3Ag1g8EYfs",  # 2023-01-04 Lego Vespa Build Part 3!
+   "1kGBtOlag8I",  # 2024-08-10 I invented these! #diy #science #engineering #inventions #creative #cr
   ],
  ),
- dict(name="Finally Soldering Again", kind="Build",
-  desc="I hope you enjoy this video!",
+ dict(name="Pokéball Game Boy", kind="Game",
+  desc="A Pokéball Game Boy.",
   videos=[
-   "E8jZPPkkO4M",  # 2024-09-19 How to solder! #soldering #electronics #diy #engineering #pcb #tech #t
-   "w2-VLTIHajw",  # 2024-09-20 Soldering #soldering #electronics #engineering #tech #pcb #stem #howto
-   "-gjVtJbt_fE",  # 2026-01-29 Finally Soldering Again!!!
+   "4fk2yhkP6Yg",  # 2025-07-01 Pokeball Gameboy! #pokemon #gameboy #engineering #3dprint #3dprinting 
+   "Agwev4Ktdp0",  # 2025-09-02 Is this an excuse to get another Gameboy?🫣 #Gameboy #retrogamer #aesth
+   "406lA3Rkgbo",  # 2026-07-14 It's alive!!! #gameboy #retro #pokemon #3dprint #3dmodel
   ],
  ),
- dict(name="I made a Printed Circuit Board Hair Bow", kind="Build",
-  desc="I hope you enjoy this video!",
+ dict(name="PCB Hair Bow", kind="Wearable",
+  desc="A printed circuit board hair bow.",
   videos=[
    "DSpQ15UDL_Q",  # 2025-09-25 I made a Printed Circuit Board Hair Bow!
   ],
  ),
- dict(name="Hi Everyone!! Project updatees and show and tell", kind="Build",
-  desc="I hope you enjoy this video!",
-  videos=[
-   "fYhZ7IpAgXE",  # 2026-01-21 Hi Everyone!! Project updatees and show and tell
-  ],
- ),
- dict(name="Soldering, Teaching and finishing my Lego build", kind="Build",
-  desc="I hope you enjoy this video!",
-  videos=[
-   "xIpy10FqWJc",  # 2026-02-11 Soldering, Teaching and finishing my Lego build
-  ],
- ),
- dict(name="Soldering a synth kit", kind="Build",
-  desc="Soldering a synth kit.",
-  videos=[
-   "d-lYezT0ho8",  # 2026-02-19 Soldering a synth kit
-   "84y0LgfVsVw",  # 2026-02-20 Soldering a Synth Kit! #engineering #tech #soldering #egirl #twitch
-  ],
- ),
- dict(name="Soldering the Minicord", kind="Build",
-  desc="I hope you enjoy this video!",
+ dict(name="Rotom MiniCord", kind="Instrument",
+  desc="A Rotom-themed MiniCord with a custom 3D-printed case and PCB.",
   videos=[
    "8T95VUgcFNc",  # 2026-02-27 soldering a minicord! #engineering #electronics #diy #soldering #short
    "EqTses223aU",  # 2026-03-05 Soldering the Minicord!
+   "61K_P0bPzC0",  # 2026-03-15 Rotom MiniCord #3dmodel #3dprint #soldering #engineering #electronics 
    "UkL2r5YtkkI",  # 2026-03-24 Soldering the Minicord!
+   "vAjIjyQF9rY",  # 2026-04-30 #ad Update on my Minicord! Thank tou @pcbway for making the PCBs #engi
+   "z_nStjwgJIg",  # 2026-05-28 We need to finish this! And Thank you @pcbway #pokemon #gameboy #pcbwa
    "ULp9CQGQWls",  # 2026-06-03 Finishing Soldering the Minicord!
   ],
  ),
- dict(name="Soldering and tech talk", kind="Build",
-  desc="Soldering and tech talk.",
+ dict(name="3D Printed Dog Armour", kind="Wearable",
+  desc="3D-printed dog armour, including a Space Marine dog.",
   videos=[
-   "DqFjQpTIIeA",  # 2026-02-27 Soldering and tech talk
+   "zO0bs15bhoM",  # 2025-11-21 3D printed Dog Armor! #3dprinting #vfx #cgi #3dmodeling #engineering #
+   "FaZ7rWlKdKo",  # 2026-05-30 Space Marine Dog! #spacemarine #warhammer40k #shibainu #shibastagram #
   ],
  ),
- dict(name="Creating a PCB from the beginning", kind="Build",
-  desc="In this video, I'm showing you how to use Altium designer to make schematics for your circuit!",
+ dict(name="Gengar PCB", kind="Electronics",
+  desc="A Gengar PCB.",
   videos=[
+   "IHTSV0X8gUM",  # 2026-01-30 Gengar PCB! Thank you @pcbway #AD #engineering #pokemon #PCB #PCBWay
+  ],
+ ),
+ dict(name="ESP32 Gadget", kind="Electronics",
+  desc="Something she made with an ESP32.",
+  videos=[
+   "Va0MlgZxsiE",  # 2026-03-27 I made this with an ESP32! #engineering #engineer #science #diy #signa
+  ],
+ ),
+ dict(name="Hello Kitty Case", kind="Object",
+  desc="A Hello Kitty case.",
+  videos=[
+   "V1438HZ1BNQ",  # 2026-03-31 Hello Kitty Case! #electronics #3Dprint #DIY #engineering #3dmodel
+  ],
+ ),
+ dict(name="Cyberdeck Cat", kind="Computer",
+  desc="A cyberdeck cat.",
+  videos=[
+   "ygzFHIz7bWY",  # 2026-05-29 I made a Cyberdeck Cat! #cyberdeck #raspberrypi #3dprinting #fusion #e
+   "TwViVxRWxDk",  # 2026-07-02 Cyberdecks are amazing #electronics #cyberdeck #raspberrypi #engineeri
+  ],
+ ),
+ dict(name="Dog Detector", kind="Electronics",
+  desc="A dog detector.",
+  videos=[
+   "QLpXewouNNo",  # 2026-06-30 Dog detector! #electronics #engineering #science #electricalengineerin
+  ],
+ ),
+ dict(name="WiFi LED Sign", kind="Light",
+  desc="A 3D-printed ESP32 WiFi LED sign.",
+  videos=[
+   "gdQgByfisnY",  # 2026-08-16 Hello Wifi!  #led #DIY #esp32 #3dprint #3dmodel
+  ],
+ ),
+ dict(name="PCB From Scratch", kind="Electronics",
+  desc="Creating a PCB from the beginning in Altium.",
+  videos=[
+   "Z3Dj7cqdlNw",  # 2026-10-31 Circuit to PCB! #AltiumDesigner #PCBDesign #Electronics #Engineering #
    "4Acl3_edCOk",  # 2026-11-12 Creating a PCB from the beginning
    "Z-FL6SRvqFc",  # 2026-11-12 Creating a PCB #pcb #altium #circuit #electricalengineering  #ad
   ],

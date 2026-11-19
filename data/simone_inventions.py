@@ -1,14 +1,8 @@
-"""Curated inventions for Simone Giertz (single channel: @simonegiertz).
+"""Inventions of Simone Giertz. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
-"Queen of Shitty Robots" was her nickname, not a separate channel; Yetch is her product company.
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not listed
-here appears under "Other uploads" on the site.
-kind: Shitty robot | Machine | Furniture | Product | Wearable | Vehicle
-"""
-
-CREATOR = dict(slug="simone-giertz", name="Simone Giertz", person="Simone Giertz",
-               tagline="From shitty robots to Truckla to Yetch products: inventor and breaker of things.",
-               other_label="Other uploads: vlogs, Q&As, product updates and behind the scenes")
+CREATOR = {'slug': 'simone-giertz', 'name': 'Simone Giertz', 'person': 'Simone Giertz', 'tagline': 'From shitty robots to Truckla to Yetch products: inventor and breaker of things.', 'other_label': 'Other uploads: vlogs, Q&As, product updates and behind the scenes'}
 
 INVENTIONS = [
  dict(name="Toothbrush Machine", kind="Shitty robot",
@@ -16,22 +10,22 @@ INVENTIONS = [
   videos=[
    "Ki7lqI6XE2s",  # 2015-08-07 The Toothbrush Machine
   ],
-  links=[("Vice: why she built it", "https://www.vice.com/en/article/this-inventor-made-a-robotic-toothbrushing-helmet-so-we-asked-her-uh-why"), ("Instructables: build it yourself", "https://www.instructables.com/Toothbrush-machine")]),
+ ),
  dict(name="Breakfast Machine", kind="Shitty robot",
   desc="A robot arm that feeds you breakfast, flinging cereal and milk more than feeding.",
   videos=[
-   "Y4E3e8eHyz0",  # 2015-11-04 Breakfast Machine VLOG
    "E2evC2xTNWg",  # 2015-11-04 The Breakfast Machine
+   "Y4E3e8eHyz0",  # 2015-11-04 Breakfast Machine VLOG
   ],
  ),
  dict(name="Wake-up Machine", kind="Shitty robot",
   desc="An alarm clock that slaps you awake with a rubber arm, filmed over three takes and one fail.",
   videos=[
+   "0MzPVe30Q1A",  # 2015-11-11 Wake-up Machine FAIL
    "61FaYVGVY_I",  # 2015-11-11 The Wake-up Machine TAKE #3
    "7akbIH-IsHA",  # 2015-11-11 The Wake-up Machine TAKE #2
    "Lh2-iJj3dI0",  # 2015-11-11 The Wake-up Machine TAKE #1
    "mXLzfAHl4-k",  # 2015-11-11 The Wake-up Machine VLOG
-   "0MzPVe30Q1A",  # 2015-11-11 Wake-up Machine FAIL
   ],
  ),
  dict(name="Chopping Machine", kind="Shitty robot",
@@ -220,12 +214,12 @@ INVENTIONS = [
  dict(name="Truckla", kind="Vehicle",
   desc="Tired of waiting for Tesla's pickup, she cut the back off a Tesla Model 3 and turned it into a pickup truck, with a cab rear from a GMC Canyon and bed parts from a Ford F-150, and a fake commercial to launch it. Her biggest video.",
   videos=[
-   "jKv_N0IDS2A",  # 2019-06-18 I TURNED MY TESLA INTO A PICKUP TRUCK
    "R35gWBtLCYg",  # 2019-06-18 TRUCKLA: The world's first Tesla pickup truck
+   "jKv_N0IDS2A",  # 2019-06-18 I TURNED MY TESLA INTO A PICKUP TRUCK
    "FCKjmfsgBBY",  # 2019-11-27 Driving my car around is... weird || TRUCKLA UPDATE + CYBERTRUCK
    "bmUW0dzQPmY",  # 2023-03-30 What ever happened to Truckla?
   ],
-  links=[("The Drive", "https://www.thedrive.com/news/28585/this-is-the-worlds-first-and-only-tesla-pickup-truck-and-it-looks-like-an-el-camino"), ("TechSpot", "https://www.techspot.com/news/80567-youtuber-simone-giertz-converted-new-tesla-model-3.html"), ("Motor Authority", "https://www.motorauthority.com/news/1123685_meet-the-woman-who-turned-a-tesla-model-3-into-a-pickup-truck")]),
+ ),
  dict(name="Mantis Shrimp Costume", kind="Wearable",
   desc="A mantis shrimp costume.",
   videos=[
@@ -305,7 +299,7 @@ INVENTIONS = [
    "G5VQUDpK9Iw",  # 2021-09-29 A mechanical table with a hidden puzzle surface
    "wl7y9MBR_Z8",  # 2026-03-17 What should we focus on next? Puzzle Table or Companion Chair?
   ],
-  links=[("Laughing Squid", "https://laughingsquid.com/mechanical-table-with-hidden-tabletop/")]),
+ ),
  dict(name="Safety Glasses Hat", kind="Wearable",
   desc="Safety glasses and a hat in one.",
   videos=[
@@ -361,6 +355,7 @@ INVENTIONS = [
   desc="A machine that plays songs by popping bubble wrap.",
   videos=[
    "nLGs7auWdgE",  # 2022-08-12 This machine plays songs by popping bubble wrap
+   "EvpO_cGQpLI",  # 2022-09-10 The music genre you didn’t know you didn’t need
   ],
  ),
  dict(name="Childhood Chair Remake", kind="Furniture",
@@ -433,13 +428,13 @@ INVENTIONS = [
   desc="A chair for half-dirty clothes, with swivelling arms to hang them on. It became a Yetch product and a Kickstarter that raised close to $1 million in 2026.",
   videos=[
    "H175G8NH2Cg",  # 2024-12-07 A chair built for your half-dirty clothes
-   "Tm3DLUAhAzI",  # 2026-03-13 I made a chair for your half-dirty clothes PART 2
    "F3rI7IVoBp4",  # 2026-03-13 The Laundry Chair is finally here!
+   "Tm3DLUAhAzI",  # 2026-03-13 I made a chair for your half-dirty clothes PART 2
    "XIg84kiErsQ",  # 2026-03-14 We have the solution to all your problems! Or actually, just this one 
    "Q_f8w9aI1UM",  # 2026-03-27 I made a better chair for your bedroom
    "3L7D86wYSYw",  # 2026-04-04 What will it be? A white or red chair baby?
   ],
-  links=[("Core77", "https://www.core77.com/posts/142662/Simone-Giertzs-Brilliant-Swivel-Arm-Laundry-Chair-is-Now-a-Kickstarter-Smash"), ("Kickstarter interview", "https://updates.kickstarter.com/creator-spotlight-why-simone-giertz-turned-to-kickstarter-for-her-latest-invention/")]),
+ ),
  dict(name="Friend-Hangout Phone Case", kind="Product",
   desc="A phone case for when you're hanging out with friends.",
   videos=[
@@ -489,15 +484,15 @@ INVENTIONS = [
  dict(name="Phone-Addiction Plant", kind="Machine",
   desc="A plant that dies if she's on her phone too much.",
   videos=[
-   "VevHScaB_Kk",  # 2025-11-25 This plant will die if I'm on my phone too much
    "0rXpncpkLcw",  # 2025-11-25 This plant will die if I'm on my phone too much
+   "VevHScaB_Kk",  # 2025-11-25 This plant will die if I'm on my phone too much
   ],
  ),
  dict(name="Changing Lamp", kind="Furniture",
   desc="A lamp that changes every time you look at it.",
   videos=[
-   "qPHwRGTGIOU",  # 2026-01-30 This lamp changes every time you look at it
    "GPSNT5vjSO8",  # 2026-01-30 This lamp changes every time you look at it
+   "qPHwRGTGIOU",  # 2026-01-30 This lamp changes every time you look at it
   ],
  ),
  dict(name="Shape-Changing Fruit Bowl", kind="Furniture",
@@ -506,12 +501,12 @@ INVENTIONS = [
    "9jPVsWPs4p8",  # 2026-03-10 A fruit bowl that mechanically changes size
    "dzUdIUzTvzM",  # 2026-03-11 A fruit bowl that mechanically changes size
   ],
-  links=[("Hackaday", "https://hackaday.com/tag/simone-giertz")]),
+ ),
  dict(name="Hidden-TV Art", kind="Furniture",
   desc="Art with a secret function: it hides your TV.",
   videos=[
-   "vpn48TGRBeA",  # 2026-04-08 This art has a secret function
    "8KhhGZTcUJA",  # 2026-04-08 This art has a secret function
+   "vpn48TGRBeA",  # 2026-04-08 This art has a secret function
    "PPFztWjluQI",  # 2026-05-08 POV: Hide your TV, but make it art
   ],
  ),
@@ -525,8 +520,8 @@ INVENTIONS = [
  dict(name="Everyday Welding Jacket", kind="Wearable",
   desc="An old welding jacket redesigned for everyday life.",
   videos=[
-   "wynxywGRI4s",  # 2026-08-28 Redesigning an old welding jacket for everyday life
    "wJruCJeJfhs",  # 2026-08-28 Redesigning an old welding jacket for everyday life
+   "wynxywGRI4s",  # 2026-08-28 Redesigning an old welding jacket for everyday life
   ],
  ),
 ]
