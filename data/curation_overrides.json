@@ -1,52 +1,121 @@
 {
  "fran-blanche": {
+  "reviewed": "Judged by hand: only things Fran designed or made. Repairs, restorations, kits, techniques, Q&As and studies of other people's work are out.",
   "merge": {
    "Project Egress": [
     "project egress"
    ],
-   "BINA-VIEW": [
+   "BINA-VIEW Controller": [
     "bina"
    ],
    "Apollo DSKY Display": [
     "dsky"
    ],
-   "Sputnik": [
+   "Sputnik Model and Beeper Kit": [
     "sputnik"
    ],
    "Nixie Counter": [
     "nixie test project",
-    "nixie counter prototype"
+    "nixie counter prototype",
+    "^Nixie Counter$"
+   ],
+   "Digital Audio Cartridge Recorder": [
+    "audio cartridge",
+    "voice recorder with cartridge",
+    "cartridge recorder"
+   ],
+   "Frantone Vibutron Pedal": [
+    "vibutron"
+   ],
+   "Frantone Fretboard": [
+    "frantone fretboard"
+   ],
+   "Cessna 172 Flight Simulator": [
+    "flight sim with real cessna"
+   ],
+   "Apollo Flight Com System": [
+    "apollo flight com"
+   ],
+   "TTL NAND Logic Device": [
+    "home made ttl nand"
+   ],
+   "Space Attack Video Multicade": [
+    "space attack"
+   ],
+   "Numitron BCD Counter": [
+    "bcd modular counter"
+   ],
+   "AC Synchronous NIMO Clock": [
+    "designing ac synchronous"
+   ],
+   "Camera Mount": [
+    "new camera mount"
+   ],
+   "Silkscreen Jig and Vacuum Holddown": [
+    "silkscreen jig"
+   ],
+   "CNC-Cut Clock Case": [
+    "clock case with the origin"
+   ],
+   "50 Hz Clock Circuit Converter": [
+    "50hz digital clock"
+   ],
+   "Center Punch": [
+    "ultimate center punch"
+   ],
+   "3D Printer Vent Hood": [
+    "m3 3d printer vent hood"
+   ],
+   "Space Odyssey Control Panel": [
+    "space odyssey control panel"
+   ],
+   "PCB Assembly Jigs": [
+    "pcb production assembly jigs"
+   ],
+   "Mini Manual Movie Machine": [
+    "mini manual movie machine"
+   ],
+   "ATmega328P Custom Sign": [
+    "custom sign with an atmega"
+   ],
+   "Scrounge Build": [
+    "scrounge build"
+   ],
+   "Plaster Sculpture": [
+    "plaster sculpture"
+   ],
+   "3D-Printed Mega Displays": [
+    "3d printed mega displays"
    ]
   },
-  "drop": [
-   "^Building Launch Complex",
-   "^JPL:",
-   "^Making Commodore 64 Software In 1983",
-   "^One Last Donkey Kong",
-   "^Driveway Meteorite",
-   "^Electronic Project Kit Shootout",
-   "^Adventures In Pocket",
-   "^Trying Out The Leroy",
-   "^Philly Fixers",
-   "^VCF 2015",
-   "^Making It Young",
-   "Lab Cookies",
-   "DIY Cinema",
-   "^Starship:",
-   "^Update for",
-   "^Fran's Projects",
-   "^Fran's Dangerous Toys",
-   "^Rare Toys",
-   "^The Dawn Of Digital",
-   "^Oh, Those Bots",
-   "^Made Too Well",
-   "^Digital Clock Or Automaton",
-   "^Kensington Kinetic",
-   "Shirt",
-   "^If At First",
-   "^Real vs\\. Fake",
-   "^Solving The Mystery",
-   "^Doing Arduino Down"
+  "keep": [
+   "^Project Egress$",
+   "^BINA-VIEW Controller$",
+   "^Apollo DSKY Display$",
+   "^Sputnik Model and Beeper Kit$",
+   "^Nixie Counter$",
+   "^Digital Audio Cartridge Recorder$",
+   "^Frantone Vibutron Pedal$",
+   "^Frantone Fretboard$",
+   "^Cessna 172 Flight Simulator$",
+   "^Apollo Flight Com System$",
+   "^TTL NAND Logic Device$",
+   "^Space Attack Video Multicade$",
+   "^Numitron BCD Counter$",
+   "^AC Synchronous NIMO Clock$",
+   "^Camera Mount$",
+   "^Silkscreen Jig and Vacuum Holddown$",
+   "^CNC-Cut Clock Case$",
+   "^50 Hz Clock Circuit Converter$",
+   "^Center Punch$",
+   "^3D Printer Vent Hood$",
+   "^Space Odyssey Control Panel$",
+   "^PCB Assembly Jigs$",
+   "^Mini Manual Movie Machine$",
+   "^ATmega328P Custom Sign$",
+   "^Scrounge Build$",
+   "^Plaster Sculpture$",
+   "^3D-Printed Mega Displays$"
   ]
  },
  "hainbach": {
