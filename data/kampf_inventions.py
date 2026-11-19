@@ -1,10 +1,6 @@
-"""Curated inventions for Laura Kampf (@laurakampf).
-Her big multi-video projects are grouped; notable single builds are listed; smaller one-offs stay under Other uploads.
-kind: Bike & vehicle | Home & build | Furniture | Workshop | Camping & outdoor | Gadget
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Laura Kampf. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'laura-kampf', 'name': 'Laura Kampf', 'person': 'Laura Kampf', 'tagline': 'Bikes, campers, a 120-year-old house and clever builds from trash.', 'other_label': 'Other uploads: one-off builds, tips, vlogs, livestreams and updates'}
 
@@ -326,7 +322,7 @@ INVENTIONS = [
    "Jo93xvxZBkU",  # 2024-11-03 I bet most people think this is ugly...(Rescuing a 120 year old house)
   ],
  ),
- dict(name="Tiny House (2022\u201323)", kind="Home & build",
+ dict(name="Tiny House (2022–23)", kind="Home & build",
   desc="Building a second tiny house fast, under 10,000, in 12 weeks: walls in 6 days, water damage, lap siding, a do-everything bed, a tiny workshop and moving in.",
   videos=[
    "pbUSjRkrEWQ",  # 2022-12-11 Building a Tiny House...FAST!
@@ -426,6 +422,996 @@ INVENTIONS = [
    "letiri0mT1I",  # 2026-10-11 I Can't Believe this Works! (Junk Boom Box Ep. 2)
    "8VS7ehMUTtQ",  # 2026-11-01 My Soundsystem Is Coming Together!!
    "Ehmsdlf4jLQ",  # 2026-11-08 A Soundsystem Made From Junk...How much was it??
+  ],
+ ),
+ dict(name="Diresta Starkey", kind="Build",
+  desc="Laura´s Diresta Starkey.",
+  videos=[
+   "5iazVWPGmGo",  # 2015-12-06 Laura´s Diresta Starkey
+  ],
+ ),
+ dict(name="Doghouse Table", kind="Build",
+  desc="Laura´s Doghouse Table.",
+  videos=[
+   "e2kyGP-ZJSw",  # 2015-12-12 Laura´s Doghouse Table
+  ],
+ ),
+ dict(name="Walnut Table with Bowties", kind="Build",
+  desc="Laura´s Walnut Table with Bowties.",
+  videos=[
+   "WsE3BS-j8sY",  # 2015-12-20 Laura´s Walnut Table with Bowties
+  ],
+ ),
+ dict(name="Thank You Lamp", kind="Build",
+  desc="Laura´s Thank You Lamp.",
+  videos=[
+   "X83D9KOmeeA",  # 2016-01-02 Laura´s Thank You Lamp
+  ],
+ ),
+ dict(name="Camera Slider", kind="Build",
+  desc="Laura´s Camera Slider.",
+  videos=[
+   "96B1bB9c-CI",  # 2016-02-28 Laura´s Camera Slider
+  ],
+ ),
+ dict(name="A Motor for Dolly", kind="Build",
+  desc="A Motor for Dolly.",
+  videos=[
+   "ZZ-vipj58R8",  # 2016-03-05 A Motor for Dolly
+  ],
+ ),
+ dict(name="Light-Table", kind="Build",
+  desc="Laura´s Light-Table.",
+  videos=[
+   "U9VXpp0xc-0",  # 2016-03-13 Laura´s Light-Table
+  ],
+ ),
+ dict(name="Upcycled Wall", kind="Build",
+  desc="Laura´s Upcycled Wall.",
+  videos=[
+   "fdaddi1rKyk",  # 2016-03-27 Laura´s Upcycled Wall
+  ],
+ ),
+ dict(name="Light-Up Arrow", kind="Build",
+  desc="Laura´s Light-Up Arrow.",
+  videos=[
+   "OoR2tjd2biQ",  # 2016-04-03 Laura´s Light-Up Arrow
+  ],
+ ),
+ dict(name="Lucille", kind="Build",
+  desc="Lucille (The Walking Dead Mini-Prop).",
+  videos=[
+   "v4K6TJ1i3Dw",  # 2016-04-07 Lucille (The Walking Dead Mini-Prop)
+  ],
+ ),
+ dict(name="Lucille Peppermill", kind="Build",
+  desc="Laura´s Lucille Peppermill (Walking Dead Inspired).",
+  videos=[
+   "bw146G0qAWo",  # 2016-04-10 Laura´s Lucille Peppermill (Walking Dead Inspired)
+  ],
+ ),
+ dict(name="Brass Tins", kind="Build",
+  desc="Laura´s Brass Tins.",
+  videos=[
+   "2y66inGnEmw",  # 2016-04-17 Laura´s Brass Tins
+  ],
+ ),
+ dict(name="Brass Pen", kind="Build",
+  desc="Laura´s Brass Pen.",
+  videos=[
+   "dRnCKJRtuX4",  # 2016-05-01 Laura´s Brass Pen
+  ],
+ ),
+ dict(name="Workshop Stool", kind="Build",
+  desc="Laura´s Workshop Stool.",
+  videos=[
+   "HY_SnKQiUuU",  # 2016-05-08 Laura´s Workshop Stool
+  ],
+ ),
+ dict(name="Folding Keys", kind="Build",
+  desc="Laura´s Folding Keys.",
+  videos=[
+   "X4USchRTKAw",  # 2016-05-22 Laura´s Folding Keys
+  ],
+ ),
+ dict(name="Matchbox Boats", kind="Build",
+  desc="Laura´s Matchbox Boats.",
+  videos=[
+   "b6olRwHEvCw",  # 2016-05-29 Laura´s Matchbox Boats
+  ],
+ ),
+ dict(name="Coffee Table", kind="Build",
+  desc="Laura´s Coffee Table.",
+  videos=[
+   "Jn-gnLEziQ4",  # 2016-06-05 Laura´s Coffee Table
+  ],
+ ),
+ dict(name="Bedside Tables", kind="Build",
+  desc="Laura´s Bedside Tables.",
+  videos=[
+   "l2CpqM2bnvQ",  # 2016-06-19 Laura´s Bedside Tables
+  ],
+ ),
+ dict(name="Duct Tape Dispenser", kind="Build",
+  desc="Laura´s Duct Tape Dispenser.",
+  videos=[
+   "-H--dWEpNIc",  # 2016-07-03 Laura´s Duct Tape Dispenser
+  ],
+ ),
+ dict(name="Tiny Door", kind="Build",
+  desc="Laura´s Tiny Door.",
+  videos=[
+   "KOqU9KsQ-oA",  # 2016-07-31 Laura´s Tiny Door
+  ],
+ ),
+ dict(name="Screenprint Lights", kind="Build",
+  desc="Laura´s Screenprint Lights.",
+  videos=[
+   "hIO8ZeFHmJc",  # 2016-08-07 Laura´s Screenprint Lights
+  ],
+ ),
+ dict(name="Maple Table", kind="Build",
+  desc="Laura´s Maple Table (Part 1).",
+  videos=[
+   "30M3gCVbmVg",  # 2016-08-21 Laura´s Maple Table (Part 1)
+  ],
+ ),
+ dict(name="Maple Table", kind="Build",
+  desc="Laura´s Maple Table - Steel base (part 2).",
+  videos=[
+   "_WrE_gBJSl4",  # 2016-08-28 Laura´s Maple Table - Steel base (part 2)
+  ],
+ ),
+ dict(name="Dead Blow Hammer", kind="Build",
+  desc="Laura´s Dead Blow Hammer.",
+  videos=[
+   "to-D7KM-fWg",  # 2016-09-04 Laura´s Dead Blow Hammer
+  ],
+ ),
+ dict(name="Custom Bike", kind="Build",
+  desc="Laura´s Custom Bike // Screwdriver - Handlebars.",
+  videos=[
+   "Xm6m0rNUmLk",  # 2016-09-11 Laura´s Custom Bike // Screwdriver - Handlebars
+  ],
+ ),
+ dict(name="Marking Knife", kind="Build",
+  desc="Laura´s Marking Knife.",
+  videos=[
+   "QiPQqAQ6y7A",  # 2016-09-25 Laura´s Marking Knife
+  ],
+ ),
+ dict(name="Wire Organizer", kind="Build",
+  desc="Laura´s Wire Organizer.",
+  videos=[
+   "5RPmWRZpkmw",  # 2016-10-23 Laura´s Wire Organizer
+  ],
+ ),
+ dict(name="Bikeframe Cupholder", kind="Build",
+  desc="Laura´s Bikeframe Cupholder.",
+  videos=[
+   "wmVWrqmquQU",  # 2016-10-30 Laura´s Bikeframe Cupholder
+  ],
+ ),
+ dict(name="Bicycle Mudguard and Cargo Rack from old Skateboard", kind="Build",
+  desc="Bicycle Mudguard and Cargo Rack from old Skateboard.",
+  videos=[
+   "xFgprenQ7lI",  # 2016-11-06 Bicycle Mudguard and Cargo Rack from old Skateboard
+  ],
+ ),
+ dict(name="Big Movie Prop Clock", kind="Build",
+  desc="Laura´s Big Movie Prop Clock.",
+  videos=[
+   "upGggKy1h_Y",  # 2016-12-11 Laura´s Big Movie Prop Clock
+  ],
+ ),
+ dict(name="A Chair for my Niece", kind="Build",
+  desc="A Chair for my Niece.",
+  videos=[
+   "5smMQXxZLjs",  # 2016-12-25 A Chair for my Niece
+  ],
+ ),
+ dict(name="Wooden Projector Cabinet", kind="Build",
+  desc="Laura´s Wooden Projector Cabinet.",
+  videos=[
+   "ciz47lwZqdM",  # 2017-01-15 Laura´s Wooden Projector Cabinet
+  ],
+ ),
+ dict(name="Homemade Multitool Wristband", kind="Build",
+  desc="Homemade Multitool Wristband (Leatherman Tread inspired).",
+  videos=[
+   "qt14F1KTlag",  # 2017-01-29 Homemade Multitool Wristband (Leatherman Tread inspired)
+  ],
+ ),
+ dict(name="Starkey Fidget Spinner", kind="Build",
+  desc="Laura´s Starkey Fidget Spinner.",
+  videos=[
+   "BCL8922aiXM",  # 2017-02-12 Laura´s Starkey Fidget Spinner
+  ],
+ ),
+ dict(name="Traditional Farmers Table", kind="Build",
+  desc="Laura´s traditional Farmers Table (Bauerntisch).",
+  videos=[
+   "GtZ7ZwXG50c",  # 2017-02-19 Laura´s traditional Farmers Table (Bauerntisch)
+  ],
+ ),
+ dict(name="Bluetooth Receiver for the Car", kind="Build",
+  desc="Laura´s Bluetooth Receiver for the Car.",
+  videos=[
+   "uhQ0HCn29jw",  # 2017-02-26 Laura´s Bluetooth Receiver for the Car
+  ],
+ ),
+ dict(name="Veneer Lamp", kind="Build",
+  desc="Laura´s Veneer Lamp.",
+  videos=[
+   "TK-UW7u9zuE",  # 2017-03-05 Laura´s Veneer Lamp
+  ],
+ ),
+ dict(name="Turntable Cabinet from old Suitcase", kind="Build",
+  desc="Laura´s Turntable Cabinet from old Suitcase.",
+  videos=[
+   "oXBeQ6BKnAE",  # 2017-04-09 Laura´s Turntable Cabinet from old Suitcase
+  ],
+ ),
+ dict(name="Giant Steel Letters", kind="Build",
+  desc="Laura´s Giant Steel Letters.",
+  videos=[
+   "wj8wziQ31ak",  # 2017-04-23 Laura´s Giant Steel Letters
+  ],
+ ),
+ dict(name="Padauk Side Table with dovetail drawer", kind="Build",
+  desc="Padauk Side Table with dovetail drawer.",
+  videos=[
+   "ceB-d2PMDno",  # 2017-06-04 Padauk Side Table with dovetail drawer
+  ],
+ ),
+ dict(name="Wooden Scales for my Leatherman", kind="Build",
+  desc="Wooden Scales for my Leatherman.",
+  videos=[
+   "WQX4rvyvxjQ",  # 2017-07-09 Wooden Scales for my Leatherman
+  ],
+ ),
+ dict(name="Hexagon Steel Lamp", kind="Build",
+  desc="Laura`s Hexagon Steel Lamp.",
+  videos=[
+   "Vq-Av8MW1fI",  # 2017-07-16 Laura`s Hexagon Steel Lamp
+  ],
+ ),
+ dict(name="Champagne Sprinkler", kind="Build",
+  desc="Laura`s Champagne Sprinkler.",
+  videos=[
+   "MuIBzqLXB5U",  # 2017-07-23 Laura`s Champagne Sprinkler
+  ],
+ ),
+ dict(name="Record Storage Box", kind="Build",
+  desc="Laura`s Record Storage Box.",
+  videos=[
+   "9pybY96nY0k",  # 2017-08-06 Laura`s Record Storage Box
+  ],
+ ),
+ dict(name="Copper and Oak Lamp", kind="Build",
+  desc="Laura´s Copper and Oak Lamp.",
+  videos=[
+   "avJ0rN7Sk-c",  # 2017-08-13 Laura´s Copper and Oak Lamp
+  ],
+ ),
+ dict(name="Bike Lock Holder", kind="Build",
+  desc="Laura`s Bike Lock Holder (Frame Integrated).",
+  videos=[
+   "KpK_jPApq2g",  # 2017-08-20 Laura`s Bike Lock Holder (Frame Integrated)
+  ],
+ ),
+ dict(name="Magnetic Key", kind="Build",
+  desc="Laura`s Magnetic Key (limited tools).",
+  videos=[
+   "Ha6xzFwUkhI",  # 2017-09-03 Laura`s Magnetic Key (limited tools)
+  ],
+ ),
+ dict(name="Height Adjustable Shelf", kind="Build",
+  desc="Laura`s Height Adjustable Shelf.",
+  videos=[
+   "cvkJaRkteyU",  # 2017-09-10 Laura`s Height Adjustable Shelf
+  ],
+ ),
+ dict(name="Smudo´s Tiny Doghouse", kind="Build",
+  desc="Smudo´s Tiny Doghouse.",
+  videos=[
+   "E5gu-EbZ_1g",  # 2017-12-17 Smudo´s Tiny Doghouse
+  ],
+ ),
+ dict(name="Custom Leatherman with Chisel / Woodworkers EDC", kind="Build",
+  desc="Custom Leatherman with Chisel / Woodworkers EDC.",
+  videos=[
+   "yMQDHHnG10A",  # 2018-01-07 Custom Leatherman with Chisel / Woodworkers EDC
+  ],
+ ),
+ dict(name="Clever Bookshelf", kind="Build",
+  desc="Clever Bookshelf  (Holds IPad).",
+  videos=[
+   "ZDk03lHV47Q",  # 2018-01-28 Clever Bookshelf  (Holds IPad)
+  ],
+ ),
+ dict(name="Night-Light-Table", kind="Build",
+  desc="Night-Light-Table (nightstand with automatic light switch).",
+  videos=[
+   "tVlb8rVs7kU",  # 2018-02-04 Night-Light-Table (nightstand with automatic light switch)
+  ],
+ ),
+ dict(name="Smudo´s Wooden Dogbed with Round Corners", kind="Build",
+  desc="Smudo´s Wooden Dogbed with Round Corners.",
+  videos=[
+   "lVGlZbQ5fVQ",  # 2018-02-18 Smudo´s Wooden Dogbed with Round Corners
+  ],
+ ),
+ dict(name="Workshop Lamp made from Sheetmetal", kind="Build",
+  desc="Workshop Lamp made from Sheetmetal.",
+  videos=[
+   "ZV7EfHP7RpQ",  # 2018-03-11 Workshop Lamp made from Sheetmetal
+  ],
+ ),
+ dict(name="Custom Zippo Bit Safe", kind="Build",
+  desc="Custom Zippo Bit Safe (Every Day Carry for Makers).",
+  videos=[
+   "zIqTdPbxGBY",  # 2018-03-25 Custom Zippo Bit Safe (Every Day Carry for Makers)
+  ],
+ ),
+ dict(name="Clever Keyring with Screwdriver", kind="Build",
+  desc="Clever Keyring with Screwdriver.",
+  videos=[
+   "60Lqep0ddDo",  # 2018-04-08 Clever Keyring with Screwdriver
+  ],
+ ),
+ dict(name="CNC Bit Safe for Zippo Lighters", kind="Build",
+  desc="CNC Bit Safe for Zippo Lighters (Free Plan).",
+  videos=[
+   "BBQR5wqBSXE",  # 2018-04-22 CNC Bit Safe for Zippo Lighters (Free Plan)
+  ],
+ ),
+ dict(name="Portable Solar Food Dehydrator", kind="Build",
+  desc="Portable Solar Food Dehydrator.",
+  videos=[
+   "Rk-9W_2nxiw",  # 2018-07-27 Portable Solar Food Dehydrator
+  ],
+ ),
+ dict(name="DIY Fold Away Camping Table", kind="Build",
+  desc="DIY Fold Away Camping Table.",
+  videos=[
+   "wDAEmOkkTXo",  # 2018-09-02 DIY Fold Away Camping Table
+  ],
+ ),
+ dict(name="Camera Case Hack", kind="Build",
+  desc="Camera Case Hack (Work and Travel EDC).",
+  videos=[
+   "jNlaYewHNN4",  # 2018-09-23 Camera Case Hack (Work and Travel EDC)
+  ],
+ ),
+ dict(name="Kitchentiles from Trash", kind="Build",
+  desc="I made Kitchentiles from Trash //  DIY Plywood Tiles.",
+  videos=[
+   "ZSLWTQ1hXZo",  # 2018-10-07 I made Kitchentiles from Trash //  DIY Plywood Tiles
+  ],
+ ),
+ dict(name="Tambour Cabinet made from Plywood", kind="Build",
+  desc="Tambour Cabinet made from Plywood (with Handcrafted Life).",
+  videos=[
+   "RxOw2ejEqiQ",  # 2018-10-14 Tambour Cabinet made from Plywood (with Handcrafted Life)
+  ],
+ ),
+ dict(name="Steel and Copper Side Table", kind="Build",
+  desc="Steel and Copper Side Table.",
+  videos=[
+   "US9o4IoneUo",  # 2018-11-18 Steel and Copper Side Table
+  ],
+ ),
+ dict(name="Portable Whiskey Bar", kind="Build",
+  desc="Portable Whiskey Bar.",
+  videos=[
+   "_hgmGKEKKsc",  # 2018-11-25 Portable Whiskey Bar
+  ],
+ ),
+ dict(name="From old car seat to heated workshop stool", kind="Build",
+  desc="From old car seat to heated workshop stool.",
+  videos=[
+   "KFIWJ5Zr1l4",  # 2018-12-09 From old car seat to heated workshop stool
+  ],
+ ),
+ dict(name="From Broken Lamp to Bicycle Headlight", kind="Build",
+  desc="From Broken Lamp to Bicycle Headlight.",
+  videos=[
+   "p7fpQ87j5wo",  # 2019-01-27 From Broken Lamp to Bicycle Headlight
+  ],
+ ),
+ dict(name="Dining Table with Dog Bed", kind="Build",
+  desc="Dining Table with Dog Bed.",
+  videos=[
+   "lZDbBdCgyvo",  # 2019-02-04 Dining Table with Dog Bed
+  ],
+ ),
+ dict(name="DIY Bananaseat from old Skateboard", kind="Build",
+  desc="DIY Bananaseat from old Skateboard.",
+  videos=[
+   "_E4PUzh5fK8",  # 2019-03-03 DIY Bananaseat from old Skateboard
+  ],
+ ),
+ dict(name="Walnut Bookcase", kind="Build",
+  desc="Building a Walnut Bookcase.",
+  videos=[
+   "-NEn5USyLDs",  # 2019-03-17 Building a Walnut Bookcase
+  ],
+ ),
+ dict(name="Design Clothes Rack", kind="Build",
+  desc="Building a Design Clothes Rack.",
+  videos=[
+   "GlBvOqj1Wsk",  # 2019-03-24 Building a Design Clothes Rack
+  ],
+ ),
+ dict(name="Simple Sliding Door with Shoji Paper", kind="Build",
+  desc="Simple Sliding Door with Shoji Paper.",
+  videos=[
+   "FE_uAvVsOQc",  # 2019-03-31 Simple Sliding Door with Shoji Paper
+  ],
+ ),
+ dict(name="A Podcasting Studio in a Briefcase", kind="Build",
+  desc="A Podcasting Studio in a Briefcase.",
+  videos=[
+   "6AcjXyVL2b0",  # 2019-07-28 A Podcasting Studio in a Briefcase
+  ],
+ ),
+ dict(name="Industrial floor lamp", kind="Build",
+  desc="I made an industrial floor lamp...not sure if i like it.",
+  videos=[
+   "W31aH5ZqFE0",  # 2019-08-04 I made an industrial floor lamp...not sure if i like it
+  ],
+ ),
+ dict(name="Custom Motorcycle Jacket", kind="Build",
+  desc="Making a Custom Motorcycle Jacket (with Crafts with Ellen).",
+  videos=[
+   "QuRUdGiHATE",  # 2019-08-11 Making a Custom Motorcycle Jacket (with Crafts with Ellen)
+  ],
+ ),
+ dict(name="Damascus Blade for my Leatherman", kind="Build",
+  desc="I forged a Damascus Blade for my Leatherman (with HABU).",
+  videos=[
+   "y6fFXG9_7kQ",  # 2019-08-18 I forged a Damascus Blade for my Leatherman (with HABU)
+  ],
+ ),
+ dict(name="A Minimalist Desk for my new Studio Workspace", kind="Build",
+  desc="A Minimalist Desk for my new Studio Workspace.",
+  videos=[
+   "dQ1LsPQ8MrQ",  # 2019-09-01 A Minimalist Desk for my new Studio Workspace
+  ],
+ ),
+ dict(name="This Gun picks up Trash", kind="Build",
+  desc="This Gun picks up Trash!  (Leatherman + Airgun = Trashpicker).",
+  videos=[
+   "EekGPa8rQoY",  # 2019-10-06 This Gun picks up Trash!  (Leatherman + Airgun = Trashpicker)
+  ],
+ ),
+ dict(name="Minimalist Coat Hanger Shelf", kind="Build",
+  desc="Minimalist Coat Hanger Shelf.",
+  videos=[
+   "bKZ-hThAoY0",  # 2019-10-27 Minimalist Coat Hanger Shelf
+  ],
+ ),
+ dict(name="Plywood Credenza withTambour Doors", kind="Build",
+  desc="Plywood Credenza withTambour Doors.",
+  videos=[
+   "zgP0ri9-zyU",  # 2019-11-03 Plywood Credenza withTambour Doors
+  ],
+ ),
+ dict(name="Freestanding Valet Stand for Clothes and EDC", kind="Build",
+  desc="Freestanding Valet Stand for Clothes and EDC.",
+  videos=[
+   "FYMR-73JU4c",  # 2019-11-17 Freestanding Valet Stand for Clothes and EDC
+  ],
+ ),
+ dict(name="A Scalpel Blade for my Leatherman K2", kind="Build",
+  desc="A Scalpel Blade for my Leatherman K2 (XActo Knife Hack).",
+  videos=[
+   "eQU3uHWtpCg",  # 2019-11-24 A Scalpel Blade for my Leatherman K2 (XActo Knife Hack)
+  ],
+ ),
+ dict(name="Home Cinema Coffee Table", kind="Build",
+  desc="Home Cinema Coffee Table.",
+  videos=[
+   "qdWUFCScAD8",  # 2019-12-08 Home Cinema Coffee Table
+  ],
+ ),
+ dict(name="Fold Away Crates", kind="Build",
+  desc="Fold Away Crates - Space Saving Storage Solution.",
+  videos=[
+   "6TEsg5yyKFs",  # 2019-12-15 Fold Away Crates - Space Saving Storage Solution
+  ],
+ ),
+ dict(name="Adjustable Stool made from Level Jack and Oak", kind="Build",
+  desc="Adjustable Stool made from Level Jack and Oak.",
+  videos=[
+   "q7G6tbxHdRw",  # 2019-12-22 Adjustable Stool made from Level Jack and Oak
+  ],
+ ),
+ dict(name="Mechanical Trash bin made from old Gas Bottle", kind="Build",
+  desc="Mechanical Trash bin made from old Gas Bottle.",
+  videos=[
+   "haxwgEtbZLU",  # 2020-01-05 Mechanical Trash bin made from old Gas Bottle
+  ],
+ ),
+ dict(name="Simple Plywood Table with height adjustable legs", kind="Build",
+  desc="Simple Plywood Table with height adjustable legs.",
+  videos=[
+   "RibBq6eRq6g",  # 2020-01-19 Simple Plywood Table with height adjustable legs
+  ],
+ ),
+ dict(name="Freefloating Nightstand", kind="Build",
+  desc="Freefloating Nightstand (Oak and Steel).",
+  videos=[
+   "ENWRngsRNko",  # 2020-02-02 Freefloating Nightstand (Oak and Steel)
+  ],
+ ),
+ dict(name="Plywood Chair with Book Storage", kind="Build",
+  desc="Plywood Chair with Book Storage.",
+  videos=[
+   "WQSotjCrX5U",  # 2020-02-23 Plywood Chair with Book Storage
+  ],
+ ),
+ dict(name="Plywood Indoor Swing", kind="Build",
+  desc="Plywood Indoor Swing (no holes, no screws in the wall).",
+  videos=[
+   "okF7YDdi0EM",  # 2020-03-29 Plywood Indoor Swing (no holes, no screws in the wall)
+  ],
+ ),
+ dict(name="Clever Homeoffice Desk / Dining Table", kind="Build",
+  desc="Clever Homeoffice Desk / Dining Table.",
+  videos=[
+   "PukviL7a29w",  # 2020-04-05 Clever Homeoffice Desk / Dining Table
+  ],
+ ),
+ dict(name="Simple folding table with wooden hinges", kind="Build",
+  desc="Simple folding table with wooden hinges.",
+  videos=[
+   "tQfZhdyXJ54",  # 2020-07-26 Simple folding table with wooden hinges
+  ],
+ ),
+ dict(name="The Beer Case Chair", kind="Build",
+  desc="The Beer Case Chair - folding plywood chair.",
+  videos=[
+   "8R_5D48UWsg",  # 2020-08-02 The Beer Case Chair - folding plywood chair
+  ],
+ ),
+ dict(name="Record Player Cabinet", kind="Build",
+  desc="Building a Record Player Cabinet.",
+  videos=[
+   "Zhfn9LWoI2w",  # 2020-08-30 Building a Record Player Cabinet
+  ],
+ ),
+ dict(name="This Tripod changed everything", kind="Build",
+  desc="This Tripod changed everything!.",
+  videos=[
+   "h2wv4sockyE",  # 2020-09-06 This Tripod changed everything!
+  ],
+ ),
+ dict(name="Modern Writing Desk", kind="Build",
+  desc="Modern Writing Desk (with cool hinge).",
+  videos=[
+   "L4qoTQWXVnY",  # 2020-09-13 Modern Writing Desk (with cool hinge)
+  ],
+ ),
+ dict(name="Folding Bike", kind="Build",
+  desc="I made a folding Bike!.",
+  videos=[
+   "bxdSBVeseM8",  # 2020-09-27 I made a folding Bike!
+  ],
+ ),
+ dict(name="Coffee Grinder from Trash", kind="Build",
+  desc="I made a Coffee Grinder from Trash!.",
+  videos=[
+   "-jrI5EC0n7k",  # 2020-10-11 I made a Coffee Grinder from Trash!
+  ],
+ ),
+ dict(name="Portable Podcasting Studio", kind="Build",
+  desc="i built a Portable Podcasting Studio.",
+  videos=[
+   "lBp8RA43xCk",  # 2020-10-25 i built a Portable Podcasting Studio
+  ],
+ ),
+ dict(name="Heated Bar", kind="Build",
+  desc="Building a Heated Bar.",
+  videos=[
+   "3-1-UdwZl0k",  # 2020-11-08 Building a Heated Bar
+  ],
+ ),
+ dict(name="This Lamp from Trash", kind="Build",
+  desc="I built this Lamp from Trash!.",
+  videos=[
+   "hydYBk0CC20",  # 2020-11-15 I built this Lamp from Trash!
+  ],
+ ),
+ dict(name="$50 Camera Case to $1000 Rimowa Suitcase", kind="Build",
+  desc="$50 Camera Case to $1000 Rimowa Suitcase.",
+  videos=[
+   "mou13GpMxIw",  # 2021-01-10 $50 Camera Case to $1000 Rimowa Suitcase
+  ],
+ ),
+ dict(name="Butterfly Chisel for Woodworking", kind="Build",
+  desc="Making a Butterfly Chisel for Woodworking.",
+  videos=[
+   "-XWMXrTfK4Q",  # 2021-01-17 Making a Butterfly Chisel for Woodworking
+  ],
+ ),
+ dict(name="Chair from Trash", kind="Build",
+  desc="Making a Chair from Trash - 3 Prototypes.",
+  videos=[
+   "ejj0co9YwZs",  # 2021-02-07 Making a Chair from Trash - 3 Prototypes
+  ],
+ ),
+ dict(name="Lounge Chair from a Wheelbarrow", kind="Build",
+  desc="Making a Lounge Chair from a Wheelbarrow.",
+  videos=[
+   "iEnWrcD-D0Y",  # 2021-02-14 Making a Lounge Chair from a Wheelbarrow
+  ],
+ ),
+ dict(name="Lamp from Scrap Wood", kind="Build",
+  desc="Making a Lamp from Scrap Wood.",
+  videos=[
+   "d8p13LxhWaE",  # 2021-05-02 Making a Lamp from Scrap Wood
+  ],
+ ),
+ dict(name="Plywood Bookcase", kind="Build",
+  desc="Making a Plywood Bookcase.",
+  videos=[
+   "flAIAA1_Btc",  # 2021-05-09 Making a Plywood Bookcase
+  ],
+ ),
+ dict(name="Cargo Rack that actually looks good", kind="Build",
+  desc="Making a Cargo Rack that actually looks good!.",
+  videos=[
+   "c0llueE-Zao",  # 2021-05-30 Making a Cargo Rack that actually looks good!
+  ],
+ ),
+ dict(name="Custom Tool Roll", kind="Build",
+  desc="Custom Tool Roll (with clever features).",
+  videos=[
+   "MtbgVRSlLYQ",  # 2021-06-06 Custom Tool Roll (with clever features)
+  ],
+ ),
+ dict(name="Interesting Folding Table Idea", kind="Build",
+  desc="Interesting Folding Table Idea...Fail or Win?.",
+  videos=[
+   "XXSwTssXQ-c",  # 2021-06-27 Interesting Folding Table Idea...Fail or Win?
+  ],
+ ),
+ dict(name="Very Clever Camping Table", kind="Build",
+  desc="Very Clever Camping Table (without legs!).",
+  videos=[
+   "A4pJnr-GbkA",  # 2021-07-18 Very Clever Camping Table (without legs!)
+  ],
+ ),
+ dict(name="Essential Overland Storage Case", kind="Build",
+  desc="Essential Overland Storage Case (EDC for your Van).",
+  videos=[
+   "0fB-M2rUvdY",  # 2021-08-15 Essential Overland Storage Case (EDC for your Van)
+  ],
+ ),
+ dict(name="Dry Bag from an old Banner", kind="Build",
+  desc="I made a Dry Bag from an old Banner (easy recycling project).",
+  videos=[
+   "C0emjIYCk_Y",  # 2021-08-29 I made a Dry Bag from an old Banner (easy recycling project)
+  ],
+ ),
+ dict(name="Prototyping Tool Holders", kind="Build",
+  desc="Prototyping Tool Holders (probably my weirdest video).",
+  videos=[
+   "DRaC7RjZ-XA",  # 2021-09-19 Prototyping Tool Holders (probably my weirdest video)
+  ],
+ ),
+ dict(name="This Table is also a Lamp", kind="Build",
+  desc="This Table is also a Lamp!.",
+  videos=[
+   "rV7znbbI7Bo",  # 2021-10-03 This Table is also a Lamp!
+  ],
+ ),
+ dict(name="Quick and Easy Measure & Marking Holster", kind="Build",
+  desc="Quick and Easy Measure & Marking Holster (I should have done this years ago).",
+  videos=[
+   "PjLnTa5qx7E",  # 2021-10-10 Quick and Easy Measure & Marking Holster (I should have done this year
+  ],
+ ),
+ dict(name="Foldable Cargo Box for my Van", kind="Build",
+  desc="Foldable Cargo Box for my Van (have it both ways!).",
+  videos=[
+   "9Ijl847dy-s",  # 2021-11-14 Foldable Cargo Box for my Van (have it both ways!)
+  ],
+ ),
+ dict(name="Center Console", kind="Build",
+  desc="Building a Center Console - The Tambour Box with Compass.",
+  videos=[
+   "7VdXU2FxgzM",  # 2021-11-21 Building a Center Console - The Tambour Box with Compass
+  ],
+ ),
+ dict(name="Mini Oak Table from a Log", kind="Build",
+  desc="Making a Mini Oak Table from a Log.",
+  videos=[
+   "VxqjMb2bcUQ",  # 2021-12-12 Making a Mini Oak Table from a Log
+  ],
+ ),
+ dict(name="The \"Peace of Mind\" Lightswitch", kind="Build",
+  desc="The \"Peace of Mind\" Lightswitch - One Day Build.",
+  videos=[
+   "nwwwEAAn4FQ",  # 2021-12-19 The "Peace of Mind" Lightswitch - One Day Build
+  ],
+ ),
+ dict(name="My New Clever Soldering Station", kind="Build",
+  desc="My New Clever Soldering Station.",
+  videos=[
+   "BnNstxggP9A",  # 2021-12-26 My New Clever Soldering Station
+  ],
+ ),
+ dict(name="The MacGyver Lamp", kind="Build",
+  desc="The MacGyver Lamp (Quarantine Project).",
+  videos=[
+   "pPi6vQz2m4U",  # 2022-01-16 The MacGyver Lamp (Quarantine Project)
+  ],
+ ),
+ dict(name="3 in 1 Sharpening Station", kind="Build",
+  desc="3 in 1 Sharpening Station (in a Box).",
+  videos=[
+   "QVqK2K80E1M",  # 2022-01-23 3 in 1 Sharpening Station (in a Box)
+  ],
+ ),
+ dict(name="Very Simple Modular Workdesk", kind="Build",
+  desc="Very Simple Modular Workdesk.",
+  videos=[
+   "wt5bTU0XGwo",  # 2022-03-06 Very Simple Modular Workdesk
+  ],
+ ),
+ dict(name="German Firetruck Conversion", kind="Build",
+  desc="German Firetruck Conversion - Building a Clever Kitchen.",
+  videos=[
+   "xCDHXPdiJUM",  # 2022-03-20 German Firetruck Conversion - Building a Clever Kitchen
+  ],
+ ),
+ dict(name="The Toolbox Bar", kind="Build",
+  desc="The Toolbox Bar - Completely made from junk.",
+  videos=[
+   "SIRQhXaLvAY",  # 2022-05-29 The Toolbox Bar - Completely made from junk
+  ],
+ ),
+ dict(name="We made a product to help us come up with", kind="Build",
+  desc="We made a product to help us come up with (good) ideas!.",
+  videos=[
+   "oztGElIlyLA",  # 2022-09-18 We made a product to help us come up with (good) ideas!
+  ],
+ ),
+ dict(name="Solar Power for my Backyard", kind="Build",
+  desc="Solar Power for my Backyard!.",
+  videos=[
+   "uZWPrSrgNGA",  # 2023-07-30 Solar Power for my Backyard!
+  ],
+ ),
+ dict(name="This overengineered planter", kind="Build",
+  desc="I built this overengineered planter! (wifi, waterpump, camera controlled).",
+  videos=[
+   "zwXf7ixjFDk",  # 2024-06-23 I built this overengineered planter! (wifi, waterpump, camera controll
+  ],
+ ),
+ dict(name="Inspired by a Tumbleweed", kind="Build",
+  desc="Inspired by a Tumbleweed....",
+  videos=[
+   "X4Amtx0RBwk",  # 2024-08-04 Inspired by a Tumbleweed...
+  ],
+ ),
+ dict(name="This machine teaches dogs not to mess with rattlesnakes", kind="Build",
+  desc="This machine teaches dogs not to mess with rattlesnakes.",
+  videos=[
+   "R0Jz7aZwQCQ",  # 2024-08-18 This machine teaches dogs not to mess with rattlesnakes
+  ],
+ ),
+ dict(name="MacGyver would love this! We made the perfect Fanny Pack", kind="Build",
+  desc="MacGyver would love this! We made the perfect Fanny Pack.",
+  videos=[
+   "TeHyCcdKytA",  # 2024-08-25 MacGyver would love this! We made the perfect Fanny Pack
+  ],
+ ),
+ dict(name="My daughters first bed ❤️", kind="Build",
+  desc="I built my daughters first bed ❤️ (Walnut & Midcentury Modern).",
+  videos=[
+   "Crt1ZrEA5Zk",  # 2024-12-01 I built my daughters first bed ❤️ (Walnut & Midcentury Modern)
+  ],
+ ),
+ dict(name="LED Extension Cord", kind="Build",
+  desc="LED Extension Cord!! #woodworking #diy #wood.",
+  videos=[
+   "CbkCcLAWkqE",  # 2024-12-08 LED Extension Cord!! #woodworking #diy #wood
+  ],
+ ),
+ dict(name="Trash to Treasure", kind="Build",
+  desc="Trash to Treasure - Old bedframe to little benches.",
+  videos=[
+   "Ha3-Qw6UC5k",  # 2024-12-29 Trash to Treasure - Old bedframe to little benches
+  ],
+ ),
+ dict(name="Minimalist bed made without any screws", kind="Build",
+  desc="Minimalist bed made without any screws.",
+  videos=[
+   "G-htx0STGtY",  # 2025-01-05 Minimalist bed made without any screws
+  ],
+ ),
+ dict(name="A lamp made from recycled sail", kind="Build",
+  desc="A lamp made from recycled sail.",
+  videos=[
+   "d65iadw97rY",  # 2025-02-09 A lamp made from recycled sail
+  ],
+ ),
+ dict(name="Minimalist Coffee Table made from reclaimed wood", kind="Build",
+  desc="Minimalist Coffee Table made from reclaimed wood.",
+  videos=[
+   "WfVdpUd7Lnw",  # 2025-02-16 Minimalist Coffee Table made from reclaimed wood
+  ],
+ ),
+ dict(name="Minimalist Side Table with clever features", kind="Build",
+  desc="Minimalist Side Table with clever features.",
+  videos=[
+   "lSRcamxtPqI",  # 2025-03-02 Minimalist Side Table with clever features
+  ],
+ ),
+ dict(name="No More Sand in the House! This Shoe rack has a Trick", kind="Build",
+  desc="No More Sand in the House! This Shoe rack has a Trick.",
+  videos=[
+   "Xx_ut4C0_AU",  # 2025-03-09 No More Sand in the House! This Shoe rack has a Trick
+  ],
+ ),
+ dict(name="This hinge is so clever", kind="Build",
+  desc="This hinge is so clever! ...but I made a simpler version (with Template).",
+  videos=[
+   "7m2cpPN0cE0",  # 2025-03-16 This hinge is so clever! ...but I made a simpler version (with Templat
+  ],
+ ),
+ dict(name="The Perfect Tool Box", kind="Build",
+  desc="The Perfect Tool Box - Portable, Storage, Organizer, Cabinet.",
+  videos=[
+   "HLpyOIpFLvY",  # 2025-03-23 The Perfect Tool Box - Portable, Storage, Organizer, Cabinet
+  ],
+ ),
+ dict(name="An absurd amount of work for a ridiculous idea", kind="Build",
+  desc="An absurd amount of work for a ridiculous idea....",
+  videos=[
+   "gASL7m3A8_o",  # 2025-04-06 An absurd amount of work for a ridiculous idea...
+  ],
+ ),
+ dict(name="The Emotional Support Tool Roll. A perfect EDC pouch", kind="Build",
+  desc="The Emotional Support Tool Roll. A perfect EDC pouch.",
+  videos=[
+   "9B3Bzy0A9sg",  # 2025-04-27 The Emotional Support Tool Roll. A perfect EDC pouch
+  ],
+ ),
+ dict(name="This custom table has it all", kind="Build",
+  desc="This custom table has it all..",
+  videos=[
+   "VVSlw8nTFWk",  # 2025-05-04 This custom table has it all.
+  ],
+ ),
+ dict(name="I surprised my kid with a homemade pirate ship", kind="Build",
+  desc="I surprised my kid with a homemade pirate ship.",
+  videos=[
+   "W26o-Z2DDTk",  # 2025-05-31 I surprised my kid with a homemade pirate ship
+  ],
+ ),
+ dict(name="I turned 120 pieces of scrap into this dining table", kind="Build",
+  desc="I turned 120 pieces of scrap into this dining table.",
+  videos=[
+   "Bq2FqF-qqq4",  # 2025-06-08 I turned 120 pieces of scrap into this dining table
+  ],
+ ),
+ dict(name="This table has a surprise feature", kind="Build",
+  desc="This table has a surprise feature...(I love building furniture!!!).",
+  videos=[
+   "ktoZ1W4cS4Y",  # 2025-06-15 This table has a surprise feature...(I love building furniture!!!)
+  ],
+ ),
+ dict(name="These 3 things get the party started", kind="Build",
+  desc="These 3 things get the party started…DIY Soundsystem.",
+  videos=[
+   "b77qIfDtFEM",  # 2025-09-14 These 3 things get the party started…DIY Soundsystem
+  ],
+ ),
+ dict(name="My suitcase wheels sucked! So I turned it into a hovercraft", kind="Build",
+  desc="My suitcase wheels sucked! So I turned it into a hovercraft! #diy #hovercraft #inventions.",
+  videos=[
+   "weY6-JWxqSM",  # 2025-09-22 My suitcase wheels sucked! So I turned it into a hovercraft! #diy #hov
+  ],
+ ),
+ dict(name="Trash Made me Do This", kind="Build",
+  desc="Trash Made me Do This!.",
+  videos=[
+   "zYjw0yYLh-o",  # 2025-10-19 Trash Made me Do This!
+  ],
+ ),
+ dict(name="The Clever Work Light", kind="Build",
+  desc="The Clever Work Light (One day Build).",
+  videos=[
+   "Xli5PRCfBm8",  # 2025-11-09 The Clever Work Light (One day Build)
+  ],
+ ),
+ dict(name="I Love Working With Trash", kind="Build",
+  desc="I Love Working With Trash.",
+  videos=[
+   "LxzEnGHOUyk",  # 2025-11-23 I Love Working With Trash
+  ],
+ ),
+ dict(name="I Surprised My Wife", kind="Build",
+  desc="I Surprised My Wife.",
+  videos=[
+   "jrDXysxyplQ",  # 2026-02-08 I Surprised My Wife
+  ],
+ ),
+ dict(name="The Perfect Lamp", kind="Build",
+  desc="The Perfect Lamp.",
+  videos=[
+   "etwMkcHC3eE",  # 2026-03-01 The Perfect Lamp 
+  ],
+ ),
+ dict(name="Bar Stools From Scratch", kind="Build",
+  desc="Making Bar Stools From Scratch.",
+  videos=[
+   "e91SH3d8Yiw",  # 2026-03-08 Making Bar Stools From Scratch
+  ],
+ ),
+ dict(name="I Call This \"Happy Prepping\"", kind="Build",
+  desc="I Call This \"Happy Prepping\".",
+  videos=[
+   "ewry3sKoEA4",  # 2026-05-03 I Call This "Happy Prepping"
+  ],
+ ),
+ dict(name="Air Conditioning", kind="Build",
+  desc="Air Conditioning - But Make It FREE!!.",
+  videos=[
+   "iyUR9O_CnFs",  # 2026-05-10 Air Conditioning - But Make It FREE!!
+  ],
+ ),
+ dict(name="Little Helper To Keep My Shop Clean", kind="Build",
+  desc="I Made a Little Helper To Keep My Shop Clean.",
+  videos=[
+   "5rwceq6M9bA",  # 2026-05-24 I Made a Little Helper To Keep My Shop Clean
+  ],
+ ),
+ dict(name="Gamechanger", kind="Build",
+  desc="Gamechanger! - I Built An Outside Workbench.",
+  videos=[
+   "T0-YTsZOP0M",  # 2026-06-21 Gamechanger! - I Built An Outside Workbench
+  ],
+ ),
+ dict(name="„1 Sheet of Plywood“ Shelf", kind="Build",
+  desc="„1 Sheet of Plywood“ Shelf.",
+  videos=[
+   "UTL201H5lF8",  # 2026-07-05 „1 Sheet of Plywood“ Shelf
+  ],
+ ),
+ dict(name="Why I Made My Logo With No Technology", kind="Build",
+  desc="Why I Made My Logo With No Technology.",
+  videos=[
+   "L9SbVSVe0fk",  # 2026-07-26 Why I Made My Logo With No Technology
+  ],
+ ),
+ dict(name="I Can't Believe This Was Trash", kind="Build",
+  desc="I Can't Believe This Was Trash!!.",
+  videos=[
+   "84Rir66eK9o",  # 2026-08-09 I Can't Believe This Was Trash!!
+  ],
+ ),
+ dict(name="Is This Idea Too Simple To Be Good", kind="Build",
+  desc="Is This Idea Too Simple To Be Good??.",
+  videos=[
+   "s9BSEFPkBNk",  # 2026-08-16 Is This Idea Too Simple To Be Good??
+  ],
+ ),
+ dict(name="We Made A Bag My Dog Actually Loves", kind="Build",
+  desc="We Made A Bag My Dog Actually Loves! (with Simone Giertz).",
+  videos=[
+   "DJoHkYSahB4",  # 2026-10-04 We Made A Bag My Dog Actually Loves! (with Simone Giertz)
+  ],
+ ),
+ dict(name="I Am Building A 90s Technology Shrine", kind="Build",
+  desc="I Am Building A 90s Technology Shrine.",
+  videos=[
+   "2tWPN-d84K0",  # 2026-10-18 I Am Building A 90s Technology Shrine
   ],
  ),
 ]

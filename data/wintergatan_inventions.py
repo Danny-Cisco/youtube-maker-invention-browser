@@ -1,10 +1,6 @@
-"""Curated inventions for Wintergatan (Martin Molin, @wintergatan).
-The Marble Machine videos are split into the three machines by date; band music and live videos stay under Other uploads.
-kind: Instrument | Mechanism
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Wintergatan. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'wintergatan', 'name': 'Wintergatan', 'person': 'Martin Molin', 'tagline': "Martin Molin's marble-powered music machines, a decade in the making.", 'other_label': 'Other uploads: Wintergatan band music, live shows, music machine visits and channel updates'}
 
@@ -36,8 +32,12 @@ INVENTIONS = [
    "qkAwf3hlHSE",  # 2017-05-10 Meet the Retired Marble Machine at Speelklok Museum
    "HO7VMJ2fVBo",  # 2017-12-04 Building the Marble Machine at the Speelklok Museum
    "xR6vZtnoMlQ",  # 2017-12-14 Meet & Greet Tour with Martin and The Marble Machine at Speelklok Muse
+   "pXJcdd8SZ1c",  # 2025-04-25 Marble Machine - Music with 2000 Marbles
+   "ZmY2dtb-6E4",  # 2025-05-08 Marbles & Gears Play Amelie´s Theme Song 🎵
+   "MYgiOD9-TQo",  # 2025-06-02 Marble Machine Music - Piano Version
+   "YV92xwyV5sg",  # 2025-06-12 Marbles playing Animusic
   ],
-  links=[("Dezeen", "https://www.dezeen.com/2016/03/10/marble-music-machine-wintergatan-martin-molin/"), ("Vice", "https://www.vice.com/en/article/2000-marble-instrument"), ("Wikipedia: Wintergatan", "https://en.wikipedia.org/wiki/Wintergatan")]),
+ ),
  dict(name="Music Box & Modulin", kind="Instrument",
   desc="A programmable punch-card music box and the Modulin, a modular synth instrument, later released as the Wintergatan Music Box for everyone.",
   videos=[
@@ -53,20 +53,24 @@ INVENTIONS = [
    "XyVyA5ZdWOY",  # 2017-05-03 Music Box / Positivity
    "LyXY4Bz3PLs",  # 2017-08-21 Polyphon Music Box - Large Disc Changing Music box
    "sV8NE_JYxKU",  # 2017-10-23 Musical Clock from 1750 and Porter Music Box from 1978
-   "blkdd-pPEcA",  # 2017-12-15 Polyphon Disc Changing Music Box - "Washington Post"
    "IqPWDinx03A",  # 2017-12-15 Snuff Box Music Box
    "TGwKTaDVAfg",  # 2017-12-15 Porter Music Box - "Radetzkymars"
+   "blkdd-pPEcA",  # 2017-12-15 Polyphon Disc Changing Music Box - "Washington Post"
    "ThYMEYtYC8o",  # 2018-01-08 Wintergatan Soundtrack 01 - MUSIC BOX, HARP & HACKBRETT
    "jPuJGW7Nuzo",  # 2023-03-30 The Wintergatan Music Box - Now For Everyone!
    "8inFbhsIbBc",  # 2023-04-06 Speldosa - Music Box VST/AU - All the Sounds and Easter Eggs
    "JJir3aAeBlg",  # 2023-04-21 Comparing 8 Music Box Plugins From $0 to $39 - Which One is Best?
    "0HXteCccHUI",  # 2024-11-20 Harry Potter Theme - Wintergatan Music Box
+   "RikB-LvD-v0",  # 2025-05-01 Mega Man Music on Homemade Modulin!
+   "254IjOwkpg8",  # 2025-05-26 Is it a Synth? Is it a Violin? - Modulin Homemade instrument
    "PxA9LaJQQ8Q",  # 2026-06-24 Is the Monster Music Box Big Enough?
   ],
  ),
  dict(name="Marble Machine X", kind="Instrument",
   desc="The rebuilt touring Marble Machine X (2017–2022): over 200 episodes of engineering for precision, from marble dividers and the Cyber Bass to playing 80,000 marbles. He shelved it in 2021 as \"a lesson in dumb design\".",
   videos=[
+   "g8X0nJHrJ9g",  # 2017-01-11 Building The 90 Degree Kick Drum - FAIL
+   "dcosgma0l-Q",  # 2017-01-25 90 Degree Kick Drum Problem SOLVED!? - With help from viewers
    "M8R8iFf9ltE",  # 2017-03-01 Reacting to MARBLE MACHINE COVERS - This made me so happy!
    "UHXm1kqQOw4",  # 2017-03-22 How to hit Bass strings with Marbles - Marble Machine X #4
    "Ypb9eWOpiPg",  # 2017-03-29 3D Printed Drums - Marble Machine X #5
@@ -86,8 +90,8 @@ INVENTIONS = [
    "pyWCEIbqPBs",  # 2017-10-25 Trigger Mechanism - Marble Machine X #17
    "7J6eSGYBwPk",  # 2017-11-01 I Moved to France! - Marble Machine X #18
    "zjMImqFn3AI",  # 2017-11-08 Programming Wheel Skeleton - Marble Machine X #19
-   "jUApoagh64U",  # 2017-12-15 De Schuyt - "Marble Machine Song"
    "a05-r0VcCZQ",  # 2017-12-15 Dom Toren - "Marble Machine Song"
+   "jUApoagh64U",  # 2017-12-15 De Schuyt - "Marble Machine Song"
    "X_Ch70KkMtE",  # 2018-01-10 Marble Divider - Marble Machine X #21
    "2rAl4Hd7CHA",  # 2018-01-17 Dream Workshop Build - Marble Machine X #22
    "V8OUVHlpnag",  # 2018-01-31 Marble Demagnetizer - it's Mechanical! - Marble Machine X #23
@@ -268,11 +272,9 @@ INVENTIONS = [
  dict(name="Marble Machine 3", kind="Instrument",
   desc="The third Marble Machine (2023 on): flywheel prototypes, the holy-grail marble divider, giant plywood gears and production CAD.",
   videos=[
-   "b01MUffzMQ8",  # 2026-04-21 9:16 Stream: Vibraphone Holders Part 3 | Marble Machine Live
-   "jOYu4zZLELk",  # 2026-04-22 9:16 Vertical Stream: Vibraphone Holders Part 4 | Marble Machine Live
-   "fqkVZue6eaM",  # 2026-04-28 Vertical Stream: Vibraphone Pivot Arm Experiments | Marble Machine Liv
    "1FFTaI__l_A",  # 2023-01-04 A New Music Programming Pin
    "AEbqvrLkvbA",  # 2023-01-11 A New Music Programming Wheel
+   "OFFGQqNQV1M",  # 2023-01-18 These Gears Plays Tighter Music
    "RGh8XVB8y9k",  # 2023-01-25 A New Music Reader For Marble Machine 3
    "Ub7AF3dH6i0",  # 2023-02-01 These Bowden Cables Surprised Me!
    "nEZ7QFKDp0k",  # 2023-02-08 Can Bowden Cables Play Tight Music?
@@ -305,6 +307,7 @@ INVENTIONS = [
    "xTYnwKxlLIQ",  # 2023-12-06 Can Steel Marbles Sound Good on Metal Vibraphone?
    "i63t7ekNFoY",  # 2023-12-15 I Found a 130 Year Old Solution for the Marble Machine
    "rVCF8wjwj2E",  # 2023-12-20 BIG Marble VS Kick Drum - Sound Test
+   "8ouH21npL58",  # 2023-12-27 Testing a Faster Wheel - Is the Music Tighter?
    "hUGOrvWRf5Y",  # 2024-01-10 10 Meter Wide Marble Machine
    "qjkIMxmSeIc",  # 2024-01-17 Fixing An Annoying Problem From The Marble Machine X
    "M337IV9dSuk",  # 2024-01-24 My Plan to Finish the Marble Machine - And how You can Help
@@ -312,6 +315,8 @@ INVENTIONS = [
    "BpJYqC4PWEw",  # 2024-02-21 I just realized why I´m doing the Marble Machine Project
    "AbmMnu-NpaI",  # 2024-02-28 The Marble Machine comes to Life - Say Hello to 45 Degree Angles
    "JadbqfeZ09M",  # 2024-03-06 Playing Bass with Marbles - Testing 3 New Ideas
+   "P0KPHNbkWPU",  # 2024-03-13 How this shape just changed Everything
+   "J0T8sDdDC08",  # 2024-03-20 Why did I put Mechanical Fingers on the Bass?
    "svMh5KRvGKQ",  # 2024-04-17 Making a Cardboard Model of the Marble Machine
    "GNmL6tFsrvc",  # 2024-04-24 A new way to switch songs on the Marble Machine
    "urfP4xrpn9M",  # 2024-05-01 Steel Ball VS Crash Cymbal Sounds Like
@@ -327,59 +332,76 @@ INVENTIONS = [
    "QMgVt3OJbrU",  # 2024-10-16 Future Retro - Animusic Cover With Marbles
    "Vg6sG3frJ18",  # 2024-11-01 The MONSTER Music Box Returns - Marble Machine X got it right...
    "k8NXF2rtaEg",  # 2024-12-23 Marble Machine Inspired by Leonardo Da Vinci
+   "zVojuK_CXJM",  # 2025-02-07 I Finally Did It! After 8 years I found the PERFECT GEARS
+   "4fcjpnWd8co",  # 2025-02-11 After 8 years I Finally solved it!
+   "V0H6ChgRe44",  # 2025-02-14 One-Way Bearings: Pure Mechanical Magic!
    "j7jGokLIOqI",  # 2025-02-21 Why the music will be SO MUCH BETTER on Marble Machine 3
+   "3_vRx0h9np4",  # 2025-02-25 The Simple Idea That Changed Marble Music FOREVER 🎵
    "RmrHewtm6yQ",  # 2025-03-21 Marble Machine 3 does WHAT?
+   "MMcQuPR5UHw",  # 2025-04-09 Is this the Simplest Idea Ever? 🤔
    "Jt82D7uW4OA",  # 2025-04-18 How I´ll Make the Worlds Largest Plywood Gears
+   "v3q7IMXC-Hk",  # 2025-04-21 The plan: Double Helical Plywood Gears!
    "dNlZ2NO5vg8",  # 2025-06-06 The Perfect Marble Divider just got Better
    "ofFNGoSFKOI",  # 2025-06-27 The first REAL parts for Marble Machine 3 are here!
+   "k2i8FXIExU8",  # 2025-07-06 The first parts for Marble Machine 3 👀
    "rFweD91GEcA",  # 2025-08-08 How One Simple Idea Rescued the Marble Machine
    "0NDxlBAFIJo",  # 2025-09-30 Building the Marble Machine Workshop
+   "tjBjvL6sNBc",  # 2026-01-28 A Small Fix, A Big Sound Difference
    "Pq4NOi7KGgI",  # 2026-02-04 The Largest Plywood Gear I’ve Ever Made
+   "V-K1I1FREXs",  # 2026-02-04 The Largest Plywood Gear I’ve Ever Made
+   "RvfYrpEPTm8",  # 2026-02-18 The Smarter Italian Marble Machine👨‍🍳🍕
    "WA1RGydNmSg",  # 2026-02-18 Locking In - Let's Build a Smarter Marble Machine
    "i582paB8kvQ",  # 2026-02-20 Marble Machine Vibraphone - What Features Matter Most?
+   "pwMmekWMdQU",  # 2026-02-20 Am I starting All Over from scratch again!?
    "ATj41HxVveE",  # 2026-02-23 What Drums Does the Marble Machine Really Need?
    "KoIDLnxuxdg",  # 2026-02-25 Choosing Marble Size for the Marble Machine
+   "JZfyEAAwlkw",  # 2026-03-03 What Features Matter Most on the Vibraphone?
+   "-Wq3qcR-xl0",  # 2026-03-04 Finding the Right Drums for the Marble Machine
    "u-3lFCYFV_g",  # 2026-03-04 Why I Switched to Onshape for the Marble Machine - 5 Key Reasons
+   "oX8oy8UxvcE",  # 2026-03-05 Choosing Marble Size for the Marble Machine
    "66FDq5Um5Vg",  # 2026-03-09 Designing the Gear Train for The Marble Machine
-   "MFVulAb99BI",  # 2026-03-18 Marble Machine Live: Drive Train Design Part 2
    "FcDwMbyvGuY",  # 2026-03-18 Marble Machine Live: Drive Train Design
+   "MFVulAb99BI",  # 2026-03-18 Marble Machine Live: Drive Train Design Part 2
    "7bHJHPfhrAA",  # 2026-03-19 Marble Machine Live: Flyball Governor Master Part
    "u183vWMIws4",  # 2026-03-19 Marble Machine Live: Programming Wheel Master Part
-   "vU-b1fCE9t8",  # 2026-03-20 Marble Machine Live: Taking Full Control of the Master Part Model in O
    "tyzO95hqev8",  # 2026-03-20 Marble Machine Live: Taking Full Control of the Master Part Model in O
-   "xgIMW4lcbA4",  # 2026-03-23 Marble Machine Live: Marble Loop Master Part - Part 2
+   "vU-b1fCE9t8",  # 2026-03-20 Marble Machine Live: Taking Full Control of the Master Part Model in O
    "qPeMvyaMXgI",  # 2026-03-23 Marble Machine Live: Marble Loop Master Part
+   "xgIMW4lcbA4",  # 2026-03-23 Marble Machine Live: Marble Loop Master Part - Part 2
    "5QWogxsE2SE",  # 2026-03-24 Marble Machine Live: Controls Master Part
    "HmnCeb58MOo",  # 2026-03-24 Marble Machine Live: Skeleton Clock Frame Master Part
    "gRv1B8pp0Qg",  # 2026-03-25 Real Progress! Marble Machine Weekly Recap
-   "QZbMQwymSMs",  # 2026-03-26 Marble Machine Live: Learning to LOVE Design Requirements Part 2
    "1AITDBHMuko",  # 2026-03-26 Marble Machine Live: Learning to LOVE Design Requirements
+   "QZbMQwymSMs",  # 2026-03-26 Marble Machine Live: Learning to LOVE Design Requirements Part 2
    "3YnTfSZMHBk",  # 2026-03-27 Marble Machine Live: Should the Vibraphone plates really move?
    "qPZ5k6UHke0",  # 2026-03-28 Learning Onshape with Derek van Allen - 8 Lessons from the Marble Mach
    "qq_nXVRP9G8",  # 2026-03-30 Marble Machine Live: Team WIDE For The Win!
    "GxWIkDDFmQk",  # 2026-03-31 Marble Machine Live: Starting to Love Design Requirements Part 4
    "lO8Yy0DAfcY",  # 2026-03-31 Marble Machine Live: Learning to Love Design Requirements Part 3
-   "Xito2etLzfo",  # 2026-04-01 The Monster I Learned to Love - Marble Machine Weekly Recap
    "A0L2bNTBqJU",  # 2026-04-01 Marble Machine Live: Transport Requirements & Constraints
+   "Xito2etLzfo",  # 2026-04-01 The Monster I Learned to Love - Marble Machine Weekly Recap
    "kdtBtiAVMh8",  # 2026-04-02 Marble Machine Live: Improving the Design Requirements
    "fUDNlsLB4pk",  # 2026-04-08 Automatic Marble Sorting by Size - Marble Machine Weekly Recap
    "9MDnHoMi-H8",  # 2026-04-09 Vibraphone Experiments | Marble Machine Live
-   "WHxpSkJi6iQ",  # 2026-04-10 First cuts on my new CNC machine | Marble Machine Live
    "Epr0Ed0bwig",  # 2026-04-10 Vibraphone Experiments Part 2 | Marble Machine Live
+   "WHxpSkJi6iQ",  # 2026-04-10 First cuts on my new CNC machine | Marble Machine Live
    "UI2b8VDql6g",  # 2026-04-13 How to hold the vibraphone bars Part 2 | Marble Machine Live
    "ePS-aoSTzgs",  # 2026-04-13 How to hold the vibraphone bars | Marble Machine Live
    "a57vCmURZKA",  # 2026-04-14 Testing the 3D Printed Silicone Holder for the Vibraphone bars | Marbl
    "z6xprYueYec",  # 2026-04-14 How to Write Better Design Requirements with Jasper Brookman | Marble 
    "-iu6L037yi8",  # 2026-04-20 Design Requirements Organisation in the Style Of Paul Drover | Marble 
+   "b01MUffzMQ8",  # 2026-04-21 9:16 Stream: Vibraphone Holders Part 3 | Marble Machine Live
    "lXrJi2X6JSo",  # 2026-04-21 Vibraphone Holders Part 4 | Marble Machine Live
    "rkDEuUQi9s8",  # 2026-04-21 Vibraphone Holders Part 3 | Marble Machine Live
+   "jOYu4zZLELk",  # 2026-04-22 9:16 Vertical Stream: Vibraphone Holders Part 4 | Marble Machine Live
    "t8TSO-7OtK8",  # 2026-04-22 7 Engineering Lessons from Building the Marble Machine this Week
-   "UQBMl0lNWuo",  # 2026-04-23 Vibraphone Resonator Prototyping | Marble Machine Live
    "9Kug45MSdhU",  # 2026-04-23 Vibraphone Resonator Experiments Supported by Theory | Marble Machine 
-   "pJJ4GRCK_gI",  # 2026-04-24 Vibraphone 1 Channel Prototype Part 2 | Marble Machine Live
+   "UQBMl0lNWuo",  # 2026-04-23 Vibraphone Resonator Prototyping | Marble Machine Live
    "-NfmrRx-2b0",  # 2026-04-24 Vibraphone 1 Channel Prototype | Marble Machine Live
+   "pJJ4GRCK_gI",  # 2026-04-24 Vibraphone 1 Channel Prototype Part 2 | Marble Machine Live
    "ZKNvUG6nuqc",  # 2026-04-27 Writing Design Requirements with Paul Drover | Marble Machine Live
    "_wslKCTOLQQ",  # 2026-04-28 Lego Vibrato Experiments | Marble Machine Live
+   "fqkVZue6eaM",  # 2026-04-28 Vertical Stream: Vibraphone Pivot Arm Experiments | Marble Machine Liv
    "lWTjeRmOGyA",  # 2026-04-28 Vibraphone Pivot Arm Experiments | Marble Machine Live
    "aF7a14bdfUA",  # 2026-04-30 Can Moving Vibraphone Bars Still Sound Good?
    "nJxNQmoSsOs",  # 2026-05-27 Marble Machine Design Freeze - At Last!
@@ -387,6 +409,7 @@ INVENTIONS = [
    "k8K8mYCQSvk",  # 2026-06-10 Building the Marble Machine Mockup - It's BIG
    "4WFtFxr3RQU",  # 2026-06-17 Every Sound the Marble Machine Can Play - Design Freeze Milestone
    "WuhJy9deDCU",  # 2026-07-03 Marble Machine Programming Wheel Design Challenge
+   "0Iq-jYBTBp8",  # 2026-07-10 I Avoided This for Too Long - Design Requirements
    "ZOgXJRM8ttA",  # 2026-07-21 Designing The Marble Machine's Programming System
    "hASDSK-xOCo",  # 2026-09-21 Print-in-Place Locking Pins | Marble Machine #474
    "kioDlCjHdhc",  # 2026-09-23 The Over-Center Clamp | Marble Machine #475
@@ -411,6 +434,18 @@ INVENTIONS = [
    "MG3DBTPM_XU",  # 2023-06-14 Lego Technic Huygen Chain Drive
    "CyDm7XqMN3s",  # 2025-05-29 Why I used Lego to Build a Music Box
    "-1R4UvvlclM",  # 2026-04-29 Vertical Stream: Lego Vibrato Experiments | Marble Machine Live
+  ],
+ ),
+ dict(name="Custom Fingerboard", kind="Instrument",
+  desc="A custom fingerboard from scratch.",
+  videos=[
+   "COgY3mI0Yzg",  # 2023-11-03 Making a Custom Fingerboard from Scratch - Collab with @mini.milooo
+  ],
+ ),
+ dict(name="Plywood Scrap Acoustic Panels", kind="Audio",
+  desc="Acoustic panels from plywood scraps.",
+  videos=[
+   "MCPPOCrWpU0",  # 2020-04-01 Acoustic Panels from Plywood Scraps - Music Studio Build
   ],
  ),
 ]
