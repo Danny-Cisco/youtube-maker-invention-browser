@@ -22,12 +22,6 @@ INVENTIONS = [
    "Bv8ikCORLpc",  # 2020-11-02 Crash Bandicoot 4 - building the Quantum Masks
   ],
  ),
- dict(name="Hench & Scrap Foundry", kind="Build",
-  desc="For the Starcraft Anniversary, we were tasked to produce a short run of Starcraft Zealot Psi-blades for giveaways and display in Blizzard offices around the globe.",
-  videos=[
-   "IxMkDVoxG0w",  # 2020-11-02 Hench & Scrap Foundry - Starcraft Anniversary Zealot Psi-blades
-  ],
- ),
  dict(name="Making of: Ask an Old God", kind="Build",
   desc="In a pact with the Old Gods, we created the board for Blizzard ANZ's Ask An Old God online event!",
   videos=[
@@ -69,25 +63,6 @@ INVENTIONS = [
   videos=[
    "Al8Pvh7d46g",  # 2021-12-17 Crafting Skyrim's Sanguine Rose for Bethesda
    "D_qYCvGOAZs",  # 2024-09-25 The Sanguine Rose - Skyrim staff made for Bethesda
-  ],
- ),
- dict(name="Hench & Scrap Foundry 2021 retrospective", kind="Build",
-  desc="Here's a heartfelt little video of the year's big projects.",
-  videos=[
-   "-1X1PjchMZU",  # 2021-12-31 Hench & Scrap Foundry 2021 retrospective
-  ],
- ),
- dict(name="We cosplayed the Lich King for Blizzard", kind="Build",
-  desc="In celebration of the release of Wrath of the Lich King classic, Blizzard gave us the once in a lifetime opportunity to build a full Lich King cosplay, complete with Frostmourne and the Helm of Domination.",
-  videos=[
-   "XsrqgcTKtcI",  # 2022-10-15 We cosplayed the Lich King for Blizzard!
-   "JJXNkbrMdhE",  # 2022-10-17 We Made The Lich King for Blizzard (Highlights)
-  ],
- ),
- dict(name="Bringing Dragonflight's Whelplings to life", kind="Build",
-  desc="Bringing Dragonflight's Whelplings to life!.",
-  videos=[
-   "5Q1vNQsrjPE",  # 2023-08-11 Bringing Dragonflight's Whelplings to life!
   ],
  ),
  dict(name="Making an ESO Breton Chest cooler", kind="Build",
@@ -143,12 +118,6 @@ INVENTIONS = [
   videos=[
    "FbWa3pzPYjE",  # 2025-06-17 How we made our cable controlled Warframe Krubie puppet head for Tenno
    "7XK_SPOHFPU",  # 2025-08-01 We built a MASSIVE Warframe Krubie puppet!
-  ],
- ),
- dict(name="Destiny 2: Gryphon Combat Sparrow mini's", kind="Build",
-  desc="At heart I'm a spaceship guy, and there's something deeply satisfying about assembling a great model kit.",
-  videos=[
-   "Wk8kI8SrmMw",  # 2025-11-05 Destiny 2: Gryphon Combat Sparrow mini's
   ],
  ),
 ]

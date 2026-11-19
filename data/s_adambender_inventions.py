@@ -13,12 +13,6 @@ INVENTIONS = [
    "axLIIfqhN_U",  # 2012-11-07 Homemade CNC Machine Engraving
   ],
  ),
- dict(name="DIY CNC Quick look at engraving", kind="Build",
-  desc="just a quick look at my homemade CNC carving maple",
-  videos=[
-   "hKbwETd0xQw",  # 2012-11-07 DIY CNC Quick look at engraving
-  ],
- ),
  dict(name="Delta Printer in Action, Testing Kinematics", kind="Build",
   desc="Delta Printer in Action, Testing Kinematics.",
   videos=[
@@ -29,12 +23,6 @@ INVENTIONS = [
   desc="A robot, which balances on one wheel.",
   videos=[
    "I-xwtTATRLM",  # 2014-07-31 One Wheel Balancing Robot
-  ],
- ),
- dict(name="SolidWorks Flow Simulation with Fan and Heat Hink", kind="Build",
-  desc="Simulating flow with a rotating fan over a heat sink using SolidWorks",
-  videos=[
-   "NauURWekZmY",  # 2015-03-18 SolidWorks Flow Simulation with Fan and Heat Hink
   ],
  ),
  dict(name="How to Design Parts for CNC Machining", kind="Build",
@@ -54,12 +42,6 @@ INVENTIONS = [
   videos=[
    "JldTYkcFDM8",  # 2019-06-01 How To Build a Lithium Battery (Part 1 of 2)
    "f9fZZVfcBVQ",  # 2019-06-10 How To Design A Lithium Battery (Part 2 of 2)
-  ],
- ),
- dict(name="Design the Best Wheel with Fusion 360 and Generative Design", kind="Build",
-  desc="Learn how to use a new engineering simulation tool called generative design to create highly efficient shapes that optimize the stiffness and weight of a part.",
-  videos=[
-   "SwTtltjE2_E",  # 2019-06-16 Design the Best Wheel with Fusion 360 and Generative Design
   ],
  ),
 ]

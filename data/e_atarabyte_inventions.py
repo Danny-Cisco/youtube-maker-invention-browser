@@ -19,18 +19,6 @@ INVENTIONS = [
    "N3Ag1g8EYfs",  # 2023-01-04 Lego Vespa Build Part 3!
   ],
  ),
- dict(name="Tinkering with Tech and soldeirng random things", kind="Build",
-  desc="Tinkering with Tech and soldeirng random things.",
-  videos=[
-   "I3HC7o9jdy0",  # 2023-06-14 Tinkering with Tech and soldeirng random things
-  ],
- ),
- dict(name="How I Got Rid Of My Acne Scars! My Experience With Acne and Scars", kind="Build",
-  desc="I have a reddit post that goes into details about my Dermatologist and treatments in South Korea!",
-  videos=[
-   "t3U2IghFBkc",  # 2024-04-17 How I Got Rid Of My Acne Scars! (Before + After Pictures) My Experienc
-  ],
- ),
  dict(name="Finally Soldering Again", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
@@ -39,40 +27,16 @@ INVENTIONS = [
    "-gjVtJbt_fE",  # 2026-01-29 Finally Soldering Again!!!
   ],
  ),
- dict(name="I turned my doge into a saiyan", kind="Build",
-  desc="I hope you enjoy this video!",
-  videos=[
-   "R9M4Cx4KuvY",  # 2025-01-06 I turned my doge into a saiyan!
-  ],
- ),
  dict(name="I made a Printed Circuit Board Hair Bow", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
    "DSpQ15UDL_Q",  # 2025-09-25 I made a Printed Circuit Board Hair Bow!
   ],
  ),
- dict(name="Doing some Arts and Crafts today", kind="Build",
-  desc="Doing some Arts and Crafts today.",
-  videos=[
-   "5yAYFZDHhAk",  # 2025-11-05 Doing some Arts and Crafts today
-  ],
- ),
  dict(name="Hi Everyone!! Project updatees and show and tell", kind="Build",
   desc="I hope you enjoy this video!",
   videos=[
    "fYhZ7IpAgXE",  # 2026-01-21 Hi Everyone!! Project updatees and show and tell
-  ],
- ),
- dict(name="Playing games @Katya", kind="Build",
-  desc="I hope you enjoy this video!",
-  videos=[
-   "vMlAVsHcfQ8",  # 2026-01-31 Playing games @Katya!
-  ],
- ),
- dict(name="Taking apart electronics", kind="Build",
-  desc="Taking apart electronics.",
-  videos=[
-   "cqxdWT9MzHk",  # 2026-02-04 Taking apart electronics
   ],
  ),
  dict(name="Soldering, Teaching and finishing my Lego build", kind="Build",
@@ -101,18 +65,6 @@ INVENTIONS = [
   desc="Soldering and tech talk.",
   videos=[
    "DqFjQpTIIeA",  # 2026-02-27 Soldering and tech talk
-  ],
- ),
- dict(name="Playing Subnatica", kind="Build",
-  desc="Playing Subnatica.",
-  videos=[
-   "FQdCSwjZ0mk",  # 2026-06-24 Playing Subnatica
-  ],
- ),
- dict(name="Warhammer 40K Painting Session", kind="Build",
-  desc="A live painting session focused on Warhammer 40K miniatures, showing brushwork, color choices, and finishing details for hobbyists who want practical inspiration.",
-  videos=[
-   "xdl16MRKHhs",  # 2026-10-13 Warhammer 40K Painting Session
   ],
  ),
  dict(name="Creating a PCB from the beginning", kind="Build",

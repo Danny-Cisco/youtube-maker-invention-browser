@@ -17,10 +17,16 @@ INVENTIONS = [
    "MsehwwVlj50",  # 2016-10-02 CONCRETE SKATEBOARD - Made for Braille Skateboarding
   ],
  ),
- dict(name="GIANT Fidget Spinner Made of Fidget Spinners", kind="Build",
-  desc="This whole fidget spinner trend is totally crazy -- at this point, it's like putting \"Fidget Spinner\" in the title of your video is automatic clickbait.",
+ dict(name="EXPERIMENT Glowing 1000 degree KNIFE MAKING A SANDWICH", kind="Build",
+  desc="I decided that the whole 1000 degree knife trend was ridiculous, so I decided to do what none had done before -- use a 1000 degree knife for it's intended purpose: CUTTING FOOD.",
   videos=[
-   "dgRpQojGW-s",  # 2017-05-27 GIANT Fidget Spinner Made of Fidget Spinners (made of fidget spinners)
+   "-ZaFhH0nTUA",  # 2016-12-28 EXPERIMENT Glowing 1000 degree KNIFE MAKING A SANDWICH
+  ],
+ ),
+ dict(name="Cheat At Skating", kind="Build",
+  desc="John Hill is the freaking bomb.",
+  videos=[
+   "9Zmg8bokYEA",  # 2017-04-06 CHEAT AT SKATING?! - Building John Hill's Magnetic Skateboard - BTS
   ],
  ),
  dict(name="The Cardboard Car", kind="Build",
@@ -35,10 +41,64 @@ INVENTIONS = [
    "A5w-BLKO1HI",  # 2017-08-15 HACKING a SOLID METAL Pen?! - The Zebra F-701 EDC Hack
   ],
  ),
+ dict(name="Make SIRI Your PITCH… PIPE", kind="Build",
+  desc="I was so done with Siri's BS...",
+  videos=[
+   "mLRjdaMJGdA",  # 2018-01-27 Make SIRI Your PITCH… PIPE
+  ],
+ ),
+ dict(name="Recreating the LEGENDARY Rotring 600", kind="Build",
+  desc="Thanks for watching, DFTBA, and keep watching WeiszCracks!",
+  videos=[
+   "iBVUFj8IBpY",  # 2018-02-26 Recreating the LEGENDARY Rotring 600 - EDC Pen Hack
+  ],
+ ),
+ dict(name="Why I Made FAKE Supreme", kind="Build",
+  desc="This project has been in the works for nearly 3 months now, and I'm thrilled to finally share it with all of you.",
+  videos=[
+   "C4dLjW-ryBw",  # 2018-06-06 Why I Made FAKE Supreme
+  ],
+ ),
+ dict(name="Using Every Tool at ThinkBox Cleveland", kind="Build",
+  desc="Thanks for watching, DFTBA, and keep watching WeiszCracks!",
+  videos=[
+   "bH_5U16uJnU",  # 2018-07-13 Using Every Tool at ThinkBox Cleveland - (Pokemon Card Launcher PART 1
+  ],
+ ),
+ dict(name="Gotta Launch 'Em All", kind="Build",
+  desc="It actually turned out to be DOPE!",
+  videos=[
+   "BQeABnvJYoI",  # 2018-07-18 GOTTA LAUNCH 'EM ALL - (Pokemon Card Launcher Part 2)
+  ],
+ ),
+ dict(name="This DIY Mini Crossbow is Simple AND Effective", kind="Build",
+  desc="Do people wanna make this themselves?",
+  videos=[
+   "qDjeZ8lAZyM",  # 2018-07-28 This DIY Mini Crossbow is Simple AND Effective!
+  ],
+ ),
+ dict(name="How FAST can my DIY Mini Crossbow Shoot", kind="Build",
+  desc="Please enjoy this low-budget version of MythBusters!",
+  videos=[
+   "cPsD7SRf8KM",  # 2018-08-05 How FAST can my DIY Mini Crossbow Shoot?
+  ],
+ ),
+ dict(name="Easy $5 DIY Tape Dispenser that KICKS A$$", kind="Build",
+  desc="I desperately needed to build a tape dispenser, and it turned out dope af.",
+  videos=[
+   "44KR78GDKl0",  # 2018-08-23 Easy $5 DIY Tape Dispenser that KICKS A$$
+  ],
+ ),
  dict(name="Will It Work? LIFE SIZE CARDBOARD CHAIR", kind="Build",
   desc="Last time it was a model, this time I made a LIFE SIZE CHAIR using JUST cardboard!",
   videos=[
    "lVUV8OZb1ao",  # 2018-09-25 Will It Work? LIFE SIZE CARDBOARD CHAIR (Laser-Cut)
+  ],
+ ),
+ dict(name="I Made a CAT-apult for William Osman", kind="Build",
+  desc="Thanks for watching, DFTBA, and keep watching WeiszCracks!",
+  videos=[
+   "AEZ4O12R0_A",  # 2018-10-12 I Made a CAT-apult for William Osman!
   ],
  ),
  dict(name="Is This FRUIT GUILLOTINE the ULTIMATE Kitchen Gadget", kind="Build",
@@ -53,101 +113,22 @@ INVENTIONS = [
    "4x-U4ZJnUqo",  # 2018-12-07 I made a PVC trombone, and it TOTALLY BLOWS!
   ],
  ),
- dict(name="A BATHTUB that's MADE OF SOAP", kind="Build",
-  desc="Thanks for watching, DFTBA, and keep watching WeiszCracks!",
-  videos=[
-   "32yqFQr6ei8",  # 2018-12-28 A BATHTUB that's MADE OF SOAP!
-  ],
- ),
  dict(name="I made a REAL LIFE B.A.J.O.O.K.A. from Codename", kind="Build",
   desc="Codename: Kids Next Door was one of the COOLEST shows I remember watching as a kid, and the 2x4 technology is one of the things I loved most.",
   videos=[
    "yDWL3XoSDoA",  # 2019-01-24 I made a REAL LIFE B.A.J.O.O.K.A. from Codename: Kids Next Door
   ],
  ),
- dict(name="Maybe a Toilet Sled was a BAD idea", kind="Build",
-  desc="I got a free toilet on Craigslist and turned it into this insane sled!",
+ dict(name="Wrapping myself in Duct Tape to make a DIY Test Dummy", kind="Build",
+  desc="I needed to NOT die so I made a duct tape dummy of myself for crash testing & other stuff!",
   videos=[
-   "mtT02GKeSKo",  # 2019-02-14 Maybe a Toilet Sled was a BAD idea...
-  ],
- ),
- dict(name="High Heel Heelys", kind="Build",
-  desc="Thanks for watching!",
-  videos=[
-   "AMMcSPXIrIU",  # 2019-03-09 HIGH HEEL HEELYS - Shoe of the Future?
-  ],
- ),
- dict(name="I Made a YouTube Buddy FLAMETHROWER for Michael Reeves", kind="Build",
-  desc="I Made a YouTube Buddy FLAMETHROWER for Michael Reeves.",
-  videos=[
-   "W8GTnOAp4s8",  # 2019-04-08 I Made a YouTube Buddy FLAMETHROWER for Michael Reeves
-  ],
- ),
- dict(name="Every Way to Cut Cheap Wood", kind="Build",
-  desc="Join YouTube maker Louis Weisz as he attempts to cut a 2x4 in every way possible.",
-  videos=[
-   "b5DPLB02T00",  # 2019-05-08 Every Way to Cut Cheap Wood (39 Methods)
-  ],
- ),
- dict(name="Would You Survive a Fight in Pop Tab Chainmail", kind="Build",
-  desc="This week, we find out if Pop Tab Chainmail could save your life, by blocking attacks from opponents with REAL weapons.",
-  videos=[
-   "QgbVl3AjK6k",  # 2019-06-05 Would You Survive a Fight in Pop Tab Chainmail?
-  ],
- ),
- dict(name="How Far Can I Sail in a Paper Boat", kind="Build",
-  desc="This week we find out if a supersized origami boat could actually be a functional ship!",
-  videos=[
-   "CpdsBA1osCw",  # 2019-07-03 How Far Can I Sail in a Paper Boat?
-  ],
- ),
- dict(name="Motorized Cardboard Boat Race CHALLENGE vs PeterSripol", kind="Build",
-  desc="Despite cardboard's massive drawbacks, hundreds of people every year get together for Cardboard Boat Races, where small teams construct boats using nearly the worst material imaginable.",
-  videos=[
-   "bi59c-o_H00",  # 2019-07-28 Motorized Cardboard Boat Race CHALLENGE vs PeterSripol!
-  ],
- ),
- dict(name="How Many Layers of Foil will Stop an Arrow", kind="Build",
-  desc="After testing the efficacy of pop tab chainmail, I've been itching to try making more aluminum armor.",
-  videos=[
-   "EZCFvg8VkTg",  # 2019-08-20 How Many Layers of Foil will Stop an Arrow?
+   "FAyIS2WTOHw",  # 2019-02-27 Wrapping myself in Duct Tape to make a DIY Test Dummy
   ],
  ),
  dict(name="Is Paper Armor Really Stronger While Wet", kind="Build",
   desc="Is Paper Armor Really Stronger While Wet?.",
   videos=[
    "8ME-cQuy5_Y",  # 2019-09-18 Is Paper Armor Really Stronger While Wet?
-  ],
- ),
- dict(name="Can I Make Dodgeball Even More Painful", kind="Build",
-  desc="Have you ever felt like dodgeball isn’t painful enough?",
-  videos=[
-   "KtK0RuneTcc",  # 2019-10-23 Can I Make Dodgeball Even More Painful?
-  ],
- ),
- dict(name="How My Teen-Proof JUUL Could End Teen Vaping", kind="Build",
-  desc="Can you make a JUUL Teen-Proof?",
-  videos=[
-   "_nQP5ztX_nU",  # 2019-12-02 How My Teen-Proof JUUL Could End Teen Vaping
-  ],
- ),
- dict(name="What does Christmas really smell like", kind="Build",
-  desc="Thanks for watching, I'll see you next year!",
-  videos=[
-   "J2sH4Y82lAk",  # 2019-12-25 What does Christmas really smell like?
-  ],
- ),
- dict(name="Does Minecraft's Torch Recipe work IRL", kind="Build",
-  desc="The Minecraft Torch Recipe is possibly the most well-known crafting recipe in the game, but in real life the ingredients just don't seem to add up.",
-  videos=[
-   "tVSiRfL8kiU",  # 2020-01-31 Does Minecraft's Cake Recipe work IRL?
-   "IhEbfady050",  # 2020-09-16 Does Minecraft's Torch Recipe work IRL?
-  ],
- ),
- dict(name="How Dangerous are Voice Controlled Cars", kind="Build",
-  desc="Thanks for watching!",
-  videos=[
-   "ENxG9eZd9mo",  # 2020-02-26 How Dangerous are Voice Controlled Cars?
   ],
  ),
  dict(name="I tried DIY Weapons so you don't have to", kind="Build",
@@ -162,12 +143,6 @@ INVENTIONS = [
    "M3AhWx5zzk4",  # 2020-05-15 Towing a Car with World’s Largest Licorice Rope
   ],
  ),
- dict(name="Is an Icicle the Perfect Murder Weapon", kind="Build",
-  desc="Today, we're gonna find out if an icicle is really the perfect murder weapon, by testing it for ourselves.",
-  videos=[
-   "sjtdqY5-7No",  # 2020-06-12 Is an Icicle the Perfect Murder Weapon?
-  ],
- ),
  dict(name="$12 Robot VS Finger On The App", kind="Build",
   desc="Cheating at Finger On The App isn't cool...",
   videos=[
@@ -180,40 +155,10 @@ INVENTIONS = [
    "qzhs-QNE1P8",  # 2020-08-07 Will It Float? Testing Minecraft Boat in Real Life!
   ],
  ),
- dict(name="Can Boiling Alcohol Cook Spaghetti", kind="Build",
-  desc="Hank Green wanted to try booze noodles.",
-  videos=[
-   "25hyqdEdKwQ",  # 2020-10-30 Can Boiling Alcohol Cook Spaghetti?
-  ],
- ),
  dict(name="How Many Slaps does it Take to Cook a Chicken", kind="Build",
   desc="How many slaps does it take to cook a chicken?",
   videos=[
    "68L6JA_CnmU",  # 2020-12-16 How Many Slaps does it Take to Cook a Chicken?
-  ],
- ),
- dict(name="I Cooked a Chicken by Slapping It", kind="Build",
-  desc="We did it boys.",
-  videos=[
-   "LHFhnnTWMgI",  # 2021-03-14 I Cooked a Chicken by Slapping It
-  ],
- ),
- dict(name="How Dangerous is Hail", kind="Build",
-  desc="Hail's low casualty rate gets it a reputation for being pretty mild, but considering that it does WAY more property damage than tornadoes annually, I'd argue it's actually the bigger threat.",
-  videos=[
-   "ouB2d3O_Opk",  # 2021-05-04 How Dangerous is Hail?
-  ],
- ),
- dict(name="We *MADE* Ice Cream in Space, and Ate It", kind="Build",
-  desc="We *MADE* Ice Cream in Space, and Ate It.",
-  videos=[
-   "asu4HNrJtO4",  # 2021-06-23 We *MADE* Ice Cream in Space, and Ate It
-  ],
- ),
- dict(name="Can Minecraft's Wood Pickaxe REALLY Break Stone", kind="Build",
-  desc="Today we're testing whether you can really break stone with Minecraft's Wood pickaxe, by building one for real and seeing if it works!",
-  videos=[
-   "cEz_2spRbek",  # 2021-07-21 Can Minecraft's Wood Pickaxe REALLY Break Stone?
   ],
  ),
  dict(name="How Many Holes till my Surfboard Stops Working", kind="Build",
@@ -222,46 +167,10 @@ INVENTIONS = [
    "AiaX0qmjrwE",  # 2021-08-21 How Many Holes till my Surfboard Stops Working?
   ],
  ),
- dict(name="Risking My Life to Set a Speed Record", kind="Build",
-  desc="Risking My Life to Set a Speed Record.",
-  videos=[
-   "smOXezkkXow",  # 2021-09-25 Risking My Life to Set a Speed Record
-  ],
- ),
- dict(name="Can I Survive the Wild in 3rd Person", kind="Build",
-  desc="Can I Survive the Wild in 3rd Person?.",
-  videos=[
-   "-khh2hifmOU",  # 2021-10-01 Can I Survive the Wild in 3rd Person?
-  ],
- ),
- dict(name="What Happens if You Follow Minecraft’s Pie Recipe", kind="Build",
-  desc="What Happens if You Follow Minecraft’s Pie Recipe?.",
-  videos=[
-   "0oX8ADQlf54",  # 2021-11-11 What Happens if You Follow Minecraft’s Pie Recipe?
-  ],
- ),
- dict(name="I Tested Every Strategy to WIN Squid Game", kind="Build",
-  desc="Thanks for watching!",
-  videos=[
-   "Dzpy2NYK-80",  # 2021-12-01 I Tested Every Strategy to WIN Squid Game
-  ],
- ),
- dict(name="I Hired 30 Chefs to Test This Myth", kind="Build",
-  desc="I Hired 30 Chefs to Test This Myth.",
-  videos=[
-   "hTsyqGTaYEs",  # 2021-12-24 I Hired 30 Chefs to Test This Myth
-  ],
- ),
  dict(name="Can I Launch a Rocket using ONLY Sprinkles", kind="Build",
   desc="Thanks for watching!",
   videos=[
    "6EBn0RXbgPM",  # 2022-02-16 Can I Launch a Rocket using ONLY Sprinkles?
-  ],
- ),
- dict(name="Could Minecraft's Stone Sword Actually Kill You", kind="Build",
-  desc="Thanks for watching!",
-  videos=[
-   "PbzgES9MhPY",  # 2022-03-19 Could Minecraft's Stone Sword Actually Kill You?
   ],
  ),
  dict(name="Jet Powered Sled vs 38 Miles of Ice", kind="Build",
@@ -271,34 +180,10 @@ INVENTIONS = [
    "qLtV1tbNi_8",  # 2023-04-28 I Built a NEW Jet-Powered Sled! (Full Suspension!)
   ],
  ),
- dict(name="I Carbonated Soda using Deep Ocean Pressure", kind="Build",
-  desc="I Carbonated Soda using Deep Ocean Pressure.",
-  videos=[
-   "UvA2kAxmNNw",  # 2022-05-02 I Carbonated Soda using Deep Ocean Pressure
-  ],
- ),
  dict(name="I Hacked THIS Website to Make Myself Famous…", kind="Build",
   desc="I Hacked THIS Website to Make Myself Famous….",
   videos=[
    "s2L0vQ3O0xA",  # 2022-05-25 I Hacked THIS Website to Make Myself Famous…
-  ],
- ),
- dict(name="Jet Powered Bike vs 100 Miles of Desert", kind="Build",
-  desc="Jet Powered Bike vs 100 Miles of Desert!.",
-  videos=[
-   "Y6H4gF9PokA",  # 2022-08-29 Jet Powered Bike vs 100 Miles of Desert!
-  ],
- ),
- dict(name="I Survived 50 Hours in Thermal Vision", kind="Build",
-  desc="I Survived 50 Hours in Thermal Vision.",
-  videos=[
-   "4-D0r7fCSiE",  # 2022-09-22 I Survived 50 Hours in Thermal Vision
-  ],
- ),
- dict(name="I Cooked a Turkey by Slapping It", kind="Build",
-  desc="I Cooked a Turkey by Slapping It (feat @NickDiGiovanni).",
-  videos=[
-   "ikiwW9VA9hk",  # 2022-12-11 I Cooked a Turkey by Slapping It (feat @NickDiGiovanni)
   ],
  ),
  dict(name="I Built the Rock from Spongebob", kind="Build",
@@ -307,40 +192,16 @@ INVENTIONS = [
    "JfvoJow8o5k",  # 2023-02-15 I Built the Rock from Spongebob!
   ],
  ),
- dict(name="Will it Survive? 100% Duck Tape Boat VS Dangerous Rapids", kind="Build",
-  desc="Will it Survive? 100% Duck Tape Boat VS Dangerous Rapids.",
-  videos=[
-   "JwtD7SpWRBI",  # 2023-08-05 Will it Survive? 100% Duck Tape Boat VS Dangerous Rapids
-  ],
- ),
  dict(name="I Built a $10,000 Jet Powered Scooter", kind="Build",
   desc="Apply to join the Weisz Task Forc",
   videos=[
    "n1FuOkJolMw",  # 2024-01-02 I Built a $10,000 Jet Powered Scooter!
   ],
  ),
- dict(name="I Flew on a Giant Paper Airplane", kind="Build",
-  desc="I competed in Red Bull Flugtag by building and flying on the word's largest rideable paper airplane!",
-  videos=[
-   "MZ3NopapQM0",  # 2024-03-15 I Flew on a Giant Paper Airplane!
-  ],
- ),
- dict(name="I Rode 1000 Miles on the SMALLEST Electric Vehicles", kind="Build",
-  desc="I Rode 1000 Miles on the SMALLEST Electric Vehicles.",
-  videos=[
-   "S-gyK7PNOlI",  # 2024-05-08 I Rode 1000 Miles on the SMALLEST Electric Vehicles
-  ],
- ),
  dict(name="I Built the SpongeBob Boatmobile in Real Life", kind="Build",
   desc="Making this boatmobile is literally a childhood dream come true, and driving it to Shell City was the cherry on top.",
   videos=[
    "azVePtL-NO0",  # 2024-08-26 I Built the SpongeBob Boatmobile in Real Life!
-  ],
- ),
- dict(name="Can You Run a Car on Beans", kind="Build",
-  desc="Can You Run a Car on Beans?.",
-  videos=[
-   "dV4CtS-u73A",  # 2024-11-21 Can You Run a Car on Beans?
   ],
  ),
  dict(name="I Built the Fastest Wagon on Earth", kind="Build",
@@ -368,10 +229,10 @@ INVENTIONS = [
    "akSeP-MJorE",  # 2026-09-24 I Built an E-Bike Camper to Reach this Abandoned Railroad!
   ],
  ),
- dict(name="Turning my Boatmobile into a Sports Car", kind="Build",
-  desc="Turning my Boatmobile into a Sports Car!.",
+ dict(name="Building Santa’s Sleigh in Real Life, but it’s Snowmobile Powered", kind="Build",
+  desc="PRIOR TO NOW, WE COULD ONLY WONDER WHAT IT WOULD BE LIKE TO CHARIOT RACE WITH SNOWMOBILES - NOW WE KNOW!",
   videos=[
-   "tfozKTXAvSs",  # 2026-02-03 Turning my Boatmobile into a Sports Car!
+   "yuskEW_rYhM",  # 2025-12-26 Building Santa’s Sleigh in Real Life, but it’s Snowmobile Powered
   ],
  ),
  dict(name="I Built a Snowmobile Camper to Survive Extreme Cold", kind="Build",

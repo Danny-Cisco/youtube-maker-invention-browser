@@ -7,14 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'attoparsec', 'name': 'Attoparsec', 'person': 'Attoparsec', 'tagline': 'Technical art for curious people: mechanical marvels and a bike RV.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Algorithm 1", kind="Build",
-  desc="UBC CS band Algorithm at the 2009 Coffeehouse",
-  videos=[
-   "LSGfgqu4O9M",  # 2009-03-09 Algorithm 3
-   "XSi-I6GEra4",  # 2009-03-09 Algorithm 2
-   "H9ExYB3Yznc",  # 2009-03-09 Algorithm 1
-  ],
- ),
  dict(name="Laser Medusa Helmet Ii", kind="Build",
   desc="The LASER MEDUSA HELMET complete except for tilt sensors, mounted on the helmet and powered up.",
   videos=[
@@ -22,33 +14,22 @@ INVENTIONS = [
    "TWaujrhmegs",  # 2009-08-16 LASER MEDUSA HELMET II
   ],
  ),
- dict(name="Electro-Mechanical Sunglasses Demo", kind="Build",
-  desc="Higher quality demonstration video of the 2009 Electro-Mechanical Sunglasses.",
+ dict(name="Metal Jacob's Ladder prototype", kind="Build",
+  desc="A demo of the 5-panel metal Jacob's Ladder prototype using bike chain for the connecting straps.",
   videos=[
-   "PdHt1XVwSSk",  # 2009-08-16 Electro-mechanical sunglasses -- full system
-   "ZqcyGaSGnNw",  # 2010-02-18 Electro-Mechanical Sunglasses Demo
+   "XovwBJmRfGQ",  # 2010-01-10 Metal Jacob's Ladder prototype
   ],
  ),
- dict(name="Jacob's Ladder No. 1", kind="Build",
-  desc="This is the all-but finished Jacob's Ladder No.",
+ dict(name="Kalamazoo demo", kind="Build",
+  desc="Kalamazoo demo.",
   videos=[
-   "UW1XZwk-A1E",  # 2010-01-22 Jacob's Ladder No. 1 test
-   "oX0EGoi8IBA",  # 2010-02-09 Jacob's Ladder No. 1
-   "18COV7s124o",  # 2010-04-21 Jacob's Ladder No. 1installation
+   "gvfNKkM73Qo",  # 2010-07-22 Kalamazoo demo
   ],
  ),
- dict(name="Watt linkage / parallel motion", kind="Build",
-  desc="Prototype of a parallel motion for use in my Kalamazoo/handcar project",
+ dict(name="Kalamazoo steering mechanism", kind="Build",
+  desc="Showing off the new steering mechanism for the Kalamazoo.",
   videos=[
-   "hUAfrRDplcg",  # 2010-05-01 Watt linkage / parallel motion
-  ],
- ),
- dict(name="Kalamazoo road test", kind="Build",
-  desc="We took the Kalamazoo out for its first road test today.",
-  videos=[
-   "42lE3dq5LiU",  # 2010-08-09 Kalamazoo road test #1
-   "Q7E7Bwp67L0",  # 2010-08-22 Kalamazoo road test #3
-   "e_vozTNA58A",  # 2010-08-25 Kalamazoo road test #4
+   "5LMu5EgvltA",  # 2010-08-16 Kalamazoo steering mechanism
   ],
  ),
  dict(name="Difference Engine No. 2", kind="Build",
@@ -65,30 +46,16 @@ INVENTIONS = [
    "Np41ubdE3m0",  # 2010-11-20 Laser cutting business cards
   ],
  ),
- dict(name="GYRE 2003 Weightless Wonder Flight", kind="Build",
-  desc="The first Weightless Wonder (aka Vomit Comet) flight for the GYRE team in 2003 as part of the Reduced Gravity Student Flight Opportunities Program.",
+ dict(name="Prototype horizontal hip joint with hydraulic actuator", kind="Build",
+  desc="A quick demo of the horizontal hip joint being driven by the full-scale hydraulic actuator.",
   videos=[
-   "ho1e0deBYW0",  # 2011-01-19 GYRE 2003 Weightless Wonder Flight #2
-   "J7RxEFxJi3M",  # 2011-01-19 GYRE 2003 Weightless Wonder Flight #1
+   "D23aeJjKwtM",  # 2011-04-05 Prototype horizontal hip joint with hydraulic actuator
   ],
  ),
- dict(name="Hydraulic Test Platform", kind="Build",
-  desc="Quick demo of the hydraulic test platform I've been working on, under both manual and Arduino control",
+ dict(name="April Tools", kind="Build",
+  desc="A montage of very wet failures of the boat we built for the April Tools Wooden Boat Challenge in Madeira Park, BC.",
   videos=[
-   "e5MmlHCr-ws",  # 2011-02-04 Hydraulic Test Platform
-  ],
- ),
- dict(name="Hydraulic positioning test", kind="Build",
-  desc="Demo of the hydraulic test system now using the AS5040 rotary encoder chip and a (poorly tuned) real PID control loop.",
-  videos=[
-   "nnlTWGyqtb8",  # 2011-02-11 Hydraulic positioning test (flex sensor)
-   "iYdTYZwKXTE",  # 2011-02-18 Hydraulic positioning test (AS5040)
-  ],
- ),
- dict(name="520 bridge during windstorm", kind="Build",
-  desc="The vanpool commute was more exciting than normal last week",
-  videos=[
-   "OoNfD5EEHxE",  # 2011-03-14 520 bridge during windstorm
+   "6CIkzsTm5RY",  # 2011-05-03 April Tools
   ],
  ),
  dict(name="TARDIS hat", kind="Build",
@@ -108,22 +75,16 @@ INVENTIONS = [
    "kcWX0bSIQ1A",  # 2011-06-15 EL Wire Interface Kit Demo: Wave Chaser
   ],
  ),
- dict(name="Skinner Box demo", kind="Build",
-  desc="A brief demonstration of Attoparsec's new Burning Man toy for 2011, the Skinner Box.",
-  videos=[
-   "QWHeUp0Papk",  # 2011-08-19 Skinner Box demo
-  ],
- ),
- dict(name="Hydrocrystallophone Demonstration", kind="Build",
-  desc="A demonstration of a new musical instrument invented by Attoparsec, the Hydrocrystallophone.",
-  videos=[
-   "rQVlPl2-mmw",  # 2011-10-19 Hydrocrystallophone Demonstration
-  ],
- ),
  dict(name="Chainsword Rev 2 Pumpkin Test", kind="Build",
   desc="I made a chainsword prototype for Halloween, but its performance was not what I had hoped.",
   videos=[
    "9kpuGkIm63o",  # 2011-12-03 Chainsword Rev 2 Pumpkin Test
+  ],
+ ),
+ dict(name="Scrum warning lights", kind="Build",
+  desc="People kept being late to the morning stand-ups at work.",
+  videos=[
+   "MO0MNJ88dCo",  # 2011-12-17 Scrum warning lights
   ],
  ),
  dict(name="Harmonic Fire Pendula -- Scale Prototype Night Test", kind="Build",
@@ -139,10 +100,10 @@ INVENTIONS = [
    "FQ6JBZSlCgU",  # 2012-10-19 Harmonic Fire Pendula -- Deployment and Operation
   ],
  ),
- dict(name="Playa Positioning System", kind="Build",
-  desc="Playa Positioning System.",
+ dict(name="Cocktail Engine -- Valve Assembly Prototype", kind="Build",
+  desc="A demonstration of the valve assembly prototype for the 2013 BarBot entry I'm working on, the Cocktail Engine.",
   videos=[
-   "7Y-8bhTzjd8",  # 2012-11-04 Playa Positioning System
+   "lq5mJiMYYcw",  # 2012-12-10 Cocktail Engine -- Valve Assembly Prototype
   ],
  ),
  dict(name="Cocktail Engine -- Overview and Demo", kind="Build",
@@ -158,25 +119,28 @@ INVENTIONS = [
    "cNcG4w3Ff8c",  # 2013-04-20 Jacquard mechanism demo
   ],
  ),
+ dict(name="Sky Map for Glass hack", kind="Build",
+  desc="A quick demo of the Google Glass enabled version of Sky Map I've been working on.",
+  videos=[
+   "IA588AGT4AQ",  # 2013-08-03 Sky Map for Glass hack
+  ],
+ ),
  dict(name="Thermal Camera on Glass demo", kind="Build",
   desc="A demonstration using the IR Blue wireless thermal camera module with Google Glass.",
   videos=[
    "EZyN48nFiRY",  # 2013-09-20 Thermal Camera on Glass demo
   ],
  ),
- dict(name="GMBLMZ Update 4", kind="Build",
-  desc="GMBLMZ Update 4 - Strut Alignment Stands.",
+ dict(name="Sprocket Welding -- Google Glass POV Test", kind="Build",
+  desc="I wanted to test the process of recording shop work using Google Glass, so here is some work on the gimballed maze prototype.",
   videos=[
-   "jsddsJYgM8I",  # 2014-05-27 GMBLMZ Update - Strut Flanges
-   "ctZOjOrvTls",  # 2014-06-08 GMBLMZ Update 2 - Steel Order
-   "HefAN4siI9k",  # 2014-06-12 GMBLMZ Update 3 - Strut Layout Jig
-   "VGxyX7FUgmM",  # 2014-07-09 GMBLMZ Update 4 - Strut Alignment Stands
+   "Ff0Y2yo_8gQ",  # 2013-10-18 Sprocket Welding -- Google Glass POV Test
   ],
  ),
- dict(name="Gmblmz", kind="Build",
-  desc="Attoparsec's installation GMBLMZ -- \"a pilgrimage in three-space\" -- at Burning Man 2014.",
+ dict(name="GMBLMZ Prototype Demo", kind="Build",
+  desc="A quick demo of the GMBLMZ prototype and its inspiration.",
   videos=[
-   "c5uETI59n-U",  # 2014-09-21 GMBLMZ
+   "dZXEdVii_s4",  # 2014-02-14 GMBLMZ Prototype Demo
   ],
  ),
  dict(name="Mirror alignment process, Tim's Vermeer device", kind="Build",
@@ -185,16 +149,10 @@ INVENTIONS = [
    "NnmmPM0TGkA",  # 2014-10-02 Mirror alignment process, Tim's Vermeer device
   ],
  ),
- dict(name="Biking Figure", kind="Build",
-  desc="I needed to make a quick kinetic sculpture for a local bike appreciation event.",
+ dict(name="St. Helens Gateway Sculpture Project", kind="Build",
+  desc="Rendering of my proposal for the St.",
   videos=[
-   "kU0BWvFq-YY",  # 2015-02-09 Biking Figure
-  ],
- ),
- dict(name="Clang", kind="Build",
-  desc="Installation kinetic/sonic sculpture for the City of Shoreline, built from an old piano, 12 sledge hammers, and a lot of steel.",
-  videos=[
-   "GU59s-MOhBU",  # 2015-08-03 CLANG
+   "ZB3gy2RG0Bg",  # 2015-07-15 St. Helens Gateway Sculpture Project
   ],
  ),
  dict(name="Making the 2015 Hugo Award Base", kind="Build",
@@ -202,6 +160,12 @@ INVENTIONS = [
   videos=[
    "6AR5pZeTrZc",  # 2015-09-02 2015 Hugo Award Base Montage
    "2WijRhvRbJY",  # 2015-09-02 Making the 2015 Hugo Award Base
+  ],
+ ),
+ dict(name="The Assembly Line", kind="Build",
+  desc="Attoparsec's entry in the 2016 Cocktail Robotics Grand Challenge, a purely mechanical bar bot.",
+  videos=[
+   "f9LEggq2jIM",  # 2016-07-18 The Assembly Line
   ],
  ),
  dict(name="Tesseract zoetrope", kind="Build",
@@ -220,30 +184,10 @@ INVENTIONS = [
    "qD07KriV64Y",  # 2018-01-18 Steam engine machining -- pivot
   ],
  ),
- dict(name="UW carillon dedication", kind="Build",
-  desc="The new carillon bells in the University of Washington's Red Square playing Ode to Joy as part of the dedication concert.",
+ dict(name="Steam engine machining -- bearing blocks", kind="Build",
+  desc="Another build video of my Tiny Power \"M\" center crank steam engine project.",
   videos=[
-   "GjpPxRIVxFg",  # 2018-04-06 UW carillon dedication
-  ],
- ),
- dict(name="Induction heater test 2, smaller coil", kind="Build",
-  desc="Quick test of a smaller coil I made for the induction heater, sized for the 3/8\" rivets the project is using.",
-  videos=[
-   "HKBYE4bN_2E",  # 2018-08-31 Induction heater test
-   "hJpCSMtX9k4",  # 2018-09-01 Induction heater test 2, smaller coil
-  ],
- ),
- dict(name="Riveting the boiler", kind="Build",
-  desc="What it was like to hammer in one out of the 346 rivets on the fake boiler for the Tacoma PLT project.",
-  videos=[
-   "QakByu73sL4",  # 2018-09-21 Riveting the boiler
-  ],
- ),
- dict(name="Animated Logo Test", kind="Build",
-  desc="Been wanting to make something like this for awhile, whee!",
-  videos=[
-   "g7-9KTto6Qw",  # 2018-09-28 Animated Logo Test
-   "K3BoBu3wiEs",  # 2018-10-05 Animated Logo Test 2
+   "m2-yXGc7rkk",  # 2018-02-08 Steam engine machining -- bearing blocks
   ],
  ),
  dict(name="Machining a cylindrical cam", kind="Build",
@@ -258,19 +202,16 @@ INVENTIONS = [
    "RFHQdXxLj8M",  # 2019-11-14 Manhattan Project plutonium box replica build
   ],
  ),
- dict(name="Fun with calcium carbide", kind="Build",
-  desc="I got an old mining lamp and explored its operation.",
+ dict(name="Clapping Machine prototype -- claw cams", kind="Build",
+  desc="Lessons learned: I start sections by saying \"okay\" way too much.",
   videos=[
-   "j-vgejK2_Ro",  # 2019-12-30 Fun with calcium carbide
+   "lZ7QXDE90Bo",  # 2019-12-16 Clapping Machine prototype -- claw cams
   ],
  ),
- dict(name="A Study in Chaos", kind="Build",
-  desc="This wraps up the construction of A Study in Chaos, including what is hopefully the resolution of a bad last-minute problem with how the spinners were operating.",
+ dict(name="Camera mount improvements", kind="Build",
+  desc="Since I'm trying to make videos more frequently, I thought it would be a good idea to improve my camera mounts a bit.",
   videos=[
-   "610V1m-3lQk",  # 2020-01-13 A Study in Chaos #1: Early prototyping
-   "Ky7slyMXJsg",  # 2020-01-20 Study in Chaos #2: Motor mounts
-   "SQTZXCG2kXE",  # 2020-01-28 A Study in Chaos #3: Mounts, frames and stands
-   "bvKlyRzC3V8",  # 2020-02-03 A Study in Chaos #4: Panels and magnets
+   "hzXvgIftrD4",  # 2020-01-06 Camera mount improvements
   ],
  ),
  dict(name="Pneumatic Slide Whistle", kind="Build",
@@ -284,17 +225,16 @@ INVENTIONS = [
    "D_SYGalr1IM",  # 2020-05-12 Pneumatic Slide Whistle #6: Finishing the sloped baffle
   ],
  ),
- dict(name="Horological Trigon", kind="Build",
-  desc="I took a deep dive into how the geometric constructions used to design sundials work, and ended up replicating a 17th century scientific instrument in the process.",
-  videos=[
-   "RUySYTK7yDk",  # 2020-04-06 Horological Trigon: Sundials, geometry, and the The Art of Dialling
-   "VHcP7Jtw_Ww",  # 2020-05-15 Finishing the Horological Trigon
-  ],
- ),
  dict(name="Eurorack DIY: Clock module", kind="Build",
   desc="I have recently been getting into the modular synth world, starting by building a lot of kits to keep costs down.",
   videos=[
    "5nQYo7VLtcQ",  # 2020-05-31 Eurorack DIY: Clock module
+  ],
+ ),
+ dict(name="Improving a soldering iron tip cleaner", kind="Build",
+  desc="Since I've been doing a lot more electronics recently, I decided to upgrade my soldering tools.",
+  videos=[
+   "y0mTUxScxpI",  # 2020-06-07 Improving a soldering iron tip cleaner
   ],
  ),
  dict(name="Eurorack DIY: Custom Case", kind="Build",
@@ -322,13 +262,19 @@ INVENTIONS = [
    "N3FSPapEsn4",  # 2020-08-24 Eurorack DIY: Music box module
   ],
  ),
+ dict(name="Custom salt/pepper shakers", kind="Build",
+  desc="I needed a housewarming present, so I made a set of custom, chess-themed salt and pepper shakers.",
+  videos=[
+   "789U9dINPLk",  # 2020-10-23 Custom salt/pepper shakers
+  ],
+ ),
  dict(name="Eurorack DIY: Truth Table module", kind="Build",
   desc="I've been making custom PCBs for my own modules, and some of them are finally getting to the point I can share them!",
   videos=[
    "MvsgOZwyrD4",  # 2021-01-11 Eurorack DIY: Truth Table module
   ],
  ),
- dict(name="Wilton vise restoration", kind="Build",
+ dict(name="Wilton vise restoration", kind="Restoration",
   desc="I decided to put some new tools in the new new shop to use by restoring a massive G2 Wilton vise.",
   videos=[
    "qvwx62MVRvA",  # 2021-02-01 Wilton vise restoration
@@ -340,14 +286,10 @@ INVENTIONS = [
    "gvnHzsNJ92k",  # 2021-02-15 Eurorack DIY: The Node module and stochastic sequencing
   ],
  ),
- dict(name="Philosophical Reactions", kind="Build",
-  desc="An in-depth look at the first issue of the first scientific journal, including: The first recorded observation of the great red spot of Jupiter, possible evidence for the Copernican hypothesis, a test of a pendulum wa…",
+ dict(name="Quick shop upgrade", kind="Build",
+  desc="Just a quick little video about making a better knob as part of some general drill press upgrades.",
   videos=[
-   "ym7rRE2sxe8",  # 2021-03-15 Philosophical Reactions: A new history of science video series
-   "K4vdjEUBjTc",  # 2021-04-05 Philosophical Reactions #1: A very odd Monstrous Calf
-   "hQLfQr16NH8",  # 2021-05-03 Philosophical Reactions #2: Mercury and Micrographia
-   "yaz4g-3njeA",  # 2021-06-07 Philosophical Reactions #3: May Dew and Subterraneous Damps
-   "_hY8K8z7xUw",  # 2021-12-06 Philosophical Reactions #4: Tides and Tirades
+   "mj3Q5tjucDM",  # 2021-03-05 Quick shop upgrade: Making a better knob
   ],
  ),
  dict(name="Violating ISO 668", kind="Build",
@@ -358,10 +300,10 @@ INVENTIONS = [
    "12_440fnzgs",  # 2021-05-06 Violating ISO 668 #3: Embumpening the roof
   ],
  ),
- dict(name="An unexpected band saw", kind="Build",
-  desc="I managed to find the exact band saw I had been dreaming of, at a surprisingly low price.",
+ dict(name="This table is FAB", kind="Build",
+  desc="I made a new fabrication table.",
   videos=[
-   "THqlfNflg5Y",  # 2021-06-28 An unexpected band saw (and the mysteries of three-phase power)
+   "U8TXWZNJ14c",  # 2021-05-17 This table is FAB!
   ],
  ),
  dict(name="Making Public Art", kind="Build",
@@ -370,28 +312,10 @@ INVENTIONS = [
    "cK4K8aj7X1s",  # 2021-11-29 Making Public Art: A case study
   ],
  ),
- dict(name="Gores, gores, gores", kind="Build",
-  desc="I take a deep dive into the geometry of gores, the spear-shaped bits of maps used to make globes.",
-  videos=[
-   "-wIKM29PkhI",  # 2021-12-13 Gores, gores, gores!
-  ],
- ),
- dict(name="Hobby Collision", kind="Build",
-  desc="I needed some custom needle attachments for a knitting project.",
-  videos=[
-   "VLwhHokxAdU",  # 2021-12-29 Hobby Collision
-  ],
- ),
  dict(name="Making a Fremen thumper", kind="Build",
   desc="I wanted to build a thumper.",
   videos=[
    "jI-KMPBLAhs",  # 2022-10-10 Making a Fremen thumper
-  ],
- ),
- dict(name="Pocket Typewriter", kind="Build",
-  desc="What if you could carry a typewriter...",
-  videos=[
-   "14WBiDV02DE",  # 2022-11-28 Pocket Typewriter
   ],
  ),
  dict(name="The Two Thirds Keyboard", kind="Build",
@@ -430,36 +354,6 @@ INVENTIONS = [
    "HERkwJ0OIMo",  # 2023-10-16 Making a real Talkie Toaster
   ],
  ),
- dict(name="Turning industrial materials into art", kind="Build",
-  desc="A small kinetic sculpture built using math, roller chain and concrete.",
-  videos=[
-   "g0C8LfooI78",  # 2023-12-08 Turning industrial materials into art
-  ],
- ),
- dict(name="The satisfaction of small projects", kind="Build",
-  desc="Not every project deserves its own video, so here is another compilation of the stuff I've been work on between big projects.",
-  videos=[
-   "S8v_RR5Vt0o",  # 2023-12-26 The satisfaction of small projects
-  ],
- ),
- dict(name="The spice must flow", kind="Build",
-  desc="My household had a spice problem, and I set out to fix it.",
-  videos=[
-   "p3Iwu9Y4Izg",  # 2024-03-23 The (kitchen) spice must flow (out of the cabinet)
-  ],
- ),
- dict(name="Exploring an electromechanical marvel", kind="Build",
-  desc="An article from 1946 made me curious about turboencabulators, so I bought a microencabulator off eBay.",
-  videos=[
-   "UXr-_bDnnN4",  # 2024-04-01 Exploring an electromechanical marvel
-  ],
- ),
- dict(name="5000 subscriber shop tour celebration", kind="Build",
-  desc="Also, I'll be at Open Sauce, look for me there!",
-  videos=[
-   "uPOMnjp_KNo",  # 2024-05-07 5000 subscriber shop tour celebration
-  ],
- ),
  dict(name="The greatest clock ever made", kind="Build",
   desc="I needed to restore a Geochron World Clock, which first meant learning how they work.",
   videos=[
@@ -470,24 +364,6 @@ INVENTIONS = [
   desc="I thought about dice a bit too much and this is what happened.",
   videos=[
    "inocuLhY5wY",  # 2024-06-25 Making a d10 spinner
-  ],
- ),
- dict(name="Space trash: the video game", kind="Build",
-  desc="The first in (possibly) a line of unfun games, this explores the possibility of the Kessler Syndrome through the lens of a 1979 arcade game.",
-  videos=[
-   "O4l3y0N1yeY",  # 2024-08-02 Space trash: the video game
-  ],
- ),
- dict(name="Tasty little snack projects", kind="Build",
-  desc="I cooked up another batch of snack projects, yum!",
-  videos=[
-   "IosGWirysnw",  # 2024-09-30 Tasty little snack projects
-  ],
- ),
- dict(name="Mirrors don't reflect left to right", kind="Build",
-  desc="My attempt at a No Effort November video, exploring why mirrors seem to favor a specific axis.",
-  videos=[
-   "Q55q9zDTH04",  # 2024-11-25 Mirrors don't reflect left to right!
   ],
  ),
  dict(name="Making a working intercom system from some very old phones", kind="Build",
@@ -502,36 +378,6 @@ INVENTIONS = [
    "wC-24QeoQu4",  # 2025-03-14 A keyboard with ten hundred keys
   ],
  ),
- dict(name="The waffle and the pantograph", kind="Build",
-  desc="Have you ever wanted a waffle so bad that you bought a literal ton of obsolete machine tool to make it happen?",
-  videos=[
-   "SlCJ6hp1xZY",  # 2025-05-06 The waffle and the pantograph
-  ],
- ),
- dict(name="Turning a toy into a cyberdeck", kind="Build",
-  desc="I saw a educational toy from 1989 and had to turn it into a punch-card driven mobile computing platform.",
-  videos=[
-   "XewX68F0JDg",  # 2025-07-16 Turning a toy into a cyberdeck
-  ],
- ),
- dict(name="Walking around the Bay", kind="Build",
-  desc="I like walking around cities, and I try to do a big walk over Labor Day weekend.",
-  videos=[
-   "1MUSqkcd7n8",  # 2025-10-19 Walking around (most of) the Bay
-  ],
- ),
- dict(name="Cheap cranes don't have to suck", kind="Build",
-  desc="It was finally time to fix all the problems with the gantry crane.",
-  videos=[
-   "SYfMLoiJ0Vw",  # 2025-11-18 Cheap cranes don't have to suck
-  ],
- ),
- dict(name="Too many tachometers", kind="Build",
-  desc="I needed to measure the rotational speed of my mill, so I needed a tachometer...",
-  videos=[
-   "FsaPIOYaPrg",  # 2025-12-17 Too many tachometers
-  ],
- ),
  dict(name="I learned stained glass to make a hemisphere light fixture", kind="Build",
   desc="I wanted to make a stained glass hemisphere for a light fixture.",
   videos=[
@@ -542,12 +388,6 @@ INVENTIONS = [
   desc="Exploring the wonders of Gray Codes through a little bit of industrial art.",
   videos=[
    "Z9X3dH5LjrM",  # 2026-03-24 The Gray Device
-  ],
- ),
- dict(name="Guerrilla urban landscaping", kind="Build",
-  desc="I was tired of getting thwapped in the face with overgrown greenery when biking, so I decided to strap a string trimmer to my helmet.",
-  videos=[
-   "g6iRBKOiye8",  # 2026-07-14 Guerrilla urban landscaping
   ],
  ),
  dict(name="I built a bike RV and lived in it", kind="Build",

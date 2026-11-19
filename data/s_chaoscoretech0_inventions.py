@@ -23,6 +23,12 @@ INVENTIONS = [
    "NAfJdDfbPPk",  # 2017-12-12 Original Prusa i3 MK3 3D Printer! First Looks and Feature Tests!
   ],
  ),
+ dict(name="Creating a 3D Printed Phone Holder", kind="Build",
+  desc="Thumbs up for Ryley and Eevee's cameo appearance!",
+  videos=[
+   "jsq-GX1GQvo",  # 2015-10-21 Creating a 3D Printed Phone Holder (Spring Loaded)
+  ],
+ ),
  dict(name="How to Make Models for 3D Printing", kind="Build",
   desc="In this video we'll take a look at how to create objects for 3D printing using Tinkercad.",
   videos=[
@@ -30,13 +36,6 @@ INVENTIONS = [
    "OqoA9hFyNI4",  # 2016-05-14 Sculpting Models for 3D Printing - Sculptris
    "cv1QyHBbdzw",  # 2017-11-13 3D Printed Model Car! - Volkswagen Bus
    "9RF6fUFDUGw",  # 2021-01-27 3D Modeling & Printing Bundled Up Bernie!
-  ],
- ),
- dict(name="How to Turn 2D Images into 3D Objects", kind="Build",
-  desc="Learn how to take 2D images and turn them into 3D objects for 3D Printing using Tinkercad.",
-  videos=[
-   "FkBjRDVel5E",  # 2015-12-08 How to Turn 2D Images into 3D Objects - Tinkercad Tutorial
-   "h7L7lo2nsY8",  # 2016-04-20 Going From 2D to 3D - Intro to Sketches - Fusion 360 #2
   ],
  ),
  dict(name="3D Printed R2D2", kind="Build",
@@ -51,6 +50,12 @@ INVENTIONS = [
    "3lp6uqpb8-8",  # 2015-12-18 R2D2 Assembly
   ],
  ),
+ dict(name="3D Printed Magnetic Thwomp", kind="Build",
+  desc="In this video we'll take a look at making a 3D printed Thwomp from New Super Mario Bros U.",
+  videos=[
+   "Vm6paBqxdjU",  # 2016-01-14 3D Printed Magnetic Thwomp (New Super Mario Bros U)
+  ],
+ ),
  dict(name="3D Printed Claptrap From Borderlands", kind="Build",
   desc="Who doesn't love a good Claptrap?",
   videos=[
@@ -58,28 +63,10 @@ INVENTIONS = [
    "kszk8a_kub8",  # 2017-01-25 3D Printed Claptrap From Borderlands!
   ],
  ),
- dict(name="How to Make Gears in Tinkercad", kind="Build",
-  desc="Links to Videos shown in my end card:",
-  videos=[
-   "HuIqoVPCRZE",  # 2016-01-25 How to Make Gears in Tinkercad!
-  ],
- ),
- dict(name="Putting Details on Curved Objects in Tinkercad", kind="Build",
-  desc="Let's take a look at how to put details on curved objects.",
-  videos=[
-   "qJD2lzgewhI",  # 2016-02-02 Putting Details on Curved Objects in Tinkercad!
-  ],
- ),
  dict(name="Life Size 3D Printed Thor's Hammer", kind="Build",
   desc="It's finally time for my 3D printed Mjolnir to reveal itself to the world.",
   videos=[
    "D6DdESIhi4c",  # 2016-02-03 Life Size 3D Printed Thor's Hammer (Mjolnir)
-  ],
- ),
- dict(name="Thor's Hammer CAD With Commentary", kind="Build",
-  desc="This will just be a quick run through of my creation process of Mjolnir in Tinkercad.",
-  videos=[
-   "UtwdGNQUchs",  # 2016-02-05 Thor's Hammer CAD With Commentary
   ],
  ),
  dict(name="3D Printed Mini Captain America Shield Magnet", kind="Build",
@@ -119,10 +106,10 @@ INVENTIONS = [
    "cAkuor_sq38",  # 2016-03-02 Speed 3D Modeling Super Mario Bros World 1-1
   ],
  ),
- dict(name="How to Bevel and Round Edges in Tinkercad", kind="Build",
-  desc="In this video we'll look at a simple way to create beveled edges in Tinkercad.",
+ dict(name="3D Printed Halo Plasma Pistol Gun", kind="Build",
+  desc="This is a 3D Printed Plasma Pistol from the Halo games.",
   videos=[
-   "J-6X6in6Las",  # 2016-03-12 How to Bevel and Round Edges in Tinkercad
+   "EcaRAhVgwy8",  # 2016-03-07 3D Printed Halo Plasma Pistol Gun
   ],
  ),
  dict(name="Two 3D Printed Batarangs", kind="Build",
@@ -146,12 +133,6 @@ INVENTIONS = [
    "JeRGncAa2UQ",  # 2016-12-29 3D Printed Master Shake [Aqua Teen Hunger Force] - #3DPrintmas Day 29
   ],
  ),
- dict(name="How to Split Objects In Tinkercad", kind="Build",
-  desc="In this Tinkercad tutorial we take a look at how to break an object up into smaller parts to manipulate further or get ready to print.",
-  videos=[
-   "1SwSqROgLpY",  # 2016-04-06 How to Split Objects In Tinkercad!
-  ],
- ),
  dict(name="3D Printed Stitch Figure", kind="Build",
   desc="Today we're bringing you a 3D printed Stitch from the Disney movie Lilo and Stitch.",
   videos=[
@@ -161,16 +142,10 @@ INVENTIONS = [
    "J6bj4AXDD9U",  # 2018-06-21 Pilot Snoopy! - 3D Printed Figure - Peopoly Moai and Polysher Polysmoo
   ],
  ),
- dict(name="Getting Started With Fusion 360 for 3D Printing", kind="Build",
-  desc="Check out my other Fusion 360 tutorials in this playlist:",
+ dict(name="3D Printed Gir From Invader Zim", kind="Build",
+  desc="It's time for another 3D design, and this week, we're going back a decade and making Gir from Invader Zim.",
   videos=[
-   "tCoGArsjyco",  # 2016-04-13 Getting Started With Fusion 360 for 3D Printing - #1
-  ],
- ),
- dict(name="Using Fillet and Chamfer", kind="Build",
-  desc="In this Fusion 360 tutorial we're going to learn how to use the Fillet and Chamfer tools to bevel and round off edges.",
-  videos=[
-   "kJ-IlkN7kZw",  # 2016-04-22 Using Fillet and Chamfer - Fusion 360 Tutorial #3
+   "1gY-GS2yxPI",  # 2016-04-19 3D Printed Gir From Invader Zim
   ],
  ),
  dict(name="3D Printed Minecraft", kind="Build",
@@ -179,34 +154,10 @@ INVENTIONS = [
    "yYGd5JoLars",  # 2016-04-26 3D Printed Minecraft [Steve, Pig & TNT]
   ],
  ),
- dict(name="How To Use The Timeline", kind="Build",
-  desc="In this Fusion 360 tutorial, I'm going to show you the basics of the timeline.",
-  videos=[
-   "NmC8p8ndqNo",  # 2016-04-28 How To Use The Timeline - Fusion 360 Tutorial # 4
-  ],
- ),
- dict(name="How to Hollow Out Objects in Tinkercad", kind="Build",
-  desc="In this Tinkercad tutorial we're going to take a quick look at how to hollow objects out (or shell them) using the tools that Tinkercad provides.",
-  videos=[
-   "xxtONgRdxDY",  # 2016-05-02 How to Hollow Out Objects in Tinkercad - Shelling Tutorial
-  ],
- ),
  dict(name="3D Printed Welrod Silenced Pistol", kind="Build",
   desc="Sorry for any weird audio issues.",
   videos=[
    "K3qXHZA-2Pk",  # 2016-05-04 3D Printed Welrod Silenced Pistol! - Historical Print
-  ],
- ),
- dict(name="Patterns & Rotate Extrusion", kind="Build",
-  desc="In this video we'll make a chess piece really quickly using a few simple techniques in Fusion 360.",
-  videos=[
-   "7swafVmmoug",  # 2016-05-06 Patterns & Rotate Extrusion - Fusion 360 Tutorial #5
-  ],
- ),
- dict(name="Smart Rotation", kind="Build",
-  desc="In this quick Fusion 360 tutorial video we're going to look at the smart rotation features.",
-  videos=[
-   "O6y3_YvvvQw",  # 2016-05-10 Smart Rotation - Fusion 360 Tutorial #6
   ],
  ),
  dict(name="3D Printed Gears of War Themed Halloween Tree", kind="Build",
@@ -222,12 +173,6 @@ INVENTIONS = [
    "tT5e7fUJAcs",  # 2016-05-19 3D Printed Rowlet - Pokémon Sun & Moon Starter
   ],
  ),
- dict(name="Shell, Draft & Mirror", kind="Build",
-  desc="In this video we'll look at 3 very useful tools.",
-  videos=[
-   "F8KyoUHP_sY",  # 2016-05-21 Shell, Draft & Mirror - Fusion 360 Tutorial
-  ],
- ),
  dict(name="3D Printed Litten", kind="Build",
   desc="It is time for Litten to take center stage as my model of the week.",
   videos=[
@@ -241,17 +186,17 @@ INVENTIONS = [
    "VSfi9UgiHko",  # 2016-10-28 3D Printed Chaos Coins - My Maker Coins
   ],
  ),
+ dict(name="3D Printed Popplio", kind="Build",
+  desc="It's finally time for the 3rd and final Pokemon Sun & Moon Starter.",
+  videos=[
+   "ufz8foj4Xs8",  # 2016-05-28 3D Printed Popplio [Pokemon Sun & Moon] - Water Starter
+  ],
+ ),
  dict(name="3D Printed Chess Set", kind="Build",
   desc="3D Printed Chess Set - Round vs Blocky.",
   videos=[
    "kerBL9fMFJI",  # 2016-05-31 3D Printed Chess Set - Round vs Blocky
    "lTFxQ0z4VGs",  # 2016-12-20 3D Printed Chess Set - #3DPrintmas Day 20
-  ],
- ),
- dict(name="Intro to Forms & Sculpting in Fusion 360", kind="Build",
-  desc="This is the first of a two part series introducing the sculpting features in Fusion 360.",
-  videos=[
-   "UaNS8V9S68w",  # 2016-06-01 Intro to Forms & Sculpting in Fusion 360 [Part 1]
   ],
  ),
  dict(name="3D Printed Slime Rancher", kind="Build",
@@ -263,12 +208,6 @@ INVENTIONS = [
    "4MH64KQ9YJk",  # 2017-10-27 3D Printed Slime Rancher Largos! - Pink Rock, Pink Tabby, Tabby Rock, 
    "eEn6cBllKA0",  # 2017-11-28 3D Printed Slime Rancher! - Hen Hen, Chickadoo, Carrots, Pogofruit, Pl
    "NxbNh-zUnMQ",  # 2017-12-28 3D Printed Slime Rancher! - Dry Reef Environment - Rocks and Trees
-  ],
- ),
- dict(name="Adding Details While Sculpting in Fusion 360", kind="Build",
-  desc="In this video we'll learn how to crease sculpted bodies in Fusion 360.",
-  videos=[
-   "5EIJ3re9DKk",  # 2016-06-10 Adding Details While Sculpting in Fusion 360 [Part 2]
   ],
  ),
  dict(name="3D Printed Peashooter", kind="Build",
@@ -327,12 +266,6 @@ INVENTIONS = [
    "91_9kHL4zCE",  # 2016-09-17 3D Printed Mini PS4 Keychain!
   ],
  ),
- dict(name="Parametric Designs", kind="Build",
-  desc="Learn how to make dynamic 3D models using parameters in Fusion 360!",
-  videos=[
-   "Uel_NmlwdoA",  # 2016-09-28 Parametric Designs - Using Variables in Fusion 360
-  ],
- ),
  dict(name="Massive 3D Printed Iron Giant & Hogarth", kind="Build",
   desc="This is the Iron Giant and Hogarth!",
   videos=[
@@ -360,6 +293,12 @@ INVENTIONS = [
    "Ph1zwEaxEB4",  # 2018-02-26 Tigger 3D Printed in 4 Colors! - Multi Color Torture Test!
   ],
  ),
+ dict(name="Small 3D Printed XBox One", kind="Build",
+  desc="I created this in Fusion 360.",
+  videos=[
+   "iU-xaoOj5lU",  # 2016-12-03 Small 3D Printed XBox One - #3DPrintmas Day 3!
+  ],
+ ),
  dict(name="3D Printed South Park Characters", kind="Build",
   desc="This time up we have some South Park characters for you.",
   videos=[
@@ -372,6 +311,18 @@ INVENTIONS = [
   desc="Then after printing the pieces my wife glued it together and painted it up.",
   videos=[
    "NKMSjKHEn6o",  # 2016-12-07 3D Printed Short Katana (In a Cake?) - #3DPrintmas Day 7
+  ],
+ ),
+ dict(name="3D Printed Koromon", kind="Build",
+  desc="I created this model in Fusion 360 by using the sculpting environment.",
+  videos=[
+   "9MoxOQDCkgE",  # 2016-12-13 3D Printed Koromon [Digimon] - #3DPrintmas Day 13
+  ],
+ ),
+ dict(name="Keyblade of People's Hearts", kind="Build",
+  desc="I created the model in Fusion 360 by tracing a sketch and revolving the blade part.",
+  videos=[
+   "5HKrSMN4r2M",  # 2016-12-31 Keyblade of People's Hearts [Kingdom Hearts] - #3DPrintmas Day 31
   ],
  ),
  dict(name="How to Make a Sword in Fusion 360", kind="Build",
@@ -394,10 +345,16 @@ INVENTIONS = [
    "R97du7G9WG4",  # 2017-02-24 3D Printed Rick [Rick and Morty]
   ],
  ),
- dict(name="Retro Sonic the Hedgehog Logo", kind="Build",
-  desc="With Sonic Mania (hopefully) just around the corner, A Pyro Design and I decided what better time than now to do a full Retro Sonic Logo and bring it to life.",
+ dict(name="3D Printed Mrs Potts Container", kind="Build",
+  desc="Chip was getting a little lonely, so I decided to create Mrs.",
   videos=[
-   "-47hep1wdrM",  # 2017-03-15 Retro Sonic the Hedgehog Logo! - Collab with A Pyro Design
+   "GOy8tQCSTY4",  # 2017-03-22 3D Printed Mrs Potts Container! [Beauty and the Beast]
+  ],
+ ),
+ dict(name="3D Printed Digimon! Botamon, Punimon, Pabumon, Nyokimon", kind="Build",
+  desc="During Printmas, one of the models I made was Koromon from the first season of Digimon.",
+  videos=[
+   "jQCX3gQAmX8",  # 2017-03-29 3D Printed Digimon! Botamon, Punimon, Pabumon, Nyokimon
   ],
  ),
  dict(name="Crystal Chess Set", kind="Build",
@@ -406,22 +363,28 @@ INVENTIONS = [
    "aEJ89uDu7QI",  # 2017-04-20 Crystal Chess Set - SLA 3D Printing
   ],
  ),
- dict(name="SLA Roberto Figure", kind="Build",
-  desc="Roberto is finally here!",
-  videos=[
-   "cv36zcbONoQ",  # 2017-04-26 SLA Roberto Figure! [Futurama] - 3D Printing
-  ],
- ),
  dict(name="The New Quantum Slime! & Slime Variations", kind="Build",
   desc="It's time for more Slimes from Slime Rancher!",
   videos=[
    "ywT0dgZpGS8",  # 2017-05-03 The New Quantum Slime! & Slime Variations [Crystal, Rock, Honey, Boom]
   ],
  ),
+ dict(name="3D Printed Frank", kind="Build",
+  desc="I actually made this model a few months ago when Sausage Party was still in theaters.",
+  videos=[
+   "p7HB_qYM8QA",  # 2017-05-10 3D Printed Frank! [Sausage Party]
+  ],
+ ),
  dict(name="3D Printed Sunflower", kind="Build",
   desc="It's finally time we add another model to our Plants vs Zombies shelf.",
   videos=[
    "39pGLfgecXs",  # 2017-06-15 3D Printed Sunflower (Plants Vs Zombies: GW 2)
+  ],
+ ),
+ dict(name="3D Printed Kryptonite Spear", kind="Build",
+  desc="I've been working on this one for a few months now.",
+  videos=[
+   "hdj0a-Hn14Y",  # 2017-06-21 3D Printed Kryptonite Spear [Batman V Superman] - Movie Prop
   ],
  ),
  dict(name="3D Printed Morty", kind="Build",
@@ -436,16 +399,22 @@ INVENTIONS = [
    "xbQJkHzL4nQ",  # 2017-08-09 3D Printed Cactus (Plants Vs Zombies: GW 2)
   ],
  ),
- dict(name="Mr Buddy - Scandinavia Region Starters - Fake Pokemon", kind="Build",
-  desc="Fake Pokemon!",
+ dict(name="3D Printed Egyptian God of Water", kind="Build",
+  desc="She created this original character.",
   videos=[
-   "Bbvdp9plKro",  # 2017-10-17 Mr Buddy - Scandinavia Region Starters - Fake Pokemon!
+   "sgWcDNR_7qo",  # 2017-09-27 3D Printed Egyptian God of Water | Collab with Katelyn McCaigue
   ],
  ),
  dict(name="3D Printed Billy the Doll", kind="Build",
   desc="It's finally time!",
   videos=[
    "bxFqlzKnSFI",  # 2017-10-31 3D Printed Billy the Doll [Saw/Jigsaw] - Life Size Prop
+  ],
+ ),
+ dict(name="First Looks at the Mooz 3D Printer/Laser Engraver/CNC Machine", kind="Build",
+  desc="This is my first looks/first impressions of the Mooz 3D printer, laser engraver and CNC machine.",
+  videos=[
+   "FCXcTSlIfZk",  # 2017-11-03 First Looks at the Mooz 3D Printer/Laser Engraver/CNC Machine
   ],
  ),
  dict(name="This Isn't Painted", kind="Build",
@@ -460,10 +429,22 @@ INVENTIONS = [
    "v_L7Zu5NkXQ",  # 2017-11-17 3D Printed Cuphead and Mugman!
   ],
  ),
+ dict(name="First Looks at the Peopoly Moai SLA 3D Printer", kind="Build",
+  desc="This is my first looks and first experiences with the Peopoly Moai SLA 3D Printer.",
+  videos=[
+   "BuwEkoXt-ho",  # 2018-01-16 First Looks at the Peopoly Moai SLA 3D Printer
+  ],
+ ),
  dict(name="3D Printed Bendy", kind="Build",
   desc="It's time for Bendy!",
   videos=[
    "pZAenFM_dfE",  # 2018-01-22 3D Printed Bendy! - Bendy and the Ink Machine
+  ],
+ ),
+ dict(name="How to Create a Dumbbell in Fusion 360", kind="Build",
+  desc="We had to create a dumbbell to be a cake topper, and it was pretty fun and easy to create.",
+  videos=[
+   "NR58BAXYOAM",  # 2018-01-26 How to Create a Dumbbell in Fusion 360 - Beginner Tutorial
   ],
  ),
  dict(name="3D Printed Chomper", kind="Build",
@@ -472,10 +453,28 @@ INVENTIONS = [
    "TwzH-t81MFw",  # 2018-02-02 3D Printed Chomper! - Plants Vs Zombies Garden Warfare
   ],
  ),
+ dict(name="3D Printed Jerry", kind="Build",
+  desc="It's finally time for more Rick and Morty!",
+  videos=[
+   "2NUpd4FxSns",  # 2018-02-08 3D Printed Jerry! [Rick and Morty] - Backwards Shirt Jerry
+  ],
+ ),
+ dict(name="3D Printed SLA Reptar", kind="Build",
+  desc="Rugrats was one of my favorite childhood shows.",
+  videos=[
+   "ksjo8uYzGgk",  # 2018-03-02 3D Printed SLA Reptar! [Rugrats] - Printed on Peopoly Moai
+  ],
+ ),
  dict(name="Huge 3D Printed Optimus Prime", kind="Build",
   desc="I'm so excited to be able to finally share this project with you guys.",
   videos=[
    "0I8MF-BJLxw",  # 2018-03-08 Huge 3D Printed Optimus Prime! - No Paint or Post Processing | Prusa M
+  ],
+ ),
+ dict(name="3D Printed Mr Poopybutthole", kind="Build",
+  desc="It's time for more Rick and Morty!",
+  videos=[
+   "pfs3QbhC05g",  # 2018-05-03 3D Printed Mr Poopybutthole [Rick and Morty]
   ],
  ),
  dict(name="3D Printed Buzz Lightyear", kind="Build",
@@ -484,6 +483,12 @@ INVENTIONS = [
    "NNrl5yMunPE",  # 2018-07-05 3D Printed Buzz Lightyear Part 1 - 3D Modeling
    "bch6oRhHelE",  # 2018-07-12 Buzz Lightyear Part 2 - My First Cursed Print and a Rant
    "ZWgGGJt8LoA",  # 2018-10-07 3D Printed Buzz Lightyear - Part 3 - Assembling the Prints
+  ],
+ ),
+ dict(name="When Life Gives You Lemons, Use a Laser & 3D Pen", kind="Build",
+  desc="It's time for Part 4!",
+  videos=[
+   "IRnBD3yZVqM",  # 2018-10-13 When Life Gives You Lemons, Use a Laser & 3D Pen? - 3D Printed Buzz Li
   ],
  ),
  dict(name="Cogsworth - 3D Modeling with Fusion 360 & ZBrush", kind="Build",
@@ -518,37 +523,16 @@ INVENTIONS = [
    "rW0-SX5YF-0",  # 2020-03-27 Elegoo Mars Pro vs Original Mars - Print Quality Test
   ],
  ),
- dict(name="3D Printing The New Fire Ranger Skin From PUBG MOBILE", kind="Build",
-  desc="In this video we recreate the new Fire Ranger skin from PUBG MOBILE through 3D printing.",
-  videos=[
-   "pWuI0hzBhgc",  # 2020-05-19 3D Printing The New Fire Ranger Skin From PUBG MOBILE!
-  ],
- ),
  dict(name="Can The Creality LD-002R Resin Printer Compete With The Elegoo Mars", kind="Build",
   desc="In this video we take a quick look at the Creality LD-002R Resin 3D printer, and talk about our thoughts.",
   videos=[
    "Bd6-GJrS9bE",  # 2020-06-24 Can The Creality LD-002R Resin Printer Compete With The Elegoo Mars?!
   ],
  ),
- dict(name="3D Print Your Own Marble Tracks", kind="Build",
-  desc="In this video we try to recreate our childhood with our own 3d printed marble tracks!",
+ dict(name="3D Printed Stegosaurus", kind="Build",
+  desc="In this video we 3D Print Dinosaurs!!!",
   videos=[
-   "3lv-2nip744",  # 2020-07-15 3D Print Your Own Marble Tracks!
-   "1xGilQlgiC4",  # 2021-08-31 3D Printing a Marble Elevator (Part 1)
-   "412rqPFl2_Y",  # 2021-10-01 3D Printing Some Mechanical Marble Track Pieces! (Part 2)
-   "wPZHMNDiHWE",  # 2021-11-30 3D Printing a Marble Track!
-  ],
- ),
- dict(name="Which 3D Modeling Software Should You Use", kind="Build",
-  desc="Which 3D Modeling Software is right for you?",
-  videos=[
-   "lTnDq8x0V5g",  # 2020-12-03 Which 3D Modeling Software Should You Use? (For 3D Printing)
-  ],
- ),
- dict(name="Slightly More Advanced Features & Import/Export", kind="Build",
-  desc="In this video I'm going to go over some of the more advanced features of Tinkercad and how to import and export STLs.",
-  videos=[
-   "fiNTXAucdnM",  # 2020-12-16 Slightly More Advanced Features & Import/Export | TinkerCAD Beginner T
+   "8fIy0f48KUI",  # 2020-12-11 3D Printed Stegosaurus! | ZBrush, Elegoo Saturn, Painted
   ],
  ),
  dict(name="How To Make A Box", kind="Build",

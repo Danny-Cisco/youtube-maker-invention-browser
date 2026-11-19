@@ -7,6 +7,12 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'zack-freedman', 'name': 'Zack Freedman', 'person': 'Zack Freedman', 'tagline': 'Wearables and wicked widgets from Voidstar Lab.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="EOX Meta Breaker", kind="Build",
+  desc="This maxed-out Rapidstrike has custom tech straight out of a video game.",
+  videos=[
+   "gZh4Rbtvy9w",  # 2017-01-16 EOX Meta Breaker - The Most Advanced Nerf Blaster on Earth
+  ],
+ ),
  dict(name="AI Data Glove: Somatic", kind="Build",
   desc="I turned my favorite hand into a keyboard!",
   videos=[
@@ -19,12 +25,6 @@ INVENTIONS = [
    "iTj0lcVSIVU",  # 2020-09-07 Small Brain, Big Think: AI on the Edge
   ],
  ),
- dict(name="Why Are Circuits on Boards", kind="Build",
-  desc="Chips are tiny and phones are glass, so why are circuits still flat and green?",
-  videos=[
-   "6je0Ea-jGlI",  # 2020-09-14 Why Are Circuits on Boards?
-  ],
- ),
  dict(name="The Parts Rainbow", kind="Build",
   desc="This cursed parts organizer lurked in the background - until today.",
   videos=[
@@ -35,6 +35,12 @@ INVENTIONS = [
   desc="Discover strategies to finish electronics projects faster, as we design, 3D print, laser cut, and solder an entire custom mechanical keyboard in just one weekend.",
   videos=[
    "72a85tWOJVY",  # 2020-10-05 How to Finish Your Weekend Projects in One Weekend
+  ],
+ ),
+ dict(name="Workshop in a Backpack", kind="Build",
+  desc="What's in my bag?",
+  videos=[
+   "Okl5-KfSZ4w",  # 2020-10-19 Workshop in a Backpack
   ],
  ),
  dict(name="What's On My Face? A Wearable Teleprompter I Invented", kind="Build",
@@ -56,28 +62,16 @@ INVENTIONS = [
    "NJTJqJyBLic",  # 2020-11-17 3D Printing and Soldering Among Us' Worst Tasks (The Skeld in real lif
   ],
  ),
- dict(name="Voidstar Lab Abridged", kind="Build",
-  desc="There's always a project brewing in Voidstar Lab!",
-  videos=[
-   "JFnXnf80fvY",  # 2020-11-27 Voidstar Lab Abridged
-  ],
- ),
  dict(name="Why I put a Teensy in Every Project", kind="Build",
   desc="Spoiler alert: the Teensy destroys the Arduino Uno, Mega, even Portenta in memory, size, and sheer power, and it's just as easy to use.",
   videos=[
    "75IvTqRwNsE",  # 2020-11-28 Why I put a Teensy in Every Project
   ],
  ),
- dict(name="Tiny pc", kind="Build",
-  desc="This project makes me so happy.",
+ dict(name="Designing a Glove to Feel Electricity Through Walls", kind="Build",
+  desc="I stuck a fluxgate magnetometer to my finger, connected it to a wristband that feels sounds, and added a rainbow LED matrix, so I can feel electric current flowing through circuit boards and walls.",
   videos=[
-   "wmnta5h73cY",  # 2020-12-12 tiny pc
-  ],
- ),
- dict(name="Ten Awesome 3D-Printable Gifts", kind="Build",
-  desc="These top 10 weirdly inspirational gifts will blow anyone's mind, and if you have a Prusa, an Ender 3, or any modern 3D printer, you already have everything you need.",
-  videos=[
-   "p7-wedCPSHE",  # 2020-12-17 Ten Awesome 3D-Printable Gifts
+   "JQ8SYlzwkn8",  # 2021-01-02 Designing a Glove to Feel Electricity Through Walls
   ],
  ),
  dict(name="How to Build MECHANICAL KEYBOARDS", kind="Build",
@@ -86,10 +80,10 @@ INVENTIONS = [
    "yYcNi9hKxDk",  # 2021-01-25 How to Build MECHANICAL KEYBOARDS
   ],
  ),
- dict(name="The World's First Pro Gaming Oscilloscope", kind="Build",
-  desc="Meet the world's first liquid-cooled dual-screen RGB pro-gaming oscilloscope, the MLG-Z 42069.™ It's got TWO windows.",
+ dict(name="Hack Your Subconscious for Better Ideas", kind="Build",
+  desc="I tried to improve my intuition and made a how-to guide for ADD.",
   videos=[
-   "8Veobksi3pI",  # 2021-02-24 The World's First Pro Gaming Oscilloscope: The $18,000 PimpScope 42069
+   "6r8-o2WpoCA",  # 2021-02-15 Hack Your Subconscious for Better Ideas
   ],
  ),
  dict(name="Hacking Dystopia with a Pi 400 Cyberdeck", kind="Build",
@@ -98,16 +92,16 @@ INVENTIONS = [
    "guGffGw3uDg",  # 2021-03-20 Hacking Dystopia with a Pi 400 Cyberdeck
   ],
  ),
- dict(name="How to Print a Super-Powerful, Super-Accurate Nerf Sniper", kind="Build",
-  desc="This powerful custom Caliburn will nail your enemies from a hundred feet!",
+ dict(name="The Chromance - RGB Wall Art You Can Build", kind="Build",
+  desc="I want to stream every week, but my wall sucks!",
   videos=[
-   "gFHnouDRR9A",  # 2021-03-30 How to Print a Super-Powerful, Super-Accurate Nerf Sniper
+   "g6n8XLmZ__I",  # 2021-05-02 The Chromance - RGB Wall Art You Can Build (Cheaper and Bigger than Na
   ],
  ),
- dict(name="I Tested EVERY FILAMENT on Amazon", kind="Build",
-  desc="Nobody: So you 3D print?",
+ dict(name="How to Make Project Content People Actually Want to Watch", kind="Build",
+  desc="Projects are boring - but great photography and a great story can redeem them.",
   videos=[
-   "vSwumoSlZTo",  # 2021-04-17 I Tested (Almost) EVERY FILAMENT on Amazon: Every Single Filament Part
+   "cusFLqzHc3k",  # 2021-05-19 How to Make Project Content People Actually Want to Watch
   ],
  ),
  dict(name="I Made a Real-Life Pip-Boy... and Mine's Better", kind="Build",
@@ -122,22 +116,16 @@ INVENTIONS = [
    "tW_9-WeXTiI",  # 2021-07-03 My PC Exploded, so I Went Mad with Power
   ],
  ),
- dict(name="The Worst Wearable Computer", kind="Build",
-  desc="You can make a HUD with a transparent OLED - if you want it to suck.",
+ dict(name="From the Archives", kind="Build",
+  desc="I was honored to host Sanjay Mortimer on stream mere months before his sudden passing.",
   videos=[
-   "zZZ-Ea8RyjQ",  # 2021-07-27 The Worst Wearable Computer
+   "PFQK9fPdwUs",  # 2021-08-13 From the Archives: Talkin' Polymers w/ E3D Cofounder Sanjay Mortimer (
   ],
  ),
  dict(name="My 3D Printer Collection is Getting Ridiculous", kind="Build",
   desc="I water-cooled a printer and turned my closet into a filament vault.",
   videos=[
    "BBK1qFYNsWE",  # 2021-08-24 My 3D Printer Collection is Getting Ridiculous
-  ],
- ),
- dict(name="The Most Advanced Filaments You Can Print", kind="Build",
-  desc="Which filament is the toughest?",
-  videos=[
-   "mPh1b2EOOz0",  # 2021-09-25 The Most Advanced Filaments You Can Print: Every Single Filament Part 
   ],
  ),
  dict(name="I Invented a Keyboard and Snapped it in Half", kind="Build",
@@ -153,40 +141,22 @@ INVENTIONS = [
    "S6_xnzt9YPU",  # 2025-10-20 Five Bizarre 3D-Printing Mysteries with Insane Solutions
   ],
  ),
- dict(name="If This Wearable Fails, My Channel is DOOMED", kind="Build",
-  desc="My wearable computer is my most critical filmmaking tool - the Optigon is the custom teleprompter that lets me deliver these ridiculously complex scripts.",
-  videos=[
-   "Sy7yPwj2fsg",  # 2021-12-01 If This Wearable Fails, My Channel is DOOMED!
-  ],
- ),
  dict(name="10 Cool Inventions Anyone Can Print", kind="Build",
   desc="These cool 3D prints don't need anything but filament and junk - perfect for beginners and really lazy experts!",
   videos=[
    "1XVcix5n8x8",  # 2021-12-30 10 Cool Inventions Anyone Can Print - The Best Models for Brand-New Pr
   ],
  ),
- dict(name="Resin Rules the Nerf Battlefield! Caliburn 4 + Bulwark, Printed + Test", kind="Build",
-  desc="Is it worth 3D printing resin blasters?",
-  videos=[
-   "J13i7aBB4gw",  # 2022-02-14 Resin Rules the Nerf Battlefield! Caliburn 4 + Bulwark, Printed + Test
-  ],
- ),
- dict(name="PCBs in Two Hours? Zack Sucks at CNC", kind="Build",
-  desc="Can Zack stop smashing his bits long enough to make a circuit board?",
-  videos=[
-   "Hm_JrACrmVs",  # 2022-03-16 PCBs in Two Hours? Zack Sucks at CNC
-  ],
- ),
- dict(name="Gridfinity: Your Ultimate Modular Workshop is FREE", kind="Build",
-  desc="Free as in \"free up more space!\"",
-  videos=[
-   "ra_9zU-mnl8",  # 2022-04-13 Gridfinity: Your Ultimate Modular Workshop is FREE!
-  ],
- ),
  dict(name="Read My Chest: This Hoodie Subtitles Everything I Say", kind="Build",
   desc="Speech-recognizing AI, Raspberry Pi, and a wearable screen mounted chest-high.",
   videos=[
    "mTK8dIBJIqg",  # 2022-05-18 Read My Chest: This Hoodie Subtitles Everything I Say
+  ],
+ ),
+ dict(name="My Robot Intern", kind="Build",
+  desc="Why hire when you can hack?",
+  videos=[
+   "ufQmmEx1rbs",  # 2022-06-24 My Robot Intern: Brilliant AI Used Stupidly
   ],
  ),
  dict(name="3D Print a Modular Toolbox, Soldering Station, and More", kind="Build",
@@ -207,12 +177,6 @@ INVENTIONS = [
    "BCNxHGKFiQ0",  # 2022-08-05 Meet Christopher, the EIGHT-GPU Robot Quagsire
   ],
  ),
- dict(name="Four Million Tiny Mirrors", kind="Build",
-  desc="There's huge power in this 3D printer's tiny mirrors.",
-  videos=[
-   "GoEquOdUlGY",  # 2022-08-29 Four Million Tiny Mirrors: The Insane Engineering of DLP and the Futur
-  ],
- ),
  dict(name="Modules! Magnets! MiRage Mk3", kind="Build",
   desc="The MiRage mechanical keyboard's final form(s)...",
   videos=[
@@ -225,64 +189,10 @@ INVENTIONS = [
    "77hET4FhH_0",  # 2022-10-14 Real Hardware Hacking (with a hacksaw): My New Wearable Computer | Opt
   ],
  ),
- dict(name="Why I Trashed a Perfectly Good Wearable Computer", kind="Build",
-  desc="Tilted wearable?",
-  videos=[
-   "EVWbEGH7E_c",  # 2022-11-18 Why I Trashed a Perfectly Good Wearable Computer | Optigon 2: Part 3
-  ],
- ),
- dict(name="Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizer", kind="Build",
-  desc="Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!.",
-  videos=[
-   "7FCwMq-rVsY",  # 2022-12-05 Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizer
-  ],
- ),
- dict(name="I Reviewed the Most Ridiculous Gadgets from my Spam Folder", kind="Build",
-  desc="I went full send.",
-  videos=[
-   "tkuppWvICLM",  # 2022-12-28 I Reviewed the Most Ridiculous Gadgets from my Spam Folder
-  ],
- ),
  dict(name="The Pick-and-Place", kind="Build",
   desc="These robots assemble every circuit board ever made and not one of them goes ding!",
   videos=[
    "x3hKPOlG934",  # 2023-02-09 The Pick-and-Place: The Robots that Built the Modern World
-  ],
- ),
- dict(name="My Workshop Was Destroyed", kind="Build",
-  desc="Now this is the story all about how",
-  videos=[
-   "2R-KDji7tGE",  # 2023-03-02 My Workshop Was Destroyed...
-  ],
- ),
- dict(name="Every Single Filament", kind="Build",
-  desc="Matte Pine by Protopasta (couldn't find exact match?)",
-  videos=[
-   "uVECS4rBAZc",  # 2023-03-19 Every Single Filament Part 4: CURSED FILAMENT!
-  ],
- ),
- dict(name="I Reviewed the Stupidest Smart Devices From My Spam Folder", kind="Build",
-  desc="A smart aleck's dumb jokes on smart gadgets' dumb features.",
-  videos=[
-   "KwI4XkB2uQg",  # 2023-04-20 I Reviewed the Stupidest Smart Devices From My Spam Folder
-  ],
- ),
- dict(name="Hextraction: The Free 3D-Printed Board Game You Make, Mod, and Master", kind="Build",
-  desc="Put your hexagon to the testagon!",
-  videos=[
-   "Iqz7ZDdP25A",  # 2023-05-14 Hextraction: The Free 3D-Printed Board Game You Make, Mod, and Master
-  ],
- ),
- dict(name="10 Free 3D Prints to BLOW YOUR MIND", kind="Build",
-  desc="Bust your brain like a sockful of quarters to the dome.",
-  videos=[
-   "m99I05VJFLQ",  # 2023-07-12 10 Free 3D Prints to BLOW YOUR MIND!
-  ],
- ),
- dict(name="The Highly Ridiculous Over-Engineering of the Diamondback Nozzle", kind="Build",
-  desc="The Highly Ridiculous Over-Engineering of the Diamondback Nozzle.",
-  videos=[
-   "96eFnTescoY",  # 2023-08-11 The Highly Ridiculous Over-Engineering of the Diamondback Nozzle
   ],
  ),
  dict(name="Five 3D-Printing Mistakes You're Making RIGHT NOW", kind="Build",
@@ -295,36 +205,6 @@ INVENTIONS = [
   desc="HomeBridge (HomeKit for non-HomeKit home automation kit) h",
   videos=[
    "8y2LjkndbCM",  # 2023-10-17 Home Automation CONSUMED MY LIFE (and you're next)
-  ],
- ),
- dict(name="I Tested Janky Ghost-Hunting Gear from Aliexpress", kind="Build",
-  desc="If your haunting lasts more than 4 hours, call a doctor.",
-  videos=[
-   "igI1ccLCOyc",  # 2023-11-01 I Tested Janky Ghost-Hunting Gear from Aliexpress
-  ],
- ),
- dict(name="My Storage has a Search Bar! Gridfinity + 8,552 LEDs = Litfinity", kind="Build",
-  desc="I'm building a massive smart workshop organizer system, with mechanical vertical carousels, automatic inventory tracking, and a truly astounding number of rainbow lights.",
-  videos=[
-   "7WAhquGQq3o",  # 2023-11-27 My Storage has a Search Bar! Gridfinity + 8,552 LEDs = Litfinity!
-  ],
- ),
- dict(name="10 Free Prints to Make Friends Suffer", kind="Build",
-  desc="The Models (and ye olde filamentes)",
-  videos=[
-   "uIyVBHv8u4k",  # 2024-01-02 10 Free Prints to Make Friends Suffer!
-  ],
- ),
- dict(name="3D Printing a CHOCOLATE GRIDFINITY of LOVE", kind="Build",
-  desc="I ate a Benchy!",
-  videos=[
-   "JlylupVEwRM",  # 2024-02-13 3D Printing a CHOCOLATE GRIDFINITY of LOVE!!
-  ],
- ),
- dict(name="3D Print T-Shirts, Holograms, and More! 5 Easy Printing Hacks", kind="Build",
-  desc="Let's print weird stuff by forcing our 3D printers to do filthy, disgusting things!",
-  videos=[
-   "g7FHaPECGbY",  # 2024-04-18 3D Print T-Shirts, Holograms, and More! 5 Easy (Cursed) Printing Hacks
   ],
  ),
  dict(name="The Most INSANE Gridfinity You Can Print", kind="Build",
@@ -340,10 +220,16 @@ INVENTIONS = [
    "B4bMm8w1rZY",  # 2024-07-12 Can I Design a Whole Project in Bambu Studio?
   ],
  ),
- dict(name="Why am I wearing a heads-up display", kind="Build",
-  desc="It's not JUST because it's cool.",
+ dict(name="I built a whole computer out of RGB", kind="Build",
+  desc="It's got LITERAL MILLIONS of rgbleds!",
   videos=[
-   "qAuwW7Wzrng",  # 2024-09-12 Why am I wearing a heads-up display?
+   "YkSMSlhVRnw",  # 2024-08-02 I built a whole computer out of RGB (and Jeff Bezos paid for it)
+  ],
+ ),
+ dict(name="I made RGB WOOD", kind="Build",
+  desc="Rainbows don't grow on trees...",
+  videos=[
+   "PebUhzrZpyE",  # 2024-08-12 I made RGB WOOD!! - Full RGB PC Part 2
   ],
  ),
  dict(name="Ten Free 3D-Printed Board Games Too Silly for Stores", kind="Build",
@@ -352,17 +238,16 @@ INVENTIONS = [
    "o78L0DPMGQg",  # 2024-12-13 Ten Free 3D-Printed Board Games Too Silly for Stores
   ],
  ),
- dict(name="Everyone's WRONG about the BENCHY BAN", kind="Build",
-  desc="My partner Aura just launched their new \"Are you smarter than a scammer?\" quiz.",
+ dict(name="3D Printing Tricks in Action", kind="Build",
+  desc="All stills by Stephen at paringtonphoto.com, the event's official photographer, used with permission by the event organizer.",
   videos=[
-   "P7BhMKqIkig",  # 2025-01-26 Everyone's WRONG about the BENCHY BAN! (Printables #3DBenchy takedowns
+   "FWBHJtdRGsM",  # 2025-03-20 3D Printing Tricks in Action: Making a Mad Scientist's Alchemy Lab for
   ],
  ),
- dict(name="54 filaments I should NOT own", kind="Build",
-  desc="All printers featured in this episode were provided by their respective manufacturers.",
+ dict(name="The Best 3D Prints for Magic", kind="Build",
+  desc="The Best 3D Prints for Magic: The Gathering (and an all-alliteration EDH deck).",
   videos=[
-   "7zIKTzEVW_k",  # 2025-05-16 54 filaments I should NOT own - Every Filament Part 5: Business Filame
-   "vBdqbnfvj_A",  # 2026-08-13 These 3D filaments SHOULD NOT EXIST! Every 3D Filament Part 7
+   "GQNxkBwd1N4",  # 2025-04-02 The Best 3D Prints for Magic: The Gathering (and an all-alliteration E
   ],
  ),
  dict(name="I Broke a 3D-Printed Car at RMRRF 2025", kind="Build",
@@ -371,23 +256,16 @@ INVENTIONS = [
    "r7bhnKgjgJ0",  # 2025-06-16 I Broke a 3D-Printed Car at RMRRF 2025!
   ],
  ),
- dict(name="How MakerBot sold us literal hot garbage", kind="Build",
-  desc="I spent $270,000 and didn't get a single ball bearing...",
+ dict(name="Biblically-Accurate Nerf Blaster The Ophanim, Part I", kind="Build",
+  desc="Biblically-Accurate Nerf Blaster 🔫👁️👼 The Ophanim, Part I.",
   videos=[
-   "KgwFTv9J7ik",  # 2025-09-27 How MakerBot sold us literal hot garbage
+   "UqGnPZYXNIc",  # 2025-08-08 Biblically-Accurate Nerf Blaster 🔫👁️👼 The Ophanim, Part I
   ],
  ),
- dict(name="Filaments of the Future! Every 3D Filament", kind="Build",
-  desc="The Every Single Filament series continues with 21 of the most exotic filaments you can print (assuming your nozzle goes to 445 Celsius!) I only realized this after uploading, but none of these are PLA, PETG, ABS, ASA…",
+ dict(name="How One Bad Filament Destroyed My Project", kind="Build",
+  desc="Today’s horoscope: If your scythe goes flaccid, stay away from Vikings.",
   videos=[
-   "J8PZWkjt65Q",  # 2025-11-19 Filaments of the Future! Every 3D Filament: Part 6
-   "i10rxmsKHts",  # 2026-04-16 Screw the Rules, I Have Every 3D Filament!
-  ],
- ),
- dict(name="You can copy and print perfect spare parts", kind="Build",
-  desc="Disclaimer: By 'anything,' I mean 'anything made of translucent or opaque plastic and commodity hardware that can be conveniently photographed, traced, and 3D printed using whatever equipment and material",
-  videos=[
-   "OcMvTfUfNXo",  # 2026-03-10 You can copy and print perfect spare parts! (Legally) (Probably)
+   "DyM3Dztu3e8",  # 2026-05-25 How One Bad Filament Destroyed My Project (RMRRF 2026)
   ],
  ),
  dict(name="Turn 3D Printing Waste into FREE PROJECTS", kind="Build",

@@ -7,54 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'bad-obsession-motorsport', 'name': 'Bad Obsession Motorsport', 'person': 'Bad Obsession Motorsport', 'tagline': 'Engineering lunacy, most famously Project Binky, a rally-car Mini.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="In-car Peugeot 205 Challenge 2004 Oakleaf Stages Wilbarston SS4", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "TQfo9mgzGX4",  # 2013-04-08 In-car Peugeot 205 Challenge 2004 Oakleaf Stages Wilbarston SS4
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Mid Wales Stages SS2 Nant Melen", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "o_25DPl0AbU",  # 2013-04-08 In-car Peugeot 205 Challenge 2004 Mid Wales Stages SS2 Nant Melen
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS9 Nant Gerig", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "JSULQ1e55cQ",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS9 Nant Gerig
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS8 Bryn Daith", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "e8fP7qLLs_U",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS8 Bryn Daith
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Swansea Bay SS4 Rhondda", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "RfOctbTDGSk",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Swansea Bay SS4 Rhondda
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS7 Hafren North", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "-QKjKHc0D4s",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Sweet Lamb Stages SS7 Hafren North
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Swansea Bay SS3 Walters Arena", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "4Zs-tr4VGqo",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Swansea Bay SS3 Walters Arena
-  ],
- ),
- dict(name="In-car Peugeot 205 Challenge 2004 Swansea Bay SS5 Tyle", kind="Build",
-  desc="This is in car footage of 205 Challenge 2004.",
-  videos=[
-   "qVN3DRkn9ig",  # 2013-04-09 In-car Peugeot 205 Challenge 2004 Swansea Bay SS5 Tyle
-  ],
- ),
  dict(name="Project Binky - The Outtakes. Strong language", kind="Build",
   desc="We figured in the current rather uncertain climate you might like to have a laugh at our expense.",
   videos=[
@@ -114,12 +66,6 @@ INVENTIONS = [
    "4uLI2G7YfQw",  # 2026-10-30 Project Binky - Episode 44 - Austin Mini GT-Four - Turbocharged 4WD Mi
   ],
  ),
- dict(name="How to Fix a Porcelain Mug with a TIG Welder", kind="Build",
-  desc="After a major disaster smashing one of our tea mugs, we thought it might be fun to attempt to TIG weld the thing back together.",
-  videos=[
-   "vKWfW-MIRHc",  # 2017-04-01 How to Fix a Porcelain Mug with a TIG Welder
-  ],
- ),
  dict(name="Howie Did It - Machining the flexi-shaft auxiliary drive", kind="Build",
   desc="This is part one of how we made the flexi-shaft auxiliary drive system in episode 20 of Project Binky.",
   videos=[
@@ -138,28 +84,10 @@ INVENTIONS = [
    "sNP16bNtTgo",  # 2025-12-19 The Escargot - RV/Camper Car Transporter Conversion - Part 6
   ],
  ),
- dict(name="Howie Did It - Hydraulic Lifting Platform", kind="Build",
-  desc="Howie Did It - Hydraulic Lifting Platform.",
-  videos=[
-   "FmZ6eNj-IzQ",  # 2019-05-26 Howie Did It - Hydraulic Lifting Platform
-  ],
- ),
  dict(name="Project Binky - An Understanding Enhancement", kind="Build",
   desc="We try and answer some of the more frequent questions we get asked across our social media platforms.",
   videos=[
    "0C1z1MtHAU4",  # 2019-10-12 Project Binky - An Understanding Enhancement
-  ],
- ),
- dict(name="Rallying History Track Day", kind="Build",
-  desc="What do we do on our rare days off from the shed you might ask?",
-  videos=[
-   "XScKVAnyLY0",  # 2020-03-24 Rallying History Track Day - Curborough March 2020 (4K)
-  ],
- ),
- dict(name="Bracketry Award", kind="Build",
-  desc="Be sure to watch the other judges pick their winners:",
-  videos=[
-   "gHL8WfTLgR4",  # 2020-05-09 Bracketry Award - Judging the 2020 IQCS Semi-Finals
   ],
  ),
  dict(name="Howie Did It - Toyota E154F Gearbox Strip and Rebuild", kind="Build",
@@ -180,91 +108,6 @@ INVENTIONS = [
    "tXQgA7ni3gs",  # 2020-10-31 Part 7 - Building an £850 hatchback into a competitive race car.
    "VKqO9zdQeG8",  # 2020-11-07 Part 8 - Building an £850 hatchback into a competitive race car.
    "AIxRI4Weh2Y",  # 2020-11-14 Part 9 - Building an £850 hatchback into a competitive race car.
-  ],
- ),
- dict(name="Howie Did It - An Experiment in 3D Printing", kind="Build",
-  desc="Faced with the reality of having to make a complete set of extended wheel arches for our turbo charged, 4WD monster mini, a chance meeting with a mad Spaniard gave us pause for thought.",
-  videos=[
-   "XM5z6DSsQzU",  # 2020-12-24 Howie Did It - An Experiment in 3D Printing
-   "FzrZoVKT8gM",  # 2024-11-16 Howie Did It - 3D Printing a Printed Circuit Board
-  ],
- ),
- dict(name="1964 Austin Healey 3000 MKIII BJ8", kind="Build",
-  desc="A chance meeting with a classic car enthusiast and his lovingly restored and much used Austin Healey 3000 led us here.",
-  videos=[
-   "3NnZZnxOlF8",  # 2021-05-27 1964 Austin Healey 3000 MKIII BJ8 | BOM Classics
-  ],
- ),
- dict(name="Ford GT40 | The Imposter", kind="Build",
-  desc="In the second instalment of our BOM Classics series we captured the story of Ege Ferguson, owner and restorer of a Ford GT40 replica.",
-  videos=[
-   "Zpzz8iQr_7g",  # 2022-01-14 Ford GT40 | The Imposter
-  ],
- ),
- dict(name="BOM at the Historic Rally Festival 2021", kind="Build",
-  desc="In August 2021 we were invited to bring Binky along to the inaugural UK Historic Rally Festival.",
-  videos=[
-   "b52pBaObiY0",  # 2022-02-18 BOM at the Historic Rally Festival 2021
-  ],
- ),
- dict(name="Race Of Remembrance 2021", kind="Build",
-  desc="We were invited to get back behind the wheel of our donated Citroen C1 by Mission Motorsport for the annual epic Race of Remembrance at Anglesey.",
-  videos=[
-   "QkbQuPT9Kog",  # 2022-04-19 Race Of Remembrance 2021
-  ],
- ),
- dict(name="Howie Did It | Retrimming Honda S2000 seats", kind="Build",
-  desc="It’s not often you get to see the nitty gritty of a retrimming project, so we thought it might be cool to let you all in behind the scenes at Trimworks while Dean brought Nik’s vision for Binky’s seats to life.",
-  videos=[
-   "RO_XCj8lkqo",  # 2022-04-30 Howie Did It | Retrimming Honda S2000 seats #projectbinky
-  ],
- ),
- dict(name="Triumph by Revington", kind="Build",
-  desc="For our 3rd instalment of our BOM Classics series we met Neil Revington who built a small empire over 40 years stemming from a Triumph TR2 sportscar he bought in 1970 for just £70.",
-  videos=[
-   "cez2iIgw7JU",  # 2022-07-02 Triumph by Revington
-  ],
- ),
- dict(name="Best of Binky Gag Reel", kind="Build",
-  desc="Well it was inevitable really, all good shows eventually pull one together while they’re working on the next episode.",
-  videos=[
-   "LZjdFb7dNOs",  # 2023-04-01 Best of Binky Gag Reel
-  ],
- ),
- dict(name="The Silverstone Classic", kind="Build",
-  desc="We were lucky enough to be invited to shakedown a beautifully restored Tiga SC81 Sports 2000 car last year at Silverstone.",
-  videos=[
-   "R90Z8qlz0KA",  # 2023-08-23 The Silverstone Classic - Racing a Tiga SC81 S2000 Car
-  ],
- ),
- dict(name="BMW M50 Powered Celica", kind="Build",
-  desc="We know all about the term “Project Creep” but Dan takes it to extremes, pushes his knowledge and ropes in friends to create his own unique car that takes inspiration from many places.",
-  videos=[
-   "bDI5jqQfce0",  # 2023-11-11 BMW M50 Powered Celica
-  ],
- ),
- dict(name="100 Year Old Dodge Touring Car", kind="Build",
-  desc="Earlier this year - on a rare excursion from the shed – we visited James Cameron, the boss of armed forces charity Mission Motorsport to see his fabulous 1923 Dodge Touring Car.",
-  videos=[
-   "tXuAgGKj0tw",  # 2023-11-24 100 Year Old Dodge Touring Car
-  ],
- ),
- dict(name="A Fuelish Endeavour", kind="Build",
-  desc="We're well used to not everything going to plan, so when we turned up to our friend James Cameron's place to film the 100 Year Old Dodge video it came as little surprise to find the car reluctant take us to the pub fo…",
-  videos=[
-   "qrlMgmjr9VQ",  # 2023-12-25 A Fuelish Endeavour - Taking a Centenarian to the Pub
-  ],
- ),
- dict(name="The Escargot - Update", kind="Build",
-  desc="It's been a while and due to popular demand, we figured there's probably three of you that still want to know what's going on with the R/V Camper, Motorhome, Race Transporter vehicle we started eons ago.",
-  videos=[
-   "dkoyPUqG1Vw",  # 2025-08-29 The Escargot - Update!
-  ],
- ),
- dict(name="Howie Did It - Learning Ardunio and Electronics", kind="Build",
-  desc="In an example of colossal mission creep, what started out as a simple 3D printing hot end heater project ended up as complete custom lighting and gauge control system.",
-  videos=[
-   "DYkzphOn7co",  # 2025-10-31 Howie Did It - Learning Ardunio and Electronics
   ],
  ),
  dict(name="Re-engineering the Alternator Drive", kind="Build",

@@ -48,18 +48,6 @@ INVENTIONS = [
    "QPDjeT8cOi8",  # 2015-05-25 How To Make Clean Seams for Foam Armor, Tutorial
   ],
  ),
- dict(name="How to Pattern Large Costumes, Tutorial", kind="Build",
-  desc="How to make large patterns.",
-  videos=[
-   "2nkxt5FVpwg",  # 2015-06-20 How to Pattern Large Costumes, Tutorial.
-  ],
- ),
- dict(name="How To Make Foam Horns, Tutorial", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "jUoWn3Q7cak",  # 2015-08-03 How To Make Foam Horns, Tutorial.
-  ],
- ),
  dict(name="How to Make the Inquisitor Helmet from Foam", kind="Build",
   desc="I'm the Evil Ted who makes props and costumes.",
   videos=[
@@ -75,38 +63,6 @@ INVENTIONS = [
    "atVy_y5V0dg",  # 2015-10-25 How to Make a Foam Iron War Axe Part 1
   ],
  ),
- dict(name="Bill & Evil Ted's Bogus journey 2", kind="Build",
-  desc="Bill stopped bye my shop to talk foam and to promote his new book",
-  videos=[
-   "gJLcIGEObZk",  # 2015-11-11 Shop Talk - Bill & Ted's Bogus Journey
-   "itVPEmkkg-A",  # 2016-04-22 Bill & Evil Ted's Bogus journey 2
-  ],
- ),
- dict(name="How to Heat Form foam", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "6DVUlJ8JJzY",  # 2016-01-19 How to Heat Form foam
-  ],
- ),
- dict(name="How To Clean your Critter Gun and other Tool Maintenance", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "a6q2FgYLHPQ",  # 2016-02-29 How To Clean your Critter Gun and other Tool Maintenance
-  ],
- ),
- dict(name="How to Make a Foam Dome and other pattern making techniques", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "NLRnyhjPWfw",  # 2016-03-18 How to Make a Foam Dome and other pattern making techniques
-  ],
- ),
- dict(name="How to Make Foam Spikes", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "3P4lgPqBru8",  # 2016-05-16 How to Make Foam Spikes
-   "vqzS2ndl5lY",  # 2017-01-30 Evil Ted Live: Foam Round spikes
-  ],
- ),
  dict(name="How to Add Detail to Foam Armor", kind="Build",
   desc="I'm the Evil Ted who makes props and costumes.",
   videos=[
@@ -120,12 +76,6 @@ INVENTIONS = [
    "M15ky-1p5mw",  # 2016-07-22 The Making of Alita Battle Angel
   ],
  ),
- dict(name="Tools of the Trade 2.0", kind="Build",
-  desc="I'm the Evil Ted who makes props and costumes.",
-  videos=[
-   "bzeTS6PLedc",  # 2016-08-23 Tools of the Trade 2.0
-  ],
- ),
  dict(name="Foam Gun", kind="Build",
   desc="I'm the Evil Ted who makes props and costumes.",
   videos=[
@@ -134,12 +84,6 @@ INVENTIONS = [
    "3qaiQ3rOo-I",  # 2016-10-26 Evil Ted Live: Foam Gun Part 3
    "eOsmrpNtsiI",  # 2017-10-16 Evil Ted Live: Making a Foam Gun Holster
    "T1ZapamzArE",  # 2018-12-08 Evil Ted Live: Making a Foam Space 1999 Stun Gun
-  ],
- ),
- dict(name="Check my Space Marine from BLIZZCON 2016", kind="Build",
-  desc="This is a short clip from the BLIZZCON video made by Sneaky Zebra.",
-  videos=[
-   "QjjzAhk0pww",  # 2016-11-09 Check my Space Marine from BLIZZCON 2016
   ],
  ),
  dict(name="How to Make Foam Ram Horns", kind="Build",
@@ -174,13 +118,6 @@ INVENTIONS = [
    "pdeqhT1BW28",  # 2017-03-25 Evil Ted Live: Painting a 3D Printed Baby Groot
   ],
  ),
- dict(name="Toy Gun Mod", kind="Build",
-  desc="Watch me take this toy Gotcha gun from the 80's and turn it into a cool prop space gun.",
-  videos=[
-   "GKcpZ6Ynsmg",  # 2017-04-10 Evil Ted Live: Toy Gun Mod Part 1
-   "3sk9_403fCU",  # 2017-04-15 Evil Ted Live: Toy Gun Mod Part 2
-  ],
- ),
  dict(name="Making Charlie the Robot", kind="Build",
   desc="Watch me as crave and sand insulation foam to make a prototype pattern of Charlie the Robot head.",
   videos=[
@@ -191,43 +128,6 @@ INVENTIONS = [
   desc="Making a Paladin helmet for my special guest Bex Taylor - Klaus the voice of Pidge for Voltron legendary defender.",
   videos=[
    "XXCCqwSJ2C8",  # 2017-05-27 Making a Paladin helmet for Bex Taylor- Klaus AKA Pidge of Voltron + F
-  ],
- ),
- dict(name="How to Make Foam Shoe covers", kind="Build",
-  desc="In this video I show how to make great looking foam shoe cover for you next costume.",
-  videos=[
-   "LP9lFinkZfc",  # 2017-06-10 Evil Ted Live: How to Make Foam Shoe covers.
-  ],
- ),
- dict(name="How To Make Foam Platform Shoes", kind="Build",
-  desc="I made a video 2 years ago on making platform shoes.",
-  videos=[
-   "4fanKUMDzU0",  # 2017-06-29 How To Make Foam Platform Shoes.
-  ],
- ),
- dict(name="Painting a Zprops Gun", kind="Build",
-  desc="Got this great prop from my friend Zander at Hydra Con.",
-  videos=[
-   "0DSq7Bwg1Sg",  # 2017-07-14 Evil Ted Live: Painting a Zprops Gun
-  ],
- ),
- dict(name="I'll be at San Diego Comic Con 2017", kind="Build",
-  desc="Yes, I and Bbrrrrraaapp Cosplay  will be at Comic Con.",
-  videos=[
-   "fsmXQy7rOU0",  # 2017-07-20 I'll be at San Diego Comic Con 2017
-   "ggStD9oNjgw",  # 2019-06-17 See you at San Diego Comic 2019.
-  ],
- ),
- dict(name="How to Make Foam Look like leather", kind="Build",
-  desc="A fun simple way to make your foam look like leather.",
-  videos=[
-   "ape0mh-aI5A",  # 2017-08-14 How to Make Foam Look like leather
-  ],
- ),
- dict(name="New improved Dome patterns", kind="Build",
-  desc="You can use this pattern for so many things Helmets, shoulder armor or breast plate.",
-  videos=[
-   "06fbA_gBJV8",  # 2017-08-29 New improved Dome patterns.
   ],
  ),
  dict(name="The Making of the Alien Egg Costume", kind="Build",
@@ -248,18 +148,6 @@ INVENTIONS = [
    "8Jz8Oym8EkA",  # 2017-10-02 Making Leila's Hand Canon:  Part 1
    "v5N32Sr8gss",  # 2017-10-09 Making Leila's Hand Canon:  Part 2
    "5f-eRd-YD8M",  # 2023-10-20 The Hand Canon! #cosplay #foam #diyfoam #evafoam #foamcrafts #hallowee
-  ],
- ),
- dict(name="Pip Boy Mod", kind="Build",
-  desc="Just started playing the game FALLOUT.",
-  videos=[
-   "ewI3wFkQvEQ",  # 2017-10-30 Evil Ted Live: Pip Boy Mod
-  ],
- ),
- dict(name="How to Make Krampus Horns", kind="Build",
-  desc="I have Krampus horns patterns in my shop.",
-  videos=[
-   "q8gLQP6H2ck",  # 2017-12-18 How to Make Krampus Horns.
   ],
  ),
  dict(name="Merry Christmas & happy new year 2019", kind="Build",
@@ -306,12 +194,6 @@ INVENTIONS = [
   desc="I have a prop crysknife from the movie Dune, and I wanted to see if I could make one out of foam.",
   videos=[
    "FJ36916DHto",  # 2018-02-19 Evil Ted Live: Making a Foam Dune Crysknife Knife
-  ],
- ),
- dict(name="Creating a Hot Metal bluing Effect", kind="Build",
-  desc="This video is from my live stream on Twitch.tv/eviltedsmith.",
-  videos=[
-   "QNzwQFnknFk",  # 2018-03-23 Evil Ted Live: Creating a Hot Metal bluing Effect.
   ],
  ),
  dict(name="Making a Toy Gun into a Cool Prop", kind="Build",
@@ -362,18 +244,6 @@ INVENTIONS = [
    "Pcd_ZM9zvlU",  # 2018-07-03 Evil Ted Live: Making a Foam Pulse Rifle
   ],
  ),
- dict(name="Welcome to my channel", kind="Build",
-  desc="Evil Ted worked in the movie industry doing visual effects, prop, and model making for 35 years.",
-  videos=[
-   "nyG5YeVkxsA",  # 2018-07-11 Welcome to my channel.
-  ],
- ),
- dict(name="Painting Pulse Rifle", kind="Build",
-  desc="Now my foam M41-A Pulse Rifle is sealed with Creature cast it’s time to paint it.",
-  videos=[
-   "3Fcr7w2UXpA",  # 2018-07-27 Evil Ted Live: Painting Pulse Rifle
-  ],
- ),
  dict(name="Making a Foam Shoulder Canon", kind="Build",
   desc="In this video I’m making Machiko Noguchi shoulder canon for her Predator armor.",
   videos=[
@@ -396,6 +266,12 @@ INVENTIONS = [
   desc="Making mechanical Bat wings.",
   videos=[
    "Mzwd212CmTg",  # 2018-10-11 Evil Ted Live: Making Mechanical Bat Wings
+  ],
+ ),
+ dict(name="Painting a Foam Corbin Pistol from Studio J7", kind="Build",
+  desc="My friend James AKA Studio J7 made me a foam prop of Corbin Dallas pistol from the movie The Fifth Element.",
+  videos=[
+   "33CQY1g1q6c",  # 2018-11-09 Evil Ted Live: Painting a Foam Corbin Pistol from Studio J7
   ],
  ),
  dict(name="Making a Basic Foam Helmet & Face Shield", kind="Build",
@@ -422,10 +298,10 @@ INVENTIONS = [
    "mv9O_A2oELg",  # 2019-03-08 Evil Ted Live: Making A Foam Deku Mask
   ],
  ),
- dict(name="Painting a Soldier 76 Mask", kind="Build",
-  desc="Another great toy from The Spirt Halloween Store.",
+ dict(name="Setting up my PULSE 3-D Printer", kind="Build",
+  desc="I just joined the 3D printer world.",
   videos=[
-   "hAusKifdAt8",  # 2019-03-31 Evil Ted Live: Painting a Soldier 76 Mask.
+   "VHQm3_DiHL4",  # 2019-04-19 Setting up my PULSE 3-D Printer.
   ],
  ),
  dict(name="Making a Ancient Roman Foam Sword", kind="Build",
@@ -444,15 +320,6 @@ INVENTIONS = [
   desc="I have new female and male armor patterns in my shop.",
   videos=[
    "yop5WeGet34",  # 2019-07-12 New Female & Male Foam Armor Patterns.
-  ],
- ),
- dict(name="I'll be at Anime Los Angeles 2020", kind="Build",
-  desc="Anime Los Angeles.",
-  videos=[
-   "BD7AKpdTy1U",  # 2019-09-12 I'll be at Anime Los Angeles 2020
-   "jbMgQSJVGTA",  # 2023-01-27 My Sister of Battle cosplay at Anime Los Angeles Ca
-   "XHoYQoAjvwY",  # 2023-11-10 I’ll be at Anime Los Angeles Jan 4-7 animelosangeles.org #cosplayfoam 
-   "5RqWQq0Z8xA",  # 2026-01-08 See you at Anime Los Angeles #diycosplay #foamcraft #foam
   ],
  ),
  dict(name="Making Cyberpunk Arm Armor/pattern", kind="Build",
@@ -496,10 +363,22 @@ INVENTIONS = [
    "6WetwFB9pWA",  # 2020-02-18 Evil Ted Live: Painting the Foam Knight Helmet
   ],
  ),
+ dict(name="Making a War Axe & Painting with PlaidFX paint", kind="Build",
+  desc="I made Mongo the Red Demon for 2017 Blizz Con.",
+  videos=[
+   "-12qqRcGUHA",  # 2020-06-19 Making a War Axe & Painting with PlaidFX paint
+  ],
+ ),
  dict(name="Making Foam Chain Maille with Foam armor", kind="Build",
   desc="I met Ben Eadie at Ren Con a while back, and being a fellow maker we hit it off.",
   videos=[
    "ZbD32n4AQ-w",  # 2020-06-26 Making Foam Chain Maille with Foam armor
+  ],
+ ),
+ dict(name="Making Foam Armor Travel Friendly", kind="Build",
+  desc="When making the Foam War axe video, I pull out my Mongo Red Demon Knight costume.",
+  videos=[
+   "sRpYi4jewrc",  # 2020-07-10 Making Foam Armor Travel Friendly!
   ],
  ),
  dict(name="The Realease of Evil Ted's Cos Molds", kind="Build",
@@ -533,6 +412,12 @@ INVENTIONS = [
    "vHC6SC_WR64",  # 2021-01-22 Making Cyberpunk Brain enhancement & Military Visor / patterns
   ],
  ),
+ dict(name="Making A R31-Studio Sci-Fi Mask", kind="Build",
+  desc="A while back I got R31 Studios Sci-Fi face mask.",
+  videos=[
+   "eanhpiNAXKs",  # 2021-02-26 Making A R31-Studio Sci-Fi Mask
+  ],
+ ),
  dict(name="Making Cyberpunk Goggles / Dap", kind="Build",
   desc="Making Cyberpunk Goggles and using Dap Weldwood contact cement.",
   videos=[
@@ -545,11 +430,16 @@ INVENTIONS = [
    "rRnS5fHz2Ps",  # 2021-06-05 Evil. Ted Live: Making a WARHAMMER Helmet
   ],
  ),
- dict(name="Evil Ted's Con announcements", kind="Build",
-  desc="If your new to cosplay, you should Join the Foam Fanatics.",
+ dict(name="Making Foam Cyberpunk Combat Helmet", kind="Build",
+  desc="Making a Foam Cyberpunk Combat Helmet / pattern",
   videos=[
-   "4U1ZxoPst2g",  # 2021-08-03 Evil Ted's Con announcements
-   "PCKC0F9i7EM",  # 2022-11-22 Con Announcements
+   "GiADd59XtJE",  # 2021-07-30 Making Foam Cyberpunk Combat Helmet : Pattern
+  ],
+ ),
+ dict(name="Painting Cyberpunk Face shield", kind="Build",
+  desc="Painting a Cyberpunk Face Shield by Modulus Props",
+  videos=[
+   "aTR8dp-1RCc",  # 2021-08-13 Evil Ted Live: Painting Cyberpunk Face shield
   ],
  ),
  dict(name="The Evil Ted Channel", kind="Build",
@@ -557,6 +447,12 @@ INVENTIONS = [
   videos=[
    "E4AFQe9MO7A",  # 2021-09-17 The Evil Ted Channel: How to Make Monster Hands
    "B8QdtVNZh1g",  # 2024-01-20 Evil Ted Channel: Making the Laser Rifle from Akira
+  ],
+ ),
+ dict(name="Making a Battle Sister Dagger", kind="Build",
+  desc="Making A battle Sister Dagger.",
+  videos=[
+   "om58Jqe6a7M",  # 2021-11-20 Making a Battle Sister Dagger
   ],
  ),
  dict(name="Making an Alien Tracker Prop with Props to History", kind="Build",
@@ -573,20 +469,19 @@ INVENTIONS = [
    "foFxCiRjTAc",  # 2025-08-08 Making a Mega Man X Helmet.
   ],
  ),
- dict(name="Fixing old costumes", kind="Build",
+ dict(name="Commissions open. Building my chrome visor Space Marine hemet", kind="Build",
+  desc="You heard me right.",
+  videos=[
+   "Jqdfq1IIWA4",  # 2022-04-20 Commissions open. Building my chrome visor Space Marine hemet.
+  ],
+ ),
+ dict(name="Fixing old costumes", kind="Restoration",
   desc="I realized why I don’t wear my Red Demon costume anymore.",
   videos=[
    "qqukAhMXYVU",  # 2022-05-03 Evil Ted Live: Fixing old costumes.
    "vOy1p9WDLKs",  # 2022-05-04 Evil Ted Live: Fixing old costumes Part 2
    "zn2jIYn-1FE",  # 2022-05-05 Evil Ted Live: Fixing old costumes Part 3
    "_D3A243xt14",  # 2022-05-19 Evil Ted Live: Fixing old costumes Part 4
-  ],
- ),
- dict(name="Good morning from Northern fan con", kind="Build",
-  desc="Good morning from Northern fan con.",
-  videos=[
-   "umHZbitQeI8",  # 2022-05-13 Good morning from Northern fan con
-   "lpb20TmaaoM",  # 2022-05-14 Live at Northern Fan Con
   ],
  ),
  dict(name="Building sister of battle armor", kind="Build",
@@ -596,6 +491,12 @@ INVENTIONS = [
    "tpXS0njdAoc",  # 2022-06-07 Sister of Battle Armor part 2
    "COwei_IvDKw",  # 2026-07-13 EVIL TED LIVE: Restoring Battle Sister armor.
    "meIQ0MPPnDQ",  # 2026-07-20 EVIL TED LIVE: Painting Battle Sister armor.
+  ],
+ ),
+ dict(name="Making a Jet Chem with Matterhackers Pulse XE printer", kind="Build",
+  desc="Making a Jet Chem with Matterhackers Pulse XE printer",
+  videos=[
+   "nkl2ZZ8ORvA",  # 2022-06-03 Making a Jet Chem with Matterhackers Pulse XE printer
   ],
  ),
  dict(name="Making a Servo Skull 40K", kind="Build",
@@ -621,12 +522,10 @@ INVENTIONS = [
    "y-zs38bGvu0",  # 2025-10-10 Foam Hands for Cosplay.
   ],
  ),
- dict(name="Painting a 40K Bolter", kind="Build",
-  desc="This Bolter was made using Cosplay Pro EVA foam .",
+ dict(name="Making a Sister of Battle Helmet", kind="Build",
+  desc="I started making a Sister of Battle costume for my Cosplayer friend Tundabolt.",
   videos=[
-   "NWZkvCJZOcQ",  # 2023-03-09 Painting 40K Bolter Pistol! Video coming soon.
-   "WjZAq8TTprw",  # 2023-03-14 Painting a 40K Bolter
-   "Fa_CcpHXkAs",  # 2023-10-06 Painting The Bolter: Part 2
+   "g0HTvT1o8oQ",  # 2022-10-14 Making a Sister of Battle Helmet
   ],
  ),
  dict(name="Making a Foam Space Helmet", kind="Build",
@@ -652,11 +551,10 @@ INVENTIONS = [
    "l6ZhiEGKWyQ",  # 2023-10-06 The Bolter is done! #diyfoam #foam #cosplay #foamcrafts #evafoam
   ],
  ),
- dict(name="Elko Nevada Pop Con Aug 18-19", kind="Build",
-  desc="See you at The 1st Annual ELKO Nevada Pop Con August 18-19.",
+ dict(name="New Foam Sponser", kind="Build",
+  desc="Click the link and start shopping.",
   videos=[
-   "L5tOGeSW_oo",  # 2023-07-24 Elko Nevada Pop Con Aug 18-19
-   "YdL1_jZX6hc",  # 2023-08-18 Here at Elko Pop Con #cosplay #foam #howto #foambuild
+   "CvxBC5V8eJc",  # 2023-11-17 New Foam Sponser: Cosplay Pros, plan shop ans build
   ],
  ),
  dict(name="Making a Onimusha Gauntlet", kind="Build",
@@ -708,6 +606,12 @@ INVENTIONS = [
    "deFTaw0oyHM",  # 2024-09-14 Making a Colonial Marine Helmet Part 2
   ],
  ),
+ dict(name="The Guyver Blu-Ray release. Lets talk about the making of this movie", kind="Build",
+  desc="Calling all Guyver Fans!",
+  videos=[
+   "IGDIV9QDyQ4",  # 2024-05-20 EVIL TED LIVE: The Guyver Blu-Ray release. Lets talk about the making 
+  ],
+ ),
  dict(name="Making the ALIEN head pattern using a Pepakura file", kind="Build",
   desc="I've had this Pepakura Alien head file for years.",
   videos=[
@@ -715,15 +619,10 @@ INVENTIONS = [
    "AtJrJk3LhUU",  # 2025-11-23 EVIL TED LIVE: Alien head build.
   ],
  ),
- dict(name="Working on my Foam Alien head", kind="Build",
-  desc="I know everyone’s excited about the new upcoming Alien: Romulus movie!",
+ dict(name="Making a Face Shield patten", kind="Build",
+  desc="I'm building some props and costumes for my friends movie EONBLADE.",
   videos=[
-   "UfI9nNB87rA",  # 2024-06-09 Foam Alien head Progress. #cosplayfoam #diycosplay #costumemaker ￼
-   "oq-lg7BYNEo",  # 2024-08-05 EVIL TED LIVE: Working on my Foam Alien head
-   "cjE__HEMAdk",  # 2025-10-06 EVIL TED LIVE: Making an Alien head out of EVA Foam.
-   "Zoyf0KCVkks",  # 2025-10-27 EVIL TED LIVE: Foam Alien Head buold.
-   "UySGaDRT5Uk",  # 2025-11-03 Foam Alien head spine. #movie #alien #diycosplay #foamcraft
-   "ZNoETTSKZJg",  # 2026-01-19 EVIL TED LIVE: Back on the Foam Alien Head.
+   "mPLgC8kUJJk",  # 2024-07-29 EVIL TED LIVE: Making a Face Shield patten.
   ],
  ),
  dict(name="Making a MEGAMAN-X helmet", kind="Build",
@@ -734,6 +633,12 @@ INVENTIONS = [
    "OrjbrWoG6Eg",  # 2024-09-16 EVIL TED LIVE: Painting Megaman-X helmet Part 2
   ],
  ),
+ dict(name="Painting the Magaman Helmet", kind="Build",
+  desc="Join me Live this Sunday at 9 AM PST.",
+  videos=[
+   "VMeBQXWBNDs",  # 2024-09-09 EVIL TED LIVE: Painting the Magaman Helmet!
+  ],
+ ),
  dict(name="Making a Rotten Corpse Prop", kind="Build",
   desc="Just finshed putting in the Plastic teeth.",
   videos=[
@@ -741,34 +646,11 @@ INVENTIONS = [
    "ymmNYHQLRjE",  # 2024-10-07 Making a Rotten Corpse Prop Part 2
   ],
  ),
- dict(name="Painting a Skull mask with moving jaw", kind="Build",
-  desc="Painting a cool Skull mask I got from Walmart!",
-  videos=[
-   "U-MUJPZWhEk",  # 2024-10-28 EVIL TED LIVE: Painting a Skull mask with moving jaw.
-   "iSjfakxT4a4",  # 2026-08-03 EVIL TED LIVE: Painting Skull
-  ],
- ),
  dict(name="Making Three Face mask for the movie Eonblade", kind="Build",
   desc="EVIL TED LIVE: Making Three Face mask for the movie Eonblade.",
   videos=[
    "JDoMC4A07Ws",  # 2024-11-04 EVIL TED LIVE: Making Three Face mask for the movie Eonblade
    "ycla8ZpvJHs",  # 2024-11-11 EVIL TED LIVE: Making Face mask for the movie Eonblade Part 2
-  ],
- ),
- dict(name="Age painting the Archonite masks", kind="Build",
-  desc="I’ll be painting and aging the Archonite mask with Createxcolors.",
-  videos=[
-   "KOFitPUxuoI",  # 2024-11-25 EVIL TED LIVE: Painting Archonite
-   "Ls_KRwjIdLE",  # 2024-12-02 EVIL TED LIVE: Age painting the Archonite masks.
-  ],
- ),
- dict(name="See you at Game Con Canada 2025 @gameconcanada6431", kind="Build",
-  desc="I will also be jugging the 3rd annual Cosplay costume contest.",
-  videos=[
-   "zVf_eZjBwOg",  # 2025-01-10 See you at Game Con Canada 2025 @gameconcanada6431
-   "F3yfAwXi2BY",  # 2025-04-24 See you at @gameconcanada6431 #diycosplay #cosplay
-   "0L2D-rha15k",  # 2025-06-04 See you at @gameconcanada6431 #diycosplay #cosplay #games
-   "hgllzZLQI28",  # 2026-05-16 See you at @gameconcanada6431
   ],
  ),
  dict(name="Making Feral Ghoul", kind="Build",
@@ -796,18 +678,16 @@ INVENTIONS = [
    "cXPSXixLuws",  # 2025-08-25 EVIL TED LIVE: Finshing up my Feral Ghoul cosplay.
   ],
  ),
- dict(name="Visual effects, behind the scenes", kind="Build",
-  desc="Painting helmets today.",
+ dict(name="Restoring my Borg Costume", kind="Restoration",
+  desc="I mabe this costume years ago, and I need to get my older body to fit in to it.",
   videos=[
-   "ZK5oCG6t0xc",  # 2025-08-04 EVIL TED LIVE: Visual effects, behind the scenes.
-   "U8lDOLAq6UA",  # 2025-09-08 EVIL TED LIVE: Visual effects, behind the scenes.
+   "8CVHjljsNxY",  # 2025-07-21 EVIL TED LIVE: Restoring my Borg Costume.
   ],
  ),
- dict(name="Adding Detail to the Alien head", kind="Build",
-  desc="If your new to cosplay, you should Join the Foam Fanatics.",
+ dict(name="Making Plastic Tubbing into Rubber tubbing", kind="Build",
+  desc="While building my Foam Alien head.",
   videos=[
-   "sgUZ48ciEf4",  # 2025-11-03 EVIL TED LIVE: Adding Detail to the Alien head.
-   "tByL8X7gBgU",  # 2025-11-10 EVIL TED LIVE:Foam Alien Head, Adding more detail.
+   "ZwPcYAs909A",  # 2025-12-12 Making Plastic Tubbing into Rubber tubbing.
   ],
  ),
  dict(name="Altering Alien Torso pattern", kind="Build",
@@ -819,11 +699,10 @@ INVENTIONS = [
    "TbQnUcu3Xio",  # 2026-03-16 EVIL TED LIVE: Altering Alien Torso pattern.
   ],
  ),
- dict(name="Cutting & glueing Alien Shoulder Tubes", kind="Build",
-  desc="Cutting out my test patterns for my Alien Shoulder Tubes.",
+ dict(name="Making Aliens Back Tubes", kind="Build",
+  desc="The Alien back tube pattern is a success.",
   videos=[
-   "sXQdC1TcjnI",  # 2026-02-09 EVIL TED LIVE: Patterning Aliens shoulder tubes..
-   "d71nWkBx8pI",  # 2026-02-16 EVIL TED LIVE:  Cutting & glueing Alien Shoulder Tubes.
+   "gkLhK20VzBI",  # 2026-02-02 EVIL TED LIVE: Making Aliens Back Tubes.
   ],
  ),
  dict(name="Making control panels", kind="Build",

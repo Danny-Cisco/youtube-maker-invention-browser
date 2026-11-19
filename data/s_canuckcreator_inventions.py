@@ -7,13 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'canuck-creator', 'name': 'Canuck Creator', 'person': 'Canuck Creator', 'tagline': 'Makes things, and makes things that make things.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Voron 2 tapechain test", kind="Build",
-  desc="Voron 2 tapechain test.",
-  videos=[
-   "6paAzvtrJSQ",  # 2018-06-16 Voron 2 tapechain test
-   "7uxA30jcw_0",  # 2018-06-17 Voron 2 tapechain test 2
-  ],
- ),
  dict(name="Voron v2 ABS print speed Demo", kind="Build",
   desc="Just an example of practical ABS print speeds, printing parts for an extruder",
   videos=[
@@ -43,16 +36,22 @@ INVENTIONS = [
    "tPl-X-tKCnU",  # 2019-01-30 Voron V2 Build and Source Pt5 Motors and Controllers
   ],
  ),
- dict(name="Cleaning and re-lubricating MGN carriages", kind="Build",
-  desc="PLEASE READ FIRST: This video was made during a time when most rails were pretty gritty out of the bag.",
-  videos=[
-   "i_F7D4UgkWY",  # 2019-02-24 Cleaning and re-lubricating MGN carriages (READ DESCRIPTION FIRST!)
-  ],
- ),
- dict(name="Measuring Vref and setting current", kind="Build",
+ dict(name="Mobius 3 Assembly", kind="Build",
   desc="Link to all voron information and community Links",
   videos=[
-   "E6RWysjlaP4",  # 2019-04-15 Measuring Vref and setting current
+   "spauUSSe_U8",  # 2019-02-21 Mobius 3 Assembly
+  ],
+ ),
+ dict(name="Assembling Limit Switches", kind="Build",
+  desc="Link to all voron information and community Links",
+  videos=[
+   "fKyn02Ntz7A",  # 2019-04-07 Assembling Limit Switches
+  ],
+ ),
+ dict(name="Converting a Ramps to 24volts", kind="Build",
+  desc="Converting a Ramps to 24volts.",
+  videos=[
+   "3eRuHNw-Uz8",  # 2019-05-06 Converting a Ramps to 24volts
   ],
  ),
  dict(name="Mosquito Hotend and Voron Quickchange Toolhead assembly", kind="Build",
@@ -61,11 +60,10 @@ INVENTIONS = [
    "cbWu6Kxm2vo",  # 2019-05-19 Mosquito Hotend and Voron Quickchange Toolhead assembly
   ],
  ),
- dict(name="Vzero Speed Printing", kind="Build",
-  desc="Printed on a Voron Vzero Pre-final release revision.",
+ dict(name="Making a silicone sock for the Mosquito hotend", kind="Build",
+  desc="The mosquito hotend does not currently have an commercially available sock available, so i will show you how to make your own",
   videos=[
-   "GOJxrVSsFIo",  # 2020-04-04 Vzero first print
-   "2ryWSUgJvHw",  # 2020-04-09 Vzero Speed Printing
+   "LIbQROgT8h0",  # 2019-05-26 Making a silicone sock for the Mosquito hotend
   ],
  ),
  dict(name="Voron Vzero Preview", kind="Build",
@@ -85,6 +83,12 @@ INVENTIONS = [
    "WjSCCPyG0G8",  # 2021-02-01 Voron Vzero FULL BUILD - Timelapse
   ],
  ),
+ dict(name="Voron v2 gantry tramming and z offset mechanics", kind="Build",
+  desc="Just a quick rundown of how the gantry tramming and z offset switch works on a voron v2",
+  videos=[
+   "fqDczaqE5sM",  # 2020-04-15 Voron v2 gantry tramming and z offset mechanics
+  ],
+ ),
  dict(name="High Speed V2.4 Printing", kind="Build",
   desc="Just putting her through the paces, all speeds set to 150mm/s with 6k acceleration.",
   videos=[
@@ -93,11 +97,10 @@ INVENTIONS = [
    "ITfQ4PRu8KE",  # 2020-06-28 V2.4 Build Epilogue Livestream -Tips and Firmware Stuff
   ],
  ),
- dict(name="Pushing the limit", kind="Build",
-  desc="Pushing the limit.",
+ dict(name="Voron 2.4 Building Z modules and QA", kind="Build",
+  desc="Live stream of the assembly of the Z portion of the voron v2.4 printer.",
   videos=[
-   "g_qSkcwGln8",  # 2020-05-02 Pushing the limit
-   "rNC9x3JJwzY",  # 2024-09-07 Pushing The Limits of Materials and 3D Printing at Pantheon
+   "McImjsiQ38w",  # 2020-05-10 Voron 2.4 Part 1 Building Z modules and QA
   ],
  ),
  dict(name="Voron V2.4 Gantry Assembly & QA", kind="Build",
@@ -129,22 +132,22 @@ INVENTIONS = [
    "2WubmtOTeL8",  # 2020-05-22 Build Your own Stream Deck For Under 20$
   ],
  ),
- dict(name="Solving Gantry Racking", kind="Build",
-  desc="Video overview on how to solve common racking issues on the voron v2, the tips in this video also cover the v1/v0 and other corexy printers",
-  videos=[
-   "cOn6u9kXvy0",  # 2020-06-04 Solving Gantry Racking
-  ],
- ),
  dict(name="Choosing a Hotend", kind="Build",
   desc="This turned out longer than i thought it would yet still doesnt cover everything, but i feel is enough to make a valid decision",
   videos=[
    "kTI86ZhNLTw",  # 2020-06-18 Choosing a Hotend
   ],
  ),
- dict(name="Blind Joint Basics", kind="Build",
-  desc="Blind joint are a strong, cost effective and simple way of attaching aluminum extrusions together",
+ dict(name="Belt Printer Downsides?-DONT FORGET ABOUT THIS", kind="Build",
+  desc="Yes this was a super basic test, and there's many untested variables, but I believes the results still hold true and this is something you need to think about before buying a infinite Z printer, especially if you plan…",
   videos=[
-   "2dvbn0rWA60",  # 2020-06-25 Blind Joint Basics
+   "TOlxvMnFcow",  # 2020-10-28 Belt Printer Downsides?-DONT FORGET ABOUT THIS
+  ],
+ ),
+ dict(name="Klipper & Fluidd & Config & Print THE", kind="Build",
+  desc="Setting up the firmware, trying out Fluidd (then switch back to mainsail due to technical issues), and hopefully pushing some plastic.",
+  videos=[
+   "C3RCS4oS5Os",  # 2020-11-06 Klipper & Fluidd & Config & Print THE STREAM - Bonsai build pt 4
   ],
  ),
  dict(name="Add a bed probe to your printer FOR UNDER 5 DOLLARS", kind="Build",
@@ -153,23 +156,10 @@ INVENTIONS = [
    "ZF-XiKs-XUs",  # 2020-11-10 Add a bed probe to your printer FOR UNDER 5 DOLLARS!
   ],
  ),
- dict(name="The Switchwire Switchup", kind="Build",
-  desc="Some CoreXZ fun tonight, printer demo and QA",
+ dict(name="Klipper Duet Conversion-Klipperizing V2.026", kind="Build",
+  desc="Installing Klipper on a duet powered v2.4",
   videos=[
-   "WX5MWqfaLnA",  # 2020-11-15 The Switchwire Switchup Livestream
-  ],
- ),
- dict(name="Phaetus Dragonfly", kind="Build",
-  desc="This video is more of an overview and my thoughts on after using this hotend after a few weeks of use.",
-  videos=[
-   "JOOow-SwVHk",  # 2020-12-01 Phaetus Dragonfly - The best not best hotend?
-  ],
- ),
- dict(name="Max Out Acceleration", kind="Build",
-  desc="Recap of last weeks livestream, finding out your printers max acceleration, why use MZV over recommended input shaper, and is tape ok for the accelereometer?",
-  videos=[
-   "zPgZB6TjZP4",  # 2020-12-06 Input shaper and you, Maxing acceleration with klipper-Livestream
-   "IezqWVZZ_iI",  # 2021-03-11 MAX OUT ACCELERATION - Find your printers limit with input shaper!
+   "ndje-R7UovI",  # 2020-11-29 Klipper Duet Conversion-Klipperizing V2.026 Livestream
   ],
  ),
  dict(name="Paneldue with Klipper- How to make it work", kind="Build",
@@ -178,10 +168,10 @@ INVENTIONS = [
    "G7yqrAaUMPw",  # 2020-12-07 Paneldue with Klipper- How to make it work (its easy)
   ],
  ),
- dict(name="Fastest Benchy Yet", kind="Build",
-  desc="Printed on my voron v2.4 in esun abs+.",
+ dict(name="Power through power failures with a UPS for your 3d Printer", kind="Build",
+  desc="Quick video today, in the process of getting the new printer room setup.",
   videos=[
-   "hAREFjd35FQ",  # 2020-12-17 Fastest Benchy Yet! - Pushing the limits of 3D printing
+   "Qs8D_cMlyDo",  # 2020-12-16 Power through power failures with a UPS for your 3d Printer
   ],
  ),
  dict(name="Voron Switchwire Build in SIX MINUTES", kind="Build",
@@ -211,7 +201,6 @@ INVENTIONS = [
   desc="Due to all the questions I get about Klipper, decided to turn the camera on and talk about it for a bit (and then edit it down to a more manageable video)",
   videos=[
    "iNHta6zljoM",  # 2021-02-10 Klipper 3d Printer Firmware - What is it? Why do I want it?
-   "gfpovViNu0U",  # 2022-03-12 Install Klipper on ANY 3d printer - Part 1 - Intro and the Basics
    "QYG0PJIvqCI",  # 2022-03-17 Install Klipper on ANY 3d printer - Part 2 - Create a config from scra
    "X-NUu-7HrO4",  # 2022-03-19 Install Klipper on ANY 3d printer - Part 3 - Adding New Features
   ],
@@ -235,16 +224,10 @@ INVENTIONS = [
    "T-knWbh1Gg8",  # 2021-02-22 Klipper Initial Setup : Making sure things are all good before printin
   ],
  ),
- dict(name="Input Shaper Crash Course", kind="Build",
-  desc="I tried to condense as much information and cover a input shaper install in a manageable sized video.",
+ dict(name="Modding the Ender3 while we wait on Ali orders", kind="Build",
+  desc="Modding the Ender3 while we wait on Ali orders Livestream.",
   videos=[
-   "OoWQUcFimX8",  # 2021-02-25 INPUT SHAPER CRASH COURSE - Print FASTER and BETTER!
-  ],
- ),
- dict(name="BONDTECH LGX - Install and first prints", kind="Build",
-  desc="Tonight we will be installing the LGX in the afterburner toolhead and giving it a whirl, gonna see how well it works when pushing high extrusion limits and giving first impressions",
-  videos=[
-   "v3B2TDN1moY",  # 2021-03-14 BONDTECH LGX - Install and first prints - LIVESTREAM
+   "F-iaL1um_1U",  # 2021-02-28 Modding the Ender3 while we wait on Ali orders Livestream
   ],
  ),
  dict(name="Bondtech LGX Extruder", kind="Build",
@@ -272,12 +255,6 @@ INVENTIONS = [
   desc="Assembling the printer bed for the upcoming voron v1.8 printer build.",
   videos=[
    "vZx4vfevwx4",  # 2021-04-15 Cast Aluminum Printer Bed - Putting together the best DIY print platfo
-  ],
- ),
- dict(name="Lets Talk About Voron Kits", kind="Build",
-  desc="The toothed Idlers ARE correct profile, been awhile since i actually looked at mxl/2gt and got them mixed up when it comes to profile of the idler itself",
-  videos=[
-   "BEdsHlHA2C8",  # 2021-04-21 Lets Talk About Voron Kits - Livestream
   ],
  ),
  dict(name="V2.026 Overhaul", kind="Build",
@@ -317,6 +294,12 @@ INVENTIONS = [
    "VNRJP9zxvbw",  # 2021-09-08 Klipperscreen - The Touchscreen Interface for Klipper
   ],
  ),
+ dict(name="Much A-Do about the Ender 3V2", kind="Build",
+  desc="Remember, we dont make mistakes, just happy accidents, Print your own chibi Bob Ross today!",
+  videos=[
+   "O4xT3C2HPsI",  # 2021-09-12 Livestream - Much A-Do about the Ender 3V2 (modding it)
+  ],
+ ),
  dict(name="The Enraged Rabbit Carrot Feed", kind="Build",
   desc="The ERCF is an open source MMU designed to be expandable to suit the users needs, While this project is mainly dedicated to be used on VORON printers, it can also be used (or adapted) on any 3D printer that runs Klipp…",
   videos=[
@@ -331,22 +314,28 @@ INVENTIONS = [
    "ccwiylrg7KM",  # 2022-02-12 The Enraged Rabbit Carrot Feed - The open source customizable MMU
   ],
  ),
- dict(name="E3D Revo - The future of hotends? Impressions from the beta", kind="Build",
-  desc="After spending a few months with the Revo beta unit and now that its been shown and ive spoken about it on stream a few times, thought it take the time to condense some of my thoughts and opinions on it in one place a…",
+ dict(name="THE FUTURE! - E3D Revo Nozzlebreak Change", kind="Build",
+  desc="This was recorded using a unit from the beta test",
   videos=[
-   "knbNXwmIH7o",  # 2021-10-14 E3D Revo - The future of hotends? Impressions from the beta
+   "X2MCzX3UQ90",  # 2021-09-28 THE FUTURE! - E3D Revo Nozzlebreak Change - (v7 beta unit) #Shorts
   ],
  ),
- dict(name="Pi Zero 2, Your 3D Printers New Best Friend", kind="Build",
-  desc="The new Raspberry Pi Zero 2 is OUT",
+ dict(name="E3D Revo vs HF Dragon Heatup Comparison", kind="Build",
+  desc="Comparing my Revo Beta unit vs a Phaetus Dragon HF hotend",
   videos=[
-   "l7gjxqTY1Rk",  # 2021-11-12 Pi Zero 2, Your 3D Printers New Best Friend?
+   "pMNrQVcMKIo",  # 2021-09-29 E3D Revo(v7) vs HF Dragon Heatup Comparison
   ],
  ),
- dict(name="High Flow Sunday", kind="Build",
-  desc="Installing the Rapido HF hotend with some CHT nozzles on the tallboi and upgrading to the stealthburner",
+ dict(name="Pellets to Printing", kind="Build",
+  desc="I know this type of thing isn't my usual content, and was definitely a learning process for me in more ways then one, but this was a video I thoroughly enjoyed creating and I hope you enjoy it too.",
   videos=[
-   "0bsint5WbZg",  # 2021-11-28 HIGH FLOW SUNDAY LIVESTREAM - Phaetus Rapido + Bondtech CHT
+   "sh1P99tIwdo",  # 2021-10-07 Pellets to Printing - How 3D Printer Filament Is Made
+  ],
+ ),
+ dict(name="Fast Scrap - - How much printer do you need to go fast", kind="Build",
+  desc="Servos, blower fans, 48v, heater large enough to melt adamantium?",
+  videos=[
+   "Be6vBRfVDiY",  # 2021-10-14 Fast Scrap - LIVESTREAM - How much printer do you need to go fast?
   ],
  ),
  dict(name="Voron Trident R2 Build", kind="Build",
@@ -373,19 +362,6 @@ INVENTIONS = [
    "aCSun1IAg9k",  # 2026-11-08 INDX install on a VORON TRIDENT - Part 1 #3dprinting #livestream
    "Z0oFCxbvPco",  # 2026-11-10 INDX install on a VORON TRIDENT - Part 2 #3dprinting #livestream
    "G7Ps3tcZbPo",  # 2026-11-13 INDX install on a VORON TRIDENT - Part 3 #3dprinting #livestream
-  ],
- ),
- dict(name="Lubrication Basics", kind="Build",
-  desc="A common question I get asked is how do I properly apply grease to my printers motion components, in this video will cover the basics using methods I've found work well over the years and touch on some other related s…",
-  videos=[
-   "UYvhYjkBFTY",  # 2022-01-05 Lubrication Basics - Keep your 3D printer running smooth and quiet
-  ],
- ),
- dict(name="The E3D Revo VORON", kind="Build",
-  desc="Many months in the works, and now here it is, MASSIVE shout outs to Wile.e for spearheading the CAD work and design of the Revo Voron (and for all the sexy pictures in the video as well) Doc for somehow getting this p…",
-  videos=[
-   "bLsBjfE5DY4",  # 2022-01-12 The E3D Revo VORON - THE rigid mount heatsink for the Revo Ecosystem
-   "0i-QYghhNcA",  # 2022-01-13 E3D Revo Voron - In action #Shorts
   ],
  ),
  dict(name="The SKR PICO - Small yet mighty controller for your 3d printer", kind="Build",
@@ -425,12 +401,6 @@ INVENTIONS = [
    "BtqXnxQ4BBc",  # 2022-04-01 Voron V2.4r2 LDOmotors kit Livestream build-  PART 8 - FINAL! #3dPrint
   ],
  ),
- dict(name="Quick Klipper Tips", kind="Build",
-  desc="How to keep the lights from flickering?",
-  videos=[
-   "GhuBHEcjNH4",  # 2022-02-18 Quick Klipper Tips - Expanding your 3dp toolkit
-  ],
- ),
  dict(name="The MICRON 3D Printer", kind="Build",
   desc="Building the Micron 3d printer, This kit was provided by DFH for the purposes of building and evaluating",
   videos=[
@@ -446,12 +416,6 @@ INVENTIONS = [
    "8xQhVSatlLg",  # 2022-05-15 The MICRON 3D Printer - Livestream Build - FINAL! #3dPrinting
   ],
  ),
- dict(name="Input Shaper with a Pi Pico", kind="Build",
-  desc="In this video we cover how to setup a Raspberry Pi Pico as a secondary MCU and pair it with an adxl345 accelerometer to run input shaper with Klipper",
-  videos=[
-   "W_VHbT_tsZw",  # 2022-03-25 Input Shaper with a Pi Pico - Klipper Tips
-  ],
- ),
  dict(name="Lets Build a PRUSA", kind="Build",
   desc="Lets Build a PRUSA - MK3S+ Kit Livestream - PART 1 #3dprinting.",
   videos=[
@@ -461,13 +425,10 @@ INVENTIONS = [
    "EYiM-0IzrXk",  # 2022-05-10 Lets Build a PRUSA - MK3S+ Kit Livestream - PART 4 #3dprinting
   ],
  ),
- dict(name="3 Cool things FOR YOU from RAPID+TCT 2025", kind="Build",
-  desc="Rapid was amazing and it was a great opportunity to see some really cool things but also chat with some amazing people.",
+ dict(name="First Printer Pitfalls", kind="Build",
+  desc="After being on the receiving end of MANY questions over the years from people sourcing their first 3d printers, and then dealing with issues that arise from said printers, i really think its time we stop recommend the…",
   videos=[
-   "CmsqlsKU5Uc",  # 2022-05-19 @ Rapid+TCT 2022 - With Printed Solid, LDO motors and 3dxTech
-   "BOmaXAVWHcU",  # 2023-06-11 Heavy Metal Rocket Engines with Velo 3D -Rapid+TCT 2023 #3dprinting
-   "ZLi7y6UvmQc",  # 2025-04-12 Rapid TCT 2025, (not quite) Live from the floor!
-   "hM1sp5oho3Q",  # 2025-04-17 3 Cool things FOR YOU from RAPID+TCT 2025!
+   "mH_VmGMKv80",  # 2022-05-07 First Printer Pitfalls - Why do we do this?
   ],
  ),
  dict(name="A TANK of a 3d printer and Metal Sandwiches", kind="Build",
@@ -477,7 +438,7 @@ INVENTIONS = [
    "e2Tfv-gJ-iY",  # 2026-07-25 Do you REALLY want a metal 3d printer?
   ],
  ),
- dict(name="Working on things", kind="Build",
+ dict(name="Working on things", kind="Restoration",
   desc="No big plans for stream today, just wrapping up a few small projects and doing some printing",
   videos=[
    "EqgPKO4DxPg",  # 2022-05-24 Working on things - Random 3dp projects - LIVESTREAM #3d printing
@@ -504,54 +465,10 @@ INVENTIONS = [
    "IdgWbW-0Mhs",  # 2022-06-19 More than a pile of parts - Non-Prusa Mini+ Kit Build Part 3- LIVESTRE
   ],
  ),
- dict(name="The X-1 Carbon", kind="Build",
-  desc="Last stream we got the Bambulab Carbon X-1 unboxed, setup and printing, now lets go ahead and add the AMS to it, this allows 4 filament feed to the machine through a multi material setup, how well does it work?",
+ dict(name="FLSUN V400 - An ultrafast Delta printer WITH KLIPPER! - #3dprinting #3", kind="Build",
+  desc="Want to get your hands on some great filament and help out the channel at the same time?",
   videos=[
-   "5lEFsbcpGIc",  # 2022-06-10 THE X-1 CARBON - LIVE AMS Multi Material Setup #3dprinting #3d
-  ],
- ),
- dict(name="Thermal Runaway", kind="Build",
-  desc="During testing of the Creality sonic pad, we ran into thermal runaways almost right away with one of my printers, lets to some investigating and see what the cause could be",
-  videos=[
-   "4YV2uKDPiBc",  # 2022-06-16 Voxelab Aries Thermal Runaway Test
-   "Xdn6a5Vte70",  # 2022-10-07 Thermal Runaway - Not A Good Start With The Creality Sonic Pad
-  ],
- ),
- dict(name="Mrrf 2023 - Recap", kind="Build",
-  desc="Miss out on the Midwest RepRapFest this year?",
-  videos=[
-   "ZKHAk4WmA2c",  # 2022-06-25 Live @ MRRF 2022! (Hey, the WIFI actually worked!)
-   "FXkFq6PjGZY",  # 2022-06-30 MRRF 2022 - PART 1 - Project R3D & Duet3D
-   "b7cPgig2rIA",  # 2022-07-02 Chocolate and 2-headed Vorons? MRRF - PART 2
-   "p8h7Wrk3QMY",  # 2023-06-22 Prep For MRRF stream (offloading printers?) #livestream  #3dprinting
-   "r_CGMkmnPSY",  # 2023-06-27 Back From MRRF and Printing ROOK parts #livestream #3dprinting
-   "-H0LwXfOCVk",  # 2023-07-02 MRRF 2023 - RECAP!
-   "ZToUXOBraB0",  # 2024-06-22 Live at MRRF 2024
-   "3Ki0aMsKIAY",  # 2024-06-25 Back from MRRF and Back in the Shop #livestream #3dprinted
-   "rAWpV-8NP7I",  # 2024-07-20 MRRF 2024 Recap
-  ],
- ),
- dict(name="Marble Parkour", kind="Build",
-  desc="And now for something completely different",
-  videos=[
-   "Wpf_nEWgfho",  # 2022-07-19 MARBLE PARKOUR - Marble Run Build Livestream!
-   "ftwbPlYzxnc",  # 2022-07-26 MARBLE PARKOUR AND MORE! - Marble Run Wrap-up and other things #3d #3d
-  ],
- ),
- dict(name="Judging your 3d Printing Setups", kind="Build",
-  desc="Want to get your hands on",
-  videos=[
-   "RweiKYEjA-w",  # 2022-07-22 Judging your 3d Printing Setups (PART 1) - #livestream #3d #3dprinting
-   "6F0PgNj3d-4",  # 2022-07-24 Judging your 3d Printing Setups (PART 2) - #livestream #3d #3dprinting
-   "EJ7crVf85ng",  # 2023-09-22 Judging your 3d Printing Setups AGAIN! - #livestream #3d #3dprinting
-  ],
- ),
- dict(name="ULTEM-ate Fail, Printing Ultem #3dprinting #3d", kind="Build",
-  desc="We`ve got some Ultem 1010, and a printer with some insulation, but beyond that nothing out of the ordinary, i mean, how hard could could it be to print anyways?",
-  videos=[
-   "uY52aC9WvaU",  # 2022-08-14 ULTEM-ate Fail, Printing Ultem (or trying to, the front fell off) #liv
-   "o-1eycRBQXQ",  # 2024-06-26 PLA 3D PRINT FAIL #shorts #fail #fails #3dprinting #3d
-   "vvhg3Sqan3I",  # 2026-09-27 5 axis 3d printing #3dprinting
+   "IQDABfqJv5I",  # 2022-07-05 FLSUN V400 - An ultrafast Delta printer WITH KLIPPER! - #livestream #3
   ],
  ),
  dict(name="Blast from the Past", kind="Build",
@@ -560,15 +477,6 @@ INVENTIONS = [
    "wzeop18-3XE",  # 2022-08-21 Blast from the Past - Build the VORON 1.0 #livestream #3dprinting #3d
    "iap-_OhPhag",  # 2022-08-23 Blast from the Past - Build the VORON 1.0 PART 2  #livestream #3dprint
    "gYv6yOnq_5U",  # 2022-08-28 Blast from the Past - Build the VORON 1.0 PART 3  #livestream #3dprint
-  ],
- ),
- dict(name="September OnlyBenchies Yacht Club", kind="Build",
-  desc="Missed this stream live?",
-  videos=[
-   "PjKeRU82C2k",  # 2022-08-25 July OnlyBenchies Yacht Club Stream
-   "D_D4A0nlojM",  # 2022-09-29 AUGUST OnlyBenchies Yacht Club Stream
-   "lhorZ8E8-hs",  # 2022-10-19 September OnlyBenchies Yacht Club Stream
-   "veQW3M3TiO0",  # 2022-11-16 OCTOBER OnlyBenchies Yacht Club Stream
   ],
  ),
  dict(name="Lets Build A Salad Fork", kind="Build",
@@ -604,23 +512,14 @@ INVENTIONS = [
    "UySoQg0RwuQ",  # 2022-11-29 SecKit  SK-CUBE Build - Steel Frame Printer Kit - Part 8 Print Time? #
   ],
  ),
- dict(name="Like At Errf 2022", kind="Build",
-  desc="Want to get your hands on some great filament from Polymaker and help out the channel at the same time?",
-  videos=[
-   "XJ3y5Pn7FOM",  # 2022-10-08 Like At Errf 2022 (sponsored by Printed Solid)
-   "Ygej8qZ7Xj4",  # 2022-10-11 ERRF 2022 Walkthrough #3d #3dprinting
-   "gHSG8OxTJys",  # 2023-09-30 Streaming Live ERRF 2023 part 1
-   "5vv9SGV_ano",  # 2023-09-30 NERO 3D is live! at ERRF part 2
-  ],
- ),
- dict(name="5 Axis Printing, Positron Kits and Hotends ERRF Recap", kind="Build",
+ dict(name="5 Axis Printing, Positron Kits and Hotends ERRF Recap", kind="Restoration",
   desc="In todays video we are taking a look at the DropEffect XG hotend, 5 Axis Printing with OPEN 5X, OBXIDIAN IS HERE and the potential of Positron kits from LDO motors",
   videos=[
    "qY2lyQhHTQ4",  # 2022-10-13 5 Axis Printing, Positron Kits and Hotends ERRF Recap - Part 1 #3d #3d
    "lV-VbUEuAuY",  # 2024-07-16 FIRST PRINTS ON THE POSITRON - The UPSIDE DOWN CoreXY Compact Printer 
   ],
  ),
- dict(name="Pop Bottles into Filament and Dyze Designs ERRF Recap", kind="Build",
+ dict(name="Pop Bottles into Filament and Dyze Designs ERRF Recap", kind="Restoration",
   desc="In todays video we are taking a look at turning pop bottles into usable filament with Recreator3d and also seeing what Dyze Designs has in store",
   videos=[
    "IimIIFVI-dU",  # 2022-10-16 Pop Bottles into Filament and Dyze Designs ERRF Recap - Part 3 #3d #3d
@@ -634,18 +533,17 @@ INVENTIONS = [
    "2V2lvFSPOho",  # 2023-10-27 Cosplay, Props and Costumes! - OCTOBER COMMUNITY CHALLENGE #livestream
   ],
  ),
+ dict(name="Stop The Drop", kind="Build",
+  desc="In todays video we are installing and giving the Project R3D Z Motor Brake board a test drive and seeing how it holds the line",
+  videos=[
+   "-39GtYVHS6M",  # 2022-11-27 STOP THE DROP! - Project R3D Zmotor Brake Board #3dprinting
+  ],
+ ),
  dict(name="Mill and Chilll", kind="Build",
   desc="Messing around with the Comgrow Robo CNC, new z axis and spindle installed, now to wire it all up!",
   videos=[
    "pWlfM4gzWGI",  # 2022-12-02 Mill and Chilll -  Upgrading Z-Axis and BLDC Spindle #livestream #cnc
    "jVS8YgaeRWE",  # 2022-12-06 Mill and Chilll -  Wiring up the Spindle #livestream #cnc
-  ],
- ),
- dict(name="Biqu Hurakan - The Klipper Guy Checks it out #3dprinting", kind="Build",
-  desc="Want to get your hands on some great filament and help out the channel at the same time?",
-  videos=[
-   "NYvgtZn5Bow",  # 2022-12-09 Biqu Hurakan - The Klipper Guy Checks it out #3dprinting #livestream
-   "1cHzBcLJffQ",  # 2025-08-19 Checking Out KALICO KLIPPER   #livestream #3dprinting
   ],
  ),
  dict(name="ODONATA HD - A DIY opensource FPV Quadcopter - Build and test", kind="Build",
@@ -674,12 +572,6 @@ INVENTIONS = [
    "kB75zyp9DqM",  # 2023-01-14 Machining Carbon Fiber Voron 3D Printer Parts
   ],
  ),
- dict(name="Re-Box and Fix", kind="Build",
-  desc="So we got ourselves and old MP Delta thats kinda, half a printer here,",
-  videos=[
-   "Uvyy_-11CLU",  # 2023-01-15 Re-Box and Fix - This Old MP Delta  LIVESTREAM! #livestream #3dprintin
-  ],
- ),
  dict(name="Voron TAP Install and Setup", kind="Build",
   desc="Voron TAP is the new toolhead mount for Voron Design printers that allows you to use the printers nozzle itself as an extremely accurate (up to 0.0004mm) reliable bed probe.",
   videos=[
@@ -688,18 +580,10 @@ INVENTIONS = [
    "mJNCn72lQpU",  # 2023-02-04 Voron TAP Install and Setup - #3dprinting
   ],
  ),
- dict(name="This Old Delta ! #3dprinting", kind="Build",
-  desc="Want to get your hands on some great filament and help out the channel at the same time?",
+ dict(name="Twisted Motion Making Your Probe Fail? #3dprinting #3d", kind="Build",
+  desc="Your printer has one of them new fangled fancy bed probes, but for some reason, your first layers still suck, well, partially at least, and seems to be always in the same area, whats going on?",
   videos=[
-   "Hmx1pODePck",  # 2023-01-25 This Old Delta Part 2  LIVESTREAM! #livestream #3dprinting
-   "x9pADgWswT0",  # 2023-01-29 This Old MP Delta Mini LIVESTREAM! #livestream #3dprinting
-   "j7OwkdzJ7cM",  # 2023-02-26 This Old MP Delta Mini - Going the RRF RouteEdition!  #livestream #3dp
-  ],
- ),
- dict(name="Fix your Bambulab X1C/P1P faulty bed! #3dprinting #", kind="Build",
-  desc="The Bed sensors are on the fritz on my Bambulab X1C, and in todays video I'm going to show you a simple fix that may solve your troubles if this issue is affecting your machine that can be done with nothing more than …",
-  videos=[
-   "Fb3LNc1WQnA",  # 2023-01-29 Fix your Bambulab X1C/P1P faulty bed! #3dprinting #
+   "qju5RECjVUM",  # 2023-01-21 Twisted Motion Making Your Probe Fail? #3dprinting #3d
   ],
  ),
  dict(name="Voron V0.2 Build", kind="Build",
@@ -730,28 +614,10 @@ INVENTIONS = [
    "i8GIM1xe_vk",  # 2023-05-16 RatRig V-Core 3.1-200 Build - PART 11 #livestream #3dprinting
   ],
  ),
- dict(name="Klipper Setup on the Orange Pi with Kiauh", kind="Build",
-  desc="Finding an RPi in stock is hard, let alone finding one for non-scalper price, so why not try one of the alternatives.",
-  videos=[
-   "Dh6bEB6iYa8",  # 2023-02-18 Klipper Setup on the Orange Pi with Kiauh - RPi Alternative #3dprintin
-  ],
- ),
- dict(name="Sovol SV06 PLUS", kind="Build",
-  desc="I want to thank Sovol for sending over the SV06 PLUS for testing and evaluation, this is the LARGER version of their low cost SV06 printer and comes with all the features you would expect out of a modern 3d printer li…",
-  videos=[
-   "6ljYA6A92-c",  # 2023-02-21 Sovol SV06 PLUS - Is it as good JUST BIGGER?  #livestream #3dprinting 
-  ],
- ),
  dict(name="Upgrade your BambuLab AMS with HYDRA", kind="Build",
   desc="The Bambulab AMS system is probably one of, if not the best MMU system on the market at the moment, but its got some limitations, can we solve some of those deficiencies with a 3d print?",
   videos=[
    "DY1eDxNeFfU",  # 2023-03-04 Upgrade your BambuLab AMS with HYDRA!
-  ],
- ),
- dict(name="Resin Printing Is Easy...Right", kind="Build",
-  desc="Should I get a resin printer, should I try out resin printing, what is resin printing?",
-  videos=[
-   "NQTh8OpKRtc",  # 2023-03-24 Resin Printing Is Easy...Right? - feat. Anycubic Photon Mono X2
   ],
  ),
  dict(name="Voron Has a CNC Now? CASCADE @ RMRRF 2024 #3dprinting", kind="Build",
@@ -762,7 +628,7 @@ INVENTIONS = [
    "7g0iSbNkXFg",  # 2024-04-25 Voron Has a CNC Now? CASCADE @ RMRRF 2024 #cnc #3dprinting
   ],
  ),
- dict(name="RMRRF RECAP: Some Funky Printers! #3dprinting", kind="Build",
+ dict(name="RMRRF RECAP: Some Funky Printers! #3dprinting", kind="Restoration",
   desc="RMRRF RECAP PART 2: Some Funky Printers! #3dprinting #rmrrf.",
   videos=[
    "OPlFX77PrE8",  # 2023-04-30 RMRRF RECAP PART 1 #3dprinting #rmrrf
@@ -852,25 +718,6 @@ INVENTIONS = [
    "cce67px7z9Q",  # 2023-10-24 VZBOT 330 Build Series Part 11 #3dprinting #livestream
   ],
  ),
- dict(name="FASTEST WOODY IN THE WORLD! #3dprinting", kind="Build",
-  desc="So before we go and do something like slap klipper on this thing, we need benchmarks which means",
-  videos=[
-   "2LAK9g76mpo",  # 2023-09-15 FASTEST WOODY IN THE WORLD! #3dprinting #livestream
-   "igbOFH3x1QA",  # 2023-10-22 FASTEST WOODY IN THE WORLD! (part 2) #3dprinting #livestream
-  ],
- ),
- dict(name="Something Actually New In 3Dp", kind="Build",
-  desc="Want to get your hands on some great filament from P",
-  videos=[
-   "_rBmcFyJwnc",  # 2023-10-07 SOMETHING ACTUALLY NEW IN 3DP - Peopoly Magneto X
-  ],
- ),
- dict(name="BambuLab X1E - Its a thing I guess", kind="Build",
-  desc="My initial thoughts and impressions of Bambulab`s New printer",
-  videos=[
-   "evLeY82d0XA",  # 2023-10-10 BambuLab X1E - Its a thing I guess
-  ],
- ),
  dict(name="Experimenting with 3D Printed Chocolate", kind="Build",
   desc="Making noms on a 3d printer",
   videos=[
@@ -878,31 +725,28 @@ INVENTIONS = [
    "3o191CE_mog",  # 2025-02-16 Experimenting with 3D Printed Chocolate!
   ],
  ),
- dict(name="Printing hot things in your area! #3dprinting", kind="Build",
-  desc="HOPEFULLY no front falling off shenanigans this time....",
+ dict(name="Heatset Press and Fixing things #3dprinting", kind="Restoration",
+  desc="Making things and fixing things that broke while making things to make the thing",
   videos=[
-   "7ycD_yQHN7g",  # 2023-11-24 Printing hot things in your area!  #3dprinting #livestream
-   "VSbcZV3GT5g",  # 2023-11-26 Printing hot things in your area....AGAIN!  #3dprinting #livestream
+   "G3Zb9F8HbCo",  # 2023-11-15 Heatset Press and Fixing things #3dprinting #livestream
   ],
  ),
- dict(name="BambuLab X1 Custom Firmware is ALMOST Here", kind="Build",
-  desc="Shout out to the X1 Plus team for all the awesome work!",
+ dict(name="Millennium Machines Milo v1.5 at SMRRF 2023", kind="Build",
+  desc="Do you want to know more?",
   videos=[
-   "XcfYgCXaANA",  # 2023-12-26 BambuLab X1 Custom Firmware is ALMOST Here!
-  ],
- ),
- dict(name="BTT KRAKEN INSTALL and CANBUS UPGRADES", kind="Build",
-  desc="Want to get your hands on some great filament and help out the channel at the same time?",
-  videos=[
-   "7OIZmmGl_ng",  # 2024-01-16 BTT KRAKEN INSTALL and CANBUS UPGRADES #livestream
-   "Y4XqlbBiAXA",  # 2024-01-23 BTT KRAKEN INSTALL and CANBUS UPGRADES PART 2 #livestream
-   "4dqDgsm0UX8",  # 2024-01-30 BTT KRAKEN INSTALL and CANBUS UPGRADES PART 3 #livestream
+   "rMXAJjlk7Ns",  # 2024-01-04 Millennium Machines Milo v1.5 at SMRRF 2023
   ],
  ),
  dict(name="3D Chameleon Mk4 at SMRRF2023", kind="Build",
   desc="Do you want to know more?",
   videos=[
    "W8bD4ELm4Ck",  # 2024-01-18 3D Chameleon Mk4 at SMRRF2023 - Better, Smarter AND CHEAPER! #3dprinti
+  ],
+ ),
+ dict(name="The PrintPuter", kind="Build",
+  desc="Be aware, not all hardware may be compatible and modification of the files may be required!",
+  videos=[
+   "cZqsYOi8Otc",  # 2024-01-25 The PrintPuter - Fully 3D Printed Computer Chassis #3dprinting
   ],
  ),
  dict(name="Building My Own POWER ARMOR", kind="Build",
@@ -921,6 +765,12 @@ INVENTIONS = [
    "d53eLyQ60LM",  # 2024-02-18 Building the A8 - TIME FOR SHENANIGANS Part 3 #livestream
   ],
  ),
+ dict(name="LDO NITEHAWK - USB Toolhead Controller Install", kind="Build",
+  desc="The NITEHAWK-SB is a 3d printer tool-head controller board that uses USB instead of the CANBUS protocol to communicate with klipper, this should make the installation method MUCH simpler, so lets check it out LIVE!",
+  videos=[
+   "BMtD8IWVzTI",  # 2024-02-06 LDO NITEHAWK - USB Toolhead Controller Install #livestream
+  ],
+ ),
  dict(name="Milo V1.5 Diy Cnc Build", kind="Build",
   desc="Interested in Snagging a kit for yourself?",
   videos=[
@@ -932,12 +782,6 @@ INVENTIONS = [
    "wm1BSGYRL9s",  # 2024-03-12 MILO V1.5 DIY CNC BUILD LIVESTREAM - PART6 #livestream #cnc
    "M3XzoWYnhjw",  # 2024-03-19 MILO V1.5 DIY CNC BUILD LIVESTREAM - PART7 #livestream #cnc
    "0ttLNZbc4oE",  # 2024-03-26 MILO V1.5 DIY CNC BUILD LIVESTREAM - PART 8 #livestream #cnc
-  ],
- ),
- dict(name="I Gave My 3DS USB-C Charging", kind="Build",
-  desc="Modding the hardware on the new 3ds XL is sometimes almost as easy has installing custom firmware!",
-  videos=[
-   "R2fWabZ-4FE",  # 2024-02-15 I Gave My 3DS USB-C Charging!
   ],
  ),
  dict(name="Prusa Mk3.5 First Prints #3dprinting", kind="Build",
@@ -968,23 +812,23 @@ INVENTIONS = [
    "l2jW-QlLey0",  # 2024-03-19 I Built My Own HELLDIVERS Helmet #3dprinting #helldivers2 #cosplay #di
   ],
  ),
- dict(name="Unlock your Creality", kind="Build",
-  desc="Want to give your creality K1 series a full proper webUI with Fluidd or Mainsail and not the limited \"CrealityPrint\"",
-  videos=[
-   "wg9sQPXQnSE",  # 2024-03-28 Unlock your Creality - "Full" Klipper on the K1 Series #3dprinting
-  ],
- ),
- dict(name="What Is A Voron And Which One Should You Build", kind="Build",
-  desc="What Is A Voron And Which One Should You Build?.",
-  videos=[
-   "5G2kiO6GGsY",  # 2024-04-18 What Is A Voron And Which One Should You Build?
-  ],
- ),
  dict(name="Working On Printers, XOL/CBI/EDM? #3dprinting", kind="Build",
   desc="Want to get your hands on some great filament and help out the channel at the same time?",
   videos=[
    "fFBZY_HrXVs",  # 2024-04-26 Working On Printers, XOL/CBI/EDM? #livestream #3dprinting
    "2uWAsE5ssbo",  # 2025-10-17 Why Printer No Work?!?!?! #livestream  #3dprinting
+  ],
+ ),
+ dict(name="Is your 3D Printer Violating USA Sanctions?? #3dprinting", kind="Build",
+  desc="Is your 3D Printer Violating USA Sanctions?? #3dprinting.",
+  videos=[
+   "GwtOZz_8X94",  # 2024-05-17 Is your 3D Printer Violating USA Sanctions?? #3dprinting
+  ],
+ ),
+ dict(name="Practical Prints and Projects to keep your 3D printer BUSY! #3dprintin", kind="Build",
+  desc="Links for things talked about in video:",
+  videos=[
+   "jPGKQcLwGTc",  # 2024-05-24 Practical Prints and Projects to keep your 3D printer BUSY! #3dprintin
   ],
  ),
  dict(name="The Positron - A collapsible, transportable 3d printer Kit", kind="Build",
@@ -1002,25 +846,12 @@ INVENTIONS = [
    "myQu57XKZrY",  # 2024-07-04 This 3D Printer is a BEAST!!! The Pantheon Design HS3! #3dprinting
   ],
  ),
- dict(name="Prusa Mk4S - Consistently Consistent BUT BETTERER! #3dprinting", kind="Build",
-  desc="Cheers to PRUSA for providing this printer for testing and evaluation, want to know more or get one yourself check out",
-  videos=[
-   "UmFPC4VdMIc",  # 2024-08-12 The PRUSA MK4S IS OUT! #3dprinting #3dprinter #prusa #foryou #shorts
-   "lCmm94G-LJY",  # 2024-08-13 Prusa Mk4S - Consistently Consistent BUT BETTERER! #3dprinting #livest
-  ],
- ),
  dict(name="Lets Build a PRUSA MMU3", kind="Build",
   desc="Lets Build a PRUSA MMU3 Part 1 - #livestream #3dprintable #3dprinting.",
   videos=[
    "gFL0AXxcMyw",  # 2024-09-06 Lets Build a PRUSA MMU3 Part 1 - #livestream #3dprintable #3dprinting
    "Nvv3DyQzKaM",  # 2024-09-10 Lets Build a PRUSA MMU3 Part 2 - #livestream #3dprintable #3dprinting
    "UAt-thPwCCg",  # 2024-09-13 Lets Build a PRUSA MMU3 Part 3 LETS WRAP THIS UP! - #livestream #3dpri
-  ],
- ),
- dict(name="How the Tech Tips are MADE! Production tour of LMG #3dprinting", kind="Build",
-  desc="Huge and Massive shout out to Tynan for helping me get this arranged and providing the tour along with answering all my questions.",
-  videos=[
-   "LCS3NfXWu0s",  # 2024-09-19 How the Tech Tips are MADE! Production tour of LMG #manufacturing #3dp
   ],
  ),
  dict(name="4 Things You Missed at 3D Printopia 2024! #3dprinting", kind="Build",
@@ -1083,10 +914,22 @@ INVENTIONS = [
    "shAjV8EYQzk",  # 2026-08-25 PRUSA CORE ONE+ INDX - MultiMaterial Testing #livestream #3dprinting
   ],
  ),
+ dict(name="Build 3D printers in the UK with Construct 3D @ SMRRF24", kind="Build",
+  desc="Build 3D printers in the UK with Construct 3D @ SMRRF24!.",
+  videos=[
+   "sLAU4ZJdI0g",  # 2024-12-24 Build 3D printers in the UK with Construct 3D @ SMRRF24!
+  ],
+ ),
  dict(name="New Bambu Updates Limit Control Of YOUR 3D Printer", kind="Build",
   desc="NEW Blog by Bambu Jan 20 2025",
   videos=[
    "URUyWCreKJI",  # 2025-01-19 New Bambu Updates Limit Control Of YOUR 3D Printer!
+  ],
+ ),
+ dict(name="I Put DEEPSEEK in my 3d Printer #3dprinting", kind="Build",
+  desc="Ya im REALLY new at this whole hosting a local LLM thing, please excuse me calling everything the wrong thing in this video",
+  videos=[
+   "tBcmmeHDwnE",  # 2025-02-01 I Put DEEPSEEK in my 3d Printer (AND YOU CAN TOO!) #3dprinting #ai
   ],
  ),
  dict(name="One week with the PRUSA coreONE, What i've done with it and thoughts o", kind="Build",
@@ -1119,19 +962,6 @@ INVENTIONS = [
    "NoEYh3RHVOs",  # 2025-07-22 Should your Build a KIT 3D Printer in 2025?
   ],
  ),
- dict(name="The Newest 3D Printing Tech From SHANGHAI", kind="Build",
-  desc="The Newest 3D Printing Tech From SHANGHAI!.",
-  videos=[
-   "sgaQqdgDtdA",  # 2025-04-05 The Newest 3D Printing Tech From SHANGHAI!
-  ],
- ),
- dict(name="BONDTECH INDX - This toolchanger is INSANE", kind="Build",
-  desc="Do you want to know more?",
-  videos=[
-   "XRQGVSnzLPg",  # 2025-04-13 BONDTECH INDX - This toolchanger is INSANE!
-   "hBenjKI1nfY",  # 2026-04-25 FINAL LOOK  - INDX Toolchanger from BONDTECH
-  ],
- ),
  dict(name="I had to REBUILD this printer to get it working -Fysetc Venture XL", kind="Build",
   desc="Cheers to BigTreeTech, LDOmotors and LukesLab for providing hardware used for this rebuild (and Fysetc for the original kit)",
   videos=[
@@ -1154,12 +984,16 @@ INVENTIONS = [
    "tlZC4Fe3F80",  # 2026-01-24 I had to REBUILD this printer to get it working -Fysetc Venture XL
   ],
  ),
- dict(name="Voron Phoenix Update from RMRRF2025", kind="Build",
-  desc="Voron Phoenix Update from RMRRF2025.",
+ dict(name="TURTLE TIME with ARMORED TURTLE from RMRRF 2025", kind="Build",
+  desc="TURTLE TIME with ARMORED TURTLE from RMRRF 2025!.",
   videos=[
-   "sJzzZY94FR8",  # 2025-05-29 Voron Cascade CNC UPDATE @ RMRRF2025
-   "UZdlLPFIiNU",  # 2025-06-04 Voron Phoenix Update from RMRRF2025
-   "ODs4XzSiDW8",  # 2026-05-09 CASCADE - Voron Designs NEW CNC!
+   "62lpFWgXwmc",  # 2025-06-08 TURTLE TIME with ARMORED TURTLE from RMRRF 2025!
+  ],
+ ),
+ dict(name="Read Comment/Description For Update", kind="Build",
+  desc="Looks like due to in-ability to provide updates or units to those who pre-ordered this printer, i cannot in good conscious recommend purchasing or pre-ordering this printer from Ston-Wolf, this video will remain up fo…",
+  videos=[
+   "g8xxnCfQ-E0",  # 2025-06-15 READ COMMENT/DESCRIPTION FOR UPDATE - StonWolf 3D printer
   ],
  ),
  dict(name="Big and Smol Printer shennanigans #3dprinting", kind="Build",
@@ -1167,13 +1001,6 @@ INVENTIONS = [
   videos=[
    "qei6h97zUac",  # 2025-07-18 Big Printers Big Problems #3dprinting
    "joHIgGuItpg",  # 2025-11-23 Big and Smol Printer shennanigans #livestream  #3dprinting
-  ],
- ),
- dict(name="Takeoff Chube and Tridents oh my! #3dprinting", kind="Build",
-  desc="Oh ya, we need to finish this mod.....",
-  videos=[
-   "6RggA4jrSRs",  # 2025-07-20 Takeoff Chube and Tridents oh my! #livestream #3dprinting
-   "nEAzXwrbL0c",  # 2025-09-09 CHUBE TRIDENT WRAPUP   #livestream #3dprinting
   ],
  ),
  dict(name="WIRING MY CHUBE! #3dprinting", kind="Build",
@@ -1190,18 +1017,10 @@ INVENTIONS = [
    "iaVp_lD9hZY",  # 2025-08-24 Giant 3D Printed Gundam Build Keeps Going!
   ],
  ),
- dict(name="Can It Multi-Material?- FLASHFORGE CREATOR 5 Tool-Changer #3dprinting", kind="Build",
-  desc="Cheers to flashforge for sending over the creator 5 for testing and review, want to know more or get one for yourself?",
+ dict(name="Whats BTT cooking up? New Printer Upgrades at 3Dprintopia 2025", kind="Build",
+  desc="Whats BTT cooking up? New Printer Upgrades at 3Dprintopia 2025!.",
   videos=[
-   "s_5RUAyhFJk",  # 2025-09-07 how do you multi material? #3dprinting #3dprinterupgrade #3dprinted
-   "3oYyLIKUgm8",  # 2026-06-09 Can It Multi-Material?- FLASHFORGE CREATOR 5 Tool-Changer Livestream #
-  ],
- ),
- dict(name="Saturday Night CAD Adventures #3dprinting", kind="Build",
-  desc="Surely this wont stress out the people who ACTUALLY know CAD in this audience....right?",
-  videos=[
-   "WlfPI00_mVI",  # 2025-09-21 Saturday Night CAD Adventures #3dprinting
-   "DtT4AWYDhmc",  # 2025-10-19 Saturday Night Printing #livestream  #3dprinting
+   "u820sbUhCo8",  # 2025-10-13 Whats BTT cooking up? New Printer Upgrades at 3Dprintopia 2025!
   ],
  ),
  dict(name="DELTA FLYER 3d Printer KIT BUILD! ivestream", kind="Build",
@@ -1278,16 +1097,16 @@ INVENTIONS = [
    "1uPkpNnGggw",  # 2026-04-03 LDO Micron+ Kit build - FIRST PRINT #livestream ivestream
   ],
  ),
+ dict(name="The EMU Expandable Multi-material Unit", kind="Build",
+  desc="The EMU Expandable Multi-material Unit (striking fear in Aussie 3d printers!).",
+  videos=[
+   "oOxozI8QAD0",  # 2026-03-14 The EMU Expandable Multi-material Unit (striking fear in Aussie 3d pri
+  ],
+ ),
  dict(name="Are DIY 3D printers in danger", kind="Build",
   desc="This is a trend i`ve been noticing over the last couple years, and as a content creator focused more on the DIY aspect of 3d printing, its becoming more and more obvious that people are just not as interested in the t…",
   videos=[
    "ps8NPyBlKZM",  # 2026-04-15 Are DIY 3D printers in danger?
-  ],
- ),
- dict(name="Voron Phoenix - The wait is over", kind="Build",
-  desc="Its been a long time coming, and the light is visible at the end of the tunnel, thats a good thing right?",
-  videos=[
-   "3cfrMXQwZfU",  # 2026-05-03 Voron Phoenix - The wait is over!
   ],
  ),
  dict(name="MOG RC TRUCK kit build", kind="Build",
@@ -1323,20 +1142,6 @@ INVENTIONS = [
   videos=[
    "nwzes4XzCTc",  # 2026-09-11 Printing Projects Phriday! #livestream #3dprinting
    "JYs9y1bQO48",  # 2026-10-02 Printing Projects Phriday! #livestream #3dprinting
-  ],
- ),
- dict(name="Prusa CoreONE PLUSSIN TIME! Upgrading Continues #3dprinting", kind="Build",
-  desc="Upgrading the Prusa CoreONE`s and CoreONE L to gen2+",
-  videos=[
-   "iAV_LfuTxOQ",  # 2026-09-18 Prusa CoreONE PLUSSIN TIME! Upgrading #livestream #3dprinting
-   "omnn7D_xyiM",  # 2026-09-20 Prusa CoreONE PLUSSIN TIME! Upgrading Continues #livestream #3dprintin
-   "nudMX7x0sWw",  # 2026-09-22 Prusa CoreONE PLUSSIN TIME! Upgrading AGAIN! #livestream #3dprinting
-  ],
- ),
- dict(name="PRUSA INDX - Initial Impressions and is it all good", kind="Build",
-  desc="PRUSA INDX - Initial Impressions and is it all good?.",
-  videos=[
-   "NmaH0SXjWzI",  # 2026-10-04 PRUSA INDX - Initial Impressions and is it all good?
   ],
  ),
  dict(name="Scout Trooper Build", kind="Build",

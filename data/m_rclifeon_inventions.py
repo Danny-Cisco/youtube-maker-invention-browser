@@ -7,21 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'rclifeon', 'name': 'RCLifeOn', 'person': 'RCLifeOn', 'tagline': 'RC vehicles and inventions.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="RC Firework Ignition System for RC Airplane", kind="Build",
-  desc="This is my second attempt of a remote firing ignition system on a RC airplane.",
-  videos=[
-   "1AcNdiTCfy8",  # 2014-02-20 Shooting Fireworks From RC Airplane - RcLifeOn
-   "1K96y3SWaQw",  # 2016-04-10 RC Firework Ignition System for RC Airplane - RCLifeOn
-   "pyR3wDWTg8s",  # 2016-05-12 Awesome Fireworks Fired From RC Airplane - RCLifeOn
-  ],
- ),
- dict(name="RC Pylon Racer Build Tips", kind="Build",
-  desc="The Pylon Racer is powered by the Turnigy2836 brushless outrunner 2350kv, 6x4 propeller, 40 amp Plush electric speed controller and a 2200 Nano Tech 3s lipo battery.",
-  videos=[
-   "mpFFLQIimGc",  # 2014-04-28 RC Pylon Racer the Speed Flyer - RcLifeOn
-   "3WgtXZfW8ws",  # 2014-05-02 RC Pylon Racer Build Tips - RcLifeOn
-  ],
- ),
  dict(name="Homemade Electric RC Airboat", kind="Build",
   desc="Hi, I wish to present you my RC airboat, my first model ever built!",
   videos=[
@@ -41,11 +26,10 @@ INVENTIONS = [
    "0laOuITbDPM",  # 2016-03-21 FPV Quadcopter Build Part 5 - RCLifeOn
   ],
  ),
- dict(name="Rollerskating With RC Traxxas Stampede 4x4 Car", kind="Build",
-  desc="Hey hey!",
+ dict(name="Control Your RC Car Using An Airplane Transmitter", kind="Build",
+  desc="I'm using the Castle Mamba Max Pro!",
   videos=[
-   "T-zHNUnMcUI",  # 2015-11-10 RC Traxxas Stampede 4x4 Car Adventure - RCLifeOn
-   "yGcCBuZiLFs",  # 2016-04-02 Rollerskating With RC Traxxas Stampede 4x4 Car - RCLifeOn
+   "Z6HR9zeegTE",  # 2016-01-23 Control Your RC Car Using An Airplane Transmitter (How-To) - RCLifeOn
   ],
  ),
  dict(name="DIY Cheap Homemade Air Conditioner Quick Build", kind="Build",
@@ -59,6 +43,12 @@ INVENTIONS = [
   videos=[
    "xTHXT9NdvC0",  # 2016-07-14 DIY Hot Wire Cutter for Plexiglass, Carboard and Foam - RCLifeOn
    "NBehrxsRMHM",  # 2016-11-10 DIY Portable Hot Wire Cutter - How to Cut Plexiglass, Acrylic, PVC
+  ],
+ ),
+ dict(name="WLToys Q303-A Ready-to-Fly FPV RC Drone With Camera", kind="Build",
+  desc="WLToys Q303-A Ready-to-Fly FPV RC Drone With Camera - RCLifeOn.",
+  videos=[
+   "VukMIlVdS6w",  # 2016-07-28 WLToys Q303-A Ready-to-Fly FPV RC Drone With Camera - RCLifeOn
   ],
  ),
  dict(name="Why This Is the Best 3D Printer", kind="Build",
@@ -101,28 +91,6 @@ INVENTIONS = [
   desc="In this video I'm building a remote control ignition system, that can be used to safely ignite fireworks or anything of that nature.",
   videos=[
    "3TJOGxodGgw",  # 2016-10-09 Remote Control Ignition System - How to Make Firework Igniter
-  ],
- ),
- dict(name="Remote Controlled Flamethrower", kind="Build",
-  desc="This is a remote controlled flamethrower that can be activated from a very far distance.",
-  videos=[
-   "W53WCqN0IPo",  # 2016-10-13 Remote Controlled Flamethrower - How to Make Butane Fire
-  ],
- ),
- dict(name="Hubsan vs DJI Phantom", kind="Build",
-  desc="This is the Hubsan H501S X4 advanced versus DJI Phantom 3 advanced.",
-  videos=[
-   "xDHd3dNjxEk",  # 2016-10-30 Hubsan vs DJI Phantom -  Performance Comparison
-  ],
- ),
- dict(name="3 Awesome Ideas", kind="Build",
-  desc="In this video I will show you 3 useful life hacks using hot wire you can do at home.",
-  videos=[
-   "t0GISGf4YH0",  # 2016-11-24 3 Awesome Ideas - Simple Life Hacks
-   "e0V5NK2LzhI",  # 2016-12-04 3 Awesome Ideas - Simple LED Projects
-   "NrtOJ2vGBlQ",  # 2016-12-30 3 Awesome Ideas - 3D Print Life Hacks
-   "FPU-U4ZLlaM",  # 2017-02-03 Awesome Ideas -  Multi-Tool Lighter
-   "adp8YiYauJg",  # 2017-04-29 3 Awesome Ideas - Phone Charger Life Hacks
   ],
  ),
  dict(name="Anet A6 vs A8 Comparison", kind="Build",
@@ -183,7 +151,13 @@ INVENTIONS = [
    "Ix4EnU-sATQ",  # 2020-03-12 A Flexible 3D Printed Drone That Can't Break
   ],
  ),
- dict(name="3D Printer CNC Makes Spectrum Thing", kind="Build",
+ dict(name="Awesome Hand Warmer Life Hack", kind="Build",
+  desc="Hi everyone, I hope you are doing great!",
+  videos=[
+   "rG2t1EZvZns",  # 2017-04-05 Awesome Hand Warmer Life Hack - DIY Heating Elements
+  ],
+ ),
+ dict(name="3D Printer CNC Makes Spectrum Thing", kind="Restoration",
   desc="People say 3D printers can't be CNC routers...HA FOOLS!",
   videos=[
    "DBfAh9iID3I",  # 2017-05-29 6 Things Repaired by 3D Printer - AWESOME IDEAS!
@@ -238,12 +212,6 @@ INVENTIONS = [
    "GF9l1_B9nwo",  # 2022-11-12 How I built A 3D Printed Underwater Drone #shorts
   ],
  ),
- dict(name="3D Printing Your Photos", kind="Build",
-  desc="3D Printing Your Photos - Lithophanes.",
-  videos=[
-   "y63sVpeViXo",  # 2017-08-20 3D Printing Your Photos - Lithophanes
-  ],
- ),
  dict(name="3D Printed Lithophane Lamp Shade", kind="Build",
   desc="Thanks Colby Jones for the amazing suggestion to make lithophane lamp shades!",
   videos=[
@@ -285,13 +253,6 @@ INVENTIONS = [
   videos=[
    "vYLtlG359LE",  # 2018-04-13 This Was 3D Printed?! - MASSIVE Lithophane
    "4FvtQOHzus4",  # 2020-02-24 How Was This Color Picture 3D Printed?
-  ],
- ),
- dict(name="Delivering Candy to Kids with RC FPV Car", kind="Build",
-  desc="Hi internet!",
-  videos=[
-   "Dx8P-MDDVEM",  # 2018-05-21 Delivering Candy to Kids with RC FPV Car
-   "TBD5xEciJ3U",  # 2019-05-25 RC Car Donates Candy to Kids
   ],
  ),
  dict(name="5000W Motor In a 3D Printed Jet Boat", kind="Build",
@@ -351,12 +312,6 @@ INVENTIONS = [
    "psma-fjaam0",  # 2019-01-22 3D Printer Makes Nutella Pancake!
   ],
  ),
- dict(name="3D Printing the Perfect Lithophane Picture", kind="Build",
-  desc="3D Printing the Perfect Lithophane Picture.",
-  videos=[
-   "XmbdcmvZbP8",  # 2019-02-02 3D Printing the Perfect Lithophane Picture
-  ],
- ),
  dict(name="Fan Powered 3D Printed RC Airboat", kind="Build",
   desc="This is the fully 3D printed RC airboat Speed 2.0.",
   videos=[
@@ -376,6 +331,18 @@ INVENTIONS = [
    "yRPJK9hoeTk",  # 2019-04-02 3D Printed Topographic Mount Everest Projection
   ],
  ),
+ dict(name="World Map Puzzle 3D Printed", kind="Build",
+  desc="This is a BIG world map made on a 3D printer.",
+  videos=[
+   "CaTsG3AXl6U",  # 2019-04-18 World Map Puzzle 3D Printed
+  ],
+ ),
+ dict(name="Ultimate 15m² BIG Raft Build", kind="Build",
+  desc="Chocolate muffins are pretty good, though nothing compared to 15 square meter of awesomeness that is the RAFT 2.0.",
+  videos=[
+   "A4pmb2huzQg",  # 2019-05-03 Ultimate 15m² BIG Raft Build
+  ],
+ ),
  dict(name="3D Printed Vectoring Mechanism", kind="Build",
   desc="This is a compliant mechanism that is 3D printed as just ONE piece!",
   videos=[
@@ -388,16 +355,16 @@ INVENTIONS = [
    "3SIIpm7WrKI",  # 2019-07-10 $2 Phone Case Made on $1000 3D Printer
   ],
  ),
- dict(name="How This Electric Motor BOOSTED My RC Boat", kind="Build",
-  desc="The 3D printed rainbow boat is back!",
-  videos=[
-   "0PIhfNmOWi4",  # 2019-07-25 How This Electric Motor BOOSTED My RC Boat
-  ],
- ),
  dict(name="3D Printer Makes Ugly Clay Vase", kind="Build",
   desc="3D Printer Makes Ugly Clay Vase.",
   videos=[
    "0gQJzrshNJo",  # 2019-08-10 3D Printer Makes Ugly Clay Vase
+  ],
+ ),
+ dict(name="This 3D Printed Tree Changes COLOR", kind="Build",
+  desc="Is this the future of home decorations?",
+  videos=[
+   "GWYe3fIwKvU",  # 2019-09-13 This 3D Printed Tree Changes COLOR!
   ],
  ),
  dict(name="How I 3D Printed My Identical Twin", kind="Build",
@@ -406,17 +373,10 @@ INVENTIONS = [
    "3jZnhwdtF4w",  # 2019-10-01 How I 3D Printed My Identical Twin
   ],
  ),
- dict(name="600W Ice Cream Thermoelectric Freezer", kind="Build",
-  desc="Making fake ice cream with thermoelectric cooling!",
+ dict(name="3D Printer Makes High Detailed Notre Dame", kind="Build",
+  desc="This Notre Dame model consists of 6400 layers!",
   videos=[
-   "PZb6bFUqlg4",  # 2020-01-09 600W Ice Cream Thermoelectric Freezer
-  ],
- ),
- dict(name="DRIVING A Hydroplaning RC CAR On WATER", kind="Build",
-  desc="DRIVING A Hydroplaning RC CAR On WATER!.",
-  videos=[
-   "pBv2DI2gavM",  # 2020-04-06 DRIVING A RC Airplane On Water!
-   "idY6HOM91T0",  # 2020-04-30 DRIVING A Hydroplaning RC CAR On WATER!
+   "rePbclFCmXw",  # 2019-11-29 3D Printer Makes High Detailed Notre Dame
   ],
  ),
  dict(name="Homemade 10000W Electric Surfboard", kind="Build",
@@ -441,22 +401,10 @@ INVENTIONS = [
    "rXCHn9B5dH0",  # 2021-01-10 The Machine That Erases What It Creates
   ],
  ),
- dict(name="Electric Ice Skates That Can Also Be a Meat Grinder", kind="Build",
-  desc="Electric skates made with parts from electric skateboard.",
-  videos=[
-   "aUBJxFs8hko",  # 2021-02-25 Electric Ice Skates That Can Also Be a Meat Grinder
-  ],
- ),
  dict(name="A Helmet That Makes You A B-2 Bomber Pilot", kind="Build",
   desc="Today I built this RC airplane and almost crashed into myself repeatedly.",
   videos=[
    "VhRyN8QUEbI",  # 2021-04-12 A Helmet That Makes You A B-2 Bomber Pilot
-  ],
- ),
- dict(name="How This 7000W Motor Was NOT Powerful Enough", kind="Build",
-  desc="Part 1/3 using a 120mm electric ducted fan on 50V to power a 3D printed boat.",
-  videos=[
-   "PiisxsWiEok",  # 2021-06-05 How This 7000W Motor Was NOT  Powerful Enough!
   ],
  ),
  dict(name="Making The ELECTRIC Raft Powered by Batteries", kind="Build",
@@ -472,11 +420,10 @@ INVENTIONS = [
    "5jHGLrkZPGM",  # 2021-08-20 This Shoe Is Completely Made Out of Plastic
   ],
  ),
- dict(name="1000W Electric Rollerblades That Will Hurt You", kind="Build",
-  desc="1000W Electric Rollerblades That Will Hurt You.",
+ dict(name="Building A Mesmerizing Light Pattern Creator", kind="Build",
+  desc="In this video I am building an infinite drawing machine by modifying a 3D printer and using LED lights to illuminate the ink from the marker by trapping light inside acrylic.",
   videos=[
-   "yttvsEFBUb8",  # 2021-10-08 1000W Electric Rollerblades That Will Hurt You
-   "2KMQmwfrqAw",  # 2023-01-16 Electric Rollerblades That Could Seriously Hurt You #shorts
+   "7i78DSaMhls",  # 2021-11-15 Building A Mesmerizing Light Pattern Creator
   ],
  ),
  dict(name="The Topography of the World Visualized", kind="Build",
@@ -512,12 +459,6 @@ INVENTIONS = [
    "SVaSq2Ud8eg",  # 2022-07-13 Underwater Drone Built With Parts From a Flying Drone
   ],
  ),
- dict(name="This Electric Surfboard Has a Secret Inside", kind="Build",
-  desc="The jet drives of this electric surfboard is 100% 3D printed, even the impellers.",
-  videos=[
-   "YsDMwh7Mw-8",  # 2022-08-26 This Electric Surfboard Has a Secret Inside!
-  ],
- ),
  dict(name="3D Printed Hydrofoil Surfboard", kind="Build",
   desc="A hydrofoil is an airplane-like wing structure under the water attached to a surfboard that generates lift.",
   videos=[
@@ -541,6 +482,12 @@ INVENTIONS = [
   desc="This is a cloud chamber that can display radioactive materials in a supersaturated alcohol vapor.",
   videos=[
    "xkOV1rIfVzc",  # 2023-02-03 I Built Nobel Prize Machine To See Radioactivity
+  ],
+ ),
+ dict(name="392 Lithium-Ion Cells Powers The Electric Snow Racer", kind="Build",
+  desc="This is an electric snow racer I modified with a 40kW brushless motor and powerful batteries to reach a top speed of 60km/h.",
+  videos=[
+   "3VCglqtdcMc",  # 2023-03-28 392 Lithium-Ion Cells Powers The Electric Snow Racer
   ],
  ),
  dict(name="Rideable Electric Speed Boat Build", kind="Build",
@@ -567,12 +514,6 @@ INVENTIONS = [
    "NX9sEhwJDRo",  # 2023-12-09 3D Printed Compression Propellers - IT WORKS!
   ],
  ),
- dict(name="A Boomerang That Never Comes Back", kind="Build",
-  desc="My Feet Don't Work No More - Splasher!",
-  videos=[
-   "7B3HRkEWVrY",  # 2024-01-28 A Boomerang That Never Comes Back
-  ],
- ),
  dict(name="World's First 3D Printed Onewheel With Tracks", kind="Build",
   desc="World's First 3D Printed Onewheel With Tracks!.",
   videos=[
@@ -592,11 +533,10 @@ INVENTIONS = [
    "v-fUGDLOaeo",  # 2024-07-08 Building an Electric Boat That Actually Works!
   ],
  ),
- dict(name="Turning a $20 Gas Snow Blower Electric", kind="Build",
-  desc="PCBWay offers PCB manufacturing, 3D printing and CNC services.",
+ dict(name="3D Printers Are Getting Ridiculously Fast", kind="Build",
+  desc="I would say the leap the past two years has been the craziest for 3D printers ever.",
   videos=[
-   "21qDmVzR9lE",  # 2024-08-15 Turning My Gas Boat Electric Part 2
-   "D8OJFHLiRxM",  # 2026-01-05 Turning a $20 Gas Snow Blower Electric
+   "84D0kAyryo0",  # 2025-01-06 3D Printers Are Getting Ridiculously Fast
   ],
  ),
  dict(name="Heavy Lift Drone 100kg Test", kind="Build",
@@ -622,13 +562,6 @@ INVENTIONS = [
   desc="PCBWay offers PCB manufacturing, 3D printing and CNC services.",
   videos=[
    "m4VcbyXibtA",  # 2025-08-26 This Drone Can Lift More Than You!
-  ],
- ),
- dict(name="Is Thrust Vectoring on a Surfboard a Good Idea", kind="Build",
-  desc="Is Thrust Vectoring on a Surfboard a Good Idea?.",
-  videos=[
-   "51nLtHqw2Ys",  # 2025-09-26 Is Thrust Vectoring on a Surfboard a Good Idea?
-   "gwyogz3fb2k",  # 2025-10-16 World's First Thrust Vector Surfboard
   ],
  ),
  dict(name="We Put a 42kW Motor in a Tiny Electric Car", kind="Build",

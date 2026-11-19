@@ -7,30 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'lomond-campbell', 'name': 'Lomond Campbell', 'person': 'Lomond Campbell', 'tagline': 'Music, machines and videos from the Scottish Highlands.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Black River Promise", kind="Build",
-  desc="Video for Black River Promise created by Simon Kirby",
-  videos=[
-   "c2NiUZ8-OOA",  # 2016-11-11 BLACK RIVER PROMISE
-  ],
- ),
- dict(name="Sometimes - Boards Of Canada Remix", kind="Build",
-  desc="Boards of Canada remix of Sometimes by The Sexual Objects.",
-  videos=[
-   "rmlXxaS5uhk",  # 2017-07-26 SOMETIMES - BOARDS OF CANADA REMIX
-  ],
- ),
- dict(name="Every Florist In Every Town", kind="Build",
-  desc="Directed by the Coconut Island collective, which includes acclaimed Scottish photographers / film makers Brian Sweeney and Donald Milne, and shot around Lomond’s Scottish highland base.",
-  videos=[
-   "5KfrEp2iTwU",  # 2017-09-21 Every Florist In Every Town
-  ],
- ),
- dict(name="The Lengths", kind="Build",
-  desc="Directed by the Coconut Island collective, which includes acclaimed Scottish photographers / film makers Brian Sweeney and Donald Milne, and shot around Lomond’s Scottish highland base,",
-  videos=[
-   "N7UbIXh5Xoo",  # 2018-01-26 The Lengths
-  ],
- ),
  dict(name="Sequencing A Robot Drum Kit Using The Elektron Octatrack Mkii", kind="Build",
   desc="You can download the track here:",
   videos=[
@@ -41,12 +17,6 @@ INVENTIONS = [
   desc="x4 proximity switches / reed switches",
   videos=[
    "XFsiPIX9Cxs",  # 2019-07-02 HOW TO SEQUENCE YOUR EURORACK SYSTEM WITH A RECORD PLAYER
-  ],
- ),
- dict(name="How To Use A 28Byj-48 Stepper Motor To Control The Speed Of A Treadmil", kind="Build",
-  desc="In this video the treadmill motor is sequencing my modular synth and to do that you'll need another arduino based gadget I made which turns your record player in to a gate sequencer.",
-  videos=[
-   "Sn2yE-3zBN8",  # 2019-08-02 HOW TO USE A 28BYJ-48 STEPPER MOTOR TO CONTROL THE SPEED OF A TREADMIL
   ],
  ),
  dict(name="Synthesizer Traveler F1", kind="Build",
@@ -81,30 +51,6 @@ INVENTIONS = [
    "x6fDuH9wxMQ",  # 2021-06-03 Harmonograph Poetry Machine
   ],
  ),
- dict(name="Engineer Of Fear / version", kind="Build",
-  desc="Live version of the single Engineer Of Fear recorded in the golden hour at The Lengths using every single extension cable in the highlands.",
-  videos=[
-   "FaQgoylHckM",  # 2021-08-26 Engineer Of Fear / live version
-  ],
- ),
- dict(name="RAD BRAD IVY - performance from a highland rooftop", kind="Build",
-  desc="This is a live version of Rad Brad Ivy, recorded on the roof of The Lengths studio on 25th August.",
-  videos=[
-   "yQr7aoUOLBo",  # 2021-09-16 RAD BRAD IVY - live performance from a highland rooftop
-  ],
- ),
- dict(name="TRADE - Julija Pustovrh", kind="Build",
-  desc="The Lengths is a creative space in the Highlands of Scotland.",
-  videos=[
-   "lmQ3XW6OVXs",  # 2021-10-17 TRADE #1 - Julija Pustovrh
-  ],
- ),
- dict(name="Swam / version", kind="Build",
-  desc="Live studio version of the single Swam recorded at The Lengths.",
-  videos=[
-   "T7v6eSmrdlE",  # 2021-10-18 Swam / live version
-  ],
- ),
  dict(name="Modular Synth On A Highland Rooftop", kind="Build",
   desc="While filming a live modular performance on a rooftop, I put this patch together to check the levels.",
   videos=[
@@ -131,12 +77,6 @@ INVENTIONS = [
    "WhpvUDHIwXQ",  # 2022-07-05 The greatest label making machine in the world.
   ],
  ),
- dict(name="Sea Spume", kind="Build",
-  desc="A short film made on Orkney with the author Michael Pedersen.",
-  videos=[
-   "OwoIaop5e7U",  # 2022-07-05 Sea Spume
-  ],
- ),
  dict(name="The Unsung Machine", kind="Build",
   desc="I was looking for a meaningful way to incorporate language in to music that bypassed the convention of hearing the words being said or sung…so I came up with The Unsung Machine.",
   videos=[
@@ -149,40 +89,10 @@ INVENTIONS = [
    "usgKlfYH7F0",  # 2022-08-30 The Unsung Machine #5 - words by Karen Vogt
   ],
  ),
- dict(name="Prologue - by Michael Pedersen and Lomond Campbell", kind="Build",
-  desc="Micheal Pedersen reads the prologue from his book Boy Friends set to a composition by Lomond Campbell.",
-  videos=[
-   "ehJBABi1p7g",  # 2022-08-18 Prologue - by Michael Pedersen and Lomond Campbell
-  ],
- ),
- dict(name="Kathryn Joseph", kind="Build",
-  desc="Recorded on Sunday 18th September 2022 at The Lengths, a former primary school turned studio in the Highlands of Scotland.",
-  videos=[
-   "UQMDlOTWRIY",  # 2022-09-21 Kathryn Joseph - How Well You Are - live at The Lengths
-  ],
- ),
- dict(name="The Mountain And The Pendulum", kind="Build",
-  desc="The Mountain And The Pendulum recorded on 24th September 2022 at The Lengths for The Scotsman.",
-  videos=[
-   "HmnyLqCWwUk",  # 2022-09-30 The Mountain And The Pendulum live - Scotsman Session
-  ],
- ),
  dict(name="Double Sided CNC machining", kind="Build",
   desc="Double Sided CNC machining | Unsung Machine.",
   videos=[
    "2uuF4eKqTts",  # 2023-01-23 Double Sided CNC machining | Unsung Machine
-  ],
- ),
- dict(name="Infinite Spin - Lomond Campbell", kind="Build",
-  desc="Taken from Interference Patterns out on 28th July.",
-  videos=[
-   "bCQR8iOpKPY",  # 2023-05-30 Infinite Spin - Lomond Campbell
-  ],
- ),
- dict(name="Silent Siren", kind="Build",
-  desc="SILENT SIREN.",
-  videos=[
-   "GqS9Nmpakfo",  # 2023-10-03 SILENT SIREN
   ],
  ),
  dict(name="Word Machine", kind="Build",
@@ -197,12 +107,6 @@ INVENTIONS = [
    "wRn9P-w84cE",  # 2023-10-11 ROTARY MACHINE
   ],
  ),
- dict(name="Moog Voyager Old School + Monome Grid", kind="Build",
-  desc="Just messing with the OS and Monome.",
-  videos=[
-   "b3Dru1KJPl4",  # 2024-06-14 Moog Voyager Old School + Monome Grid
-  ],
- ),
  dict(name="MŮO - an audiovisual project powered by the cosmos", kind="Build",
   desc="Scottish artist and musician Lomond Campbell premieres MŮO, an audiovisual experience powered by the universe as part of the Made in Scotland Showcase from 1 – 25 August at the French Institute, Edinburgh as part of t…",
   videos=[
@@ -213,12 +117,6 @@ INVENTIONS = [
   desc="Some early examples of sound and vision from MŮO",
   videos=[
    "Jy2cvRy5yW0",  # 2025-05-22 MŮO visuals excerpt
-  ],
- ),
- dict(name="MŮO | The Muonophone", kind="Build",
-  desc="The Muonophone is a custom built instrument that uses muon detectors to generate sound and visuals.",
-  videos=[
-   "HEJ8CaawCmg",  # 2025-07-27 MŮO Live | The Muonophone
   ],
  ),
 ]

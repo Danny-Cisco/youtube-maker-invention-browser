@@ -34,51 +34,10 @@ INVENTIONS = [
    "papxaeII0vo",  # 2019-12-23 Getting Started with Mozilla WebThings Part 2: Building an ESP8266 Tem
   ],
  ),
- dict(name="Custom Wake Word", kind="Build",
-  desc="Welcome to the first part in my series on creating a custom wake word for Edge AI and TinyML!",
-  videos=[
-   "DdFBMtq2jso",  # 2020-06-30 Custom Wake Word Part 1: Capturing Data | TinyML
-   "rsK8oRaAqio",  # 2020-07-30 Custom Wake Word Part 2: Curating Data | TinyML
-  ],
- ),
- dict(name="Wio Terminal TinyML", kind="Build",
-  desc="Disclosure: Seeed Studio sent me a Wio Terminal to play with and create a video about.",
-  videos=[
-   "a_osS0VdkzE",  # 2021-03-20 Wio Terminal TinyML - Speech Recognition
-  ],
- ),
  dict(name="ESP32 - Getting Started with ESP-IDF", kind="Build",
   desc="I'll show you how to get started with the Espressif IoT Development Framework (ESP-IDF), the official Espressif toolset for building professional, production-ready firmware for the ESP32.",
   videos=[
    "h7VfpoJvIpg",  # 2025-08-12 ESP32 - Getting Started with ESP-IDF
-  ],
- ),
- dict(name="ESP32 - WiFi Driver with ESP-IDF Tutorial", kind="Build",
-  desc="Learn how to build a robust WiFi driver for ESP32 using ESP-IDF from scratch.",
-  videos=[
-   "uJ9RtAxStpo",  # 2025-08-26 ESP32 - CMake with ESP-IDF Tutorial
-   "KsrDYfQ9geU",  # 2025-09-09 ESP32 - Kconfig with ESP-IDF Tutorial
-   "FDscfXLesjQ",  # 2025-09-23 ESP32 - I2C with ESP-IDF Tutorial
-   "j1ve8mYjUoU",  # 2025-10-07 ESP32 - WiFi Driver with ESP-IDF Tutorial
-   "ZQatV_Fi0Vc",  # 2025-10-21 ESP32 - HTTP GET with ESP-IDF Tutorial
-  ],
- ),
- dict(name="What is Transport Layer Security", kind="Build",
-  desc="In this video, I’ll explain what Transport Layer Security (TLS) is, how it relates to Secure Sockets Layer (SSL), and how it keeps our internet communications safe.",
-  videos=[
-   "QSeMT4RK62M",  # 2025-11-04 What is Transport Layer Security (TLS)?
-  ],
- ),
- dict(name="What is MQTT", kind="Build",
-  desc="What is MQTT?.",
-  videos=[
-   "LTAm1R_4YYE",  # 2025-11-18 What is MQTT?
-  ],
- ),
- dict(name="Getting Started with the Mosquitto MQTT Broker", kind="Build",
-  desc="In this video, we show how to configure and use Mosquitto, one of the most widely adopted open-source MQTT brokers.",
-  videos=[
-   "-bKEWqcyEBY",  # 2025-12-02 Getting Started with the Mosquitto MQTT Broker (with SSL/TLS)
   ],
  ),
 ]

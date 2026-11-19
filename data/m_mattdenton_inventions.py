@@ -31,22 +31,10 @@ INVENTIONS = [
    "mtmnKOSDNM0",  # 2013-03-04 Hexapod Robot V3 - Walking Under R/C Control - micromagic systems (Hig
   ],
  ),
- dict(name="Hexapod Robot visits Weta Workshop", kind="Build",
-  desc="The following footage was filmed during a trip to Weta Workshop in Wellington, New Zealand.",
-  videos=[
-   "eYAgif9JPUI",  # 2006-09-15 Hexapod Robot visits Weta Workshop
-  ],
- ),
  dict(name="Interactive hexapod robot by Matt Denton", kind="Build",
   desc="interactive hexapod robot [ kinetic art ] by Matt Denton.",
   videos=[
    "4oXuSXCKJeY",  # 2007-09-18 interactive hexapod robot [ kinetic art ] by Matt Denton
-  ],
- ),
- dict(name="B.F. Hexapod - Terrain Adaptation - Test 04", kind="Build",
-  desc="B.F.",
-  videos=[
-   "ZhB4nFN_mRI",  # 2008-03-19 B.F. Hexapod - Terrain Adaptation - Test 04
   ],
  ),
  dict(name="Hexapod Robot CNC Router", kind="Build",
@@ -65,16 +53,6 @@ INVENTIONS = [
    "37qcPX9CSkk",  # 2008-04-25 iC Hexapod Robot @ Monster Mash
   ],
  ),
- dict(name="MSR-H01 Hexapod + PS2 + Balence Gesture", kind="Build",
-  desc="MSR-H01 Hexapod with new firmware featuring direct PS2 gamepad control and full 3D balance gesture.",
-  videos=[
-   "ulno6A8b4HY",  # 2008-08-07 Hexapod MSR-H01 Test 2
-   "A4s3mfgqZlc",  # 2008-08-29 Hexapod MSR-H01 Test 4
-   "SnDXzOFdyvA",  # 2008-10-03 MSR-H01 Hexapod Black + PT Head - Test 01
-   "YwAElTZZMpw",  # 2008-10-23 MSR-H01 Hexapod + PS2 + Balence Gesture
-   "dXd89XmuIJI",  # 2008-11-26 MSR-H01 Hexapod - SRF08 Tutorial 3
-  ],
- ),
  dict(name="Micro Hexapod Robot", kind="Build",
   desc="The first test video of the µBug with p.Brain-HexEngine and PS2 wireless controller.",
   videos=[
@@ -85,12 +63,6 @@ INVENTIONS = [
   desc="Hexapod Robot Colour BLOB Tracking.",
   videos=[
    "_ddcGEGWKXI",  # 2009-02-02 Hexapod Robot Colour BLOB Tracking
-  ],
- ),
- dict(name="MSR-µBug Hexapod & Coke Can", kind="Build",
-  desc="Upon request and In homage to my original V2 hexapod & Coke bottle video, µBug reference video with coke can.",
-  videos=[
-   "pJtkZZ28vRo",  # 2009-02-26 MSR-µBug Hexapod & Coke Can
   ],
  ),
  dict(name="UBug V2 Hexapod Walk Test", kind="Build",
@@ -127,31 +99,12 @@ INVENTIONS = [
    "26fLK9m4eNE",  # 2016-01-05 Animatronic Head (Greg Townley) - The World's End
   ],
  ),
- dict(name="Mantis Gripper", kind="Build",
-  desc="In this video I get the Gripper working in open loop mode from a potentiometer plugged into the Arduino!",
-  videos=[
-   "g65ljplN_GQ",  # 2017-01-15 Mantis Gripper | Assembly (Time Lapse) | - Mantis Hacks
-   "nnvku6eeewA",  # 2017-01-30 Mantis Gripper | Absolute Encoders | - Mantis Hacks #1
-   "pEaHcFxB-Nw",  # 2017-02-06 Mantis Gripper | CRUSH TEST! | - Mantis Hacks #2
-   "meGm9WBC7aQ",  # 2017-02-28 Mantis Gripper | Arduino & Electronics | - Mantis Hacks #3
-   "GlIagIwclVU",  # 2017-03-27 Mantis Gripper | Proportional Open Loop Hydraulics | - Mantis Hacks #4
-   "KlF4lmxA68E",  # 2017-04-12 Mantis Gripper | Arduino Closed Loop + Easter Egg CRUSH! | - Mantis Ha
-   "5EHUn4uiA1Y",  # 2017-05-11 Mantis Gripper | Hydraulic Pump UPGRADE! | - Mantis Hacks #7
-  ],
- ),
- dict(name="DJI Mavic Pro Tests", kind="Build",
-  desc="Took my Mavic Pro down to Eton playing fields for some test flights.",
-  videos=[
-   "TvsglMzzc08",  # 2017-06-13 DJI Mavic Pro Tests - Flight 2 - 1080P
-  ],
- ),
  dict(name="Giant LEGO Go-Kart", kind="Build",
   desc="I've added R/C functionality to my Giant LEGO Go-Kart kit!!",
   videos=[
    "I5mfNsmfqPE",  # 2017-08-21 Giant LEGO Go-Kart | Assembly! | - Mantis Hacks #7
    "jDz1jJxER-I",  # 2017-08-23 Giant LEGO Go-Kart | 3D Printing & Build Details | - Mantis Hacks #8
    "NRL-jwJoaBs",  # 2017-11-26 Giant LEGO Go-Kart | Radio Controlled! | - Mantis Hacks #12
-   "PO_pWTzCDGk",  # 2017-12-08 Giant LEGO Go-Kart | Fail Compilation! | - Mantis Hacks #13
    "4DkJ3VEjoQ0",  # 2017-12-21 Giant LEGO Go-Kart | Adding Motors! | - Mantis Hacks #14
    "I9R197Irq8U",  # 2024-02-09 Drifting in a GIANT Lego inspired go-kart! #lego #drift #gokart #3dpri
   ],
@@ -180,18 +133,6 @@ INVENTIONS = [
   desc="My nephew helps me build this GIANT 3D PRINTED LEGO Tractor [Lego Kit 851] from 1977, 250+ pieces, 400+ hours of printing!",
   videos=[
    "--dbuLBivVs",  # 2018-12-07 GIANT Lego Tractor - Mantis Hacks E17
-  ],
- ),
- dict(name="Printing GIANT Lego on the Lulzbot Mini 2- Mantis Hacks E18", kind="Build",
-  desc="In this video I look at printing GIANT Lego on a smaller bed such as my new printer the Lulzbot Mini 2.",
-  videos=[
-   "d4oU8J06DRQ",  # 2019-02-13 Printing GIANT Lego on the Lulzbot Mini 2- Mantis Hacks E18
-  ],
- ),
- dict(name="3D Printing LARGE Parts Faster", kind="Build",
-  desc="In this video I print a VERY LARGE Giant Lego part on my Taz 6 printer.",
-  videos=[
-   "a8gqR0FWNA4",  # 2019-03-28 3D Printing LARGE Parts Faster! - Mantis Hacks E19
   ],
  ),
  dict(name="VW T5 Kombi Bed 5 Day Build", kind="Build",
@@ -358,12 +299,6 @@ INVENTIONS = [
   desc="Meet SpoolBot!",
   videos=[
    "6ZLJA1YpoMs",  # 2026-02-05 A Robot In Disguise - Spooly McSpoolBot -  #3dprinting #robot
-  ],
- ),
- dict(name="What Have I Done to Bertie", kind="Build",
-  desc="I'm re-building my 1967 Morris Minor Pickup Truck.",
-  videos=[
-   "Mv3BD3tT6tk",  # 2026-03-31 What Have I Done to Bertie!?  -  (Morris Minor Pickup #1)
   ],
  ),
  dict(name="It Was Worse Than I Thought", kind="Build",

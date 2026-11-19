@@ -21,34 +21,16 @@ INVENTIONS = [
    "QsQHqSSQFWs",  # 2024-12-17 Dry hands are my instrument
   ],
  ),
- dict(name="Giant \"Brick\" Christmas STLs #3dprinting", kind="Build",
-  desc="Giant \"Brick\" Christmas STLs #3dprinting #bambu.",
-  videos=[
-   "qIrcBk-t5nc",  # 2024-12-20 Giant "Brick" Christmas STLs #3dprinting #bambu
-  ],
- ),
  dict(name="Building Mini Battle Robots in Time for Christmas", kind="Build",
   desc="I hope you enjoy this slightly less ambitious project.",
   videos=[
    "BDHyvmcGeEY",  # 2024-12-24 Building Mini Battle Robots in Time for Christmas
   ],
  ),
- dict(name="The nation's favourite toy since 1954! #3dprinting", kind="Build",
-  desc="The nation's favourite toy since 1954! #3dprinting #toys #shorts.",
-  videos=[
-   "WW1x85EtIRU",  # 2024-12-31 The nation's favourite toy since 1954! #3dprinting #toys #shorts
-  ],
- ),
  dict(name="A Bicycle-Powered Washing Machine", kind="Build",
   desc="A Bicycle-Powered Washing Machine?.",
   videos=[
    "OGZAz1w9SQE",  # 2025-03-31 A Bicycle-Powered Washing Machine?
-  ],
- ),
- dict(name="Can't get the staff", kind="Build",
-  desc="Can't get the staff 🚄.",
-  videos=[
-   "e8BgkXF_A9U",  # 2026-02-07 Can't get the staff 🚄
   ],
  ),
  dict(name="Building a tiny fighting robot", kind="Build",

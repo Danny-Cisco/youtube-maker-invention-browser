@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'anthony-engineers', 'name': 'Anthony Engineers', 'person': 'Anthony Engineers', 'tagline': 'An underwater robot for exploring caves.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="World's Strangest Tricycle Race", kind="Build",
-  desc="For more than 50 years, Georgia Tech has been racing tricycles as a homecoming tradition.",
-  videos=[
-   "ml6ICW4JX5o",  # 2024-06-15 World's Strangest Tricycle Race - Georgia Tech Mini 500
-  ],
- ),
  dict(name="I'm Building a Robot to Explore Underwater Caves", kind="Build",
   desc="I'm Building a Robot to Explore Underwater Caves!.",
   videos=[

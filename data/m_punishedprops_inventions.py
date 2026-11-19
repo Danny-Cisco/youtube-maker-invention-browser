@@ -39,13 +39,6 @@ INVENTIONS = [
    "zV69rajt4G0",  # 2013-02-17 Risty Mace & Shield Build Part 10: Finishing & Painting 2
   ],
  ),
- dict(name="Magic Tricks in the Shop with Chinbeard", kind="Build",
-  desc="Tune in every week for prop and costume tutorial videos on Monday and Wednesday!",
-  videos=[
-   "833Co5Yl-Ts",  # 2013-02-22 In the Shop with Chinbeard - 2/21/2013
-   "n7kGh0Q3jao",  # 2013-06-04 Magic Tricks in the Shop with Chinbeard
-  ],
- ),
  dict(name="Halo 4 Sniper Rifle Replica Prop", kind="Build",
   desc="Tune in every week for prop and costume tutorial videos on Monday and Wednesday!",
   videos=[
@@ -244,13 +237,6 @@ INVENTIONS = [
    "oJV4-6jMhw4",  # 2015-07-15 Prop: Live from the Shop – Destiny Vex Goblin – Torso
   ],
  ),
- dict(name="Punished Props All-Day", kind="Build",
-  desc="Punished Props live streamed for 16 hours as they worked on Destiny Lord Shaxx and Vex Goblin costumes for PAX Prime and DragonCon!",
-  videos=[
-   "iuTb5ZmI3b0",  # 2015-08-10 Punished Props All-Day Live Stream - Part 1
-   "7krIfbgbqF0",  # 2015-08-11 Punished Props All-Day Live Stream - Part 2
-  ],
- ),
  dict(name="Prop: Shop - Shaxx and Vex Costume Breakdown", kind="Build",
   desc="Bill and Britt discuss their new Lord Shaxx and Vex Goblin Destiny cosplays!",
   videos=[
@@ -271,7 +257,6 @@ INVENTIONS = [
    "UCLNy8YrcWA",  # 2015-11-18 Prop: 3D - Season 1, Episode 3 - Nuka Cola Rocket Bottle
    "JwTsEDIa6fA",  # 2015-11-25 Prop: 3D - Season 1, Episode 4 - Star Wars Style Vacuum Formed Visor
    "4_9ifIFX9vs",  # 2015-12-02 Prop: 3D - Season 1, Episode 5: Real Metal Amulet of Talos
-   "7kPqXbvq6gs",  # 2015-12-09 Prop: 3D - Season 1 Wrap-Up
    "mLFkbNjKVWA",  # 2017-01-20 Prop: 3D Season 2 Wrap Up and FAQ
   ],
  ),
@@ -286,14 +271,6 @@ INVENTIONS = [
   videos=[
    "Gx66mS7U2vY",  # 2015-11-23 Prop: Shop - How to Make a Vacuum Forming Machine
    "sOq2SFtPmqU",  # 2016-06-29 Prop: Live from the Shop - Vacuum Forming Fails & Experiments
-  ],
- ),
- dict(name="How to Tint a Visor", kind="Build",
-  desc="Bill shows you how to custom tint a PETG plastic visor for your costume!",
-  videos=[
-   "HZ322J9zook",  # 2015-11-30 How to Tint a Visor - Custom Vacuum Formed PETG Plastic
-   "uhy7OBFw5Uw",  # 2025-12-22 tinting visors
-   "15MA7lh3_N0",  # 2026-03-24 large visor tinting
   ],
  ),
  dict(name="Prop: Shop - Nerf Stormtrooper Blaster Re-Paint", kind="Build",
@@ -316,22 +293,10 @@ INVENTIONS = [
    "mZ07x2Wvwps",  # 2015-12-21 Prop: Shop - Bleach Hollow Mask
   ],
  ),
- dict(name="How to Make a Two Part Silicone Mold", kind="Build",
-  desc="Creating a two part silicone mold can be an incredibly useful technique for prop and costume making.",
+ dict(name="Prop: Shop - Glowing Draugr Eyes Tutorial", kind="Build",
+  desc="Bill shows you how he made those sick glowing eyes for his Skyrim Draugr Deathlord costume!",
   videos=[
-   "m0pv3kDKynQ",  # 2016-01-04 Prop: Shop - Molding & Casting 101: Intro to Silicone Rubber
-   "GN7wITTHFrc",  # 2016-01-18 Prop: Shop - Molding & Casting 101: How to Make a One Part Mold
-   "Ag5CzNb_JxI",  # 2016-02-01 Prop: Shop - Molding & Casting 101: How to Make a Two Part Mold
-   "pdOdfq64k_U",  # 2016-02-08 Prop: Shop - Molding & Casting 101: Cold Casting
-   "USvTtyaj6Go",  # 2016-03-14 Prop: Shop - Molding & Casting 101: Slush Casting
-   "NlzAuOncN2k",  # 2018-07-16 How to Make a Two Part Silicone Mold - Destiny Hand Cannon Casting
-  ],
- ),
- dict(name="Prop: Shop - Molding & Casting 101: Intro to Urethane Resin", kind="Build",
-  desc="Everything you need to know about the urethane resin you'll be using to cast pieces in your silicone molds.",
-  videos=[
-   "GqR17YcntZQ",  # 2016-01-11 Prop: Shop - Molding & Casting 101: Intro to Urethane Resin
-   "PIUnzJr5oAc",  # 2016-08-05 Casting Urethane Resin Prop Pieces - Prop: Live from the Shop
+   "TjOK0WmWYtw",  # 2015-12-28 Prop: Shop - Glowing Draugr Eyes Tutorial
   ],
  ),
  dict(name="Prop: Talk - Molding & Casting FAQ", kind="Build",
@@ -341,11 +306,10 @@ INVENTIONS = [
    "QLtFu44fuk4",  # 2016-02-17 Prop: Talk - Punished Props FAQ 2016
   ],
  ),
- dict(name="Molding & Casting MASKS", kind="Build",
-  desc="Bill and his good friend Nick Kettman of Modulus Props show you how to make brush-on molds and slush casts of their custom sculpted masks!",
+ dict(name="How to Make Rey's Star Wars Blaster", kind="Build",
+  desc="Follow along as Bill shows you how to 3D print, mold, cast and finish a super legit version of Rey's blaster from Star Wars: The Force Awakens!",
   videos=[
-   "jkzFOFzQtp8",  # 2016-03-07 Prop: Shop - Molding & Casting 101: Brush on Molds for Helmets & Masks
-   "I9MQcatUn1A",  # 2018-11-05 Molding & Casting MASKS! - Mask MADNESS Part 2
+   "aV6Im7NSCG4",  # 2016-02-29 How to Make Rey's Star Wars Blaster - Prop: Shop Tutorial
   ],
  ),
  dict(name="Prop: Shop - Han Solo Belt Holster Build", kind="Build",
@@ -416,17 +380,23 @@ INVENTIONS = [
    "r79PIckTjLo",  # 2016-07-29 How to Paint Plastic Props to Look Like Real Metal - Prop: Live from t
   ],
  ),
- dict(name="Airbrush Basics", kind="Build",
-  desc="An airbrush can take your prop and costume finishing work to the next level.",
-  videos=[
-   "-HxFJLWtlUA",  # 2016-08-01 Airbrush Basics: Picking an Airbrush, Compressors, & Cleaning - Prop: 
-  ],
- ),
  dict(name="3D Printing Custom Tires for my R/C Car", kind="Build",
   desc="Not satisfied with the stock tires on his radio controlled car, Bill sets about modeling and printing his own custom tires using the Form 2 printer and a flexible material.",
   videos=[
    "yO-jPkUD6mg",  # 2016-09-16 3D Printing Custom Tires for my R/C Car - Prop: 3D
    "dsU_KnPWVEE",  # 2025-08-07 Custom RC car tires
+  ],
+ ),
+ dict(name="How to Paint Foam Props to Look Rusty", kind="Build",
+  desc="Bill & Britt showcase a couple of finishing techniques to make your foam prop weapons look like they're real rusty metal!",
+  videos=[
+   "xh0IQThgS2g",  # 2016-09-21 How to Paint Foam Props to Look Rusty - Prop: Live from the Shop
+  ],
+ ),
+ dict(name="How to Make Wuuthrad the Legendary axe from Skyrim Special Edition", kind="Build",
+  desc="To help spread the word about Skyrim Special Edition, Bill shows you how to build the legendary two handed axe, Wuuthrad.",
+  videos=[
+   "-P_VBXPudD8",  # 2016-10-06 How to Make Wuuthrad the Legendary axe from Skyrim Special Edition - P
   ],
  ),
  dict(name="How to Make the Skyrim Steel Armor Costume", kind="Build",
@@ -438,11 +408,18 @@ INVENTIONS = [
    "7ZCXZoV9ZYE",  # 2016-11-03 How to Make the Skyrim Steel Armor Costume Part 3: Straps and Fur
   ],
  ),
+ dict(name="Sculpting with Hot Glue, Tin Foil, & Pal Tiya Clay", kind="Build",
+  desc="Bill and Britt recently had a chance to visit Kim Beaton in her studio near Seattle and learn a bit about working with her new material, Pal Tiya.",
+  videos=[
+   "OZEKio1dF1s",  # 2016-11-28 Sculpting with Hot Glue, Tin Foil, & Pal Tiya Clay - Prop: Shop
+  ],
+ ),
  dict(name="Easy Metal Casting", kind="Build",
   desc="We've done pewter casting in the past, but we're really starting to get a lot better at it.",
   videos=[
    "8NttWpkcnX8",  # 2016-12-07 Easy Metal Casting with a Silicone Mold and Pewter - Prop: Live from t
    "Z2B4MY6L-2U",  # 2018-02-26 Easy Metal Casting - Pouring Liquid Pewter into a Silicone Mold
+   "NlzAuOncN2k",  # 2018-07-16 How to Make a Two Part Silicone Mold - Destiny Hand Cannon Casting
   ],
  ),
  dict(name="3D Printing and Metal Casting Jewelry with the Form 2", kind="Build",
@@ -527,6 +504,18 @@ INVENTIONS = [
    "mzhMljR62Ck",  # 2017-04-26 How to Fix and Fill Seams in Foam Props & Armor
   ],
  ),
+ dict(name="Star Wars Cosplay Clothing", kind="Build",
+  desc="Britt picks up some clothes and accessories from a thrift store and modifies parts to match the Star Wars universe.",
+  videos=[
+   "lkWwnpUQ6uA",  # 2017-05-16 Star Wars Cosplay Clothing - Save Big With Thrift Store Mods!
+  ],
+ ),
+ dict(name="How To - Make ANY PROP or COSTUME! 500+ Free Tutorials", kind="Build",
+  desc="With over 500 free prop and costume tutorial videos, we have everything you need to know to get started on your next project.",
+  videos=[
+   "bQ8kE0ZgP84",  # 2017-05-29 How To - Make ANY PROP or COSTUME! 500+ Free Tutorials
+  ],
+ ),
  dict(name="Basic Prop & Costume Weathering with Acrylic Paint Washes", kind="Build",
   desc="A basic black, brown, or dark wash of acrylic paints can add a quick and easy weathering pass to your prop and costume projects that'll make it look more realistic and world worn.",
   videos=[
@@ -534,11 +523,10 @@ INVENTIONS = [
    "ybrUVKmEUew",  # 2018-01-29 Basic Prop & Costume Weathering with Acrylic Paint Washes
   ],
  ),
- dict(name="HOW TO MASK and Paint Your Props & Costumes", kind="Build",
-  desc="Masking off areas of your prop can make the painting process much more refined and quick.",
+ dict(name="SUPER EASY Star-Lord Toy Blaster Mod", kind="Build",
+  desc="When Bill saw Guardians of the Galaxy 2, he just had to have one of Star-Lord's blaster.",
   videos=[
-   "Ygelv7APBzQ",  # 2017-06-21 Painting Masks - Dishonored Overseer and Masquerade Cat
-   "ooBOKsNnxZE",  # 2018-01-15 HOW TO MASK and Paint Your Props & Costumes - TUTORIAL
+   "wj9Fie5mkIo",  # 2017-06-19 SUPER EASY Star-Lord Toy Blaster Mod - Guardians of the Galaxy Prop
   ],
  ),
  dict(name="How to Make Robot Feet from EVA Foam", kind="Build",
@@ -549,17 +537,17 @@ INVENTIONS = [
    "LFo_6zGxKTM",  # 2017-09-18 Vacuform Visor and EVA Foam Robot Helmet - Destiny Sweeper Bot Build
   ],
  ),
+ dict(name="How to Make Costume Patterns with Free Software", kind="Build",
+  desc="Bill teams up with Evil Ted to show him the basics of transferring costume patterns to the computer using the free vector drawing software, Inkscape.",
+  videos=[
+   "31XF5CQ5U0o",  # 2017-08-01 How to Make Costume Patterns with Free Software - Featuring Evil Ted!
+  ],
+ ),
  dict(name="Wolverine's Prop Claws", kind="Build",
   desc="To prepare for his Old Man Logan costume, Bill is putting together a fresh set of prop Wolverine claws using more robust materials like aluminum and brass.",
   videos=[
    "grmAlfNRTlU",  # 2017-08-09 Wolverine's Prop Claws - Cosplay Tutorial Part 1 of 2 - Hand Grips
    "Ez9Rq-9h7qQ",  # 2017-08-16 Wolverine's Prop Claws - Cosplay Tutorial Part 2 of 2 - Blades
-  ],
- ),
- dict(name="Avoid a Fire Hazard", kind="Build",
-  desc="Cheap, DIY 3D printers can pose a significant fire and safety hazard if not used with extreme caution.",
-  videos=[
-   "MzWVrv4L1R0",  # 2017-08-11 Avoid a Fire Hazard - Anet A8 Safety Upgrades
   ],
  ),
  dict(name="Make a Cheap 3D Printer Better", kind="Build",
@@ -597,17 +585,17 @@ INVENTIONS = [
    "5PQguex0OO4",  # 2017-10-04 Destiny Airsoft Sidearm Quick Upgrade - Metal Fasteners - NUTS!
   ],
  ),
+ dict(name="Props, Costumes, Copyright, and Risk", kind="Build",
+  desc="One of the questions Bill frequently gets is how to make a living selling props and costumes when you don't have a license or the copyright to the properties those items are based on.",
+  videos=[
+   "Im4Vg_TTbUE",  # 2017-10-19 Props, Costumes, Copyright, and Risk - Making a Living in the Cosplay 
+  ],
+ ),
  dict(name="3D Printed Stencils for Prop & Costume Making", kind="Build",
   desc="Bill experiments with using 3D printing as an alternate method for creating stencils to add decals to props and costumes!",
   videos=[
    "hGUWIlktJyI",  # 2017-10-29 Prototyping 3D Printed Mechanical Parts for Prop & Costume Making
    "uSXI4oJSGsc",  # 2018-03-12 3D Printed Stencils for Prop & Costume Making - TUTORIAL
-  ],
- ),
- dict(name="Modifying a Toy Pistol for DIY Film Making and Cosplay", kind="Build",
-  desc="If you’re looking for a low budget, DIY gun prop for cosplay or filming, this cheap toy gun is exactly what you need.",
-  videos=[
-   "D8_bNqBsKJQ",  # 2017-11-20 Modifying a Toy Pistol for DIY Film Making and Cosplay
   ],
  ),
  dict(name="Blade Runner Blaster Prop Full Build", kind="Build",
@@ -620,17 +608,17 @@ INVENTIONS = [
    "C6Rn75N8Ss4",  # 2018-09-03 Blade Runner Blaster Prop Full Build - Prop Making Fan Fiction
   ],
  ),
- dict(name="Punished Props 2017 Prop & Costume Project Recap", kind="Build",
+ dict(name="How to Make Robocop's Auto 9 Prop", kind="Build",
+  desc="What could be more iconic than Robocop's legendary sidearm!",
+  videos=[
+   "71uKAJk2K1s",  # 2017-11-30 How to Make Robocop's Auto 9 Prop - Tutorial
+  ],
+ ),
+ dict(name="Punished Props 2017 Prop & Costume Project Recap", kind="Restoration",
   desc="Punished Props 2017 Prop & Costume Project Recap.",
   videos=[
    "chjV1AolP14",  # 2017-12-27 Punished Props 2017 Prop & Costume Project Recap
    "HeiVbHHFDEs",  # 2024-09-09 Karlach Costume Recap
-  ],
- ),
- dict(name="Foam Skull - Surtur's \"Eyebrows\" - Thor: Ragnarok", kind="Build",
-  desc="Using EVA foam and a rotary tool, Britt carves her own version of Surtur's skull-like crown from Thor: Ragnarok.",
-  videos=[
-   "4RiRjF6XPKo",  # 2018-01-22 Foam Skull - Surtur's "Eyebrows" - Thor: Ragnarok
   ],
  ),
  dict(name="Finishing my ADAM SAVAGE Collaboration! Painting the FOAM RINGWRAITH G", kind="Build",
@@ -638,6 +626,12 @@ INVENTIONS = [
   videos=[
    "YQ7nE5cKeN0",  # 2018-03-15 Finishing my ADAM SAVAGE Collaboration! Painting the FOAM RINGWRAITH G
    "TfB-AJGu71Y",  # 2026-02-06 Foam Gauntlets!
+  ],
+ ),
+ dict(name="Sea of Thieves Skull Prop", kind="Build",
+  desc="Bill & Britt team up for an epic Sea of Thieves build!",
+  videos=[
+   "Su4KAtkODhE",  # 2018-04-02 Sea of Thieves Skull Prop - ONE DAY BUILD - Tutorial + Free Templates
   ],
  ),
  dict(name="3D Printing a Samus Metroid Helmet", kind="Build",
@@ -711,28 +705,16 @@ INVENTIONS = [
    "O790OvRy1rc",  # 2018-10-01 Hardware Store Vacuum Table - HOW TO make your own
   ],
  ),
- dict(name="HOW TO make: VENOM Symbiote Tube", kind="Build",
-  desc="Bill shows you how to make a replica tube to house your very own Venom Symbiote - with a cool twist!",
-  videos=[
-   "cwFq6bKWXbc",  # 2018-10-08 HOW TO make: VENOM Symbiote Tube (With a Twist!)
-  ],
- ),
  dict(name="ACES Astronaut Helmet Visor for Adam Savage", kind="Build",
   desc="When a Mythbuster issues you a challenge, you rise to the occasion!",
   videos=[
    "RNAc0C8nApc",  # 2018-10-11 ACES Astronaut Helmet Visor for Adam Savage - Vacuum Forming Tutorial
   ],
  ),
- dict(name="5 EPIC & Easy Halloween Costumes", kind="Build",
-  desc="Bill & Friends show you how to make 5 different AWESOME costumes for all your last-minute Halloween needs.",
+ dict(name="HOW TO animate a prop with a motor", kind="Build",
+  desc="Puppeting the venom symbiote is fun, but it's even MORE fun to automate the prop with motors and motion sensors!",
   videos=[
-   "AmQM3J5_MwI",  # 2018-10-22 5 EPIC & Easy Halloween Costumes - HOW TO
-  ],
- ),
- dict(name="Sculpting with Monster Clay", kind="Build",
-  desc="Bill and his friend Nick Kettman of Modulus Props show you how to sculpt your own custom mask!",
-  videos=[
-   "zFk5eUbsC4Q",  # 2018-10-29 Sculpting with Monster Clay! - Mask MADNESS Part 1
+   "ONzVnqEMBFE",  # 2018-10-15 HOW TO animate a prop with a motor - Venom Symbiote
   ],
  ),
  dict(name="Cyberpunk Inspired Costume", kind="Build",
@@ -741,17 +723,10 @@ INVENTIONS = [
    "FpJiCXB0Wyc",  # 2018-11-19 Cyberpunk Inspired Costume - One Day Build
   ],
  ),
- dict(name="Ghostbusters PKE Meter Mod + Repaint", kind="Build",
-  desc="Bill shows you how to mod a fantastic PKE Meter toy from the Halloween store to give it a worn, realistic finish.",
+ dict(name="THE WHAMMER - Cyberpunk 2077 Inspired Build", kind="Build",
+  desc="Bill needed a cool prop to compliment his Cyberpunk 2077 inspired costume for TwitchCon.",
   videos=[
-   "hoJx0jg1ru0",  # 2018-12-03 Ghostbusters PKE Meter Mod + Repaint
-   "TzQkyeMULIA",  # 2025-10-03 Mod for PKE Meter - Ghostbusters
-  ],
- ),
- dict(name="FALLOUT Pip Boy 2000 mk VI", kind="Build",
-  desc="Bill has an absolute blast showing you how to add electronics, repaint, and mod this beautiful Pip Boy 2000 mk VI model kit from Bethesda.",
-  videos=[
-   "Ku6jLOif42g",  # 2018-12-10 FALLOUT Pip Boy 2000 mk VI - Mod + Repaint
+   "0_JPBQWhlDo",  # 2018-11-26 THE WHAMMER - Cyberpunk 2077 Inspired Build
   ],
  ),
  dict(name="SHINY! Graphite vs. Metallic Finishes", kind="Build",
@@ -759,6 +734,18 @@ INVENTIONS = [
   videos=[
    "5smcTUJYoVE",  # 2018-12-17 SHINY! Graphite vs. Metallic Finishes - Wonder Woman's Sword of Athena
    "Z_ZdpDIrmf0",  # 2026-05-04 metallic finish
+  ],
+ ),
+ dict(name="Easy LED Lights for Cosplay", kind="Build",
+  desc="LEDs don't have to be scary!",
+  videos=[
+   "g4gqeRCbMpM",  # 2019-01-07 Easy LED Lights for Cosplay! - BORDERLANDS 2 - Unkempt Harold Build - 
+  ],
+ ),
+ dict(name="HOW TO: Borderlands Painting Tutorial! - Cel Shading - Unkempt Harold ", kind="Build",
+  desc="Nail the unique paint style from the Borderlands games with this  easy tutorial!",
+  videos=[
+   "zpBJ4pYl1Nk",  # 2019-01-14 HOW TO: Borderlands Painting Tutorial! - Cel Shading - Unkempt Harold 
   ],
  ),
  dict(name="What do I BUY? Tools Every Prop & Costume Maker Needs to Own", kind="Build",
@@ -781,25 +768,6 @@ INVENTIONS = [
    "NVRgrMECwXs",  # 2025-09-15 Lego sword build
   ],
  ),
- dict(name="Spirit Halloween Ghost Trap Mod + Repaint", kind="Build",
-  desc="There's a ghost causing trouble in our shop!",
-  videos=[
-   "YSFk37MEUYc",  # 2019-02-11 Spirit Halloween Ghost Trap Mod + Repaint
-   "58Q60Azi7fs",  # 2025-09-22 Ghost Trap mod #Ghostbusters
-  ],
- ),
- dict(name="All You Need To Know To Start Working With Leather", kind="Build",
-  desc="Bill learns some leather working basics from his buddy Gregg of Bjorn's Workshop, our local (not for long) leather expert!",
-  videos=[
-   "42HvV9uQxr0",  # 2019-02-25 All You Need To Know To Start Working With Leather!
-  ],
- ),
- dict(name="Finishing my Fallout 4 Laser Pistol", kind="Build",
-  desc="Bill got this amazing Fallout Laser Pistol kit from Jake of Reciprocation Props during the Prop Tarts Secret Santa event.",
-  videos=[
-   "mfMyj4FN0J0",  # 2019-03-04 Finishing my Fallout 4 Laser Pistol! - Assembly and Awesome Painting T
-  ],
- ),
  dict(name="Far Cry New Dawn", kind="Build",
   desc="Bill shows you how to make the Judge companion mask from one of his favorite games - Far Cry: New Dawn!",
   videos=[
@@ -812,22 +780,10 @@ INVENTIONS = [
    "Qm-CKsWfOic",  # 2019-03-18 How to Make a Custom Paint Booth with Filter & Lights!
   ],
  ),
- dict(name="Foam Clay - How to Sculpt, Cast, Carve, & Paint", kind="Build",
-  desc="Steve from SKS Props has an awesome new product - Foam Clay!",
-  videos=[
-   "8kM8IGONYCM",  # 2019-04-01 Foam Clay - How to Sculpt, Cast, Carve, & Paint!
-  ],
- ),
  dict(name="DIY Dragon Egg + FREE Blueprints", kind="Build",
   desc="Bill's got a super easy tutorial to help makers of all skill levels create a super cool dragon egg - just like the ones seen in Game of Thrones!",
   videos=[
    "ja0QTmt6tfU",  # 2019-04-15 DIY Dragon Egg + FREE Blueprints
-  ],
- ),
- dict(name="APEX LEGENDS - 3D Printing the WRAITH HEIRLOOM Dagger on the Moai 200", kind="Build",
-  desc="Bill uses the Moai 200 to print an Apex Legends dagger in ONE PIECE!",
-  videos=[
-   "J7njc7HciTg",  # 2019-04-22 APEX LEGENDS - 3D Printing the WRAITH HEIRLOOM Dagger on the Moai 200!
   ],
  ),
  dict(name="3D Printing Zero's Mask", kind="Build",
@@ -848,29 +804,11 @@ INVENTIONS = [
    "Rh3JrsZvX-k",  # 2019-05-13 How to make Astrid's Dragon Helmet! - HOW TO TRAIN YOUR DRAGON 3
   ],
  ),
- dict(name="Arya's GAME OF THRONES Dagger", kind="Build",
-  desc="Bill takes you on a journey as he \"forges\" the Catspaw Dagger from Game of Thrones!",
-  videos=[
-   "Lpv9m_NSz9o",  # 2019-05-20 Arya's GAME OF THRONES Dagger - How To + FREE Blueprints!
-  ],
- ),
- dict(name="Gold Leafed Elder Scroll from SKYRIM", kind="Build",
-  desc="Bill figured it was about time he got around to finishing the Elder Scroll prop he made 6 years ago, but simple paint just wouldn't do!",
-  videos=[
-   "Wvy-3lTt33w",  # 2019-06-03 Gold Leafed Elder Scroll from SKYRIM
-  ],
- ),
  dict(name="FALLOUT 4 - How to Make a Mini-Nuke with EVA Foam", kind="Build",
   desc="Itty bitty nuke!",
   videos=[
    "zByepy85DZg",  # 2019-06-10 FALLOUT 4 - How to Make a Mini-Nuke with EVA Foam!
    "W52CN_ZTFlU",  # 2025-05-16 Fallout Mini Nuke #fallout
-  ],
- ),
- dict(name="Iron Man's Endgame Nanite Holder", kind="Build",
-  desc="Join Bill as he creates his own Mark 50 Arc Reactor that lights up and sits on his chest like magic!",
-  videos=[
-   "1EQ8XCuPjpc",  # 2019-06-17 Iron Man's Endgame Nanite Holder
   ],
  ),
  dict(name="WORKING Fat Man Mini-Nuke Launcher", kind="Build",
@@ -897,12 +835,6 @@ INVENTIONS = [
    "35rRSRBgWms",  # 2019-10-14 Make, Modify and Improve your Halloween Costume
   ],
  ),
- dict(name="Let's Make Foam Helmets! BOBA FETT & THE MANDALORIAN", kind="Build",
-  desc="Let's Make Foam Helmets! BOBA FETT & THE MANDALORIAN | 500k Community Challenge.",
-  videos=[
-   "BSuEIMpj_S4",  # 2019-11-11 Let's Make Foam Helmets! BOBA FETT & THE MANDALORIAN | 500k Community 
-  ],
- ),
  dict(name="IT'S FINALLY FINISHED! Resin Mehrunes' Razor Dagger", kind="Build",
   desc="Bill made this Mehrunes' Razor kit 7 years ago for a commission but never made one for himself!",
   videos=[
@@ -910,10 +842,10 @@ INVENTIONS = [
    "F3FFzozIyB8",  # 2025-05-12 Mehrunes' Razor #oblivion #skyrim
   ],
  ),
- dict(name="Rotary Tool Basics", kind="Build",
-  desc="Bill's back in the shop to share some basic rotary tool techniques!",
+ dict(name="A Prop Maker's Dream! The Good Samaritan", kind="Build",
+  desc="A Prop Maker's Dream! The Good Samaritan | HELLBOY.",
   videos=[
-   "p1UDG3vtFSk",  # 2020-07-06 Rotary Tool Basics: Your New Favorite Tool
+   "CZoDwYdR4D4",  # 2020-01-20 A Prop Maker's Dream! The Good Samaritan | HELLBOY
   ],
  ),
  dict(name="LOVE AND PEACE! 3D Printing Vash's Revolver", kind="Build",
@@ -928,13 +860,6 @@ INVENTIONS = [
    "ph_j_PN599o",  # 2020-12-09 Making THE MASK of Loki - FREE Templates!
   ],
  ),
- dict(name="Punished Props Show & Tell", kind="Build",
-  desc="Bill's looking through his Fallout props and costume pieces today!",
-  videos=[
-   "BJx6e050X-I",  # 2021-01-25 Punished Props Show & Tell: Skyrim!
-   "WKbOfjtKyVs",  # 2021-02-15 Punished Props Show & Tell: Fallout!
-  ],
- ),
  dict(name="Textured Foam with 3D Printed Stamps? Awesome Foamsmithing Trick", kind="Build",
   desc="Bill's been experimenting with 3D printed texture stamps for EVA foam.",
   videos=[
@@ -942,10 +867,10 @@ INVENTIONS = [
    "_F2cHE6v0c8",  # 2026-04-28 foam stamps!
   ],
  ),
- dict(name="Immortal JEDI Mashup", kind="Build",
-  desc="Bill loves Highlander and Star Wars, so when he got his hands on a sword mold from Highlander 2, a mash up had to happen!",
+ dict(name="Ecto Goggles from Scratch", kind="Build",
+  desc="We thought we were going to modify the Spirit Halloween Ecto Goggles, but then Bill got other ideas!",
   videos=[
-   "GqV4O_sXyIg",  # 2021-09-20 Immortal JEDI Mashup - Making the Highlander LIGHTSABER
+   "CAHUl_taLWo",  # 2021-11-15 Ecto Goggles from Scratch - Full Ghostbusters Prop Build
   ],
  ),
  dict(name="Lord of the Rings Lightsaber", kind="Build",
@@ -982,25 +907,11 @@ INVENTIONS = [
    "9zncjfnF110",  # 2022-09-26 Our Most Satisfying Build
   ],
  ),
- dict(name="Gem Casting Basics", kind="Build",
-  desc="We broke out the molding and casting supplies to cast some gems!",
-  videos=[
-   "N6oL_hdOgec",  # 2024-05-06 Gem Casting Basics
-   "5G4EuMzL14w",  # 2026-03-26 gem casting
-  ],
- ),
  dict(name="All Metal Moiety Dagger from Riven", kind="Build",
   desc="All Metal Moiety Dagger from Riven.",
   videos=[
    "-XzAVuTJ2FY",  # 2024-06-25 All Metal Moiety Dagger from Riven
    "ceigpmkAHzI",  # 2025-10-02 Riven Dagger
-  ],
- ),
- dict(name="So Long, Coffin Stuffers", kind="Build",
-  desc="How many wheels did we make?",
-  videos=[
-   "v7nxbyvMlHc",  # 2024-10-21 So Long, Coffin Stuffers! - Bender Car Part 3
-   "dzYqMKvuid8",  # 2025-09-13 So Long, Coffin Stuffers! - Bender Car Part 10
   ],
  ),
  dict(name="I made a Tape Mate too", kind="Build",

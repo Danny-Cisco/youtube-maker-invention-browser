@@ -19,28 +19,10 @@ INVENTIONS = [
    "BnwBdeQB7vQ",  # 2014-12-11 Digital Ding Dong Ditch Prank - hacking wireless doorbells w/Arduino a
   ],
  ),
- dict(name="USBdriveby - exploiting USB in style", kind="Build",
-  desc="A version for Windows and OS X is available on github.",
-  videos=[
-   "aSLEq7-hlmo",  # 2014-12-17 USBdriveby - exploiting USB in style
-  ],
- ),
  dict(name="KeySweeper - covert Microsoft wireless keyboard sniffer using Arduino ", kind="Build",
   desc="Keystrokes are sent back to the KeySweeper operator over the Internet via an optional GSM chip, or can be stored on a flash chip and delivered wirelessly when a secondary KeySweeper device comes within wireless range …",
   videos=[
    "WqkmGG0biXc",  # 2015-01-12 KeySweeper - covert Microsoft wireless keyboard sniffer using Arduino 
-  ],
- ),
- dict(name="Break open any Master Combo Lock in 8 tries or less", kind="Build",
-  desc="Crack open any Master combination lock in 8 combinations or less!",
-  videos=[
-   "09UgmwtL12c",  # 2015-04-28 Break open any Master Combo Lock in 8 tries or less!
-  ],
- ),
- dict(name="Explanation of cracking a combo lock in 8 attempts or less", kind="Build",
-  desc="In this follow-up video I go over the full details of cracking open any Master combination lock in 8 tries or less.",
-  videos=[
-   "qkolWO6pAL8",  # 2015-05-11 Explanation of cracking a combo lock in 8 attempts or less!
   ],
  ),
  dict(name="Combo Breaker - motorized combo lock cracking device", kind="Build",
@@ -61,22 +43,10 @@ INVENTIONS = [
    "xcUpg-qAJ74",  # 2015-06-04 Protecting against garage hacking
   ],
  ),
- dict(name="Unlocking Motion-Sensor Secured Doors With Air Duster", kind="Build",
-  desc="Unlocking Motion-Sensor Secured Doors With Air Duster (Canned Air)",
-  videos=[
-   "xcA7iXSNmZE",  # 2015-07-08 Unlocking Motion-Sensor Secured Doors With Air Duster
-  ],
- ),
  dict(name="OwnStar - hacking cars with OnStar to locate, unlock and remote start ", kind="Build",
   desc="OwnStar is a device that can locate, unlock and remote start any vehicle with OnStar RemoteLink after intercepting communication between the RemoteLink mobile app and OnStar servers.",
   videos=[
    "3olXUbS-prU",  # 2015-07-30 OwnStar - hacking cars with OnStar to locate, unlock and remote start 
-  ],
- ),
- dict(name="MagSpoof - magnetic stripe spoofer / credit card magstripe emulator", kind="Build",
-  desc="MagSpoof is a device that can spoof/emulate any magnetic stripe or credit card *wirelessly*.",
-  videos=[
-   "UHSFf0Lz1qc",  # 2015-11-24 MagSpoof - magnetic stripe spoofer / credit card magstripe emulator
   ],
  ),
  dict(name="PoisonTap - exploiting locked machines w/Raspberry Pi Zero", kind="Build",
@@ -101,12 +71,6 @@ INVENTIONS = [
   desc="laser gradient in glass.",
   videos=[
    "eejDS2FBOtU",  # 2026-06-03 laser gradient in glass
-  ],
- ),
- dict(name="ESP32 self balancing cube", kind="Build",
-  desc="ESP32 self balancing cube.",
-  videos=[
-   "ol9q6mtPqq4",  # 2026-07-13 ESP32 self balancing cube
   ],
  ),
 ]

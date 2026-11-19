@@ -7,42 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'get-circuit-bent', 'name': 'Get Circuit Bent', 'person': 'Get Circuit Bent', 'tagline': 'Circuit bending and bringing old electronics back to life.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Fancy New Guitar", kind="Build",
-  desc="Song is a butchered cover of Love in the Time of Human Papillomavirus by AJJ with my sincerest apologies.",
-  videos=[
-   "3z0ETmdAh7w",  # 2020-01-21 Fancy New Guitar
-  ],
- ),
- dict(name="Embarrassingly Useful Mantras for the End of the World", kind="Build",
-  desc="Seeing how much of a live performance I could program, came out pretty ok!",
-  videos=[
-   "cAQTr7w626I",  # 2020-03-30 Embarrassingly Useful Mantras for the End of the World
-  ],
- ),
- dict(name="Dammit - QChord", kind="Build",
-  desc="The Suzuki QChord is a serious instrument for serious people.",
-  videos=[
-   "JRFi7ghMpWs",  # 2020-04-20 Dammit - QChord
-  ],
- ),
- dict(name="SororityGrlHell.mp3", kind="Build",
-  desc="Horrible sounds sampled from sorority girl videos ham-handedly smashed together with some tape loops, an Omnichord, and sundry Casio keyboards.",
-  videos=[
-   "Nrtb5_hYNc8",  # 2020-04-30 SororityGrlHell.mp3
-  ],
- ),
- dict(name="Higher Love - Steve Winwood", kind="Build",
-  desc="A chiptuney synthy cover of Steve Winwood's Higher Love.",
-  videos=[
-   "-bzp0Tc3K8I",  # 2020-06-14 Higher Love - Steve Winwood (Chiptune/Synthpop Cover)
-  ],
- ),
- dict(name="Glitch Mixer Demo", kind="Build",
-  desc="Quick demo of the glitch video mixer I made.",
-  videos=[
-   "_QH9TjtXYEM",  # 2020-07-20 Glitch Mixer Demo
-  ],
- ),
  dict(name="Power Glove MIDI Controller Demo", kind="Build",
   desc="Quick Demo of the Power Glove MIDI Controller I built.",
   videos=[
@@ -55,28 +19,10 @@ INVENTIONS = [
    "BPM9VEJxe_E",  # 2020-08-22 MSXey Synth Demo
   ],
  ),
- dict(name="Baby Blue Demo", kind="Build",
-  desc="Quick demo to give an idea of the sounds this circuit bent keyboard makes.",
-  videos=[
-   "PJVe3P9feUc",  # 2020-09-23 Baby Blue Demo
-  ],
- ),
  dict(name="N64 and GameCube Controller MIDI Interfaces", kind="Build",
   desc="Demonstration of the N64 and GameCube MIDI interfaces.",
   videos=[
    "hnb99mErlQU",  # 2020-11-25 N64 and GameCube Controller MIDI Interfaces!
-  ],
- ),
- dict(name="Gator Face", kind="Build",
-  desc="The Legend of Gator Face is the best straight-to-VHS gator movie ever made.",
-  videos=[
-   "keekv00DHng",  # 2021-02-01 Gator Face
-  ],
- ),
- dict(name="Noir Vibes - Sunday Jam", kind="Build",
-  desc="Video is The Long Haul x Crying Freeman.",
-  videos=[
-   "xgN3C0xfCv8",  # 2021-02-01 Noir Vibes - Sunday Jam
   ],
  ),
  dict(name="Twinkle Echo Echo/Filter Effect Module Demo", kind="Build",
@@ -97,29 +43,11 @@ INVENTIONS = [
    "6ITLHbkJ7C4",  # 2021-03-11 Shouty Cat Restive Filter Effect Module Demo
   ],
  ),
- dict(name="Circuit Bent Casio SK-1", kind="Build",
-  desc="Complete demo of the custom circuit bent Casio SK-1 I did for Ness Lake!",
-  videos=[
-   "8rj6zfIaVts",  # 2021-04-18 Circuit Bent Casio SK-1 - Complete Demo (Commission for Ness Lake)
-  ],
- ),
- dict(name="Hamberder Soundscape Mangler Demo", kind="Build",
-  desc="This was a bit of a failed experiment, since what I was going for was closer to a pedal than this turned out.",
-  videos=[
-   "ycMJNzTI6tg",  # 2021-04-28 Hamberder Soundscape Mangler Demo
-  ],
- ),
  dict(name="Nintendo 64 Controller to MIDI Interface Tech Demo", kind="Build",
   desc="Full length demo of my N64 to MIDI Interface!",
   videos=[
    "UqKTtgpL9DQ",  # 2021-06-20 Nintendo 64 Controller to MIDI Interface Tech Demo
    "ovje4MHV0gs",  # 2021-06-20 Gamecube Controller to MIDI  Interface Tech Demo
-  ],
- ),
- dict(name="Circuit Bent Casio MT-400V", kind="Build",
-  desc="Demo for my latest commission, a circuit-bent/modded Casio MT-400V!",
-  videos=[
-   "G-_FRUykGnU",  # 2021-08-13 Circuit Bent Casio MT-400V
   ],
  ),
  dict(name="Clock Modder Demo", kind="Build",
@@ -135,7 +63,7 @@ INVENTIONS = [
    "ZF0-4DFcV10",  # 2024-08-10 Circuit Bending a Cat Keyboard: Pitch Mod and LFO | SCBSS 1.2
   ],
  ),
- dict(name="Fixing a Numark Video Mixer", kind="Build",
+ dict(name="Fixing a Numark Video Mixer", kind="Restoration",
   desc="Makin’ It Work is a series where I take broken or messed up stuff and, well, make it work!",
   videos=[
    "rCbWeOV460k",  # 2024-08-18 Fixing a Numark Video Mixer | Makin' It Work 1
@@ -149,28 +77,16 @@ INVENTIONS = [
    "glWDAbDxrLY",  # 2024-10-31 Circuit Bending an Effects Unit/Pedal (Yamaha REX50) | SCBSS 2.3
   ],
  ),
- dict(name="Repairing a Califone Card Master Card Recorder", kind="Build",
+ dict(name="Repairing a Califone Card Master Card Recorder", kind="Restoration",
   desc="Makin’ It Work is a series where I take broken or messed up stuff and, well, make it work!",
   videos=[
    "gfwk4rlzZZ0",  # 2024-09-01 Repairing a Califone Card Master Card Recorder | Makin' It Work 2
   ],
  ),
- dict(name="Repairing a Junk Store Windows XP Laptop", kind="Build",
+ dict(name="Repairing a Junk Store Windows XP Laptop", kind="Restoration",
   desc="Makin’ It Work is a series where I take broken or messed up stuff and, well, make it work!",
   videos=[
    "bdlrjQqG1pI",  # 2024-10-03 Repairing a Junk Store Windows XP Laptop | Makin' It Work 3
-  ],
- ),
- dict(name="Be Cool About Fire Safety", kind="Build",
-  desc="Glitch Video I made for Glitchtober 2024.",
-  videos=[
-   "GxCzBL-be7I",  # 2024-10-11 (Glitch Video) Be Cool About Fire Safety
-  ],
- ),
- dict(name="Troubleshooting Power Issues", kind="Build",
-  desc="Makin’ It Work is a series where I take broken or messed up stuff and, well, make it work!",
-  videos=[
-   "MM1pTe1W9Wo",  # 2024-11-14 Troubleshooting Power Issues - Suzuki QChord | Makin' It Work 4
   ],
  ),
  dict(name="Circuit Bending a Musical Moose", kind="Build",
@@ -199,19 +115,7 @@ INVENTIONS = [
    "zg-kOUHmbnk",  # 2025-04-10 Building a Digital Glitch Mixer (Karl Klomp Video Mixer) | SCBSS 3
   ],
  ),
- dict(name="Clot", kind="Build",
-  desc="The audio was made entirely with clips from a 90s edutainment game Journey into the Brain and a trusty circuit bent Casio SK-1.",
-  videos=[
-   "kYdP_ZgYEJs",  # 2025-04-16 Clot. (Bent//Broken 2025)
-  ],
- ),
- dict(name="Circuit Bending a VTech VideoPainter", kind="Build",
-  desc="It’s the Super Circuit Bending Super Show!",
-  videos=[
-   "EbMWyWU8nX0",  # 2025-06-11 Circuit Bending a VTech VideoPainter | SCBSS 4
-  ],
- ),
- dict(name="Recapping Old Electronics", kind="Build",
+ dict(name="Recapping Old Electronics", kind="Restoration",
   desc="Never used JLCPCB?",
   videos=[
    "IDVD0XXiGhY",  # 2026-03-25 Recapping Old Electronics: When, Why & How to Replace Capacitors (Full

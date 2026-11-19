@@ -47,19 +47,6 @@ INVENTIONS = [
    "glfiX1KOtyk",  # 2020-07-20 3D PRINTED TANK SKATEBOARD - THE BUILD
   ],
  ),
- dict(name="Suspension For The Big Tank", kind="Build",
-  desc="This is the suspension of the new Big Tank, and BIG is the word, please let me know your thoughts in the comments, me?",
-  videos=[
-   "0lAvbVFSjc0",  # 2019-03-15 SUSPENSION FOR THE BIG TANK
-  ],
- ),
- dict(name="Testing The Racing Paddle Boat", kind="Build",
-  desc="This week I tested the paddle racing boat on a beautiful lake, very early in the morning.",
-  videos=[
-   "d8pOZrAGpdI",  # 2019-04-05 RACING PADDLE BOAT
-   "0nUUX5nB8qA",  # 2019-04-12 TESTING THE RACING PADDLE BOAT
-  ],
- ),
  dict(name="Giant 3D Printed Nerf Gatling Gun", kind="Build",
   desc="GIANT 3D PRINTED NERF GATLING GUN.",
   videos=[
@@ -108,12 +95,6 @@ INVENTIONS = [
   desc="Hi everyone!",
   videos=[
    "-IaqWdcE4Y4",  # 2020-04-24 3D PRINTED RC MINI TANK
-  ],
- ),
- dict(name="World Fastest Toy Train", kind="Build",
-  desc="This is the world fastest toy train of this size (as far as I know) reaching a scale speed of 485 Kmph.",
-  videos=[
-   "ikFAfHOeNl8",  # 2020-05-10 WORLD FASTEST TOY TRAIN
   ],
  ),
  dict(name="Ginormous 3D Printer Built From Scratch", kind="Build",
@@ -301,12 +282,6 @@ INVENTIONS = [
   desc="This project has been in the works for a very long time and finally I got to make it real.",
   videos=[
    "EG3dnPZUVh4",  # 2025-12-07 I made a Midi Slapophone
-  ],
- ),
- dict(name="This made Marble Seconds possible", kind="Build",
-  desc="Since I added the new marble sorter/elevator to the Marble Clock that shows seconds I've been able to speed up testing about 20x so I've been doing good progress on diagnosing",
-  videos=[
-   "AkeFqT9NEA4",  # 2026-03-27 This made Marble Seconds possible
   ],
  ),
  dict(name="I built a 3D printed Motorbike", kind="Build",

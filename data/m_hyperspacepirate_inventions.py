@@ -14,11 +14,10 @@ INVENTIONS = [
    "GJcQfJ6JTZg",  # 2021-11-24 Automatic Coil Winding Machine
   ],
  ),
- dict(name="Hand-Cranked 2V generator", kind="Build",
-  desc="How to build a hand-cranked generator that creates ~2V and lights up several LED's.",
+ dict(name="3-Axis Magnetometer Build", kind="Build",
+  desc="This video shows how to create a magnetometer using hall effect sensors.",
   videos=[
-   "0PiGNDu3Oqs",  # 2021-01-01 Hand-Cranked 2V generator
-   "2j90m6k2vCo",  # 2021-01-29 32 Volt Hand-cranked Generator
+   "Nm9DAqkCOKU",  # 2021-01-15 3-Axis Magnetometer Build
   ],
  ),
  dict(name="Electromagnetic Ring Accelerator", kind="Build",
@@ -34,10 +33,22 @@ INVENTIONS = [
    "uNbL3tRZeMQ",  # 2021-02-13 Electromagnetic Accelerator Improvements Part II
   ],
  ),
+ dict(name="150V Mini Mortar", kind="Build",
+  desc="In this video i make a tiny electromagnetic mortar powered from a 110V outlet.",
+  videos=[
+   "Wedh-vp-pWI",  # 2021-02-16 150V Mini Mortar
+  ],
+ ),
  dict(name="High Voltage Induction Launcher", kind="Build",
   desc="In this video I'm going to use a pulse of current from a 1,200 volt capacitor bank to launch metal objects through electromagnetic induction.",
   videos=[
    "UUI0k7w_09g",  # 2021-03-05 High Voltage Induction Launcher
+  ],
+ ),
+ dict(name="30W Bipolar Tesla Coil", kind="Build",
+  desc="This is a simple bipolar Tesla coil that's small enough to touch while it's running.",
+  videos=[
+   "npypgEVxdRU",  # 2021-03-07 30W Bipolar Tesla Coil
   ],
  ),
  dict(name="Mini Induction Heater", kind="Build",
@@ -46,22 +57,34 @@ INVENTIONS = [
    "G9mudqJ46xM",  # 2021-04-04 Mini Induction Heater
   ],
  ),
- dict(name="120,000-Volt Multiplier", kind="Build",
-  desc="This video shows how to build a cockroft-walton type voltage multiplier using a flyback transformer as a first stage driven by a ZVS driver with a 12V input.",
-  videos=[
-   "SmjKbNoK6nU",  # 2021-04-12 120,000-Volt Multiplier
-  ],
- ),
  dict(name="My Homemade Submarine", kind="Build",
   desc="This is a video about my homemade submarine, which I've been working on off and on for the last 2 years.",
   videos=[
    "GUOHjON9RVg",  # 2021-04-18 My Homemade Submarine
   ],
  ),
+ dict(name="Wireless Power Transmission", kind="Build",
+  desc="Here i'm going to show how i built a wireless power transmitter / receiver that can power things up to ~2 ft away.",
+  videos=[
+   "D9IGjKJaO6w",  # 2021-05-02 Wireless Power Transmission
+  ],
+ ),
+ dict(name="Mechanical inverter/transformer", kind="Build",
+  desc="This video shows how I built a mechanical inverter/transformer, which can take 3V DC from a pair of AA Batteries and turn it into 700V.",
+  videos=[
+   "cRY7HEzoOwk",  # 2021-05-23 Mechanical inverter/transformer - 3V to 700V
+  ],
+ ),
  dict(name="1 MHz AM Transmitter", kind="Build",
   desc="This video shows how to build a radio that transmits a simple 1 kHz tone on the AM band, which can be heard in a handheld radio or car radio up to 100 yards away.",
   videos=[
    "mcD3uBld4Y4",  # 2021-06-05 1 MHz AM Transmitter
+  ],
+ ),
+ dict(name="3d Printed Waterwheel Generator", kind="Build",
+  desc="The shafts / bearings are 8",
+  videos=[
+   "v7t6dXT-Ffs",  # 2021-06-19 3d Printed Waterwheel Generator
   ],
  ),
  dict(name="Solid State Tesla Coil", kind="Build",
@@ -77,12 +100,6 @@ INVENTIONS = [
   desc="This is a rebuild of an RC lawnmower i built several years ago,",
   videos=[
    "T66Ig4iOcig",  # 2021-09-02 DIY Remote Controlled Electric Lawnmower
-  ],
- ),
- dict(name="Ignition Coil Drivers", kind="Build",
-  desc="In this video I show the differences between an ignition coil (pulse transformer) and other types of transformers, and a few different ways to drive them to get a high voltage output.",
-  videos=[
-   "1EabqJJnWhc",  # 2021-10-09 Ignition Coil Drivers
   ],
  ),
  dict(name="8-Bit Adder built from 152 Transistors", kind="Build",
@@ -145,16 +162,28 @@ INVENTIONS = [
    "Yg5swK_AnbU",  # 2022-04-09 3d Printed Compressed Air Turbine
   ],
  ),
- dict(name="Submarine Kayak", kind="Build",
-  desc="This is the first video in my series on converting a kayak into a wet submarine.",
+ dict(name="Comparing Turbine Rotors", kind="Build",
+  desc="NOTE: There's an error in the graphs where i label 20.1W as the max power on a data point below 20W.",
   videos=[
-   "shNaC7d4CMA",  # 2022-06-07 Submarine Kayak - Part 1
+   "RMUHxo2TOUk",  # 2022-04-27 Comparing Turbine Rotors
+  ],
+ ),
+ dict(name="RC Airboat with a Water Cannon", kind="Build",
+  desc="In this video I'll show how i built an RC airboat for racing.",
+  videos=[
+   "SdJwY4Huukc",  # 2022-06-25 RC Airboat with a Water Cannon
   ],
  ),
  dict(name="Magnetic Remote Control", kind="Build",
   desc="In this video I'll show how I built a remote control that works entirely off the magnetic field of a coil (unlike a typical radio transmitter).",
   videos=[
    "AvyeK_MXTL0",  # 2022-07-09 Magnetic Remote Control
+  ],
+ ),
+ dict(name="Inductor Tester", kind="Build",
+  desc="In this video i show how to build a circuit that can measure the value of an inductor in conjunction with an oscilloscope.",
+  videos=[
+   "IRRF1FadkFw",  # 2022-08-05 Inductor Tester
   ],
  ),
  dict(name="Tabletop Tesla Coil", kind="Build",
@@ -167,16 +196,6 @@ INVENTIONS = [
   desc="In this video I'll show how to build a resonant mechanical oscillator that's driven by an electromagnet.",
   videos=[
    "u7k2wiY4Flo",  # 2022-10-30 Electro-Mechanical Resonant Oscillator
-  ],
- ),
- dict(name="Pulse Tube Cryocooler", kind="Build",
-  desc="For pistons, I used pneumatic actuators.",
-  videos=[
-   "GjRoThMyNGA",  # 2022-12-07 Pulse Tube Cryocooler - Part 1
-   "WOmjJFk8rl0",  # 2022-12-27 Pulse Tube Cryocooler - Part 2 (-75C)
-   "cy8aGMH8Tz4",  # 2023-01-21 Pulse Tube Cryocooler (Part 3)
-   "vC2it8LHKSQ",  # 2023-02-17 Pulse Tube Cryocooler (Part 4) - Valve Controlled
-   "2LwwqrbKzQ8",  # 2026-04-25 Pulse Tube Cryocooler (Part V)
   ],
  ),
  dict(name="Making Dry Ice from scratch", kind="Build",
@@ -205,12 +224,6 @@ INVENTIONS = [
    "oI_QEbG6mDE",  # 2024-04-11 DIY Cascade Refrigeration System (Part III)
   ],
  ),
- dict(name="Joule-Thompson Cryocooler", kind="Build",
-  desc="In this video I'm going to examine the performance of a homemade cryocooler using the joule-thompson effect.",
-  videos=[
-   "r_B0RmRlFHA",  # 2023-07-03 Joule-Thompson Cryocooler
-  ],
- ),
  dict(name="Seeing Radiation with the Naked Eye", kind="Build",
   desc="In this video I'll attempt to build a Cloud Chamber for visualizing subatomic particle trails.",
   videos=[
@@ -227,30 +240,6 @@ INVENTIONS = [
   desc="In this video I'll show how I built my Hydrogen gas generator using electrolysis of a 10% Sodium Hydroxide solution with 316 stainless steel electrodes.",
   videos=[
    "oIWgzVaGn4Y",  # 2023-10-04 Automated Hydrogen Generator
-  ],
- ),
- dict(name="Battery-Powered Magnetron", kind="Build",
-  desc="In this video I'll explain how a Magnetron works, collect some current/voltage numbers on a typical household magnetron from a microwave oven, and show how to power one off a 12V battery.",
-  videos=[
-   "udIEGE5mfcA",  # 2023-11-20 Battery-Powered Magnetron
-  ],
- ),
- dict(name="Dry Ice from Sea Shells", kind="Build",
-  desc="promo code HYPERSPACEPIRATE for a Holiday Special offer of 5 extra",
-  videos=[
-   "JN_7KgdB1V8",  # 2023-12-05 Dry Ice from Sea Shells
-  ],
- ),
- dict(name="Producing refrigeration from my pee", kind="Build",
-  desc="website or domain using code HYPERSPACEPIRATE",
-  videos=[
-   "f6mLykQjxZ0",  # 2024-01-08 Producing refrigeration from my pee
-  ],
- ),
- dict(name="How to make Ethane Refrigerant", kind="Build",
-  desc="website or domain using code HYPERSPACEPIRATE",
-  videos=[
-   "C3LCjp_REYA",  # 2024-02-07 How to make Ethane Refrigerant (R170)
   ],
  ),
  dict(name="Automated Ethylene Production Plant", kind="Build",
@@ -277,12 +266,6 @@ INVENTIONS = [
    "7M5x2OFYP-k",  # 2024-08-13 Making Copper Parts from Algaecide
   ],
  ),
- dict(name="Gyro-Stabilized Monorail Train", kind="Build",
-  desc="website or domain using code HYPERSPACEPIRATE",
-  videos=[
-   "OpyLmIjZaxY",  # 2024-08-23 Gyro-Stabilized Monorail Train
-  ],
- ),
  dict(name="DIY Micro Steam Powerplant", kind="Build",
   desc="In this video I'll use a steam turbine to generate electricity using a BLDC motor as a generator to create 3-phase alternating current.",
   videos=[
@@ -295,12 +278,6 @@ INVENTIONS = [
    "9MdJLTgTCSU",  # 2024-10-09 Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)
   ],
  ),
- dict(name="Acetylene Gas from Sea Shells and Driftwood", kind="Build",
-  desc="your first purchase of a website or domain using code",
-  videos=[
-   "AiHksObCLuU",  # 2024-11-14 Acetylene Gas from Sea Shells and Driftwood
-  ],
- ),
  dict(name="Making Gigantic Ice Cubes In My Garage", kind="Build",
   desc="your first purchase of a website or domain using code",
   videos=[
@@ -311,12 +288,6 @@ INVENTIONS = [
   desc="In this video I'll demonstrate the incredible power of electricity when it's stored at high voltage in a large capacitor bank.",
   videos=[
    "agwKNLoU6g8",  # 2025-01-20 4,000-Joule Exploding Wire Machine
-  ],
- ),
- dict(name="Transmitting Wireless Power over 100 ft", kind="Build",
-  desc="In this video I'll be attempting to get the longest range",
-  videos=[
-   "adTKHcrOzMU",  # 2025-03-14 Transmitting Wireless Power over 100 ft
   ],
  ),
  dict(name="DIY X-ray Machine", kind="Build",
@@ -337,12 +308,6 @@ INVENTIONS = [
    "CLX_pQbSFFg",  # 2025-06-07 Making Plasma By Hand
   ],
  ),
- dict(name="1,500 Watt HHO Gas Generator", kind="Build",
-  desc="In this video I'll show the process of building my 1,500 watt HHO gas generator.",
-  videos=[
-   "_nKihWAYrEM",  # 2025-07-14 1,500 Watt HHO Gas Generator
-  ],
- ),
  dict(name="Making Sodium Metal", kind="Build",
   desc="In this video I'll explain different methods of producing metallic Sodium, and then make a bunch with electrolysis of molten Sodium Hydroxide (known as the Castner process).",
   videos=[
@@ -353,6 +318,12 @@ INVENTIONS = [
   desc="Picking up where I left off with my 1,500W HHO torch video, I'm once again trying to devise a way to gas weld without buying oxygen and acetylene.",
   videos=[
    "7IkyVFxDQQw",  # 2025-09-19 Welding with Natural Gas and a DIY Oxygen Concentrator
+  ],
+ ),
+ dict(name="Turning X-rays into 3d prints with a DIY CT scanner", kind="Build",
+  desc="The scanner uses an old phone as the camera, which is triggerd by a conductive probe that triggers the touch screen when a relay makes electrical contact between the probe and the phone case.",
+  videos=[
+   "Ht9JzOryaKc",  # 2025-10-20 Turning X-rays into 3d prints with a DIY CT scanner
   ],
  ),
  dict(name="Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Cera", kind="Build",
@@ -379,12 +350,6 @@ INVENTIONS = [
    "mCLPCMgDScI",  # 2026-03-08 Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply
   ],
  ),
- dict(name="Storing Solar Energy As Ice For Air Conditioning", kind="Build",
-  desc="In this video I'll be showing how I store solar energy as ice in a \"thermal battery\" that can be stored and used later for air conditioning.",
-  videos=[
-   "HSvguJ7u3VM",  # 2026-03-21 Storing Solar Energy As Ice For Air Conditioning
-  ],
- ),
  dict(name="Testing Refrigerants and Capillary Tubes to Find Peak Performance", kind="Build",
   desc="In this video I'll show how I built a test fixture to measure the Heat Lift and Coefficient of Performance (COP) versus.",
   videos=[
@@ -403,24 +368,6 @@ INVENTIONS = [
    "Jj7Q7OqaW4A",  # 2026-06-06 Building a Gifford-McMahon Cryocooler With 3d-Printed Parts
    "4lNIHBHzbn8",  # 2026-08-29 Gifford-McMahon Cryocooler Part I - Building The Helium Compressor
    "9-Bq0iL6F8w",  # 2026-09-12 Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making 
-  ],
- ),
- dict(name="Generating Electrical Power From Sugar", kind="Build",
-  desc="In this video I'll demonstrate how to generate electrical power from sugar, albeit in a very roundabout way.",
-  videos=[
-   "RvfuDIWNzGc",  # 2026-06-27 Generating Electrical Power From Sugar
-  ],
- ),
- dict(name="Filling High Pressure CO2 Tanks From Fermentation", kind="Build",
-  desc="In this video I'll show how to capture the Carbon Dioxide generated during alcohol fermentation and use it to fill high pressure tanks as a liquid.",
-  videos=[
-   "pIGd8ZqkmzE",  # 2026-07-25 Filling High Pressure CO2 Tanks From Fermentation
-  ],
- ),
- dict(name="Turning Fruits Into Refrigerant", kind="Build",
-  desc="In keeping with the theme of my last two videos, I decided to try another chemistry project involving fermentation.",
-  videos=[
-   "5CVnrzNm310",  # 2026-07-31 Turning Fruits Into Refrigerant
   ],
  ),
  dict(name="DIY Synthetic Fuel Part I", kind="Build",

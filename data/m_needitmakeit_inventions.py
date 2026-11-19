@@ -7,7 +7,7 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'need-it-make-it', 'name': 'NeedItMakeIt', 'person': 'NeedItMakeIt', 'tagline': 'Practical and playful 3D-printed builds.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Vintage Bertram Lathe Restoration", kind="Build",
+ dict(name="Vintage Bertram Lathe Restoration", kind="Restoration",
   desc="A few people have shown some interest in the lathe restoration and the current status, so I wanted to put a quick video together to review the progress, as well as a few projects that I still need to take care of in f…",
   videos=[
    "HM2EJgTs_Lg",  # 2018-04-24 Vintage Bertram Metal Lathe - Steel Knurled Bandsaw Thumbscrew
@@ -18,7 +18,7 @@ INVENTIONS = [
    "yG7S9TPXSQg",  # 2018-11-12 Vintage Bertram Metal Lathe Restoration - Hand Forged Spanner Wrench f
   ],
  ),
- dict(name="German Othello Chef's Knife Sharpening & Restoration", kind="Build",
+ dict(name="German Othello Chef's Knife Sharpening & Restoration", kind="Restoration",
   desc="This is a 3 part series of a restoration project for a vintage German Chef's knife.",
   videos=[
    "eDTi_d1NIx8",  # 2018-05-23 German Othello Chef's Knife Sharpening & Restoration - Part 1/3
@@ -26,7 +26,7 @@ INVENTIONS = [
    "Evw8l0X6vzI",  # 2018-06-02 German Othello Chef's Knife Sharpening & Restoration - Part 3/3
   ],
  ),
- dict(name="Hewing Hatchet / Axe Restoration", kind="Build",
+ dict(name="Hewing Hatchet / Axe Restoration", kind="Restoration",
   desc="I have two antique/vintage axes/hatchets which I found at the local antique shop and picked up for $25 for the pair.",
   videos=[
    "Xl7SaB-Bnn0",  # 2018-05-30 Hewing Hatchet / Axe Restoration Part 1 - Initial Head Cleanup
@@ -35,7 +35,7 @@ INVENTIONS = [
    "5fQNsoXM75A",  # 2018-07-08 Hewing Hatchet / Axe Restoration Part 4 - Sharpening The Head & Testin
   ],
  ),
- dict(name="The Worst Cast Iron Pan", kind="Build",
+ dict(name="The Worst Cast Iron Pan", kind="Restoration",
   desc="Apr 16th - Latest video has been released, hopefully it is helpful and maybe inspires a few of you as well!",
   videos=[
    "vztXI8j11Mk",  # 2018-11-21 🍳The Worst Cast Iron Pan - Restoration By Hand + Disappointing Ending 
@@ -44,16 +44,22 @@ INVENTIONS = [
    "R098euRdgrc",  # 2020-07-11 🍳 You've Left Water in a Cast Iron Pan Overnight!?
   ],
  ),
- dict(name="DON'T THROW AWAY Your Estwing Leather Handled Hatchet", kind="Build",
+ dict(name="DON'T THROW AWAY Your Estwing Leather Handled Hatchet", kind="Restoration",
   desc="I was given this hatchet to repair by the father of a friend.",
   videos=[
    "KC0zHX5ZqlQ",  # 2018-12-02 DON'T THROW AWAY Your Estwing Leather Handled Hatchet - Restore your A
   ],
  ),
- dict(name="EXTREME Polish", kind="Build",
-  desc="Apr 15th, 2020 - This pan makes another appearance, this time to fix the problems with this pan.",
+ dict(name="ULTRA Adjustable Bowflex Exercise Workout Bench", kind="Build",
+  desc="If you've ever bought something that you're not completely satisfied with, don't return it, improve it!",
   videos=[
-   "rNrBGi63FFo",  # 2019-05-04 🍳EXTREME Polish - Smooth a Cast Iron Pan to Reproduce an Antique Skill
+   "mb6xCadXje8",  # 2019-03-19 ULTRA Adjustable Bowflex Exercise Workout Bench - Don't settle for 3.1
+  ],
+ ),
+ dict(name="Incredibly Rusty Small File Restoration + Timelapse + 3D Printed Ha", kind="Restoration",
+  desc="This rusty file will put some of my techniques for restoring old tools to the test.",
+  videos=[
+   "ycYe2-YBTvE",  # 2019-05-01 🔧 Incredibly Rusty Small File Restoration + Timelapse + 3D Printed Ha.
   ],
  ),
  dict(name="SMOOTH a Cast iron Lodge skillet to make it function like an antique", kind="Build",
@@ -62,11 +68,28 @@ INVENTIONS = [
    "yJBAxPKfN2A",  # 2019-05-29 🍳 SMOOTH a Cast iron Lodge skillet to make it function like an antique
   ],
  ),
- dict(name="Dadvice - The Best Way to Unplug a Stubborn Clog in a Toilet", kind="Build",
-  desc="Hi Everyone, in this video I show you the best method that I use when you have a clogged toilet that just won't flush no matter what you do.",
+ dict(name="Make a Milwaukee Compound Miter Saw Dust Collection Adapter", kind="Build",
+  desc="In this video I fix a long overdue problem in my shop with my Milwaukee Miter saw dust collection.",
   videos=[
-   "hSu0PfW2Wps",  # 2020-05-20 🚽 Dadvice #1 - The Best Way to Unplug a Stubborn Clog in a Toilet
-   "YzMEg9YjtRU",  # 2020-05-31 🧰 Dadvice #2   The best stud finder is also the cheapest and most reli
+   "vLIEwiZ_sR8",  # 2019-10-10 Make a Milwaukee Compound Miter Saw Dust Collection Adapter
+  ],
+ ),
+ dict(name="SUPER CLEAN your Shop-Vac Filter with this Simple and Cheap", kind="Build",
+  desc="If you are constantly using your shop vac like me then you'll probably be searching for a better way to clean it.",
+  videos=[
+   "dVEz08WCbz8",  # 2019-11-16 🔨 SUPER CLEAN your Shop-Vac Filter with this Simple and Cheap
+  ],
+ ),
+ dict(name="Gorgeous Hand Made Machine Scraper Made from Old", kind="Build",
+  desc="Well this video took much longer than I expected, but I went a little crazy and took 140 individual video segments to make it.",
+  videos=[
+   "6T4fPM7blzw",  # 2020-03-06 🔨 Gorgeous Hand Made Machine Scraper Made from Old...
+  ],
+ ),
+ dict(name="Completely Restore this Vintage Rusty Cast Iron Reel Mower", kind="Restoration",
+  desc="We've been using a reel mower exclusively this year and the one we have just isn't up to the job.",
+  videos=[
+   "Nnul8A9rnNc",  # 2020-07-04 Completely Restore this Vintage Rusty Cast Iron Reel Mower
   ],
  ),
  dict(name="Creality Ender 3 V2", kind="Build",
@@ -99,10 +122,10 @@ INVENTIONS = [
    "iiZSbNrG_x8",  # 2023-08-25 Creality Ender 3 V2 - What Happens when Printing with Bad Filament   F
   ],
  ),
- dict(name="Which One is Better? A Wire Wheel Or A Rust Stripper Disk", kind="Build",
-  desc="Well...",
+ dict(name="3D Print Your Own Exercise Equipment", kind="Build",
+  desc="About 50% of the time I buy something I'm disappointed.",
   videos=[
-   "NlCniNoPLN8",  # 2022-03-25 Which One is Better? A Wire Wheel Or A Rust Stripper Disk?
+   "VlWTyNrCzSg",  # 2021-07-18 3D Print Your Own Exercise Equipment - Plastic/Wood & All Solid Wood -
   ],
  ),
  dict(name="Can You 3D Scan Tools With Your Phone, Model, and Print It", kind="Build",
@@ -111,11 +134,16 @@ INVENTIONS = [
    "N7s-owb_3g4",  # 2022-04-03 Can You 3D Scan Tools With Your Phone, Model, and Print It?
   ],
  ),
- dict(name="I Bought This Drill Press and Now I Regret It", kind="Build",
-  desc="In the last video I was a little disappointed with the purchase I had made in this old drill press.",
+ dict(name="How to Build a Blacksmith Forge from Scrap", kind="Build",
+  desc="In this video, I'll show you how to build a blacksmith forge from scrap...",
   videos=[
-   "uFUcigT18yU",  # 2022-10-10 I Bought This Drill Press and Now I Regret It - PT2 - Risky Fix for th
-   "QQ56CN9pLhU",  # 2022-10-10 I Bought This Drill Press and Now I Regret It - PT1 - The Surprise
+   "cVGrRW3ZPxo",  # 2022-10-29 How to Build a Blacksmith Forge from Scrap
+  ],
+ ),
+ dict(name="Powerful 20 Watt", kind="Build",
+  desc="Pay someone to personalize your woodwork no more!",
+  videos=[
+   "nhA5xnMuAmE",  # 2023-01-30 POWERFUL 20 WATT - ATOMSTACK X20 Pro LASER vs Wood!
   ],
  ),
  dict(name="Bambu Lab X1 Carbon", kind="Build",
@@ -124,19 +152,6 @@ INVENTIONS = [
    "1ga-xCb1Svs",  # 2023-08-11 Bambu Lab X1 Carbon - Auto Material Refill - Extreme Testing
    "gNmiZMAebzM",  # 2023-11-18 Why is My Bambu X1 Carbon Printer Not Wiping?
    "Cl_pESaug-Q",  # 2023-11-18 Why is My Bambu X1 Carbon Printer 'Pooping' Where it Prints?
-  ],
- ),
- dict(name="Super Dry Your Bambu Lab AMS with These Cool 3D Prints", kind="Build",
-  desc="HOT And HUMID means bad news for filament, having the Bambu Lab AMS helps a lot to keep your filament protected, but there isn't much space in there for desiccant.",
-  videos=[
-   "9h51g4tW-Bc",  # 2023-09-08 Super Dry Your Bambu Lab AMS with These Cool 3D Prints
-  ],
- ),
- dict(name="This NEW INDX system from Bondtech will be a game changer for mutli-co", kind="Build",
-  desc="Finally an affordable, adaptable multi-material, multi-color system with nearly zero waste.",
-  videos=[
-   "_sRzKhYbE-8",  # 2023-09-30 How to Emboss your COLOR 3D prints - Feat. Bambu X1C
-   "n_8rLNdRges",  # 2025-04-26 This NEW INDX system from Bondtech will be a game changer for mutli-co
   ],
  ),
  dict(name="A Much BETTER WAY to Clean your 3D Printer Rods and Screws", kind="Build",
@@ -154,46 +169,11 @@ INVENTIONS = [
    "y8ZmMygSpI4",  # 2025-10-04 STOP downloading 3D prints, you have the POWER to design your own from
   ],
  ),
- dict(name="This may be CRAZY, or at least my worst", kind="Build",
-  desc="Does your printer perform too well?",
-  videos=[
-   "zLGGQ9w1IQQ",  # 2023-10-21 This may be CRAZY, or at least my worst - Feat. Bambu X1C
-   "UlLVEyB_VlE",  # 2023-10-21 This may be CRAZY, or at least my worst - Feat. Bambu X1C #3dprinting 
-  ],
- ),
- dict(name="We're adding Vibrations to 3D printers to see what happens! Feat. Bamb", kind="Build",
-  desc="Challenge Accepted!",
-  videos=[
-   "55pFfJGv-dc",  # 2023-11-04 We're adding Vibrations to 3D printers to see what happens! Feat. Bamb
-   "GrIQtpzNfZs",  # 2023-11-04 Adding Vibrations to 3D printers to see what Happens! #3dprinting #bam
-  ],
- ),
- dict(name="This Slicer Feature WAS Useless Until Now", kind="Build",
-  desc="Have you tried it?",
-  videos=[
-   "lmQCYLjhbOQ",  # 2023-11-11 This Slicer Feature WAS Useless Until Now - Feat. Bambu X1 Carbon
-   "l0rXm_n-70o",  # 2023-11-11 This Slicer Feature WAS Useless Until Now - Feat. Bambu X1 Carbon #3dp
-  ],
- ),
- dict(name="Orca Slicer is BETTER than Bambu Studio, Cura and Prusa Slicer because", kind="Build",
-  desc="Now that the K1 is using Fluidd or Mainsail, Klipper software, you can adjust settings while the print is going, if you need to adjust something on the fly, you can do it easily.",
-  videos=[
-   "zM65ASKAnWs",  # 2023-11-23 Orca Slicer is BETTER than Bambu Studio, Cura and Prusa Slicer because
-   "rAL96dglnnY",  # 2023-11-23 Orca Slicer is BETTER than Bambu Studio, Cura and Prusa Slicer because
-  ],
- ),
  dict(name="Printer VS Printer", kind="Build",
   desc="If you're a fan of Bambu Printers, or a fan of Creality printers, this is a must-see.",
   videos=[
    "eyhJrzUK9ZU",  # 2023-11-25 Printer VS Printer - Creality K1 faces off against the Bambu X1C at HI
    "ZY7IldljrV4",  # 2023-11-25 Printer VS Printer - Creality K1 faces off against the Bambu X1C at HI
-  ],
- ),
- dict(name="Does PLA Warp? If it does, how much compared to PETG and ABS", kind="Build",
-  desc="There is far more going on than I expected.",
-  videos=[
-   "L0HNy1M0Xk8",  # 2023-12-02 Does PLA Warp?  If it does, how much compared to PETG and ABS?
-   "Y36PsdTiJEs",  # 2023-12-02 Does PLA Warp?  If it does, how much compared to PETG and ABS? #3dprin
   ],
  ),
  dict(name="Should you slow down your fast Creality K1 or Bambu X1C Printer", kind="Build",
@@ -209,20 +189,6 @@ INVENTIONS = [
    "h3Ky7zXnLOY",  # 2023-12-10 How strong and impact resistant are your 3d prints?  Let's find out!
    "nhbFB7k4aG8",  # 2023-12-10 How strong and impact resistant are your 3d prints?  #bambu #creality3
    "kfd3mrMZbLQ",  # 2024-06-15 How Strong are 3D Printed Connections?
-  ],
- ),
- dict(name="Quick and Simple Way to Level Your Creality K1 or K1 Max Bed", kind="Build",
-  desc="If your printer bed looks more like a slip-n-slide, this is the video for you!",
-  videos=[
-   "mW4jI42n3z4",  # 2023-12-14 Quick and Simple Way to Level Your Creality K1 or K1 Max Bed
-   "gPw_MSo19PI",  # 2023-12-14 Quick and Simple Way to Level Your Creality K1 or K1 Max Bed #3dprinte
-  ],
- ),
- dict(name="I was told it was Free", kind="Build",
-  desc="So you've racked up some points, now you can get something FREE, right?",
-  videos=[
-   "EKttJTskgR8",  # 2023-12-16 I was told it was Free!
-   "IyvkXZM0Eak",  # 2023-12-16 I was told it was Free! #printables #prusa #filament
   ],
  ),
  dict(name="2 Simple Ways to Make Stronger 3D Prints + an Experimental Way", kind="Build",
@@ -256,34 +222,10 @@ INVENTIONS = [
    "B06lTrhjC5s",  # 2024-02-03 What Causes BAD Print Quality on the Ender 3 V3 KE? - Fast Bed Slinger
   ],
  ),
- dict(name="Creality K1 MAX Any Good? Hint", kind="Build",
-  desc="If you own a MAX, or you want to buy one, you'll want to check out this video!",
-  videos=[
-   "JSl4kILmKnk",  # 2024-02-10 Creality K1 MAX Any Good? Hint: It Has a Little Secret...
-  ],
- ),
  dict(name="BAD First Layer Your K1 and K1 Max Printer? Here's how to get the best", kind="Build",
   desc="If you own a K1 Max, you know what I'm talking about.",
   videos=[
    "8PEsPLDxt-c",  # 2024-02-17 BAD First Layer Your K1 and K1 Max Printer?  Here's how to get the bes
-  ],
- ),
- dict(name="Quick and Simple Fix for the K1 Cable Chain", kind="Build",
-  desc="This is probably the simplest and most effective upgrades for your K1 printer.",
-  videos=[
-   "XxNdunDD21k",  # 2024-02-21 Quick and Simple Fix for the K1 Cable Chain
-  ],
- ),
- dict(name="Quickly Root your Creality K1 Max or K1 Printers", kind="Build",
-  desc="This is just what you need to know, quick and simple to get the job done.",
-  videos=[
-   "YG34iK5wb14",  # 2024-02-24 Quickly Root your Creality K1 Max or K1 Printers
-  ],
- ),
- dict(name="Can you really get FREE stuff from Bambu Lab's Maker World", kind="Build",
-  desc="Is Maker World better than Printables for redeeming points?",
-  videos=[
-   "lXJtC6MYLGE",  # 2024-02-28 Can you really get FREE stuff from Bambu Lab's Maker World?
   ],
  ),
  dict(name="UPGRADE your Creality Ender 3 V3 KE with Linear Rails", kind="Build",
@@ -312,23 +254,16 @@ INVENTIONS = [
    "h7AghJI44VQ",  # 2024-04-13 STRONG and FULLY 3D Printed Arms for your Ender 3 KE and SE
   ],
  ),
- dict(name="Modernizing the best Woodworking Joint to use for 3D Printing", kind="Build",
-  desc="Quite a few viewers requested this video, so here it is!",
-  videos=[
-   "zI8OgRRF5d8",  # 2024-04-20 Modernizing the best Woodworking Joint to use for 3D Printing
-   "WY8yd191qVE",  # 2024-05-04 Adapting the BEST Woodworking Joints for 3D Printing
-  ],
- ),
  dict(name="Can We 3D Print Working Machine Parts Using This Unique Filament", kind="Build",
   desc="It's lean it's green and it prints like a....",
   videos=[
    "I5HV6xaaNFw",  # 2024-04-27 Can We 3D Print Working Machine Parts Using This Unique Filament?
   ],
  ),
- dict(name="Upgrade for Better AIR FLOW on Your Overhangs and Bridges", kind="Build",
-  desc="It's amazing what you uncover when you're not even trying!",
+ dict(name="How Good is the NEW Ender 3 V3 Metal Frame Printer", kind="Build",
+  desc="This looks like an impressive printer, so it is?",
   videos=[
-   "qAG2BnZKFgQ",  # 2024-05-18 Upgrade for Better AIR FLOW on Your Overhangs and Bridges
+   "9znUsGZduZk",  # 2024-05-11 How Good is the NEW Ender 3 V3 Metal Frame Printer?
   ],
  ),
  dict(name="A Unique 3D Printed Screw Connection", kind="Build",
@@ -343,10 +278,10 @@ INVENTIONS = [
    "o1vrfEl1uc8",  # 2024-06-01 How Good are Professional 3D Printed Metal Parts?
   ],
  ),
- dict(name="Is an UNfilled 3D Print Stronger than an INfilled 3D Print", kind="Build",
-  desc="Tell me if you think this option should be added to the slicer!",
+ dict(name="How Much Can You Twist a 3D Print Before it Breaks", kind="Build",
+  desc="How strong are 3D prints and how do they compare to common building materials?",
   videos=[
-   "ss610c_KxKc",  # 2024-06-29 Is an UNfilled 3D Print Stronger than an INfilled 3D Print?
+   "zehP6mg3hZM",  # 2024-06-22 How Much Can You Twist a 3D Print Before it Breaks?
   ],
  ),
  dict(name="Which is the Best 3D Printed Corner", kind="Build",
@@ -355,16 +290,22 @@ INVENTIONS = [
    "PklGLNkt-5Q",  # 2024-07-06 Which is the Best 3D Printed Corner
   ],
  ),
- dict(name="More ducts is better, but how many is too many", kind="Build",
-  desc="Good part cooling is critical if you have a high speed printer.",
+ dict(name="This NEW Printer BLOWS the Competition Away", kind="Build",
+  desc="Is this brand new FLSUN T1 the next evolution in high-speed 3D printing?",
   videos=[
-   "Px42QrpNrqg",  # 2024-07-27 More ducts is better, but how many is too many?
+   "S6IMYU_Amnw",  # 2024-07-21 This NEW Printer BLOWS the Competition Away!
   ],
  ),
  dict(name="It's easier than it looks to create one of these for your printer", kind="Build",
   desc="In this video I'm sharing what I've learned over the past few weeks of creating custom 3D printer part fan ducts and testing them out.",
   videos=[
    "jC5yuF9fMp8",  # 2024-08-03 It's easier than it looks to create one of these for your printer
+  ],
+ ),
+ dict(name="Fog testing 3D printer part fan ducts with lights, lasers & **sparkles", kind="Build",
+  desc="Wow, this did not go like I had planned, getting smoke into a 3D printer seemed at first like it was going to be a walk in the park.",
+  videos=[
+   "SFBf6usuoys",  # 2024-08-10 Fog testing 3D printer part fan ducts with lights, lasers & **sparkles
   ],
  ),
  dict(name="This 3D printer nozzle actually does what it says", kind="Build",
@@ -379,16 +320,10 @@ INVENTIONS = [
    "1pMJQetyA4A",  # 2024-08-24 Now anyone can simulate flow for a 3D printer duct
   ],
  ),
- dict(name="3D printing a functional Air Amplifier and testing it to see if", kind="Build",
-  desc="There is much more to this fan design than meets the eye!",
+ dict(name="New AtomStack 55W Hurricane CO2 Laser cuts CLEAR acrylic and wood like", kind="Build",
+  desc="Once I made a little adjustment, I was cutting wood and clear acrylic like a beast.",
   videos=[
-   "LrzGoLONndM",  # 2024-08-31 3D printing a functional Air Amplifier and testing it to see if...
-  ],
- ),
- dict(name="What really makes a good filament dryer and how to they compare", kind="Build",
-  desc="It looks like the new dryers have a design flaw, but I'm not sure, so let's find out.",
-  videos=[
-   "CR5DAq0zDQY",  # 2024-09-07 What really makes a good filament dryer and how to they compare?
+   "kVRG7wMyWjQ",  # 2024-09-13 New AtomStack 55W Hurricane CO2 Laser cuts CLEAR acrylic and wood like
   ],
  ),
  dict(name="The All New QIDI PLUS4", kind="Build",
@@ -397,22 +332,34 @@ INVENTIONS = [
    "288ftFCpLyE",  # 2024-09-20 The All New QIDI PLUS4 - the best value to performance printer on the 
   ],
  ),
+ dict(name="These high speed 3D printer ducts produced some shocking results", kind="Build",
+  desc="It has begun and I decided to make the tests even harder than before!",
+  videos=[
+   "ohcyC5B39g8",  # 2024-10-05 Ep.1 - These high speed 3D printer ducts produced some shocking result
+  ],
+ ),
  dict(name="More crazy looking 3D printer duct designs with some serious performan", kind="Build",
   desc="A new group of amazing duct designs!",
   videos=[
    "zjVTLL0TDUs",  # 2024-10-12 Ep.2 - More crazy looking 3D printer duct designs with some serious pe
   ],
  ),
- dict(name="The future of RARE replacement classic car parts", kind="Build",
-  desc="If it is broken, we fix it...",
+ dict(name="Massive UFO Duct vs Alien Exoskeleton 3D printer designs, we're nearly", kind="Build",
+  desc="More incredible duct designs!",
   videos=[
-   "iWmH19qyryg",  # 2024-11-09 The future of RARE replacement classic car parts!
+   "r2mrQnzen2g",  # 2024-10-19 Ep.3 - Massive UFO Duct vs Alien Exoskeleton 3D printer designs, we're
   ],
  ),
- dict(name="Can these really be better than the stock wiper? The ratings say they ", kind="Build",
-  desc="I wanted to test the top three wipers to see if any of them can finally rid the X1C printer of the pooping problems that have been plaguing it since the first time I tried printing with PETG.",
+ dict(name="We have the final 6 ducts, unfortunately one \"duct\" didn't make it", kind="Build",
+  desc="Quick tests and the final 6 are revealed!",
   videos=[
-   "RAH1TW144_U",  # 2024-11-16 Can these really be better than the stock wiper?  The ratings say they
+   "2rY9_aKMMEc",  # 2024-10-26 Ep.4 - We have the final 6 ducts, unfortunately one "duct" didn't make
+  ],
+ ),
+ dict(name="We finally have the winners for 1st and 2nd, but 3rd is a problem", kind="Build",
+  desc="That is just about it for Season 1, except for 3rd place that is.",
+  videos=[
+   "89ZJjmjzL30",  # 2024-11-02 We finally have the winners for 🥇1st and 🥈2nd, 🥉but 3rd is a problem.
   ],
  ),
  dict(name="Making and Breaking the strongest 3D printed parts", kind="Build",
@@ -421,34 +368,34 @@ INVENTIONS = [
    "xyxucfS_u38",  # 2024-11-23 Making and Breaking the strongest 3D printed parts
   ],
  ),
- dict(name="These are awesome looking upgrades for your Bambu X1/P1 printer, but h", kind="Build",
-  desc="Skeletonize everything I say!",
-  videos=[
-   "9CxCx-Hocbk",  # 2024-12-07 These are awesome looking upgrades for your Bambu X1/P1 printer, but h
-  ],
- ),
- dict(name="The foundation is the KEY to printing the most detailed multicolored p", kind="Build",
-  desc="This little backlit insert needed to say Bambu Lab, but 3D printing something at this scale required more than just a nozzle change.",
-  videos=[
-   "iM42kK3K-BI",  # 2024-12-14 The foundation is the KEY to printing the most detailed multicolored p
-  ],
- ),
- dict(name="Which is the best, the Bambu Super Tack or the BIQU Frostbite or Glaci", kind="Build",
-  desc="I've heard stories of not using glue stick, but it was always unobtainable with heavy duty prints, but...",
-  videos=[
-   "gl8ABgIuQhs",  # 2024-12-21 Which is the best, the Bambu Super Tack or the BIQU Frostbite or Glaci
-  ],
- ),
  dict(name="Can a 3D printed industrial FAN stand up to REAL abuse", kind="Build",
   desc="We can't print industrial parts, they just won't survive...",
   videos=[
    "8L8b3Hjk6mk",  # 2025-01-19 Can a 3D printed industrial FAN stand up to REAL abuse?
   ],
  ),
+ dict(name="Making the ULTIMATE 3D Printer workbench for every printer BIG or smal", kind="Build",
+  desc="I've wanted to get this bench done for months and it is finally finished!",
+  videos=[
+   "EjC8rLj7zXo",  # 2025-01-25 Making the ULTIMATE 3D Printer workbench for every printer BIG or smal
+  ],
+ ),
+ dict(name="Making the BEST 3D printable dust collection for the Makita 2040 Japan", kind="Build",
+  desc="Sit back and enjoy, this video is fully loaded!",
+  videos=[
+   "TLbCYtlfRGo",  # 2025-02-01 Making the BEST 3D printable dust collection for the Makita 2040 Japan
+  ],
+ ),
  dict(name="How to make a better quick connect dust collection adapter from start ", kind="Build",
   desc="You've been asking for Fusion 360 content so here it is...",
   videos=[
    "DCZtv6mYSw4",  # 2025-02-08 How to make a better quick connect dust collection adapter from start 
+  ],
+ ),
+ dict(name="Now we have a EVEN BIGGER problem, can this dust collection be fixed? ", kind="Restoration",
+  desc="I didn't want to have to make this video, but I couldn't just leave it like that.",
+  videos=[
+   "t5PpkuKqaDk",  # 2025-02-22 Now we have a EVEN BIGGER problem, can this dust collection be fixed? 
   ],
  ),
  dict(name="I added strong HIDDEN Magnets to Hexagons to make the BEST FREE modula", kind="Build",
@@ -464,16 +411,16 @@ INVENTIONS = [
    "bwVB4drRUBM",  # 2025-05-17 Is the Bambu H2D 3D printer actually a good Laser, Cutter and Plotter 
   ],
  ),
- dict(name="How long will your FUNCTIONAL 3D prints actually last", kind="Build",
-  desc="At first my functional 3D prints failed...",
+ dict(name="My 3D printed impeller finally FAILED, time to make a new and IMPROVED", kind="Build",
+  desc="Can you believe a 3d printed PLA-CF hub lasted for several months!",
   videos=[
-   "U6NzbH4si0Q",  # 2025-07-12 How long will your FUNCTIONAL 3D prints actually last?
+   "SX7otYQewV8",  # 2025-05-24 My 3D printed impeller finally FAILED, time to make a new and IMPROVED
   ],
  ),
- dict(name="Can you 3D print a self cleaning downspout rain water collection filte", kind="Build",
-  desc="Ever heard of a Coanda filter?",
+ dict(name="Which is better? A 3D printer or a CNC machine? Let's find out", kind="Build",
+  desc="Did the wood versions win you over?",
   videos=[
-   "wy9lKx8X1HI",  # 2025-07-19 Can you 3D print a self cleaning downspout rain water collection filte
+   "h6PO_Yxd8io",  # 2025-06-21 Which is better?  A 3D printer or a CNC machine?  Let's find out!
   ],
  ),
  dict(name="Make your own ULTIMATE DIY rain water collection system at home on a b", kind="Build",
@@ -482,28 +429,10 @@ INVENTIONS = [
    "t4AC6vFOKpQ",  # 2025-08-02 Make your own ULTIMATE DIY rain water collection system at home on a b
   ],
  ),
- dict(name="How does the 3D printable ANACOANDA rainwater filter stand up to bruta", kind="Build",
-  desc="The ANACOANDA filter finally gets its feet wet with Sticks, Stone, and...",
-  videos=[
-   "sCGQngk8MaI",  # 2025-08-09 How does the 3D printable ANACOANDA rainwater filter stand up to bruta
-  ],
- ),
- dict(name="The NEW QIDI Q2 is packed with features at an unbeatable price", kind="Build",
-  desc="If you've been holding off for a great deal and all of the features,  the Q2 could be the printer 4U!",
-  videos=[
-   "kjtUTjpcbzw",  # 2025-08-20 The NEW QIDI Q2 is packed with features at an unbeatable price!
-  ],
- ),
  dict(name="An even better rain water filter with 3D printed parts and a fine mesh", kind="Build",
   desc="The previous version was good, but we can do better!",
   videos=[
    "yQJd6xukQ_A",  # 2025-08-30 An even better rain water filter with 3D printed parts and a fine mesh
-  ],
- ),
- dict(name="The next generation of 3D printers is coming, but I'm not buying one u", kind="Build",
-  desc="You know when we start seeing copies that someone is going to break free and release something game changing.",
-  videos=[
-   "fbxLIY5-q2U",  # 2025-09-27 The next generation of 3D printers is coming, but I'm not buying one u
   ],
  ),
  dict(name="The NEW Bambu P2S is a deceptively POWERFUL 3D printer, but you'd only", kind="Build",
@@ -512,16 +441,22 @@ INVENTIONS = [
    "9JH-_gczDqI",  # 2025-10-14 The NEW Bambu P2S is a deceptively POWERFUL 3D printer, but you'd only
   ],
  ),
- dict(name="MakerWorld added a feature that I didn't know existed and EVERYONE nee", kind="Build",
-  desc="I don't know how long this has been an option, but I'm glad I found it!",
+ dict(name="Most 3D printed fidget toys have one fatal flaw and we're going to fix", kind="Build",
+  desc="I broke too many of these trying to put them together, it was time to do something!",
   videos=[
-   "hmkk15VmMs4",  # 2025-11-01 MakerWorld added a feature that I didn't know existed and EVERYONE nee
+   "QfdKZF9HY8g",  # 2025-11-08 Most 3D printed fidget toys have one fatal flaw and we're going to fix
   ],
  ),
  dict(name="Is Bambu's NEW H2C Tool-Changer printer a REAL game-changer? I printed", kind="Build",
   desc="It is finally here and I was able to print models that I'd never imagined.",
   videos=[
    "_o1HWNui1c8",  # 2025-11-18 Is Bambu's NEW H2C Tool-Changer printer a REAL game-changer?  I printe
+  ],
+ ),
+ dict(name="My Prusa MK4S' COLD SPOTS were bad, so I fixed them! Now the MK4S has ", kind="Restoration",
+  desc="Fixing the cold spots was easier than I expected, and it should work for the Core One also.",
+  videos=[
+   "eaNE1pV6MHw",  # 2025-12-06 My Prusa MK4S' COLD SPOTS were bad, so I fixed them!  Now the MK4S has
   ],
  ),
  dict(name="Which printer makes better 3D prints? The Bambu Lab H2D or the Bambu H", kind="Build",
@@ -536,22 +471,28 @@ INVENTIONS = [
    "59KvDE7adEU",  # 2025-12-20 Can the simplest 3D printed extrusion path also be the strongest?
   ],
  ),
- dict(name="Can these 3D prints make metal casting easier and better", kind="Build",
-  desc="I have wanted to try this for more than a year and it did not disappoint...",
-  videos=[
-   "CM9b-ZNEtUI",  # 2026-01-17 Can these 3D prints make metal casting easier and better?
-  ],
- ),
  dict(name="Casting detailed aluminum parts is probably not a good idea and here's", kind="Build",
   desc="I am building a machine and I'm making the parts for it, and I need a 3\" tracking wheel, and this is my process.",
   videos=[
    "_4JIVqWteUk",  # 2026-01-24 Casting detailed aluminum parts is probably not a good idea and here's
   ],
  ),
- dict(name="The Bambu X2D has the most innovative features at a really good price", kind="Build",
-  desc="I had a feeling that the X1C was getting an upgrade, but I didn't know it would   be an absolute powerhouse!",
+ dict(name="Can this desktop CNC machine the 6th hardest wood on the planet", kind="Build",
+  desc="It might be a small CNC machine, but it's a mighty one!",
   videos=[
-   "jtX57PGD508",  # 2026-04-18 The Bambu X2D has the most innovative features at a really good price
+   "yzROwEjkr-M",  # 2026-02-14 Can this desktop CNC machine the 6th hardest wood on the planet?
+  ],
+ ),
+ dict(name="Let's see who wins when a 3D printer goes up against a Laser and a CNC", kind="Build",
+  desc="Each machine has their strengths, but so too do they have their weaknesses!",
+  videos=[
+   "yKsWtmnpExE",  # 2026-03-14 Let's see who wins when a 3D printer goes up against a Laser and a CNC
+  ],
+ ),
+ dict(name="My new favorite process combines 3D printing & precision tack welding ", kind="Build",
+  desc="There is nothing better than creating something from scratch",
+  videos=[
+   "_Ss-tLo5iXA",  # 2026-04-04 My new favorite process combines 3D printing & precision tack welding 
   ],
  ),
  dict(name="I figured out how to DEEP engrave every stone with the exact same sett", kind="Build",
@@ -561,28 +502,10 @@ INVENTIONS = [
    "fgs2ssSmtN8",  # 2026-05-04 DEEP engrave every stone with the exact same settings using my MOPA fi
   ],
  ),
- dict(name="The Ultimate 3D printable tabletop gaming organization system", kind="Build",
-  desc="Let me know what you think and check out our Kickstarter!",
-  videos=[
-   "fvhPOTL4f9w",  # 2026-05-09 The Ultimate 3D printable tabletop gaming organization system
-  ],
- ),
  dict(name="Can a laser welder handle structural steel or is it only good for thin", kind="Build",
   desc="Laser welding is highly addictive, consider yourself warned :)",
   videos=[
    "USPGIqTS8vs",  # 2026-09-19 Can a laser welder handle structural steel or is it only good for thin
-  ],
- ),
- dict(name="Is the new Bambu R1 CO2 laser better and can they do for lasers what t", kind="Build",
-  desc="In this detailed review we find out if Bambu Lab can dominate in the Laser market the same way they've been able to do with 3D printers!",
-  videos=[
-   "acAmIn5Mgxc",  # 2026-09-22 Is the new Bambu R1 CO2 laser better and can they do for lasers what t
-  ],
- ),
- dict(name="Bambu's H3C looks incredible, but how will it perform against my real ", kind="Build",
-  desc="In this detailed review we find out if Bambu Lab can stay on top and beat out Snapmaker, Prusa and Bondtech and Creality with their NEW H3C Tool-changer printer.",
-  videos=[
-   "ODWbKD2u-SI",  # 2026-11-03 Bambu's H3C looks incredible, but how will it perform against my real 
   ],
  ),
 ]

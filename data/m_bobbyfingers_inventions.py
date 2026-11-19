@@ -26,35 +26,10 @@ INVENTIONS = [
    "51UZdK8Ryfw",  # 2023-12-26 Michael Jackson on Fire Diorama
   ],
  ),
- dict(name="Jeff Bezos Rowing Boat", kind="Build",
-  desc="Produced by Rob Sutton and Bobby Fingers.",
-  videos=[
-   "VGhcSupkNs8",  # 2023-11-15 Jeff Bezos Rowing Boat
-   "mgDh9jzfINM",  # 2023-11-22 JEFF BEZOS ROWING BOAT
-  ],
- ),
- dict(name="Fabio and the Goose", kind="Build",
-  desc="Produced by Rob Sutton and Bobby Fingers.",
-  videos=[
-   "2RIEPKEhE2s",  # 2024-05-15 Fabio and the Goose
-  ],
- ),
- dict(name="The Power of the Strength of the Heart", kind="Build",
-  desc="Here is Chapter 1 from my erotic novel, \"The Power of the Strength of the Heart",
-  videos=[
-   "jqM7o8n3ZFI",  # 2024-07-23 The Power of the Strength of the Heart - Chapter 1 - Bobby Fingers
-  ],
- ),
  dict(name="Joe Rogan and The Black Keys Diorama", kind="Build",
   desc="Produced by Rob Sutton & Bobby Fingers",
   videos=[
    "NF4VJJKTjy8",  # 2024-12-29 Joe Rogan and The Black Keys Diorama
-  ],
- ),
- dict(name="Who Crapped on Johnny Depp's Bed", kind="Build",
-  desc="Produced by Rob Sutton & Bobby Fingers",
-  videos=[
-   "vGt7-WnWdhE",  # 2026-08-04 Who Crapped on Johnny Depp's Bed?
   ],
  ),
 ]

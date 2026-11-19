@@ -7,13 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'will-cogley', 'name': 'Will Cogley', 'person': 'Will Cogley', 'tagline': 'Animatronics, robot hands and biomimetic eyes.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Gaussgun First Test Fire", kind="Build",
-  desc="First test fire of my home-made Coilgun for the Golden Crest Award.",
-  videos=[
-   "w6KXRdor1S4",  # 2015-01-31 Gaussgun First Test Fire
-   "tuJvpnz2sl4",  # 2015-02-21 Gaussgun Alternate Coil Test Fire
-  ],
- ),
  dict(name="Homemade Forge", kind="Build",
   desc="Forge I built over a few weekends using black iron tubing and mild steel sheet.",
   videos=[
@@ -50,15 +43,6 @@ INVENTIONS = [
    "Q05TAoPIHtQ",  # 2016-11-04 Arduino Cat Laser
   ],
  ),
- dict(name="Building a Single Propeller Drone With Arduino", kind="Build",
-  desc="In this series, I will be building a single propeller spherical drone which will be controlled via an Arduino.",
-  videos=[
-   "HtN4bBXB7s8",  # 2016-11-11 Building a Single Propeller Drone With Arduino - Part 1
-   "X9VxHALciaE",  # 2016-11-25 (PART 2) Building a Single Propeller Drone With Arduino
-   "pfzPx-K9ye0",  # 2016-12-09 (PART 3) Building a Single Propeller Drone With Arduino
-   "7GJCiCwTj7g",  # 2016-12-23 Building a Single Propeller Drone With Arduino (PART 4)
-  ],
- ),
  dict(name="Building a Spherical Drone With Arduino", kind="Build",
   desc="In this video I build a reverse coupling and use it to try and solve the drone's issues.",
   videos=[
@@ -91,7 +75,7 @@ INVENTIONS = [
    "VdHVS0dpmdQ",  # 2017-04-27 DIY Animatronic Eye Project Update
   ],
  ),
- dict(name="Amateur Accordion Restoration Part I", kind="Build",
+ dict(name="Amateur Accordion Restoration Part I", kind="Restoration",
   desc="I found this Hohner Verdi III Accordion in unplayable state, this project series documents my amateur restoration in every detail from tuning and reed servicing to setting rhinestones.",
   videos=[
    "W0NM2RruDO8",  # 2017-08-18 Amateur Accordion Restoration Part I - Keys
@@ -107,22 +91,10 @@ INVENTIONS = [
    "iXmrPoqd8gs",  # 2023-06-07 Building a Robotic Fox with 3D Printing, Arduino and Fusion 360
   ],
  ),
- dict(name="How To Set Conical Rhinestones/Chantons", kind="Build",
-  desc="As part of my accordion restoration project, I show the conical rhinestone/chanton setting technique I used which can be applied to a range of other applications such as cosplay, decoration, prop replicas etc.",
-  videos=[
-   "G4ykAdxb3wI",  # 2017-09-01 How To Set Conical Rhinestones/Chantons
-  ],
- ),
  dict(name="Animatronic Heart Early Prototyping", kind="Build",
   desc="The early prototyping stages of an animatronic heart I'm working on.",
   videos=[
    "j-IJgXBkMfQ",  # 2017-10-22 Animatronic Heart Early Prototyping
-  ],
- ),
- dict(name="Red Nebula Airbrushing on Marin Frame", kind="Build",
-  desc="Red Nebula Airbrushing on Marin Frame.",
-  videos=[
-   "zAjBzE46GaU",  # 2018-01-19 Red Nebula Airbrushing on Marin Frame
   ],
  ),
  dict(name="Fully 3D Printable Biomimetic Mechatronic Hand Progress and 3D Renders", kind="Build",
@@ -214,13 +186,6 @@ INVENTIONS = [
    "MxbX9iKGd6w",  # 2020-07-08 Prototyping a Full Bionic Finger - Biomimetic Mechatronic Hand Part 3
   ],
  ),
- dict(name="Biomechanics of the CMC Joint for Bionic Hands", kind="Build",
-  desc="Here's a look at the biomechanics, anatomy and kinematics of the carpometacarpal (CMC) joints in the hand, and how they relate to contemporary bionic hand designs as well as my own.",
-  videos=[
-   "DqGq5mnd_n4",  # 2020-07-22 Biomechanics of the CMC Joint for Bionic Hands - Biomimetic Mechatroni
-   "dWUSH6DR4G8",  # 2020-08-20 Wrist Biomechanics for Bionic Hands - Biomimetic Mechatronic Hand Part
-  ],
- ),
  dict(name="Making the Switch to SLA", kind="Build",
   desc="Here's a look at my new SLA printer and how it will affect my biomimetic mechatronic hand.",
   videos=[
@@ -231,12 +196,6 @@ INVENTIONS = [
   desc="In this video I talk about my prototypes for all the components which make up the palm in my bionic hand - the CMC joints for the thumb, 4th and 5th metacarpal hinge, and the motors which control the MCP joints.",
   videos=[
    "99RzNBQF6g8",  # 2020-09-02 Prototyping the Palm Components  - Biomimetic Mechatronic Hand Part 7
-  ],
- ),
- dict(name="Combining Subsystems to Form the Palm", kind="Build",
-  desc="In this video I go over how I combined the prototype components to make a full palm assembly.",
-  videos=[
-   "Wywru4K8GVU",  # 2020-09-16 Combining Subsystems to Form the Palm
   ],
  ),
  dict(name="Mechanised Gauntlet Using the Mayku Formbox", kind="Build",
@@ -257,24 +216,6 @@ INVENTIONS = [
   desc="Here's a fully programmable, battery powered, arduino controller which uses XBee to communicate wirelessly with any project you can think of!",
   videos=[
    "U663_8ze1H8",  # 2023-02-01 I Built A Programmable Robotics Controller
-  ],
- ),
- dict(name="Controlling my Bionic Hand With Realtime Motion Tracking", kind="Build",
-  desc="Making Ultra Leaps on the Biomimetic Bionic hand project!",
-  videos=[
-   "mV3eoSesqSI",  # 2023-08-28 Controlling my Bionic Hand With Realtime Motion Tracking - Biomimetic 
-  ],
- ),
- dict(name="Testing and Benchmarking my Bionic Hand", kind="Build",
-  desc="Testing and Benchmarking my Bionic Hand - Biomimetic Bionic Hand.",
-  videos=[
-   "A7lJxBpecAY",  # 2024-02-15 Testing and Benchmarking my Bionic Hand - Biomimetic Bionic Hand
-  ],
- ),
- dict(name="Testing New Printing Techniques to Build a Mechanical Centipede", kind="Build",
-  desc="Testing New Printing Techniques to Build a Mechanical Centipede.",
-  videos=[
-   "TwNHYgIDWU4",  # 2024-05-10 Testing New Printing Techniques to Build a Mechanical Centipede
   ],
  ),
  dict(name="I Built A 3D Printed Robot, Then Controlled It In Virtual Reality", kind="Build",
@@ -301,13 +242,6 @@ INVENTIONS = [
    "yWrldOS6xBw",  # 2024-12-02 Silicone Skin and 3D Printing: Creating an Expressive Animatronic Head
   ],
  ),
- dict(name="Tiny Home Robotics Lab", kind="Build",
-  desc="Tiny Home Robotics Lab: 25 Renter Friendly Tips.",
-  videos=[
-   "z_9knFW2QJY",  # 2024-12-22 Tiny Home Robotics Lab: 25 Renter Friendly Tips
-   "RNIr0g4lpZ4",  # 2025-07-02 My renter-friendly home robotics lab #3dprinting #animatronics #roboti
-  ],
- ),
  dict(name="The Most Realistic Animatronic Eyes I've Ever Built", kind="Build",
   desc="The Most Realistic Animatronic Eyes I've Ever Built.",
   videos=[
@@ -332,12 +266,6 @@ INVENTIONS = [
    "VtN5VJx5tRY",  # 2025-05-23 This Robot Neck Moves Like a Human Spine
   ],
  ),
- dict(name="Why My Most Ambitious Bionic Hand Kept Falling Apart", kind="Build",
-  desc="website or domain using code WILLCOGLEY.",
-  videos=[
-   "uEYAzE5-ZGE",  # 2025-06-20 Why My Most Ambitious Bionic Hand Kept Falling Apart
-  ],
- ),
  dict(name="Reimagining Classic Animatronics with Modern Tools", kind="Build",
   desc="Reimagining Classic Animatronics with Modern Tools.",
   videos=[
@@ -350,12 +278,6 @@ INVENTIONS = [
    "IPBu5Q2aogE",  # 2025-08-22 Building a Robot that Sees (Through its Own Eyes)
   ],
  ),
- dict(name="Turning a Raspberry Pi into a Virtual Pet", kind="Build",
-  desc="Get $10 Off Now!",
-  videos=[
-   "EGkv6HqoYZk",  # 2025-09-26 Turning a Raspberry Pi into a (Physical) Virtual Pet
-  ],
- ),
  dict(name="This Robot Watches You", kind="Build",
   desc="Get $10 Off Now!",
   videos=[
@@ -366,18 +288,6 @@ INVENTIONS = [
   desc="What It Took to Make This Robot Work.",
   videos=[
    "qzNmMoFnRsY",  # 2026-03-20 What It Took to Make This Robot Work
-  ],
- ),
- dict(name="Introducing Coglet", kind="Build",
-  desc="Introducing Coglet.",
-  videos=[
-   "k_1Paexlc_A",  # 2026-03-21 Introducing Coglet
-  ],
- ),
- dict(name="I'm tired of noisy servos", kind="Build",
-  desc="I'm tired of noisy servos..",
-  videos=[
-   "G8TKJH7o5Fs",  # 2026-04-24 I'm tired of noisy servos.
   ],
  ),
  dict(name="I had to redesign my robot face from scratch", kind="Build",

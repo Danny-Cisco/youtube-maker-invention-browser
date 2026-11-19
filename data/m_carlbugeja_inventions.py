@@ -24,10 +24,28 @@ INVENTIONS = [
    "ZJqlNl0__hw",  # 2024-12-17 PCB Motor (6 Years Later)
   ],
  ),
+ dict(name="Snap-Fit Brushless Rotor", kind="Build",
+  desc="This is my new 3D printed rotor prototype with a snap-hook shaft and press-fit circular magnets!",
+  videos=[
+   "szyKxCxuokk",  # 2018-03-04 Snap-Fit Brushless Rotor
+  ],
+ ),
  dict(name="Ball Folding Propeller", kind="Build",
   desc="This is my 3d-printed propeller that folds into a compact 16mm diameter semi-sphere.",
   videos=[
    "Fc5tGjbPgaI",  # 2018-03-23 Ball Folding Propeller!
+  ],
+ ),
+ dict(name="Baseball Size Quadruped Robot", kind="Build",
+  desc="This is the build video of 4B (Four-Ball), a four-legged robot with 12DOF that folds into a 6cm ball!",
+  videos=[
+   "l8037j5ondc",  # 2018-06-01 Baseball Size Quadruped Robot (4B)
+  ],
+ ),
+ dict(name="How can I improve my PCB Motor", kind="Build",
+  desc="This is an update video about my brushless PCB motor.",
+  videos=[
+   "TKG3wZza3Bo",  # 2018-06-08 How can I improve my PCB Motor?
   ],
  ),
  dict(name="Actuating Magnets with PCBs", kind="Build",
@@ -36,10 +54,16 @@ INVENTIONS = [
    "LudKMv7M13Q",  # 2018-06-10 Actuating Magnets with PCBs
   ],
  ),
- dict(name="Increasing the Torque of my PCB Motor", kind="Build",
-  desc="So torque is the biggest weakness of my tiny PCB motor.",
+ dict(name="Jumping Magnets", kind="Build",
+  desc="I accidentally made magnets jump when testing my Linear PCB Motor PCBs.",
   videos=[
-   "IYtyOGsKyrs",  # 2018-06-20 Increasing the Torque of my PCB Motor
+   "EHN8Wx2BKkM",  # 2018-06-12 Jumping Magnets!
+  ],
+ ),
+ dict(name="Ferrofluid + PCB Coils", kind="Build",
+  desc="Ferrofluid with PCB coils test!",
+  videos=[
+   "18ib3ojORBw",  # 2018-06-16 Ferrofluid + PCB Coils
   ],
  ),
  dict(name="Linear PCB Motor", kind="Build",
@@ -62,6 +86,12 @@ INVENTIONS = [
    "5ictkUsC9mc",  # 2019-04-07 Flexible PCB Actuators Thickness?
   ],
  ),
+ dict(name="Magnet Clapping Actuator", kind="Build",
+  desc="This Flexible PCB Actuator made from a dual layer 0.13mm thick board.",
+  videos=[
+   "c0Wh9mZckWY",  # 2018-07-31 Magnet Clapping Actuator
+  ],
+ ),
  dict(name="My 0.1mm thick ACTUATOR", kind="Build",
   desc="Before I can start building robots with this thing, I need to measure its characteristics and test its limitations.",
   videos=[
@@ -74,10 +104,28 @@ INVENTIONS = [
    "0zsAJ7_eF4M",  # 2018-08-26 Paper Robot Experiment
   ],
  ),
+ dict(name="Robot Fish with PCB Fins Experiment", kind="Build",
+  desc="Can I make robotic fish fins from a PCB?",
+  videos=[
+   "OmUTG5DvnWo",  # 2018-09-09 Robot Fish with PCB Fins Experiment
+  ],
+ ),
  dict(name="Making a PCB Speaker", kind="Build",
   desc="My PCB speaker is very simple and works just like any other speaker.",
   videos=[
    "36KwlUBadrg",  # 2018-09-20 Making a PCB Speaker!
+  ],
+ ),
+ dict(name="PCB Motor Project Update", kind="Build",
+  desc="Here's a quick update video on my PCB Motor project, with a list of things I was working on and what I plan to do next.",
+  videos=[
+   "qGiaev_L8OY",  # 2018-10-02 PCB Motor Project Update
+  ],
+ ),
+ dict(name="Motor integrated on an ESC", kind="Build",
+  desc="This is my new PCB Motor integrated with an ESC!",
+  videos=[
+   "tbXLc8F3HFg",  # 2018-10-14 Motor integrated on an ESC! (PCB Motor)
   ],
  ),
  dict(name="How to design a PCB Motor", kind="Build",
@@ -113,42 +161,6 @@ INVENTIONS = [
    "BKVidFxn11I",  # 2019-01-20 Designing my first PCB Robot
   ],
  ),
- dict(name="FlexLED - Flexing Light", kind="Build",
-  desc="This is my first FlexLED prototype!",
-  videos=[
-   "WFdmsJZsbOQ",  # 2019-03-28 FlexLED - Flexing Light?
-  ],
- ),
- dict(name="Answering Your Questions", kind="Build",
-  desc="Answering Your Questions!.",
-  videos=[
-   "FoTVuL_licU",  # 2019-05-17 Answering Your Questions!
-  ],
- ),
- dict(name="PCB Motor - How fast can it go", kind="Build",
-  desc="In this video I measured how fast my PCB motor prototypes can go!",
-  videos=[
-   "x4EBuu4pyPw",  # 2019-06-04 PCB Motor - How fast can it go?
-  ],
- ),
- dict(name="Smallest N52 Magnet", kind="Build",
-  desc="Is this the smallest N52 magnet?",
-  videos=[
-   "NIo4kdAb9MY",  # 2019-06-13 Smallest N52 Magnet
-  ],
- ),
- dict(name="Magnetic Paper Butterfly", kind="Build",
-  desc="This video is my second attempt in trying to create Paper Electromagnetic Actuators!",
-  videos=[
-   "dsEWjJJqkcI",  # 2019-06-29 Magnetic Paper Butterfly
-  ],
- ),
- dict(name="Jigsaw Puzzle PCB Motor", kind="Build",
-  desc="This is my first attempt in trying to create a rotor-flux PCB Motor!",
-  videos=[
-   "R6fPeYFXOoI",  # 2019-07-12 Jigsaw Puzzle PCB Motor
-  ],
- ),
  dict(name="PCB Robot MKIII", kind="Build",
   desc="In this video I went back to retest my PCB Robot!",
   videos=[
@@ -181,12 +193,6 @@ INVENTIONS = [
    "hwJEImvJpLY",  # 2020-02-14 Geekiest DIY Valentine's Gift?
   ],
  ),
- dict(name="Holographic FlexLED", kind="Build",
-  desc="FlexLED is my attempt to create a very simple POV display!",
-  videos=[
-   "wM_Byrv9iBI",  # 2020-02-20 Holographic FlexLED
-  ],
- ),
  dict(name="I made a circuit JUMP", kind="Build",
   desc="This project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License",
   videos=[
@@ -199,34 +205,10 @@ INVENTIONS = [
    "P51te12Oux4",  # 2020-03-31 Prototyping FlexPCBs - The Affordable Way!
   ],
  ),
- dict(name="Selecting a new H-bridge Driver", kind="Build",
-  desc="Selecting a new H-bridge Driver!.",
-  videos=[
-   "3ZCjXoN7kTA",  # 2020-05-02 Selecting a new H-bridge Driver!
-  ],
- ),
  dict(name="Making PCB Motor v3", kind="Build",
   desc="This video is about my third brushless PCB Motor prototype!",
   videos=[
    "xOn3EBYiJ4w",  # 2020-06-05 Making PCB Motor v3
-  ],
- ),
- dict(name="Folding PCB Hinge Design", kind="Build",
-  desc="This is a problem I have been trying to solve for a very long time, making a simplified flexible pcb hinge!",
-  videos=[
-   "p2evFiOsVtM",  # 2020-06-23 Folding PCB Hinge Design
-  ],
- ),
- dict(name="Quitting Automotive", kind="Build",
-  desc="Quitting Automotive!.",
-  videos=[
-   "QaYbcf744z8",  # 2020-07-10 Quitting Automotive!
-  ],
- ),
- dict(name="68% Smaller PCB Coil", kind="Build",
-  desc="68% Smaller PCB Coil - Is it Better?.",
-  videos=[
-   "tXMxI9-xY38",  # 2020-07-22 68% Smaller PCB Coil - Is it Better?
   ],
  ),
  dict(name="Vibrating Circuit Robot", kind="Build",
@@ -235,22 +217,10 @@ INVENTIONS = [
    "XSiQmqTMMaY",  # 2020-08-11 Vibrating Circuit Robot
   ],
  ),
- dict(name="FlexAR - An Open Source Flexible Actuator", kind="Build",
-  desc="FlexAR - An Open Source Flexible Actuator.",
-  videos=[
-   "qe4MLh6nhU8",  # 2020-09-15 FlexAR - An Open Source Flexible Actuator
-  ],
- ),
  dict(name="How I made a €2 ACTUATOR", kind="Build",
   desc="How I made a €2 ACTUATOR.",
   videos=[
    "nfQP2Xxvq3M",  # 2020-09-22 How I made a €2 ACTUATOR
-  ],
- ),
- dict(name="New FlexLED Concept", kind="Build",
-  desc="For the last 7 months I've been brainstorming on how I can improve my FlexLED POV display.",
-  videos=[
-   "3xHlxTJz3cQ",  # 2020-10-08 New FlexLED Concept?
   ],
  ),
  dict(name="Making a Jumping PCB Robot", kind="Build",
@@ -264,31 +234,6 @@ INVENTIONS = [
   desc="Goodbye old lab!",
   videos=[
    "bhgSU5OE0a0",  # 2020-11-12 Building my NEW LAB!
-  ],
- ),
- dict(name="You used my €2 ACTUATOR for", kind="Build",
-  desc="Here the link of every project I mentioned in this video:",
-  videos=[
-   "ZTM_pPJa_Rc",  # 2020-11-19 You used my €2 ACTUATOR for...
-  ],
- ),
- dict(name="Microstepping a PCB Motor", kind="Build",
-  desc="My first attempt at making a Stepper PCB Motor!",
-  videos=[
-   "OzqSzFZa2DY",  # 2020-12-05 Microstepping a PCB Motor?
-  ],
- ),
- dict(name="How I got See-Through Circuits for Christmas", kind="Build",
-  desc="How I got See-Through Circuits for Christmas.",
-  videos=[
-   "3a5fNPUIqAE",  # 2020-12-21 How I got See-Through Circuits for Christmas
-   "Dd0fperXJmM",  # 2023-09-06 See-through Circuits!!
-  ],
- ),
- dict(name="Creating Haptic Feedback with Piezo Buzzers", kind="Build",
-  desc="Creating Haptic Feedback with Piezo Buzzers.",
-  videos=[
-   "egLA0GgF3xw",  # 2021-01-16 Creating Haptic Feedback with Piezo Buzzers
   ],
  ),
  dict(name="Scanning PCB-Coils with a €200,000 X-RAY MACHINE", kind="Build",
@@ -311,18 +256,6 @@ INVENTIONS = [
    "Ce5tP98XgxY",  # 2021-11-07 PCB Electromagnet vs Ferrofluid
   ],
  ),
- dict(name="Experimenting with Hemispherical Flapping LEDs", kind="Build",
-  desc="My attempt at building a larger Hemispheric FlexLED (Version 3)",
-  videos=[
-   "V3dw__N4nls",  # 2021-04-24 Experimenting with Hemispherical Flapping LEDs
-  ],
- ),
- dict(name="Giant N52 Magnets makes Flexible Wires Dance", kind="Build",
-  desc="An experiment with silicone insulated wires and super strong permanent magnets",
-  videos=[
-   "v50y6esS7mw",  # 2021-04-29 Giant N52 Magnets makes Flexible Wires Dance
-  ],
- ),
  dict(name="Making PCB Motor v4", kind="Build",
   desc="These are all the new improvements with PCB Motor version 4!",
   videos=[
@@ -333,36 +266,6 @@ INVENTIONS = [
   desc="I designed 2 new PCB coils and compared them with my current spiral PCB actuator!",
   videos=[
    "tti6MpB3ClM",  # 2021-08-11 Exploring New PCB Coil Actuators
-  ],
- ),
- dict(name="Is a Cored PCB-Motor more efficient", kind="Build",
-  desc="I tired to add a core to my slotless PCB Motor",
-  videos=[
-   "kLvxkUa14lk",  # 2021-10-07 Is a Cored PCB-Motor more efficient?
-  ],
- ),
- dict(name="Experimenting with High Temperature PCBs", kind="Build",
-  desc="Testing SH260 (Tg=250°C) and Polyimide (Tg=290°C) High Temperature PCBs!",
-  videos=[
-   "fbBXPeC-FPQ",  # 2021-10-21 Experimenting with High Temperature PCBs!
-  ],
- ),
- dict(name="12-layer PCB Coil APPLICATIONS", kind="Build",
-  desc="This project is Open-Source and licensed with Creative Commons Attribution Share Alike 4.0 International License",
-  videos=[
-   "k1inMrAZ_Eo",  # 2021-12-03 12-layer PCB Coil APPLICATIONS
-  ],
- ),
- dict(name="5 Design Tips for 'Out-of-Stock' Chips", kind="Build",
-  desc="My tips on how to select and find electronics during this chip shortage!",
-  videos=[
-   "lTghYyXcQPs",  # 2022-01-19 5 Design Tips for 'Out-of-Stock' Chips
-  ],
- ),
- dict(name="How Hot can a Flexible PCB get", kind="Build",
-  desc="My journey making a bendable heater sticker!",
-  videos=[
-   "2cvDjeSUgwY",  # 2022-02-10 How Hot can a Flexible PCB get?
   ],
  ),
  dict(name="Building a Ping-Pong Ball with LEDs", kind="Build",
@@ -389,10 +292,10 @@ INVENTIONS = [
    "Rm4wyXis4Tg",  # 2022-08-08 I Built a Fan from Flexible Circuits!
   ],
  ),
- dict(name="Sticker Actuators for Origami", kind="Build",
-  desc="Sticker Actuators for Origami!!.",
+ dict(name="Sneak Peek of My New WORKSHOP", kind="Build",
+  desc="Sneak Peek of My New WORKSHOP.",
   videos=[
-   "MDhT6-6Yr_I",  # 2022-10-31 Sticker Actuators for Origami!!
+   "Tb95SW4WAVg",  # 2022-10-09 Sneak Peek of My New WORKSHOP
   ],
  ),
  dict(name="How this Actuator Survived 100,000,000 FLAPS", kind="Build",
@@ -425,12 +328,6 @@ INVENTIONS = [
    "wrnBW0HD0Vo",  # 2023-08-01 Making Actuators with FlexPCB Springs
   ],
  ),
- dict(name="Turning My Projects into Something You Can Actually Use", kind="Build",
-  desc="Learn about Altium 365, the electronics produc",
-  videos=[
-   "tgTY2wmgIA4",  # 2024-01-31 Turning My Projects into Something You Can Actually Use!
-  ],
- ),
  dict(name="Building a Mini Vegas-Sphere", kind="Build",
   desc="Other Videos Related to this Project:",
   videos=[
@@ -441,13 +338,6 @@ INVENTIONS = [
   desc="Things You Can Build with CodeCell:",
   videos=[
    "eGRXOBEn9zk",  # 2024-10-02 Making a 360° Controller Smaller than a Penny!
-  ],
- ),
- dict(name="How this tiny Motor Survived 1.6 BILLION SPINS", kind="Build",
-  desc="Papers Used for the PCB Stato",
-  videos=[
-   "CVszJMlvZcA",  # 2024-12-16 How this tiny Motor Survived 1.6 BILLION SPINS
-   "ATIbTKtjI8k",  # 2025-01-14 1.6 BILLION SPINS
   ],
  ),
  dict(name="Why This Is My Favorite Robot Build Yet", kind="Build",

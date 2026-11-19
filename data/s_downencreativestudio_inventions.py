@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'downen-creative-studios', 'name': 'Downen Creative Studios', 'person': 'Downen Creative Studios', 'tagline': 'EVA-foam costumes, props and the techniques behind them.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Imperator Furiosa's steering wheel detailing", kind="Build",
-  desc="Detailing tip for working with worbla: Here's a timelapse of how I've applied flexible plastic tubing to worbla using a Clover mini iron instead of a heat gun to prevent the tubing from melting.",
-  videos=[
-   "iCiCX-lkGDM",  # 2016-03-19 Imperator Furiosa's steering wheel detailing : Downen Creative Studios
-  ],
- ),
  dict(name="DIY Faux Feathers Tutorial", kind="Build",
   desc="Beverly from Downen Creative Studios shows you how to make your own feathers using FABRIC!",
   videos=[
@@ -29,12 +23,6 @@ INVENTIONS = [
   desc="Beverly Downen of Downen Creative Studios made a Wasp costume from the movie Ant Man and the Wasp for the Marvel Becoming series!",
   videos=[
    "Ave4G2hlNqc",  # 2018-10-18 Wasp Cosplay: Assembling Large Wasp Wings
-  ],
- ),
- dict(name="Wasp Gluing Hex Foam to Chest Cup", kind="Build",
-  desc="Beverly Downen of Downen Creative Studios made a Wasp costume from the movie Ant Man and the Wasp for the Marvel Becoming series!",
-  videos=[
-   "FzA95XtG3Xs",  # 2018-10-18 Wasp Gluing Hex Foam to Chest Cup
   ],
  ),
  dict(name="ShePropTalk!: Smooth-On - Level Up Your Cosplay Projects", kind="Build",
@@ -70,53 +58,16 @@ INVENTIONS = [
    "Vu10epw6mro",  # 2019-04-20 Cricut For Cosplay: Cutting Pearly Worbla & Kobracast Art
   ],
  ),
- dict(name="How to Make Faux Feathers with Thibra", kind="Build",
-  desc="In this quick tutorial I show you how I made feathers with Thibra and a silicone mold!",
-  videos=[
-   "CeCF78FkD1E",  # 2019-03-25 How to Make Faux Feathers with Thibra
-  ],
- ),
  dict(name="Making the Shield of Athena", kind="Build",
   desc="In this quick build tutorial I show you how I created my shield for my Athena costume using materials you can find in the resource list below.",
   videos=[
    "pocnhY6zv0M",  # 2019-03-31 Making the Shield of Athena
   ],
  ),
- dict(name="Cara Dune Face Tattoo Tutorial", kind="Build",
-  desc="Who wants a Cara Dune face tattoo?!",
-  videos=[
-   "kTxQHRO9NNs",  # 2020-01-15 Cara Dune Face Tattoo Tutorial - (The Mandalorian)
-  ],
- ),
- dict(name="Mini-Belt Sander from Micro-Mark", kind="Build",
-  desc="Does size really matter?",
-  videos=[
-   "TJcOx01jD4U",  # 2020-01-22 Mini-Belt Sander from Micro-Mark
-  ],
- ),
- dict(name="Painting with PlaidFX Paint", kind="Build",
-  desc="Visit PlaidOnline.com or Plaidcosplay.com to find more information about",
-  videos=[
-   "W_STalM_4c0",  # 2020-05-21 Painting with PlaidFX Paint!!
-   "k-i6nQoYunQ",  # 2021-01-11 Painting the Baby Yoda Pod with PlaidFX Paints
-  ],
- ),
- dict(name="How to Make EVA Foam Look Like Leather with a Pizza Stone, Tin Foil an", kind="Build",
-  desc="Does your EVA foam need some detail?",
-  videos=[
-   "PuY8iWoKth0",  # 2020-05-25 How to Make EVA Foam Look Like Leather with a Pizza Stone, Tin Foil an
-  ],
- ),
  dict(name="What We Do In The Shadows Costume and Cursed Hat Walkthrough with Moos", kind="Build",
   desc="Illustrator and cosplayer Matt Grigsby of Mooseforge Creations talks to Beverly about how he made his Laszlo cosplay from cult classic FX series \"What We Do In The Shadows\".",
   videos=[
    "rM1GypcRYF0",  # 2020-09-07 What We Do In The Shadows Costume and Cursed Hat Walkthrough with Moos
-  ],
- ),
- dict(name="Adding Leather Effects on EVA Foam", kind="Build",
-  desc="Learn how to add a leather-like texture to EVA foam with this super fast tutorial!",
-  videos=[
-   "Nia-HifmrI4",  # 2023-04-28 Adding Leather Effects on EVA Foam
   ],
  ),
  dict(name="Prop EVA Foam Dagger & Sheath", kind="Build",
@@ -133,12 +84,6 @@ INVENTIONS = [
    "D3GPKRJyKwo",  # 2023-06-08 DIY Dress Form with Fosshape
   ],
  ),
- dict(name="Plasti Dipping EVA Foam", kind="Build",
-  desc="Learn how many layers of Plasti Dip you should use on EVA Foam for costume and propmaking!",
-  videos=[
-   "khqUV_J7Qug",  # 2023-07-08 Plasti Dipping EVA Foam
-  ],
- ),
  dict(name="How To Attach Silicone to Fabric with Sil-Poxy", kind="Build",
   desc="Learn how to attach silicone to fabric with Sil-Poxy from Smooth-On!",
   videos=[
@@ -152,19 +97,6 @@ INVENTIONS = [
    "ZikNRUU14Wg",  # 2024-09-26 Making Lae'zel - Latex Ears!
    "pfmZuya-YMk",  # 2024-09-27 Making Lae'zel - Makeup & Tights
    "nYbEjJD7gcM",  # 2024-09-29 Making Lae'zel - Fake Gems!
-  ],
- ),
- dict(name="How to Add Cosplay Workshops to Your Convention", kind="Build",
-  desc="Cosplay workshops are a hot new trend, and if you're looking to add them to your event programming, this video is for you!",
-  videos=[
-   "0_OV7p92-Y4",  # 2025-03-12 How to Add Cosplay Workshops to Your Convention | Tips for Hosts & Org
-  ],
- ),
- dict(name="How To Make Resin Molds For Casting Silicone", kind="Build",
-  desc="Learn how to make molds using resin instead of silicone!",
-  videos=[
-   "wh0OLbBrYDY",  # 2025-06-18 How To Make Resin Molds For Casting Silicone
-   "1ycTjyMbNu8",  # 2025-06-18 How to Make Resin Molds for Casting Silicone #cosplaytips #diycosplay 
   ],
  ),
  dict(name="Totoro Kit Assembly", kind="Build",

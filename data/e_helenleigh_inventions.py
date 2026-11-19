@@ -7,24 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'helen-leigh', 'name': 'Helen Leigh', 'person': 'Helen Leigh', 'tagline': 'Music hacking and soft circuits, like a tentacle that purrs.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Test upload of a test video", kind="Build",
-  desc="You may or may not have gathered that this is a test.",
-  videos=[
-   "TpLpG9aEU9k",  # 2018-11-18 Test upload of a test video
-  ],
- ),
- dict(name="Using a Thai machete to badly smash open a coconut", kind="Build",
-  desc="I’m staying on my friend Bua’s coconut farm in Thailand and I’m making some films.",
-  videos=[
-   "1F-jSyc6iJM",  # 2018-12-16 Using a Thai machete to badly smash open a coconut
-  ],
- ),
- dict(name="MINI·MU out take", kind="Build",
-  desc="I thought I'd wrapped all my filming but caught this little beast while editing....",
-  videos=[
-   "7PwswGzTKcI",  # 2018-12-18 MINI·MU out take - cat ruins end of video
-  ],
- ),
  dict(name="Prototype DIY sonic circuit sculpturefilthy bass sounds and handmade e", kind="Build",
   desc="Here’s my latest strange circuit.",
   videos=[
@@ -60,12 +42,6 @@ INVENTIONS = [
   desc="I made a herd of very unreliable, very cute Robot Unicorns that you control with gestures.",
   videos=[
    "qAakgfNouOI",  # 2019-06-06 Code your gesture controlled robot unicorn
-  ],
- ),
- dict(name="My favourite technologies to teach with", kind="Build",
-  desc="For Make Magazine's Maker Education teacher workshop at Makerfaire.",
-  videos=[
-   "fl8L-_I5Lm0",  # 2019-08-11 My favourite technologies to teach with
   ],
  ),
  dict(name="Music hacking & soft electronics! Short talk at Raspberry Pint about s", kind="Build",

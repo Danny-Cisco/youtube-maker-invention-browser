@@ -19,24 +19,12 @@ INVENTIONS = [
    "kvsU6-gOC1g",  # 2020-04-29 Nerf gauntlet Mk3 Build
   ],
  ),
- dict(name="Basic Bot", kind="Build",
-  desc="Basic Bot.",
-  videos=[
-   "98Llchzygx8",  # 2020-08-03 Basic Bot
-  ],
- ),
  dict(name="3D Printed Robotic Actuator", kind="Build",
   desc="3D Printed Robotic Actuator.",
   videos=[
    "06LlqRsLDFg",  # 2021-02-20 3D Printed Robotic Actuator
    "ztjZDpbVqf8",  # 2021-02-20 3D printed Actuator Torque Test (6.8 Nm)
    "1ggUXlYrNng",  # 2021-03-01 3D Printed Robotic Actuator Assembly
-  ],
- ),
- dict(name="Shooting Test", kind="Build",
-  desc="Shooting Test.",
-  videos=[
-   "d-KMRckBQrs",  # 2021-02-20 Shooting Test
   ],
  ),
  dict(name="Parametric Cycloidal Gear Drive", kind="Build",
@@ -50,30 +38,6 @@ INVENTIONS = [
   videos=[
    "ycqgwixEzEs",  # 2021-05-24 Cycloidal Robotic Actuator
    "GakFB8Tdd98",  # 2024-02-14 I Built an Internal Cycloidal Robotic Actuator
-  ],
- ),
- dict(name="Cycloidal Actuator Toggle", kind="Build",
-  desc="Cycloidal Actuator Toggle.",
-  videos=[
-   "KdGkQ9Kb8Jk",  # 2021-05-24 Cycloidal Actuator Toggle
-  ],
- ),
- dict(name="Servo Actuator Position Mapping", kind="Build",
-  desc="Servo Actuator Position Mapping.",
-  videos=[
-   "HUYeWwfZO0c",  # 2021-06-01 Servo Actuator Position Mapping
-  ],
- ),
- dict(name="35 kg Servo Testing", kind="Build",
-  desc="In this video I conduct 2 tests (torque and speed) to measure the efficiency of a 35kg servo motor that I have adapted into a Servo Actuator.",
-  videos=[
-   "r6VSVCb_3mo",  # 2021-08-21 35 kg Servo Testing
-  ],
- ),
- dict(name="Proportional Control Turning with spike prime", kind="Build",
-  desc="In this video I will show how to  create a program in Spike prime classroom that allows you to turn a robot to a given angle using the built in gyro sensor, and a proportional controller.",
-  videos=[
-   "Iq7BIvdjDnM",  # 2021-09-04 Proportional Control Turning with spike prime
   ],
  ),
  dict(name="5 bar linkage", kind="Build",
@@ -173,13 +137,6 @@ INVENTIONS = [
   videos=[
    "RVKNQdN7XBc",  # 2025-04-18 Wrist Mounted CD Launcher - Built to DESTROY!
    "Cgcu_IZPz4g",  # 2025-05-09 Wrist Mounted CD Launcher FPV
-  ],
- ),
- dict(name="I Overengineered a Spinning Top", kind="Build",
-  desc="Spinning tops don't spin long enough.",
-  videos=[
-   "Wp5NodfvvF4",  # 2026-01-16 I Overengineered a Spinning Top
-   "j8vkzQu0qN8",  # 2026-01-17 I Overengineered a Spinning Top
   ],
  ),
  dict(name="I Built an Even Better Ropebot Dog", kind="Build",

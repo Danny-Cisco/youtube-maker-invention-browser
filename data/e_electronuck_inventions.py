@@ -19,18 +19,6 @@ INVENTIONS = [
    "1VQUEm7suBc",  # 2025-07-17 I Made the Ultimate Hyperpop Instrument out of a Telephone
   ],
  ),
- dict(name="POV: it's 2007 and your parents are fighting in the kitchen", kind="Build",
-  desc="I recreated 2007 in a VR simulation so we could relive the glory days but I could not stop the parents from fighting",
-  videos=[
-   "MOTztv2FLxE",  # 2026-02-27 POV: it's 2007 and your parents are fighting in the kitchen
-  ],
- ),
- dict(name="We Turned An Old Telephone Into A Vocal Processor", kind="Build",
-  desc="We Turned An Old Telephone Into A Vocal Processor.",
-  videos=[
-   "WjwOAllEWNs",  # 2026-08-01 We Turned An Old Telephone Into A Vocal Processor
-  ],
- ),
  dict(name="Turning a Model M into a Musical Instrument", kind="Build",
   desc="Taking an old IBM Model M Keyboard and turning it into a Wicki–Hayden Layout MIDI controller.",
   videos=[

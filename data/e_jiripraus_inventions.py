@@ -26,12 +26,6 @@ INVENTIONS = [
    "GoVWk30cFtE",  # 2019-02-15 Making one of the petals for mechanical tulip
   ],
  ),
- dict(name="Freeduino is alive", kind="Build",
-  desc="This is my free-form build of Arduino UNO.",
-  videos=[
-   "-wf_KZKH_PI",  # 2019-05-17 Freeduino is alive!
-  ],
- ),
  dict(name="DIY 3D-printed Wire Bending Machine", kind="Build",
   desc="Build a wire bending machine capable of bending 0.8/0.9/1 mm wire into any 2D shape.",
   videos=[
@@ -58,22 +52,10 @@ INVENTIONS = [
    "ZF-AZFS4UF4",  # 2019-10-25 Adorable Halloween Ghost Badge
   ],
  ),
- dict(name="Neo Heart", kind="Build",
-  desc="Neo Heart.",
-  videos=[
-   "B617uNRxj4s",  # 2019-11-19 Neo Heart
-  ],
- ),
  dict(name="Brass LED heart badge", kind="Build",
   desc="I am back again with my brass wires and soldering iron.",
   videos=[
    "keD2IxvzPSs",  # 2019-11-25 Brass LED heart badge
-  ],
- ),
- dict(name="Snowflake Anniversary", kind="Build",
-  desc="I took it out of the shelf and gave the old lady some nice treatments.",
-  videos=[
-   "f8EB8E8tUnY",  # 2019-11-29 Snowflake Anniversary
   ],
  ),
  dict(name="LED sphere with 194 LEDs and how to build it", kind="Build",
@@ -130,12 +112,6 @@ INVENTIONS = [
    "MKsSbeqQKvE",  # 2020-03-16 LED Sun Pendant Slow Build
   ],
  ),
- dict(name="Artist's tribute to legendary GameBoy Color", kind="Build",
-  desc="Handmade Brass GameBoy Color.",
-  videos=[
-   "nxa5WeLKBLw",  # 2020-03-29 Artist's tribute to legendary GameBoy Color
-  ],
- ),
  dict(name="Beating LED Heart", kind="Build",
   desc="Beating LED Heart.",
   videos=[
@@ -146,12 +122,6 @@ INVENTIONS = [
   desc="Extra slow build this time of LED jewelry butterfly.",
   videos=[
    "XbQe2nBPJVE",  # 2020-04-03 LED Butterfly Slow Build
-  ],
- ),
- dict(name="Little Halloween Glowing Ghost", kind="Build",
-  desc="LED Jewelry is back!",
-  videos=[
-   "xe5E9Fbc9vo",  # 2020-10-22 Little Halloween Glowing Ghost
   ],
  ),
 ]

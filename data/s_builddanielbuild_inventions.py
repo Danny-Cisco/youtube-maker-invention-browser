@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'build-daniel-build', 'name': 'BuildDanielBuild', 'person': 'BuildDanielBuild', 'tagline': 'Dan builds stuff.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Replacing Artillery Sidewinder Bed Wheels", kind="Build",
-  desc="Hey guys, hope this video helped you out!",
-  videos=[
-   "gOHZfdLkMpc",  # 2020-12-25 Replacing Artillery Sidewinder Bed Wheels! (Quick and Easy)
-  ],
- ),
  dict(name="I Ran A 3d Printer On My Car", kind="Build",
   desc="Honestly thought this wouldn't work as well as it did...",
   videos=[
@@ -54,25 +48,6 @@ INVENTIONS = [
   desc="I built a fully wearable DOOMICORN suit.",
   videos=[
    "y5ZdFTLlUfg",  # 2026-05-03 I built the Doomicorn
-  ],
- ),
- dict(name="$55 Multi-color Upgrade?! Elegoo Centauri Carbon 1 Upgrade", kind="Build",
-  desc="Disclaimer: This video is made in collaboration with Elegoo, who provided the product featured for the purpose of creating this content.",
-  videos=[
-   "CNEKEanaudE",  # 2026-05-23 $55 Multi-color Upgrade?! Elegoo Centauri Carbon 1 Upgrade
-  ],
- ),
- dict(name="I Traveled to the Birthplace of the Ender 3", kind="Build",
-  desc="I got the incredible opportunity to travel to China and visit Creality Headquarters for their 12th anniversary celebration!",
-  videos=[
-   "63-_FVw3OMc",  # 2026-06-07 I Traveled to the Birthplace of the Ender 3
-  ],
- ),
- dict(name="Easy Mirror Chrome Finish on your 3D Prints", kind="Build",
-  desc="I show you how I get a mirror-like chrome finish on your 3D prints in this simple, step-by-step tutorial!",
-  videos=[
-   "oc6pnAQtaVA",  # 2026-08-23 Easy Mirror Chrome Finish on your 3D Prints (Step-by-Step)
-   "llSuEsC06PM",  # 2026-11-02 This is how I Chrome my 3D Prints! #3dprinting #cosplay #drdoom #inokr
   ],
  ),
 ]

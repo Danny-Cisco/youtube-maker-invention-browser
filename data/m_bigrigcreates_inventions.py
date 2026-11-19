@@ -7,36 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'bigrig-creates', 'name': 'BigRig Creates', 'person': 'BigRig Creates', 'tagline': 'Bringing gaming worlds into the real world, like a working Pokédex.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="The ULTIMATE Smash Bros. Training Tool", kind="Build",
-  desc="I go over how to use the Titan One device to help with combo labbing, parrying, and more!",
-  videos=[
-   "Ige1MLRAW54",  # 2019-01-21 The ULTIMATE Smash Bros. Training Tool
-  ],
- ),
- dict(name="Recording inputs for Smash Bros. Ultimate", kind="Build",
-  desc="Recording inputs for Smash Bros. Ultimate.",
-  videos=[
-   "zq7JaVL0hY0",  # 2019-01-27 Recording inputs for Smash Bros. Ultimate
-  ],
- ),
- dict(name="4 CRAZY ways to play Smash Bros. Ultimate", kind="Build",
-  desc="Who would have thought smash on a touch screen would be difficult?",
-  videos=[
-   "Oseo2Jh6X8I",  # 2019-03-23 4 CRAZY ways to play Smash Bros. Ultimate
-  ],
- ),
- dict(name="I combined DDR, Tetris, and VR because why not", kind="Build",
-  desc="Sometimes, I can take a joke a little too far.",
-  videos=[
-   "HpfdUGtZU24",  # 2020-06-15 I combined DDR, Tetris, and VR because why not?
-  ],
- ),
- dict(name="Real Life Emergency Meeting Button", kind="Build",
-  desc="For some reason, the Emergency Meeting button actually exists.",
-  videos=[
-   "P3k4cs-7Gf4",  # 2021-03-01 Real Life Emergency Meeting Button - Among Us
-  ],
- ),
  dict(name="I made a realistic steam-powered Poké Ball", kind="Build",
   desc="I was so pumped by the trailer for Pokémon Legends – Arceus that I had to make one of those cool steam-powered pokéballs.",
   videos=[
@@ -55,18 +25,6 @@ INVENTIONS = [
    "hpHMm_aX1oA",  # 2021-05-30 Finding the BEST ocarina you can 3D print (ft. Andy Cormier)
   ],
  ),
- dict(name="Gaming on an abandoned McDonald's touchscreen table", kind="Build",
-  desc="Some people adopt a cat or dog for companionship.",
-  videos=[
-   "XKUkAKE7sXI",  # 2021-09-04 Gaming on an abandoned McDonald's touchscreen table
-  ],
- ),
- dict(name="Uncovering the dark secrets of my McDonald's touchscreen table", kind="Build",
-  desc="Strap in.",
-  videos=[
-   "TvJJ2Z0M2nA",  # 2021-09-18 Uncovering the dark secrets of my McDonald's touchscreen table
-  ],
- ),
  dict(name="I made a real Spiritomb", kind="Build",
   desc="Hey all, I've teamed with another creator to bring back the Spiritombs.",
   videos=[
@@ -78,12 +36,6 @@ INVENTIONS = [
   desc="Hey all, I've teamed with another creator to bring back the Spiritombs.",
   videos=[
    "GBzu5MmehkM",  # 2022-06-17 I made a Shiny Hologram Spiritomb
-  ],
- ),
- dict(name="The Nintendo DS XXXXXL", kind="Build",
-  desc="This has been my biggest project yet.",
-  videos=[
-   "N8oKY3FhGxo",  # 2022-07-18 The Nintendo DS XXXXXL
   ],
  ),
  dict(name="Making a real Portal Gun from scratch", kind="Build",
@@ -184,22 +136,10 @@ INVENTIONS = [
    "uPh2qADqtdU",  # 2025-01-09 I 3D Printed Pokémon's Item Printer
   ],
  ),
- dict(name="REAL Streamer vs Scrub Streamer", kind="Build",
-  desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
-  videos=[
-   "kAx1HdwT8LA",  # 2025-01-14 REAL Streamer (@glassesjournal ) vs Scrub Streamer (Me) : PokéDoku Tou
-  ],
- ),
  dict(name="I may have met my match PokeDoku Semi-finals PROJECT REVEAL AFTER", kind="Build",
   desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
   videos=[
    "AdA_QSHHHBM",  # 2025-01-19 I may have met my match (VS @UltimaShadowX ) PokeDoku Semi-finals➡️ PR
-  ],
- ),
- dict(name="Can I Win The Pokedoku Finals", kind="Build",
-  desc="Pokedoku invited 16 creators to participate in a bracket tournament of their new tic-tac-toe mode.",
-  videos=[
-   "gzqFrZ4aXrE",  # 2025-01-30 CAN I WIN THE POKEDOKU FINALS?
   ],
  ),
  dict(name="I 3D printed the beta Rotom Toilet Form", kind="Build",
@@ -236,12 +176,6 @@ INVENTIONS = [
   desc="Like what you heard in this video?",
   videos=[
    "5_PM3ZbvHeA",  # 2025-10-21 I made a Rideable Wheelie from Kirby Air Ride (Ft. @failboat)
-  ],
- ),
- dict(name="I Programmed the World's Smartest Pokedex", kind="Build",
-  desc="Shutter Speed Showdown Ep 1-2 this December!",
-  videos=[
-   "8MTI1bimCUU",  # 2025-11-27 I Programmed the World's Smartest Pokedex
   ],
  ),
  dict(name="I Made a Pokemon Snap Game Show", kind="Build",

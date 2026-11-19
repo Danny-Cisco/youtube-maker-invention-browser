@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'banished-builds', 'name': 'Banished Builds', 'person': 'Banished Builds', 'tagline': 'Working replicas of sci-fi and historical props.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="LED chipped paint effect tutorial", kind="Build",
-  desc="This video is a tutorial on how to add LEDs and a chipped paint look to a project, giving two very cool effects at once.",
-  videos=[
-   "FHU6rwBneng",  # 2022-05-15 LED chipped paint effect tutorial
-  ],
- ),
  dict(name="Building my Carnage Peacekeeper", kind="Build",
   desc="In this video, I show how I built a Carnage themed Peacekeeper using 3D printing, painting, and other skills.",
   videos=[
@@ -26,12 +20,6 @@ INVENTIONS = [
   videos=[
    "5Lhhaklk8RI",  # 2023-03-19 Airsoft RE-45 built in under 24 hours!   Bringing Apex Legends to life
    "pt3w0zHzBC0",  # 2023-04-23 Sentinel made for Airsoft!   Bringing Apex Legends to life
-  ],
- ),
- dict(name="Caustic's Gas Grenade with real smoke! Bringing Apex Legends to life", kind="Build",
-  desc="In this video, we replicate Caustic's Ultimate, the gas grenade!",
-  videos=[
-   "it7CzPsi6NI",  # 2023-04-30 Caustic's Gas Grenade with real smoke!   Bringing Apex Legends to life
   ],
  ),
  dict(name="Functional R-301! Bringing Apex Legends to life", kind="Build",
@@ -57,19 +45,6 @@ INVENTIONS = [
   desc="In this video we're gonna make my 3D printed paintball Kraber look like the real thing from Apex Legends!",
   videos=[
    "0HaYNoYZ_8M",  # 2024-03-30 how I painted my Paintball Kraber | Bringing Apex Legends to Life
-  ],
- ),
- dict(name="The real life G7 Scout from Apex Legends", kind="Build",
-  desc="In this video, I share with you the G7 Scout build!",
-  videos=[
-   "ulBbepV58wE",  # 2024-12-03 The real life G7 Scout from Apex Legends!
-   "nQfYIxDk7_c",  # 2026-01-12 G7 Scout in real life? 👀 #apexlegends #apex #titanfall2 #gaming #pewpe
-  ],
- ),
- dict(name="Using the Paintball Kraber, The Worlds Largest Paintball Sniper", kind="Build",
-  desc="I brought my Kraber from Apex Legends to \"The Collapse 4\" held at OXCC.",
-  videos=[
-   "IBJwY0zM3YY",  # 2025-03-14 Using the Paintball Kraber, The Worlds Largest Paintball Sniper | Brin
   ],
  ),
  dict(name="The Elegoo Centauri Carbon", kind="Build",

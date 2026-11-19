@@ -7,10 +7,40 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'inheritance-machining', 'name': 'Inheritance Machining', 'person': 'Inheritance Machining', 'tagline': 'Precision machining and inventive tools.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Lathe Restoration || INHERITANCE MACHINING", kind="Build",
+ dict(name="I Inherited a Machine Shop || INHERITANCE MACHINING", kind="Build",
+  desc="I inherited my grandfather’s machine shop.",
+  videos=[
+   "hearLttbrLo",  # 2022-01-07 I Inherited a Machine Shop || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Milling Machine Restoration || INHERITANCE MACHINING", kind="Restoration",
+  desc="Join me in my machine shop for the Bridgeport restoration.",
+  videos=[
+   "wiz0ID4OjV0",  # 2022-02-04 Milling Machine Restoration || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Lathe Restoration || INHERITANCE MACHINING", kind="Restoration",
   desc="Join me in the machine shop for the lathe restoration.",
   videos=[
    "tEMErfSP5zs",  # 2022-02-18 Lathe Restoration || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Making Collet Blocks || INHERITANCE MACHINING", kind="Build",
+  desc="Join me in the machine shop for the first official machining project.",
+  videos=[
+   "pUR7A1oxHg4",  # 2022-03-04 Making Collet Blocks || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Surface Grinder Restoration || INHERITANCE MACHINING", kind="Restoration",
+  desc="Join me in the machine shop for the surface grinder restoration.",
+  videos=[
+   "S7hMorZmmZw",  # 2022-03-18 Surface Grinder Restoration || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Lathe Leveling and Alignment || INHERITANCE MACHINING", kind="Build",
+  desc="Join me in the machine shop for a little engine lathe leveling and alignment 101, and quite possibly, just maybe, a few side projects.",
+  videos=[
+   "8OP5bLxViEU",  # 2022-04-01 Lathe Leveling and Alignment || INHERITANCE MACHINING
   ],
  ),
  dict(name="Making a Tap Wrench || INHERITANCE MACHINING", kind="Build",
@@ -45,7 +75,13 @@ INVENTIONS = [
    "sSEIaZ1prd4",  # 2022-07-08 3 Mill Upgrades (A Side Project Extravaganza) || INHERITANCE MACHINING
   ],
  ),
- dict(name="Restoring an Angle Plate || INHERITANCE MACHINING", kind="Build",
+ dict(name="A Better Tool Post Nut || INHERITANCE MACHINING", kind="Build",
+  desc="Welcome back to the machine shop!",
+  videos=[
+   "B7x9Ef4IqNY",  # 2022-07-22 A Better Tool Post Nut || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Restoring an Angle Plate || INHERITANCE MACHINING", kind="Restoration",
   desc="Welcome back to the machine shop!",
   videos=[
    "KVh6gqMdVhc",  # 2022-08-05 Restoring an Angle Plate || INHERITANCE MACHINING
@@ -55,6 +91,12 @@ INVENTIONS = [
   desc="Join me in the machine shop where I’ll be doing a little reverse engineering and designing a project the old school way… by making a pencil drawing on a drafting table.",
   videos=[
    "naDhtRbBYIM",  # 2022-08-19 Designing WITHOUT a Computer || INHERITANCE MACHINING
+  ],
+ ),
+ dict(name="Making a Rotary Chuck Adapter || INHERITANCE MACHINING", kind="Build",
+  desc="Welcome back to the manual machine shop!",
+  videos=[
+   "SCAVqHLWWsI",  # 2022-09-02 Making a Rotary Chuck Adapter || INHERITANCE MACHINING
   ],
  ),
  dict(name="Rotary Broaching Eccentric Cams || INHERITANCE MACHINING", kind="Build",
@@ -99,6 +141,12 @@ INVENTIONS = [
    "y8NgrolRIa0",  # 2022-12-09 Making a VERSATILE Mini Pallet || INHERITANCE MACHINING
   ],
  ),
+ dict(name="Making Spindles for a RACE CAR! || INHERITANCE MACHINING", kind="Build",
+  desc="This week in the manual machine shop I’m helping out some old friends.",
+  videos=[
+   "sG14491vjDs",  # 2022-12-23 Making Spindles for a RACE CAR! || INHERITANCE MACHINING
+  ],
+ ),
  dict(name="Making the KING of All Knurling Tools || INHERITANCE MACHINING", kind="Build",
   desc="Making the KING of All Knurling Tools (Part 1) || INHERITANCE MACHINING.",
   videos=[
@@ -130,6 +178,12 @@ INVENTIONS = [
    "u2IS_FZiby0",  # 2023-03-17 Some UPGRADES for the Lathe || INHERITANCE MACHINING
   ],
  ),
+ dict(name="Resurrecting the Phoenix Clock || INHERITANCE MACHINING", kind="Build",
+  desc="Resurrecting the Phoenix Clock || INHERITANCE MACHINING.",
+  videos=[
+   "_2ZY1l8Iz0A",  # 2023-03-31 Resurrecting the Phoenix Clock || INHERITANCE MACHINING
+  ],
+ ),
  dict(name="A FANCY Lathe Tool Height Gauge || INHERITANCE MACHINING", kind="Build",
   desc="Being an engineer I have a knack for finding problems where they don’t exist, and coming up with over-designed solutions.",
   videos=[
@@ -148,70 +202,16 @@ INVENTIONS = [
    "YtchhV7aV7Q",  # 2023-05-26 The Joy of Hand Drawing Machining Prints || INHERITANCE MACHINING
   ],
  ),
- dict(name="The Radius Fixture That Got Way Too Complicated", kind="Build",
-  desc="Machining rounds on part corners presents a dilemma (to me anyway).",
-  videos=[
-   "z3KaY65Wqmo",  # 2023-06-09 The Radius Fixture That Got Way Too Complicated
-  ],
- ),
- dict(name="Handles, Collars and Stops... OH MY", kind="Build",
-  desc="As the next installment of the design build that got way out of hand, I’m tackling the bits that make the rotary fixture plate extra satisfying.",
-  videos=[
-   "nT-hMh9Er4M",  # 2023-06-23 Handles, Collars and Stops... OH MY!
-  ],
- ),
  dict(name="I Might Have Invented Something New", kind="Build",
   desc="So the rotary fixture plate is done, right?",
   videos=[
    "awkhVmcxgR0",  # 2023-07-07 I Might Have Invented Something New...
   ],
  ),
- dict(name="What Happens When You Procrastinate", kind="Build",
-  desc="Let’s face it, it’s far too easy to push off all the little inconveniences and annoyances that crop up while working in the shop.",
-  videos=[
-   "lZhAD8m6eUY",  # 2023-07-21 What Happens When You Procrastinate...
-  ],
- ),
- dict(name="Free the Nut", kind="Build",
-  desc="In this video I'm designing and machining a new take on the age old machinists' captive nut puzzle.",
-  videos=[
-   "1B37Izw_v2M",  # 2023-08-18 Free the Nut! (Not What You Think)
-  ],
- ),
- dict(name="These Will Save My Parts", kind="Build",
-  desc="Most of the time I use the 4 jaw chuck on the lathe, I also use some makeshift soft jaws to protect the part finish.",
-  videos=[
-   "r34WUDab244",  # 2023-09-01 These Will Save My Parts
-  ],
- ),
- dict(name="How's a Guy Supposed to Work Like This", kind="Build",
-  desc="Let’s face it.",
-  videos=[
-   "gsZigIXH6xs",  # 2023-10-13 How's a Guy Supposed to Work Like This?
-  ],
- ),
- dict(name="Free or DIE HOLDER", kind="Build",
-  desc="Single point threading is slow.",
-  videos=[
-   "kWzMN12TnZA",  # 2023-10-27 Live Free or DIE HOLDER
-  ],
- ),
- dict(name="A Dish Best Served ROLLED", kind="Build",
-  desc="A sticky subject for me… rotary broaching.",
-  videos=[
-   "o_OWEGzi3Gk",  # 2023-11-10 A Dish Best Served ROLLED
-  ],
- ),
- dict(name="Just A \"SIMPLE\" Repair", kind="Build",
+ dict(name="Just A \"SIMPLE\" Repair", kind="Restoration",
   desc="Ignoring the larger issues with the \"new\" lathe in favor of a simple project.",
   videos=[
    "1l2_uCyBXQ0",  # 2023-12-22 Just A "SIMPLE" Repair
-  ],
- ),
- dict(name="WANTED: Dead or a CENTER", kind="Build",
-  desc="New Lathe.",
-  videos=[
-   "EsOgG7nIWo4",  # 2024-01-19 WANTED: Dead or a LIVE CENTER
   ],
  ),
  dict(name="I Raced a $600,000 CNC Machine", kind="Build",
@@ -220,64 +220,10 @@ INVENTIONS = [
    "Q3sjsu1FPCk",  # 2024-02-02 I Raced a $600,000 CNC Machine
   ],
  ),
- dict(name="GRINDING On All Cylinders", kind="Build",
-  desc="No really...",
-  videos=[
-   "koQ4bcHrPJk",  # 2024-02-16 GRINDING On All Cylinders
-  ],
- ),
- dict(name="Mobius Strip? Nah... Mobius CUBE", kind="Build",
-  desc="I tend to always make tools but sometimes you get an itch that you just have to scratch.",
-  videos=[
-   "ICaUFUJgCWc",  # 2024-03-15 Mobius Strip? Nah... Mobius CUBE!
-  ],
- ),
- dict(name="How a machinist does woodworking", kind="Build",
-  desc="How a machinist does woodworking....",
-  videos=[
-   "uQQH8XzlgVU",  # 2024-04-19 How a machinist does woodworking...
-  ],
- ),
- dict(name="Half of a Great Idea", kind="Build",
-  desc="Half of a Great Idea.",
-  videos=[
-   "qGsQl4FQFbQ",  # 2024-05-10 Half of a Great Idea
-  ],
- ),
  dict(name="Saving the Machine the World Forgot", kind="Build",
   desc="Yes… I’m in the middle of another project.",
   videos=[
    "7am-ysvGD3s",  # 2024-05-31 Saving the Machine the World Forgot
-  ],
- ),
- dict(name="The Rest of a Great Idea", kind="Build",
-  desc="Where's the best place to pick up?",
-  videos=[
-   "A4vsKNpxKvk",  # 2024-06-21 The Rest of a Great Idea
-  ],
- ),
- dict(name="Involuter? I barely know her", kind="Build",
-  desc="Involuter? I barely know her!.",
-  videos=[
-   "cJO8K2IILhs",  # 2024-07-12 Involuter? I barely know her!
-  ],
- ),
- dict(name="If It ain't broke... try harder", kind="Build",
-  desc="If It ain't broke... try harder.",
-  videos=[
-   "nClw85G0c-w",  # 2024-08-02 If It ain't broke... try harder
-  ],
- ),
- dict(name="You had one job", kind="Build",
-  desc="So I'm finally doing it.",
-  videos=[
-   "KVyeMKf4k3c",  # 2024-08-23 You had one job (and you did it wrong)
-  ],
- ),
- dict(name="So a lathe walks into a bar", kind="Build",
-  desc="What was the first thing I did when getting the free lathe?",
-  videos=[
-   "tLMvbief6fQ",  # 2024-09-13 So a lathe walks into a bar...
   ],
  ),
  dict(name="When You \"Save Money\" Making it Yourself", kind="Build",
@@ -286,28 +232,16 @@ INVENTIONS = [
    "ByyT5XvQSag",  # 2024-10-25 When You "Save Money" Making it Yourself
   ],
  ),
- dict(name="Only Showoffs Do Things Once", kind="Build",
-  desc="Nope you aren’t experiencing deja vu.",
-  videos=[
-   "QGC11ZScL4E",  # 2024-11-15 Only Showoffs Do Things Once
-  ],
- ),
  dict(name="Making a Puzzle Solver's DREAM", kind="Build",
   desc="Making a Puzzle Solver's DREAM.",
   videos=[
    "FkZ4EU7lR-c",  # 2024-12-27 Making a Puzzle Solver's DREAM
   ],
  ),
- dict(name="When Failure is the Best Option", kind="Build",
-  desc="Machining being what it is, there are always new techniques to use...",
+ dict(name="She asked for coasters... so I made her a CLOCK", kind="Build",
+  desc="She asked for coasters... so I made her a CLOCK.",
   videos=[
-   "S5CNM-H1eFM",  # 2025-02-07 When Failure is the Best Option
-  ],
- ),
- dict(name="Polished parts WITHOUT Polishing", kind="Build",
-  desc="Drawing for this build can be found here:",
-  videos=[
-   "imxnpvtXNv4",  # 2025-02-28 Polished parts WITHOUT Polishing
+   "8TfCJuFrRtw",  # 2025-01-17 She asked for coasters... so I made her a CLOCK
   ],
  ),
  dict(name="A mistake... 3 years in the making", kind="Build",
@@ -316,40 +250,16 @@ INVENTIONS = [
    "oSZx2JO5aMU",  # 2025-04-18 A mistake... 3 years in the making
   ],
  ),
+ dict(name="Inventing stuff is hard", kind="Build",
+  desc="I'm finally tackling one of the great frontiers of lathe work...",
+  videos=[
+   "fTdPXt-jLGo",  # 2025-05-09 Inventing stuff is hard
+  ],
+ ),
  dict(name="The Invention that WASN'T", kind="Build",
   desc="While making a multi-video projects ensures I can adequately cover all aspects new invention, it also give the audience time to point out how the invention already exists.",
   videos=[
    "Jc3h38qdItI",  # 2025-05-30 The Invention that WASN'T
-  ],
- ),
- dict(name="They Made A Million of These", kind="Build",
-  desc="You know what they say...",
-  videos=[
-   "hx5GoAddwo8",  # 2025-06-27 They Made A Million of These...
-  ],
- ),
- dict(name="Made for One Man, Half a World Away", kind="Build",
-  desc="Made for One Man, Half a World Away.",
-  videos=[
-   "9CBT4Rp0lK0",  # 2025-08-15 Made for One Man, Half a World Away
-  ],
- ),
- dict(name="The World Still Needs These Machines", kind="Build",
-  desc="Am I in the middle of a project?",
-  videos=[
-   "U4irOOYNFbs",  # 2025-10-03 The World Still Needs These Machines
-  ],
- ),
- dict(name="Mill vs Lathe vs... Shaper", kind="Build",
-  desc="Rather than spend an entire second video cleaning a machine, I thought hey, let’s speedrun the tuneup and actually make something with this thing.",
-  videos=[
-   "AUhvdmYmo1k",  # 2025-10-31 Mill vs Lathe vs... Shaper?
-  ],
- ),
- dict(name="That Doesn't Belong on a Lathe", kind="Build",
-  desc="I present to you the mother of all side projects.",
-  videos=[
-   "RbAO8ZO706I",  # 2025-11-28 That Doesn't Belong on a Lathe
   ],
  ),
  dict(name="The Part that Builds Engineers", kind="Build",
@@ -364,22 +274,22 @@ INVENTIONS = [
    "QpY9x4EMRGA",  # 2026-03-27 Making The Wrench That Nobody Else Would
   ],
  ),
- dict(name="The Silent Killer in the Shop", kind="Build",
-  desc="The Silent Killer in the Shop.",
+ dict(name="I Built The Ultimate Coax", kind="Build",
+  desc="I Built The Ultimate Coax.",
   videos=[
-   "VXr_XvAZkjc",  # 2026-08-28 The Silent Killer in the Shop
+   "RhLmd1f3U1g",  # 2026-05-22 I Built The Ultimate Coax
   ],
  ),
- dict(name="Making the Fastest Blade on the Internet", kind="Build",
-  desc="I will not be releasing the design for this out of respect for Rivery MFG's efforts.",
+ dict(name="Saving the Biggest Machine You've Never Heard Of", kind="Build",
+  desc="Clarification!",
   videos=[
-   "2xTQokzi_J4",  # 2026-09-18 Making the Fastest Blade on the Internet
+   "m7G1MRHatuw",  # 2026-06-26 Saving the Biggest Machine You've Never Heard Of
   ],
  ),
- dict(name="The Finest Screw Ever Made", kind="Build",
-  desc="The Finest Screw Ever Made.",
+ dict(name="Making The Best Tool A ROUND", kind="Build",
+  desc="Making The Best Tool A ROUND.",
   videos=[
-   "2brp2bBIKSk",  # 2026-10-16 The Finest Screw Ever Made
+   "e_JcxypGKYg",  # 2026-07-31 Making The Best Tool A ROUND
   ],
  ),
  dict(name="This Invention Changes Everything", kind="Build",

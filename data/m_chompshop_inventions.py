@@ -7,66 +7,10 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'chomp-shop', 'name': 'Chomp Shop', 'person': 'Chomp Shop', 'tagline': 'Cardboard builds and easy DIY.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="ChompSaw: A kid-safe power tool for cutting cardboard", kind="Build",
-  desc="We are launching on Kickstarter on September 28th at 1 PM!",
-  videos=[
-   "UwiyGFLXEc8",  # 2023-09-21 ChompSaw: A kid-safe power tool for cutting cardboard!
-   "v2_1bGShf44",  # 2024-06-30 Honored to have @jimmydiresta use our kid-safe cardboard cutting power
-  ],
- ),
- dict(name="Pen Ryn School ChompSaw Testimonial", kind="Build",
-  desc="Pen Ryn School ChompSaw Testimonial.",
-  videos=[
-   "xZVorX63qq8",  # 2023-09-21 Pen Ryn School ChompSaw Testimonial
-  ],
- ),
- dict(name="Cardboard Workstation", kind="Build",
-  desc="Are you ready to assemble your cardboard workstation?",
-  videos=[
-   "suxss8TuueM",  # 2024-10-29 Cardboard Workstation
-  ],
- ),
- dict(name="How to Use Chompshop Patterns", kind="Build",
-  desc="Let's get learn how to use Chompshop patterns!",
-  videos=[
-   "33_vsEkmg5g",  # 2024-11-05 How to Use Chompshop Patterns
-  ],
- ),
- dict(name="Scoring Tool", kind="Build",
-  desc="Ready to score big with your next project?",
-  videos=[
-   "HDfIgEvz9iw",  # 2024-11-11 Scoring Tool
-  ],
- ),
  dict(name="Rocket Ship Project", kind="Build",
   desc="Rocket Ship Project.",
   videos=[
    "z8n3ThpekYk",  # 2024-11-19 Rocket Ship Project
-  ],
- ),
- dict(name="Cardboard - Tips & Tricks", kind="Build",
-  desc="Cardboard - Tips & Tricks.",
-  videos=[
-   "BtIRp-0L7qc",  # 2024-12-19 Cardboard - Tips & Tricks
-  ],
- ),
- dict(name="Getting Started with the ChompSaw", kind="Build",
-  desc="Let’s get chomp’n!",
-  videos=[
-   "c6WdH-KGgbE",  # 2024-12-30 Getting Started with the ChompSaw
-  ],
- ),
- dict(name="Cardboard Hole Punch Tool", kind="Build",
-  desc="Hole-y smokes!",
-  videos=[
-   "PvePg74cVdo",  # 2024-12-30 Cardboard Hole Punch Tool
-  ],
- ),
- dict(name="Meet the ChompSaw", kind="Build",
-  desc="Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!.",
-  videos=[
-   "XKYMsQw4qEU",  # 2025-04-11 Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!
-   "fSUWxhZWgHk",  # 2025-04-22 Meet the ChompSaw: A Kid-Safe Power Tool for Cutting Cardboard!
   ],
  ),
  dict(name="Cardboard Puppet Heads with Sam Wilde", kind="Build",
@@ -120,13 +64,6 @@ INVENTIONS = [
   desc="Valentine's Day Postbox Project.",
   videos=[
    "8--t1NSUW2g",  # 2026-02-10 Valentine's Day Postbox Project
-  ],
- ),
- dict(name="Is it worth it? Testing the ChompSaw", kind="Build",
-  desc="Is it worth it? Testing the ChompSaw!.",
-  videos=[
-   "I1sh-F5kwyQ",  # 2026-06-12 Is it worth it? Testing the ChompSaw!
-   "YQQUwhHV8No",  # 2026-06-14 Is it worth it? Testing the ChompSaw... (Part 2!)
   ],
  ),
  dict(name="Introducing The Explorer's Club", kind="Build",

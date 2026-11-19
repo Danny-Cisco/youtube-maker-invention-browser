@@ -13,21 +13,6 @@ INVENTIONS = [
    "mTbLcA7HdKI",  # 2013-11-23 How to Connect / Sync / Pair Xbox One controller to Xbox One console
   ],
  ),
- dict(name="Plex Xbox One App Walkthrough", kind="Build",
-  desc="A walkthrough of the new Plex App on Xbox One.",
-  videos=[
-   "wNXqt2BjbDc",  # 2014-10-07 Plex Xbox One App Walkthrough
-   "AtU8tGpbJUI",  # 2015-03-03 Xbox One IGN App Walkthrough
-   "mFH36EAIOE4",  # 2015-03-21 Xbox One Sling App Walkthrough
-  ],
- ),
- dict(name="How to fix 90% of your Xbox One issues", kind="Build",
-  desc="How to fix 90% of your Xbox One issues - hard reboot reset.",
-  videos=[
-   "HZ_d6jYqRVE",  # 2014-12-26 How to fix 90% of your Xbox One issues - hard reboot reset
-   "KG0BfRlL84o",  # 2015-12-31 How to Fix 90% of your Xbox One issues with a Simple Console Reboot / 
-  ],
- ),
  dict(name="$100 Star Wars The Black Series Red Stormtrooper Helmet + 3D Printed S", kind="Build",
   desc="Lets unbox and review this Star Wars Black Series Red Stormtrooper Captain Crimson Galaxy Edge $100 Helmet!",
   videos=[
@@ -45,113 +30,11 @@ INVENTIONS = [
    "qbkP3PxA13s",  # 2024-01-24 This is Freaky Cool! 3D Printed Optical Illusion
   ],
  ),
- dict(name="How to Xbox One games to a Mac or PC with Windows 10", kind="Build",
-  desc="I will show you how you can stream games from your Xbox One to your Mac or PC running windows 10",
-  videos=[
-   "6oBbkm3kfEQ",  # 2015-06-22 How to stream Xbox One games to a Mac or PC with Windows 10!
-  ],
- ),
- dict(name="Batman Arkham Knight", kind="Build",
-  desc="Quick tip for the new Batman Arkham Knight game.",
-  videos=[
-   "TOEe2NDfLbE",  # 2015-06-23 Batman Arkham Knight: Better Batmobile Controls / Battle Mode
-   "nGZ_N74lJRE",  # 2015-07-01 Batman Arkham Knight Crushinator Challenge Tips and Tricks
-  ],
- ),
  dict(name="3D Printed Iron Man Repulsor", kind="Build",
   desc="Checkout my latest project...",
   videos=[
    "eCJqqGW3XJs",  # 2015-07-17 3D Printed Iron Man Repulsor
    "otd5WARjnOs",  # 2016-07-01 3D Printed Iron Man Arc Reactor Replica Prop
-  ],
- ),
- dict(name="Last Week on r/XboxOne", kind="Build",
-  desc="Welcome to the 43rd episode of Last Week on r/XboxOne!",
-  videos=[
-   "pIMDhc5KPX4",  # 2015-08-03 Last Week On r/Xbox One: Episode 01 - Games with Gold for August and m
-   "XxRyjM4ZvOM",  # 2015-08-10 Last Week On r/Xbox One: Episode 02 - Lots of GamesCom Updates!
-   "w3AyYgkARgM",  # 2015-08-17 Last Week On r/Xbox One: Episode 03 - Gears of War available now? Kine
-   "HZKGCbHEE-g",  # 2015-09-01 Last Week On r/Xbox One: Episode 05 - Gears Theme, Boom Kills, Tiny Ha
-   "8Qta4oW31ig",  # 2015-09-18 Last Week on r/XboxOne Ep 07: Power Bricks, Dashboard Updates, Sneaky 
-   "aGIFOA9upqU",  # 2015-09-21 Last Week on r/XboxOne Ep 08: Gifting Games, Battlefront Beta, Xbox Da
-   "OeN8hsR0ktI",  # 2015-09-28 Last Week on r/XboxOne Ep 09: Games with Gold for October, Bioshock Co
-   "GTDxSgvvzjY",  # 2015-10-05 Last Week on r/XboxOne Ep 10: Master Chief is Dead?, New UI Speed Test
-   "8hHMvBvYdDI",  # 2015-10-12 Last Week on r/XboxOne Ep 11: Donations, Adapters, Window 10, & Master
-   "Iz1hGU4e2IY",  # 2015-10-19 Last Week on r/XboxOne Ep 12: Halo, Serial Killer, Porn, Kinect, Elite
-   "9gQA9svRHI8",  # 2015-10-27 Last Week on r/XboxOne Ep 13: Wireless Mic, Spotify App, Fallout, Halo
-   "5PBTF5DWIVU",  # 2015-11-02 Last Week on r/XboxOne Ep 14: Perverts, Halo, Cola, & Skid Marks
-   "Jy_fA-Fg9uw",  # 2015-11-09 Last Week on r/Xbox One Ep 15: Fallout, Tomb Raider, Backwards Compati
-   "e91bXPEGBNY",  # 2015-11-16 Last Week on r/Xbox One Ep 16: Backwards Compatibility, Rocket League,
-   "VxRPSYQHDVE",  # 2015-11-23 Last Week on r/Xbox One Ep 17: Happy Birthday Xbox One!, Tomb Raider, 
-   "e8_pUQmRlTo",  # 2015-11-30 Last Week on r/Xbox One Ep 18: Gifs Galore, Black Friday, Fallout, Hal
-   "gunfYKlmalQ",  # 2015-12-14 Last Week on r/Xbox One Ep 20: Halo Firefight, Waxing, Nintendo on Xbo
-   "axKqf2t1XqA",  # 2015-12-21 Last Week on r/Xbox One Ep 21: Backwards Compatibility Updates, Star W
-   "DMECr2IVHKM",  # 2015-12-28 Last Week on r/Xbox One Ep 22: 1vs100, Games With Gold. Halo Forge and
-   "v0LIFLQCkhw",  # 2016-01-04 Last Week on r/XboxOne Ep 23: Welcome to Xbox Live, Major Nelson Stops
-   "TmaeXfG7hhY",  # 2016-01-18 Last Week on r/XboxOne Ep 25: Giving away 6 games, Snoop Dogg Xbox Liv
-   "-TERLVY5DaY",  # 2016-01-25 Last Week on r/XboxOne Ep 26: Bewbs, Preview Program Updates, Backward
-   "irZ5BgB3Orc",  # 2016-02-01 Last Week on r/XboxOne Ep 27: Inappropriate Usernames, Forge Mode, Lef
-   "pvwqne1sBv4",  # 2016-02-08 Last Week on r/XboxOne Ep 28: Dating PS4, Season Pass Scams, Lego Star
-   "p5OyAVWSS7Q",  # 2016-02-15 Last Week on r/XboxOne Ep 29: Rocket League, Quantum Break, Red Dead R
-   "kJ6CggsYmtI",  # 2016-02-22 Last Week on r/XboxOne Ep 30: Ridiculousness, Fallout 4, XBLA, Rocket 
-   "VYLs7MOOVX4",  # 2016-02-29 Last Week on r/XboxOne Ep 31: Rocket League Goals, Games with Gold, Ha
-   "GXwYIu4a5fw",  # 2016-03-07 Last Week on r/XboxOne Ep 32: Division NYC Event, Star Wars,  Xbox Upg
-   "I5gQcNHbQzI",  # 2016-03-14 Last Week on r/XboxOne Ep 33: Future of Fable, Gears of War 4, The Div
-   "fqqDM8GWdeY",  # 2016-03-21 Last Week on r/XboxOne Ep 34: Console Wars, Batman, Breaking Bad, COD 
-   "2WbkqUfSveE",  # 2016-03-28 Last Week on r/XboxOne Ep 35: Games with Gold, Disc Eject Fail, Halo, 
-   "nfKFlpL0jGM",  # 2016-04-04 Last Week on r/XboxOne Ep 36: Quantum Break, Doom Beta, Filthy Xbox On
-   "QgHGw-fou4s",  # 2016-04-11 Last Week on r/XboxOne Ep 37: Nude Pics, PS4 CrossPlay, Gears of War 4
-   "2210oQEZZog",  # 2016-04-18 Last Week on r/XboxOne Ep 38: Gears of War 4, Titan Fall 2, Red Dead R
-   "lkG76U8wjYo",  # 2016-04-25 Last Week on r/XboxOne Ep 39: Overwatch, Gears 4, Borderlands 3 and mo
-   "FabKNAHpdjw",  # 2016-05-02 Last Week on r/XboxOne Ep 40: Battlefield 5, COD Infinite Warfare, Fal
-   "TveTekYVwFk",  # 2016-05-09 Last Week on r/XboxOne Ep 41: Battlefield 1, Cringy Major Nelson Photo
-   "qgUBAyaWeMs",  # 2016-05-16 Last Week on r/XboxOne Ep 42: Battlefield vs Call of Duty, Halo5, Fall
-   "-6p7XiWQQ4E",  # 2016-05-23 Last Week on r/XboxOne Ep 43: Black Ops, Gamer Tags, Batman, LastFight
-   "ayDhhxplYNo",  # 2016-05-30 Last Week on r/XboxOne Ep 44: Xbox Slim Rumors, Cross Network Play and
-   "k-JZ_yuIzVY",  # 2016-06-06 Last Week on r/XboxOne Ep 45: Fallout Mods, Battlefield 1, Halo Wars 2
-   "JfvEsayuxX8",  # 2016-06-13 Last Week on r/XboxOne Ep 46: Phil Spencer Pisses Excellence, E3, Inju
-   "YLnCiY4OpC8",  # 2016-06-20 Last Week on r/XboxOne Ep 47: E3, TitanFall 2, Project Scorpio and mor
-   "Q8XwS3MLI6g",  # 2016-07-04 Last Week on r/XboxOne Ep 49: On the Road, Crossplay Cortana, Elite Co
-   "MU8cfQYthUg",  # 2016-07-11 Last Week on r/XboxOne Ep 50: Inside Game Giveway! Red Dead Redemption
-   "wj_QuFd3yDk",  # 2016-07-18 Last Week on r/XboxOne Ep 51: Game Streaming, Custom Controllers, Red 
-   "RSFwGwM9_gQ",  # 2016-07-25 Last Week on r/XboxOne Ep 52: 1 Year Anniversary of the show!
-   "3ZwfUOdV6uo",  # 2016-08-01 Last Week on r/XboxOne Ep 53: N64 Emulator, Halo Cake Wars, Overwatch 
-   "vp1pOq83mAA",  # 2016-08-08 Last Week on r/XboxOne Ep 54: Master Chief, Background Music, Controll
-   "OFIgFxSWYv0",  # 2016-08-15 Last Week on r/XboxOne Ep 55: Is No Mans Sky Coming to Xbox? Slow Xbox
-   "HqrjSmpI4u0",  # 2016-08-23 Last Week on r/XboxOne Ep 56: Pandora Xbox One App, Battlefied 1, Tita
-   "WaZRK-luc_Q",  # 2016-08-29 Last Week on r/XboxOne Ep 57: COD, Halo 5, TitanFall 2, Xbox Onsies an
-   "Y_INFG9THBc",  # 2016-09-05 Last Week on r/XboxOne Ep 58: Forza Horizons, Bruh, Design Labs and mo
-   "-JbHNhYy7tA",  # 2016-09-12 Last Week on r/XboxOne Ep 59: Xbox/Major Nelson throwing some punches,
-   "L-vhQutD4Rs",  # 2016-09-26 Last Week on r/XboxOne Ep 61: Forza Horizon 3, Gears of War 4, EverSpa
-   "zUZHhM3wDHU",  # 2016-10-03 Last Week on r/XboxOne Ep 62: Forza Drivatars, Gears of War Couch, Cal
-   "5VkFQ7yVLuM",  # 2016-10-24 Last Week on r/XboxOne Ep 64: Red Dead Redemption 2 & HoPiKo
-   "5eKtMR3USUk",  # 2016-10-31 Last Week on r/XboxOne Ep 65: Battlefield 1 Sales, Titanfall 2 Achieve
-   "c1eOzgZX7v4",  # 2016-11-14 Last Week on r/XboxOne Ep 67: Backwards Compatibility 1 yr later, Xbox
-   "ghCj0j1Uyls",  # 2016-11-21 Last Week on r/XboxOne Ep 68: Xbox Scorpio Graphics, Xbox 15 year Anni
-   "YGJiuZzd3gI",  # 2016-12-12 Last Week on r/XboxOne Ep 69: IGN Clickbait Titles, Project Scorpio, a
-   "t2RB4BPrfMc",  # 2016-12-19 Last Week on r/XboxOne Ep 70: Bioshock, Backwards Compatibility and mo
-   "vjLKufqzSoU",  # 2017-01-02 Last Week on r/XboxOne Ep 71: Top Posts of 2016!
-   "b0ZGdLRSWv4",  # 2017-01-09 Last Week on r/XboxOne Ep 72: Our Hero Major Nelson, Red Ring of Death
-   "GM347Cu5RAE",  # 2017-01-23 Last Week on r/XboxOne Ep 73: Lazy Achievement Art, Battlefield 3, Wis
-   "Hi6_P9Duoks",  # 2017-01-30 Last Week on r/XboxOne Ep 74: Top Submitted posts for the week of Jan 
-   "fVO4KgbNeUg",  # 2017-02-06 Last Week on r/XboxOne Ep 75: Ghost Recon Wildlands Beta, Phil Spencer
-   "pT0_3vInZN8",  # 2017-02-13 Last Week on r/XboxOne Ep 76: GTA 4 on Xbox One, E3, Mass Effect Andro
-   "kKVJW_gEbZg",  # 2017-02-20 Last Week on r/XboxOne Ep 77: Halo Wars 2, Mass Effect Andromeda and M
-   "w62dXxLqc4A",  # 2017-02-27 Last Week on r/XboxOne Ep 78: Shadow of War, Games with Gold and More!
-  ],
- ),
- dict(name="Gears of War & Shadow Complex Xbox One Backwards Compatibility Update", kind="Build",
-  desc="This allows Xbox One owners to play Xbox 360 games on their Xbox Ones!",
-  videos=[
-   "67YH0OQpvHE",  # 2015-08-04 Gears of War & Shadow Complex Xbox One Backwards Compatibility Update
-   "vRMCGLSu1yI",  # 2015-08-05 Gears One on Xbox One using Backwards Compatibility
-  ],
- ),
- dict(name="Xbox One Fall Dashboard Update", kind="Build",
-  desc="MS is continuing to improve on their new Fall Dashboard update for the Xbox One.",
-  videos=[
-   "zjOuuhNhtiI",  # 2015-09-17 Xbox One Dashboard Update - Part 1 - Opting In
-   "BPU4CQl6_Ts",  # 2017-09-07 Xbox One Fall Dashboard Update - Light Theme Preview
   ],
  ),
  dict(name="Prusa Mini 3D Printer", kind="Build",
@@ -169,40 +52,12 @@ INVENTIONS = [
    "4XDA86x_Kos",  # 2020-01-18 EPAX X10 AMAZING Midsized Resin 3D Printer
   ],
  ),
- dict(name="Xbox One / 360 Games with Gold for December 2015", kind="Build",
-  desc="Make sure to download the xbox 360 games as well because you can now play them in Backwards Compatibility.",
-  videos=[
-   "JZzDn5HUMPQ",  # 2015-11-25 Xbox One / 360 Games with Gold for December 2015
-   "uuSX6f7I2Hc",  # 2016-01-28 Xbox One / 360 Games with Gold for February 2016
-  ],
- ),
- dict(name="Killer Instinct Ultra Edition Free Add-ons with the Games with Gold fo", kind="Build",
-  desc="Make sure to checkout the additional free Killer Instinct Add-ons that you can download with this months free games with gold Killer Instincts Ultra Edition Season One",
-  videos=[
-   "GySVWHsE3iQ",  # 2015-12-21 January 2016 Games With Gold - Xbox One / Xbox 360
-   "awfK8uhPs-0",  # 2016-01-01 Killer Instinct Ultra Edition Free Add-ons with the Games with Gold fo
-  ],
- ),
- dict(name="Introducing Xbox Fitness Fridays", kind="Build",
-  desc="Getting back to my channel roots with a new weekly video series called Xbox Fitness Fridays.",
-  videos=[
-   "GDhpr6ia-u4",  # 2016-01-01 Introducing Xbox Fitness Fridays - Starting something new for the New 
-   "mNp8zbP1vFA",  # 2016-01-08 Xbox Fitness Fridays 2! Gatorade Sports Performance Football Training 
-  ],
- ),
- dict(name="FIXED!!! $200 Monoprice MP Mini Resin 3D Printer Update", kind="Build",
+ dict(name="FIXED!!! $200 Monoprice MP Mini Resin 3D Printer Update", kind="Restoration",
   desc="I fixed my Monoprice MP Mini Resin 3D Printer with a pretty simple adjustment!",
   videos=[
    "MKg33tPsXxs",  # 2016-01-09 Uncle Jessy Live Stream - Fixing my Witbox 3D printer
    "vz_0FcPWQiI",  # 2019-06-23 FIXED!!!  $200 Monoprice MP Mini Resin 3D Printer Update!
    "c4xuSJrlsro",  # 2021-11-29 Can I fix my Fridge with a 3D Printer? Functional 3D Printing
-  ],
- ),
- dict(name="Dead Space Load Time Comparison", kind="Build",
-  desc="Comparing Dead Space on Backwards Compatibility on Xbox One vs Xbox 360.",
-  videos=[
-   "sQcBzZHOOCQ",  # 2016-04-01 Dead Space Load Time Comparison: Xbox One vs Xbox 360  NSFW
-   "EggecyadhiQ",  # 2016-07-09 Red Dead Redemption Load Time Comparison: Xbox One vs Xbox 360
   ],
  ),
  dict(name="Stop Breaking Your 3D Prints", kind="Build",
@@ -264,25 +119,16 @@ INVENTIONS = [
    "s5NX-q-uIuA",  # 2017-02-15 [Hot DEAL] Gears of War Lancer Replica Prop!! | Gears of War 4
   ],
  ),
- dict(name="How to Play NES ROM Games on your Xbox One", kind="Build",
-  desc="How to Play NES ROM Games on your Xbox One | NESBOX.",
+ dict(name="Doctor Strange 3D Printed Eye of Agamotto Replica Prop", kind="Build",
+  desc="This video has been in the works for a while now and I finally have it ready to share.",
   videos=[
-   "uXsySb6u17E",  # 2016-09-16 How to Play NES ROM Games on your Xbox One | NESBOX
-   "XPodf4fjIa0",  # 2016-12-31 How to play Mario Brothers and other NES games on your Xbox One | NES 
+   "xptbk_hj_Rk",  # 2016-12-16 Doctor Strange 3D Printed Eye of Agamotto Replica Prop | How To
   ],
  ),
- dict(name="R6 Siege! Love me some Twitch", kind="Build",
-  desc="Streaming R6 Siege!",
+ dict(name="How to Make a Lego Table for under $50! DIY", kind="Build",
+  desc="Here is a great and easy tutorial on how to make Lego table with storage for under $50!",
   videos=[
-   "koUPwncXM6I",  # 2016-09-20 Streaming R6 Siege! Love me some Twitch
-   "BPl1HDNpKic",  # 2016-09-20 Streaming R6 Siege! Love me some Twitch
-  ],
- ),
- dict(name="EVERSPACE on Xbox One", kind="Build",
-  desc="Just downloaded and installed the latest Xbox One Preview game...",
-  videos=[
-   "c1HoC5mPAYc",  # 2016-09-26 Streaming EVERSPACE on Xbox One!
-   "FnCluu3Nte0",  # 2016-09-26 Live Streaming EVERSPACE on Xbox One
+   "KjGB0YmzCsg",  # 2016-12-23 How to Make a Lego Table for under $50!  DIY
   ],
  ),
  dict(name="TITANFALL Wingman Replica Prop", kind="Build",
@@ -290,6 +136,12 @@ INVENTIONS = [
   videos=[
    "yEhaCd4Wu8w",  # 2017-01-01 TITANFALL Wingman Replica Prop | 3D Printed | Cosplay
    "gQbZY3OO_Nw",  # 2017-01-21 TITANFALL CAR SMG Replica Prop Build | 3D Printed | Part 1
+  ],
+ ),
+ dict(name="Baby Groot Flower Pot", kind="Build",
+  desc="It's time to print and finish a 3D Printed Baby Groot Flower Pot from Guardians of the Galaxy Volume 2 using some Hatchbox Wood PLA",
+  videos=[
+   "pJV-d1RU21E",  # 2017-01-13 Baby Groot Flower Pot | Guardians of the Galaxy 2 | 3D Printed
   ],
  ),
  dict(name="Can you smooth out 3D Prints with Beeswax", kind="Build",
@@ -311,6 +163,12 @@ INVENTIONS = [
   videos=[
    "5U8ydrROjXc",  # 2017-02-12 Deadpool Mask with Magnetic Eyes | How to 3D Print and Assemble
    "NJr5t1vhiJg",  # 2017-07-16 Spider-Man Mask with Magnetic Eyes PART 1| How to 3D Print and Assembl
+  ],
+ ),
+ dict(name="Amazing Marvel Replica Props for Under $100! Iron Man", kind="Build",
+  desc="Here are some really great replica props that you can either buy today or preorder for later in the year that cost under $100!",
+  videos=[
+   "6yoV0pImHZs",  # 2017-02-19 Amazing Marvel Replica Props for Under $100! Iron Man | Thor | Captain
   ],
  ),
  dict(name="How to Fill Gaps and Seams", kind="Build",
@@ -349,6 +207,12 @@ INVENTIONS = [
    "Hp2E_SHpNVs",  # 2018-02-03 I BROKE MY CR-10 3D PRINTER!
   ],
  ),
+ dict(name="Guardians of the Galaxy Star-Lord Mask", kind="Build",
+  desc="This came out way better than I hoped it would.",
+  videos=[
+   "SO0qJTJ2Ypo",  # 2017-05-06 Guardians of the Galaxy Star-Lord Mask | How to 3D Print and Assemble
+  ],
+ ),
  dict(name="3D Printed Molds for Casting 3D Prints", kind="Build",
   desc="Let's see if we can make our own 3D Printed Mold Boxes that we can pour silicone into for casting or melting 3D Prints!",
   videos=[
@@ -356,10 +220,10 @@ INVENTIONS = [
    "rqHbA-ZZ1Fg",  # 2022-12-28 3D Printed Molds for Casting 3D Prints!
   ],
  ),
- dict(name="How do I 3D Print something? 3D Printing Basics", kind="Build",
-  desc="Lets talk about the basics of how to 3D Print a replica prop.",
+ dict(name="How to find your missing Nintendo Switch Controller / Joycon", kind="Build",
+  desc="Nintendo Switch has a new update available and a great feature for finding a missing controller.",
   videos=[
-   "86DA0Zt6VDM",  # 2017-06-23 How do I 3D Print something? 3D Printing Basics
+   "62T4OJxkMdg",  # 2017-06-20 How to find your missing Nintendo Switch Controller / Joycon
   ],
  ),
  dict(name="I'M PICKLE RICK! Rick and Morty Season 3", kind="Build",
@@ -369,17 +233,16 @@ INVENTIONS = [
    "MmCIDz82GyQ",  # 2017-08-20 I'M PICKLE RICK! | Pickle Rick Rat Suit Figure | Rick and Morty Season
   ],
  ),
+ dict(name="How to Make a Tesseract Infinity Cube from the Avengers Movie", kind="Build",
+  desc="Here is a quick and simple guide on how to make an Infinity Cube / Tesseract from the Avengers movies and Captain America the First Avenger.",
+  videos=[
+   "JuVA6v5s1mk",  # 2017-08-04 How to Make a Tesseract Infinity Cube from the Avengers Movie | DIY | 
+  ],
+ ),
  dict(name="3D Printed Overwatch Tracer Statue", kind="Build",
   desc="I decided to 3d print this amazing Overwatch Tracer Statue.",
   videos=[
    "fJdxtrYKfwQ",  # 2017-08-17 3D Printed Overwatch Tracer Statue | Figure | CR-10 S4
-  ],
- ),
- dict(name="Take 2 - what happened to Thorgust", kind="Build",
-  desc="Take 2 - what happened to Thorgust.",
-  videos=[
-   "0mBvHXgvj3I",  # 2017-09-03 Take 3 👍 Thorgust livestream
-   "5PyODFIdXeU",  # 2017-09-03 Take 2 - what happened to Thorgust
   ],
  ),
  dict(name="Thor Ragnarok Cosplay Build", kind="Build",
@@ -388,14 +251,6 @@ INVENTIONS = [
    "2P3eURaJf1E",  # 2017-09-10 Thor Ragnarok Cosplay Build - Part 1 - 3D Printed Sword - NYCC
    "bCNpmf-m1pk",  # 2017-09-15 Thor Ragnarok Cosplay Build - Part 2: 3D Printed Parts - Anycubic i3 M
    "JkIzIi4kqGU",  # 2017-09-17 Thor Ragnarok Cosplay Build - Part 3: Gladiator Hammer | 3D Printed
-  ],
- ),
- dict(name="Sundays with Jessy", kind="Build",
-  desc="Sundays with Jessy  - April 22nd 2018",
-  videos=[
-   "aBA0JavLTBc",  # 2017-10-23 Sundays with Jessy - Fan Mail!
-   "U7L8UGJH8-I",  # 2017-12-10 Sundays With Jessy - Fan Mail - Dec 9th 2017
-   "-EINeCsj__U",  # 2018-04-22 Sundays with Jessy - Captain America Infinity War Shields / PS4 Pro Go
   ],
  ),
  dict(name="Black Friday 3D Printing Deals 2024", kind="Build",
@@ -418,6 +273,12 @@ INVENTIONS = [
    "CjH5KGw3Psw",  # 2018-02-09 How to 3D Print on Fabric for Cosplay | How To | 3D Printing on Fabric
    "OM5hwTrVnRU",  # 2018-05-04 Cosplay Calipers! Easy way to scale Helmets & Armor for 3D Printing | 
    "wdjBRjO1ch0",  # 2025-01-11 3D Printing My First Star Wars Cosplay - Range Trooper!
+  ],
+ ),
+ dict(name="CR-10 Print Bed Options", kind="Build",
+  desc="Lets take a look at Print Bed options for your CR-10 & some print adhesion tools you can use.",
+  videos=[
+   "BzY2LzDjquU",  # 2018-03-03 CR-10 Print Bed Options | CR-10 3D Printer
   ],
  ),
  dict(name="Monster Sized 3D Prints", kind="Build",
@@ -488,6 +349,12 @@ INVENTIONS = [
    "6KscT5f50ok",  # 2019-06-05 My Life Size 3D Printed Head | Scandy Pro iPhone X 3D Scan Followup
   ],
  ),
+ dict(name="The Perfect Belt", kind="Build",
+  desc="This might be the perfect belt for almost any Cosplay costume build!",
+  videos=[
+   "bjlstAHXoX8",  # 2019-02-22 The Perfect Belt - 3D Printed Belt
+  ],
+ ),
  dict(name="$99 Resin 3D Printer", kind="Build",
   desc="Checking out this $99 Resin 3D Printer kit and seeing if it can actually produce prints that are worth your money!",
   videos=[
@@ -511,7 +378,6 @@ INVENTIONS = [
    "5sRbK9pg4Ng",  # 2019-04-24 3D Printing with Resin | Safety Tips
    "tnGasVwkgMk",  # 2019-07-11 Testing Resin 3D Printing Cleaning Alternatives
    "NYK_8aEpUCY",  # 2019-08-21 Get more successful Resin 3D Prints with this trick - 3-In-One PTFE Lu
-   "x27zMoU0z5w",  # 2019-10-04 Quick look - HUGE Phrozen Transform Resin 3D Printer - Full Size Mask 
    "419f62nuUYA",  # 2019-10-09 3D Printed Resin Mask - Phrozen Transform - Redhood Oni / CyberPunk 20
    "aJcW2YZuvok",  # 2020-02-21 Resin 3D Printing - Ultra Sonic Cleaner Safety Warning
    "b03vwz2QZGc",  # 2020-06-26 FASTER Resin 3D Printing - Mono Screen Upgrade for Phrozen Transform
@@ -521,14 +387,11 @@ INVENTIONS = [
    "RvWiN33tHU8",  # 2021-01-09 Vroom - Faster Resin 3D Printing - How To
    "6oRYXeewEp0",  # 2021-01-16 Resin 3D Printing Dr Doom Bust #shorts
    "22BLWd3Bma4",  # 2021-01-24 How to 3D Print a Mandalorian Helmet on the Elegoo Saturn! Resin Weldi
-   "qV8Hq_6lOlQ",  # 2021-03-14 Resin 3D Printing Basics - How to Remove Supports
    "l3lirru5H44",  # 2021-03-19 The Future of Resin 3D Printing + Peopoly Phenom Prime Details
-   "9iGcWN8NugE",  # 2021-03-22 Resin 3D Printing Basics - Make your own Resin Colors
    "1Ya0DSVYXsE",  # 2021-04-05 How to get the best Clear Resin 3D Prints
    "zWFyLNWr9pA",  # 2021-04-30 Resin 3D Printed Raven & Skull  #shorts
    "sIcbymnrL0c",  # 2021-05-16 Saving a FAILED Resin 3D Print with Duralumen Chrome Paints / Sub-zero
    "p8w5p3SohpA",  # 2021-05-23 Resin 3D Printing with Multiple Colors 🌈
-   "X-khJI15qpY",  # 2021-05-29 Chalky Resin 3D Prints - Resin Basics
    "fMoAzqJPs7M",  # 2021-06-15 Can you fix a FEP with Tape? Resin 3D Printing Test!
    "DFwBAuc5U0M",  # 2021-07-03 Will you be forced to use Chitubox Pro? My Resin 3D Printing Option
    "1pXK0EY9AlA",  # 2021-08-09 4K vs 2K - Elegoo Mars 3 vs Elegoo Mars 2 Pro - Resin 3D Printing
@@ -559,6 +422,12 @@ INVENTIONS = [
    "NUJjfpRrvjQ",  # 2026-01-13 Supporting Resin 3D Prints Just Got WAY Easier
   ],
  ),
+ dict(name="$100 Avengers Endgame Power Gauntlet Preview! Nano Gauntlet", kind="Build",
+  desc="Hasbro just announced a new $100 Marvel Legends Series Replica Prop for Avengers Endgame Power Gauntlet / Nano Gauntlet / Tony Stark Infinity Gauntlet",
+  videos=[
+   "DlBgr6QLD5k",  # 2019-05-11 $100 Avengers Endgame Power Gauntlet Preview! Nano Gauntlet
+  ],
+ ),
  dict(name="EASY 3D Scanning with your iPhone X and Scandy Pro", kind="Build",
   desc="Really long detailed tutorial on using your iPhone X and Scandy Pro to create 3D Scans of your Head for 3D Printing and scaling replica props.",
   videos=[
@@ -578,13 +447,6 @@ INVENTIONS = [
    "7obmr5zsMcM",  # 2020-02-14 New $200 FAST Resin 3D Printer - Phrozen Sonic Mini
    "mV3b8BL7YK8",  # 2021-07-31 Elegoo Mars 3 - $300 4k Resin 3D Printer
    "ur3Alc-ngPE",  # 2023-07-29 Fast Affordable 3D Printers - Elegoo Neptune 4 / 4 Pro
-  ],
- ),
- dict(name="Is there a BIG Problem with LCD Resin 3D Printers", kind="Build",
-  desc="Is there a big issue with LCD Screen Resin 3D Printers?",
-  videos=[
-   "pSy8bNKV86I",  # 2019-08-12 Is there a BIG Problem with LCD Resin 3D Printers?
-   "pxhpO02f3IE",  # 2022-08-10 Small vs Big Resin 3D Printers - Before you buy!
   ],
  ),
  dict(name="Initial Impressions", kind="Build",
@@ -611,29 +473,16 @@ INVENTIONS = [
    "j7USEhavQW4",  # 2023-12-29 $700 Large Resin 3D Printer - Elegoo Jupiter SE
   ],
  ),
- dict(name="How I made $18K 3D Printing on Etsy", kind="Build",
-  desc="Explaining how I made over $18,000 by selling 3D Prints on Etsy and 4 tips on how you can get started.",
+ dict(name="Phrozen Transform vs Peopoly Phenom", kind="Build",
+  desc="Which large format resin 3D Printer should you buy?",
   videos=[
-   "zGxotsroCwo",  # 2020-04-18 How I made $18K 3D Printing on Etsy - 4 Tips to get started
-   "cqNuJOnS7dM",  # 2021-05-06 I made $30K & paid $14K in Fees 3D Printing on Etsy + 4 Etsy Selling t
-  ],
- ),
- dict(name="Are these the BEST Resin Support Settings? 3DPrintingPro's Insane Resi", kind="Build",
-  desc="Are these the BEST Resin Support Settings? 3DPrintingPro's Insane Resin Supports.",
-  videos=[
-   "bQrSu5311qA",  # 2020-05-12 Are these the BEST Resin Support Settings? 3DPrintingPro's Insane Resi
+   "ibLfhBBfwE8",  # 2020-05-03 Phrozen Transform vs Peopoly Phenom - HUGE Resin 3D Printer Showdown!
   ],
  ),
  dict(name="This changes everything! Peopoly Phenom L Initial Look", kind="Build",
   desc="My initial look at the Peopoly Phenom L HUGE Resin 3D Printer.",
   videos=[
    "jFpkMRC-4n0",  # 2020-05-17 This changes everything! Peopoly Phenom L Initial Look - Full Size Res
-  ],
- ),
- dict(name="The Best iPad Apps for 3D Modeling", kind="Build",
-  desc="The Best iPad 3D Modeling Apps for 3D Printing or 3D Design",
-  videos=[
-   "z5_iuv0UFXQ",  # 2020-07-31 The Best iPad Apps for 3D Modeling | 3D Printing
   ],
  ),
  dict(name="Elegoo Saturn 2", kind="Build",
@@ -644,18 +493,17 @@ INVENTIONS = [
    "LhjxJPV95C4",  # 2022-06-21 Elegoo Saturn 2 - 8k vs 4k Resin 3D Prints
   ],
  ),
+ dict(name="The Batman Cosplay", kind="Build",
+  desc="Make sure to use the code UJ to save 20% off the 3D Printable Batinson Armor Set!",
+  videos=[
+   "R0nAi2cUwOo",  # 2020-10-10 The Batman Cosplay - 3D Printed Costume Part 1
+  ],
+ ),
  dict(name="Scan | Design | 3D Print a Mask with Nomad Sculpt on iPad and Android", kind="Build",
   desc="Wham Bam Slap mats save 15%",
   videos=[
    "kwnXNz84Cow",  # 2020-10-16 Nomad Sculpt 3D Design App - Scale files for 3D Printing!
    "Y16lVVsbmFk",  # 2021-10-31 Scan | Design | 3D Print a Mask with Nomad Sculpt on iPad and Android
-  ],
- ),
- dict(name="5 Last Minute Halloween 2020 3D Printing Projects", kind="Build",
-  desc="Here are 5 spooky last minute Halloween 3D Printing projects you can print before Halloween!",
-  videos=[
-   "BVNNm_nBFV8",  # 2020-10-29 5 Last Minute Halloween 2020 3D Printing Projects
-   "VkCnUv1V6pg",  # 2021-06-22 Last Minute 3D Printing Amazon PrimeDay Deals!
   ],
  ),
  dict(name="AMAZING! Paint on Supports for 3D Prints with Prusa Slicer", kind="Build",
@@ -678,19 +526,6 @@ INVENTIONS = [
    "m5wNxIh-qHI",  # 2020-12-23 3D Printed X-mas Gifts that don't suck!
   ],
  ),
- dict(name="How much can you print with 1 bottle of resin", kind="Build",
-  desc="How many things can you print with 1 bottle of resin?",
-  videos=[
-   "DMescutnaKI",  # 2021-01-17 How much can you print with 1 bottle of resin? | Elegoo Saturn / Elego
-  ],
- ),
- dict(name="Must have accessory for Resin 3D Printers", kind="Build",
-  desc="A must-have accessory for your Resin 3D Printer!",
-  videos=[
-   "bLvzq8xVdQA",  # 2021-01-23 Must Have $10 Accessory for Resin 3D Printers
-   "AyDaEWFP6XA",  # 2022-10-25 Must have accessory for Resin 3D Printers!
-  ],
- ),
  dict(name="3D Printing Hack", kind="Build",
   desc="3D Printing Hack - Smoothing 3D Prints with Resin!.",
   videos=[
@@ -698,27 +533,16 @@ INVENTIONS = [
    "R_1Fc_zint8",  # 2021-02-28 3D Printing Hack - Filling Gaps & Seams with Resin and Baby Powder
   ],
  ),
- dict(name="Introducing ResinLapse", kind="Build",
-  desc="Introducing ResinLapse - The easiest way to capture Resin 3D Printing Timelapses.",
+ dict(name="Huge Failed Project", kind="Build",
+  desc="Resin 3D Printing Project FAIL - How to clean your IPA",
   videos=[
-   "KWZPJ-bkvEA",  # 2021-03-20 Introducing ResinLapse - Resin 3D Printing Timelapses made easy!
+   "gYfT47Y7wIg",  # 2021-04-23 HUGE FAILED PROJECT - How NOT to clean your IPA - Resin 3D Printing
   ],
  ),
- dict(name="3D Print HUGE THINGS $470 Elegoo Neptune 3 MAX", kind="Build",
-  desc="My first look at the brand new Elegoo Neptune 3 MAX 3D Printer!",
+ dict(name="Making 3D Printed Chainmail in 30 Minutes", kind="Build",
+  desc="How to 3D Print Chainmail in Resin in 30 Minutes!",
   videos=[
-   "iENg9XHfhAg",  # 2021-03-28 5 Tips for 3D Printing with the Elegoo Neptune 2
-   "gxWxGrE4z1s",  # 2021-12-31 Wireless 3D Printing for $10! Elegoo Neptune 2 MKS WIFI Module
-   "Ytd4eP2k4L8",  # 2022-06-10 Elegoo Neptune 3 - This 3D Printer is Amazing 🔥
-   "yNj65RvmEQ8",  # 2023-01-19 3D Print HUGE THINGS $470 Elegoo Neptune 3 MAX
-   "Vp0Hdw7-dXQ",  # 2023-02-22 3 Big Tips for BIG 3D Prints!
-  ],
- ),
- dict(name="Awesome 3D Printing Deals at Harbor Freight", kind="Build",
-  desc="Awesome 3D Printing Accessories at Harbor Freight",
-  videos=[
-   "yPLAmqLY-9I",  # 2021-04-29 Awesome 3D Printing Deals at Harbor Freight
-   "H70lHRKU2Lw",  # 2021-08-24 Awesome 3D Printing Deals at Costco
+   "9fKk8ck8oME",  # 2021-05-08 Making 3D Printed Chainmail in 30 Minutes!
   ],
  ),
  dict(name="Affordable 8K Resin 3D Printer", kind="Build",
@@ -750,21 +574,6 @@ INVENTIONS = [
    "dQPTu7XvJNs",  # 2021-06-12 $130 3D Printer For Kids - How bad could it be???
   ],
  ),
- dict(name="Elegoo Mars 3 Pro", kind="Build",
-  desc="Checking out the brand new Elegoo Mars 3 Pro 4K resin 3D printer!",
-  videos=[
-   "4XL3ynmZPJs",  # 2021-07-05 Even FASTER Vroom Settings on the Elegoo Mars 2 Pro - Resin 3D Printin
-   "rxUGf8i4-Fo",  # 2022-06-26 Elegoo Mars 3 Pro - FAST 4K Resin 3D Printing!
-  ],
- ),
- dict(name="5 EASY ways to PAINT your 3D PRINTS", kind="Build",
-  desc="Here are 5 easy ways to finish your 3D Printed Projects that work with FDM or Resin 3D Prints.",
-  videos=[
-   "NN1qAwLVKvA",  # 2021-07-14 5 EASY ways to PAINT your 3D PRINTS!
-   "f28CrAmsDfk",  # 2022-04-22 6 Ways to Connect 3D Prints!
-   "NrLwACSa5p0",  # 2022-11-01 EASY - 3D Print & Paint Lifelike Bones!
-  ],
- ),
  dict(name="Answering your questions about the Elegoo Centauri Carbon", kind="Build",
   desc="Let's answer your questions all about the new Elegoo Centauri Carbon CoreXY 3D Printer before it launches on February 17th at 9am est",
   videos=[
@@ -781,10 +590,22 @@ INVENTIONS = [
    "dQ2p-ksPe8U",  # 2021-10-09 Elegoo Jupiter - Screen replacement / VENOM BUST!
   ],
  ),
- dict(name="New Elegoo Neptune 2S", kind="Build",
-  desc="Let's take a first look at Elegoo's newest FDM 3D Printer...The Elegoo Neptune 2s!",
+ dict(name="Home vs Z Offset", kind="Build",
+  desc="Explaining the difference between Home and Z-Offset with Resin 3D Printers and Buildplate leveling.",
   videos=[
-   "TrP4X1oq0cI",  # 2021-10-20 New Elegoo Neptune 2S - My best FDM 3D Prints!
+   "wddKqQX2AOU",  # 2021-10-08 Home vs Z Offset | Resin 3D Printer Buildplate Leveling Explained
+  ],
+ ),
+ dict(name="Elegoo Jupiter FULL build volume 3D Print", kind="Build",
+  desc="Lets print something HUGE!",
+  videos=[
+   "QWEVsZpJF3I",  # 2021-10-11 Elegoo Jupiter FULL build volume 3D Print | Resin 3D Printer Kickstart
+  ],
+ ),
+ dict(name="New Prusa XL 3D Printer! The ULTIMATE LARGE 3D Printer", kind="Build",
+  desc="New Prusa XL 3D Printer! The ULTIMATE LARGE 3D Printer?.",
+  videos=[
+   "hQ3Sd61505E",  # 2021-11-19 New Prusa XL 3D Printer! The ULTIMATE LARGE 3D Printer?
   ],
  ),
  dict(name="Is this the Fastest Resin 3D Printer? Hitry Rocket 1 Resin 3D Printer ", kind="Build",
@@ -814,16 +635,10 @@ INVENTIONS = [
    "3PUCpN9kN60",  # 2022-06-30 Starting My Own 3D Print Farm
   ],
  ),
- dict(name="I suck at 3D modeling but this is easy", kind="Build",
-  desc="I suck at 3D modeling but this is easy - Shapr3D + 3D Printing.",
+ dict(name="3D Printing a Gundam Helmet on the Ankermake M5", kind="Build",
+  desc="Lets 3D Print a massive Gundam Aerial Helmet on the Ankermake M5 3D Printer!",
   videos=[
-   "h2S6D4M7SAE",  # 2022-03-31 I suck at 3D modeling but this is easy - Shapr3D + 3D Printing
-  ],
- ),
- dict(name="BUCKLE UP Fast 3D Printing AnkerMake M5", kind="Build",
-  desc="Taking a look at the first 3D Printer from Anker - the AnkerMake M5 with 5X faster 3D printing!",
-  videos=[
-   "1R14iuPkNAA",  # 2022-04-06 BUCKLE UP ⚡ Fast 3D Printing AnkerMake M5 - Kickstarter Preview
+   "se3wy8iRIaY",  # 2022-05-18 3D Printing a Gundam Helmet on the Ankermake M5
   ],
  ),
  dict(name="Elegoo Saturn 2 8K Resin 3D Printer", kind="Build",
@@ -835,16 +650,34 @@ INVENTIONS = [
    "VbmQymw-51o",  # 2024-05-31 How is this only $300?! Elegoo Saturn 4 Resin 3D Printer
   ],
  ),
- dict(name="Dip your 3D Prints", kind="Build",
-  desc="Dipping your 3D Prints in Clear Lacquer could be an interesting way to get a smooth finish for clear 3D Printed parts!",
+ dict(name="What I don't like about the AnkerMake M5 3D Printer", kind="Build",
+  desc="Let's talk about all of the things I don't like about the AnkerMake M5 and why I'm still excited about this 3D Printer",
   videos=[
-   "Yp-AzpqyN_c",  # 2022-07-31 Dip your 3D Prints!
+   "HooFsSlDMMM",  # 2022-06-17 What I don't like about the AnkerMake M5 3D Printer
+  ],
+ ),
+ dict(name="I'm sending it back Bambu Lab X1 3D Printer", kind="Build",
+  desc="Looking at the issues I've had with the Bambu Lab x1 Kickstarter 3D Printer, explaining why I'm sending it back and why I'm Still Excited!",
+  videos=[
+   "JDf73tgsbUo",  # 2022-06-25 I'm sending it back 😭 Bambu Lab X1 3D Printer - Initial Look
+  ],
+ ),
+ dict(name="3D Printing Foam Muscles", kind="Build",
+  desc="Attempting to make some cosplay foam muscles using 3D Printing!",
+  videos=[
+   "O_Q5t52M3TQ",  # 2022-07-16 3D Printing Foam Muscles - DIY Cosplay Muscles
   ],
  ),
  dict(name="The NEW best way to Level your Resin 3D Printer", kind="Build",
   desc="Is this really the new best way to level your resin 3D Printer?",
   videos=[
    "ujQQWXrF2WM",  # 2022-08-28 The NEW best way to Level your Resin 3D Printer?!?!
+  ],
+ ),
+ dict(name="I made over $3000 in 1 week selling Ghosts", kind="Build",
+  desc="here is how I made over $3000 in 1 week selling Ghosts online!",
+  videos=[
+   "1eu9kO_tg-M",  # 2022-10-05 I made over $3000 in 1 week selling Ghosts
   ],
  ),
  dict(name="I love 3D Printing 2022", kind="Build",
@@ -861,41 +694,34 @@ INVENTIONS = [
    "9fXqjtuFSuI",  # 2023-01-24 3D Printing Silicone Squishy Toys
   ],
  ),
- dict(name="Melt your 3D Prints", kind="Build",
-  desc="Let's melt down your old failed 3D Prints or scraps of filament and turn them into something cool!",
+ dict(name="I made a Companion Cube 3D Printer", kind="Build",
+  desc="Who doesnt love Portal - How about a Companion Cube 3D Printer!?!?",
   videos=[
-   "nypitKDr928",  # 2022-12-18 Melt your 3D Prints!
+   "Gv7w95ECAoE",  # 2022-12-30 I made a Companion Cube 3D Printer - Bambu Lab P1P Mod
   ],
  ),
- dict(name="Why is Bambu Lab Dominating 3D Printing", kind="Build",
-  desc="So why is Bambu Lab continuing to Dominate all of 3D Printing almost 3 Years after they released their first 3D Printer and not releasing any new 3D Printers in 2024?",
+ dict(name="Remotely Monitor ANY 3D Printer for $35", kind="Build",
+  desc="For $35 you can Remotely Monitor ANY 3D Printer or Stop the Print if its failing!",
   videos=[
-   "0oNnFEIt8ys",  # 2023-01-23 Tips for 3D Printing Helmets on Bambu Lab 3D Printers
-   "LwbSSANjdUg",  # 2025-01-09 Why is Bambu Lab Dominating 3D Printing?
+   "2Q3xwvFH0QQ",  # 2023-01-29 Remotely Monitor ANY 3D Printer for $35
   ],
  ),
- dict(name="AI 3D Modeling is here! But is it any good", kind="Build",
-  desc="You can now take an image and have AI generate a 3D Model from it!",
+ dict(name="My Prusa MK4 3D Printer Issues", kind="Build",
+  desc="This wasn't the video I planned on making for my newly purchased Prusa MK4 3D Printer.",
   videos=[
-   "oBU2S0aRKI0",  # 2023-09-02 AI 3D Modeling is here! But is it any good?
+   "QIATdUej23g",  # 2023-04-15 My Prusa MK4 3D Printer Issues
   ],
  ),
- dict(name="Prusa XL Initial Look", kind="Build",
-  desc="My Prusa XL has finally arrived and I got it up and running.",
+ dict(name="Add 3D Texture to Anything", kind="Build",
+  desc="Easily add 3D Textured effect to your projects that feels like rubber!",
   videos=[
-   "Uy-p_C7GRyk",  # 2023-09-16 Prusa XL Initial Look - It's Finally Here!
+   "7CeTBws2fS4",  # 2023-08-22 Add 3D Texture to Anything - 3D Printing Wolverine Helmet Pt2
   ],
  ),
- dict(name="What’s Elegoo Hiding?? Neptune 4 Plus / 4 Max Secrets", kind="Build",
-  desc="Elegoo is holding back on some of the details of their new Neptune 4 Plus and Neptune 4 Max 3D Printers.",
+ dict(name="Easily the best 3D Printing Filament Storage Solutions", kind="Build",
+  desc="I need a better way to manage all of my filament lets put the Reprack 3D Printed Storage solution to the test!",
   videos=[
-   "a5Mu48y9QCE",  # 2023-10-20 What’s Elegoo Hiding?? Neptune 4 Plus / 4 Max Secrets
-  ],
- ),
- dict(name="Better Organic Supports for your 3D Prints", kind="Build",
-  desc="Better Organic Supports for your 3D Prints.",
-  videos=[
-   "3rYGqWwOJF8",  # 2023-10-26 Better Organic Supports for your 3D Prints
+   "ntbpXmgOxl0",  # 2023-08-25 Easily the best 3D Printing Filament Storage Solutions
   ],
  ),
  dict(name="Huge Fast & Affordable", kind="Build",
@@ -904,28 +730,10 @@ INVENTIONS = [
    "QpBGbv-F6Mw",  # 2023-10-30 HUGE FAST & AFFORDABLE? - $470 Elegoo Neptune 4 Max 3D Printer
   ],
  ),
- dict(name="Most Impressive! FREE Star Destroyer 3D Print", kind="Build",
-  desc="Most Impressive! FREE Star Destroyer 3D Print!.",
+ dict(name="Friction Welding with left over filament", kind="Build",
+  desc="Lets test out welding printed parts together by using 3D Printed Dremel Bits!",
   videos=[
-   "aCGzI-1IiFg",  # 2024-01-31 Most Impressive! FREE Star Destroyer 3D Print!
-  ],
- ),
- dict(name="Childhood Dream", kind="Build",
-  desc="Childhood Dream - HUGE TRANSFORMERS!.",
-  videos=[
-   "YCLh5F_-9Bs",  # 2024-02-19 Childhood Dream - HUGE TRANSFORMERS!
-  ],
- ),
- dict(name="Spring Loaded Wolverine Claws! So Much Fun", kind="Build",
-  desc="Spring Loaded Wolverine Claws! So Much Fun!.",
-  videos=[
-   "PM3DsiuDIDw",  # 2024-02-27 Spring Loaded Wolverine Claws! So Much Fun!
-  ],
- ),
- dict(name="Can you 3D Print your own $2,500 Airless Basketball", kind="Build",
-  desc="Can you 3D Print your own $2,500 Airless Basketball?.",
-  videos=[
-   "qI_a-LaVqns",  # 2024-03-08 Can you 3D Print your own $2,500 Airless Basketball?
+   "cFBvieE2_xk",  # 2023-12-24 Friction Welding with left over filament!
   ],
  ),
  dict(name="Viral DIY Hanging Tote Bin Storage Racks + 3D Printed Tools", kind="Build",
@@ -933,6 +741,12 @@ INVENTIONS = [
   videos=[
    "zcp4qZNQmGQ",  # 2024-04-02 Viral DIY Hanging Tote Bin Storage Racks + 3D Printed Tools!
    "MXG8aUcTawE",  # 2024-09-11 How to hang your 3D Prints - EASY!
+  ],
+ ),
+ dict(name="Giga Sized 3D Printer Mods! Elegoo Orange Storm Giga", kind="Build",
+  desc="It's time to add a few mods to the Elegoo Orange Storm Giga Huge 3D Printer",
+  videos=[
+   "CD475owRupA",  # 2024-05-26 Giga Sized 3D Printer Mods! Elegoo Orange Storm Giga
   ],
  ),
  dict(name="Perfect For Beginners! $270 Elegoo Mars 5 Ultra Resin 3D Printer", kind="Build",
@@ -960,30 +774,16 @@ INVENTIONS = [
    "wpTqDrrHqQ0",  # 2024-07-22 Does this really work?? Sunlu Filament Connector
   ],
  ),
- dict(name="Prusa XL UPGRADE! Going from 2 to 5 Toolheads", kind="Build",
-  desc="Prusa XL UPGRADE! Going from 2 to 5 Toolheads!.",
-  videos=[
-   "VGnLwKWUX04",  # 2024-09-05 This is Bananas! Prusa XL Upgrade Live Stream w/ Repkord
-   "QgaD-kiIotk",  # 2024-10-04 Prusa XL UPGRADE! Going from 2 to 5 Toolheads!
-   "suTdtkHhLZs",  # 2025-01-22 Prusa MK4S Upgrade LIVE STREAM with Repkord
-  ],
- ),
- dict(name="You have to 3D Print this Toy", kind="Build",
-  desc="This is easily the most popular 3D Printable action figure and it's awesome!",
-  videos=[
-   "M5W5RB6cORo",  # 2024-09-20 You have to 3D Print this Toy!
-  ],
- ),
  dict(name="Stop Struggling with 3D Printed Supports", kind="Build",
   desc="Stop Struggling with 3D Printed Supports – Try This!.",
   videos=[
    "1BXPPyk-CgI",  # 2024-10-13 Stop Struggling with 3D Printed Supports – Try This!
   ],
  ),
- dict(name="This is totally not a 3D Scam Right? RIGHT", kind="Build",
-  desc="This is another potential 3D Printing Product Scam.",
+ dict(name="NEW $129.99 Elegoo Mercury Plus V3 Wash & Cure Station", kind="Build",
+  desc="Taking a look at the new Mercury Plus v3 Wash & Cure station from Elegoo.",
   videos=[
-   "LXnOrr02HLQ",  # 2024-10-18 This is totally not a 3D Scam Right? RIGHT?
+   "C_aGEDdLcgY",  # 2024-11-11 NEW $129.99 Elegoo Mercury Plus V3 Wash & Cure Station
   ],
  ),
  dict(name="The 2 BEST 3D Printed Basketballs That Actually Bounce", kind="Build",
@@ -992,38 +792,10 @@ INVENTIONS = [
    "QNXJCNB8mdU",  # 2024-11-20 The 2 BEST 3D Printed Basketballs That Actually Bounce!
   ],
  ),
- dict(name="Custom Gridfinity Bins For ANYTHING", kind="Build",
-  desc="Gridfinity allows you to organize just about anything!",
+ dict(name="The HUGE 3D Printer you've been waiting for", kind="Build",
+  desc="Lets take a look at the HUGE new fully enclosed CoreXY 3D Printer from Eryone - the Thinker X400!",
   videos=[
-   "_TtkaIe0ZKU",  # 2024-12-24 Custom Gridfinity Bins For ANYTHING!
-  ],
- ),
- dict(name="Elegoo's new FREE Slicer has one awesome feature", kind="Build",
-  desc="Elegoo just released their new FREE Resin 3D Printer Slicer, Satelite!",
-  videos=[
-   "xcQkmaRXyCU",  # 2024-12-29 Elegoo's new FREE Slicer has one awesome feature!
-  ],
- ),
- dict(name="Prusa Core One", kind="Build",
-  desc="Taking a look at Prusa's brand new CoreXY 3D Printer, the Core One!",
-  videos=[
-   "1UU0S8UTB_Y",  # 2025-01-31 Prusa Core One - Worth the Wait or Too Late?
-   "OCoDkLF8qGo",  # 2025-11-16 Will it shatter? Prusa Core One L
-  ],
- ),
- dict(name="15+ Must-Have Upgrades for the Elegoo Centauri Carbon", kind="Build",
-  desc="Elegoo is launching their new CoreXY 3D Printer the Centauri Carbon on February 17th!",
-  videos=[
-   "1gOo2083hjM",  # 2025-02-03 Elegoo Centauri Carbon - A Carbon Copy or Something More?
-   "w75a_UB_gZw",  # 2025-03-02 15+ Must-Have Upgrades for the Elegoo Centauri Carbon!
-   "Ghsq0vhfFn0",  # 2026-01-26 Elegoo Centauri Carbon 2 - More Than Multi Color Printing?
-   "FYt3_3q1Rno",  # 2026-04-27 Multi Color Upgrade for the Elegoo Centauri Carbon - $55!!!
-  ],
- ),
- dict(name="Creality K2 Plus FIXED! But Are They Rushing Printers", kind="Build",
-  desc="After 2 months of being broken and numerous attempts to fix it we now have a proper solution to the leveling errors I was getting with my creality k2 plus",
-  videos=[
-   "02af6xwdoFA",  # 2025-03-14 Creality K2 Plus FIXED! But Are They Rushing Printers?
+   "6Pn1NG_N5dQ",  # 2025-02-11 The HUGE 3D Printer you've been waiting for - ERYONE Thinker X400
   ],
  ),
  dict(name="Turning your 3D Printer Poop into ART", kind="Build",
@@ -1033,48 +805,16 @@ INVENTIONS = [
    "z2TgmQ6PlU4",  # 2025-04-04 Turning your 3D Printer Poop into ART!
   ],
  ),
- dict(name="AI Is Ruining 3D Printing... and I'm Part of the Problem", kind="Build",
-  desc="I’m ranting about AI 3D models, the flood of AI slop on platforms like MakerWorld and Printables, and where the line should be between using AI to help create something and using AI to create the thing for you.",
+ dict(name="The Ultimate DIY Sanding Box for $35", kind="Build",
+  desc="Let me show you how we can turn a clear storage container into the ultimate sanding box with the help of a few 3D Printed Parts!",
   videos=[
-   "WUZhM7BYPi4",  # 2025-05-27 Are AI Generated 3D Models Ruining 3D Printing?
-   "szydvaf5iuU",  # 2026-09-23 AI Is Ruining 3D Printing... and I'm Part of the Problem!
+   "MyWBI1iXu28",  # 2025-03-29 The Ultimate DIY Sanding Box for $35!
   ],
  ),
- dict(name="3 Easy Ways to Calibrate Your Filament", kind="Build",
-  desc="Want cleaner prints, fewer strings, and faster speeds without getting overwhelmed with complex tests?",
+ dict(name="There's an Alien in My Ceiling and I 3D Printed It", kind="Build",
+  desc="There's an Alien in My Ceiling and I 3D Printed It!.",
   videos=[
-   "7rNlBwYd30k",  # 2025-06-05 3 Easy Ways to Calibrate Your Filament
-  ],
- ),
- dict(name="Your Nozzle Size Matters! But which is BEST", kind="Build",
-  desc="Let's find out what the best nozzle size + layer height is that you should be printing at for the best quality 3D Prints!",
-  videos=[
-   "-0nhFzY1B-M",  # 2025-06-14 Your Nozzle Size Matters! But which is BEST?
-  ],
- ),
- dict(name="Turn any City into a 3D Model in Seconds", kind="Build",
-  desc="Turn any City into a 3D Model in Seconds - FREE!.",
-  videos=[
-   "a0oo_HKDAmA",  # 2025-06-25 Turn any City into a 3D Model in Seconds - FREE!
-   "tQLyMx6KNMg",  # 2026-08-09 Turn ANY City into a MultiColor 3D Print in Seconds! FREE!
-  ],
- ),
- dict(name="Master Ironing for Perfectly Smooth Top Layer 3D Prints", kind="Build",
-  desc="Want buttery smooth top layers on your 3D prints?",
-  videos=[
-   "zqJxxJwK8To",  # 2025-07-03 Master Ironing for Perfectly Smooth Top Layer 3D Prints!
-  ],
- ),
- dict(name="3D Printing Giant LEGO + Star Wars = My New Obsession", kind="Build",
-  desc="I'm trying to see if I can super size some Lego sets with the help of 3D Printing!",
-  videos=[
-   "ob2r12A0viw",  # 2025-08-02 3D Printing Giant LEGO + Star Wars = My New Obsession
-  ],
- ),
- dict(name="Bambu Lab H2S is HUGE! But is it Too Little Too Late", kind="Build",
-  desc="The Large Bambu Lab 3D Printer that I was originally hoping for!",
-  videos=[
-   "6xIt2VBvyek",  # 2025-08-26 Bambu Lab H2S is HUGE! But is it Too Little Too Late?
+   "GC36uThxCeI",  # 2025-05-23 There's an Alien in My Ceiling and I 3D Printed It!
   ],
  ),
  dict(name="Bambu Lab H2S vs Creality K2 Plus", kind="Build",
@@ -1089,34 +829,10 @@ INVENTIONS = [
    "PcTc4rj7sR0",  # 2025-09-26 $12 Filament from Hobby Lobby?!
   ],
  ),
- dict(name="Did the New Bambu Lab P2S Just Kill Off the X1C", kind="Build",
-  desc="Bambu Lab finally fixed my biggest complaint… and no, it’s NOT the new touchscreen.",
-  videos=[
-   "Hb_hFyMtDJI",  # 2025-10-14 Did the New Bambu Lab P2S Just Kill Off the X1C?
-  ],
- ),
- dict(name="5 Tools Every Maker Needs", kind="Build",
-  desc="Here are 5 must have tools that every maker should have on hand when it comes to finishing your favorite 3D Print projects!",
-  videos=[
-   "1J8SxdWtjqo",  # 2025-10-26 5 Tools Every Maker Needs!
-  ],
- ),
- dict(name="The New King of Multi Color 3D Printing", kind="Build",
-  desc="Lets take a look at the highly anticipated Snapmaker U1 multi tool head 3D Printer!",
-  videos=[
-   "0OZbqNrhzMQ",  # 2025-12-03 The New King of Multi Color 3D Printing - Snapmaker U1
-  ],
- ),
  dict(name="10+ Mods That Make the Snapmaker U1 Even Better", kind="Build",
   desc="Ikea Samla Bin & lid - htt",
   videos=[
    "VAgOElYoZ5U",  # 2025-12-14 10+ Mods That Make the Snapmaker U1 Even Better!
-  ],
- ),
- dict(name="Stop Printing Helmets That Don’t Fit! NEW FREE Tool", kind="Build",
-  desc="This FREE TOOL is a must for anyone that wants to 3D Print their own helmets!",
-  videos=[
-   "5mIme_3Woso",  # 2025-12-22 Stop Printing Helmets That Don’t Fit! NEW FREE Tool
   ],
  ),
  dict(name="How Is This Multi Color 3D Printer Only $279?! Anycubic Kobra X", kind="Build",
@@ -1126,23 +842,23 @@ INVENTIONS = [
    "cV2V46O8gCY",  # 2026-05-29 ANOTHER Multi Color Printer from Anycubic?!
   ],
  ),
- dict(name="4 Toolheads… for $699?! Flashforge Creator 5", kind="Build",
-  desc="4 Toolheads… for $699?! Flashforge Creator 5.",
+ dict(name="3D Printing a HUGE X-Men '97 Sentinel", kind="Build",
+  desc="I built my very own 9ft Tall Sentinel from X-Men '97!",
   videos=[
-   "Pu-lYU7ZaGc",  # 2026-05-15 4 Toolheads… for $699?! Flashforge Creator 5
+   "pfuzeKOnM8c",  # 2026-06-29 3D Printing a HUGE X-Men '97 Sentinel!
   ],
  ),
- dict(name="$849 Tool Changer Everyone Needs To See! Flashforge Creator 5 Pro", kind="Build",
+ dict(name="$849 Tool Changer Everyone Needs To See! Flashforge Creator 5 Pro", kind="Restoration",
   desc="Let's take a look at the new Flashforge Creator 5 Pro and see what this 4 toolhead 3D Printer can really do!",
   videos=[
    "_b5CBBesQ4Q",  # 2026-07-12 Flashforge Creator 5 Pro Fixed?!
    "delEMk2Y9pM",  # 2026-07-28 $849 Tool Changer Everyone Needs To See! Flashforge Creator 5 Pro
   ],
  ),
- dict(name="This Could Change 3D Printing Forever! HeyGears G1X", kind="Build",
-  desc="This Could Change 3D Printing Forever! HeyGears G1X.",
+ dict(name="A Resin 3D Printer That Does EVERYTHING!? Uniformation S10", kind="Build",
+  desc="Uniformation is trying to change the way we resin 3D Print by building a printer that can Print, Clean, Dry & Cure!",
   videos=[
-   "nPQT_fhkHsE",  # 2026-09-09 This Could Change 3D Printing Forever! HeyGears G1X
+   "ZfC6h_sZyPo",  # 2026-10-22 A Resin 3D Printer That Does EVERYTHING!? Uniformation S10
   ],
  ),
 ]

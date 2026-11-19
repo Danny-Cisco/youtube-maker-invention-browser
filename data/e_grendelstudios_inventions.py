@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'grendel-studios', 'name': 'Grendel Studios', 'person': 'Grendel Studios', 'tagline': 'Cosplay props with built-in effects, like a banjo with a fog machine inside.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Grendel Studios Introduction", kind="Build",
-  desc="Hi everyone out there!",
-  videos=[
-   "Zc1EOEhT640",  # 2022-11-14 Grendel Studios Introduction
-  ],
- ),
  dict(name="So I Made a Parasite Demon-Child, I Guess", kind="Build",
   desc="An overview of my 2022 Halloween costume that I used to work at a haunted trail attraction",
   videos=[
@@ -29,12 +23,6 @@ INVENTIONS = [
   desc="A recap of my most recent Halloween costume, an 8 foot tall gargoyle featuring:",
   videos=[
    "HOLTvmyQoog",  # 2023-12-28 Animatronic Gargoyle Halloween Costume 2023
-  ],
- ),
- dict(name="Opensauce 2024 Sneak-Peek", kind="Build",
-  desc="Opensauce 2024 Sneak-Peek.",
-  videos=[
-   "R2QiqfZYPs0",  # 2024-07-08 Opensauce 2024 Sneak-Peek
   ],
  ),
  dict(name="Opensauce 2024", kind="Build",

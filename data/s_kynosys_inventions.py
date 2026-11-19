@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'kynosys', 'name': 'Kynosys', 'person': 'Kynosys', 'tagline': 'Korean tool-and-parts reviews, plus the DIY builds they go into.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="배터리형 공구 거치대 Bsts를 만들다", kind="Build",
-  desc="배터리형 공구 거치대 BSTS를 만들다.",
-  videos=[
-   "9GcybDtLf5I",  # 2021-12-09 배터리형 공구 거치대 BSTS를 만들다
-  ],
- ),
  dict(name="두개의 발명특허로 만들어진 Pba 심판들의 필수품 Diy│레이저 플레이서", kind="Build",
   desc="제가 발명가라는 것을 알게 된 많은 분들이 어떤 발명품이 있는 지를 궁금해 했습니다.",
   videos=[

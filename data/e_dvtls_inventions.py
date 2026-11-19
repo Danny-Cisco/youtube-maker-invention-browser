@@ -14,12 +14,6 @@ INVENTIONS = [
    "mhqP0N4SJKs",  # 2026-08-19 Can You 3D Print a Working Piano?
   ],
  ),
- dict(name="How to Power an LED With Your Hands", kind="Build",
-  desc="How to Power an LED With Your Hands.",
-  videos=[
-   "fskh0fLAMTw",  # 2026-08-19 How to Power an LED With Your Hands
-  ],
- ),
 ]
 
 OTHER = None  # None = every upload not assigned above

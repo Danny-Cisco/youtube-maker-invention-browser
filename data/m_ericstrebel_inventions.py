@@ -7,24 +7,10 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'eric-strebel', 'name': 'Eric Strebel', 'person': 'Eric Strebel', 'tagline': "An industrial designer's prototyping, mould-making and product design techniques.", 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Eric scores a TNTHL hockey goal", kind="Build",
-  desc="Eric scores a TNTHL hockey goal.",
+ dict(name="DIY B9 creator DLP 3D printer rapid prototype assembly time lapse buil", kind="Build",
+  desc="How the B9 creator is assembled and built.",
   videos=[
-   "46cz077rg7c",  # 2009-12-17 Eric scores a TNTHL hockey goal
-   "0rhykhAxNFo",  # 2011-11-01 Eric scores another TNTHL hockey goal
-  ],
- ),
- dict(name="Fanfare and Frippery performed by Berkshire 8th Grade Orchestra", kind="Build",
-  desc="Fanfare and Frippery Berkshire 8th Grade Orchestra State Festival",
-  videos=[
-   "r2YkAzOORlQ",  # 2010-05-13 Fanfare and Frippery performed by Berkshire 8th Grade Orchestra
-  ],
- ),
- dict(name="Glass bottle Drawing on Black Paper with White color pencil sketching ", kind="Build",
-  desc="Design sketching using a black piece of paper and a white colored prismacolor pencil.",
-  videos=[
-   "7_lh11AM0yE",  # 2012-04-07 Glass bottle Drawing on Black Paper with White color pencil sketching 
-   "RKKvozoAXuU",  # 2020-02-12 Rocks Glass on BLACK PAPER: Colored Pencil Drawing
+   "oizk0qassYc",  # 2013-05-26 DIY B9 creator DLP 3D printer rapid prototype assembly time lapse buil
   ],
  ),
  dict(name="Final Sketch Rendering Prototyping Product Design", kind="Build",
@@ -49,33 +35,10 @@ INVENTIONS = [
    "nsfJblOoAuA",  # 2015-01-24 Basic Perspective sketching and Glass Bottle on Newsprint Industrial D
   ],
  ),
- dict(name="Design Process", kind="Build",
-  desc="Designing and resin casting the Axalta 18\" 2018 Iris show car",
+ dict(name="Marker Rendering w reflections and fabric texture:Wireless Speaker dem", kind="Build",
+  desc="Color marker render of a wireless Speaker.",
   videos=[
-   "kLyiW0lywek",  # 2014-12-08 Concept Thumbnails to Marker Renderings design process
-   "9Gz4ZcqaH1A",  # 2018-02-21 Design Process: Iris Axalta Concept Vehicle development
-   "MA3dsDcRAak",  # 2024-05-31 Design Process: Industrial Squeeze Bottle (Sci-Fi) resin printed
-  ],
- ),
- dict(name="Simple quick Abstract 3D paper folding sketching idea generating", kind="Build",
-  desc="Quick 3D concept and ideation generation.",
-  videos=[
-   "QZoEAdLu5jw",  # 2015-01-15 Simple quick Abstract 3D paper folding sketching idea generating
-  ],
- ),
- dict(name="Glass Bottle Newsprint Marker Rendering Industrial Design", kind="Build",
-  desc="This Industrial Design video is about rendering glass material with marker on smooth newsprint, scanning in the rendering and making some digital adjustments in Photoshop.",
-  videos=[
-   "JhiXPzGWwLs",  # 2015-01-26 Glass Bottle Newsprint Marker Rendering Industrial Design: Part 2
-   "igiVxzyrTh8",  # 2016-04-15 Marker Rendering Underlays Industrial Design: Adventure Toy Vehicle  S
-   "-6hXM1iD1TU",  # 2016-11-16 AirMarker Rendering Industrial Design: Spherical Mid century modern LE
-   "WmZuywqwrwc",  # 2018-05-30 Marker drawing Rendering Glass: DIGITAL Cintiq Photoshop vs ANALOGUE p
-  ],
- ),
- dict(name="How to assign values to objects, Half way to Black system", kind="Build",
-  desc="This Industrial Design video is about adding value to a cube.",
-  videos=[
-   "nyy_BD8zdxw",  # 2015-01-31 How to assign values to objects, Half way to Black system
+   "yOJkYWvY2HU",  # 2015-01-14 Marker Rendering w reflections and fabric texture:Wireless Speaker dem
   ],
  ),
  dict(name="Molding & Casting Small Urethane Resin Parts with two part silicone mo", kind="Build",
@@ -90,25 +53,23 @@ INVENTIONS = [
    "fBPVQgt3nyg",  # 2021-10-08 Molding & Casting Small Urethane Resin Parts with two part silicone mo
   ],
  ),
- dict(name="Styrene Tutorial Kit Bash scratch build Mock-Up", kind="Build",
-  desc="This Industrial Design video is about the concept model building an Exhibit display using some kit bashing with varous plastic bits and styrene, including vacuum forming, Cyanoacrylate gluing, solvent welding cutting …",
-  videos=[
-   "y5BTjgbthJo",  # 2016-03-03 Styrene Tutorial Kit Bash scratch build Mock-Up: Model making building
-  ],
- ),
- dict(name="Marker Rendering Details Design Illustration Adventure Toy Sketching S", kind="Build",
-  desc="Race truck PowerClix concept vehicle is part of a creative design series about presentation rendering of concept art using prismsacolor Copic magic markers pens color pencils and various other visual communication tec…",
-  videos=[
-   "U-I33lO6qZ8",  # 2016-04-29 Marker Rendering Less is More Design Illustration Adventure Toy Sketch
-   "nT9zSeOkX90",  # 2016-05-06 Having Fun Marker Rendering Design Illustration Adventure Toy Sketchin
-   "02Ate8HWL0E",  # 2016-05-20 Marker Rendering Details Design Illustration Adventure Toy Sketching S
-  ],
- ),
  dict(name="Ultra Quiet Silent Refrigerator Work Shop Air Compressor Build", kind="Build",
   desc="How to build an Ultra Quiet Indoor Home made Shop compressor from a Refrigerator Compressor.",
   videos=[
    "F0rkzVbExmI",  # 2016-06-15 Ultra Quiet Silent Refrigerator Work Shop Air Compressor Build
    "JqqLwunF1ZE",  # 2019-05-08 ULTRA QUIET  Refrigerator Air Compressor Upgrade Build
+  ],
+ ),
+ dict(name="Letrajet Air Marker Retrofit", kind="Build",
+  desc="How I use my design process to retrofit a vintage LetraJet AirMarker for use with Copic, Prismacolor, Tria, windsor Newton or most any current day marker.",
+  videos=[
+   "M1ovpmGjDoc",  # 2016-11-10 Letrajet Air Marker Retrofit: Industrial Design Process and Functional
+  ],
+ ),
+ dict(name="How to Make a Silencer for your resin casting pressure pot Tank", kind="Build",
+  desc="Building a Pressure Tank Pot Silencer with some simple PVC and black pipe supplies from your local big box retailer to make your shop a quieter and safer place.",
+  videos=[
+   "IrDhcfyM3vE",  # 2016-12-28 How to Make a Silencer for your resin casting pressure pot Tank: Be sa
   ],
  ),
  dict(name="How to power your digital Camera with a USB Power Bank", kind="Build",
@@ -117,10 +78,28 @@ INVENTIONS = [
    "MZLw-ScCWgA",  # 2017-01-05 How to power your digital Camera with a USB Power Bank!
   ],
  ),
+ dict(name="Ideas Inspiration & Ideation", kind="Build",
+  desc="How I designed this Solar Vox, video series Part 1 of 8, the design process that I follow to design and refine the concept into the final product and build a working prototype of the device.",
+  videos=[
+   "_WHxoGJVciE",  # 2017-04-12 Ideas Inspiration & Ideation: Prototyping Product Design Mobile Solar 
+  ],
+ ),
  dict(name="Vacuum Forming Prototyping Product Design", kind="Build",
   desc="How I designed this Solar Vox video series Part 3 of 8, Learn about Vacuum Forming PolyStyrene plastic.",
   videos=[
    "nAGFji23ZZk",  # 2017-04-25 Vacuum Forming Prototyping Product Design: Mobile Solar Charger power 
+  ],
+ ),
+ dict(name="Laser Cutting plastic welding Prototyping Product Design", kind="Build",
+  desc="Design Prototype Laser cutting.",
+  videos=[
+   "UBx-WjCEIpw",  # 2017-05-02 Laser Cutting plastic welding Prototyping Product Design: Mobile Solar
+  ],
+ ),
+ dict(name="Prototype Assembly Prototyping Product Design", kind="Build",
+  desc="How I designed this Solar Vox video series Part 7 of 8, I am assembling all the parts of the Solar Charger.",
+  videos=[
+   "zj5dbbyFLvw",  # 2017-05-23 Prototype Assembly Prototyping Product Design: Mobile Solar Charger po
   ],
  ),
  dict(name="Panasonic Heatsink Mod for overheating lumix GF7", kind="Build",
@@ -129,10 +108,16 @@ INVENTIONS = [
    "DsZEHjx0kpQ",  # 2017-06-06 Panasonic Heatsink Mod for overheating lumix GF7: Hack your camera wit
   ],
  ),
- dict(name="MXL 990 condenser microphone capacitor upgrade MOD, body repaint, with", kind="Build",
-  desc="Upgrading Modifying my MXL 990 condensor microphone.",
+ dict(name="How to 3D Print 𝕸𝖔𝖙ö𝖗𝖍𝖊𝖆𝖉 vehicle emblem badge for your car", kind="Build",
+  desc="Making custom 3d printed Motorhead vehicle badges for your car.",
   videos=[
-   "EMcYgna2tFU",  # 2017-06-28 MXL 990 condenser microphone capacitor upgrade MOD, body repaint, with
+   "nOOFaH6Y46Y",  # 2017-06-14 How to 3D Print 𝕸𝖔𝖙ö𝖗𝖍𝖊𝖆𝖉 vehicle emblem badge for your car: prime san
+  ],
+ ),
+ dict(name="3D printed urethane resin filled Knobs", kind="Build",
+  desc="Adding 4 ergonomic resin filled 3D printed knobs to my modified pressure tank set up that i use for pressure casing resin parts.",
+  videos=[
+   "ATBHT9KqYQY",  # 2017-06-21 3D printed urethane resin filled Knobs: 3D Printing vs Traditional Cas
   ],
  ),
  dict(name="FoamCore model making Design Build with Foam Board", kind="Build",
@@ -141,23 +126,10 @@ INVENTIONS = [
    "rkqZ29PjZ-k",  # 2017-10-25 FoamCore model making Design Build with Foam Board: Wireless Bluetooth
   ],
  ),
- dict(name="Resin Casting Tips Tricks Tools and Hacks for your molding projects", kind="Build",
-  desc="Resin Casting Tip Tricks and tools for your projects and shop.",
-  videos=[
-   "c2HBuM85EA4",  # 2017-11-01 Resin Casting Tips Tricks Tools and Hacks for your molding projects
-   "pakpL5VZeRo",  # 2021-06-30 Resin Casting Tips & Tricks III
-  ],
- ),
  dict(name="Designing for Small Batch Low Volume Manufacturing", kind="Build",
   desc="Designing For Low volume Manufacturing:using Vacuum forming and laser cutting.",
   videos=[
    "x-uBFJLY8Ow",  # 2017-11-08 Designing for Small Batch Low Volume Manufacturing: Vacuum forming
-  ],
- ),
- dict(name="Drill Press Machining Hacking/Tips and Tricks", kind="Build",
-  desc="I cover some of the basics to use your drill press to do some basic machining.",
-  videos=[
-   "HHtfcjwHERA",  # 2017-11-15 Drill Press Machining Hacking/Tips and Tricks: The Basics
   ],
  ),
  dict(name="Epoxy vs Urethane Casting Resin", kind="Build",
@@ -165,12 +137,6 @@ INVENTIONS = [
   videos=[
    "3aLC-gCzV5U",  # 2017-12-08 Live Urethane Resin casting session large 18" part in a silicone soft 
    "T8inkvP_bdc",  # 2022-02-25 Epoxy vs Urethane Casting Resin
-  ],
- ),
- dict(name="Transforming a Solid master part into a Thin Walled Hollow cast resin", kind="Build",
-  desc="Mold Making: Molding a solid part to a thin walled hollow part.",
-  videos=[
-   "2DDQnM3y2FA",  # 2018-01-10 Transforming a Solid master part into a Thin Walled Hollow cast resin 
   ],
  ),
  dict(name="Build a Budget FoamCore Hobby Spray Booth for under $200", kind="Build",
@@ -185,50 +151,22 @@ INVENTIONS = [
    "ti0K_hmbMw8",  # 2018-03-07 How to build a  🅛🅔🅓 Soft Box Build: take better video and photos
   ],
  ),
- dict(name="How To Reverse Engineer Bottle Threads", kind="Build",
-  desc="Reverse Engineering Threads for a blow molded plastic bottle.",
+ dict(name="How to use yellow Foam", kind="Build",
+  desc="The process I use to design a concept wireless charger, from sketching to building a urethane foam model of a working wireless mobile charging device.",
   videos=[
-   "tVoTXDnZZ3o",  # 2018-03-21 How To Reverse Engineer Bottle Threads
+   "H3B6wgV60qg",  # 2018-05-09 How to use yellow Foam: Model build a wireless charger!!
   ],
  ),
- dict(name="Advanced 𝐁𝐨𝐧𝐝𝐨 for 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫𝐬 and 𝐌𝐚𝐤𝐞𝐫𝐬", kind="Build",
-  desc="Advanced Bondo for model building and model makers, prototyping and mock ups for product designers and Industrial Designers",
+ dict(name="Battery Storage Organizer", kind="Build",
+  desc="Sketch design and build a workshop or home charging battery station for \"AA\" \"AAA\" DSLR mirroless cameras video recording equipment cell phone mobile devices tablets.",
   videos=[
-   "CSuxmyZAdAo",  # 2018-04-18 Advanced 𝐁𝐨𝐧𝐝𝐨 for 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫𝐬 and 𝐌𝐚𝐤𝐞𝐫𝐬: Flexible parts and the Squeez
-  ],
- ),
- dict(name="Candy Coat Metalcast Spray Paint Finish", kind="Build",
-  desc="Duplicor Metalcast Candy coat paint finish Candy on my G-RAID with Thunderbolt 3 Drive How to DIY",
-  videos=[
-   "0Z-cBnH79J4",  # 2018-04-25 Spray Paint Finish Process: 𝐅𝐚𝐧𝐭𝐚𝐬𝐭𝐢𝐜 Surface technique for Prototypes
-   "_jiWFxwXV9Q",  # 2020-01-15 Candy Coat Metalcast Spray Paint Finish
-  ],
- ),
- dict(name="Casting Clear Resin Parts", kind="Build",
-  desc="This video is about creating a silicone mold from a master part of a Neve 2264 VU bezel then Casting Clear bubble free polyurethane resin replica parts.",
-  videos=[
-   "-_1j7UXPdf4",  # 2018-05-02 How to Slip Cast Urethane resin parts: simulated Blow Molding
-   "K3ZaPlV10z8",  # 2019-04-03 Casting Clear Resin Parts: Neve 2264 VU Meter Bezel covers
-  ],
- ),
- dict(name="Drawing with markers Glass Rendering Technique Excellent tutorial", kind="Build",
-  desc="Glass Rendering Marker Technique Process drawing with markers.",
-  videos=[
-   "JDzAXnn701s",  # 2018-06-04 Drawing with markers Glass Rendering Technique Excellent tutorial!
-   "yqDGxlUSsx4",  # 2019-02-06 Drawing with markers to Rendering Wood: Industrial and interior Design
+   "fJjvRY-_rqQ",  # 2018-05-23 Battery Storage Organizer: Camera and Mobile device Charger Station
   ],
  ),
  dict(name="X-ACTO knife Hack Brilliant", kind="Build",
   desc="Modifying and X-Acto blade holder, It's a quick simple build to keep using my favorite old tool.",
   videos=[
    "hZib-YRJYHo",  # 2018-06-13 X-ACTO knife Hack  Brilliant!
-  ],
- ),
- dict(name="Refined Dust Mask with Eye Protection", kind="Build",
-  desc="Desiging, prototyping and building a proof of concept Dust Mask with built in Eye wear protection.",
-  videos=[
-   "H-aQfVBy7BQ",  # 2018-06-20 Dust Mask with Eye Protection Design Process: Phase one proof of conce
-   "O0pmaNmyV8Q",  # 2018-07-11 Refined Dust Mask with Eye Protection: Phase Two Industrial Design Sof
   ],
  ),
  dict(name="My CardBoard Modeling Tools", kind="Build",
@@ -243,22 +181,22 @@ INVENTIONS = [
    "RJBEmUrmGDw",  # 2018-10-24 CardBoard Container Scratch Build: Chipboard 500ml water bottle Indust
   ],
  ),
- dict(name="Marker Sketch: Aluminum BackPack Hanger: Industrial Design", kind="Build",
-  desc="Marker Sketch on crescent no bleed no show thru paper.",
+ dict(name="Mat Board Backpack hanger Mockup Build and sketch Industrial design pr", kind="Build",
+  desc="CardBoard Backpack hanger Mockup and sketch.",
   videos=[
-   "SyyzxHq4XEE",  # 2018-11-14 Marker Sketch: Aluminum BackPack Hanger: Industrial Design
+   "8w2poOzRZeg",  # 2018-11-07 Mat Board Backpack hanger Mockup Build and sketch Industrial design pr
   ],
  ),
- dict(name="Toilet Paper holder", kind="Build",
-  desc="Be sure to use the coupon code OHF-TPE-0",
+ dict(name="3D print Designer Edibles", kind="Build",
+  desc="Designing and making molds to make yoiur own edible gummies, chocolate and ice cubes.",
   videos=[
-   "aitGh5M9_Bc",  # 2019-01-13 Toilet Paper holder: Folded sheet metal Industrial Design process star
+   "AiPMUHPGWr4",  # 2019-01-30 3D print Designer Edibles: Gummies Chocolate icecubes and more! DIY
   ],
  ),
- dict(name="How to Scan 3D objects with Agisoft Metashape", kind="Build",
-  desc="This video is about Scanning 3D objects: The basics",
+ dict(name="Backpack Prototype", kind="Build",
+  desc="This video is about The Prototype Alfred folder metal 1/8\"  3mm plate Backpack hanger",
   videos=[
-   "Y9K-a91w9UA",  # 2019-03-04 How to Scan 3D objects with Agisoft Metashape: Basic Photogrammetry
+   "8AWIlYDRqIo",  # 2019-03-22 Backpack  Prototype: Funded on Kickstarter!
   ],
  ),
  dict(name="Building a 3D Scanner Turntable", kind="Build",
@@ -289,6 +227,12 @@ INVENTIONS = [
    "nvNXCyDyTTI",  # 2019-07-17 REAL CLEAR SLA parts: Clearcoating prototype 3D printed bottles
   ],
  ),
+ dict(name="Designing and prototyping a small ergonomic utility knife", kind="Build",
+  desc="This video is about Design a Small Utility Knife for shop use.",
+  videos=[
+   "GL4gKLNvtBc",  # 2019-08-07 Designing and prototyping a small ergonomic utility knife
+  ],
+ ),
  dict(name="Massive 20 Gallon Pressure Tank Build", kind="Build",
   desc="PCBway 5th annual design contest entry deadline Dec 31st 2022.",
   videos=[
@@ -296,30 +240,6 @@ INVENTIONS = [
    "q8yVw7sfT8E",  # 2019-10-30 Custom10 Gallon Heated Resin casting Pressure Tank, Finally finished P
    "CI24SXD_Ix4",  # 2022-10-31 Massive 20 Gallon Pressure Tank Build!
    "4tKD8_11a7U",  # 2023-10-30 30 Gallon Pressure Tank Build
-  ],
- ),
- dict(name="UNLOCK FoamCORE’S Inner Secret", kind="Build",
-  desc="I show you how to Use EVA craft foam and foam core to build amazing product design models, prototypes, mockups and sketch models.",
-  videos=[
-   "RZKiQXzR4WU",  # 2019-09-23 UNLOCK FoamCORE’S Inner Secret: FoamBoard EVA craft foam model making 
-  ],
- ),
- dict(name="Is Photogrammetry Accurate? Using Agisoft Metashape to reverse enginee", kind="Build",
-  desc="How accurate is Photogrammetry?",
-  videos=[
-   "b1t33KcBlnk",  # 2019-10-14 Is Photogrammetry Accurate?  Using Agisoft Metashape to reverse engine
-  ],
- ),
- dict(name="Understanding Basic PROPORTIONS", kind="Build",
-  desc="Understanding Beautiful proportions in objects and artifacts.",
-  videos=[
-   "05noF6uuzK8",  # 2019-10-22 Understanding Basic PROPORTIONS: Abstract Visual Relationships for Des
-  ],
- ),
- dict(name="Wire Modeling and Soldering Basics for Designers Architects hobbyists ", kind="Build",
-  desc="This video is about Basic Wire Modeling and soldering for designers and Architects",
-  videos=[
-   "gEs6vb6mWzY",  # 2019-12-11 Wire Modeling and Soldering Basics for Designers Architects hobbyists 
   ],
  ),
  dict(name="Wire Modeling a vehicle 3D Sketching with Copper & Brass tubing", kind="Build",
@@ -335,49 +255,22 @@ INVENTIONS = [
    "xnLTS6vjkoY",  # 2020-01-29 Sketch to Functional Prototype: My Design Process
   ],
  ),
- dict(name="BASIC RENDERING in FUSION 360 overview and fundamentals to LIQUID REAL", kind="Build",
-  desc="Basics of how to rendering in Fusion 360 and how get some realism along with how to render liquids.",
+ dict(name="Epic FoamCore Six Wheeled RC Vehicle BUILD", kind="Build",
+  desc="Building a Foam core R/C build of the Gator Infantry Fighting Vehicle that I designed.",
   videos=[
-   "qh5MwJzxIgE",  # 2020-02-19 BASIC RENDERING in FUSION 360 overview and fundamentals to LIQUID REAL
+   "O-Nx5y3JWso",  # 2020-03-11 Epic FoamCore Six Wheeled RC Vehicle BUILD
+  ],
+ ),
+ dict(name="PIPE Frame ROLLING Shop Cart/Work Table Build it yourself- DIY- Plans ", kind="Build",
+  desc="How I build a rolling cart/work table, using 1\" black malleable pipe, includes plans and material list",
+  videos=[
+   "KgE33ZYTxDQ",  # 2020-04-22 PIPE Frame ROLLING Shop Cart/Work Table Build it yourself- DIY- Plans 
   ],
  ),
  dict(name="Magic iPad Stand", kind="Build",
   desc="Design and build a drawing sketch pad stand for your tablet.",
   videos=[
    "RiKtKaqNxyc",  # 2020-05-13 Magic iPad Stand
-  ],
- ),
- dict(name="Modifying an Apple Pencil for better function and usability", kind="Build",
-  desc="How to Modify an Apple Pencil to work better, mainly for grip (ergonomics) but also for visibility and functionality.",
-  videos=[
-   "BtpPYX5Pn70",  # 2020-05-20 Modifying an Apple Pencil for better function and usability
-  ],
- ),
- dict(name="The Power ADAPTER Apple REFUSES to make", kind="Build",
-  desc="Throwback Cable management for the new Apple USB-C adapters.",
-  videos=[
-   "pQAJRCcBfiE",  # 2020-06-17 The Power ADAPTER Apple REFUSES to make!
-   "dAkOK9VEHxE",  # 2020-06-19 Digital iPad sketching The Power ADAPTER Apple REFUSES to make!
-  ],
- ),
- dict(name="Casting Polyurethane", kind="Build",
-  desc="This video is about Casting Urethane: Resin Fundamentals",
-  videos=[
-   "ZzFDTCoeW88",  # 2020-08-05 Casting Polyurethane: Resin Fundamentals
-  ],
- ),
- dict(name="Molding Toy Parts", kind="Build",
-  desc="This video is about Stack up's for Molding Toy Parts: Part 1",
-  videos=[
-   "ieokNNpeJ4U",  # 2020-08-12 Molding Toy Parts - Stack up's: Part 1
-   "jwyJQtCBAyY",  # 2020-08-19 Molding Toy Parts - Clay and Silicone: Part 2
-   "TjbD2oiPeEs",  # 2020-09-01 Molding Toy Parts - Color Resin Casting: Part 3
-  ],
- ),
- dict(name="How To: Hermetically Sealed Electrical Connection", kind="Build",
-  desc="Creating a Hermetically sealed electrical passthrough connection into my pressure tank.",
-  videos=[
-   "aTc6szmAPh4",  # 2020-09-17 How To: Hermetically Sealed Electrical Connection
   ],
  ),
  dict(name="Screw your Molds", kind="Build",
@@ -387,16 +280,16 @@ INVENTIONS = [
    "IDvSUOX3b4A",  # 2024-05-30 Insert Molding Resin over Screws: Lancia replica fasteners
   ],
  ),
+ dict(name="DIY Motorized Powered Turntable Build", kind="Build",
+  desc="Build it your self  110V motorized Powered Turntable Build for product photography and spray painting.",
+  videos=[
+   "L82w7RSE5bs",  # 2020-11-26 DIY Motorized Powered Turntable Build: spray painting & product displa
+  ],
+ ),
  dict(name="Making Very Large Silicone Molds", kind="Build",
   desc="Molding a large Master Vehicle in a two part silicone mold for easy part removal.",
   videos=[
    "f8P5Ccyz9Zw",  # 2021-01-08 Making Very Large Silicone Molds
-  ],
- ),
- dict(name="What is Vibration Resin Casting? Removing air bubbles with vibration", kind="Build",
-  desc="Using vibration to reduce air bubbles in resin",
-  videos=[
-   "TR96sUyXNQQ",  # 2021-01-29 What is Vibration Resin Casting? Removing air bubbles with vibration
   ],
  ),
  dict(name="Super Glossy Finish Polish on Prototype and Master Parts, for Designer", kind="Build",
@@ -405,25 +298,24 @@ INVENTIONS = [
    "4_Oq-5xlblE",  # 2021-05-14 Super Glossy Finish Polish on Prototype and Master Parts, for Designer
   ],
  ),
+ dict(name="Building a Rolling MDF Trolley 3D Printer Cart", kind="Build",
+  desc="Building a wheeled 3D printer cart from 3/4\" MDF for my Ultimaker 3 extended printer.",
+  videos=[
+   "pjaanuAtrhI",  # 2021-06-18 Building a Rolling MDF Trolley 3D Printer Cart
+  ],
+ ),
  dict(name="Basic Acrylic model making for Designers, Architects & Makers", kind="Build",
   desc="Basic acrylic model making, using a bandsaw, score and snap method, and a table saw with router.",
   videos=[
    "Se2-zhutPn4",  # 2021-07-14 Basic Acrylic model making for Designers, Architects & Makers
-   "VlXJrXILMfI",  # 2021-07-22 Acrylic Advanced Basics model making for Designers, Architects & Maker
    "J5PztVdbzVI",  # 2021-07-28 Finishing Acrylic Models and Prototypes for Designers, Architects & Ma
    "sMR2pVU5C4o",  # 2021-08-18 Wood Model Making for Designer, Architects and Makers
   ],
  ),
- dict(name="How to Copy a 3D Object", kind="Build",
-  desc="How to copy a simple 3D object.",
+ dict(name="Advanced Wood Model Making for Designer, Architects and Makers", kind="Build",
+  desc="Advanced wood model making techniques, Steam bending and glue lamination",
   videos=[
-   "PyoBOBDkouE",  # 2021-08-04 How to Copy a 3D Object
-  ],
- ),
- dict(name="2K Primer in \"A CAN!\"", kind="Build",
-  desc="My new favorite 2K primer in a can.",
-  videos=[
-   "yiu5sCmv6M0",  # 2021-08-11 2K Primer in "A CAN!"
+   "U4VpAklt6pE",  # 2021-08-25 Advanced Wood Model Making for Designer, Architects and Makers
   ],
  ),
  dict(name="Drill Press Treadmill Motor MOD, speed controller and reverse", kind="Build",
@@ -432,22 +324,16 @@ INVENTIONS = [
    "4-t-6lH_nOE",  # 2021-09-01 Drill Press Treadmill Motor MOD, speed controller and reverse!
   ],
  ),
- dict(name="Resin Copies, Mold and Cast medium size parts", kind="Build",
-  desc="How to copy a medium size object.",
+ dict(name="Paper model making", kind="Build",
+  desc="Designing an Eco friendly mobile device wireless charging stand.",
   videos=[
-   "3obngISQ_yk",  # 2021-09-09 Resin Copies, Mold and Cast medium size parts
+   "o2HWq4oLrag",  # 2021-10-27 Paper model making: Wireless charger #TeamSeas
   ],
  ),
- dict(name="Intricate Molded Handle", kind="Build",
-  desc="How to copy a complex 3D object.",
+ dict(name="CardBoard Prototype", kind="Build",
+  desc="Designing an Eco friendly mobile device wireless charging stand.",
   videos=[
-   "A2UnYLK0BjM",  # 2021-10-14 Intricate Molded Handle: Difficult Part
-  ],
- ),
- dict(name="Use Gesso as Primer for 3D parts", kind="Build",
-  desc="My process of using applying and sanding Gesso on 3D parts.",
-  videos=[
-   "ns-ePrlTJZo",  # 2021-10-21 Use Gesso as Primer for 3D parts
+   "Q1lsEYVnI6I",  # 2021-11-04 CardBoard Prototype: wireless charger #TeamSeas
   ],
  ),
  dict(name="Pulp Molding Molded Fiber", kind="Build",
@@ -457,22 +343,10 @@ INVENTIONS = [
    "W_nY6VtMjRM",  # 2021-11-18 Pulp Molding Molded Fiber #TeamSeas
   ],
  ),
- dict(name="CardBoard Basics", kind="Build",
-  desc="All three cardboard videos in One, adjusted sound, new footage and all new footage and voice over and music for the tools section.",
+ dict(name="CardBoard Laser Shoot-Out", kind="Build",
+  desc="I laser cut various cardboard materials to determine the optimum setting for speed, power and appearance for model making, as well as discuss my preferences for each material.",
   videos=[
-   "Pk2wHf4ub3c",  # 2021-11-25 CardBoard Basics: Full Series with Advanced Basics plus Tools
-  ],
- ),
- dict(name="Revopoint Popscan vs Agisoft Metashape 3D scanning Showdown", kind="Build",
-  desc="I compare the Revopoint hand held POP scanner to Agisoft Metashape photogrammetry process.",
-  videos=[
-   "TNKtbIuoja4",  # 2021-12-10 Revopoint Popscan vs Agisoft Metashape 3D scanning Showdown #TeamSeas
-  ],
- ),
- dict(name="Industrial Sewing Machine, Basics Mods for your Beast", kind="Build",
-  desc="Basic modifications you need to make to your Industrial sewing machine to make it more functional, usable and enjoyable.",
-  videos=[
-   "7xf7v8GM738",  # 2021-12-16 Industrial Sewing Machine, Basics Mods for your Beast!
+   "PXW2QNDpxSo",  # 2021-12-01 CardBoard Laser Shoot-Out #TeamSeas
   ],
  ),
  dict(name="Open Face Mold", kind="Build",
@@ -482,10 +356,16 @@ INVENTIONS = [
    "DdXBSjiSuE8",  # 2022-03-23 Open Face Mold:  Flexible Rubber Feet
   ],
  ),
- dict(name="Magical Magnetic Mold Box", kind="Build",
-  desc="Magical Magnetic Mold Box: Casting Resin Parts.",
+ dict(name="Silicone Mold Heater Box Build", kind="Build",
+  desc="I build a Hot box from a mini fridge and an Inkbird, that can heat and cool",
   videos=[
-   "4KbyRlJ9050",  # 2022-03-10 Magical Magnetic Mold Box: Casting Resin Parts
+   "5TOurXyRynE",  # 2022-03-30 Silicone Mold Heater Box Build
+  ],
+ ),
+ dict(name="Fixing my Ultimaker 3", kind="Restoration",
+  desc="My Ultimaker was poorly packed and dropped during shipping and was damaged.",
+  videos=[
+   "OU9mB5aaPBc",  # 2022-04-13 Fixing my Ultimaker 3
   ],
  ),
  dict(name="DIY FoamCore UV Resin Curing Station", kind="Build",
@@ -494,10 +374,22 @@ INVENTIONS = [
    "4EgA5LxCO0A",  # 2022-05-31 DIY FoamCore UV Resin Curing Station: Foam Core 3D print resin curing 
   ],
  ),
- dict(name="3D Scanning with the Mole", kind="Build",
-  desc="In this video I test and review 3DMakerpro Mole 3D handheld scanner.",
+ dict(name="Designing Sustainable IKEA Tools", kind="Build",
+  desc="Redesigning IKEA's plastic nut driver tool 5 ways with out using any plastic.",
   videos=[
-   "JNWk_29Z5VQ",  # 2023-03-16 3D Scanning with  the Mole
+   "C9vubq-BV7U",  # 2022-07-29 Designing Sustainable IKEA Tools
+  ],
+ ),
+ dict(name="Sketchbooks with Lasers", kind="Build",
+  desc="PCBway 3D printing services for all your 3D printing needs:",
+  videos=[
+   "ZtqqxQ9RcBE",  # 2023-01-22 Sketchbooks with Lasers
+  ],
+ ),
+ dict(name="Clear Bottle Prototype", kind="Build",
+  desc="This video is about clear coating an SLA prototype bottle.",
+  videos=[
+   "Kp2YopgNLZc",  # 2023-03-31 Clear Bottle Prototype
   ],
  ),
  dict(name="Designing a Wrinkle Reducing Straw", kind="Build",
@@ -519,10 +411,10 @@ INVENTIONS = [
    "bcbEid4HfOA",  # 2024-01-24 IPA Filtration System Build for Isopropyl Alcohol - Formlabs Form Wash
   ],
  ),
- dict(name="Insert injection molding shore 50D urethane resin in two part silicone", kind="Build",
-  desc="Insert molding a vibration sensor in a two part silicone mold with injection urethane made with 3D printed splitter board",
+ dict(name="Making Silicone Parts with Laser Cut Acrylic Molds", kind="Build",
+  desc="Making Silicone work mats for my resin Printer with laser cut acrylic molds.",
   videos=[
-   "ABEpVsxUKgU",  # 2024-02-13 Insert injection molding shore 50D urethane resin in two part silicone
+   "7EIeod7Bk-I",  # 2024-02-29 Making Silicone Parts with Laser Cut Acrylic Molds
   ],
  ),
  dict(name="3D Printed Silicone Molds", kind="Build",
@@ -533,10 +425,34 @@ INVENTIONS = [
    "lATdQAeAWHk",  # 2025-06-18 3D printed mold Metal Tapping Hammer
   ],
  ),
+ dict(name="Clear Urethane Radio Knobs", kind="Build",
+  desc="I make 20 clear vintage radio knobs out of clear polyurethane resin for a special assignment.",
+  videos=[
+   "jPpw5NqQYjs",  # 2024-11-25 Clear Urethane Radio Knobs: A Noir Adventure
+  ],
+ ),
+ dict(name="30 Gal.Pressure/33 Gal.Compressor Tank Build", kind="Build",
+  desc="Building a large 30 Gallon pressure tank for polyurethane resin casting from a Binks pressure pot with integrated quiet 33 Gallon compressor set up.",
+  videos=[
+   "HehrpCEuBwg",  # 2024-12-01 30 Gal.Pressure/33 Gal.Compressor Tank Build
+  ],
+ ),
  dict(name="Resin Casting 1980 Pontiac Grand Prix turn signal lenses", kind="Build",
   desc="I make a clear set of  polyurethane turn signal lenses form from a Pontiac Grand Prix",
   videos=[
    "4jAlCAmROD8",  # 2025-02-21 Resin Casting 1980 Pontiac Grand Prix turn signal lenses
+  ],
+ ),
+ dict(name="Thin Wall High Fidelity Detailed Silicone Parts with FormLabs Form 4", kind="Build",
+  desc="I make a  technical silicone part with a 3D printed clear resin mold made from my FormLabs Form 4 resin printer.",
+  videos=[
+   "9CSiextQcQA",  # 2025-02-28 Thin Wall High Fidelity Detailed Silicone Parts with FormLabs Form 4
+  ],
+ ),
+ dict(name="I got a Gweike G2 PRO 30W Fiber Laser Engraver", kind="Build",
+  desc="We set up and test the GWEIKE G2 Pro 30W Fiber Laser and put it through some basis test to find the pro's and cons of the machine.",
+  videos=[
+   "EO8_ya6JoN8",  # 2025-03-31 I got a Gweike G2 PRO 30W Fiber Laser Engraver
   ],
  ),
  dict(name="CUT Molding Resin Cadillac XLR headlight lenses", kind="Build",
@@ -551,22 +467,16 @@ INVENTIONS = [
    "sREQ8xh48VM",  # 2025-10-03 Clear resin Cadillac XLR lenses, the right way to make a two part mold
   ],
  ),
+ dict(name="Urethane housings for Burning Man Titanic's End Mothership", kind="Build",
+  desc="We build two set of two part silicone molds to make polyurethane tinted resin enclosure housings used in the Titanic's End Mothership.",
+  videos=[
+   "Zz9LbmbKOTg",  # 2025-12-31 Urethane housings for Burning Man Titanic's End Mothership
+  ],
+ ),
  dict(name="Tricky Resin Cast", kind="Build",
   desc="We build a set of two part silicone molds to make polyurethane clear smoked resin IBM Selectric typewriter covers",
   videos=[
    "PeIq8qOVnxE",  # 2026-03-06 Tricky Resin Cast: Vintage IBM Selectric Cover
-  ],
- ),
- dict(name="Resin Cast Mercedes 300 SL brake lights and turn signals", kind="Build",
-  desc="We machine and rework Mercedes 300SL Gullwing break light and turn signal markers out of Urethane resin in red, yellow and clear and make silicone molds to make perfect parts for a client.",
-  videos=[
-   "IGHYZBMS5dQ",  # 2026-09-26 Resin Cast Mercedes 300 SL brake lights and turn signals
-  ],
- ),
- dict(name="Resin Casting Vintage Nuclear Power Plant Module", kind="Build",
-  desc="We make copies of some old nuclear power plant parts to keep the electricity flowing so you can keep watching YouTube!",
-  videos=[
-   "JHkdxvr1VaE",  # 2026-10-18 Resin Casting Vintage Nuclear Power Plant Module
   ],
  ),
 ]

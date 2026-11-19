@@ -1,0 +1,150 @@
+{
+ "fran-blanche": {
+  "merge": {
+   "Project Egress": [
+    "project egress"
+   ],
+   "BINA-VIEW": [
+    "bina"
+   ],
+   "Apollo DSKY Display": [
+    "dsky"
+   ],
+   "Sputnik": [
+    "sputnik"
+   ],
+   "Nixie Counter": [
+    "nixie test project",
+    "nixie counter prototype"
+   ]
+  },
+  "drop": [
+   "^Building Launch Complex",
+   "^JPL:",
+   "^Making Commodore 64 Software In 1983",
+   "^One Last Donkey Kong",
+   "^Driveway Meteorite",
+   "^Electronic Project Kit Shootout",
+   "^Adventures In Pocket",
+   "^Trying Out The Leroy",
+   "^Philly Fixers",
+   "^VCF 2015",
+   "^Making It Young",
+   "Lab Cookies",
+   "DIY Cinema",
+   "^Starship:",
+   "^Update for",
+   "^Fran's Projects",
+   "^Fran's Dangerous Toys",
+   "^Rare Toys",
+   "^The Dawn Of Digital",
+   "^Oh, Those Bots",
+   "^Made Too Well",
+   "^Digital Clock Or Automaton",
+   "^Kensington Kinetic",
+   "Shirt",
+   "^If At First",
+   "^Real vs\\. Fake",
+   "^Solving The Mystery",
+   "^Doing Arduino Down"
+  ]
+ },
+ "hainbach": {
+  "keep": [
+   "Test Equipment Drum Mach",
+   "Binaural Head",
+   "TR-606 Modded",
+   "Frippertronics",
+   "Experimental Instrument",
+   "Early Electronic Music Studio",
+   "Minichord",
+   "plugin",
+   "Test equipment VST"
+  ]
+ },
+ "audrey-ember": {
+  "keep": [
+   "shed into my DREAM",
+   "camera out of a potato",
+   "MINI computer",
+   "PINHOLE CAMERA",
+   "Succulent Ter"
+  ]
+ },
+ "aging-wheels": {
+  "drop": [
+   "Presentation Area",
+   "Answering Questions",
+   "I Got TWO Codas",
+   "I Got a Third Coda",
+   "I Bought a Straight",
+   "I've Made a Mistake",
+   "I Killed One Big Project",
+   "I've Been Stuck",
+   "Electrek Uncar"
+  ]
+ },
+ "gravity-industries": {
+  "drop": [
+   "Flying at WIRED",
+   "RAW Flight Footage",
+   "Making an entrance"
+  ]
+ },
+ "graham-dunning": {
+  "drop": [
+   "^Heavy Lifting",
+   "^Tom Mudd",
+   "Dan Hayhurst"
+  ]
+ },
+ "props-to-history": {
+  "drop": [
+   "Movie Talk",
+   "Off Topic",
+   "M1 Steel Helmet in Cosplay"
+  ]
+ },
+ "hack-modular": {
+  "drop": [
+   "Why Were Computers Invented",
+   "Will it music"
+  ]
+ },
+ "diligent-dwarves": {
+  "drop": [
+   "Dracula to SpaceX"
+  ]
+ },
+ "chris-gammell": {
+  "drop": [
+   "Tutorial",
+   "Shocking Discovery"
+  ]
+ },
+ "katie-steckles": {
+  "drop": [
+   "Animation Generation",
+   "Unwanted Shape"
+  ]
+ },
+ "andy-piper": {
+  "drop": [
+   "Dogear Nation"
+  ]
+ },
+ "mitxela": {
+  "drop": [
+   "Musings on Invention"
+  ]
+ },
+ "alphaphoenix": {
+  "drop": [
+   "House Of Wolves",
+   "Behind the Scenes",
+   "smoke from a soldering",
+   "Cannon Parabolas",
+   "I weighed an airplane"
+  ]
+ }
+}

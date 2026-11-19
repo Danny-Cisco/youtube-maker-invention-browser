@@ -7,48 +7,22 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'sean-hodgins', 'name': 'Sean Hodgins', 'person': 'Sean Hodgins', 'tagline': 'Electronics projects and the science behind them.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="World Record Oil Change", kind="Build",
-  desc="I've never timed my oil change before, I think I can do faster.",
+ dict(name="Hacking some RF", kind="Build",
+  desc="Hacking some RF - Decoding the Truck.",
   videos=[
-   "pQ_WA_pxMHg",  # 2015-06-07 Change the Oil
-   "U5xXI-_PFVo",  # 2015-09-15 World Record Oil Change
+   "rVQk1lezW0c",  # 2015-08-10 Hacking some RF - Decoding the Truck
   ],
  ),
- dict(name="Raspberry Pi Installed in the Ford Fusion", kind="Build",
-  desc="Canada Day!",
+ dict(name="Vlogging with the Rokinon 14mm F2.8", kind="Build",
+  desc="Vlogging with the Rokinon 14mm F2.8 - New Camera Gear.",
   videos=[
-   "lBl54D4Eon0",  # 2015-07-02 Raspberry Pi Installed in the Ford Fusion
+   "SXXa5A6wGn4",  # 2015-10-23 Vlogging with the Rokinon 14mm F2.8 - New Camera Gear
   ],
  ),
- dict(name="A Day with Beme", kind="Build",
-  desc="Aside from the problems, this app seems very interesting and I can't wait to see how it evolves.",
+ dict(name="DIY Multi-Layer Acrylic Stencil Art Desk Light", kind="Build",
+  desc="Using some layers of 3mm Acrylic, paint and some photoshop fun, I make a desk light image for Kerry.",
   videos=[
-   "TQTGQOyC-GQ",  # 2015-07-19 A Day with Beme - The Good, The Bad, And Everything Else.
-  ],
- ),
- dict(name="Brought home a Jaguar F-Type R AWD Coupe", kind="Build",
-  desc="Brought home a Jaguar F-Type R AWD Coupe - Ridiculously Good.",
-  videos=[
-   "qTZqa2LYF_g",  # 2015-08-11 Brought home a Jaguar F-Type R AWD Coupe - Ridiculously Good
-   "nIQfFSe9KOU",  # 2015-08-18 Last day with the F-Type R - Supercar Sunday
-  ],
- ),
- dict(name="Open Source Non-Invasive Glucose Meter", kind="Build",
-  desc="The still in development project I'm working on.",
-  videos=[
-   "2np7Va2ASF0",  # 2015-08-27 Open Source Non-Invasive Glucose Meter - Expensive, Wasteful, and Anno
-  ],
- ),
- dict(name="Tiny OLED GPS Bike Speedometer", kind="Build",
-  desc="I throw together a tiny little GPS Speedometer for my bike using an Arduino Nano, GPS, and a small OLED displace.",
-  videos=[
-   "IklV_jTcl2A",  # 2015-09-03 Tiny OLED GPS Bike Speedometer - Sean Makes
-  ],
- ),
- dict(name="FLYING A B777 - Giant Commercial Flight Simulator", kind="Build",
-  desc="Kerry and I had a 2 hour pass to flight training in a real commercial Air Canada flight simulator.",
-  videos=[
-   "vhrOpQX2HCQ",  # 2015-11-03 FLYING A B777 - Giant Commercial Flight Simulator!
+   "9GRpEMw-EoU",  # 2015-12-26 DIY Multi-Layer Acrylic Stencil Art Desk Light
   ],
  ),
  dict(name="Make a Raspberry Pi Zero USB Hub", kind="Build",
@@ -57,28 +31,10 @@ INVENTIONS = [
    "1y0aJ6OKjWc",  # 2016-02-24 Make a Raspberry Pi Zero USB Hub - The PiAngle
   ],
  ),
- dict(name="Fixing the Truck", kind="Build",
+ dict(name="Fixing the Truck", kind="Restoration",
   desc="The joys of driving an old vehicle in an area that uses salt.",
   videos=[
    "OPBWC4xK6dE",  # 2016-03-08 Fixing the Truck: Replacing the Seat Belts in the Tacoma
-  ],
- ),
- dict(name="Peltier on a Raspberry Pi", kind="Build",
-  desc="Cooling a Raspberry Pi with a Peltier element.",
-  videos=[
-   "UtuNriooEdM",  # 2016-03-15 Peltier on a Raspberry Pi! - Happy Pi Day!
-  ],
- ),
- dict(name="PC Gaming on a Pi Zero", kind="Build",
-  desc="I try out some Steam gaming on the Pi Zero.",
-  videos=[
-   "t-QdiJcz1b4",  # 2016-06-07 PC Gaming on a Pi Zero?! - Raspberry Pi Steam Box
-  ],
- ),
- dict(name="Installing New Leaf Springs", kind="Build",
-  desc="The leaf springs on my 1996 Toyota Tacoma(Bessie) were awful.",
-  videos=[
-   "gLAFS4WahvM",  # 2016-07-19 INSTALLING NEW LEAF SPRINGS - Dakars on my Toyota Tacoma
   ],
  ),
  dict(name="Diy Nfc Bentwood Ring", kind="Build",
@@ -93,16 +49,16 @@ INVENTIONS = [
    "iP-wCNDS2kg",  # 2016-10-03 Idle Hands Fidget Spinner - Keep your hands busy!
   ],
  ),
- dict(name="Arduino YouTube Play Button", kind="Build",
-  desc="Arduino YouTube Play Button.",
+ dict(name="Dream Inception Tool", kind="Build",
+  desc="Beats by: Retnik Beats(BE) & Chuki Beats (BE)",
   videos=[
-   "IK88ALh8d5w",  # 2016-11-22 Arduino YouTube Play Button
+   "PnGwj5Q8DO8",  # 2016-10-23 Dream Inception Tool - Model Kit - Rick and Morty
   ],
  ),
- dict(name="Five Dollar Fidget Spinner", kind="Build",
-  desc="This is the video for my Kickstarter!",
+ dict(name="ESP8266 Christmas Ornaments", kind="Build",
+  desc="Everyone knows the best way to spread Christmas cheer is to send it over the internet on your internet connected Christmas ornament.",
   videos=[
-   "1Syx5_sFCT0",  # 2017-01-24 Five Dollar Fidget Spinner - Kickstarter Video!
+   "PoPzBuoFOps",  # 2016-12-20 ESP8266 Christmas Ornaments!
   ],
  ),
  dict(name="ESP Everywhere", kind="Build",
@@ -130,6 +86,12 @@ INVENTIONS = [
   videos=[
    "wyD5DAT4A8M",  # 2017-07-13 Building an Anet A8 3D Printer
    "mSQ8qx4jCoE",  # 2018-12-06 New 3D Printer! - Creality 3D Ender-3
+  ],
+ ),
+ dict(name="Laser Cut Antique Steel Lock", kind="Build",
+  desc="I make a laser cut lock and keys from scratch as a gift for my friends.",
+  videos=[
+   "tHKs_LHq1KQ",  # 2017-07-16 Laser Cut Antique Steel Lock - DIY
   ],
  ),
  dict(name="3D Print of the Week", kind="Build",
@@ -165,6 +127,12 @@ INVENTIONS = [
    "bjgAxe94dU8",  # 2017-10-10 Haunted Jack in the Box - DIY Raspberry Pi Project
   ],
  ),
+ dict(name="SMD Challenge - Learn to Surface Mount Solder", kind="Build",
+  desc="Become a Patron and get one of these SMD Challenge boards(or kit!) each time I make a new design!",
+  videos=[
+   "uQjjcaN57y8",  # 2017-10-17 SMD Challenge #1 - Learn to Surface Mount Solder
+  ],
+ ),
  dict(name="Watch Retro Christmas Commercials on your Christmas Tree", kind="Build",
   desc="This Christmas ornament will really take you back...",
   videos=[
@@ -176,6 +144,12 @@ INVENTIONS = [
   videos=[
    "lljkikMWPBw",  # 2017-12-15 Arduino Geocache Locator - Part 1: The Hardware
    "BQUf0EvZWkc",  # 2017-12-26 Arduino Geocache Locator - Part 2: The Firmware
+  ],
+ ),
+ dict(name="Open Source Cajon", kind="Build",
+  desc="Open Source Cajon (Wooden Drum you Sit On).",
+  videos=[
+   "u1pPG5NZyvw",  # 2017-12-28 Open Source Cajon (Wooden Drum you Sit On)
   ],
  ),
  dict(name="DIY Arduino Hot-Key Button Panel", kind="Build",
@@ -194,6 +168,12 @@ INVENTIONS = [
    "YA3uAYVbMNc",  # 2018-06-21 Making 100 PIXO Pixels for Make/100 Kickstarter!
   ],
  ),
+ dict(name="3D Printed Quick Fix", kind="Build",
+  desc="I needed a reason to make a video and have some fun.",
+  videos=[
+   "POHFos43u30",  # 2018-03-12 3D Printed Quick Fix - Ikea Tongs
+  ],
+ ),
  dict(name="Community Projects", kind="Build",
   desc="This is a video series about building and testing projects created by the maker community.",
   videos=[
@@ -206,10 +186,28 @@ INVENTIONS = [
    "FSWPsA_3NI0",  # 2018-03-22 Assembling A Neural Network Robot Army
   ],
  ),
+ dict(name="Open Source Flashlight Kit", kind="Build",
+  desc="The Open Source Flashlight Kit is designed for the beginner to get into 3D printing and soldering.",
+  videos=[
+   "CyyXmATzEqs",  # 2018-03-27 Open Source Flashlight Kit
+  ],
+ ),
  dict(name="3D Printable Robotic Actuator", kind="Build",
   desc="3D Printable Robotic Actuator.",
   videos=[
    "UNvMEfPD-Hg",  # 2018-04-13 3D Printable Robotic Actuator
+  ],
+ ),
+ dict(name="3D Printing for We The Builders", kind="Build",
+  desc="3D Printing for We The Builders - #WeTheRosies.",
+  videos=[
+   "2Ubsu7u6Qi0",  # 2018-05-12 3D Printing for We The Builders - #WeTheRosies
+  ],
+ ),
+ dict(name="3D Printed Accelerometer Soldering Jig", kind="Build",
+  desc="I had 100 MPU-6050 accelerometer modules to solder and placing the headers level each time can be a pain.",
+  videos=[
+   "nyTs-qJ_F98",  # 2018-05-23 3D Printed Accelerometer Soldering Jig
   ],
  ),
  dict(name="MegaMUX - 32 Channel Multiplexer Board and Tutorial", kind="Build",
@@ -260,6 +258,18 @@ INVENTIONS = [
   desc="The first of many parts to my Home Automation Project I will be starting.",
   videos=[
    "pWzIHIispJ4",  # 2018-09-20 Cheap Temp Sensor KiCad Design - LIVE - Home Automation Project
+  ],
+ ),
+ dict(name="Diresta Ice Pick Twister", kind="Build",
+  desc="I reached out to Jimmy Diresta to see if he wanted to try and automate the new twisting process in his ice pick design.",
+  videos=[
+   "8TaMxIwHQto",  # 2018-09-28 Diresta Ice Pick Twister - Part 1
+  ],
+ ),
+ dict(name="Fake Walkie-Talkie for Fake Ghost Tours", kind="Build",
+  desc="Fake Walkie-Talkie for Fake Ghost Tours.",
+  videos=[
+   "CiPm3to5vCE",  # 2018-10-19 Fake Walkie-Talkie for Fake Ghost Tours
   ],
  ),
  dict(name="Radioactive Tritium Tesseract Prototype", kind="Build",
@@ -317,6 +327,12 @@ INVENTIONS = [
    "IaYjGdEZq18",  # 2019-08-21 Twitch Streaming Robotic Chicken Feeder!
   ],
  ),
+ dict(name="3D Printed LED Panel Sit/Stand Desk Mounts", kind="Build",
+  desc="I just needed to make a video about something!",
+  videos=[
+   "_jc9CL6Ikfg",  # 2019-10-20 3D Printed LED Panel Sit/Stand Desk Mounts
+  ],
+ ),
  dict(name="Become Anyone", kind="Build",
   desc="Have a hard time deciding what to be on Halloween?",
   videos=[
@@ -327,12 +343,6 @@ INVENTIONS = [
   desc="Join me as I build the Shapeoko XXL!",
   videos=[
    "jtb7lLg6pqI",  # 2019-11-05 Building the Shapeoko XXL
-  ],
- ),
- dict(name="Motors, LEDs, and Christmas Trees", kind="Build",
-  desc="This was basically a one day build.",
-  videos=[
-   "0N7bGHJVGWI",  # 2019-12-24 Motors, LEDs, and Christmas Trees!
   ],
  ),
  dict(name="I Made My Own Image Sensor", kind="Build",
@@ -347,6 +357,12 @@ INVENTIONS = [
    "6dnidbhjpm4",  # 2020-08-14 If You Ever Find One of These For Sale, Buy It!
   ],
  ),
+ dict(name="This is the Perfect Lathe for my Basement Shop", kind="Build",
+  desc="I got a new (to me) lathe, and we're finally cutting some metal!",
+  videos=[
+   "2JRV4WfOA_s",  # 2020-09-27 This is the Perfect Lathe for my Basement Shop
+  ],
+ ),
  dict(name="Custom Heat-Set Threaded Insert Tools", kind="Build",
   desc="This has been at the top of my list of things to make for when I get a lathe.",
   videos=[
@@ -359,16 +375,10 @@ INVENTIONS = [
    "pzH9Pax2f3s",  # 2020-12-24 Spinning Holographic Christmas Ornament
   ],
  ),
- dict(name="Leave a Comment to Draw On The Thumbnail", kind="Build",
-  desc="Your comments will paint pixels on the thumbnail.",
+ dict(name="Reddit Upvote POV Christmas Ornament", kind="Build",
+  desc="Reddit Upvote POV Christmas Ornament LiveStream.",
   videos=[
-   "FV2OqOJcQRc",  # 2021-01-05 Leave a Comment to Draw On The Thumbnail
-  ],
- ),
- dict(name="You All Broke YouTube’s Comment Section", kind="Build",
-  desc="You All Broke YouTube’s Comment Section..",
-  videos=[
-   "GExSMURny_o",  # 2021-02-08 You All Broke YouTube’s Comment Section.
+   "5DvJ-7lDHkw",  # 2020-12-26 Reddit Upvote POV Christmas Ornament LiveStream
   ],
  ),
  dict(name="TENEX Solid State Volumetric OLED Display", kind="Build",
@@ -381,24 +391,6 @@ INVENTIONS = [
   desc="Finally giving the Cortini CNC Mill a new brain so we can start knocking out some of the projects that have been piling up.",
   videos=[
    "Wo5yLfvocJw",  # 2021-04-08 35 Year Old CNC Controller Retrofit - EP-T0-625007DC
-  ],
- ),
- dict(name="0x186A0 - A Short Film by SeanHodgins", kind="Build",
-  desc="This is pretty much a regular day for me.",
-  videos=[
-   "XYX1DHubkH8",  # 2021-05-27 0x186A0 - A Short Film by SeanHodgins
-  ],
- ),
- dict(name="This Snow-globe Makes Real Snow", kind="Build",
-  desc="Planet heating up?",
-  videos=[
-   "0eSrmeFNd1Q",  # 2021-12-23 This Snow-globe Makes Real Snow
-  ],
- ),
- dict(name="Old Machines and a New Workshop", kind="Build",
-  desc="I finally get to give you a tour of the new workshop.",
-  videos=[
-   "2BWcjVmKt_U",  # 2022-04-22 Old Machines and a New Workshop
   ],
  ),
  dict(name="Extremely Dangerous Holographic Christmas Tree of Death", kind="Build",
@@ -420,22 +412,16 @@ INVENTIONS = [
    "mC5iZvdhj1Y",  # 2025-10-05 CNC Machining Live! - Making your Tokens!
   ],
  ),
+ dict(name="Inside the CNC Machine", kind="Build",
+  desc="Live Inside the CNC Machine - Cutting Spinners!.",
+  videos=[
+   "MPX-MqDsVE0",  # 2023-06-12 Live Inside the CNC Machine - Cutting Spinners!
+  ],
+ ),
  dict(name="Don't Do What I Do", kind="Build",
   desc="Don't Do What I Do..",
   videos=[
    "HWP3dSttmy8",  # 2023-10-14 Don't Do What I Do.
-  ],
- ),
- dict(name="These Christmas Ornament Defy Gravity", kind="Build",
-  desc="Not everything goes to plan but I managed to make it work in the end.",
-  videos=[
-   "0GPoMWd9rxA",  # 2023-12-23 These Christmas Ornament Defy Gravity
-  ],
- ),
- dict(name="Moving Into My Dream Workshop", kind="Build",
-  desc="Taking another giant leap forward into the unknown!",
-  videos=[
-   "JDZYybgcerE",  # 2024-09-14 Moving Into My Dream Workshop
   ],
  ),
  dict(name="I Built the Craziest LED Mask", kind="Build",

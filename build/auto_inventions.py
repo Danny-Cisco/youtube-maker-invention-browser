@@ -9,6 +9,10 @@ How it works:
   video is judged by its subject, so a stream of "Building the Voron V2 Part 8" joins the Voron V2 invention.
 - Videos that aren't builds are skipped, judged on whole words only: Q&As, chats and hangouts, podcasts, unboxings,
   reviews, launch events, listening parties, giveaways, trailers, guides and the like.
+- A group only becomes an invention if there's evidence the maker built something: a building word in a title
+  (built, making, DIY, prototype, kit, restoration, repair, mod, project...) or first-person building in a
+  description ("I built...", "we designed..."). History, tributes, obituaries, teardowns of other people's work,
+  tours, news and channel updates don't count, so commentary channels keep only their real builds.
 - Videos are grouped when their titles share the same key words (stems, ignoring filler like "part 3", "building",
   "live", "the"), so "Making a Feral Ghoul costume Part 13" and "Making Feral Ghoul part 3" are one invention.
 - Every invention with two or more videos is kept. One-video inventions are added by views up to max_single
@@ -112,18 +116,78 @@ for i, tk, head in sorted(cand, key=lambda c: (joiner(c[0]), not c[2], V[c[0]]["
     elif not joiner(i): clusters.append(dict(core=tk, head=head, videos=[i]))
 groups = {n: cl["videos"] for n, cl in enumerate(clusters)}
 
-inv = []
+# An invention needs evidence the maker built something: a building word in a title, or the maker saying so in
+# first person in a description. Videos about history, other people's work, news or the channel itself don't count.
+BUILT = W(r"built|builds?|building (?:a|an|the|my|our|this|it|\w+ (?:from|with|out of))|building|rebuild|rebuilt|making|makes? (?:a|an|my|your own|the|it)|"
+          r"i made|we made|homemade|home-?made|hand-?made|diy|designed|designing|prototype|prototyping|restor\w*|repair\w*|"
+          r"fixing|fixed|modded|modding|modification|hack|hacked|hacking|invent\w*|invention|assembl\w*|kit|project|crafted|crafting|"
+          r"3d printed|machined|machining|welded|welding|wired|wiring|soldered|soldering|converted|conversion|replica|recreat\w*|"
+          r"v\d+|mk\s?\d+|mark [ivx\d]+|version \d+")
+THIRD = W(r"they|they're|they are|they were|they've|their|who made|who built|history of|tribute|obits?|obituary|rip|in memoriam|"
+          r"teardown|tear ?down|tour|visit\w*|museum|exhibit\w*|look at|looking at|unboxing|news|launch of|anniversary|interview|"
+          r"that building|why did i|why don't i|what is|what can|now what|meaning of|youtube|internet|women in|"
+          r"making music|make music|music with|album|track|song|single|music video|sound design|techniques?|tips|podcast|"
+          r"film|career|fair|right to|end of|videos|subscribers?|patreon|smithsonian|social|everyone dies")
+FIRST = re.compile(r"\b(?:i|we|i'm|i've|we're|we've|i'll)\s+(?:\w+\s+){0,3}?(?:built|build|building|designed|restor\w*|repair\w*|fixed|"
+                   r"modified|assembled|wired|soldered|3d printed|machined|welded|prototyped|invented|converted|hacked)\b", re.I)
+RESTORE = W(r"restor\w*|repair\w*|fixing|fixed|recap\w*|revival|revive\w*|bring\w* back to life")
+# Titles that name a made object count too ("Drunk Mel Gibson Arrest Diorama", "Perpetual Energy Wasting Machine").
+MADE_THING = W(r"diorama|sculpture|machine|robot|robotic|device|contraption|gadget|prop|costume|cosplay|helmet|armou?r|suit|gauntlet|"
+               r"camera|clock|lamp|synth|synthesi[sz]er|instrument|installation|blaster|cannon|launcher|drone|rocket|hovercraft|"
+               r"go-?kart|trike|e-?bike|exoskeleton|animatronics?|puppet|mechanism|automaton|plotter|printer|engine|turbine|"
+               r"keyboard|controller|pedal|amp|speaker|radio|transmitter|laser|tesla coil|coilgun|railgun|gizmo|invention")
+PROJECT_LINK = re.compile(r"(?:more about|about) the project|project (?:website|page)|parts list|bill of materials|\bstl\b|"
+                          r"files? (?:here|:)|github\.com|printables\.com|thingiverse\.com|instructables\.com|hackaday\.io|"
+                          r"schematics?\b|source code|build log|build instructions", re.I)
+ALWAYS_MADE = W(r"diorama|sculpture|contraption|automaton|kinetic art|installation|invention|my (?:\w+ ){0,2}(?:machine|robot|device|build)")
+BUILD_CHANNEL = [False]          # set below: object-name titles only count on channels that clearly build things
+def title_built(v, firm=False):
+    t = strip_live(v["t"])
+    if THIRD.search(t): return False
+    if BUILT.search(t) or ALWAYS_MADE.search(t): return True
+    return not firm and BUILD_CHANNEL[0] and bool(MADE_THING.search(t))
+MADE = re.compile(r"\b(?:i|we|i've|we've|i'm|we're)\s+(?:just\s+|finally\s+)?(?:made|make|making|created|creating)\s+(?:a|an|my|our|this|these|the|some|it|myself|him|her|them)\b(?!\s+(?:video|short|episode|channel|youtube|stream|livestream|vlog|announcement|decision|mistake|update))", re.I)
+def desc_built(v):
+    d = v.get("desc", "")[:300]
+    return bool(FIRST.search(d) or MADE.search(d) or PROJECT_LINK.search(v.get("desc", ""))) and not THIRD.search(strip_live(v["t"]))
+def built_by_maker(vs, top, firm=False):
+    """The video the invention is named after must look like a build, or a third of its videos must."""
+    if title_built(top, firm) or desc_built(top): return True
+    return sum(title_built(v, firm) or desc_built(v) for v in vs) * 3 >= len(vs) and len(vs) > 1
+
+_tops = [(vs := [V[i] for i in idx], max(vs, key=lambda v: (not v.get("vertical"), not LIVE.search(v["t"]), v["v"]))) for idx in groups.values()]
+firm_share = sum(built_by_maker(vs, top, firm=True) for vs, top in _tops) / max(1, len(_tops))
+BUILD_CHANNEL[0] = firm_share >= 0.25
+inv, dropped = [], 0
 for idx in groups.values():
     vs = [V[i] for i in idx]
     first = min(vs, key=lambda v: v["d"])
     top = max(vs, key=lambda v: (not v.get("vertical"), not LIVE.search(v["t"]), v["v"]))   # name it after its main edited video
+    if not built_by_maker(vs, top):
+        dropped += 1
+        continue
     nm = clean_title(top["t"])
     mw = "|".join(map(re.escape, name.split()))
     nm = re.sub(r"^(?:(?:" + mw + r")\b\s*)+[:\-|–]+\s*", "", nm, flags=re.I) or nm          # drop "EVIL TED : " prefixes
     nm = re.sub(r"\s+(?:part|pt\.?|ep\.?|episode)\s*$", "", nm, flags=re.I)
     nm = nm.title() if nm.isupper() else nm[:1].upper() + nm[1:]
     desc = first_sentence(top.get("desc", "")) or first_sentence(first.get("desc", "")) or f"{top['t'].strip()}."
-    inv.append(dict(name=nm[:70], views=sum(v["v"] for v in vs), videos=sorted(idx, key=lambda i: V[i]["d"]), desc=desc))
+    kind = "Restoration" if sum(bool(RESTORE.search(v["t"])) for v in vs) * 2 >= len(vs) else "Build"
+    inv.append(dict(name=nm[:70], kind=kind, views=sum(v["v"] for v in vs), videos=sorted(idx, key=lambda i: V[i]["d"]), desc=desc))
+
+# Human decisions that survive re-drafting: data/curation_overrides.json
+#   {slug: {"merge": {"Name": [regex]}, "drop": [regex], "keep": [regex] (if present, only matching inventions stay)}}
+_ov = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "curation_overrides.json")
+OV = (json.load(open(_ov)) if os.path.exists(_ov) else {}).get(slug, {})
+for target, pats in OV.get("merge", {}).items():
+    hit = [x for x in inv if any(re.search(p, x["name"], re.I) for p in pats)]
+    if hit:
+        keep = max(hit, key=lambda x: x["views"])
+        for x in hit:
+            if x is not keep: keep["videos"] += x["videos"]; keep["views"] += x["views"]; inv.remove(x)
+        keep["videos"].sort(key=lambda i: V[i]["d"]); keep["name"] = target
+inv = [x for x in inv if not any(re.search(p, x["name"], re.I) for p in OV.get("drop", []))]
+if OV.get("keep"): inv = [x for x in inv if any(re.search(p, x["name"], re.I) for p in OV["keep"])]   # reviewed allow-list
 
 multi = [x for x in inv if len(x["videos"]) > 1]
 single = sorted([x for x in inv if len(x["videos"]) == 1], key=lambda x: -x["views"])[:max_single]
@@ -146,11 +210,11 @@ lines = ['"""Curated inventions for ' + name + ' (' + data["channel"]["handle"] 
          'maker\'s own words). Every upload not listed here appears under "Other uploads" on the site.', '"""', '',
          'CREATOR = ' + repr(creator), '', 'INVENTIONS = [']
 for x in inv:
-    lines += [f' dict(name={json.dumps(x["name"], ensure_ascii=False)}, kind="Build",',
+    lines += [f' dict(name={json.dumps(x["name"], ensure_ascii=False)}, kind="{x["kind"]}",',
               f'  desc={json.dumps(x["desc"], ensure_ascii=False)},', '  videos=[']
     lines += [f'   {json.dumps(V[i]["id"])},  # {V[i]["d"]} {V[i]["t"][:70]}' for i in x["videos"]]
     lines += ['  ],', ' ),']
 lines += [']', '', 'OTHER = None  # None = every upload not assigned above']
 open(out, "w").write("\n".join(lines) + "\n")
 nl = sum(1 for x in inv for i in x["videos"] if LIVE.search(V[i]["t"]))
-print(f"{name}: {len(inv)} inventions ({len(multi)} multi-video) from {sum(len(x['videos']) for x in inv)} of {len(V)} uploads, {nl} streams")
+print(f"{name}: build channel {BUILD_CHANNEL[0]} ({firm_share:.0%} firm); {dropped} groups dropped as not built by the maker; {len(inv)} inventions ({len(multi)} multi-video) from {sum(len(x['videos']) for x in inv)} of {len(V)} uploads, {nl} streams")

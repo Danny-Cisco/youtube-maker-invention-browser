@@ -21,36 +21,6 @@ INVENTIONS = [
    "byppRBpTi0Q",  # 2025-02-03 ✷ TRASH PUPPET MAKING CHALLENGE ✷ (ep. 3)
   ],
  ),
- dict(name="I Want To Be Happy", kind="Build",
-  desc="Billy Pettinger (aka Billy The Kid) hired us to film a puppet-themed music video for her!",
-  videos=[
-   "6qEj9GFOIWw",  # 2022-04-13 I Want To Be Happy  - Billy Pettinger (Billy The Kid) - Music Video
-  ],
- ),
- dict(name="13 Minutes of Chaotic Puppet Energy", kind="Build",
-  desc="A compilation of funny moments that our puppets have had over the last year.",
-  videos=[
-   "NrsSJEB3-f0",  # 2023-01-27 13 Minutes of Chaotic Puppet Energy - Honey Butter Popcorn and Zigzag 
-  ],
- ),
- dict(name="Puppets First Ren Faire", kind="Build",
-  desc="Roland visits the ren faire!",
-  videos=[
-   "XiZ5UbMV8_k",  # 2023-02-11 Puppets First Ren Faire
-  ],
- ),
- dict(name="16 minutes of marionette cuteness", kind="Build",
-  desc="Meet Stanley The Ghost, Spaghetti The Clown, and Pepe the...",
-  videos=[
-   "9okd1e5m1OE",  # 2023-02-17 16 minutes of marionette cuteness
-  ],
- ),
- dict(name="Puppet Music Video! \"Our Little Revolution\" by The Lightjackets", kind="Build",
-  desc="We were recently hired by The Lightjackets to film a music video starring our puppets and we were thrilled to be part of such a fun project!",
-  videos=[
-   "si9MeOdgot0",  # 2023-03-03 Puppet Music Video! "Our Little Revolution" by The Lightjackets
-  ],
- ),
  dict(name="Emoji Puppet Making Challenge", kind="Build",
   desc="Get a little peek at our puppet cloning process as we pull inspiration from pulling random emojis from a bucket!",
   videos=[
@@ -65,20 +35,6 @@ INVENTIONS = [
   desc="To see more silly funny puppet shenanigans, follow us!",
   videos=[
    "VQmd5sCI4ZE",  # 2023-03-19 ✷ THRIFTY PUPPET MAKING CHALLENGE ✷ (ep. 1)
-  ],
- ),
- dict(name="It's a studio tour but your tour guides are a bunch of puppets", kind="Build",
-  desc="Come take a tour in our new studio!",
-  videos=[
-   "_QBuIv_zS18",  # 2023-03-25 ✷it's a studio tour but your tour guides are a bunch of puppets✷
-   "bkB09iJjWhw",  # 2024-06-29 A Studio Tour with Puppets!
-   "spEgWco2EXw",  # 2024-06-29 studio tour!
-  ],
- ),
- dict(name="12 consecutive minutes of Pinky being wholesome and adorable", kind="Build",
-  desc="If you wanted to spend a solid 12 minutes straight with Pinky, this is the video for you!",
-  videos=[
-   "t7b6LOy7AsI",  # 2023-04-01 12 consecutive minutes of Pinky being wholesome and adorable
   ],
  ),
  dict(name="How to make a simple marionette", kind="Build",
@@ -109,55 +65,10 @@ INVENTIONS = [
    "j2GxzzoeCpI",  # 2023-07-08 Meditate with a Puppet
   ],
  ),
- dict(name="Meditate with Pinky", kind="Build",
-  desc="Hey friends!",
-  videos=[
-   "iooNYGDS2sY",  # 2023-09-15 Pinky Tries To Meditate: Tiny Sitting Part 3
-   "sIkXIbXX5aQ",  # 2024-01-20 Meditate with Pinky - Reducing Stress
-  ],
- ),
- dict(name="Stanley's 2nd Annual Virtual Birthday Party", kind="Build",
-  desc="Come skele-brate the day Stanley came into our lives!",
-  videos=[
-   "C06K87zGjIQ",  # 2023-10-14 Stanley's 2nd Annual Virtual Birthday Party!
-  ],
- ),
  dict(name="Scraps Puppet Making Challenge", kind="Build",
   desc="It’s the Scraps Puppet Challenge with Ragmop & Goose!",
   videos=[
    "fAV-F1SNx1Q",  # 2024-02-10 ✷ SCRAPS PUPPET MAKING CHALLENGE ✷ (ep. 1)
-  ],
- ),
- dict(name="10 Minute Anxiety Meditation with Pinky", kind="Build",
-  desc="Feeling anxious or overwhelmed?",
-  videos=[
-   "7mjVh96mhYk",  # 2024-08-14 1 Minute Meditation with Pinky
-   "7xyUArvSdpw",  # 2025-01-06 10 Minute Anxiety Meditation with Pinky 🌸 | Ragmop & Goose | Mindful M
-   "X-1j2UoIHLw",  # 2026-06-21 10 Minute Meditation with Pinky
-  ],
- ),
- dict(name="A Tiny Ukulele For Puppets", kind="Build",
-  desc="To see more silly funny puppet shenanigans, follow us!",
-  videos=[
-   "Q8lkxtq4RfA",  # 2025-02-10 A Tiny Ukulele For Puppets! - Maker Challenge! ✂  - Ragmop & Goose 🐝
-  ],
- ),
- dict(name="The 48 Hour Rube Goldberg Machine Competition Festival", kind="Build",
-  desc="This was our submission for the 48 Hour Puppet Film Project 2026, presented by Handmade Puppet Dreams & Green Feather Foundation.",
-  videos=[
-   "fMN1u24Km6E",  # 2026-05-24 The 48 Hour Rube Goldberg Machine Competition Festival (a short film)
-  ],
- ),
- dict(name="The weirdest game of simon says", kind="Build",
-  desc="To see more silly funny puppet shenanigans, follow us!",
-  videos=[
-   "vHWodf8SAZw",  # 2026-05-31 the weirdest game of simon says
-  ],
- ),
- dict(name="Adam Savage gives a tour of The Cave to a bee", kind="Build",
-  desc="To see more silly funny puppet shenanigans, follow us!",
-  videos=[
-   "-zzGKE68T1Q",  # 2026-06-07 Adam Savage gives a tour of The Cave to a bee!
   ],
  ),
 ]

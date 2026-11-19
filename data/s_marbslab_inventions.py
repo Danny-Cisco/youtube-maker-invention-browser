@@ -7,17 +7,17 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'marbs-lab', 'name': "Marb's Lab", 'person': "Marb's Lab", 'tagline': "An explorer's lab: curious experiments and builds.", 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Short XFS5152CE Speech Synthesis Module demo", kind="Build",
+  desc="Short XFS5152CE Speech Synthesis Module demo.",
+  videos=[
+   "H7SJ6UUcWxk",  # 2023-05-10 Short XFS5152CE Speech Synthesis Module demo
+  ],
+ ),
  dict(name="My pill dispenser robot", kind="Build",
   desc="For more information on how to build it check out my project page on Hackaday.io:",
   videos=[
    "rJIi6-mT41k",  # 2023-05-14 Pill dispenser robot drum positioning test
    "RCrwI2kttXU",  # 2023-05-28 My pill dispenser robot - Hackaday Prize 2023 finalist
-  ],
- ),
- dict(name="Modified Miller–Urey experiment based on my ideas and theories", kind="Build",
-  desc="Instead of sparks, I use plasma that is controlled by a microcontroller.",
-  videos=[
-   "suCMnIyDBho",  # 2023-06-10 Modified Miller–Urey experiment based on my ideas and theories #Miller
   ],
  ),
  dict(name="Building an expansion cloud chamber from scratch", kind="Build",
@@ -47,41 +47,22 @@ INVENTIONS = [
    "emi3vWz0_0M",  # 2023-07-27 Making cupro, a synthetic silk
   ],
  ),
- dict(name="Kastle-Meyer test", kind="Build",
-  desc="The Kastle–Meyer test is a presumptive blood test, in which the chemical indicator phenolphthalein is used to detect the possible presence of hemoglobin.",
-  videos=[
-   "DYStvShjmus",  # 2023-08-02 Kastle-Meyer test (Presumptive blood test)
-  ],
- ),
  dict(name="How to build a modular Hofmann voltameter", kind="Build",
   desc="Discover electrochemistry with a homemade Hofmann voltameter.",
   videos=[
    "_8Uo_8v8WXM",  # 2023-08-04 How to build a modular Hofmann voltameter
   ],
  ),
- dict(name="Some chemistry of the bombardier beetle", kind="Build",
-  desc="The world's first functional model of a bombardier beetle, followed by a laboratory-scale synthesis of 1,4-benzoquinone, the beetle's venom.",
-  videos=[
-   "5_wMIIJ1Bcs",  # 2023-08-12 Some chemistry of the bombardier beetle #BombardierBeetle #h2o2 #potas
-  ],
- ),
- dict(name="Synthesizing of the banned insecticide lindane", kind="Build",
-  desc="Synthesis of the banned insecticide lindane.",
-  videos=[
-   "utwaGzFb7Vw",  # 2023-08-20 Synthesizing of the banned insecticide lindane - Part 1
-   "FODS-VU7twc",  # 2023-09-06 Synthesizing of the banned insecticide lindane - Part 2
-  ],
- ),
- dict(name="Improving a cheap digital handheld microscope", kind="Build",
-  desc="Construction of a digital modular microscope with individually adjustable reflected and transmitted light illumination, based on a cheap handheld digital microscope.",
-  videos=[
-   "TNx52I_PN8w",  # 2023-09-02 Improving a cheap digital handheld microscope
-  ],
- ),
  dict(name="Building Otto von Guericke's electrostatic generator", kind="Build",
   desc="Reconstruction of a historical apparatus of an electrostatic generator according to the principle of the triboelectric effect.",
   videos=[
    "zI2nuiLZZIs",  # 2023-09-08 Building Otto von Guericke's electrostatic generator
+  ],
+ ),
+ dict(name="Robots", kind="Build",
+  desc="I'm building a 6 DOF robotic arm as a lab assistant.",
+  videos=[
+   "P2UsY5YPzhI",  # 2023-09-15 Robots #shorts
   ],
  ),
  dict(name="Building a replica of Faraday's motor", kind="Build",
@@ -108,12 +89,6 @@ INVENTIONS = [
    "-pLvwzM1WRE",  # 2023-10-24 Interactive diorama lamp
   ],
  ),
- dict(name="Extracting piperine from black pepper", kind="Build",
-  desc="Extraction of piperine from black pepper using a Soxhlet apparatus, distillation, and vacuum filtration.",
-  videos=[
-   "89Q_BirPrek",  # 2023-11-27 Extracting piperine from black pepper
-  ],
- ),
  dict(name="TAST-E, the robot with a sense of taste and smell", kind="Build",
   desc="TAST-E, the robot with a sense of taste and smell - Part 1.",
   videos=[
@@ -125,24 +100,6 @@ INVENTIONS = [
   desc="Mercury(II) chloride and other mercury compounds were a popular treatment for syphilis for centuries until the first use of penicillin against syphilis in 1943.",
   videos=[
    "onqfhr6Ku8Q",  # 2023-12-13 Making an old medicine against Syphilis (mercury(II) chloride)
-  ],
- ),
- dict(name="California snowball", kind="Build",
-  desc="Making a gel similar to Sterno with a snow-like texture by using over-saturated calcium acetate and ethanol.",
-  videos=[
-   "nytw7UEgy6Q",  # 2023-12-17 California snowball
-  ],
- ),
- dict(name="Iodoform - Synthesis and antiseptic properties", kind="Build",
-  desc="Making iodoform and testing its antiseptic properties.",
-  videos=[
-   "IX8yuYeyqsc",  # 2023-12-27 Iodoform - Synthesis and antiseptic properties
-  ],
- ),
- dict(name="Two experiments with glucose oxidase", kind="Build",
-  desc="The two experiments show how to produce a glucose reagent based on glucose oxidase and how modern blood glucose meters work in principle.",
-  videos=[
-   "ESCEXPHxU-8",  # 2024-01-02 Two experiments with glucose oxidase #glucoseoxidase
   ],
  ),
  dict(name="Making azobenzene, a photoswitchable chemical compound", kind="Build",
@@ -163,6 +120,18 @@ INVENTIONS = [
    "6jzCVcKGb4k",  # 2024-01-20 Building a photochromic molecular switch
   ],
  ),
+ dict(name="Building a retractable laser light saber", kind="Build",
+  desc="It works, but there is some room for improvement:",
+  videos=[
+   "GTxHwHzAYPE",  # 2024-02-02 Building a retractable laser light saber
+  ],
+ ),
+ dict(name="Laser gun study", kind="Build",
+  desc="The laser has a continuous output of 4 W and up to 20 W in pulsed mode.",
+  videos=[
+   "kLR-Zd-iFvE",  # 2024-02-17 Laser gun study
+  ],
+ ),
  dict(name="Building an autosampler", kind="Build",
   desc="In this video, I show how I built an autosampler with a sample carousel.",
   videos=[
@@ -178,10 +147,10 @@ INVENTIONS = [
    "6w8p3fl4Q1k",  # 2024-03-16 Building a laser gun with automatic focal point adjustment - Part 2
   ],
  ),
- dict(name="Terminator T-800 Brain Chip Badge", kind="Build",
-  desc="A PCB badge featuring the iconic brain chip from Terminator 2: Judgment Day.",
+ dict(name="Building an underwater humanoid robot", kind="Build",
+  desc="I'm building an underwater humanoid robot that I want to use to explore the surrounding lakes.",
   videos=[
-   "Mp5hzbFdCfY",  # 2024-03-14 Terminator T-800 Brain Chip Badge
+   "3S-6nWhS2Uw",  # 2024-03-12 Building an underwater humanoid robot - Part 1: Pressure hull
   ],
  ),
  dict(name="Building a replica of Tesla's radio-controlled boat", kind="Build",
@@ -190,16 +159,46 @@ INVENTIONS = [
    "TJtfEC2Ql-4",  # 2024-04-20 Building a replica of Tesla's radio-controlled boat
   ],
  ),
- dict(name="Dissolving a Nobel Prize gold medal in aqua regia", kind="Build",
-  desc="Aqua regia is a fuming mixture of 37% hydrochloric acid and 66% nitric acid, optimally in a molar ratio of 1:3.",
+ dict(name="Building a desktop record and play robot arm", kind="Build",
+  desc="Small Arduino desktop 3DOF record and play robot arm.",
   videos=[
-   "sr9z-H6NyH8",  # 2024-04-27 Dissolving a Nobel Prize gold medal in aqua regia
+   "-3-MdJkPZrU",  # 2024-05-09 Building a desktop record and play robot arm
+  ],
+ ),
+ dict(name="Building a Sputnik automaton", kind="Build",
+  desc="The Sputnik automaton consists of an illuminated, handmade globe around which a model of the Sputnik1 satellite orbits.",
+  videos=[
+   "cICFkZL7vv8",  # 2024-06-26 Building a Sputnik automaton
+  ],
+ ),
+ dict(name="Crafting a birthday gift for Dr Andrew Szydlo", kind="Build",
+  desc="Crafting a birthday gift for Dr Andrew Szydlo.",
+  videos=[
+   "xlIpPKyStbo",  # 2024-06-28 Crafting a birthday gift for Dr Andrew Szydlo
   ],
  ),
  dict(name="Building a Geiger counter and testing different free available radioac", kind="Build",
   desc="DIY α, β, and γ sensitive Geiger counter I designed and built.",
   videos=[
    "Xz30onfQ6RM",  # 2024-07-18 Building a Geiger counter and testing different free available radioac
+  ],
+ ),
+ dict(name="The Abyss, an 11kg epoxy diorama", kind="Build",
+  desc="I'm a big fan of “The Abyss”, an American science fiction film from 1989 directed by James Cameron.",
+  videos=[
+   "R32K-uHPvi8",  # 2024-07-28 The  Abyss, an 11kg epoxy diorama
+  ],
+ ),
+ dict(name="Building a galvanically isolated memristor emulator", kind="Build",
+  desc="Building a galvanically isolated memristor emulator.",
+  videos=[
+   "xvpirQaqNCo",  # 2024-08-28 Building a galvanically isolated memristor emulator
+  ],
+ ),
+ dict(name="Building a light travelling clock", kind="Build",
+  desc="Building a light travelling clock.",
+  videos=[
+   "HgokhjlXu8Y",  # 2024-09-07 Building a light travelling clock
   ],
  ),
  dict(name="Building a multi-purpose electrochemistry device", kind="Build",
@@ -226,10 +225,10 @@ INVENTIONS = [
    "rkgUStPq6g4",  # 2024-11-14 Building an antimony pH meter from scratch
   ],
  ),
- dict(name="Towards an artificial chemical brain", kind="Build",
-  desc="In this video, I explore the possibilities of an artificial chemical brain.",
+ dict(name="Building a micro overhead stirrer for test tubes", kind="Build",
+  desc="An easy-to-build micro overhead stirrer, especially for micro-scale chemistry.",
   videos=[
-   "6JVp0HF4ycE",  # 2024-12-04 Towards an artificial chemical brain
+   "wE6SI_wmfrk",  # 2024-11-22 Building a micro overhead stirrer for test tubes
   ],
  ),
  dict(name="Home-made spectrometer", kind="Build",
@@ -268,28 +267,10 @@ INVENTIONS = [
    "dqyfU8cX9rE",  # 2025-04-15 Experimental estimation of absolute zero
   ],
  ),
- dict(name="Building a replica of Leeuwenhoek's single-lens microscope", kind="Build",
-  desc="Van Leeuwenhoek's one-lens microscope design was cleverer than you might think.",
-  videos=[
-   "6XdLEXdJWuY",  # 2025-05-05 Building a replica of Leeuwenhoek's single-lens microscope
-  ],
- ),
  dict(name="Experimental determination of Planck's constant using LEDs", kind="Build",
   desc="Experimental determination of Planck's constant using LEDs.",
   videos=[
    "P9X2qtBVRxA",  # 2025-05-10 Experimental determination of Planck's constant using LEDs
-  ],
- ),
- dict(name="Bringing a Crookes tube to life", kind="Build",
-  desc="I bought a Crookes tube from AliExpress, which I gave a base plate and foot made of fine wood and brass feet.",
-  videos=[
-   "rd7Y9ZRhcLs",  # 2025-05-19 Bringing a Crookes tube to life
-  ],
- ),
- dict(name="The dawn of electrochemistry", kind="Build",
-  desc="Luigi Galvani's discovery, often called “animal electricity”, refers to his observation that a frog's muscles twitched when they came into contact with two different metals.",
-  videos=[
-   "7fokM82ASSM",  # 2025-06-05 The dawn of electrochemistry
   ],
  ),
  dict(name="DIY Franck-Hertz experiment", kind="Build",
@@ -316,10 +297,22 @@ INVENTIONS = [
    "eRXgIcXboKU",  # 2025-08-01 DIY water chiller for the chemistry lab
   ],
  ),
+ dict(name="Building an immersion photometer", kind="Build",
+  desc="In this video, I show you how I built an immersion photometer and used it to analyze the Briggs-Rauscher reaction.",
+  videos=[
+   "KC5bLtkEP4U",  # 2025-09-04 Building an immersion photometer
+  ],
+ ),
  dict(name="Building a rotovap", kind="Build",
   desc="A rotary evaporator, or rotovap for short, is a piece of high-end equipment found in chemical laboratories.",
   videos=[
    "2_aZYARTpUw",  # 2025-09-06 Building a rotovap
+  ],
+ ),
+ dict(name="Building a voice-assisted adaptive robot hand", kind="Build",
+  desc="In this video, I show how I built a voice-assisted adaptive robot hand.",
+  videos=[
+   "d33K9Ws4D7Y",  # 2025-09-15 Building a voice-assisted adaptive robot hand
   ],
  ),
  dict(name="Building a low-cost xenon light source for spectrometry", kind="Build",
@@ -340,10 +333,10 @@ INVENTIONS = [
    "PMCqWTNizug",  # 2025-12-05 DIY laser module
   ],
  ),
- dict(name="N2O", kind="Build",
-  desc="Just a little video about N2O (nitrous oxide/laughing gas).",
+ dict(name="Building a high-quality launch pad for cluster/mid power rockets", kind="Build",
+  desc="This is the first part of a video series in which I will send a micro-bio lab as a payload in an amateur rocket to an altitude of about 1 km.",
   videos=[
-   "x2kbrF5kHxI",  # 2025-12-31 N2O (nitrous oxide/laughing gas)
+   "gbEQ0bslXnk",  # 2025-12-17 Building a high-quality launch pad for cluster/mid power rockets
   ],
  ),
  dict(name="Building a 3D printed rocket launch controller", kind="Build",
@@ -358,34 +351,10 @@ INVENTIONS = [
    "qYv7fb4c8s4",  # 2026-02-04 Building a portable weather station for rocketry
   ],
  ),
- dict(name="I built a single board analog computer", kind="Build",
-  desc="The analog computer features two adders, two multipliers, two integrators, two multi-purpose opamps, and function generators (square, triangle, and sine).",
-  videos=[
-   "chYhkQcEVxk",  # 2026-03-05 I built a single board analog computer (open source)
-  ],
- ),
- dict(name="Towards a neuromorphic & wetware computer", kind="Build",
-  desc="PCBs, PCB assembly, 3D printing, CNC machining, metal sheet fabrication, and injection molding — super-fast, high-quality, and very affordable.",
-  videos=[
-   "2Nnawza5svI",  # 2026-04-24 Towards a neuromorphic & wetware computer
-  ],
- ),
  dict(name="Building a terrestrial rover to explore the ecosystem", kind="Build",
   desc="In this video series, I’m building a terrestrial rover designed to explore the ecosystem.",
   videos=[
    "GHlUdUFK470",  # 2026-05-24 Building a terrestrial rover to explore the ecosystem, part 1
-  ],
- ),
- dict(name="Desktop demonstration of the Fischer-Tropsch synthesis", kind="Build",
-  desc="Since I am particularly interested in large-scale chemical processes, I decided to tackle the Fischer-Tropsch synthesis this time.",
-  videos=[
-   "EOpGNFTjKGE",  # 2026-05-27 Desktop demonstration of the Fischer-Tropsch synthesis
-  ],
- ),
- dict(name="Cracking paraffin oil on your desk", kind="Build",
-  desc="In this video, I demonstrate how cracking paraffin oil yields flammable gases and liquids.",
-  videos=[
-   "AYMe_Ub4OTM",  # 2026-06-10 Cracking paraffin oil on your desk
   ],
  ),
  dict(name="Building an organic flow battery based on green tea", kind="Build",

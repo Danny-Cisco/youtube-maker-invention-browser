@@ -21,6 +21,18 @@ INVENTIONS = [
    "OSVu7QtVRYo",  # 2019-05-19 DIY PCB on Creality 3D printer
   ],
  ),
+ dict(name="Fully mechanical camera slider", kind="Build",
+  desc="This video shows an 'in between' project of a camera slider.",
+  videos=[
+   "MZT0NriuEUg",  # 2019-03-09 Fully mechanical camera slider
+  ],
+ ),
+ dict(name="Arduino camera slider using a microphone stand", kind="Build",
+  desc="This video is again about camera sliding, but this time electronically with an Arduino UNO and a stepper motor.",
+  videos=[
+   "TXb9_Z33lzE",  # 2019-03-23 Arduino camera slider using a microphone stand
+  ],
+ ),
  dict(name="Design and print a custom connector for the Creality printer with swap", kind="Build",
   desc="In this video I show how I design a custom connector for my swappable hot end I use on my Creality CR-10 and Ender 3 pro.",
   videos=[
@@ -32,6 +44,12 @@ INVENTIONS = [
   desc="In this video I explain how I add a laser engrave to the quick tool change I have created in an earlier video.",
   videos=[
    "S5HZwtHooxw",  # 2019-04-21 Swap to laser engraving easily and align it properly on Creality CR-10
+  ],
+ ),
+ dict(name="The cheapest build surface ever! Will it work", kind="Build",
+  desc="I was busy making the preparations for my next video and I came up with an idea which turned into a whole new video!",
+  videos=[
+   "IUkSgJZ2wS8",  # 2019-05-03 The cheapest build surface ever! Will it work??
   ],
  ),
  dict(name="DIY PCB on Creality printer and nailed it", kind="Build",
@@ -55,34 +73,28 @@ INVENTIONS = [
    "LpT_Udf0geA",  # 2020-03-22 Printing food with an Ender 3 pro
   ],
  ),
- dict(name="Printing Nylon on an Ender 3", kind="Build",
-  desc="In this video I show what I've done to get my Ender 3 pro to print Nylon and carbon fiber reinforced Nylon.",
+ dict(name="First world problems solved with 3D printing", kind="Build",
+  desc="This fly swatter newspaper handle is something I have designed quite random and it turned out great I think.",
   videos=[
-   "IIns6btekOs",  # 2019-09-15 Printing (carbon fiber) Nylon on an Ender 3
+   "gHDfA-dlWj4",  # 2019-07-18 First world problems solved with 3D printing: Fly swatter
   ],
  ),
- dict(name="Detachable flexible direct drive for the Ender 3", kind="Build",
-  desc="In this video I show how I add a direct drive system with a flexible shaft from Flex3drive.",
+ dict(name="7 household items you can possibly use as build plate", kind="Build",
+  desc="In this video I perform an experiment in which I'm going to find out which of the 7 household items I found in and around the house can be used as build plate.",
   videos=[
-   "n36JhA_yFhQ",  # 2020-02-09 Detachable flexible direct drive for the Ender 3
+   "l2g5hXd9vDU",  # 2019-09-29 7 household items you can possibly use as build plate
   ],
  ),
- dict(name="Why did I blow up my stepper motor driver of my Ender 3", kind="Build",
-  desc="In this video I go a bit deeper into what happened in my previous video in which I blew up my stepper motor driver.",
+ dict(name="Hand soap upgrade! Another first world problem solved", kind="Build",
+  desc="In this video I show the problem I faced due to the amount of hand washing lately.",
   videos=[
-   "3R2sExPyiok",  # 2020-03-05 Why did I blow up my stepper motor driver of my Ender 3?
+   "jKG6umjgve0",  # 2020-03-31 Hand soap upgrade! Another first world problem solved.
   ],
  ),
  dict(name="Project Rim: insane 3D printing project", kind="Build",
   desc="In this video I announce my upcoming 3D printing project which I'll be working on.",
   videos=[
    "x9ykUgEfBrI",  # 2020-04-04 Project Rim: insane 3D printing project!
-  ],
- ),
- dict(name="Why not move the PORTAL instead of the BED", kind="Build",
-  desc="This video is my first upgrade for the CR-10 S5 which I'm going to use to print rims.",
-  videos=[
-   "zjXgxJJmE4U",  # 2020-04-17 Why not move the PORTAL instead of the BED?
   ],
  ),
  dict(name="Moving portal printer torture test, how does it perform", kind="Build",
@@ -97,22 +109,16 @@ INVENTIONS = [
    "S-iXgfNfexU",  # 2020-05-09 51 pin custom connector printed with the Anycubic Photon S resin print
   ],
  ),
- dict(name="Controlling an enclosure heater and silicon bed heater with a Duet boa", kind="Build",
-  desc="In this video I show the process of controlling a 1000W enclosure heater and 1000W bed heater with a Duet board.",
-  videos=[
-   "GUS_Uqzaf8g",  # 2020-05-23 Controlling an enclosure heater and silicon bed heater with a Duet boa
-  ],
- ),
- dict(name="Using Fusion 360 generative design to design a full-sized 3D printable", kind="Build",
-  desc="In this video I show how I use generative design in Autodesk Fusion to design a full-sized 3D printable rim to put under my Mercedes.",
-  videos=[
-   "jkHAWxU8BfE",  # 2020-06-06 Using Fusion 360 generative design to design a full-sized 3D printable
-  ],
- ),
  dict(name="How I made my own water cooling blocks and a added water cooled DyzeDe", kind="Build",
   desc="In this video I show how I add a DyzeDesign water cooled direct drive system to my CR-10 S5 with a huge 1.2mm nozzle.",
   videos=[
    "onGIa0Rgoi4",  # 2020-07-03 How I made my own water cooling blocks and a added water cooled DyzeDe
+  ],
+ ),
+ dict(name="Trying to put a Creality Ender-3 V2 together while being blindfolded", kind="Build",
+  desc="This video is a bit different from what I usually do and it's a bit of an experiment.",
+  videos=[
+   "xjGgm9f-2xk",  # 2020-07-19 Trying to put a Creality Ender-3 V2 together while being blindfolded
   ],
  ),
  dict(name="I made an INSANE enclosure out of LASER CUT SHEET METAL", kind="Build",
@@ -145,12 +151,6 @@ INVENTIONS = [
    "lBolYmhvEwA",  # 2020-11-04 I invented a NEW way of Cable Management!
   ],
  ),
- dict(name="I tried to 3D print a full-sized rim for my car out of ABS", kind="Build",
-  desc="I tried to 3D print a full-sized rim for my car out of ABS.",
-  videos=[
-   "kJhjvzcUfiE",  # 2020-11-21 I tried to 3D print a full-sized rim for my car out of ABS
-  ],
- ),
  dict(name="I made a Filament Joining RIG that works like %@#$^@", kind="Build",
   desc="My last video in which I tried to print a rim failed due to a unreliable  joint between two filament spools.",
   videos=[
@@ -168,12 +168,6 @@ INVENTIONS = [
   videos=[
    "bfxqGK7mKAo",  # 2021-01-16 I Developed my own 3D PRINTER Controller Software!
    "DQoEssmHciE",  # 2026-06-19 I Built a Custom Controller for My 3D Printer (Now Anything Is Possibl
-  ],
- ),
- dict(name="Mechanical Tool Swap system for the Creality Ender 3, it ROCKS", kind="Build",
-  desc="In this video I show my submission to the Creality Modification Masters contest.",
-  videos=[
-   "OBB5WuhNhWk",  # 2021-03-03 Mechanical Tool Swap system for the Creality Ender 3, it ROCKS!🤘
   ],
  ),
  dict(name="I WON $5000 with the Creality contest", kind="Build",
@@ -194,70 +188,22 @@ INVENTIONS = [
    "I-QlnA9cMOY",  # 2021-08-27 Hanging from a bridge to test the TRUE STRENGTH of 3D Printed ABS!
   ],
  ),
- dict(name="Creality Sermoon D1 Ultimate Extruder Upgrade", kind="Build",
-  desc="I received the Creality Sermoon D1 and I was in doubt if I should upgrade it.",
-  videos=[
-   "d2TVU9GhsII",  # 2021-09-08 Creality Sermoon D1 Ultimate Extruder Upgrade!
-  ],
- ),
- dict(name="Exploiting Pattern Recognition to print INFINITELY", kind="Build",
-  desc="Check out the video by Karl if you want to know more about this",
-  videos=[
-   "v3rPDRM3m3s",  # 2021-10-06 Exploiting Pattern Recognition to print INFINITELY!?
-  ],
- ),
  dict(name="At what Pressure does a 3D Printed rim EXPLODE? We put it to the TEST", kind="Build",
   desc="We received a lot of comments on our previous 3D printed rim video saying that pressurizing this rim would be the biggest problem and potentially dangerous.",
   videos=[
    "fKwJ7P_5sIs",  # 2021-10-23 At what Pressure does a 3D Printed rim EXPLODE? We put it to the TEST!
   ],
  ),
- dict(name="DON'T use Acetone to repair ABS parts", kind="Build",
+ dict(name="DON'T use Acetone to repair ABS parts", kind="Restoration",
   desc="In the previous video we destroyed the 3D printed ABS rim and instead of printing a new part I managed to repair it.",
   videos=[
    "YVAWq6sKhpo",  # 2021-11-20 DON'T use Acetone to repair ABS parts!
-  ],
- ),
- dict(name="This 3D PRINTABLE Extruder works with TIMING BELTS", kind="Build",
-  desc="In this video I show an experimental 3D printer extruder which uses GT-2 timing belts to push the filament.",
-  videos=[
-   "CV0sm_t--rg",  # 2021-12-22 This 3D PRINTABLE Extruder works with TIMING BELTS!
-  ],
- ),
- dict(name="Can you actually 3D print a working car wheel", kind="Build",
-  desc="In this video we show our first real test of putting a 3D printed rim under an old Mercedes.",
-  videos=[
-   "7lnvv-khE6Y",  # 2022-02-02 Can you actually 3D print a working car wheel?
-  ],
- ),
- dict(name="The BIGGEST Problem Audio Mixers Suffer; SOLVED", kind="Build",
-  desc="I solved another first world problem with 3D printing!",
-  videos=[
-   "q5zuoD4Oqiw",  # 2022-02-09 The BIGGEST Problem Audio Mixers Suffer; SOLVED!
-  ],
- ),
- dict(name="MUST HAVE and SIMPLEST mod for Ender-3 S1! Contest worthy", kind="Build",
-  desc="This is a must have mod for the Creality Ender-3 S1 and it's the simplest I ever made.",
-  videos=[
-   "VrzHth2eN8E",  # 2022-02-23 MUST HAVE and SIMPLEST mod for Ender-3 S1! Contest worthy?
-  ],
- ),
- dict(name="A 3D printed single piece guitar neck?! ft. CR-30 belt printer", kind="Build",
-  desc="In this video I show the process of making a 3D printed guitar neck out of one piece on the Creality CR-30 belt printer, AKA Naomi Wu's 3DPrintMill.",
-  videos=[
-   "-HobdwFHNtU",  # 2022-03-19 A 3D printed single piece guitar neck?! ft. CR-30 belt printer
   ],
  ),
  dict(name="Manually DRAWING with a LASER CUTTER", kind="Build",
   desc="This video shows the experimental software I built which makes it possible to control a 10 Watt laser cutter by drawing on a tablet.",
   videos=[
    "ZhpBUzBHtZk",  # 2022-04-28 Manually DRAWING with a LASER CUTTER
-  ],
- ),
- dict(name="This Extruder is a TPU Beast", kind="Build",
-  desc="In this video I show how I print the world's most flexible TPU from Diabase with a shore hardness of 60A.",
-  videos=[
-   "-LdFmPYItb0",  # 2022-05-20 This Extruder is a TPU Beast!
   ],
  ),
  dict(name="FDM resin Printing with LASERS and a 3D Printed PUMP", kind="Build",
@@ -279,28 +225,10 @@ INVENTIONS = [
    "1iF_qicnkB4",  # 2022-07-31 I Designed an Adapter to Swap Between Hotends!
   ],
  ),
- dict(name="This is how Monitor Stands should be", kind="Build",
-  desc="In this video I show how I turn the most boring part of any PC setup into something spectacular using 3D printing.",
-  videos=[
-   "Fn8Zsql6eOw",  # 2022-08-24 This is how Monitor Stands should be...
-  ],
- ),
- dict(name="We let Extruders BATTLE each other FTW", kind="Build",
-  desc="In this video we show a brutal game of tug of war between 8 extruders.",
-  videos=[
-   "0jlW4ivSDko",  # 2022-09-23 We let Extruders BATTLE each other FTW!
-  ],
- ),
  dict(name="I made a CUSTOM Nozzle that 3D Prints GEL", kind="Build",
   desc="I made a CUSTOM Nozzle that 3D Prints GEL!.",
   videos=[
    "jvjIXA4k-XU",  # 2023-02-22 I made a CUSTOM Nozzle that 3D Prints GEL!
-  ],
- ),
- dict(name="Is This System the NEXT STEP in 3D Printing", kind="Build",
-  desc="In this video I show a concept which I thought is interesting enough to try out if it actually works.",
-  videos=[
-   "AV7QsytYXOs",  # 2023-03-31 Is This System the NEXT STEP in 3D Printing?
   ],
  ),
  dict(name="You can build AWESOME things with this 3D Printed System", kind="Build",
@@ -333,7 +261,7 @@ INVENTIONS = [
    "XBJMz457pEo",  # 2024-03-28 I built an experimental 3D printer that could be groundbreaking!
   ],
  ),
- dict(name="I added a BEEFY Bondtech extruder and fixed the Creality K1", kind="Build",
+ dict(name="I added a BEEFY Bondtech extruder and fixed the Creality K1", kind="Restoration",
   desc="In this video I show how I make the Creality K1, an already fast printer, even faster!",
   videos=[
    "Q0S2c6NhEH8",  # 2024-04-26 I added a BEEFY Bondtech extruder and fixed the Creality K1!
@@ -375,18 +303,6 @@ INVENTIONS = [
    "QuZW259aIn0",  # 2025-06-11 We 3D Printed a Kayak in ONE PIECE on a Treadmill and tested it!
   ],
  ),
- dict(name="INTRODUCING: The Proper X1C", kind="Build",
-  desc="This is where Bambu Lab decided to further close down their ecosystem and because I happen to modify printers a lot here on YouTube, have one of these printers myself and am not relying on it, I felt like it's my duty…",
-  videos=[
-   "z6Solk2XQcY",  # 2025-09-05 INTRODUCING: The Proper X1C (no more Bambu Lab)
-  ],
- ),
- dict(name="I Replaced All 5 Prusa XL Tools With My Own Belt Driven Extruder", kind="Build",
-  desc="This is the start of my biggest project so far in which I will experiment with the weirdest, most cursed materials and material combinations.",
-  videos=[
-   "6jiCv7-RTYU",  # 2025-11-13 I Replaced All 5 Prusa XL Tools With My Own Belt Driven Extruder
-  ],
- ),
  dict(name="I 3D Printed Shoes That Don’t Look 3D Printed", kind="Build",
   desc="I 3D Printed Shoes That Don’t Look 3D Printed.",
   videos=[
@@ -403,18 +319,6 @@ INVENTIONS = [
   desc="Design files will be uploaded soon!",
   videos=[
    "ef0z9zrmhu4",  # 2026-04-29 I Turned my 3D printer into a Piece of Art!
-  ],
- ),
- dict(name="This INDX Mod is CLEARLY the Best", kind="Build",
-  desc="My plan for this video was to figure out how this system works, but I soon found out that it's not that easy and it was also not a secret anymore.",
-  videos=[
-   "NGAD-HehA0A",  # 2026-08-13 This INDX Mod is CLEARLY the Best
-  ],
- ),
- dict(name="I Combined CNC and 3D Printing… But Not How I Expected", kind="Build",
-  desc="Last chance to catch Fanttik’s Prime Big Deal Days savings!",
-  videos=[
-   "eDQwFdMI1rE",  # 2026-10-09 I Combined CNC and 3D Printing… But Not How I Expected
   ],
  ),
 ]

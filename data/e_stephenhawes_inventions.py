@@ -18,6 +18,12 @@ INVENTIONS = [
    "UGJqxh8WsXE",  # 2017-06-15 ATLAS Arm Episode 5 - Version 5
   ],
  ),
+ dict(name="Twitter Graduation Cap", kind="Build",
+  desc="Twitter Stream Graduation Cap.",
+  videos=[
+   "tYuW4pr6Z8U",  # 2017-05-22 Twitter Stream Graduation Cap
+  ],
+ ),
  dict(name="Wrist Mounted Flamethrower", kind="Build",
   desc="It's DONE!!",
   videos=[
@@ -25,6 +31,12 @@ INVENTIONS = [
    "dCFR3QTWqnE",  # 2018-09-11 Populating the Flamethrower Control PCB!
    "nJoeJ7d_UbU",  # 2018-09-28 The Brains! - Flamethrower Part 3
    "A_SFpVtnvXI",  # 2018-10-06 WRIST MOUNTED FLAMETHROWER! | Stephen Hawes
+  ],
+ ),
+ dict(name="Making the Exo-Arm", kind="Build",
+  desc="It's time to make the gauntlet for my flamethrower!",
+  videos=[
+   "wXYVUBZqZuk",  # 2018-09-16 Making the Exo-Arm - Flamethrower Part 2
   ],
  ),
  dict(name="Making a DIY SYNTH Module", kind="Build",
@@ -47,6 +59,18 @@ INVENTIONS = [
    "dVgg5dW0wlg",  # 2019-02-13 Urbex PIP-BOY is Alive!
   ],
  ),
+ dict(name="Introducing the GLOWTIE", kind="Build",
+  desc="This has been a labor of love for the past year of my life, and I'm beyond excited to share it with you.",
+  videos=[
+   "q1nSY2faLgM",  # 2019-02-20 Introducing the GLOWTIE!
+  ],
+ ),
+ dict(name="Building a Programmer with the Bantam Tools Mill", kind="Build",
+  desc="The Bantam Tools team sent me a mill to play with, so I built a custom programmer for the Glowtie!",
+  videos=[
+   "J9RYxR1O1gA",  # 2019-03-23 Building a Programmer with the Bantam Tools Mill!
+  ],
+ ),
  dict(name="DIY Enamel Pins", kind="Build",
   desc="Continuing to play with the Bantam Tools mill, making some DIY enamel pins!",
   videos=[
@@ -57,6 +81,12 @@ INVENTIONS = [
   desc="I hacked my Google Home into a retro radio from the 40s!",
   videos=[
    "PC2-D_Pk1s8",  # 2019-06-08 I made a RETRO Google Home!
+  ],
+ ),
+ dict(name="Designing a Eurorack Sequencer", kind="Build",
+  desc="Back at the synth game!",
+  videos=[
+   "N4pwyMeGUwE",  # 2019-06-22 Designing a Eurorack Sequencer!
   ],
  ),
  dict(name="DIY Synth - Sequencer", kind="Build",
@@ -71,10 +101,10 @@ INVENTIONS = [
    "ypL5pNuwXSc",  # 2019-07-27 Building a Smartwatch from SCRATCH!
   ],
  ),
- dict(name="My Custom Smartwatch is DONE", kind="Build",
-  desc="My custom smartwatch project is finally done!",
+ dict(name="Can I build this gadget WITHOUT LEAVING my workshop", kind="Build",
+  desc="Can I build this gadget WITHOUT LEAVING my workshop?.",
   videos=[
-   "H_yaO-nTucY",  # 2019-08-22 My Custom Smartwatch is DONE!
+   "pXDejbAhMK8",  # 2019-09-19 Can I build this gadget WITHOUT LEAVING my workshop?
   ],
  ),
  dict(name="Maker Tool Kit", kind="Build",
@@ -83,10 +113,28 @@ INVENTIONS = [
    "K-cEN0fzwe0",  # 2019-10-17 Maker Tool Kit - Things I Can't Live Without!
   ],
  ),
+ dict(name="DIY Motorized Camera Slider", kind="Build",
+  desc="Alright, it's time to build a robot for my camera!",
+  videos=[
+   "dO9BP5LPpvc",  # 2019-10-31 DIY Motorized Camera Slider! - The Mechanics
+  ],
+ ),
  dict(name="DIY CAMERA SLIDER Gets a BRAIN", kind="Build",
   desc="I finally give my motion control camera slider a brain!",
   videos=[
    "sG5N4GXpRIU",  # 2019-11-14 DIY CAMERA SLIDER Gets a BRAIN!
+  ],
+ ),
+ dict(name="Making a PCB Badge for Hackaday Supercon", kind="Build",
+  desc="Making a PCB Badge for Hackaday Supercon!.",
+  videos=[
+   "YqdBiOj8uXw",  # 2019-11-28 Making a PCB Badge for Hackaday Supercon!
+  ],
+ ),
+ dict(name="Making Cookies Using ONLY My 3D Printer", kind="Build",
+  desc="I've wondered for years if it was possible, and NOW WE KNOW.",
+  videos=[
+   "d9XLDmjVrns",  # 2019-12-20 Making Cookies Using ONLY My 3D Printer (feat. CyberCandle)
   ],
  ),
  dict(name="The Index Pick and Place Can Build Itself", kind="Build",
@@ -117,18 +165,6 @@ INVENTIONS = [
    "pKZi71ofzjw",  # 2020-03-28 Controlling 30 PnP Feeders!
   ],
  ),
- dict(name="Getting Going with OpenPnP", kind="Build",
-  desc="It's finally time to use OpenPnP!",
-  videos=[
-   "an5PXKHXsvQ",  # 2020-04-25 Getting Going with OpenPnP!
-  ],
- ),
- dict(name="Vacuum Sensors Are My Nemesis", kind="Build",
-  desc="This one was quite a struggle.",
-  videos=[
-   "6nYbVT_qe1o",  # 2020-08-01 Vacuum Sensors Are My Nemesis
-  ],
- ),
  dict(name="Using Circuit Boards Incorrectly", kind="Build",
   desc="We're using circuit boards for things they weren't designed to do, and it works better than it has any right to!",
   videos=[
@@ -139,6 +175,12 @@ INVENTIONS = [
    "GoLCS8zTNdU",  # 2022-04-23 Using Circuit Boards Incorrectly
    "NmVXJSBrBqg",  # 2024-03-23 This Box Builds Circuit Boards
    "doJgSvhcpjE",  # 2024-09-28 Making Circuit Boards WITHOUT Solder
+  ],
+ ),
+ dict(name="Makercast", kind="Build",
+  desc="Maker Cast is a monthly live show featuring a bunch of YouTube makers.",
+  videos=[
+   "dbRtQj1PdRs",  # 2020-09-06 Makercast - Episode 20
   ],
  ),
  dict(name="The Return of the Feeder", kind="Build",
@@ -177,12 +219,6 @@ INVENTIONS = [
    "hnVti81RqtE",  # 2021-01-23 PnP Feeder Addressing: 1-Wire to the Rescue!
   ],
  ),
- dict(name="Mid-Scale Manufacturing", kind="Build",
-  desc="An article about starting to do mid-scale manufa",
-  videos=[
-   "WmlhfJ_X49Y",  # 2021-02-20 Mid-Scale Manufacturing
-  ],
- ),
  dict(name="Running Multi-Feeder Jobs", kind="Build",
   desc="We are finally running multi feeder jobs!",
   videos=[
@@ -193,30 +229,6 @@ INVENTIONS = [
   desc="We took a crack at making a conveyor belt for the pick and place, but it was not without its problems.",
   videos=[
    "JIuBd-K8M5o",  # 2021-04-03 PnP Conveyor Belt gets Motorized Clamps!
-  ],
- ),
- dict(name="PnP Calibration with Computer Vision", kind="Build",
-  desc="So far, all of the component placement with the Index PnP has been dead reckoning; we THINK we know where things are, and so we place them blind.",
-  videos=[
-   "0I7ByPwgO54",  # 2021-04-17 PnP Calibration with Computer Vision!
-  ],
- ),
- dict(name="The Index Gets Proper Belt Tensioning", kind="Build",
-  desc="It's time to start validating the machine, but before we do, there's one final pass of CAD changes to make!",
-  videos=[
-   "EN0TxylB010",  # 2021-05-15 The Index Gets Proper Belt Tensioning!
-  ],
- ),
- dict(name="Index Machines", kind="Build",
-  desc="And so it begins!",
-  videos=[
-   "s5ayC8IlhFU",  # 2021-06-26 Index Machines: Our first product!
-  ],
- ),
- dict(name="Open Source Makes Better Designs", kind="Build",
-  desc="Open Source Makes Better Designs - Index PnP - Mobo REV03.",
-  videos=[
-   "0T4SBiYb0Ns",  # 2021-07-24 Open Source Makes Better Designs - Index PnP - Mobo REV03
   ],
  ),
  dict(name="Sourcing Parts for a Hardware Product", kind="Build",
@@ -237,12 +249,6 @@ INVENTIONS = [
    "MpwVl5LJBy8",  # 2021-09-18 This Machine Finds Soldering Mistakes
   ],
  ),
- dict(name="Fully Automated PCB Testing", kind="Build",
-  desc="The fully automatic motherboard test jig is done!",
-  videos=[
-   "g2478l8GVkk",  # 2021-10-02 Fully Automated PCB Testing
-  ],
- ),
  dict(name="How to Panelize PCBs in KiCAD", kind="Build",
   desc="Panelizing a PCB makes it much easier to assemble a bunch of them on a Pick and Place!",
   videos=[
@@ -253,12 +259,6 @@ INVENTIONS = [
   desc="We're preparing to make a bunch of motherboards, so Lucian and I have been setting up an SMT production line in the shop!",
   videos=[
    "ISUOGHvOcKE",  # 2021-10-30 Setting up an SMT line at home!
-  ],
- ),
- dict(name="We Got a Cease and Desist", kind="Build",
-  desc="Unfortunately not clickbait!",
-  videos=[
-   "H8X38fbqWUM",  # 2021-12-04 We Got a Cease and Desist
   ],
  ),
  dict(name="Outgrowing the Garage", kind="Build",
@@ -303,34 +303,10 @@ INVENTIONS = [
    "ldUsnz3W-M8",  # 2022-06-25 Introducing LumenPnP v3
   ],
  ),
- dict(name="Mass Production SMT Line", kind="Build",
-  desc="Assembling circuit boards in mass production is a whole different ball game.",
-  videos=[
-   "y0Qk8nNxyXY",  # 2022-07-16 Mass Production SMT Line!
-  ],
- ),
- dict(name="Feeders just got a whole lot smaller", kind="Build",
-  desc="The LumenPnP feeders are trimming down!",
-  videos=[
-   "nHF0D_noWAw",  # 2022-08-13 Feeders just got a whole lot smaller
-  ],
- ),
- dict(name="Writing a hardware testing suite from scratch", kind="Build",
-  desc="I wrote a Python app that automatically tests a ton of different things about the LumenPnP to make sure it's working perfectly before we ship it!",
-  videos=[
-   "Ff8PJi9zeeo",  # 2022-09-10 writing a hardware testing suite from scratch
-  ],
- ),
  dict(name="Soldering PCBs with molten metal", kind="Build",
   desc="turns out: bowl of molten metal = instant soldering.",
   videos=[
    "jrxYez7Sjiw",  # 2022-10-22 soldering PCBs with molten metal
-  ],
- ),
- dict(name="Prepping for launch", kind="Build",
-  desc="I've been spending lots of time tuning and tweaking the LumenPnP Feeder, and now it's time to test the heck out of it!",
-  videos=[
-   "k3fSadTA3_E",  # 2022-12-17 prepping for launch
   ],
  ),
  dict(name="Feeders are here", kind="Build",
@@ -344,6 +320,12 @@ INVENTIONS = [
   desc="I am SO GLAD I built this thing.",
   videos=[
    "stowZdroXyM",  # 2023-05-27 Some jigs you have to build yourself
+  ],
+ ),
+ dict(name="Hacking the lumen for Open Sauce", kind="Build",
+  desc="hacking the lumen for Open Sauce.",
+  videos=[
+   "riW7jcmBfHs",  # 2023-07-22 hacking the lumen for Open Sauce
   ],
  ),
  dict(name="Turn any toaster oven into a reflow oven", kind="Build",
@@ -400,12 +382,6 @@ INVENTIONS = [
    "wAiGCyZZq6w",  # 2025-01-04 Prototype PCBs faster than 3D Prints
   ],
  ),
- dict(name="I finally solved Wide Feeders", kind="Build",
-  desc="I finally solved Wide Feeders.",
-  videos=[
-   "UxjwHhy7ius",  # 2025-04-05 I finally solved Wide Feeders
-  ],
- ),
  dict(name="Make and Assemble PCBs on your Workbench", kind="Build",
   desc="You can fully fabricate and assemble PCBs from scratch, right on your workbench!",
   videos=[
@@ -416,12 +392,6 @@ INVENTIONS = [
   desc="Stressed about certs?",
   videos=[
    "NCjFhsOvi2I",  # 2025-07-12 Getting Certified: Start to Finish
-  ],
- ),
- dict(name="Never buy solder stencils again", kind="Build",
-  desc="The paste dispenser can now automatically paste your PCBs!",
-  videos=[
-   "_qklxlJc-04",  # 2025-07-26 Never buy solder stencils again
   ],
  ),
  dict(name="The Last PCB You'll Ever Buy", kind="Build",

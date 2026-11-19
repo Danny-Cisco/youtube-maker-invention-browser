@@ -173,12 +173,6 @@ INVENTIONS = [
    "oIxwM0oy1HU",  # 2026-02-20 [Satisfying] I Built a Retro Radar Weather Clock
   ],
  ),
- dict(name="What Can This Tiny Laser Engraver Do", kind="Build",
-  desc="In this video, I test how easy it is to set up, use the LaserPecker Design Space app, and engrave different materials with clean, sharp results.",
-  videos=[
-   "cqyVnEmrqc8",  # 2026-02-27 [Satisfying] What Can This Tiny Laser Engraver Do?
-  ],
- ),
  dict(name="Make Your Own Fallout Smart Watch", kind="Build",
   desc="In this project, I built a Fallout-style smart watch powered by the XIAO ESP32-S3.",
   videos=[
@@ -203,12 +197,6 @@ INVENTIONS = [
   desc="In this video, I unbox, assemble, and test the LaserPecker LP2 Plus — a compact laser engraver packed with powerful features.",
   videos=[
    "ZF2wUGY4heI",  # 2026-06-11 [Satisfying] One Laser Engraver, Endless Possibilities | LaserPecker L
-  ],
- ),
- dict(name="I Turned an Old Phone into a Tablet", kind="Build",
-  desc="Using Samsung DeX, a portable touchscreen monitor, and a large custom battery pack, the result feels surprisingly close to a real computer while remaining compact and portable.",
-  videos=[
-   "JEYg-48vNX0",  # 2026-06-19 [Satisfying] I Turned an Old Phone into a Tablet
   ],
  ),
  dict(name="I Built an ASCII Aquarium Clock", kind="Build",

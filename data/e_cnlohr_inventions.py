@@ -7,23 +7,17 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'cnlohr', 'name': 'CNLohr', 'person': 'CNLohr', 'tagline': "Embedded hacks: tiny microcontrollers doing things they shouldn't.", 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="GPGPU Ray Tracing Demo", kind="Build",
-  desc="GPGPU Ray Tracing Demo.",
-  videos=[
-   "n3DfQfNHmdE",  # 2007-11-09 GPGPU Ray Tracing Demo
-  ],
- ),
- dict(name="PS3 GPU Use in Linux", kind="Build",
-  desc="This is an example of some code running on Linux, under the hypervisor talking to the Nvidia RSX (video card) on the PlayStation 3.",
-  videos=[
-   "vuRLsB2q7QY",  # 2007-11-15 PS3 GPU Use in Linux
-  ],
- ),
  dict(name="Non Euclidean GPU Ray Tracing Test", kind="Build",
   desc="I wrote a GPU-based minecraft raytracer a while back, and I decided to do something with it that cannot be done using traditional rendering (at least to my knowledge).",
   videos=[
    "zxEsyukiRw4",  # 2008-04-01 Ray Tracing on the GPU Part II
    "0pmSPlYHxoY",  # 2011-07-16 Non Euclidean GPU Ray Tracing Test
+  ],
+ ),
+ dict(name="Optical Pads and StepMania Machine", kind="Build",
+  desc="StepMania running on a nondescript arcade cabinet with Generation 3 infrared optical pads.",
+  videos=[
+   "5Nw8j8Xw9_Y",  # 2008-04-18 Optical Pads and StepMania Machine
   ],
  ),
  dict(name="\"No! Euclid!\" GPU Ray Tracer gets an upgrade", kind="Build",
@@ -41,10 +35,10 @@ INVENTIONS = [
    "ZAd8Oe9dDbU",  # 2010-02-20 GPU Music 2
   ],
  ),
- dict(name="Still Alive by Gamer Symphony Orchestra", kind="Build",
-  desc="This is a video from the May 7, 2011 College Park Gamer Symphony Orchestra concert.",
+ dict(name="AVR Capacitive Touch Sensor Slider and Spinner", kind="Build",
+  desc="This is a demonstration of a firmware-based AVR slider and spinner using capacitive touch sensing.",
   videos=[
-   "ACeY3tgp3iY",  # 2011-05-08 Still Alive by Gamer Symphony Orchestra
+   "kWCsBwKYi9E",  # 2011-06-17 AVR Capacitive Touch Sensor  Slider and Spinner
   ],
  ),
  dict(name="AVR Clear Glass PCB Clock", kind="Build",
@@ -60,23 +54,22 @@ INVENTIONS = [
    "Rf5HBLzDGQA",  # 2011-09-08 How to make Clear Glass PCBs
   ],
  ),
+ dict(name="Eye of the Tiger on the 8-bit AVR synth", kind="Build",
+  desc="Dom and Will trying to play Eye of the Tiger by Survivor on the 8-Bit keyboard synth and Will on drums.",
+  videos=[
+   "HghTHD3RYKQ",  # 2011-09-15 Eye of the Tiger on the 8-bit AVR synth
+  ],
+ ),
+ dict(name="AVR PS2 Computer Keyboard Synth", kind="Build",
+  desc="I made this thing called an \"8-bit yellow box\" a while back that has DMX-512, MIDI in/out, an effects processor -- and what's featured here, a synth feature.",
+  videos=[
+   "aqoeMwyFi68",  # 2011-09-15 AVR PS2 Computer Keyboard Synth
+  ],
+ ),
  dict(name="GBC-H220 Gear Modification for Printing Circuit Boards", kind="Build",
   desc="GBC-H220 Gear Modification for Printing Circuit Boards.",
   videos=[
    "ZBM7p78B27k",  # 2012-05-17 GBC-H220 Gear Modification for Printing Circuit Boards
-  ],
- ),
- dict(name="Sealing electronics in silicone using Tegaderm", kind="Build",
-  desc="When you're potting electronics, sometimes you have irregular surfaces, side entries, and other problems that would prohibit you from sinking the electronics in a container to pot them with.",
-  videos=[
-   "8UAlHatuFXE",  # 2012-06-02 Sealing electronics in silicone using Tegaderm
-  ],
- ),
- dict(name="Nintendo Zapper with Color Light Sensor", kind="Build",
-  desc="I added an ADJD-S311-CR999 photo sensor, a LSM303DLHCTR accelerometer/magnetometer/thermometer, and an ATMega8u2 in to a Nintendo Zapper.",
-  videos=[
-   "alBHtmm964E",  # 2012-09-24 Zapper with Color Light Sensor (short version)
-   "gyejLFW_TCg",  # 2012-09-24 Nintendo Zapper with Color Light Sensor (Long version)
   ],
  ),
  dict(name="My 100 Watt LED Flashlight", kind="Build",
@@ -91,29 +84,11 @@ INVENTIONS = [
    "K11rOOcilaY",  # 2012-11-10 Toaster oven reflow soldering a glass PCB
   ],
  ),
- dict(name="Minecraft Server on a Microscope Slide", kind="Build",
-  desc="I continued work with my TCP/IP stack and needed a way of testing it...",
-  videos=[
-   "EZRLOanNQ_w",  # 2012-11-15 Minecraft Server on a Microscope Slide
-  ],
- ),
- dict(name="\"Meteors\" from landmark Atari lawsuit unveiled 30 years later", kind="Build",
-  desc="In 1979, Atari made Asteroids...",
-  videos=[
-   "jotEgcEY6-w",  # 2012-12-16 "Meteors" from landmark Atari lawsuit unveiled 30 years later.
-  ],
- ),
  dict(name="MAGFest Supporter and Staff Badges", kind="Build",
   desc="If you happen to want to, your badge can be a functional useless development environment for an AVR.",
   videos=[
    "5rhXUWMOKPk",  # 2013-01-01 How-to Construct your MAGFest 11 Staff or Supporter Badge
    "LT3mv_EQp5Q",  # 2013-01-01 MAGFest Supporter and Staff Badges
-  ],
- ),
- dict(name="Slow Mo - Top DDR/ITG Players - How fast are they", kind="Build",
-  desc="I also had my NEX-5N, ready to go at 60 FPS.",
-  videos=[
-   "FNpVPPACFWk",  # 2013-01-11 Slow Mo - Top DDR/ITG Players - How fast are they?
   ],
  ),
  dict(name="DIY PCBs on thermal tape", kind="Build",
@@ -122,10 +97,10 @@ INVENTIONS = [
    "PHNphoskSTQ",  # 2013-01-15 DIY PCBs on thermal tape - Put them on heat sinks!
   ],
  ),
- dict(name="How I surface mount my PCB components", kind="Build",
-  desc="A few people have asked me how /I/ do my surface mount...well, it took me a long time to really settle on a process, and this is it.",
+ dict(name="Linux on a Microscope Slide AVR", kind="Build",
+  desc="This is Linux running on my Microscope Slide Minecraft Server...",
   videos=[
-   "h-NG8Vk1aC0",  # 2013-01-30 How I surface mount my PCB components.
+   "ENNZ5QNrHNQ",  # 2013-02-16 Linux on a Microscope Slide AVR (sort of)
   ],
  ),
  dict(name="Color NTSC video on an AVR without an AD723", kind="Build",
@@ -134,10 +109,10 @@ INVENTIONS = [
    "yhUCM9N-OKc",  # 2013-03-25 Color NTSC video on an AVR without an AD723
   ],
  ),
- dict(name="Let's Learn: NTSC Part 1A", kind="Build",
+ dict(name="Let's Code: NTSC Part 2B", kind="Build",
   desc="I'm trying something new, I'm trying a let's learn / let's code series.",
   videos=[
-   "X24zDXz8Xgc",  # 2013-03-29 Let's Learn: NTSC Part 1A (Basics)
+   "zaAr-h0KB4w",  # 2013-03-29 Let's Code: NTSC Part 2B (Chroma)
   ],
  ),
  dict(name="More Failed Attempts at a Chainsaw Engine Power Source", kind="Build",
@@ -147,28 +122,10 @@ INVENTIONS = [
    "CeV4K5kYCI8",  # 2013-05-10 More Failed Attempts at a Chainsaw Engine Power Source
   ],
  ),
- dict(name="Why I wax my car", kind="Build",
-  desc="Why I wax my car..",
-  videos=[
-   "cWpdxGBB5ao",  # 2013-05-13 Why I wax my car.
-  ],
- ),
  dict(name="Capacitive Touch Sensors on an AVR without QTouch", kind="Build",
   desc="I've received a number of requests about how I do my touch sensors.",
   videos=[
    "BO3umH4Ht8o",  # 2013-06-10 Capacitive Touch Sensors on an AVR without QTouch (Let's Learn and Cod
-  ],
- ),
- dict(name="AVR Communicating with Transcend WiFi SD", kind="Build",
-  desc="Transcend makes some cool WiFi SD cards, and they are super open.",
-  videos=[
-   "-Z9TrZQw16s",  # 2013-10-09 AVR Communicating with Transcend WiFi SD
-  ],
- ),
- dict(name="Use Bismuth Low-Temp Solder Paste", kind="Build",
-  desc="I was browsing digikey and came across this:",
-  videos=[
-   "hVxDJbmCN8o",  # 2013-11-08 Use Bismuth Low-Temp Solder Paste!
   ],
  ),
  dict(name="Vector Display Output from a VGA Port", kind="Build",
@@ -183,10 +140,10 @@ INVENTIONS = [
    "G5eo5d8F5DU",  # 2014-05-25 Running Minecraft on a CNC Wood Router
   ],
  ),
- dict(name="Bit-banging Ethernet on an ATTiny85", kind="Build",
-  desc="So, I found a really terrible way of getting my ATTiny85 to send ethernet packets.",
+ dict(name="Half-Duplex Ethernet with just an ATTiny85", kind="Build",
+  desc="TX and RX actually works.",
   videos=[
-   "mwcvElQS-hM",  # 2014-08-29 Bit-banging Ethernet on an ATTiny85
+   "m4f4OzEyueg",  # 2014-09-05 Half-Duplex Ethernet with just an ATTiny85
   ],
  ),
  dict(name="Adding wifi to a desk lamp with the Wi07C", kind="Build",
@@ -216,6 +173,12 @@ INVENTIONS = [
    "__ECzxnvEg8",  # 2014-10-04 ATTiny85 four-component megaphone.
   ],
  ),
+ dict(name="My Wifi Cup - ESP8266 Link Tests", kind="Build",
+  desc="I decided to add wifi to one of my roommate's cups.",
+  videos=[
+   "3LiMAG4viWA",  # 2014-11-06 My Wifi Cup - ESP8266 Link Tests
+  ],
+ ),
  dict(name="World's Smallest Minecraft Server", kind="Build",
   desc="Board is .46\" x .64\"  (12mm x 16mm) - though I think I can make it smaller.",
   videos=[
@@ -226,6 +189,18 @@ INVENTIONS = [
   desc="NOTE: Many USB to Serial dongles cannot provide sufficient 3.3v rail to power an ESP.",
   videos=[
    "pWo-ErpVZC4",  # 2014-12-06 Making your own C programs for the ESP8266
+  ],
+ ),
+ dict(name="AVR Code Piplining", kind="Build",
+  desc="AVR Code Piplining: To do what may seem impossible..",
+  videos=[
+   "Y5ldIov4JmM",  # 2014-12-16 AVR Code Piplining: To do what may seem impossible.
+  ],
+ ),
+ dict(name="ColorChord 2: Fugue In D Minor", kind="Build",
+  desc="ColorChord is an open source sound-to-light mapper.",
+  videos=[
+   "s8qWqYTpCN4",  # 2015-01-20 ColorChord 2: Fugue In D Minor
   ],
  ),
  dict(name="High Res Wifi Signal Mapping", kind="Build",
@@ -246,18 +221,6 @@ INVENTIONS = [
    "3n76iMTHXuE",  # 2015-06-16 Trying to make WiFlier, a Wifi enabled Quadcopter
   ],
  ),
- dict(name="How to properly remove double sided foam tape", kind="Build",
-  desc="How to properly remove double sided foam tape.",
-  videos=[
-   "KBb8JxHrNEE",  # 2015-07-01 How to properly remove double sided foam tape
-  ],
- ),
- dict(name="PCBs done quick", kind="Build",
-  desc="There's been a lot of hubbub on the internet about making PCBs using these new PCB printers.",
-  videos=[
-   "2eRdbvGXkio",  # 2015-08-06 PCBs done quick.
-  ],
- ),
  dict(name="Using I2S on the ESP8266 to drive WS2812Bs", kind="Build",
   desc="Using I2S on the ESP8266 to drive WS2812Bs..",
   videos=[
@@ -268,12 +231,6 @@ INVENTIONS = [
   desc="Websockets are ...",
   videos=[
    "8ISbmQTbjDI",  # 2015-08-18 WebSockets for awesome on the ESP8266
-  ],
- ),
- dict(name="When single-layer PCBs aren't enough", kind="Build",
-  desc="I tried making a single layer PCB for my ESP8266 projects.",
-  videos=[
-   "L-ReAvSfAiQ",  # 2015-08-31 When single-layer PCBs aren't enough.
   ],
  ),
  dict(name="Broadcasting Analog TV on an ESP8266", kind="Build",
@@ -312,11 +269,16 @@ INVENTIONS = [
    "_GQMZg_5FPE",  # 2016-04-05 Remote Wifi Sniffing Station with an ESP8266
   ],
  ),
- dict(name="Printing Glass Circuit Boards", kind="Build",
-  desc="Here I am showing how I actually make my glass circuit boards.",
+ dict(name="Soldering a 0.4mm BSC Accelerometer", kind="Build",
+  desc="Ever afraid of the new 0.4mm parts?",
   videos=[
-   "s_r8QfjhWlo",  # 2016-07-17 Part 3: Getting glass circuit boards to work!
-   "rj4qe6bdu7k",  # 2016-07-17 Part 2: Printing Glass Circuit Boards
+   "j7u3SwlVAhg",  # 2016-06-27 Soldering a 0.4mm BSC Accelerometer
+  ],
+ ),
+ dict(name="ColorChord 2 - David Chapman Plays Sax", kind="Build",
+  desc="There will be more colorchord videos, soon!",
+  videos=[
+   "DYoK4cZoZ_0",  # 2016-07-23 ColorChord 2 - David Chapman Plays Sax
   ],
  ),
  dict(name="Musings on writing a software USB stack", kind="Build",
@@ -330,6 +292,12 @@ INVENTIONS = [
   videos=[
    "tz7tK7O42Tw",  # 2016-08-21 Making an ESP8266 Wifi Keyboard+Mouse
    "FPBzOaLbWhM",  # 2016-08-31 Wifi Controlled USB Mouse and Keyboard (ESP8285)
+  ],
+ ),
+ dict(name="What does this Y USB thing do", kind="Build",
+  desc="Or, more specifically, what happens when you plug it into cell phones and find the best way I've ever found to make a tweet?",
+  videos=[
+   "ka-MDno5woI",  # 2016-09-04 What does this Y USB thing do?
   ],
  ),
  dict(name="Trying to do 3D Localization using ESP8266's", kind="Build",
@@ -359,22 +327,16 @@ INVENTIONS = [
    "JsfkNRFkFM4",  # 2017-02-07 Vive Live Stream #6 - Progress summary and intersections!
   ],
  ),
+ dict(name="Battery + IMU + ESP = esplocalizer", kind="Build",
+  desc="Ever want to do a project with an ESP where having a battery would be helpful?",
+  videos=[
+   "rcULgXu4OSs",  # 2016-12-30 Battery + IMU + ESP = esplocalizer
+  ],
+ ),
  dict(name="Adding Wifi to a $3 Multimeter", kind="Build",
   desc="Will we succeed?",
   videos=[
    "sQcOFtQBlzw",  # 2017-02-06 Adding Wifi to a $3 Multimeter: Fireside Hacks
-  ],
- ),
- dict(name="A very wifi lawn", kind="Build",
-  desc="We took about 175 MAGFest 2017 Swadges and put them on my lawn.",
-  videos=[
-   "DbjlStyMmaY",  # 2017-02-16 A very wifi lawn - real-time signal strength
-  ],
- ),
- dict(name="2,000 ESP8266's for MAGFest", kind="Build",
-  desc="2,000 ESP8266's for MAGFest.",
-  videos=[
-   "8WCIu-3OFEQ",  # 2017-02-16 2,000 ESP8266's for MAGFest
   ],
  ),
  dict(name="The making of CNLohr's Computer Case", kind="Build",
@@ -396,12 +358,6 @@ INVENTIONS = [
    "azyt_Vt96bg",  # 2018-04-01 Wireless Vive with an Orange Pi (libsurvive #13)
   ],
  ),
- dict(name="Vive development prototypes from Valve", kind="Build",
-  desc="Vive development prototypes from Valve..",
-  videos=[
-   "vH42GIDszHY",  # 2017-06-20 Vive development prototypes from Valve.
-  ],
- ),
  dict(name="Cypress FX3 as a Possible Logic Analyzer", kind="Build",
   desc="Software is working in windows with the canned CyUSB3.sys drivers in Windows.",
   videos=[
@@ -412,6 +368,12 @@ INVENTIONS = [
   desc="I wanted to see how low power the ESP8266 could be if it was no longer constrained by the infrastructure of 802.11.",
   videos=[
    "I3lJWcRSlUA",  # 2018-01-16 Aggressively Low Power with the ESP8266
+  ],
+ ),
+ dict(name="Serial terminal into a vive lighthouse", kind="Build",
+  desc="This video was recorded on May 27, 2017.",
+  videos=[
+   "OZ_YPILt_Jo",  # 2018-01-26 Serial terminal into a vive lighthouse.
   ],
  ),
  dict(name="Vive 2.0 Lighthouse Reverse Engineering", kind="Build",
@@ -440,10 +402,10 @@ INVENTIONS = [
    "2eOsN096ZbE",  # 2019-01-03 Fun with the ESP8266's BBPLL
   ],
  ),
- dict(name="SpyTag an ESP8266 Humans v Zombies-like game", kind="Build",
-  desc="SpyTag an ESP8266 Humans v Zombies-like game.",
+ dict(name="Unit-E's Luxetron running ColorChord", kind="Build",
+  desc="Check out Declan DP's video (And channel!) Much thanks for him granting permission to use!",
   videos=[
-   "TjCUs_oYcsY",  # 2019-02-01 SpyTag an ESP8266 Humans v Zombies-like game
+   "MOP8I-7rA_8",  # 2019-01-14 Unit-E's Luxetron running ColorChord
   ],
  ),
  dict(name="What is CNOVR", kind="Build",
@@ -462,6 +424,12 @@ INVENTIONS = [
    "Cz_LvaN36Ag",  # 2020-05-04 Android WITHOUT JAVA
   ],
  ),
+ dict(name="Tensegrity Lamp Running ColorChord on Android with USB in C", kind="Build",
+  desc="There's a bunch of links for what's going on in this project.",
+  videos=[
+   "Y3O6m3otNO0",  # 2020-05-20 Tensegrity Lamp Running ColorChord on Android with USB in C
+  ],
+ ),
  dict(name="Trolling My Mom With an E-Paper Picture", kind="Build",
   desc="Ben, over at Applied Science made a video on e-paper displays and got me hooked on this thing.",
   videos=[
@@ -469,10 +437,28 @@ INVENTIONS = [
    "YawP9RjPcJA",  # 2020-10-28 Trolling My Mom With an E-Paper Picture
   ],
  ),
- dict(name="A Deep Dive into VR", kind="Build",
-  desc="Join me on my one year journey descending deep into the world of VRChat.",
+ dict(name="Installing the esp82xx toolchain", kind="Build",
+  desc="Minecraft, Channel3 and all of my other projects.",
   videos=[
-   "hVWlgh8QP5s",  # 2021-12-02 A Deep Dive into VR - A new Social Reality
+   "LiKNRBIcGII",  # 2020-08-17 Installing the esp82xx toolchain (ESP8266 development)
+  ],
+ ),
+ dict(name="Esp8266_dmx_explorer", kind="Build",
+  desc="I hooked some ipixelLED LEDs up to an esp8266 swadge today.",
+  videos=[
+   "fbVMzmAWoGo",  # 2020-09-21 esp8266_dmx_explorer: DMX with a web-based frontend + accepts raw UDP 
+  ],
+ ),
+ dict(name="Poly LMN: Nanomaterials for Making Stretchy Circuit Boards", kind="Build",
+  desc="PolyLMN is short for Polymerized Liquid Metal, a new nanomaterial that unlocks a world of new flexible conductive electronics with some crazy properties.",
+  videos=[
+   "CU8ugPsuXG8",  # 2020-11-19 Poly LMN: Nanomaterials for Making Stretchy Circuit Boards
+  ],
+ ),
+ dict(name="One hour. Two ways. C in Windows. OpenVR overlays from scratch", kind="Build",
+  desc="One hour. Two ways. C in Windows. OpenVR overlays from scratch..",
+  videos=[
+   "r6kM3tR03g4",  # 2021-04-07 One hour. Two ways. C in Windows. OpenVR overlays from scratch.
   ],
  ),
  dict(name="Writing a Really Tiny RISC-V Emulator", kind="Build",

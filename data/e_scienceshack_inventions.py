@@ -19,12 +19,6 @@ INVENTIONS = [
    "vATwzbZwwG8",  # 2016-08-14 Newton's Flaming Laser Sword
   ],
  ),
- dict(name="How We Play Music With Tesla Coils", kind="Build",
-  desc="These are our twin homemade Tesla Coils.",
-  videos=[
-   "cdmSlp2Mt6Q",  # 2016-09-19 How We Play Music With Tesla Coils - See It In Action!
-  ],
- ),
  dict(name="Building a Drone to Fish With", kind="Build",
   desc="This is our DIY custom  heavy duty hexacopter drone we use for dropping shark baits out behind the surf line.",
   videos=[
@@ -43,22 +37,10 @@ INVENTIONS = [
    "hliMxjl60wo",  # 2017-10-10 We Converted a Walmart bicycle Into a Speedy E-Bike
   ],
  ),
- dict(name="How We Use High Voltage To Create Unique Lightning Pattern Artwork", kind="Build",
-  desc="Using high voltage to create Lichtenberg Figures in in wood.",
-  videos=[
-   "by-knPdR8GY",  # 2017-11-05 How We Use High Voltage To Create Unique Lightning Pattern Artwork
-  ],
- ),
  dict(name="I Got Shot With An Air Cannon", kind="Build",
   desc="We decided we needed an air cannon after finding an old compressor tank in the shed out back.",
   videos=[
    "IWD7ihmiMhE",  # 2017-11-07 I Got Shot With An Air Cannon!
-  ],
- ),
- dict(name="Just Blowing S#!T Up For Fun With High Voltage", kind="Build",
-  desc="Blowing up stuff with a high voltage capacitor bank.",
-  videos=[
-   "CDZWztFcAMc",  # 2018-02-03 Just Blowing S#!T Up For Fun With High Voltage
   ],
  ),
  dict(name="Building a Nuclear Dice Set to Ensure Truly Random Numbers", kind="Build",

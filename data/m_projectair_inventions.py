@@ -7,12 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'project-air', 'name': 'ProjectAir', 'person': 'ProjectAir', 'tagline': 'Planes, rockets and boats.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="How to WATER PROOF FOAM BOARD", kind="Build",
-  desc="Ever wondered how to make your foam board planes last longer and not be subjugated to the ravages of time (and water)?",
-  videos=[
-   "YyvGPNhvT1E",  # 2017-05-20 How to WATER PROOF FOAM BOARD!
-  ],
- ),
  dict(name="RC Bluebird K7", kind="Build",
   desc="The RC Bluebird K7 Hydroplane has been completed and successfully run on Coniston Waters.",
   videos=[
@@ -24,12 +18,6 @@ INVENTIONS = [
   desc="An RC Airplane build montage and time-lapse video of a Flite Test FT Scout which will be used for scale FPV missions in the near future!",
   videos=[
    "nK9VsA1mP7c",  # 2017-10-10 RC Plane (FT-Scout) Time-Lapse/Montage Build!
-  ],
- ),
- dict(name="How to Fly RC Planes", kind="Build",
-  desc="How to fly RC airplanes is widely searched for on Youtube.",
-  videos=[
-   "IfSQp-GNbss",  # 2017-10-15 How to Fly RC Planes (5 Simple Tuition Tips)
   ],
  ),
  dict(name="Cardboard Tube RC Airplane", kind="Build",
@@ -58,12 +46,6 @@ INVENTIONS = [
    "G4OtFPr9mMU",  # 2018-01-15 RC Messerschmitt BF 109 (scratch built model)
   ],
  ),
- dict(name="Onboard Messerschmitt BF-109 Crash", kind="Build",
-  desc="The brushless motor fell off my scratch built BF-109 warbird.",
-  videos=[
-   "yt3rY_ffbkA",  # 2018-02-01 Onboard Messerschmitt BF-109 Crash (RC Plane)
-  ],
- ),
  dict(name="TWIN ENGINE RC Plane", kind="Build",
   desc="I recently scratch built a duel motor RC airplane with some good old foam board and hot glue.",
   videos=[
@@ -90,12 +72,6 @@ INVENTIONS = [
    "z2-HcQ4P4sg",  # 2018-10-26 Airboat Hydroplane - Part 3
   ],
  ),
- dict(name="Flying FPV with Josh Bixler", kind="Build",
-  desc="I may have crashed Josh's RC plane into a tree.",
-  videos=[
-   "uo2gxIF7RCM",  # 2018-07-20 Flying FPV with Josh Bixler
-  ],
- ),
  dict(name="Project Air at Flite Fest 2018", kind="Build",
   desc="Project Air was created to combine sweet visuals with wild projects.",
   videos=[
@@ -108,41 +84,10 @@ INVENTIONS = [
    "yTomm-vYfJE",  # 2018-08-07 DIY Lifting Body Aircraft
   ],
  ),
- dict(name="Barbecue Skewer Glider", kind="Build",
-  desc="Project Air was created to combine sweet visuals with wild projects.",
-  videos=[
-   "WESRC13BlZ0",  # 2018-08-23 Barbecue Skewer Glider
-  ],
- ),
- dict(name="Thrust Vectoring 'Canard' Jet", kind="Build",
-  desc="Project featuring Tom Stanton.",
-  videos=[
-   "L5rtm7H_T00",  # 2018-08-31 Thrust Vectoring 'Canard' Jet - FLIGHT
-  ],
- ),
- dict(name="EDF Jet Glider", kind="Build",
-  desc="Parts to make your own (from BangGood)",
-  videos=[
-   "0_W8qpo66Ck",  # 2018-09-14 EDF Jet Glider
-  ],
- ),
- dict(name="EDF Powered Seaplane", kind="Build",
-  desc="I took the old EDF Glider from last week and turned it into the EDF Seaplane!",
-  videos=[
-   "xG4OCc_937A",  # 2018-09-28 EDF Powered Seaplane?
-  ],
- ),
  dict(name="How to Make an R/C Airplane From an actual Red Bull", kind="Build",
   desc="Forget the Red Bull Air Race, here's a real Red Bull airplane!",
   videos=[
    "JguBXGQMd_0",  # 2018-11-16 How to Make an R/C Airplane From an actual Red Bull
-  ],
- ),
- dict(name="Thrust Vectoring Giant RC Ekranoplan", kind="Build",
-  desc="Yep!",
-  videos=[
-   "slHvTcBZLNw",  # 2018-12-14 Thrust Vectoring Giant RC Ekranoplan - Part 1
-   "obpKQoIBFWs",  # 2018-12-21 Thrust Vectoring Giant RC Ekranoplan - Part 2
   ],
  ),
  dict(name="How To Build a​ Camera Plane", kind="Build",
@@ -158,28 +103,10 @@ INVENTIONS = [
    "A4quiDZRJYM",  # 2019-06-07 RC Space Shuttle LAUNCH
   ],
  ),
- dict(name="Science Experiment Plane", kind="Build",
-  desc="Whilst preparations for the RC Space Shuttle mission are still underway, I thought I'd share the first test flights of the plane that will carry the Shuttle for some drop tests in a few weeks.",
-  videos=[
-   "bUcVa8p4p2o",  # 2019-02-15 Science Experiment Plane
-  ],
- ),
- dict(name="RC Shuttle Drop Tests", kind="Build",
-  desc="This is Part 2 of this RC Space Shuttle Series.",
-  videos=[
-   "dgblNkDlbrs",  # 2019-03-01 RC Shuttle Drop Tests - Will It Glide?
-  ],
- ),
  dict(name="How To Make an R/C Space Shuttle", kind="Build",
   desc="This is Part 3 of this RC Space Shuttle Series.",
   videos=[
    "b6x05Z7dF8c",  # 2019-03-22 How To Make an R/C Space Shuttle
-  ],
- ),
- dict(name="Backpack-Sized Jet", kind="Build",
-  desc="This video is a break from the Space Shuttle Project.",
-  videos=[
-   "4MEAwxGujaA",  # 2019-04-12 Backpack-Sized Jet
   ],
  ),
  dict(name="Flying my Seaplane as FAST as possible", kind="Build",
@@ -188,22 +115,10 @@ INVENTIONS = [
    "6LjVqIfnbOk",  # 2019-07-26 Flying my Seaplane as FAST as possible
   ],
  ),
- dict(name="Fan Powered R/C Airboat", kind="Build",
-  desc="I’m pretty sure electric ducted fans are not the ideal choice of RC power system for an RC race boat, but it certainly was interesting to learn about them.",
-  videos=[
-   "CzyYdKMbRRA",  # 2019-08-09 Fan Powered R/C Airboat
-  ],
- ),
  dict(name="Water ROCKET Plane", kind="Build",
   desc="Water ROCKET Plane.",
   videos=[
    "oMhDk9S71-w",  # 2019-08-23 Water ROCKET Plane
-  ],
- ),
- dict(name="Asymmetrical R/C Plane", kind="Build",
-  desc="I decided to do a little aerodynamic experimentation with an asymmetrical aircraft.",
-  videos=[
-   "ID4KcPpYiR4",  # 2019-10-18 Asymmetrical R/C Plane
   ],
  ),
  dict(name="Making a Radio Control Dambuster", kind="Build",
@@ -219,24 +134,12 @@ INVENTIONS = [
    "4P68uvI1o2g",  # 2019-12-20 TESLA CYBERTRUCK BOAT! // How To Build a RC Hydrofoil
   ],
  ),
- dict(name="UPGRADING my Airboat Hydrofoil", kind="Build",
-  desc="Project Air is all about building DIY aerospace engineering creations",
-  videos=[
-   "77HSFBH2ZsA",  # 2020-01-24 UPGRADING my Airboat Hydrofoil (Can I Boost Performance?)
-  ],
- ),
  dict(name="TIP JET Helicopter Mk1", kind="Build",
   desc="Check out this tip jet RC helicopter based on a similar technology to the Rotordyne's autogyro blades!",
   videos=[
    "6Rw3UTQpP7A",  # 2020-02-28 TIP JET Helicopter Mk1 (Will it fly?)
    "vrygXf-cejI",  # 2020-03-27 DIY Tip Jet Helicopter (Build) #2
    "-G2K2PYWGv8",  # 2020-06-30 DIY Tip Jet Helicopter (Testing) #3
-  ],
- ),
- dict(name="Mini Ground Effect Vehicle", kind="Build",
-  desc="This week here on Project Air I'm showing you how to build a tiny Caspian sea monster!",
-  videos=[
-   "bH2FdtX_eas",  # 2020-04-17 Mini Ground Effect Vehicle
   ],
  ),
  dict(name="High Power Rocket Plane", kind="Build",
@@ -267,13 +170,6 @@ INVENTIONS = [
    "oH14aXXRvJk",  # 2020-08-14 DIY Speed Boat Mods
   ],
  ),
- dict(name="RC Plane Ejection Seat", kind="Build",
-  desc="I've already started to develop an ejection seat powered by solid fuel model rocket motors, but now it's time to stick it into an RC plane (a very large RC plane too!).",
-  videos=[
-   "gGlkGfs7MMU",  # 2020-11-15 RC Plane Ejection Seat - Part 1
-   "6uxVYc-YkPc",  # 2021-05-31 RC Plane Ejection Seat - Part 2
-  ],
- ),
  dict(name="Making a Powerful 2-Stage Rocket", kind="Build",
   desc="This is Part 1 of my new high power two-stage rocket project.",
   videos=[
@@ -290,12 +186,6 @@ INVENTIONS = [
   desc="Mini Jet Engine Test.",
   videos=[
    "twdufMbhbHI",  # 2021-02-09 Mini Jet Engine Test
-  ],
- ),
- dict(name="Simplest Helicopter Ever", kind="Build",
-  desc="This is a build inspired by the Ingenuity Mars Helicopter first flights.",
-  videos=[
-   "Me9bTUYIJ6c",  # 2021-04-23 Simplest Helicopter Ever?
   ],
  ),
  dict(name="Making a Rocket Car", kind="Build",
@@ -324,12 +214,6 @@ INVENTIONS = [
   desc="I've already built a Magnus Effect Plane, so how about now I make a Magnus Effect Boat?",
   videos=[
    "Labkm7XhMPk",  # 2021-10-04 Rotor Sail Boat?
-  ],
- ),
- dict(name="RC Car Extreme Aerodynamics", kind="Build",
-  desc="RC Car Extreme Aerodynamics.",
-  videos=[
-   "tMpaDtIXrXI",  # 2021-11-04 RC Car Extreme Aerodynamics
   ],
  ),
  dict(name="Giant RC Submarine", kind="Build",
@@ -405,12 +289,6 @@ INVENTIONS = [
    "LQJIRO9_VLE",  # 2026-07-10 How far can a Rubber-Band Plane fly? ✈️
   ],
  ),
- dict(name="Upgrading Slot Cars", kind="Build",
-  desc="Upgrading Slot Cars (and building a 200ft track).",
-  videos=[
-   "ZPf57CVVyMo",  # 2022-10-28 Upgrading Slot Cars (and building a 200ft track)
-  ],
- ),
  dict(name="Building an ELECTRIC hovercraft", kind="Build",
   desc="Building an ELECTRIC hovercraft.",
   videos=[
@@ -446,23 +324,10 @@ INVENTIONS = [
    "DQjjGsbJUq0",  # 2025-03-28 I made an RC rocket plane (biggest ever!) 🚀
   ],
  ),
- dict(name="Breaking a WORLD SPEED Record with an RC Car", kind="Build",
-  desc="Breaking a WORLD SPEED Record with an RC Car!.",
-  videos=[
-   "t3duz5KGyaM",  # 2023-07-15 Breaking a WORLD SPEED Record with an RC Car!
-   "AAtmGoOdW7s",  # 2023-10-12 Breaking the Jet RC Car WORLD SPEED Record!
-  ],
- ),
  dict(name="Building a SPEED Hyperloop", kind="Build",
   desc="Building a SPEED Hyperloop.",
   videos=[
    "_hDrGQtokJc",  # 2023-08-25 Building a SPEED Hyperloop
-  ],
- ),
- dict(name="Upgrading RC Cars", kind="Build",
-  desc="Upgrading RC Cars.",
-  videos=[
-   "DLNLEQuV62k",  # 2023-10-06 Upgrading RC Cars
   ],
  ),
  dict(name="Giant RC Aircraft Carrier", kind="Build",
@@ -533,12 +398,6 @@ INVENTIONS = [
   videos=[
    "FdtabWQdcAY",  # 2025-04-12 Building an RC Dive Bomber Plane
    "Lh8Da425WBA",  # 2025-06-02 I made an RC Bomber Plane
-  ],
- ),
- dict(name="Giant RC Cargo Plane", kind="Build",
-  desc="In this episode of Project Air,  the aim is to build a giant RC cargo plane inspired by the legendary NASA Super Guppy and",
-  videos=[
-   "nfNgqAnFb3U",  # 2025-05-09 Giant RC Cargo Plane
   ],
  ),
  dict(name="Building a Solar Car", kind="Build",

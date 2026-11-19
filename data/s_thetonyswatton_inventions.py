@@ -20,18 +20,6 @@ INVENTIONS = [
    "6vT2XRZrioU",  # 2026-07-24 Tony Swatton Builds with Paul Dini
   ],
  ),
- dict(name="Tony Swatton showing Ray Cirino Lapidary", kind="Build",
-  desc="Tony Swatton showing Ray Cirino Lapidary.",
-  videos=[
-   "0sLKdxIEyKk",  # 2026-07-24 Tony Swatton showing Ray Cirino Lapidary
-  ],
- ),
- dict(name="What Happens When Adam Savage Visits a Workshop", kind="Build",
-  desc="Adam Savage visits the workshop to explore master craftsmanship and the intricate details behind a beautiful handmade crown.",
-  videos=[
-   "I3gRexROKAA",  # 2026-10-10 What Happens When Adam Savage Visits a Workshop?
-  ],
- ),
  dict(name="Tony Swatton Builds with Emily Swallow", kind="Build",
   desc="Today on Tony Swatton Builds we are joined by Emily Swallow, The Armorer, to build her dream sword!",
   videos=[

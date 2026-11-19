@@ -7,10 +7,34 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'mandic-really', 'name': 'MandicReally', 'person': 'MandicReally', 'tagline': 'Mad-scientist maker building weird and useful things with 3D printing and fabrication.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="External Drive Not Recognized Windows 10", kind="Build",
-  desc="Is your NEW External Drive NOT Showing Up in Windows File Explorer?",
+ dict(name="Drone CRASH and Urban Exploration", kind="Build",
+  desc="My DJI Mavic Pro just came back from being repaired, so I took it out do some Drone Urban Exploration!",
   videos=[
-   "JkcPnSbG8gI",  # 2020-11-29 External Drive Not Recognized Windows 10 - SSK Nvme Enclosure Follow-U
+   "tcHNlye5LdM",  # 2018-05-28 Drone CRASH and Urban Exploration
+  ],
+ ),
+ dict(name="How To Make Acoustic Blankets", kind="Build",
+  desc="In this video I am going to take you on a adventure to find the materials to make your own Sound Deadning aka Make Your Own Acoustic Blankets.",
+  videos=[
+   "316QQqrGchc",  # 2019-04-08 How To Make Acoustic Blankets - Sound Deadening DIY
+  ],
+ ),
+ dict(name="NJ Osprey Project Mural", kind="Build",
+  desc="Check out Evan Lovett working on the NJ Osprey Project Mural on the side of the Drifting Sands Hotel in Ships Bottom, NJ, on Long Beach Island.",
+  videos=[
+   "9Q4HikTkxXc",  # 2019-08-11 NJ Osprey Project Mural - Vurt Creative / Evan Lovett
+  ],
+ ),
+ dict(name="PC Builds of PAX East 2020", kind="Build",
+  desc="Do you want to see the Custom Built Gaming PCs of PAX East 2020?",
+  videos=[
+   "2QqCmIFXNY4",  # 2020-03-07 PC Builds of PAX East 2020
+  ],
+ ),
+ dict(name="Watercooled 4k Editing PC Build", kind="Build",
+  desc="It is 2020 and that means it is time for an upgrade of my 4K Video Editing Watercooled Workstation!",
+  videos=[
+   "8_eva22XBj4",  # 2020-03-15 Watercooled 4k Editing PC Build - Lian Li PC-O11 Dynamic XL & Asus Pri
   ],
  ),
  dict(name="Camera Desk Mount, FORGET Elgato Multi Mount", kind="Build",
@@ -19,22 +43,28 @@ INVENTIONS = [
    "130uEBEkNPs",  # 2021-01-13 Streaming Camera Desk Mount, FORGET Elgato Multi Mount!
   ],
  ),
- dict(name="Watercooling my RTX 3080", kind="Build",
-  desc="FINALLY I'm water cooling my RTX 3080 with a Bykski N-GV3090GMOC-X Waterblock.",
+ dict(name="OPEN BOX Ender 5 Assembly, What Could Go Wrong", kind="Build",
+  desc="Join us for this LIVE Assembly of an \"Open Box\" Creality Ender 5 Plus purchased from my local Micro Center.",
   videos=[
-   "77LogvCLQIM",  # 2021-05-08 Watercooling my RTX 3080! - Bykski N-GV3090GMOC-X
+   "TzXxs4aDkq8",  # 2021-06-06 OPEN BOX Ender 5 Assembly, What Could Go Wrong?!
   ],
  ),
- dict(name="Biqu H2 Clicking Noise Fix", kind="Build",
-  desc="This video is to help show you the Teardown of the Biqu H2 direct drive extruder and possibly f",
+ dict(name="3D Printer Deals on Prime", kind="Build",
+  desc="These are some killer deals for Prime Day 2021 on 3D printers, accessories, filament, and more!",
   videos=[
-   "E6NP2lqLwLk",  # 2021-07-30 Biqu H2 Clicking Noise Fix - Teardown and Adjustment
+   "lIzeq3H_ZE4",  # 2021-06-21 3D Printer Deals on Prime Day 2021!
   ],
  ),
  dict(name="DON'T Install BL Touch on the Neptune 2", kind="Build",
   desc="The Elegoo Neptune 2 is an AMAZING Value of a 3D Printer, but can you add a BL Touch to it?",
   videos=[
    "nY6DJkrFa9Q",  # 2021-08-04 DON'T Install BL Touch on the Neptune 2! - How-To and why not to...
+  ],
+ ),
+ dict(name="Kingroon KP3 3D Printer Assembly & Test Print", kind="Build",
+  desc="Assembling the Kingroon KP3 direct drive 3D priner live on stream NOW!",
+  videos=[
+   "g_MEpEZaM3A",  # 2021-11-07 Kingroon KP3 3D Printer Assembly & Test Print
   ],
  ),
  dict(name="3D Printing Black DEALS 2023", kind="Build",
@@ -53,12 +83,24 @@ INVENTIONS = [
    "0F6V3OV-1Co",  # 2024-11-13 You Wouldn't Download A Car... BUT I 3D Printed One!
   ],
  ),
+ dict(name="Ender 3 Modification", kind="Build",
+  desc="In this stream we will tear down a base model Ender 3 and convert it to using a Makerbase Robin Nano V3 mainboard, TS35 screen, and Dual Extruders!",
+  videos=[
+   "S7QGrnvaPWo",  # 2022-02-07 Ender 3 Modification Stream! - Makerbase Robin Nano Board and DUAL Ext
+  ],
+ ),
  dict(name="Is the CHEAPEST Voron V0 Kit Worth it? Siboor V0.1 3D Printer", kind="Build",
   desc="UNDER $300 for a Voron V0.1 kit?",
   videos=[
    "AmfdEUVtoS8",  # 2022-02-14 ANOTHER Voron V0.1 Live Build!
    "Tcgn1a9ZLUk",  # 2022-02-20 ANOTHER Voron V0.1 3D Printer Live Build! - #2
    "GnSyWqZycMw",  # 2022-10-31 Is the CHEAPEST Voron V0 Kit Worth it? Siboor V0.1 3D Printer
+  ],
+ ),
+ dict(name="FIRST PRINTS! - Voron V0.1 - LGX Lite & BigTreeTech Pico Wiring", kind="Build",
+  desc="The final stream of setting up my Voron V0.1.",
+  videos=[
+   "XcVcukjLLRI",  # 2022-04-03 FIRST PRINTS! - Voron V0.1 - LGX Lite & BigTreeTech Pico Wiring - #3
   ],
  ),
  dict(name="3D Printed Custom Truck at SEMA", kind="Build",
@@ -68,10 +110,10 @@ INVENTIONS = [
    "btvovwuY4Rk",  # 2025-12-02 I Pulled a 3D Print With My Truck!
   ],
  ),
- dict(name="E3D Revo CR for Creality 3D Printers", kind="Build",
-  desc="This is a bolt-on replacement for the Mk8 Hotends that many Creality machines (and clones) come with.",
+ dict(name="DIY Lumix Timelapse Wiring! Remote Shutter Explained! GH6, G9, S1II, &", kind="Build",
+  desc="This video explains how Panasonic Lumix camera remote triggers actually work, and how to build a DIY timelapse or shutter trigger cable for GH5, GH6, GH7, S1, S1II, S1IIR, G9, and other Lumix cameras!",
   videos=[
-   "tU_5jdhukEc",  # 2022-07-16 E3D Revo CR for Creality 3D Printers: An In-Depth Look
+   "aujkmGCs_9s",  # 2022-07-10 DIY Lumix Timelapse Wiring! Remote Shutter Explained! GH6, G9, S1II, &
   ],
  ),
  dict(name="ONE Cable To Rule! Voron 2.4 CAN Install w/ SB2240", kind="Build",
@@ -91,16 +133,16 @@ INVENTIONS = [
    "EX51nvazbEY",  # 2022-08-13 Anycubic Kobra Max - The Best BIG 3D Printer?
   ],
  ),
- dict(name="A CHROMEBOOK for 3D Printing? TinkerCAD & Kiri:Moto Tutorial", kind="Build",
-  desc="Folks have often asked, \"What is the cheapest computer I can use for 3D Printing?\", so I set out to answer that question for the 3D Printing Community!",
-  videos=[
-   "dUyligube98",  # 2022-08-20 A CHROMEBOOK for 3D Printing? TinkerCAD & Kiri:Moto Tutorial!
-  ],
- ),
  dict(name="Bambu X-1 3D Printer Modding & Problems", kind="Build",
   desc="The Bambu Lab X-1 Carbon is quite possibly, the biggest leap in 3D printing in recent history, but I want to modify it...",
   videos=[
    "GVgW8a-ly_E",  # 2022-08-28 Bambu X-1 3D Printer Modding & Problems - Noisy Ringing BEAST!
+  ],
+ ),
+ dict(name="ReAniMaker - RestoMod 3D Printer", kind="Build",
+  desc="What do you do with a 10 year old 3D printer that just doesn't cut it anymore?",
+  videos=[
+   "4QKAGwknMiU",  # 2022-10-22 ReAniMaker - RestoMod 3D Printer
   ],
  ),
  dict(name="The TRUTH about CHT Clone Nozzles", kind="Build",
@@ -109,36 +151,16 @@ INVENTIONS = [
    "3iK2PWv8TNI",  # 2022-11-05 The TRUTH about CHT Clone Nozzles! - Are High Flow 3D Printer Nozzles 
   ],
  ),
- dict(name="Makerspace in my Studio", kind="Build",
-  desc="My ultimate YouTube Maker Studio, needs a big revamp!",
+ dict(name="Unveiling the Truth About Creality Ender 3 CopperHead Upgrade Kit", kind="Build",
+  desc="SNAKE!",
   videos=[
-   "pp1Cpo4hUAI",  # 2022-11-26 Makerspace in my Studio: Step-by-Step - Revamp 01
-   "iUDikt11QlA",  # 2022-12-10 BIG Makerspace in my SMALL Studio - Revamp 02 2
-   "g1Kepc0ScSg",  # 2023-01-28 EPIC MakerSpace Studio Overhaul! - Studio Revamp 03
+   "scLcsFN6NZk",  # 2022-11-19 Unveiling the Truth About Creality Ender 3 CopperHead Upgrade Kit - Sl
   ],
  ),
- dict(name="My Bambu X-1 Broke", kind="Build",
-  desc="The Bambu Lab X-1 Carbon has taken the 3D Printing community by storm, and mine is BROKEN.",
+ dict(name="Better Studio Sound w/ a BIG DIY Sound Panel", kind="Build",
+  desc="In pursuit of improving my Maker Space / YouTube Studio, I need to improve acoustics & thermals.",
   videos=[
-   "M2i4V42Gtes",  # 2023-01-01 MY BAMBU X-1 BROKE - Thermal Runaway?! Let's Fix it!
-  ],
- ),
- dict(name="Noctua Fan in the Bambu X-1? Chamber & Mainboard Fan Replacement", kind="Build",
-  desc="The Bambu Lab X-1 Carbon is a pretty loud 3D printer, and the Chamber Fan is a big part of that.",
-  videos=[
-   "3M76VUJzwqY",  # 2023-01-04 Noctua Fan in the Bambu X-1? Chamber & Mainboard Fan Replacement!
-  ],
- ),
- dict(name="The Future of Dessert", kind="Build",
-  desc="Custom Chocolate 3D Prints for your desserts, candies, and baked goods?",
-  videos=[
-   "BGNZ-Edo8Ys",  # 2023-02-12 The Future of Dessert: Chocolate 3D Printing!
-  ],
- ),
- dict(name="GAME CHANGING Bambu X-1 Upgrades", kind="Build",
-  desc="The Bambu Lab X-1 Carbon 3D printer is an industry changing machine, but it isn't perfect.",
-  videos=[
-   "LrXnckkkb-0",  # 2023-03-11 GAME CHANGING Bambu X-1 Upgrades! - Hydra AMS & More!
+   "Ni6nf8BDAk4",  # 2023-02-18 Better Studio Sound w/ a BIG DIY Sound Panel! - Revamp 04
   ],
  ),
  dict(name="Klipper on Easy Mode? Creality Sonic Pad + Ender 5 S1 Quick Test", kind="Build",
@@ -159,12 +181,6 @@ INVENTIONS = [
    "k08EfV4u4dk",  # 2023-05-27 Small 3D Printers are POINTLESS! Or...
   ],
  ),
- dict(name="Neptune 4 Pro - Closer Look + Wi-Fi Setup", kind="Build",
-  desc="Neptune 4 Pro - Closer Look + Wi-Fi Setup!.",
-  videos=[
-   "wXD3EmKy3J4",  # 2023-06-03 Neptune 4 Pro - Closer Look + Wi-Fi Setup!
-  ],
- ),
  dict(name="3D Printed Dashboard for a C10", kind="Build",
   desc="During registration, use the code POPEYE to get 500 Doublons, 1,500,000 Credits, 10 Days of Premium Account, and a choice of  the ships Langley, Phoenix, Wyoming or Clemson after 15 battles.",
   videos=[
@@ -183,28 +199,28 @@ INVENTIONS = [
    "2pClPWWMwR4",  # 2023-07-15 Building Filament Storage Solutions - xTool P2 Laser Project / RepRack
   ],
  ),
- dict(name="Making Money 3D Printing! w/ 3D Design Tips & the Qidi X-Max 3", kind="Build",
-  desc="Making Money 3D Printing! w/ 3D Design Tips & the Qidi X-Max 3!.",
-  videos=[
-   "gTiHNeZQ7cg",  # 2023-08-26 Making Money 3D Printing! w/ 3D Design Tips & the Qidi X-Max 3!
-  ],
- ),
- dict(name="6 Easy Tips to Make Your 3D Designs Extraordinary! Pro Tips", kind="Build",
-  desc="In this video we will discuss 6 Pro Tips to make your 3d designs extraordinary!",
-  videos=[
-   "JXa1c_vN2Dc",  # 2023-08-31 6 Easy Tips to Make Your 3D Designs Extraordinary! Pro Tips
-  ],
- ),
  dict(name="FAST Core-XY Ender 5 Plus! Mercury One.1 Build", kind="Build",
   desc="FAST Core-XY Ender 5 Plus! Mercury One.1 Build.",
   videos=[
    "kmMW6_7lrlQ",  # 2023-09-30 FAST Core-XY Ender 5 Plus! Mercury One.1 Build
   ],
  ),
+ dict(name="Building a Voron Trident at ERRF 2023! #3dprinter", kind="Build",
+  desc="Building a Voron Trident LIVE at ERRF 2023?",
+  videos=[
+   "tjau1TDetx8",  # 2023-10-07 Building a Voron Trident LIVE at ERRF 2023! #3dprinter
+  ],
+ ),
  dict(name="Bambu P1P to P1S Upgrade", kind="Build",
   desc="If you're looking to upgrade your Bambu P1P to P1S, WATCH THIS VIDEO FIRST!",
   videos=[
    "pSg68WllMI8",  # 2023-10-22 Bambu P1P to P1S Upgrade: Hidden Flaw Exposed!
+  ],
+ ),
+ dict(name="Leveling Up A Tattoo Studio w/ 3D Printed Ink Racks", kind="Build",
+  desc="Let's get Organized with 3D Printing!",
+  videos=[
+   "_ttxhx-P4rk",  # 2023-11-01 Leveling Up A Tattoo Studio w/ 3D Printed Ink Racks!
   ],
  ),
  dict(name="STEEL Reinforced 3D Print", kind="Build",
@@ -219,22 +235,10 @@ INVENTIONS = [
    "mhKLGUyeyqQ",  # 2023-11-28 I Made a MASSIVE Modular 3D Printer Enclosure!
   ],
  ),
- dict(name="REAL High Flow Bambu Hotend from E3D", kind="Build",
-  desc="REAL High Flow Bambu Hotend from E3D?!? - Install & Test AT E3D.",
-  videos=[
-   "RUckwgPBvOk",  # 2023-12-06 REAL High Flow Bambu Hotend from E3D?!? - Install & Test AT E3D
-  ],
- ),
  dict(name="ULTIMATE Bambu X1", kind="Build",
   desc="ULTIMATE Bambu X1 - Sub-10 Minute Benchys!.",
   videos=[
    "AppUVvf-UGg",  # 2024-01-20 ULTIMATE Bambu X1 - Sub-10 Minute Benchys!
-  ],
- ),
- dict(name="Chaos to Creativity", kind="Build",
-  desc="My 3D printing YouTube studio is a mess, plain and simple.",
-  videos=[
-   "73FIKi6Y24Q",  # 2024-02-10 Chaos to Creativity: My Ultimate 3D Printing Studio!
   ],
  ),
  dict(name="Ikea Hacking w/ 3D Printing", kind="Build",
@@ -244,24 +248,12 @@ INVENTIONS = [
    "h5N7aIA_Lzs",  # 2025-04-19 3D Print Stability Hack: Tree Supports for Wobble Prints!
   ],
  ),
- dict(name="Exciting Reveals", kind="Build",
-  desc="Exciting Reveals: BigTreeTech Innovations @ RMRRF 2024!.",
-  videos=[
-   "kiRcZiJrhbU",  # 2024-04-26 Exciting Reveals: BigTreeTech Innovations @ RMRRF 2024!
-  ],
- ),
  dict(name="How 3D Printing SAVED My Marriage", kind="Build",
   desc="My Marriage is in DANGER!",
   videos=[
    "T07XG0_Yp1M",  # 2024-05-13 How 3D Printing SAVED My Marriage!
    "qYV4cJwqbAE",  # 2025-07-23 Saved with 3D Printing! #3dprinted #3ddesign #3dprinting
    "Kqbk1bbl2GQ",  # 2026-04-26 3D Printed Strain Relief Saves My Welder! #shorts #maker #tools
-  ],
- ),
- dict(name="GOODBYE! The LAST Studio Tour", kind="Build",
-  desc="It is time to say GOODBYE!",
-  videos=[
-   "ZXgi8D_c248",  # 2024-06-29 GOODBYE! The LAST Studio Tour!
   ],
  ),
  dict(name="Office Build Begins", kind="Build",
@@ -282,22 +274,10 @@ INVENTIONS = [
    "hOX64RUC1Vg",  # 2024-11-24 Mini PC Powers My ENTIRE Studio!
   ],
  ),
- dict(name="I Organized My Garage w/ 3D Printing", kind="Build",
-  desc="Chaos meets creativity in this episode as I take on the ultimate garage overhaul using 3D printing!",
-  videos=[
-   "FZqX7vJhE_I",  # 2024-12-01 I Organized My Garage w/ 3D Printing!
-  ],
- ),
  dict(name="Building a 3D Printed Battle Tank", kind="Build",
   desc="Building a 3D Printed Battle Tank (and Taking It to War!).",
   videos=[
    "dEZ0aAgZEE4",  # 2024-12-08 Building a 3D Printed Battle Tank (and Taking It to War!)
-  ],
- ),
- dict(name="3D Printing Sound Panels That Actually Work", kind="Build",
-  desc="Bad audio can ruin any space, so I tackled the echo in my office with custom 3D-printed sound panels.",
-  videos=[
-   "8E0u-5AyEE4",  # 2024-12-23 3D Printing Sound Panels That Actually Work!
   ],
  ),
  dict(name="All-SSD UNAS Pro", kind="Build",
@@ -306,10 +286,10 @@ INVENTIONS = [
    "TAqg1bdA5jc",  # 2025-01-20 All-SSD UNAS Pro: Fast Enough for Video Editing?
   ],
  ),
- dict(name="3D Printing BIG Home Decor w/ the Eryone X400", kind="Build",
-  desc="Our home needs decorating, why not 3d print our own decorations?",
+ dict(name="We're Building a Tattoo Shop w/ 3D printing", kind="Build",
+  desc="We're building a Tattoo Shop in Portland, Oregon!",
   videos=[
-   "8dlQ1d46XSg",  # 2025-02-25 3D Printing BIG Home Decor w/ the Eryone X400!
+   "u8ts9hRjB70",  # 2025-02-28 We're Building a Tattoo Shop w/ 3D printing!
   ],
  ),
  dict(name="I 3D Printed a Mini Server Rack! Does It Work", kind="Build",
@@ -318,10 +298,10 @@ INVENTIONS = [
    "5E0M4s17r-U",  # 2025-03-11 I 3D Printed a Mini Server Rack! Does It Work?!
   ],
  ),
- dict(name="Bondtech INDX: I Flew to Sweden to Ask YOUR Questions", kind="Build",
-  desc="The Bondtech INDX is one of the most anticipated innovations in 3D printing this year — a truly modular toolchanger system designed to simplify multi-material, multi-nozzle printing without the usual headaches.",
+ dict(name="DIY Security Setup w/ Custom 3D Printing", kind="Build",
+  desc="You'll get a breakdown of my design process in Fusion 360, tips on sourcing and verifying 3D models, and how I used rapid prototyping to nail the",
   videos=[
-   "a6eigeidGSM",  # 2025-05-31 Bondtech INDX: I Flew to Sweden to Ask YOUR Questions!
+   "ypWGm7-KDj8",  # 2025-03-30 DIY Security Setup w/ Custom 3D Printing
   ],
  ),
  dict(name="My BIGGEST Studio Build Yet", kind="Build",
@@ -330,10 +310,10 @@ INVENTIONS = [
    "L93gNrqYFYY",  # 2025-06-28 My BIGGEST Studio Build Yet – Custom 3D Printer Farm!
   ],
  ),
- dict(name="Can You Actually 3D Print a PC Case", kind="Build",
-  desc="I needed a home office PC… but I couldn’t just buy a case off the shelf.",
+ dict(name="Designing a Custom Cable Port in ONE DAY", kind="Build",
+  desc="Why buy a $15 cable pass-through when you can design, print, and install one yourself… in a single day?",
   videos=[
-   "eujnhThCBl0",  # 2025-07-19 Can You Actually 3D Print a PC Case? (Yes, and It's Good)
+   "8UQV4x2eoTw",  # 2025-07-01 Designing a Custom Cable Port in ONE DAY
   ],
  ),
  dict(name="This 3D Printed Contraption Cools My Office", kind="Build",
@@ -342,10 +322,10 @@ INVENTIONS = [
    "oUt3EoVyLig",  # 2025-08-02 This 3D Printed Contraption Cools My Office!?!
   ],
  ),
- dict(name="Turning my Studio into a Starship! One 3D Print at a Time", kind="Build",
-  desc="Time to add some futuristic flair to Mandic Labs 2.0 with some custom designed and installed LED strip lights!",
+ dict(name="The Questionable Finishing Process That Almost Ruined Everything", kind="Build",
+  desc="We set out to build something special for Ruby’s tattoo shop — a Founders Wall to celebrate the people who helped make it possible.",
   videos=[
-   "X4_X5oUUlJo",  # 2025-09-03 Turning my Studio into a Starship! One 3D Print at a Time!
+   "7qztqvKSaTw",  # 2025-08-23 The Questionable Finishing Process That Almost Ruined Everything
   ],
  ),
  dict(name="What If Voron Built a PC Case", kind="Build",
@@ -359,37 +339,6 @@ INVENTIONS = [
   desc="A quick mini-review of the RatRig V-Core 4 500mm while putting it to work on a diffuser project for my LED conduit wall.",
   videos=[
    "48hizbOXZ_s",  # 2025-10-01 I Spent Weeks With This MASSIVE 3D Printer - RatRig V-Core 4 Raw Thoug
-  ],
- ),
- dict(name="I Turned My Workshop Door Into a Cyberpunk Portal", kind="Build",
-  desc="I might be down with “human malware,” but that didn’t stop me from upgrading my studio once again.",
-  videos=[
-   "tQ7jOff-Ii0",  # 2025-10-31 I Turned My Workshop Door Into a Cyberpunk Portal!
-  ],
- ),
- dict(name="Resin Printing Is Finally EASY", kind="Build",
-  desc="MandicLabs 2.0 has been growing fast — the FDM print farm is dialed in, but the other side of the studio has been sitting empty.",
-  videos=[
-   "TgWAA9zDAew",  # 2025-11-03 Resin Printing Is Finally EASY?!
-   "P2PiCek7x2I",  # 2025-11-24 I tried the Reflex 2 and WOW! EASY Resin 3D Prints!
-  ],
- ),
- dict(name="The Future of Custom Cars", kind="Build",
-  desc="The Future of Custom Cars?! - 3D Printing at SEMA 2025!.",
-  videos=[
-   "v3DJ-UjZVzQ",  # 2025-11-12 The Future of Custom Cars?! - 3D Printing at SEMA 2025!
-  ],
- ),
- dict(name="Is This REAL Carbon Fiber 3D Printing", kind="Build",
-  desc="I finally got to test continuous carbon fiber 3D printing on the FibreSeeker 3.",
-  videos=[
-   "Kjr8hIoa3Fg",  # 2025-12-01 Is This REAL Carbon Fiber 3D Printing?
-  ],
- ),
- dict(name="RGB, Wood Slats, & AuDHD", kind="Build",
-  desc="This office build was supposed to be simple.",
-  videos=[
-   "zZ2LD8AF4Vk",  # 2025-12-29 RGB, Wood Slats, & AuDHD: An Office Disaster Story!
   ],
  ),
  dict(name="Upgrading My Prusa Core ONE to be My Own", kind="Build",
@@ -410,16 +359,16 @@ INVENTIONS = [
    "pVgxnGdEYvU",  # 2026-03-21 Epic Affordable Workshop Upgrade: Pallet Rack 3D Printer Farm!
   ],
  ),
- dict(name="MOVA AtomForm Palette 300", kind="Build",
-  desc="I attended the MOVA AtomForm Palette 300 launch event in San Jose to get hands-on with this 12 Nozzle, 36 Colors 3D printer.",
-  videos=[
-   "wfPEQaTknV4",  # 2026-03-28 MOVA AtomForm Palette 300 - The Engineering Nobody Noticed!
-  ],
- ),
- dict(name="I Fixed the BIG Complaint About My 3D Printed Mini Server Rack", kind="Build",
+ dict(name="I Fixed the BIG Complaint About My 3D Printed Mini Server Rack", kind="Restoration",
   desc="The Mod10 3D Printable Mini Server Rack just got a big update.",
   videos=[
    "bsQoIOny8zs",  # 2026-04-06 I Fixed the BIG Complaint About My 3D Printed Mini Server Rack!
+  ],
+ ),
+ dict(name="I Built an XLL 3D Printer Cart", kind="Build",
+  desc="A custom 7-foot welded steel cart for my Prusa XL and Core One L.",
+  videos=[
+   "neRrbtXT1vY",  # 2026-05-09 I Built an XLL 3D Printer Cart! (It Almost Broke Me)
   ],
  ),
  dict(name="I Turned a Pile of Dead 3D Printers Into This", kind="Build",

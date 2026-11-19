@@ -7,18 +7,6 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'pickentcode', 'name': 'PickentCode', 'person': 'PickentCode', 'tagline': 'Maths, robotics, electronics and physics, usually through playful builds.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Raycasting - Processing", kind="Build",
-  desc="Raycasting - Processing.",
-  videos=[
-   "igKRMz--BuM",  # 2019-11-06 Raycasting - Processing
-  ],
- ),
- dict(name="JS Raycaster - Work in Progress", kind="Build",
-  desc="JS Raycaster - Work in Progress.",
-  videos=[
-   "aNyYxfG2B_8",  # 2022-01-02 JS Raycaster - Work in Progress
-  ],
- ),
  dict(name="JS Physics Engine", kind="Build",
   desc="Tried to write a simple physics engine in JS.",
   videos=[
@@ -29,18 +17,6 @@ INVENTIONS = [
   desc="I'm planning to make some robotics-related videos in the future.",
   videos=[
    "PBpG40nH68s",  # 2026-02-22 I Built a Foldable CyberDeck (Internal Breadboards)
-  ],
- ),
- dict(name="Recognizing Numbers With a Glass of Water", kind="Build",
-  desc="This is my first edited shorts test.",
-  videos=[
-   "wHc3UrIlksE",  # 2026-03-04 Recognizing Numbers With a Glass of Water
-  ],
- ),
- dict(name="Neat Math Trick to Detect Circles", kind="Build",
-  desc="I decided to make a little short video to celebrate Pi Day.",
-  videos=[
-   "b-GbHDKU_pU",  # 2026-03-14 Neat Math Trick to Detect Circles (Circle Hough Transform)
   ],
  ),
  dict(name="Marching Rays on the ESP32", kind="Build",

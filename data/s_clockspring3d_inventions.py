@@ -25,34 +25,10 @@ INVENTIONS = [
    "9jgRNODWbIc",  # 2018-11-07 Photographing 3D Printed Stuff
   ],
  ),
- dict(name="Vase Mode is Great! 3D Printing Inspiration and Creativity", kind="Build",
-  desc="Vase mode is your gateway to creative inspiration and general awesomeness!",
-  videos=[
-   "tba6KHk4qRk",  # 2018-11-14 Vase Mode is Great!  3D Printing Inspiration and Creativity
-  ],
- ),
- dict(name="Vase Mode Twist Box Tutorial", kind="Build",
-  desc="Twist boxes are great!",
-  videos=[
-   "uVWojB4TO9A",  # 2018-11-14 Vase Mode Twist Box Tutorial - 3D Printing
-  ],
- ),
  dict(name="Making Doodle Tops", kind="Build",
   desc="Let's design 3D printed spinning tops that draw squiggly lines!",
   videos=[
    "WRa-skBMNd0",  # 2018-11-21 Making Doodle Tops - 3D Printing Inspiration and Creativity
-  ],
- ),
- dict(name="Simple Print-in-Place Hinges in Tinkercad", kind="Build",
-  desc="A quick run through of building a simple hinge in Tinkercad!",
-  videos=[
-   "XcRjMREj9-Y",  # 2020-01-23 Simple Print-in-Place Hinges in Tinkercad
-  ],
- ),
- dict(name="Hinges and Hearts in Fusion 360", kind="Build",
-  desc="Hinges and Hearts in Fusion 360.",
-  videos=[
-   "3l8lXlpvcQ0",  # 2020-02-04 Hinges and Hearts in Fusion 360
   ],
  ),
  dict(name="Designing Screw-Closure Parts", kind="Build",

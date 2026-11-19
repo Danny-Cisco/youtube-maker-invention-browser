@@ -21,54 +21,10 @@ INVENTIONS = [
    "ElAJJnSvQtk",  # 2012-01-23 3D Printed Record - 'Still Alive'
   ],
  ),
- dict(name="Recursive Trees", kind="Build",
-  desc="Drawbot based on Eggbot drawing recursively generated trees.",
-  videos=[
-   "JdXzXDWdWqQ",  # 2012-07-08 Recursive Trees
-  ],
- ),
- dict(name="Impossible Spirograph 1", kind="Build",
-  desc="Eggbot-based drawbot drawing computer-generated patterns like a \"Spirograph\" - the simulation includes more complex double and triple circles than could ever be practically made",
-  videos=[
-   "-ftRwzq6b1U",  # 2012-08-19 Impossible Spirograph 2
-   "vO7Rdt6nsjo",  # 2012-08-19 Impossible Spirograph 1
-  ],
- ),
- dict(name="Drawbot Shading", kind="Build",
-  desc="Drawbot Shading.",
-  videos=[
-   "Yl74ub5F3ao",  # 2012-08-19 Drawbot Shading
-  ],
- ),
- dict(name="State of the Art", kind="Build",
-  desc="Animated version of an image I made from Mark Salwowski's cover for one of the UK editions of Iain M Banks' \"The State of the Art\" short story collection.",
-  videos=[
-   "_KavKzo5TDo",  # 2013-10-02 State of the Art
-  ],
- ),
- dict(name="Bristol docks", kind="Build",
-  desc="A time lapse of a first full image test of my new 3d printed polargraph gondola (available for download and printing on Thingiverse).",
-  videos=[
-   "JKT9O29we0M",  # 2014-04-21 Bristol docks (drawbot/polargraph time lapse)
-  ],
- ),
  dict(name="3d printed lithophane lampshade", kind="Build",
   desc="A 3d printed lithophane lampshade, made as a retirement gift for a colleague who worked on the aircraft shown (the Airbus A400M).",
   videos=[
    "nLsLxMhf5CQ",  # 2014-08-09 3d printed lithophane lampshade
-  ],
- ),
- dict(name="2d delta drawbot", kind="Build",
-  desc="First moves of a new 2d delta drawbot.",
-  videos=[
-   "0wbuI6lByGg",  # 2015-03-07 2d delta drawbot first moves
-   "8k7BzzRfje8",  # 2016-04-03 2d delta drawbot
-  ],
- ),
- dict(name="The Sound of Primes", kind="Build",
-  desc="Built with Processing and the SoundCipher library.",
-  videos=[
-   "JD62AhVg3Pc",  # 2016-10-30 The Sound of Primes
   ],
  ),
  dict(name="\"ExtruDraw\" 3D Printed Pen Plotter", kind="Build",
@@ -96,13 +52,6 @@ INVENTIONS = [
   desc="Assembly video for the latest desk fan, wind tunnel themed with a 120mm desk fan for airflow.",
   videos=[
    "yS-YZyUkDbA",  # 2023-03-11 My Best 3D Printed Fan (and the others)
-  ],
- ),
- dict(name="Slapdash CoreXY Plotter Tour", kind="Build",
-  desc="This is another quick, low effort tour of my plotter and its current status: it's now changed to coreXY from H-bot (the sidegrade) and has a new electrostatic paper holder (the major upgrade)",
-  videos=[
-   "2fh67D114oU",  # 2024-09-27 Quick and Slapdash Tour of the ExtruH Plotter
-   "tY8XKtWAoJY",  # 2025-03-08 Slapdash CoreXY Plotter Tour: "Sidegrades" & Upgrades
   ],
  ),
  dict(name="Plotter Pen Lifts", kind="Build",

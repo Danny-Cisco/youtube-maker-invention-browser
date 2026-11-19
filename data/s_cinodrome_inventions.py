@@ -7,25 +7,52 @@ maker's own words). Every upload not listed here appears under "Other uploads" o
 CREATOR = {'slug': 'dave-fogler', 'name': 'Dave Fogler', 'person': 'Dave Fogler', 'tagline': 'Former ILM visual-effects artist designing, building and filming at the Cinodrome.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
+ dict(name="Marquee Build: Making The Garden Theatre", kind="Build",
+  desc="I build a theater marquee for the Cinodrome Garden Theatre.",
+  videos=[
+   "TShLOko6HDw",  # 2021-02-06 Marquee Build: Making The Garden Theatre
+  ],
+ ),
+ dict(name="Stop Motion Puppet Restoration", kind="Restoration",
+  desc="The first in a series of studio films documenting the making of the Cinoscope Machine.",
+  videos=[
+   "fL3eHPctH5A",  # 2021-02-13 Stop Motion Puppet Restoration: Making The Cinoscope Machine
+  ],
+ ),
+ dict(name="Testing The Form", kind="Build",
+  desc="The second in a series of studio films documenting the making of the Cinoscope Machine.",
+  videos=[
+   "aGzsVrwa4oM",  # 2021-02-19 Testing The Form: Making The Cinoscope Machine
+  ],
+ ),
  dict(name="Making Andy Warhol Brillo Boxes", kind="Build",
   desc="Cinodrome Studio Build, in which I build replicas of Andy Warhol's Brillo Boxes.",
   videos=[
    "rcdG8Z9aLQQ",  # 2021-03-26 Making Andy Warhol Brillo Boxes
   ],
  ),
- dict(name="My Family's Tour Of 1964 Disneyland", kind="Build",
-  desc="Film Diaries of Little Consequence in which we take a tour of 1964 Disneyland via my father's 8mm camera, with constructed sound.",
+ dict(name="Japanese Veranda Railing", kind="Build",
+  desc="In this week's studio film, the theatre gets an upgrade.",
   videos=[
-   "yU5TBZ87R1A",  # 2021-05-14 My Family's Tour Of 1964 Disneyland
+   "OoNP-oSJIkY",  # 2021-05-22 Japanese Veranda Railing: Making the Garden Theatre
   ],
  ),
- dict(name="Posts & Beams: SAVING our 1880s Maine Lakeside Cabin YEAR1", kind="Build",
-  desc="With the first foundation half-wall complete, I can put in cedar posts, shape and place hemlock beams, and at long last, drop one end of this old creaky place down on something level and solid.",
+ dict(name="Old Brick Retaining Wall", kind="Build",
+  desc="In this studio film, I build a facsimile of a 115 year old brick foundation ruin from the 1906 San Francisco fire.",
   videos=[
-   "05yldk2r-jg",  # 2023-02-17 First Looks: SAVING our 1880s Maine Lakeside Cabin YEAR1
-   "ZSZdLvBXnJM",  # 2023-04-14 Design Phase: SAVING our 1880s Maine Lakeside Cabin YEAR1
-   "cC7m4TahYYI",  # 2023-09-01 Posts & Beams: SAVING our 1880s Maine Lakeside Cabin YEAR1
-   "n8hyp74h6bg",  # 2023-09-29 We've Struck Bedrock Gold! SAVING our 1880s Maine Lakeside Cabin YEAR1
+   "xzCjJtTvbsM",  # 2021-05-28 Old Brick Retaining Wall: Making The Garden Theatre
+  ],
+ ),
+ dict(name="Set Design: Making The Cinoscope Machine", kind="Build",
+  desc="The third in a series of studio films documenting the making of the Cinoscope Machine.",
+  videos=[
+   "959n598fwQI",  # 2021-07-02 Set Design: Making The Cinoscope Machine
+  ],
+ ),
+ dict(name="Making Wallpaper", kind="Build",
+  desc="Cinodrome Studio Build, in which I make",
+  videos=[
+   "q8CGuyhML2w",  # 2022-10-17 Making (Wes Anderson) Wallpaper
   ],
  ),
  dict(name="Making Custom Studio Workbench Lights", kind="Build",
@@ -34,22 +61,34 @@ INVENTIONS = [
    "a2u1mLCLJrY",  # 2023-03-03 Making Custom Studio Workbench Lights
   ],
  ),
- dict(name="Studio Find: 1997 Speeder Bike Design Maquette", kind="Build",
-  desc="Studio Find: 1997 Speeder Bike Design Maquette.",
-  videos=[
-   "eDIrcoQygig",  # 2023-03-31 Studio Find: 1997 Speeder Bike Design Maquette
-  ],
- ),
- dict(name="Short Attention Span Full Studio Tour", kind="Build",
-  desc="Film Diaries of Little Consequence, in which we take a wander through the studio in an economical four minutes.",
-  videos=[
-   "Scf1PYLxHdU",  # 2023-04-28 Short Attention Span Full Studio Tour
-  ],
- ),
  dict(name="Adam Savage And I Scratch Build A Speeder Bike", kind="Build",
   desc="Cinodrome Studio Build with Adam Savage.",
   videos=[
    "1pQZMUNohFw",  # 2023-05-12 Adam Savage And I Scratch Build A Speeder Bike
+  ],
+ ),
+ dict(name="All The Tools. All At Once", kind="Build",
+  desc="Camp restoration is underway, and I'm building up a shop from nothing.",
+  videos=[
+   "0vHclZZxXxM",  # 2023-06-02 All The Tools. All At Once.
+  ],
+ ),
+ dict(name="Building The Command Tent", kind="Build",
+  desc="Restoration work on the old structure requires a shop, but a shop isn't in the plans until the old structure is on its feet.",
+  videos=[
+   "S9ARCKcZ2gc",  # 2023-06-30 Building The Command Tent: SAVING our 1880s Maine Lakeside Cabin YEAR1
+  ],
+ ),
+ dict(name="Making the Ground Control Big Board", kind="Build",
+  desc="A big project needs a big production board.",
+  videos=[
+   "oMqpTYvcAMY",  # 2023-07-07 Making the Ground Control Big Board
+  ],
+ ),
+ dict(name="Road Trip Roof Rack Rattle Repair", kind="Restoration",
+  desc="Film Diaries of Little Consequence, in which something breaks on the truck during our drive to Colorado.",
+  videos=[
+   "d8EAKEGrcn8",  # 2023-10-28 Road Trip Roof Rack Rattle Repair
   ],
  ),
  dict(name="Making a Perpetual Calendar", kind="Build",
@@ -58,10 +97,28 @@ INVENTIONS = [
    "ElyovJxQ-5I",  # 2023-11-04 Making a Perpetual Calendar
   ],
  ),
+ dict(name="Garden Memorial Bench Build", kind="Build",
+  desc="The heavy rains during the San Francisco winter of 2022 brought down a wonderful old loquat tree in our garden.",
+  videos=[
+   "u4ZLx25d5QI",  # 2023-11-18 Garden Memorial Bench Build: From a Tree For a Tree
+  ],
+ ),
  dict(name="Making a Custom Soldering Station", kind="Build",
   desc="I somehow survived without a quality soldering set-up for thirty years or so, but this week was one week too many to go without.",
   videos=[
    "YgghYCpeiAM",  # 2023-11-25 Making a Custom Soldering Station: From a Biscuit Tin!
+  ],
+ ),
+ dict(name="I Built a Tiny Portrait Studio into a Tiny Art Studio", kind="Build",
+  desc="I've been taking Polaroid portraits on the fly for the past few years.",
+  videos=[
+   "bRSSA4W8_LU",  # 2023-12-23 I Built a Tiny Portrait Studio into a Tiny Art Studio
+  ],
+ ),
+ dict(name="Making a Concrete Pedestal fit for a Ceramic Queen", kind="Build",
+  desc="Come in weary traveler to the sweaty hearth of The Cinodrome and hear a tale of far-flung shores, a fateful discovery, the role of diverse and unfiltered sensory experience in creative acts, and masonry shenanigans.",
+  videos=[
+   "ilNRmxqYpLU",  # 2024-02-04 Making a Concrete Pedestal fit for a Ceramic Queen!
   ],
  ),
  dict(name="Studio Upgrade", kind="Build",
@@ -73,37 +130,34 @@ INVENTIONS = [
    "fX8IAo1GJCY",  # 2025-01-10 STUDIO UPGRADE: Building a SAFETY SUPPLY STATION
   ],
  ),
- dict(name="1880’s Maine Cabin RENOVATION", kind="Build",
-  desc="Saving our 1880's Maine Lakeside Cabin.",
+ dict(name="Big Site-Wide Progress Update", kind="Build",
+  desc="We're restoring this property to share with others, and when others make plans to come, it's time to hit the big guest-ready to-do list.",
   videos=[
-   "kX8hpNmg-1Y",  # 2024-03-22 1880’s Maine Cabin RENOVATION: Year 1 in 70 Minutes
-   "2SzCkUmFeRE",  # 2024-11-01 1880’s Maine Cabin RENOVATION: Year 2 in 75 Minutes
-   "Dj0DKmFVb-Y",  # 2025-11-07 1880’s Maine Cabin RENOVATION: Year 3 in 50 Minutes
+   "KMkMI2PgdEc",  # 2024-07-12 Big Site-Wide Progress Update: SAVING our 1880s Maine Lakeside Cabin Y
   ],
  ),
- dict(name="I Love Concrete! SAVING our 1880s Maine Lakeside Cabin YEAR2", kind="Build",
-  desc="September is concrete appreciation month here at the Cinodrome.",
+ dict(name="The Joy of Building with Beautiful Lumber", kind="Build",
+  desc="This week at the Cinodrome, we go hunting for the perfect lumber, round up some help to find it, and a piece of the endless saloon project finds its end as a result.",
   videos=[
-   "m3foZdRr1H4",  # 2024-06-14 I Dug Us a New Room! SAVING our 1880s Maine Lakeside Cabin YEAR2
-   "w2nI1ywkyXg",  # 2024-09-06 I Love Concrete! SAVING our 1880s Maine Lakeside Cabin YEAR2
+   "c460fcgH1F4",  # 2024-08-23 The Joy of Building with Beautiful Lumber: SAVING our 1880s Maine Lake
   ],
  ),
- dict(name="How to DESIGN Your Living Space", kind="Build",
-  desc="STUDIO UPGRADE: Custom Cabinet For 99 Film Artifacts",
+ dict(name="Making a Non-Costume Halloween Costume", kind="Build",
+  desc="Making a Non-Costume Halloween Costume: Full Build.",
   videos=[
-   "rzWh7VZKH8o",  # 2024-12-27 How to DESIGN Your Living Space: Don't Be BORING
-  ],
- ),
- dict(name="How I Do TO-DO Lists", kind="Build",
-  desc="STUDIO UPGRADE: Custom Cabinet For 99 Film Artifacts",
-  videos=[
-   "_S3vZappGJA",  # 2025-01-03 How I Do TO-DO Lists: Because Memory is Overrated
+   "SOBXRmOQeKw",  # 2024-10-18 Making a Non-Costume Halloween Costume: Full Build
   ],
  ),
  dict(name="I Made a Machine", kind="Build",
   desc="It's that time at the Cinodrome when designing and building an altogether uncommon mechanical device is required to perform the most commonplace task.",
   videos=[
    "DOA4v0sE-0Y",  # 2025-01-17 I Made a Machine - To Turn on the TV
+  ],
+ ),
+ dict(name="Is a Hand-Screened Branded T-Shirt on Brand", kind="Build",
+  desc="I've designed and built a screen printing machine.",
+  videos=[
+   "g-UBGc1dHvc",  # 2025-01-24 Is a Hand-Screened Branded T-Shirt on Brand?
   ],
  ),
  dict(name="Designing a HOME OFFICE That Disappears in Seconds", kind="Build",
@@ -120,16 +174,22 @@ INVENTIONS = [
    "USDtqEkOtaM",  # 2025-04-04 Building a Model Train Home Delivery System
   ],
  ),
- dict(name="Studio Introduction", kind="Build",
-  desc="All designs, builds, and films made with these little human hands.",
-  videos=[
-   "LMfbPiM1uVU",  # 2025-03-07 STUDIO INTRODUCTION
-  ],
- ),
  dict(name="Building a Model Train to Deliver My Coffee", kind="Build",
   desc="Part 4.",
   videos=[
    "sECcSw0PTlY",  # 2025-03-21 Building a Model Train to Deliver My Coffee
+  ],
+ ),
+ dict(name="A Design & Build of Sorts", kind="Build",
+  desc="Please consider becoming a member of this channel.",
+  videos=[
+   "RdhE3fs9BzQ",  # 2025-03-28 A Design & Build of Sorts: Cinodrome Membership
+  ],
+ ),
+ dict(name="Making T-Shirts", kind="Build",
+  desc="Making a screen printed studio t-shirt by myself wasn't sufficient, apparently.",
+  videos=[
+   "b6n8nGpsDpE",  # 2025-04-11 Making T-Shirts: Amateur vs. Expert vs. Industrial
   ],
  ),
  dict(name="I Built a Train Tunnel to my Kitchen", kind="Build",
@@ -138,25 +198,7 @@ INVENTIONS = [
    "f28tgG5A48U",  # 2025-04-25 I Built a Train Tunnel to my Kitchen
   ],
  ),
- dict(name="My Dream Model Train Delivery System...WORKS", kind="Build",
-  desc="Big finish!",
-  videos=[
-   "txVBnBt0Kao",  # 2025-05-02 My Dream Model Train Delivery System...WORKS!?
-  ],
- ),
- dict(name="FULL TOUR of my 1880's Maine Cabin Restoration", kind="Build",
-  desc="SAVING our 1880s Maine Lakeside Cabin YEAR 3 - is now underway!",
-  videos=[
-   "iINHNH4Lnvo",  # 2025-05-09 FULL TOUR of my 1880's Maine Cabin Restoration!
-  ],
- ),
- dict(name="I've Contracted BUILDER'S BLOCK", kind="Build",
-  desc="One FULL DAY, dawn to dusk, of battling an overwhelming to-do list and SAVING our 1880s Maine Lakeside Cabin.",
-  videos=[
-   "Ku43xTercN0",  # 2025-05-16 I've Contracted BUILDER'S BLOCK
-  ],
- ),
- dict(name="How to Restore an Old Maine Cabin", kind="Build",
+ dict(name="How to Restore an Old Maine Cabin", kind="Restoration",
   desc="Seven projects for seven rainy days.",
   videos=[
    "xfQL5QVikqY",  # 2025-05-23 How to Restore an Old Maine Cabin - in the Rain
@@ -168,7 +210,7 @@ INVENTIONS = [
    "LR8heqh97g8",  # 2025-06-06 I Recreated a World Famous Workbench
   ],
  ),
- dict(name="Repairing the Synthesizer I Lost in 1985", kind="Build",
+ dict(name="Repairing the Synthesizer I Lost in 1985", kind="Restoration",
   desc="This fabulous thing actually spent the last 40 years in an actual barn.",
   videos=[
    "wjGW0TMhMpE",  # 2025-06-13 Repairing the Synthesizer I Lost in 1985
@@ -186,22 +228,16 @@ INVENTIONS = [
    "UqIrsi-VmoU",  # 2025-07-04 Making a New Fireplace by Carrying Home an Old One
   ],
  ),
- dict(name="Restoring One Old Cabin by Salvaging Another", kind="Build",
+ dict(name="Restoring One Old Cabin by Salvaging Another", kind="Restoration",
   desc="Saving our 1880's Maine Lakeside Cabin.",
   videos=[
    "seZmSCOecBY",  # 2025-07-11 Restoring One Old Cabin by Salvaging Another
   ],
  ),
- dict(name="How I Fixed a Costly Design Mistake", kind="Build",
+ dict(name="How I Fixed a Costly Design Mistake", kind="Restoration",
   desc="The wheels came off this one, but I taped them back on.",
   videos=[
    "nnCori6PK7Q",  # 2025-07-25 How I Fixed a Costly Design Mistake
-  ],
- ),
- dict(name="My Adventures in Avoiding Structural Collapse", kind="Build",
-  desc="Saving our 1880's Maine Lakeside Cabin.",
-  videos=[
-   "ZLyLfOnpytU",  # 2025-09-05 My Adventures in Avoiding Structural Collapse
   ],
  ),
  dict(name="I Recreated a Legendary Trophy to Award to Friends", kind="Build",
@@ -216,13 +252,7 @@ INVENTIONS = [
    "ulSvL52CocY",  # 2025-09-26 I Could Build With Concrete, or I Could Join a Gym
   ],
  ),
- dict(name="My New Concrete Floor and a Bunch of Acid", kind="Build",
-  desc="Saving our 1880's Maine Lakeside Cabin.",
-  videos=[
-   "aKf0P5M6m7I",  # 2025-10-03 My New Concrete Floor and a Bunch of Acid
-  ],
- ),
- dict(name="Can I Repair This Antique Apple Press in Time", kind="Build",
+ dict(name="Can I Repair This Antique Apple Press in Time", kind="Restoration",
   desc="Saving our 1880's Maine Lakeside Cabin.",
   videos=[
    "YIhRpIWLQsQ",  # 2025-10-17 Can I Repair This Antique Apple Press in Time?
@@ -240,12 +270,6 @@ INVENTIONS = [
    "LjAN5uCIuaw",  # 2025-11-01 How I Built My New (Best?!) Studio Desk Setup
   ],
  ),
- dict(name="Why Did I Build a Work Station in the Furnace Room", kind="Build",
-  desc="There's no more available square inches in this house.",
-  videos=[
-   "3lOkh-RYgJ4",  # 2025-11-14 Why Did I Build a Work Station in the Furnace Room?
-  ],
- ),
  dict(name="I Shouldn't Have Built This Lumber Storage Rack", kind="Build",
   desc="As great as this storage for scrap lumber made from scrap lumber may be, there's better use of our time.",
   videos=[
@@ -256,18 +280,6 @@ INVENTIONS = [
   desc="By complete chance, it's Black Friday today, and by complete chance, this week's design and build flies in the face of the whole shebang.",
   videos=[
    "ZDkOHwDL-Ng",  # 2025-11-28 Handmade Gifts Are The Best Gifts
-  ],
- ),
- dict(name="Full Tour of My Crazy House and What I've Made For It", kind="Build",
-  desc="We've visited bits and pieces of the house in a few odd films here and there.",
-  videos=[
-   "B486N8BlNo8",  # 2025-12-05 Full Tour of My Crazy House and What I've Made For It
-  ],
- ),
- dict(name="House Tour Studio Session", kind="Build",
-  desc="Everyone loves a free sample!",
-  videos=[
-   "-s7Yn0-XLGA",  # 2025-12-06 House Tour Studio Session
   ],
  ),
  dict(name="I Built Miniature Lights Into My Kitchen Wall", kind="Build",
@@ -282,7 +294,7 @@ INVENTIONS = [
    "LyZRyXgqFFQ",  # 2026-01-09 Have I Finally Built My Ideal Studio Camera Rig?
   ],
  ),
- dict(name="I Made a Traditional Kintsugi Repair", kind="Build",
+ dict(name="I Made a Traditional Kintsugi Repair", kind="Restoration",
   desc="PRONUNCIATION APOLOGIES!",
   videos=[
    "Fjc6wQ-ih7s",  # 2026-01-16 I Made a Traditional Kintsugi Repair (with no experience)
@@ -294,22 +306,10 @@ INVENTIONS = [
    "OGh5J_7CExA",  # 2026-01-23 I Built a Stereo Inside a Book (Nobody Noticed)
   ],
  ),
- dict(name="Some Home Designs Are Stranger Than Others", kind="Build",
-  desc="A big home office design and build has launched, and the room being remodeled has...some character to consider.",
-  videos=[
-   "ffDys12PyiA",  # 2026-01-30 Some Home Designs Are Stranger Than Others
-  ],
- ),
  dict(name="I Built a LOFT BED with Curtains", kind="Build",
   desc="The remodel forges bravely on.",
   videos=[
    "bwUdNQGypkw",  # 2026-02-13 I Built a LOFT BED with Curtains: Because Trains
-  ],
- ),
- dict(name="FILM PROP Design and Build", kind="Build",
-  desc="It's been a while since I've built a real thing for a real film and what could be more fun than designing and building a not-real-replica-prop-inert-explosive-device?",
-  videos=[
-   "OqUMGRF0pWc",  # 2026-02-27 FILM PROP Design and Build: 2 Days Start to Finish
   ],
  ),
  dict(name="The Best Damn HOME OFFICE I Could Build", kind="Build",
@@ -344,76 +344,34 @@ INVENTIONS = [
    "0JwvCmvaP1k",  # 2026-05-29 I Made My New Truck Worse, On Purpose, By Hand
   ],
  ),
- dict(name="I Moved a Perfectly Good Door 4 Feet to the Left", kind="Build",
-  desc="Saving our 1880's Maine Lakeside Cabin.",
-  videos=[
-   "1jPGJ1iI4gk",  # 2026-06-12 I Moved a Perfectly Good Door 4 Feet to the Left
-  ],
- ),
  dict(name="I Made an Analog Gift for a Virtual World", kind="Build",
   desc="This week, the Cinodrome Craft Hut features instant photography, book making, emulsion lifts, and extensive celebratory travel.",
   videos=[
    "G0hGUzGjEqs",  # 2026-06-26 I Made an Analog Gift for a Virtual World
   ],
  ),
- dict(name="Restoring|Rebuilding This Old Camp All By Myself", kind="Build",
+ dict(name="Restoring|Rebuilding This Old Camp All By Myself", kind="Restoration",
   desc="Saving our 1880's Maine Lakeside Cabin.",
   videos=[
    "aP8Us3mL_q8",  # 2026-07-10 Restoring|Rebuilding This Old Camp All By Myself
   ],
  ),
- dict(name="What is he sculpting and saying and...looking at", kind="Build",
-  desc="Studio Sessions are an every-other-week-channel-members-only situation, but every once in a blue moon I make one public, and here we are!",
-  videos=[
-   "zRjHh3g2ru8",  # 2026-07-17 What is he sculpting and saying and...looking at?
-  ],
- ),
- dict(name="If I Restore It and Build It a Room I Can Have It", kind="Build",
+ dict(name="If I Restore It and Build It a Room I Can Have It", kind="Restoration",
   desc="Saving our 1880's Maine Lakeside Cabin.",
   videos=[
    "u3Xb3305oYw",  # 2026-08-08 If I Restore It and Build It a Room I Can Have It
   ],
  ),
- dict(name="What Can I Build From a Lifetime of Tools", kind="Build",
-  desc="I've been gifted the contents of a lifelong and talented builder's shop, and the task of adopting boxes upon boxes of objects has me thinking about our relationship with tools.",
-  videos=[
-   "qAAEofB-kdM",  # 2026-08-21 What Can I Build From a Lifetime of Tools?
-  ],
- ),
- dict(name="Me, My Ego, The Lucas Museum, and Star Wars", kind="Build",
-  desc="Come on in to the Cinodrome to hear the tale of how I found my way to the Lucas Museum of Narrative Art in Los Angeles!",
-  videos=[
-   "-YRQtnt9Xno",  # 2026-09-05 Me, My Ego, The Lucas Museum, and Star Wars
-  ],
- ),
- dict(name="Every Job in 12 Full Days of Camp Restoration Work", kind="Build",
+ dict(name="Every Job in 12 Full Days of Camp Restoration Work", kind="Restoration",
   desc="Every Job in 12 Full Days of Camp Restoration Work.",
   videos=[
    "eL2vzKO-Up4",  # 2026-09-18 Every Job in 12 Full Days of Camp Restoration Work
-  ],
- ),
- dict(name="Small Guy. Big World. Your Just Right Questions", kind="Build",
-  desc="Welcome to the Cinodrome and this once-in-a-great-while public Studio Session.",
-  videos=[
-   "PEJ4OTq8LQU",  # 2026-09-25 Small Guy. Big World. Your Just Right Questions.
   ],
  ),
  dict(name="Building Big Saloon Doors From Giant Pine Planks", kind="Build",
   desc="It's carpentry week here at the Cinodrome.",
   videos=[
    "pw9AAVN5ftA",  # 2026-10-02 Building Big Saloon Doors From Giant Pine Planks
-  ],
- ),
- dict(name="Saving our Old Maine Lakeside Camp", kind="Build",
-  desc="Another season of work on the camp winds to a close.",
-  videos=[
-   "6i8LzXA5AyA",  # 2026-10-16 Saving our Old Maine Lakeside Camp: Year 4 Wrap-Up
-  ],
- ),
- dict(name="Building an EXACT Replica of a Legendary Film Set", kind="Build",
-  desc="The set constructed for Hitchcock's Rear Window is one of the all-time greats, and is a star of that magnificent film in its own right.",
-  videos=[
-   "A37NOx9wBxE",  # 2026-11-06 Building an EXACT Replica of a Legendary Film Set
   ],
  ),
 ]

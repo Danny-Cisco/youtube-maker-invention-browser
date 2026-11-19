@@ -16,44 +16,31 @@ INVENTIONS = [
    "Id68OFLSuzg",  # 2014-01-26 How to Build an RFID Tag Detector - part 1: theory
   ],
  ),
- dict(name="How to Salvage Usefull Parts from Printers and Scanners", kind="Build",
-  desc="How to Salvage Usefull Parts from Printers and Scanners.",
-  videos=[
-   "tK_PPoFnCsU",  # 2014-01-26 How to Salvage Usefull Parts from Printers and Scanners
-  ],
- ),
  dict(name="SMPS Tutorial", kind="Build",
-  desc="In Part 5 I deal with some basics about magnetism and inductive components.",
+  desc="This is the introduction video to my video tutorial series on the design of power converter circuits.",
   videos=[
    "nbKwUSH9NiY",  # 2014-03-03 SMPS Tutorial (1): Introduction - Switched Mode Power Supplies and Pow
    "BjTD9EVs9v8",  # 2014-04-14 SMPS Tutorial (2):  Linear Regulators, Voltage References, Switched Mo
    "r_AAdxwfim8",  # 2014-05-04 SMPS Tutorial (3): Charge Pumps, Buck Converters, Switched Mode Power 
    "SOp57JCnWqE",  # 2014-05-30 SMPS Tutorial (4): Boost Converters, Flyback Voltages, Switched Mode P
-   "a21zh-obKWg",  # 2014-06-28 SMPS Tutorial (5): Inductor Basics, Magnetic Circuits, Switched Mode P
   ],
  ),
- dict(name="Old Radios as Smartphone Docking Stations / Tube Radios", kind="Build",
-  desc="This video is about connecting modern sound sources like mp3-players, smartphones, laptops, PCs etc.",
-  videos=[
-   "nKbYu_80Afg",  # 2014-04-18 Old Radios as Smartphone Docking Stations / Tube Radios
-  ],
- ),
- dict(name="Repairing and Hacking Marathon", kind="Build",
+ dict(name="Repairing and Hacking Marathon", kind="Restoration",
   desc="This is part one of the \"Ebay Treasure Trove\" - Series.",
   videos=[
    "1K2VubuBt8w",  # 2014-07-30 Repairing and Hacking Marathon -  Ebay Treasure Trove
   ],
  ),
- dict(name="Car Stereo Teardown, Analysis and Hack", kind="Build",
-  desc="In this video I take a closer look at the circuitry inside a car stereo.",
+ dict(name="Napier's Bones", kind="Build",
+  desc="Part 1 of my new series about historic calculating devices and machines.",
   videos=[
-   "a32neZo3McY",  # 2014-08-25 Car Stereo Teardown, Analysis and Hack  - Blaupunkt Car 300
+   "U16giBcSAaI",  # 2014-08-15 Napier's Bones - DIY
   ],
  ),
- dict(name="Brushless DC Motors and Brushed DC Motors explained", kind="Build",
-  desc="In this video I give an overview over different electric motors.",
+ dict(name="Building a Blacksmith's Forge Fan System", kind="Build",
+  desc="In this video I build a new fan system for my blacksmith's coal forge.",
   videos=[
-   "C1-klL3B9LU",  # 2014-09-12 Brushless DC Motors and Brushed DC Motors explained  - BLDC Fan (2)
+   "P0_1qE07wSU",  # 2014-09-09 Building a Blacksmith's Forge Fan System  - BLDC Fan (1)
   ],
  ),
  dict(name="Building a Cheap Quadcopter At Home", kind="Build",
@@ -62,29 +49,29 @@ INVENTIONS = [
    "qa_x93JQhNM",  # 2014-09-21 Building a Cheap Quadcopter At Home (1)  - Lift Off
   ],
  ),
- dict(name="Power Tool Repair Marathon", kind="Build",
+ dict(name="Making Alcohol At Home", kind="Build",
+  desc="This is a little film in the style of a video tutorial, in which I explain the basic principles behind ethanol production.",
+  videos=[
+   "wTT1imqn9Fo",  # 2014-09-30 Making Alcohol At Home: - The Story of Alcohol -
+  ],
+ ),
+ dict(name="Power Tool Repair Marathon", kind="Restoration",
   desc="In this video a bunch of power tools are being repaired.",
   videos=[
    "NokSrG7Jnnc",  # 2014-11-03 Power Tool and Electronic Equipment Repairs - Sunday
    "yLU_cSNogF8",  # 2015-04-21 Power Tool Repair Marathon
   ],
  ),
- dict(name="Air Compressor Explanation, Repair and Hack", kind="Build",
+ dict(name="Air Compressor Explanation, Repair and Hack", kind="Restoration",
   desc="In this video I explain how air compressors work.",
   videos=[
    "jnDnDAxdFnI",  # 2014-11-19 Air Compressor Explanation, Repair and Hack
   ],
  ),
- dict(name="The Power Grid, Isolation Transformers and Earthing", kind="Build",
-  desc="In order to explain the idea behind some isolation transformer units  I'm working on at the moment, I explore the power grid, safety features of electric installations,  Earthings Systems and RCDs.",
+ dict(name="Building a Voltage Multiplier Cascade", kind="Build",
+  desc="Part II of the Vacuum Tube Tester - Series.",
   videos=[
-   "OBYzvkY2-eA",  # 2014-12-24 The Power Grid, Isolation Transformers and Earthing
-  ],
- ),
- dict(name="Isolation Transformers, Variacs and Autotransformers", kind="Build",
-  desc="Part II of my series about my isolation transfromer unit.",
-  videos=[
-   "_pEmpvcNmXg",  # 2015-01-27 Isolation Transformers, Variacs and  Autotransformers
+   "xr4Urn0oejk",  # 2015-03-23 Building a Voltage Multiplier Cascade - Vacuum Tube Tester (2)
   ],
  ),
  dict(name="Fallout Style Computer Build", kind="Build",
@@ -93,40 +80,22 @@ INVENTIONS = [
    "ib2spa2O2DQ",  # 2015-03-27 Fallout Style Computer Build - Retrofuturism!
   ],
  ),
- dict(name="Car Repair Marathon", kind="Build",
+ dict(name="Building a Workbench with Vise and Bench Grinder", kind="Build",
+  desc="In this video, I clean up my basement (again) and build a new workbench with a vise and bench grinder for the metal workshop.",
+  videos=[
+   "6_Lf9S0wE5s",  # 2015-04-15 Building a Workbench with Vise and Bench Grinder
+  ],
+ ),
+ dict(name="Car Repair Marathon", kind="Restoration",
   desc="Link to the video about my car stereo hack:",
   videos=[
    "emm3TCDWOUU",  # 2015-05-10 Car Repair Marathon
   ],
  ),
- dict(name="How Welding Transformers Work. Teardown and Explanation", kind="Build",
-  desc="In this video an arc welding machine is analyzed.",
-  videos=[
-   "k5684mQJQRU",  # 2015-05-26 How Welding Transformers Work.  Teardown and Explanation
-  ],
- ),
- dict(name="Metalworking Tools Repair Marathon", kind="Build",
+ dict(name="Metalworking Tools Repair Marathon", kind="Restoration",
   desc="In this video  I once more go through a series of tool repair- and refurbishing jobs.",
   videos=[
    "Z0Tgcgr_I20",  # 2015-06-12 Metalworking Tools Repair Marathon
-  ],
- ),
- dict(name="TPAI Lab Report # 002", kind="Build",
-  desc="In this video I go through the parts that you can salvage from both microwave ovens and washing machines.",
-  videos=[
-   "9rhGUkbqwCU",  # 2015-06-19 TPAI Lab Report # 001:  Reverse Engineering / Welding Machines
-   "6-2IN743tgA",  # 2015-06-26 TPAI Lab Report # 002:  Salvaging and Reusing Parts from  Microwave Ov
-   "kxmbWRW6wws",  # 2015-08-28 TPAI Lab Report # 003:  Stepper Motor Drivers, Sine Wave Inverter, Bri
-   "dIgHu959lAM",  # 2015-09-20 TPAI Lab Report #004: MOTs, Welding Machines Update, Post Apocalyptic 
-   "8H-V-zC7xj4",  # 2015-10-23 TPAI Lab Report #005: Vacuum Tube Amplifier and Power Supply, Circulat
-   "7ScNWe3otkA",  # 2015-11-03 TPAI Lab Report #006: AvE, The EDM and Self Made Lab Equipment
-   "yvFtXKcSPEs",  # 2016-03-06 TPAI Lab Report #008: Universal Motors and Induction Motors
-   "cxgG4cUsYGk",  # 2016-03-25 TPAI Lab Report #009: Playing With Old Printers / Update
-   "IhWPR7GAZfQ",  # 2016-04-13 TPAI Lab Report #010: My New (Old) Lathe
-   "MqO-QoPxQAE",  # 2016-05-21 TPAI Lab Report #011: Sandblasting Cabinet and Guns
-   "H2Ymm51csJQ",  # 2016-05-28 TPAI Lab Report #012: The Fantasy Room
-   "CUadxILh5Uw",  # 2016-06-07 TPAI Lab Report #013: Sandblasting Cabinet Update + More
-   "EEk4wSxZrwQ",  # 2017-07-15 TPAI Lab Report #014: DIY Cargo Bike? Disk Writing Robot etc.
   ],
  ),
  dict(name="How to build a DIY Exercise Machine", kind="Build",
@@ -141,25 +110,19 @@ INVENTIONS = [
    "oRMmth6itGc",  # 2015-08-09 Hack: Adding Bluetooth to  Car Stereos and Sound Systems
   ],
  ),
+ dict(name="Salvaging Hall Effect Sensors and Neodymium Magnets", kind="Build",
+  desc="In this video I demonstrate how both \"Hall Effect Sensors\" and \"Neodymium Magnets\" can be salvaged from broken or outdated devices.",
+  videos=[
+   "-ZTCQAZsOs8",  # 2015-08-10 Salvaging Hall Effect Sensors and Neodymium Magnets - Build an RPM-met
+  ],
+ ),
  dict(name="Salvaging Useful Parts from Copy Machines", kind="Build",
   desc="In this episode I discuss which parts can be salvaged from copy machines.",
   videos=[
    "mSU-GeEe0P0",  # 2015-08-16 Salvaging Useful Parts from Copy Machines:  Stepper Motors, BLDCs, SMP
   ],
  ),
- dict(name="How to Convert a Car Stereo to a Home Stereo System + Bluetooth", kind="Build",
-  desc="Building a home stereo system based on an old car stereo.",
-  videos=[
-   "j3AAMxfdWWQ",  # 2015-09-15 How to Convert a Car Stereo to  a Home Stereo System + Bluetooth
-  ],
- ),
- dict(name="Salvaging and Reusing Useful Parts from Dishwashers + EXPERIMENTS", kind="Build",
-  desc="teardown, hack, experiments and explanations all around a Miele dishwasher...",
-  videos=[
-   "BGhBOs6e3I4",  # 2015-10-03 Salvaging and Reusing Useful Parts from Dishwashers + EXPERIMENTS
-  ],
- ),
- dict(name="Repairs by the Number, Troubles by the Score", kind="Build",
+ dict(name="Repairs by the Number, Troubles by the Score", kind="Restoration",
   desc="Repairs by the Number, Troubles by the Score  - Part 1.",
   videos=[
    "QfSbiTSyzY8",  # 2015-11-28 Repairs by the Number, Troubles by the Score  - Part 1
@@ -167,10 +130,10 @@ INVENTIONS = [
    "9EK65pwdGTI",  # 2015-12-07 Repairs by the Number, Troubles by the Score - Part 3
   ],
  ),
- dict(name="Adding a Power Inverter and USB Power to your Dashboard /Car", kind="Build",
-  desc="Adding a power inverter and a usb power source to my \"dashboard\".",
+ dict(name="Toys Repair Marathon", kind="Restoration",
+  desc="Fixing some toys for the Holiday Season.",
   videos=[
-   "ifR2J7voFqU",  # 2016-02-19 Adding a Power Inverter and USB Power to your Dashboard /Car
+   "NGv4nPf9I9Y",  # 2015-12-16 Toys Repair Marathon ( Faller Play Train )
   ],
  ),
  dict(name="How to Reuse Washing Machine Motors", kind="Build",
@@ -186,7 +149,7 @@ INVENTIONS = [
    "OE5UPXjyaIw",  # 2019-01-27 Washing Machine Motor ROBOT is back!
   ],
  ),
- dict(name="My Lathe Restoration", kind="Build",
+ dict(name="My Lathe Restoration", kind="Restoration",
   desc="Playlist with older \"lathe restoration\" videos:",
   videos=[
    "wTG-vBlX32I",  # 2016-04-22 Lathe Restoration (1):  Paint and Rust Removal Methods, Assembling the
@@ -195,30 +158,10 @@ INVENTIONS = [
    "LpMLQb48mps",  # 2018-01-30 My Lathe Restoration
   ],
  ),
- dict(name="Rust Removal Experiments", kind="Build",
-  desc="Rust removal with electrolysis using a welding machine as the current source.",
-  videos=[
-   "HN590K81D5c",  # 2016-05-09 Rust Removal Experiments: Electrolysis
-   "jqN5zY_T2Kc",  # 2016-05-10 Rust Removal Experiments: Citric Acid, Cider Vinegar, Rostio
-  ],
- ),
- dict(name="Securing the House Against Burglars", kind="Build",
-  desc="Securing the House Against Burglars.",
-  videos=[
-   "MLeuDbyON9E",  # 2016-06-17 Securing the House Against Burglars
-  ],
- ),
  dict(name="The DIY Video Projector", kind="Build",
   desc="The DIY Video Projector.",
   videos=[
    "0vALlaDz7Bk",  # 2016-07-22 The DIY Video Projector
-  ],
- ),
- dict(name="MacGyver Moments", kind="Build",
-  desc="MacGyver Moments:  Lifting Washing Machines Up The Stairs.",
-  videos=[
-   "-uB3piEZKMk",  # 2016-07-29 MacGyver Moments:  Lifting Washing Machines Up The Stairs
-   "yS7eDLJt_Bw",  # 2016-07-30 MacGyver Moments:  Installing a Heavy Projector Screen on the Ceiling
   ],
  ),
  dict(name="DIY Projector Upgrades", kind="Build",
@@ -227,37 +170,11 @@ INVENTIONS = [
    "pRTg1oYH8bU",  # 2016-08-06 DIY Projector Upgrades
   ],
  ),
- dict(name="Volvo 740 Repairs", kind="Build",
+ dict(name="Volvo 740 Repairs", kind="Restoration",
   desc="Volvo 740 Repairs: Turn Signals, Fuel Filter, Fuel Pump.",
   videos=[
    "wdqaVtWtf3I",  # 2016-08-12 Volvo 740 Repairs: Turn Signals, Fuel Filter, Fuel Pump
    "ow9ZbvU4xd8",  # 2016-08-13 Volvo 740 Repairs: Oil Change, Underbody, Air Filter, Downpipe etc.
-  ],
- ),
- dict(name="How to Add a Line-In and Bluetooth to Old Stereo Systems", kind="Build",
-  desc="How to Add a Line-In and Bluetooth to Old Stereo Systems (3).",
-  videos=[
-   "5K0he6zbebM",  # 2016-08-19 How to Add a Line-In and Bluetooth to old Stereo Systems (1)
-   "OuAaHSWzCbQ",  # 2016-08-20 How to Add a Line-In and Bluetooth to old Stereo Systems (2)
-   "01F1gkNesAU",  # 2016-08-23 How to Add a Line-In and Bluetooth to Old Stereo Systems (3)
-  ],
- ),
- dict(name="Yamaha AV Receiver Teardown, Troubleshooting and Salvage", kind="Build",
-  desc="Paypal-Donation Link on the bottom of this page:",
-  videos=[
-   "HUQWeJsdm6M",  # 2016-09-30 Yamaha AV Receiver Teardown, Troubleshooting and Salvage
-  ],
- ),
- dict(name="Online with my 1980", kind="Build",
-  desc="Paypal-Donation-Link on the bottom of this screen:",
-  videos=[
-   "HuC2LS56HWI",  # 2016-10-07 Online with my 1980 - TV Set
-  ],
- ),
- dict(name="Old Consoles + Modern LCDs? Testing Cheap Composite to HDMI / VGA -Con", kind="Build",
-  desc="Paypal-Donation Link on the bottom of this site:",
-  videos=[
-   "YFQLF_yj_j8",  # 2016-10-15 Old Consoles + Modern LCDs? Testing Cheap Composite to HDMI / VGA -Con
   ],
  ),
  dict(name="Hack: DIY Video Projector from 1960s Slide Projector", kind="Build",
@@ -267,16 +184,28 @@ INVENTIONS = [
    "xqD5ybEUVHs",  # 2016-12-16 Hack: DIY Projector with Raspberry Pi, PiTFT and Slide Projector ?
   ],
  ),
+ dict(name="Hack: Retro Headphones with Bluetooth", kind="Build",
+  desc="Paypal-Donation Link on the bottom of this site:",
+  videos=[
+   "KmiAC1f1Tx0",  # 2016-10-28 Hack: Retro Headphones with Bluetooth!
+  ],
+ ),
  dict(name="Hack: Digital Microscope with Raspberry Pi + PiCam", kind="Build",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "M6TvCOPN5pI",  # 2016-11-20 Hack: Digital Microscope with Raspberry Pi + PiCam
   ],
  ),
- dict(name="Repairing a Canon EOS 60D DSLR with Faulty SD Card Slot + Updates", kind="Build",
+ dict(name="Repairing a Canon EOS 60D DSLR with Faulty SD Card Slot + Updates", kind="Restoration",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "Afzzvj_KAdA",  # 2016-12-10 Repairing a Canon EOS 60D DSLR  with Faulty SD Card Slot + Updates
+  ],
+ ),
+ dict(name="Building an RC Raft from Server Fans and Insulation Board", kind="Build",
+  desc="Paypal-Donation Link on the bottom of this site:",
+  videos=[
+   "0iVRTMB66iM",  # 2016-12-31 Building an RC Raft from Server Fans and Insulation Board
   ],
  ),
  dict(name="Lab Power Supply from Broken Audio Amp + Buck and Boost Converters", kind="Build",
@@ -285,33 +214,37 @@ INVENTIONS = [
    "J3N6RX_wAJg",  # 2017-02-04 Lab Power Supply from Broken Audio Amp + Buck and Boost Converters
   ],
  ),
- dict(name="Update: Lab Power Supply, Electric Motor Test Stand, New Workshop", kind="Build",
-  desc="Paypal-Donation Link on the bottom of this site:",
-  videos=[
-   "gSIXs9xoxNs",  # 2017-02-11 Update: Lab Power Supply, Electric Motor Test Stand, New Workshop?
-   "8uV3vDV0PYM",  # 2018-04-08 The Electric Motor Test Stand / Dyno - Test Runs and Motor-Experiments
-  ],
- ),
  dict(name="Building a Lab Power Supply with a Discrete Linear Regulator", kind="Build",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "_CFIovMkRyg",  # 2017-02-24 Building a Lab Power Supply with a Discrete Linear Regulator
   ],
  ),
- dict(name="Reusing Old Meters", kind="Build",
+ dict(name="The Car Radio Tester", kind="Build",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
-   "M1a5F4-nQho",  # 2017-03-12 Reusing Old Meters (1): Voltmeters
-   "YRtC2Ty1lLk",  # 2017-03-17 Reusing Old Meters (2): Ammeters
+   "rgYzt91kENU",  # 2017-04-01 The Car Radio Tester
   ],
  ),
- dict(name="Repairing a Pioneer CT-F850 Tape Deck from 1979", kind="Build",
+ dict(name="Repairing an Apple iPad 3 with Broken Screen / Digitizer", kind="Restoration",
+  desc="Paypal-Donation Link on the bottom of this site:",
+  videos=[
+   "41XywTEHU8A",  # 2017-06-27 Repairing an Apple iPad 3 with Broken Screen / Digitizer
+  ],
+ ),
+ dict(name="Repairing a Pioneer CT-F850 Tape Deck from 1979", kind="Restoration",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "CueH1QTA47Y",  # 2017-07-01 Repairing a Pioneer CT-F850 Tape Deck  from 1979 (incl. Belt Replaceme
   ],
  ),
- dict(name="Repairing and Restoring an Old Computer", kind="Build",
+ dict(name="Repairing Grundig \"Stenorette\" Dictaphones / Dictation Machines", kind="Restoration",
+  desc="Paypal-Donation Link on the bottom of this site:",
+  videos=[
+   "XOyEXTmB37E",  # 2017-07-08 Repairing Grundig  "Stenorette"  Dictaphones / Dictation Machines
+  ],
+ ),
+ dict(name="Repairing and Restoring an Old Computer", kind="Restoration",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "wAUFeNn42Lw",  # 2017-08-13 Repairing and Restoring an Old Computer - (for those old Printers)
@@ -324,30 +257,29 @@ INVENTIONS = [
    "k7XKJWinG2U",  # 2017-11-25 Build a Robot with Windshield Wiper Motors
   ],
  ),
- dict(name="MIG/MAG Welder Repair and Modification", kind="Build",
+ dict(name="MIG/MAG Welder Repair and Modification", kind="Restoration",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "KCAK03rdM-Y",  # 2017-12-09 Shop Update: Mig/Mag Welder Repair and Modification
    "6Gx9cBPrjAs",  # 2017-12-25 MIG/MAG Welder Repair and Modification (I)
   ],
  ),
- dict(name="MIG/MAG Welder Wire Feeder Repair", kind="Build",
+ dict(name="MIG/MAG Welder Wire Feeder Repair", kind="Restoration",
   desc="Paypal-Donation Link on the bottom of this site:",
   videos=[
    "l1L0YrjWQXo",  # 2018-01-05 MIG/MAG Welder Wire Feeder Repair
-  ],
- ),
- dict(name="Teardown of 250A TIG Welder", kind="Build",
-  desc="Paypal-Donation Link on the bottom of this site:",
-  videos=[
-   "6Sm2kWuslrY",  # 2018-02-25 Teardown of 250A TIG Welder - ESAB, Sweden
-   "hYpD2ZsNPU0",  # 2018-03-02 Analysis of 250A TIG Welder  - ESAB, Sweden
   ],
  ),
  dict(name="Inventors in Berlin", kind="Build",
   desc="Contact Information Berlin Inventors and Makers:",
   videos=[
    "MMpboSLJsA0",  # 2018-04-22 Inventors in Berlin - A Documentary
+  ],
+ ),
+ dict(name="Braun - Music Console Repair", kind="Restoration",
+  desc="Braun (1957) - Music Console Repair.",
+  videos=[
+   "bkoLSOpoSLQ",  # 2018-05-25 Braun (1957) - Music Console Repair
   ],
  ),
  dict(name="Fallout Style Tube Amp Build", kind="Build",
@@ -362,10 +294,34 @@ INVENTIONS = [
    "jP0LRoOV5tE",  # 2018-07-27 DIY Fan Build
   ],
  ),
+ dict(name="HiFi Repair Marathon", kind="Restoration",
+  desc="HiFi Repair Marathon.",
+  videos=[
+   "vWl21yB3dqw",  # 2018-08-12 HiFi Repair Marathon
+  ],
+ ),
+ dict(name="Vintage Audio Repair Marathon", kind="Restoration",
+  desc="Vintage Audio Repair Marathon.",
+  videos=[
+   "9M4LjzH-tfk",  # 2018-08-17 Vintage Audio Repair Marathon
+  ],
+ ),
  dict(name="DIY Wind Turbine Builds", kind="Build",
   desc="DIY Wind Turbine Builds.",
   videos=[
    "Y0IOg36lg6Y",  # 2018-08-24 DIY Wind Turbine Builds
+  ],
+ ),
+ dict(name="Apple Macintosh LC Retrobright / Restoration", kind="Restoration",
+  desc="Apple Macintosh LC Retrobright / Restoration.",
+  videos=[
+   "7zfsHaaJg0o",  # 2018-09-14 Apple Macintosh LC Retrobright / Restoration
+  ],
+ ),
+ dict(name="Borg Cube Lamp Build", kind="Build",
+  desc="Borg Cube Lamp Build.",
+  videos=[
+   "JrzQjBw1R6c",  # 2018-10-05 Borg Cube Lamp Build
   ],
  ),
  dict(name="Retro Sci-Fi Computer Desk Build", kind="Build",
@@ -382,13 +338,31 @@ INVENTIONS = [
    "yyZSlbQSZww",  # 2019-02-08 Surveillance Robot Prop - First Prop Making Job(s)
   ],
  ),
+ dict(name="Update: Workshop - and Robot Upgrades", kind="Build",
+  desc="Link to the first video about the robot and the washing machine motor:",
+  videos=[
+   "sOh0LpcTG1Y",  # 2019-02-24 Update:  Workshop - and Robot Upgrades
+  ],
+ ),
  dict(name="Build: Robot with Inexpensive Motors and Components", kind="Build",
   desc="Build: Robot with Inexpensive Motors and Components.",
   videos=[
    "V1DznNQOL4s",  # 2019-03-24 Build: Robot with Inexpensive Motors and Components
   ],
  ),
- dict(name="Amazing Scrapyard Finds! Repair-A-Thon", kind="Build",
+ dict(name="Restoring a Blasckmith's Vise from the Scrapyard", kind="Restoration",
+  desc="Restoring a Blasckmith's Vise from the Scrapyard.",
+  videos=[
+   "-pw4u67ca4c",  # 2019-04-24 Restoring a Blasckmith's Vise from the Scrapyard
+  ],
+ ),
+ dict(name="Building a Welding Table from Scrap", kind="Build",
+  desc="Building a Welding Table from Scrap.",
+  videos=[
+   "vBkB9VJWXUQ",  # 2019-04-27 Building a Welding Table from Scrap
+  ],
+ ),
+ dict(name="Amazing Scrapyard Finds! Repair-A-Thon", kind="Restoration",
   desc="Amazing Scrapyard Finds! Repair-A-Thon!.",
   videos=[
    "rnCOT8tbAX0",  # 2019-05-11 Scrapyard Finds Repair-A-Thon
@@ -442,42 +416,17 @@ INVENTIONS = [
    "cSbhh64TYM4",  # 2026-08-29 Heavy Duty Scrapyard Finds! Repair-A-Thon!
   ],
  ),
- dict(name="Schrottplatz-Funde Reparatur-Marathon", kind="Build",
-  desc="[GERMAN VIDEO] Schrottplatz-Funde Reparatur-Marathon.",
-  videos=[
-   "VTuXNHF7YKo",  # 2019-05-16 [GERMAN VIDEO] Schrottplatz-Funde Reparatur-Marathon
-   "46nI3SiL6qA",  # 2019-06-08 [GERMAN VIDEO] Schrottplatz-Werkzeug Reparatur-Marathon
-  ],
- ),
- dict(name="METABO Multitool Repair-A-Thon / Restoration", kind="Build",
+ dict(name="METABO Multitool Repair-A-Thon / Restoration", kind="Restoration",
   desc="METABO Multitool (1965) Repair-A-Thon / Restoration.",
   videos=[
    "b9aW6c2w1Fk",  # 2019-12-14 METABO Multitool (1965) Repair-A-Thon / Restoration
   ],
  ),
- dict(name="Off-Grid Workbench", kind="Build",
-  desc="Off-Grid Workbench - Post Apocalyptic Workshop!.",
-  videos=[
-   "p2cWjouwn6w",  # 2020-04-11 Off-Grid Workbench - Post Apocalyptic Workshop!
-  ],
- ),
- dict(name="Drill Press and Plasma Cutter Repair / Upgrades! BREAK-IN AT THE WORKS", kind="Build",
+ dict(name="Drill Press and Plasma Cutter Repair / Upgrades! BREAK-IN AT THE WORKS", kind="Restoration",
   desc="Video about the Drill Press Restoration:",
   videos=[
    "2kuk0XalJok",  # 2020-05-02 Let's Repair my Drill Press
    "NdmWqaC5Zog",  # 2024-11-02 Drill Press and Plasma Cutter Repair / Upgrades! BREAK-IN AT THE WORKS
-  ],
- ),
- dict(name="I found Iron Ore! Let's Melt It", kind="Build",
-  desc="I found Iron Ore! Let's Melt It!.",
-  videos=[
-   "JvnH4_Xt9ag",  # 2020-05-15 I found Iron Ore! Let's Melt It!
-  ],
- ),
- dict(name="Not Another Old House", kind="Build",
-  desc="Ain't got time to fix the shingles",
-  videos=[
-   "WPR0YSNnMHA",  # 2020-06-05 Not Another Old House !
   ],
  ),
  dict(name="My Camper Rebuild Project", kind="Build",
@@ -505,12 +454,6 @@ INVENTIONS = [
    "qM1qylE1gwk",  # 2021-05-02 Machine Tool Treasure Hunt! Bring the Lathe(s) Home!
   ],
  ),
- dict(name="Battery Tool Experiments", kind="Build",
-  desc="Battery Tool Experiments:  Converting 120V Tools to Battery Power / NiCd to Lithium.",
-  videos=[
-   "MrZRxjWY_ms",  # 2021-07-17 Battery Tool Experiments:  Converting 120V Tools to Battery Power / Ni
-  ],
- ),
  dict(name="My latest Movie Prop Projects", kind="Build",
   desc="My latest Movie Prop Projects.",
   videos=[
@@ -523,7 +466,7 @@ INVENTIONS = [
    "nNxYRsMIehI",  # 2022-08-20 DIY Hydro Power Generator! Construction + Field Trip
   ],
  ),
- dict(name="German Military Generators", kind="Build",
+ dict(name="German Military Generators", kind="Restoration",
   desc="German Military Generators!  - Repair-A-Thon -.",
   videos=[
    "oaP-DABtThE",  # 2022-11-19 German Military Generators!  - Repair-A-Thon -
@@ -536,17 +479,11 @@ INVENTIONS = [
    "U6UOyM9ovxA",  # 2022-12-10 Building a DIY Off-Grid Power System (vs. Ecoflow )
   ],
  ),
- dict(name="The Tools of Socialist East-Germany! Repair-A-Thon", kind="Build",
+ dict(name="The Tools of Socialist East-Germany! Repair-A-Thon", kind="Restoration",
   desc="The Tools of Socialist East-Germany! Repair-A-Thon!.",
   videos=[
    "1pC4daWhHgw",  # 2023-01-28 The Tools of Socialist East-Germany! Repair-A-Thon!
    "ZmwAY4V94h4",  # 2026-01-24 German Tools!  Repair-A-Thon!
-  ],
- ),
- dict(name="Boost your Electronics Skills with Boost Converters! A Tutorial", kind="Build",
-  desc="website for converter and inductor calculations:",
-  videos=[
-   "ZEa1fOCIAyE",  # 2023-10-28 Boost your Electronics Skills with Boost Converters! A Tutorial
   ],
  ),
  dict(name="DIY Hydro Generator! Build and Experiments", kind="Build",
@@ -555,16 +492,16 @@ INVENTIONS = [
    "Bj3PtkeMqOA",  # 2023-12-02 DIY Hydro Generator! Build and Experiments!
   ],
  ),
+ dict(name="Vintage German Toys and Models! Christmas Repair-A-Thon", kind="Restoration",
+  desc="Vintage German Toys and Models! Christmas Repair-A-Thon.",
+  videos=[
+   "GV5b30w-S6I",  # 2023-12-22 Vintage German Toys and Models! Christmas Repair-A-Thon
+  ],
+ ),
  dict(name="Machine Shop Time Capsule! Treasure Hunt", kind="Build",
   desc="Machine Shop Time Capsule! Treasure Hunt - Before it's Gone!.",
   videos=[
    "8nmCbulLn8c",  # 2023-12-28 Machine Shop Time Capsule! Treasure Hunt - Before it's Gone!
-  ],
- ),
- dict(name="Generating Electric Power with my Wood Stove", kind="Build",
-  desc="Generating Electric Power with my Wood Stove - Peltier Experiments.",
-  videos=[
-   "tJg5rNwFFlE",  # 2024-01-27 Generating Electric Power with my Wood Stove - Peltier Experiments
   ],
  ),
  dict(name="DIY Surveillance Robot from Cheap IP Camera! Build and Test", kind="Build",
@@ -597,19 +534,13 @@ INVENTIONS = [
    "kKB2IOE0QvA",  # 2024-09-14 I built a Magnetic Drilling Machine from Scrap!
   ],
  ),
- dict(name="Handtools Restoration and History! Big Scrapyard Treasure Trove", kind="Build",
+ dict(name="Handtools Restoration and History! Big Scrapyard Treasure Trove", kind="Restoration",
   desc="Handtools Restoration and History! Big Scrapyard Treasure Trove!.",
   videos=[
    "ZHVC9vLiIuI",  # 2024-12-20 Handtools Restoration and History! Big Scrapyard Treasure Trove!
   ],
  ),
- dict(name="On the Road in Australia", kind="Build",
-  desc="On the Road in Australia - One Workshop at a Time.",
-  videos=[
-   "a2U5smhqVfE",  # 2025-05-09 On the Road in Australia - One Workshop at a Time
-  ],
- ),
- dict(name="Restoring a hundred year old Lathe", kind="Build",
+ dict(name="Restoring a hundred year old Lathe", kind="Restoration",
   desc="IBAN ONLY FOR EU-CITIZENS.",
   videos=[
    "WoRzWYCehV8",  # 2026-05-02 Restoring a hundred year old Lathe! (Only took me five years)

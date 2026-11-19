@@ -13,48 +13,16 @@ INVENTIONS = [
    "PIEAd_btlIA",  # 2019-02-12 108 light bulb (86,400 lumen) mini-sun project!
   ],
  ),
- dict(name="Testing Awful Goodwill Microphones", kind="Build",
-  desc="We will be messing around with $10 worth of Goodwill (thrift store) microphones, as well as taking a look at how mics work!",
-  videos=[
-   "FLzpYMr3KLc",  # 2019-02-18 Testing Awful Goodwill Microphones!
-  ],
- ),
  dict(name="Radio controlled beans", kind="Build",
   desc="See it in action: 9:05 From the side: 10:10 Slow motion: 10:19",
   videos=[
    "6lsZLbSoevg",  # 2019-02-20 Radio controlled beans??
   ],
  ),
- dict(name="Ceiling camera rail with integrated charging! Made from cheap re-purpo", kind="Build",
-  desc="CAUTION: Do NOT mount to existing live (electrified) rails!!",
-  videos=[
-   "6HVQQSySTuU",  # 2019-03-01 Ceiling camera rail with integrated charging! Made from cheap re-purpo
-  ],
- ),
  dict(name="\"Chungus: The Awakening\"", kind="Build",
   desc="Scary warning!",
   videos=[
    "soqXhB6bXQQ",  # 2019-03-05 "Chungus: The Awakening" (Fire breathing Chungus project)
-  ],
- ),
- dict(name="Cutest cat house made from repurposed book shelf", kind="Build",
-  desc="Kirsten hosts Joel Creates, and we bring her idea for a bookshelf cat house to life with my CNC machine!",
-  videos=[
-   "kwwK7MDtkW0",  # 2019-03-12 Cutest cat house made from repurposed book shelf!
-  ],
- ),
- dict(name="Hot glue gun", kind="Build",
-  desc="Do NOT try this at home!",
-  videos=[
-   "cTXCRcKk1dI",  # 2019-03-23 Hot glue gun! (A response to Michael Reeves)
-   "SMSFvKIj7d4",  # 2020-04-25 Hot glue gun 2.0! (A response to Michael Reeves fans)
-   "Vxq6W9XIAd0",  # 2020-08-21 Hot glue gun 3.0 - Super Soaker!
-  ],
- ),
- dict(name="Two scooters transformed into Go Kart", kind="Build",
-  desc="Watch as two Razor electric scooters are transformed into a miniature Go Kart!",
-  videos=[
-   "sssQMZA6L4M",  # 2019-03-30 Two scooters transformed into Go Kart!
   ],
  ),
  dict(name="CNC Machine Paintball Gun Printer", kind="Build",
@@ -67,18 +35,6 @@ INVENTIONS = [
   desc="My mom tests out a variety of iconic cars on my homemade triple 55\" screen racing rig with Logitech Momo force feedback wheel and 7.2 surround sound!",
   videos=[
    "Zw-lZMmapJY",  # 2019-04-23 Mom test-drives supercars in homemade simulator!
-  ],
- ),
- dict(name="Glass Speakers Made From Recycled Materials", kind="Build",
-  desc="I took some recycled glass bricks, and cut holes to mount these mid-century University brand speakers, for an awesome looking final result!",
-  videos=[
-   "nz_lLIM_R1M",  # 2019-05-01 Glass Speakers Made From Recycled Materials!
-  ],
- ),
- dict(name="Glitter spewing Roomba", kind="Build",
-  desc="A lot of you asked me for it, so here it is!",
-  videos=[
-   "qrqvOOwUw6A",  # 2019-05-11 Glitter spewing Roomba (how to repurpose your swearing roomba)
   ],
  ),
  dict(name="Robot that bangs a cowbell when you turn signal", kind="Build",
@@ -99,118 +55,16 @@ INVENTIONS = [
    "yg4agh4lTdk",  # 2019-08-05 Fighting @I did a thing  over hot trash
   ],
  ),
- dict(name="Fortnite Goggles", kind="Build",
-  desc="The only way to play Fortnite.",
-  videos=[
-   "remQOHaXjDY",  # 2019-10-04 Fortnite Goggles (Satire)
-  ],
- ),
- dict(name="CNC Pumpkin Carving Was A Mistake", kind="Build",
-  desc="Watch as I cut designs into three pumpkins on my CNC machine.",
-  videos=[
-   "Svvm0h-sYlI",  # 2019-10-29 CNC Pumpkin Carving Was (Not) A Mistake
-  ],
- ),
- dict(name="Joel Composes", kind="Build",
-  desc="#Roomiemelody - Joel Composes.",
-  videos=[
-   "aIhjxNqsua0",  # 2019-12-02 #Roomiemelody - Joel Composes
-  ],
- ),
  dict(name="I built a Sci-Fi movie set", kind="Build",
   desc="I built a Sci-Fi movie set!.",
   videos=[
    "FitxuWNgnJM",  # 2019-12-20 I built a Sci-Fi movie set!
   ],
  ),
- dict(name="Karate boards that burst with color", kind="Build",
-  desc="Watch me design, make, and break several colorful karate boards with martial arts legend Mike Welch!",
-  videos=[
-   "e--HzW2jv1A",  # 2020-01-11 Karate boards that burst with color!
-  ],
- ),
- dict(name="@Weisz and I make voice controlled power wheels", kind="Build",
-  desc="Be sure to check out Louis' video!",
-  videos=[
-   "YOZFVyFXiVc",  # 2020-02-26 @Weisz and I make voice controlled power wheels
-  ],
- ),
- dict(name="I own the Donkey Kong board game", kind="Build",
-  desc="Look at all this weird and interesting stuff...",
-  videos=[
-   "RsycurEEA9E",  # 2020-03-22 I own the Donkey Kong board game (and other weird stuff too)
-  ],
- ),
- dict(name="My Sister plays \"Alien Isolation\" in VR", kind="Build",
-  desc="My sister Amy bravely faces down the Xenomorph in Alien Isolation VR!",
-  videos=[
-   "cO7aY71b7kA",  # 2020-05-22 My Sister plays "Alien Isolation" in VR
-  ],
- ),
- dict(name="Motherland", kind="Build",
-  desc="I composed \"Motherland\" for my Glue gun 2.0 video.",
-  videos=[
-   "8PV6mJpFIG4",  # 2020-06-07 Motherland - (Glue Gun Music)
-  ],
- ),
- dict(name="Infinitus - Sci-Fi short film", kind="Build",
-  desc="You saw me build the set, now watch the award winning film!",
-  videos=[
-   "tHAwCqXyIc8",  # 2020-07-04 Infinitus - Sci-Fi short film
-  ],
- ),
- dict(name="Hot glue web shooter", kind="Build",
-  desc="Watch me glue my sister to a wall and lift a car with this sticky Spider-Man web shooter that fires over 20 feet!",
-  videos=[
-   "Xhk5DHV6x-w",  # 2020-11-19 Hot glue web shooter - can it lift a car?!
-  ],
- ),
- dict(name="Zero dentists recommend this toothbrush", kind="Build",
-  desc="This toothbrush is too powerful for mere mortals, tremble in the presence of its awesome tartar control!",
-  videos=[
-   "n0AMarCppqo",  # 2020-12-24 Zero dentists recommend this toothbrush
-  ],
- ),
- dict(name="Manscaped rejected my idea", kind="Build",
-  desc="The Thresher is the ultimate in personal grooming devices, just one use provides permanent results!",
-  videos=[
-   "n1vc2JRkXLk",  # 2021-03-05 Manscaped rejected my idea
-  ],
- ),
- dict(name="Destroying tomatoes for Integza", kind="Build",
-  desc="Thanks Louis Weisz for lending me the camer",
-  videos=[
-   "oFLupbWUHtM",  # 2021-07-07 Destroying tomatoes for Integza (& Michael Reeves)
-  ],
- ),
  dict(name="Barbers hate this one simple invention", kind="Build",
   desc="and get 50% off your first order of hair loss treatment.",
   videos=[
    "cL0YPAoebas",  # 2021-08-05 Barbers hate this one simple invention
-  ],
- ),
- dict(name="Reverse Toaster", kind="Build",
-  desc="This toaster really turns toast BACK into bread!",
-  videos=[
-   "hC8pLdfcR_s",  # 2021-08-28 Reverse Toaster (actually works)
-  ],
- ),
- dict(name="REAL Web Shooter", kind="Build",
-  desc="This high pressure web shooter is the closest I've ever come to the real thing, what do you think?",
-  videos=[
-   "HaP_OeRuNew",  # 2021-10-09 REAL Web Shooter (Spider-Man: No Way Home)
-  ],
- ),
- dict(name="Reverse Toothpaste", kind="Build",
-  desc="This device can really rewind your toothpaste like it's 1999!",
-  videos=[
-   "A3MGYbrN0nM",  # 2021-10-30 Reverse Toothpaste (actually works)
-  ],
- ),
- dict(name="REAL Minecraft Minecart on rails", kind="Build",
-  desc="Thanks for watching the first part of my quest to build a real life Minecraft Minecart!",
-  videos=[
-   "ISYwKoAgGl4",  # 2021-11-23 REAL Minecraft Minecart on rails! (Pt. 1)
   ],
  ),
  dict(name="This minecart is real and fast", kind="Build",
@@ -243,12 +97,6 @@ INVENTIONS = [
    "DbIGNnWwnTE",  # 2022-05-20 I made a children's toy beat a real motorcycle
   ],
  ),
- dict(name="Real Minecraft Furnace turns coal into electricity", kind="Build",
-  desc="This real furnace prototype turns the heat into electricity!",
-  videos=[
-   "jtQ1QRNyuBQ",  # 2022-07-13 Real Minecraft Furnace turns coal into electricity!
-  ],
- ),
  dict(name="I put jet engine onto children's toy", kind="Build",
   desc="Watch me and Dapz put a real jet engine onto a star wars childrens toy!",
   videos=[
@@ -259,12 +107,6 @@ INVENTIONS = [
   desc="I built Logan Paul's idea, the POCKET TOASTER...",
   videos=[
    "c3mbSd3gwkY",  # 2022-10-28 I stole Logan Paul's invention (pocket toaster)
-  ],
- ),
- dict(name="Can you cook a Potato with a Potato", kind="Build",
-  desc="Can you cook a potato with the power of potato batteries?",
-  videos=[
-   "cH03hm3kw5s",  # 2022-11-23 Can you cook a Potato with a Potato?
   ],
  ),
  dict(name="Children's toy drag race", kind="Build",
@@ -303,12 +145,6 @@ INVENTIONS = [
    "RNWaDilOcYw",  # 2023-06-25 I built secret Nerf missiles
   ],
  ),
- dict(name="It took 100 miles to edit this video", kind="Build",
-  desc="And I edited this entire video on it!",
-  videos=[
-   "mDndd_EzkgA",  # 2023-08-29 It took 100 miles to edit this video (moving desk)
-  ],
- ),
  dict(name="I regret inventing Tank Boots", kind="Build",
   desc="I built motorized tracked boots...on purpose...are they worth it?",
   videos=[
@@ -333,23 +169,10 @@ INVENTIONS = [
    "xWRkzvcb9FQ",  # 2024-06-07 How many plants do you need to breathe?  TESTED
   ],
  ),
- dict(name="How much ALGAE do you need to breathe? TESTED", kind="Build",
-  desc="I'm going to breathe as long as possible with 200 gallons of Algae!",
-  videos=[
-   "AAbyUaLN2QA",  # 2024-09-13 How much ALGAE do you need to breathe? TESTED
-  ],
- ),
  dict(name="I made it for REAL, and it's terrifying", kind="Build",
   desc="Amazing cinematic camera work by Quincy, go check out his channel!",
   videos=[
    "IsMkHHe2Gjg",  # 2024-11-20 I made it for REAL, and it's terrifying  (Nerf Nuke)
-  ],
- ),
- dict(name="I finished the Nerf Nuke", kind="Build",
-  desc="Amazing cinematic camera work by Quincy, go check out his channel!",
-  videos=[
-   "gmmS-bEf-IA",  # 2024-12-23 I finished the Nerf Nuke!
-   "3LEMYOcjyPE",  # 2025-07-11 Nerf Nuke!
   ],
  ),
  dict(name="I Made Nerf Scary", kind="Build",
@@ -374,12 +197,6 @@ INVENTIONS = [
   desc="I Built The Opposite Of Planned Obsolescence | OddCube.",
   videos=[
    "GpA7-EJpKWU",  # 2026-05-31 I Built The Opposite Of Planned Obsolescence | OddCube
-  ],
- ),
- dict(name="Front Toward The Boys", kind="Build",
-  desc="Front Toward The Boys.",
-  videos=[
-   "mVU9DMExuiI",  # 2026-06-29 Front Toward The Boys
   ],
  ),
 ]

@@ -66,22 +66,10 @@ INVENTIONS = [
    "cJhLqPZSEyM",  # 2023-04-02 Battle Damaged Iron Man Mark 6 At C2E2! #3dprinting
   ],
  ),
- dict(name="HOW TO: Modify Iron Man files using Blender", kind="Build",
-  desc="Please go follow my friend Konrad (the Blender God himself)!",
-  videos=[
-   "bB9XFdwfiyc",  # 2021-09-25 HOW TO: Modify Iron Man files using Blender! (cutting panels out)
-  ],
- ),
  dict(name="HOW TO: Scale Armor for Cosplay! | Blender", kind="Build",
   desc="Here's a quick and easy way I've been scaling my new suit!",
   videos=[
    "gVeRfKxrYEo",  # 2022-01-02 HOW TO: Scale Armor for Cosplay! | Blender
-  ],
- ),
- dict(name="Kiara's Workshop", kind="Build",
-  desc="Kiara's Workshop Live Stream.",
-  videos=[
-   "hGvW3fv48mA",  # 2022-01-16 Kiara's Workshop Live Stream
   ],
  ),
  dict(name="I BUILT Sam Wilson's Wings", kind="Build",
@@ -119,7 +107,7 @@ INVENTIONS = [
    "vxERVdH4Tes",  # 2024-12-18 I built working Pokeballs you can throw... kinda
   ],
  ),
- dict(name="I Made Glamrock Bonnie Real", kind="Build",
+ dict(name="I Made Glamrock Bonnie Real", kind="Restoration",
   desc="I Made Glamrock Bonnie Real! (Fixing My Bonnie Cosplay).",
   videos=[
    "Bw1MPXKWj70",  # 2024-05-07 How I Built Glamrock Bonnie!
@@ -173,12 +161,6 @@ INVENTIONS = [
   desc="I Rebuilt Big Mouth Billy Bass as Magikarp.",
   videos=[
    "spsPT778ws0",  # 2025-11-28 I Rebuilt Big Mouth Billy Bass as Magikarp
-  ],
- ),
- dict(name="Can I Turn M-O from Wall-E into a Real Vacuum", kind="Build",
-  desc="Can I Turn M-O from Wall-E into a Real Vacuum?.",
-  videos=[
-   "ZdyHG45VR3Y",  # 2026-02-28 Can I Turn M-O from Wall-E into a Real Vacuum?
   ],
  ),
  dict(name="I Built Goddard from Jimmy Neutron", kind="Build",

@@ -15,16 +15,16 @@ INVENTIONS = [
    "hgmlSSicKZ0",  # 2014-11-22 Homemade dust collector upgrades (Part 2): inner spiral and more
   ],
  ),
+ dict(name="Making a Dustproof Drill-charging Box", kind="Build",
+  desc="Here is my first project video.",
+  videos=[
+   "XFUDpjV2qkE",  # 2014-07-26 Making a Dustproof Drill-charging Box
+  ],
+ ),
  dict(name="Homemade sharpening jig for woodturning tools", kind="Build",
   desc="I wanted to have such a jig for quite a while, but they are not cheap and it's also a bit more difficult to get them in Germany.",
   videos=[
    "sfmIv0iXjis",  # 2014-08-14 Homemade sharpening jig for woodturning tools (free plans)
-  ],
- ),
- dict(name="Selbstgebaute Schleifvorrichtung für Drechselwerkzeug", kind="Build",
-  desc="Ich wollte eine solche Vorrichtung schon länger, aber die sind in Deutschland gar nicht so leicht zu bekommen und/oder sind ziemlich teuer.",
-  videos=[
-   "PbjwSAsUACI",  # 2014-08-14 selbstgebaute Schleifvorrichtung für Drechselwerkzeug (kostenloser Pla
   ],
  ),
  dict(name="Making Wooden Trophies in the Dark", kind="Build",
@@ -34,16 +34,22 @@ INVENTIONS = [
    "aeUMopQ_Ohk",  # 2018-08-25 Making Wooden Trophies in the Dark (cinematic)
   ],
  ),
- dict(name="Small Parts Storage Boxes", kind="Build",
-  desc="another, very time-consuming project.",
+ dict(name="Little lathe gadget", kind="Build",
+  desc="Finally got a new microphone a was able to finish this video.",
   videos=[
-   "TAChDhog2_I",  # 2014-10-05 Small Parts Storage Boxes
+   "sT6Vf487j5I",  # 2015-01-10 Little lathe gadget
   ],
  ),
  dict(name="Homemade 12\" Disc Sander", kind="Build",
   desc="I experimented with building a new disc sander with one of my flanges powered with a little 600 Watt (0,8 HP) Motor.",
   videos=[
    "TArwSUQ-bp8",  # 2015-01-17 Homemade 12" Disc Sander (Part 1)
+  ],
+ ),
+ dict(name="Homemade 12\" Disk Sander", kind="Build",
+  desc="I finished building my new disk sander.",
+  videos=[
+   "4ZkBWcE7sD0",  # 2015-01-24 Homemade 12" Disk Sander (Part 2)
   ],
  ),
  dict(name="Homemade DIY Tap Holder", kind="Build",
@@ -77,6 +83,12 @@ INVENTIONS = [
    "rTjFkFWQ51g",  # 2015-03-07 Making a Good Fence for the Cheap Jointer
   ],
  ),
+ dict(name="Making Pushup Handles", kind="Build",
+  desc="I wanted to have push-up handles.",
+  videos=[
+   "37afp6dJ40g",  # 2015-03-14 Making Pushup Handles
+  ],
+ ),
  dict(name="Homemade Spinning Bowl Sander", kind="Build",
   desc="More links to materials I used in my sander built:",
   videos=[
@@ -87,12 +99,6 @@ INVENTIONS = [
   desc="For another project I needed some sanding spindles.",
   videos=[
    "FF18CkbgDGI",  # 2015-05-03 Homemade Sanding Spindles for the Drill-Press
-  ],
- ),
- dict(name="Getting Rid of my Old Table Saw + Bad Experience", kind="Build",
-  desc="Back in October 2014 I was looking for a new table saw.",
-  videos=[
-   "gYLt0rZyJA0",  # 2015-05-31 Getting Rid of my Old Table Saw + Bad Experience...
   ],
  ),
  dict(name="Building an Outdoor Patio Stair", kind="Build",
@@ -109,7 +115,7 @@ INVENTIONS = [
    "zwlywozJEig",  # 2015-07-04 Homemade Edging Shoe for the Sliding Table Saw
   ],
  ),
- dict(name="X-Carve Upgrade", kind="Build",
+ dict(name="X-Carve Upgrade", kind="Restoration",
   desc="This was a much needed upgrade for this CNC machine.",
   videos=[
    "9acMrWu_MIc",  # 2015-08-26 Project Update, Bandsaw Repair, Spectra Plywood, X-Carve Upgrade (Rand
@@ -123,23 +129,17 @@ INVENTIONS = [
    "d8DrFbrf2Jc",  # 2015-09-06 Building a Blower (Small Dust Collector #2)
   ],
  ),
+ dict(name="How To Make a Simple Wooden Box", kind="Build",
+  desc="I made a special Christmas gift for my sister and it needed something better than a cardboard box, so I made this wooden box.",
+  videos=[
+   "QyXtCxt6anI",  # 2015-12-21 How To Make a Simple Wooden Box
+  ],
+ ),
  dict(name="Making a Bowl with Spectra-Plywood", kind="Build",
   desc="This video shows the making of a bowl with segmented rings of Spectra-Plywood.",
   videos=[
    "-MPSlzG6AtM",  # 2015-12-24 Making a Bowl with Spectra-Plywood (Christmas-Special)
    "bTI8HkZmTFk",  # 2018-12-28 Homemade Spectra Plywood Bowl #2
-  ],
- ),
- dict(name="It's Finished", kind="Build",
-  desc="So the build is finally done.",
-  videos=[
-   "tREMRr81olg",  # 2016-02-25 It's Finished!!! (Small Dust Collector #4)
-  ],
- ),
- dict(name="CNC Spindle Upgrade", kind="Build",
-  desc="The spindle is a Kress 1050 FME-1",
-  videos=[
-   "7_YFMXEFvXg",  # 2016-03-05 CNC Spindle Upgrade
   ],
  ),
  dict(name="Forstner bit/ Hand-plane holder, VFD and more", kind="Build",
@@ -158,12 +158,6 @@ INVENTIONS = [
    "TKDsWSGNCSQ",  # 2016-11-28 Big Dust Collector Filter Box and Finishing Touches
   ],
  ),
- dict(name="Bigger Workshop and New Ductwork", kind="Build",
-  desc="I had the opportunity to make my shop bigger...an additional 1/3 m².",
-  videos=[
-   "xsW4J09_RxA",  # 2016-04-04 Bigger Workshop and New Ductwork
-  ],
- ),
  dict(name="Engineering an Automatic CNC Dust-Shoe", kind="Build",
   desc="I'm not happy with the dust-shoe that came with my CNC router.",
   videos=[
@@ -178,16 +172,16 @@ INVENTIONS = [
    "u4_a5QC2y0U",  # 2025-07-26 Can I Build a Sliding Workshop Door in 24 Hours???
   ],
  ),
- dict(name="Inside a Drill + \"repair\"", kind="Build",
+ dict(name="Inside a Drill + \"repair\"", kind="Restoration",
   desc="I had a problem with one of my small drills.",
   videos=[
    "gjtk2liJ0Gk",  # 2016-07-11 Inside a Drill + "repair"
   ],
  ),
- dict(name="Wedgie/ Miter Sled", kind="Build",
-  desc="This is the jig/sled to go for segmented woodturning.",
+ dict(name="Phone tripod holder, Tool holders & Dust Collector repair", kind="Restoration",
+  desc="To answer a few questions that might come up:",
   videos=[
-   "jj1d9OSA2UQ",  # 2016-08-20 Wedgie/ Miter Sled (Free Templates)
+   "2dxArA4caqM",  # 2016-08-07 Phone tripod holder, Tool holders & Dust Collector repair (Random Shop
   ],
  ),
  dict(name="Making new and better CNC clamps", kind="Build",
@@ -208,10 +202,10 @@ INVENTIONS = [
    "y3EkVge5XhE",  # 2016-09-18 Badminton Inlay Cutting Boards
   ],
  ),
- dict(name="Pantorouter and Accessories", kind="Build",
-  desc="More important information about the pantorouter:",
+ dict(name="Fixing the Table Saw Flip Stop", kind="Restoration",
+  desc="I noticed this issue a while ago and it had bothered me since.",
   videos=[
-   "e4bkD7hCAY0",  # 2016-12-11 Pantorouter and Accessories
+   "2zfokxM-DGw",  # 2016-11-06 Fixing the Table Saw Flip Stop
   ],
  ),
  dict(name="Making Squares for Woodworking", kind="Build",
@@ -220,52 +214,22 @@ INVENTIONS = [
    "mHnD60BtUvw",  # 2016-12-17 Making Squares for Woodworking
   ],
  ),
- dict(name="A small Cyclone Dust Collector with a Cheap Vacuum", kind="Build",
-  desc="A small Cyclone Dust Collector with a Cheap Vacuum.",
-  videos=[
-   "c19NzKRkv7E",  # 2017-01-15 A small Cyclone Dust Collector with a Cheap Vacuum
-  ],
- ),
- dict(name="New Old Jointer/Planer", kind="Build",
-  desc="I found a very good deal for a Kity 636 Jointer/Planer combination on eBay, to replace my current one.",
-  videos=[
-   "FfHZoaWpkRY",  # 2017-03-14 New Old Jointer/Planer: Kity 636
-  ],
- ),
- dict(name="Hand Wheel Fix & Dust Collection", kind="Build",
-  desc="Hand Wheel Fix & Dust Collection (Random Shop Stuff 16).",
-  videos=[
-   "ua7QhopfFHM",  # 2017-04-09 Hand Wheel Fix & Dust Collection (Random Shop Stuff 16)
-  ],
- ),
  dict(name="Building the Lathe Stand/Workbench", kind="Build",
   desc="Video of the drawers: coming soon!",
   videos=[
    "ewG3wakhbKs",  # 2017-04-18 Building the Lathe Stand/Workbench
   ],
  ),
- dict(name="A Quick Connection System for Power Tools", kind="Build",
-  desc="Power cords are always a problem.",
+ dict(name="Making Dovetail Drawers with the Pantorouter", kind="Build",
+  desc="Making Dovetail Drawers with the Pantorouter.",
   videos=[
-   "WquQYdwcr74",  # 2017-04-30 A Quick Connection System for Power Tools
+   "o_d81a3Y55U",  # 2017-05-15 Making Dovetail Drawers with the Pantorouter
   ],
  ),
  dict(name="Homemade Wooden Lifting Table", kind="Build",
   desc="Probably the coolest project I've built so far.",
   videos=[
    "ohyMRATOt5U",  # 2017-07-29 Homemade Wooden Lifting Table
-  ],
- ),
- dict(name="Simplest Router Table Circle Jig", kind="Build",
-  desc="I've seen a picture of a very simple, but genius circle jig for the router table.",
-  videos=[
-   "_HMneS7nrsE",  # 2018-05-25 Simplest Router Table Circle Jig
-  ],
- ),
- dict(name="Shelix Cutterhead Upgrade for my Kity 636 Jointer/Planer", kind="Build",
-  desc="Installing this cutterhead was quite an adventure!",
-  videos=[
-   "bAVXiRcrJxg",  # 2018-10-17 Shelix Cutterhead Upgrade for my Kity 636 Jointer/Planer
   ],
  ),
  dict(name="Homemade Router Table Insert Plate", kind="Build",
@@ -281,16 +245,34 @@ INVENTIONS = [
    "2IMDZ2vs8NM",  # 2018-11-30 Making My Version of the Samurai Router Jig
   ],
  ),
- dict(name="Is 3D printing worth it", kind="Build",
-  desc="A few real-world workshop examples that make use of 3D-printing.",
-  videos=[
-   "k8mzMDLqENA",  # 2018-12-14 Is 3D printing worth it?
-  ],
- ),
  dict(name="Shelf with a HIDDEN DIY mounting solution", kind="Build",
   desc="My parents asked me for an additional shelf in their camper.",
   videos=[
    "RRLMmqwqIfc",  # 2019-03-15 Shelf with a HIDDEN DIY mounting solution
+  ],
+ ),
+ dict(name="BEST DIY Leveling Feet", kind="Build",
+  desc="For another tool cabinet, I needed some leveling feet.",
+  videos=[
+   "5-5j6VILjmM",  # 2019-04-05 BEST DIY Leveling Feet
+  ],
+ ),
+ dict(name="Making Drawers with SOFT-CLOSE Drawer-Slides", kind="Build",
+  desc="Making Drawers with SOFT-CLOSE Drawer-Slides.",
+  videos=[
+   "SazTUuGiY20",  # 2019-04-12 Making Drawers with SOFT-CLOSE Drawer-Slides
+  ],
+ ),
+ dict(name="DIY Sanding pad for the Angle Grinder", kind="Build",
+  desc="In my last video, I used a sanding attachment for the angle grinder.",
+  videos=[
+   "BFaqKNRKvo8",  # 2019-06-07 DIY Sanding pad for the Angle Grinder | Easy to build with only Handto
+  ],
+ ),
+ dict(name="Building a Smart Router Circle Jig with Kriss", kind="Build",
+  desc="I needed a circle jig, so I built one.",
+  videos=[
+   "YQdNaJFDUR0",  # 2020-03-27 Building a Smart Router Circle Jig with Kriss (no more cord tangling)
   ],
  ),
  dict(name="Building an Amazing Shelf with more than 500 wooden Segments", kind="Build",
@@ -305,10 +287,34 @@ INVENTIONS = [
    "QQNAif5lDjo",  # 2020-08-07 3D-printed Pulley for my Homemade 2HP Bandsaw (Bandsaw Upgrades Part 1
   ],
  ),
+ dict(name="Dust Collector Update & RODE WIGO Charging Station", kind="Build",
+  desc="I got asked to give an update about the dust collector that I've built a few years ago and show how it's holding up.",
+  videos=[
+   "gLufNktw5pw",  # 2020-09-04 Dust Collector Update & RODE WIGO Charging Station (Random Shop Stuff 
+  ],
+ ),
+ dict(name="My HOMEMADE WOODEN Bandsaw can now cut METAL!!! (Bandsaw Upgrades", kind="Build",
+  desc="This is the second part of the bandsaw upgrades.",
+  videos=[
+   "BcERn4mJONc",  # 2020-10-02 My HOMEMADE WOODEN Bandsaw can now cut METAL!!! (Bandsaw Upgrades Part
+  ],
+ ),
+ dict(name="Fixing an old Dining Table", kind="Restoration",
+  desc="When I built a new dining table for my parents we kept the old one in storage, because my sister could still use it.",
+  videos=[
+   "uboRYWi5YnA",  # 2021-01-03 Fixing an old Dining Table
+  ],
+ ),
  dict(name="Homemade Sliding Door Lock", kind="Build",
   desc="Ever since I made my sliding shop door, I was annoyed by the \"locking\" mechanism that came with the rail kit.",
   videos=[
    "f_M-R1KzJMo",  # 2021-10-22 Homemade Sliding Door Lock | Unpickable
+  ],
+ ),
+ dict(name="Saying Goodbye to my First Homemade Machine + Updates", kind="Build",
+  desc="Since I'm moving soon, my sister is moving now, and friends will also move soon, there is less shop time left.",
+  videos=[
+   "OMwpH4GnCdA",  # 2021-11-19 Saying Goodbye to my First Homemade Machine + Updates (Random Shop Stu
   ],
  ),
  dict(name="When a Fail becomes a Feature", kind="Build",
@@ -321,6 +327,12 @@ INVENTIONS = [
   desc="I recently moved into a new apartment.",
   videos=[
    "Rv1o5yWocP8",  # 2022-02-18 I Over-Engineered a Kitchen Cabinet with Special Features
+  ],
+ ),
+ dict(name="You Will Love These Casters", kind="Build",
+  desc="I needed a sturdy, but movable base for my desktop CNC router, so I built one.",
+  videos=[
+   "lHzCgkR9CfM",  # 2022-03-04 You Will Love These Casters | Tool Base Build
   ],
  ),
  dict(name="My Best Project...Until Now", kind="Build",
@@ -341,16 +353,10 @@ INVENTIONS = [
    "r-S5HSzxrEI",  # 2022-11-04 Homemade 10,000€ Bed || 4 Unique Features
   ],
  ),
- dict(name="Inside a Drill Press", kind="Build",
-  desc="Restoring and upgrading the drill press from my grandpa was a fun project exactly to my liking.",
+ dict(name="Making a Threading Die Holder", kind="Build",
+  desc="Making a  threading die holder for the lathe tailstock.",
   videos=[
-   "hhrYrKy-BGs",  # 2022-12-23 Inside a Drill Press
-  ],
- ),
- dict(name="World's Best Drill Press Upgrades", kind="Build",
-  desc="After restoring my grandpa's drill press, I wanted to give it some upgrade that would make it truly unique and incredibly a lot more capable.",
-  videos=[
-   "rxNrA16yZsU",  # 2023-02-24 World's Best Drill Press Upgrades
+   "-oGiJ4Tg5dc",  # 2023-02-03 Making a Threading Die Holder (Free Plans)
   ],
  ),
  dict(name="Camera Gantry System", kind="Build",
@@ -401,13 +407,7 @@ INVENTIONS = [
    "YOsN6KvRlOs",  # 2025-02-21 Clicky Miter Gauge, the Result of Good Engineerring
   ],
  ),
- dict(name="Old vs New Workshop", kind="Build",
-  desc="Here's my story about leaving the old workshop and moving into a new one.",
-  videos=[
-   "ePbRw2Nl49A",  # 2025-04-04 Old vs New Workshop
-  ],
- ),
- dict(name="I Bought a 10.000€ Metal Lathe and had to Repair it", kind="Build",
+ dict(name="I Bought a 10.000€ Metal Lathe and had to Repair it", kind="Restoration",
   desc="When moving into the new workshop, I had to leave my metal lathe in the old workshop.",
   videos=[
    "tLhHI_mdDuw",  # 2025-07-04 I Bought a 10.000€ Metal Lathe and had to Repair it
@@ -425,7 +425,7 @@ INVENTIONS = [
    "XMScDYHgAVI",  # 2025-09-12 Engineering a Professional Grinding Arbor
   ],
  ),
- dict(name="When you ask an Engineer to Restore a Vise", kind="Build",
+ dict(name="When you ask an Engineer to Restore a Vise", kind="Restoration",
   desc="When you ask an Engineer to Restore a Vise.",
   videos=[
    "PvU9M4Gx_D4",  # 2025-12-12 When you ask an Engineer to Restore a Vise

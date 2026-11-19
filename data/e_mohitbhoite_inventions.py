@@ -13,18 +13,6 @@ INVENTIONS = [
    "QmVXmJhwRBI",  # 2007-08-15 Basanti:  Line Following Robot
   ],
  ),
- dict(name="Micromouse 2006 test run", kind="Build",
-  desc="Micromouse 2006 test run.",
-  videos=[
-   "M_ircnSOfbE",  # 2007-08-16 Micromouse 2006 test run
-  ],
- ),
- dict(name="Artbot, Bodhi Space, Mumbai", kind="Build",
-  desc="The robot was part of an art show put up by Shilpa Gupta here in Mumbai",
-  videos=[
-   "B5S73ukiDmQ",  # 2008-10-13 Artbot, Bodhi Space, Mumbai
-  ],
- ),
  dict(name="Coin Dispenser", kind="Build",
   desc="This was part of my IPD 511 class (Creative Thinking & Functional Iteration in Design) .",
   videos=[
@@ -37,78 +25,6 @@ INVENTIONS = [
   desc="We built a machine that sorts out randomly mixed golf balls + ping pong balls and sequences them into pairs staring with the ping pong ball.",
   videos=[
    "ZX5BGySqA2A",  # 2011-03-06 Ball Zzz
-  ],
- ),
- dict(name="Wall Following.avi", kind="Build",
-  desc="Wall Following.avi.",
-  videos=[
-   "l5z6diu-xEs",  # 2011-05-05 Wall Following.avi
-  ],
- ),
- dict(name="Responds to clap.avi", kind="Build",
-  desc="Responds to clap.avi.",
-  videos=[
-   "mBtTErNPkmI",  # 2011-05-05 Responds to clap.avi
-  ],
- ),
- dict(name="Line Following.avi", kind="Build",
-  desc="an experimental robot controlled purely through logic elements.",
-  videos=[
-   "5_0mUmTz588",  # 2011-05-05 Line Following.avi
-  ],
- ),
- dict(name="Obstacle Avoding.avi", kind="Build",
-  desc="Obstacle Avoding.avi.",
-  videos=[
-   "rxRaRrZxkL8",  # 2011-05-05 Obstacle Avoding.avi
-  ],
- ),
- dict(name="Brushless Motor", kind="Build",
-  desc="Andrew was trying out the microchip brushless motor controller kit.",
-  videos=[
-   "QElHxFjl_Bg",  # 2012-10-24 Brushless Motor
-  ],
- ),
- dict(name="Mini Kossel Auto Bed Leveling using Force Sensors", kind="Build",
-  desc="Experimenting with FSRs for auto bed leveling for my mini kossel 3d printer",
-  videos=[
-   "XqfA3rPGVK0",  # 2014-12-26 Mini Kossel Auto Bed Leveling using Force Sensors
-  ],
- ),
- dict(name="Phone mount for bikes", kind="Build",
-  desc="Phone mount for bikes.",
-  videos=[
-   "PTuwtvXbU0k",  # 2014-12-26 Phone mount for bikes
-  ],
- ),
- dict(name="Spark ISS Monitor", kind="Build",
-  desc="This Spark Core powered project notifies you when the international space station is passing over your location.",
-  videos=[
-   "oPaFNXm0eTI",  # 2015-01-07 Spark ISS Monitor
-  ],
- ),
- dict(name="Experimenting with custom bokeh", kind="Build",
-  desc="Experimenting with custom bokeh.",
-  videos=[
-   "Dv2BK-0asSY",  # 2015-01-07 Experimenting with custom bokeh
-  ],
- ),
- dict(name="SevenSeg", kind="Build",
-  desc="A Particle Photon powered, internet enabled seven segment display.",
-  videos=[
-   "TpqhSoQkl1Y",  # 2015-08-04 SevenSeg
-  ],
- ),
- dict(name="MohitBhoite", kind="Build",
-  desc="MohitBhoite Live Stream.",
-  videos=[
-   "UtOGwiuXJeQ",  # 2016-10-12 MohitBhoite Live Stream
-  ],
- ),
- dict(name="LED sand animation", kind="Build",
-  desc="LED sand animation using Adafruit's M0 feather, CharlieWing, and ADXL362 accelerometer.",
-  videos=[
-   "tOTDQtTzt9c",  # 2018-01-25 LED sand animation
   ],
  ),
  dict(name="Neopixel Lightbar", kind="Build",
@@ -135,29 +51,11 @@ INVENTIONS = [
    "mCZMqLMOtJM",  # 2018-11-18 Xenyan light painting robot sculpture
   ],
  ),
- dict(name="Dot 57", kind="Build",
-  desc="This is an Internet connected dot matrix display sculpture.",
-  videos=[
-   "UVtOAVd9WlE",  # 2018-11-24 Dot 57
-  ],
- ),
- dict(name="Dot 88 R1", kind="Build",
-  desc="This a freeformed 8×8 LED matrix sculpture that is controlled by a Particle Photon and connected to the Internet over WiFi.",
-  videos=[
-   "F9J1rFmMcYY",  # 2018-11-24 Dot 88 R1
-  ],
- ),
  dict(name="LM3915 based VU Meter", kind="Build",
   desc="LM3915 based VU Meter.",
   videos=[
    "L5AoaqwUZK0",  # 2018-12-04 LM3915 based VU Meter
    "5r_m_ANgJXc",  # 2025-10-28 An ATtiny85 based VU meter #circuitsculpture #arduino #spaceexploratio
-  ],
- ),
- dict(name="How to straighten a brass wire into a rod", kind="Build",
-  desc="Using a few simple tools you can straighten a brass wire into a rod.",
-  videos=[
-   "CySwNy804cA",  # 2019-02-28 How to straighten a brass wire into a rod
   ],
  ),
  dict(name="Numitron Clock", kind="Build",
@@ -170,19 +68,6 @@ INVENTIONS = [
   desc="I used a 3D printed hexagon matrix jig to solder the LEDs together.",
   videos=[
    "G8FtUTOAH_8",  # 2019-11-04 Handle with care - Flash light
-  ],
- ),
- dict(name="Pixel invaders", kind="Build",
-  desc="pixel invaders.",
-  videos=[
-   "2KVX_AxLG3g",  # 2021-02-08 pixel invaders
-  ],
- ),
- dict(name="Experimenting with geared micro linear stepper motor", kind="Build",
-  desc="Experimenting with geared micro linear stepper motor.",
-  videos=[
-   "TMj_0AWkfXM",  # 2021-02-16 Experimenting with geared micro linear stepper motor
-   "_-Au_sUVYPk",  # 2021-02-16 Experiments with micro linear stepper motor
   ],
  ),
 ]
