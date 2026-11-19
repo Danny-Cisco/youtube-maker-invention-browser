@@ -1,6 +1,6 @@
-"""Curated inventions for Look Mum No Computer.
-
-Livestreams and series videos attached by build/attach_unassigned.py."""
+"""Inventions of Look Mum No Computer. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'look-mum-no-computer', 'name': 'Look Mum No Computer', 'person': 'Sam Battle', 'tagline': 'Music machines made from Furbies, Game Boys, fire, church organs and test equipment.', 'other_label': 'Other uploads: songs, covers, live sets, gear tours, tutorials, cars and more'}
 
@@ -104,6 +104,7 @@ INVENTIONS = [
   videos=[
    "q45FHZLVz2U",  # 2017-10-29 HUNDRED OSCILLATOR MEGA DRONE SYNTH
    "-YD18Zw2wKk",  # 2019-03-19 MUSIC SHOP MEGA DRONE At Thomann Synth Reaktor #TSR19
+   "r2c3mmB-89I",  # 2022-08-05 100 MODULAR SYNTH OSCILLATORS - Plus more! Synth Diaries 2022
   ],
  ),
  dict(name="Arduino Keyboard Sequencer", kind="Synth module",
@@ -144,8 +145,8 @@ INVENTIONS = [
    "mjcVUcrjrcw",  # 2026-07-07 The musical virtuosity of propane. #engineering #diy #shorts
    "RPvj8qdzA68",  # 2026-07-10 FIRE ORGAN TRACTOR TRAILER - Now We're Cooking On Gas! Part 4
    "PVEZVe6KVBk",  # 2026-07-15 I’ve failed. Bloomin thing! #diy #technology
-   "QewdI9Jyvko",  # 2026-07-17 Unloading the fire organ
    "Dg2frC7AfBU",  # 2026-07-17 Sometimes screechingly high out of tune steam fair music is what the d
+   "QewdI9Jyvko",  # 2026-07-17 Unloading the fire organ
    "PtLkDMEJu7c",  # 2026-07-18 Certified mile muncher. Had to drive it a mile there and back mostly o
    "quLnceAKg-c",  # 2026-07-19 Machining the organ pipe mouths for the fire organ #engineering #machi
    "gjSLDMoYrN8",  # 2026-07-20 FIRE ORGAN TRAILER - SAFETY SYSTEM SETUP AND ELECTRONICS - Part 5
@@ -158,8 +159,8 @@ INVENTIONS = [
    "meMHjkOa6eo",  # 2026-08-04 It’s all fun and games till people diss your beautiful sparkplug bar 😭
    "IDizMQeLJFU",  # 2026-08-07 Tuning this is a wrestle of copper and flesh. #technology #diy #fire
    "Z-rqicBHZYI",  # 2026-08-08 Tuning My FIRE ORGAN TRACTOR TRAILER Is a challenge - Part 8
-   "RQp_fb6SeWk",  # 2026-08-15 GET OF YA HIGH HORSE AND DONT GO SEE YOUR GRAN #emissions #maths #engi
    "H4eScJHU_sk",  # 2026-08-15 I THINK MR BURNHAM FORGOT TO MENTION FIRE ORGANS? #engineering #fire #
+   "RQp_fb6SeWk",  # 2026-08-15 GET OF YA HIGH HORSE AND DONT GO SEE YOUR GRAN #emissions #maths #engi
    "33bY-EFrfJw",  # 2026-08-23 THIS WATER JACKET IS MAKING MY WALLET CRY #engineering #fire #technolo
    "gk7CaSiwI70",  # 2026-08-23 I don’t know who but someone’s getting a raise #engineering #plumbing 
    "JVCyaG1kvq4",  # 2026-08-25 IS THERE ANOTHER ORGAN OUT THERE THAT IS LIQUID COOLED? #technology #f
@@ -182,7 +183,6 @@ INVENTIONS = [
    "mhgALAYwYPU",  # 2019-04-25 Furby Organ 2.0 THE PORTABLE FURBY ORGAN
    "IforMSCQhW8",  # 2026-03-12 What do the furbys think? #furby #furbyorgan
   ],
-  links=[('Vice: why he built it', 'https://vice.com/en/article/we-asked-the-creator-of-the-furby-organ-why'), ('New Atlas', 'https://newatlas.com/look-mum-no-computer-furby-organ/53392/'), ('Make:', 'https://makezine.com/article/craft/you-dont-know-terror-until-youve-experienced-the-furby-organ/')],
  ),
  dict(name="TV Oscillograph", kind="Machine",
   desc="An old CRT television converted into an oscillograph for drawing pictures with sound.",
@@ -264,7 +264,6 @@ INVENTIONS = [
    "cOzDvGR1evM",  # 2021-11-17 Playing on the GAMEBOY Mega Machine - Church Reverb In A Minor -
    "5tIOIEb_5IU",  # 2021-11-24 Stereo filters in THE GAMEBOY MEGA MACHINE episode 17
   ],
-  links=[('Hackaday', 'https://hackaday.com/2018/11/29/an-englishman-and-48-gameboys-walk-into-a-bar'), ('Geeky Gadgets', 'https://www.geeky-gadgets.com/gameboy-mega-machine-synthesiser-08-06-2021/')],
  ),
  dict(name="Torture Me Elmo", kind="Mod",
   desc="A modified Elmo toy made to sing like an angel.",
@@ -344,6 +343,7 @@ INVENTIONS = [
  dict(name="Kosmo DIY Modular Synth", kind="Synth module",
   desc="His own DIY modular synth format, Kosmo: a big, hand-built live rig, a new open-source module every month in 2020, Kosmo 2.0 and 3.0, and modules later shrunk to Eurorack.",
   videos=[
+   "bsDnAKnakAc",  # 2016-02-20 DIY ANALOG MODULAR SYNTH KOSMO 3 SILVERFACE
    "lJROZv3y270",  # 2018-12-03 A MODULAR SYNTH WALKTHROUGH OF MY DIY MODULAR SETUP
    "pblcIJ5M8lo",  # 2019-11-11 Designing New Synthesizer Parts For My DIY MODULAR for tour
    "lEt34DDYCOA",  # 2020-01-08 TUNER VCO's? Im Releasing A New Module Every Month Starting TODAY
@@ -412,7 +412,6 @@ INVENTIONS = [
    "M_rvF1mKoP8",  # 2021-06-20 KILO DRONE DIY Analog Controller For 1000 Oscillator Megadrone
    "f5pdKuwabfA",  # 2022-03-23 THE KILODRONE FINALLY HAS A DETUNE KNOB WOOP WOOP
   ],
-  links=[('IEEE Spectrum', 'https://spectrum.ieee.org/geek-life/profiles/the-intense-sound-of-1000-analog-oscillators'), ('Hackster', 'https://www.hackster.io/news/the-kilodrone-features-a-thousand-individual-oscillators-568c4b19146d'), ('MusicRadar interview', 'https://www.musicradar.com/news/look-mum-no-computer-my-1000-oscillator-megadrone-was-challenging')],
  ),
  dict(name="Owl Organ", kind="Instrument",
   desc="A musical instrument made from owl garden ornaments.",
@@ -512,6 +511,7 @@ INVENTIONS = [
  dict(name="Billy Bass Synth Module", kind="Synth module",
   desc="A Big Mouth Billy Bass made into a synth module, from a meme.",
   videos=[
+   "qUQbjMVDl-g",  # 2017-04-01 MODIFIED SINGING BASS / TROUT HACK WALKTHROUGH #circuitbent #howto
    "VAXxA62k6_o",  # 2021-11-15 I MADE A BILLY BASS SYNTH MODULE - FROM A MEME
   ],
  ),
@@ -584,7 +584,6 @@ INVENTIONS = [
    "AtDhUIQq6co",  # 2023-10-10 Can You Play A Church Organ With A GAMEBOY? (It works surprisingly wel
    "MhZUYTrFl98",  # 2023-12-22 LOADING DODGY CHRISTMAS SONG FILES INTO MY CHURCH ORGAN LIVESTREAM
   ],
-  links=[('Hackaday: moving it', 'https://hackaday.com/2022/05/31/how-to-move-a-full-sized-church-organ-from-a-house-to-a-museum'), ('Time Extension: played by a Game Boy', 'https://www.timeextension.com/news/2023/10/random-youtube-musician-uses-modded-game-boy-to-play-church-organ')],
  ),
  dict(name="Electromechanical Visitor Counter", kind="Machine",
   desc="An electromechanical counter that survives an electromagnetic storm and plays you a song, later with a robotic glockenspiel.",
@@ -764,7 +763,6 @@ INVENTIONS = [
    "Swvmhe6OCJk",  # 2025-07-25 A GAME WITH AN INTERACTIVE SOUNDTRACK #retrogaming #gaming
    "9sMCkMzWQ8Q",  # 2026-01-29 THE LOOK MUM NO COMPUTER GAME IS NOW OUT ON ALL CONSOLES. Like the swi
   ],
-  links=[('PC Gamer', 'https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit'), ('Nintendo eShop', 'https://www.nintendo.com/us/store/products/look-mum-no-computer-switch/')],
  ),
  dict(name="Flamethrower Violin", kind="Instrument",
   desc="A flamethrower violin, inspired by Finland's Eurovision entry.",
@@ -865,6 +863,105 @@ INVENTIONS = [
    "GsTGu2V7tcU",  # 2023-08-10 Building A Whole Analog Synthesizer voice From Start To Finish On Brea
    "ZMEvETQELe4",  # 2025-02-19 FROM START TO FINISH - Assembling Uprated Subframes For A Classic Mini
    "B58E-AxS6eo",  # 2025-06-15 Building A SUPERCHARGED Classic Mini Engine. From Start To Finish. BIG
+  ],
+ ),
+ dict(name="Circuit-Bent Whoopee Cushion & Minions", kind="Instrument",
+  desc="An electric whoopee cushion and circuit-bent Minions toys.",
+  videos=[
+   "JPlhNmMR63w",  # 2017-02-26 ELECTRIC WHOOPEE CUSHION, CIRCUIT BENT MINIONS. PIEZO MICS HOW TO #HOW
+  ],
+ ),
+ dict(name="Walkie-Talkie Lo-Fi Wireless System", kind="Instrument",
+  desc="A lo-fi wireless audio system made from walkie-talkies.",
+  videos=[
+   "GUaM8UauU6M",  # 2017-11-25 LO-FI WIRELESS SYSTEM FROM WALKIE TALKIES?
+  ],
+ ),
+ dict(name="Dimmer-Switch Tape Delay Mod", kind="Instrument",
+  desc="A tape delay modded with a light dimmer switch.",
+  videos=[
+   "38DBLGdnlJE",  # 2019-01-13 Modding a Tape Delay With a Light Dimmer Switch?
+  ],
+ ),
+ dict(name="Motor Spring Reverb", kind="Instrument",
+  desc="A spring reverb built around a motor.",
+  videos=[
+   "s4V2F31M8Yw",  # 2019-02-03 Spring Reverb Made With A MOTOR???
+  ],
+ ),
+ dict(name="DIY Tube Spring Reverb", kind="Instrument",
+  desc="A home-made valve spring reverb.",
+  videos=[
+   "fAcKbzY3yY8",  # 2019-06-14 DIY Tube Spring Reverb? :-O
+  ],
+ ),
+ dict(name="Valve VCA", kind="Instrument",
+  desc="A valve VCA module for a synthesizer, built in two hours.",
+  videos=[
+   "M81n2iLxY_o",  # 2019-07-03 VALVE VCA FOR A SYNTHESIZER -2 HOUR BUILD-
+  ],
+ ),
+ dict(name="Commodore PET Synth", kind="Instrument",
+  desc="A circuit-bent Commodore PET made to sound big as a synth.",
+  videos=[
+   "vysJEpKIVkU",  # 2019-08-01 PET SYNTH Making A Commodore PET Sound Big And Beefy
+   "wCOF_22FqL0",  # 2020-09-26 Circuit Bending A Commodore PET, That Is BRAND NEW....
+  ],
+ ),
+ dict(name="Modified Roland CR78", kind="Instrument",
+  desc="Sam's modifications to his Roland CR78 drum machine.",
+  videos=[
+   "1Tjo0AvU6v4",  # 2020-05-09 Modifying My Beloved Roland CR78 To Make It Actually Useful
+   "kSuKR472Uyk",  # 2024-11-27 Ruining My Most Valuable Drum Machine - CR78 - Modifications
+  ],
+ ),
+ dict(name="ColecoVision Drum Machine", kind="Instrument",
+  desc="A drum machine made from a ColecoVision.",
+  videos=[
+   "LVEqYtKGKEM",  # 2020-07-22 COLECOVISION DRUM MACHINE, making a drum machine using a Retro colecov
+  ],
+ ),
+ dict(name="Synth-Controlled Lights", kind="Instrument",
+  desc="Rigs for controlling lights, and plugging synths into ceiling lights, from keyboards and synths.",
+  videos=[
+   "ybVoFn04Y94",  # 2020-08-09 Controlling Lights With Keyboards + Synths - BoomLights LC8 MIDI Light
+   "l0T7Be9wJEk",  # 2021-02-14 PLUGGING SYNTHS INTO CEILING LIGHTS - FactoryLux REFLEKTER
+  ],
+ ),
+ dict(name="Analog Bouncing Ball Circuits", kind="Instrument",
+  desc="Analog electric circuits that simulate bouncing balls.",
+  videos=[
+   "se68Wq4Gn6M",  # 2021-01-10 Bouncing Balls With DIY Electric Analog Circuits..
+  ],
+ ),
+ dict(name="Chart Recorder Synth Interface", kind="Instrument",
+  desc="A vintage chart recorder wired into a synthesizer.",
+  videos=[
+   "sITroUWbhk8",  # 2021-03-28 Vintage Chart Recorder Wired into Synthesiser's - Bruel & Kjaer 2304
+  ],
+ ),
+ dict(name="Test Equipment Statue", kind="Instrument",
+  desc="A statue built from test equipment for Hainbach.",
+  videos=[
+   "YXxI0vVkl18",  # 2022-03-30 BUILDING A TEST EQUIPMENT STATUE - Hainbach's Landfill Totem's
+  ],
+ ),
+ dict(name="Baudot Talking Robot", kind="Instrument",
+  desc="Retro AI for a talking robot via Baudot code.",
+  videos=[
+   "OYJti8dJMV4",  # 2022-04-17 Givng Retro AI To A Talking Robot via BAUDOT CODE.
+  ],
+ ),
+ dict(name="Relay-Based Multiplexer", kind="Instrument",
+  desc="A relay-based multiplexer Sam is building.",
+  videos=[
+   "qqnfbvVA4b0",  # 2025-06-06 THIS RELAY BASED MULTIPLEXER IS PROGRESSING
+  ],
+ ),
+ dict(name="Modified Moog Keytar", kind="Instrument",
+  desc="Sam's modified Moog Liberation keytar.",
+  videos=[
+   "UebtZQ3EUr0",  # 2026-01-22 Purists Look Away Now! TIME TO MODIFY MY MOOG KEYTAR TO MAKE IT MORE P
   ],
  ),
 ]

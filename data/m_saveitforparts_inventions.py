@@ -1,34 +1,53 @@
-"""Curated inventions for Saveitforparts (@saveitforparts).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Saveitforparts. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'saveitforparts', 'name': 'Saveitforparts', 'person': 'Saveitforparts', 'tagline': 'Satellite dishes, salvage and DIY builds, from boats to tunnels.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
 INVENTIONS = [
- dict(name="Building a Motorized Canoe out of Trash", kind="Build",
+ dict(name="Weedwhacker Motor Canoe", kind="Build",
   desc="I mounted a propeller and an old weedwhacker motor to a smashed up canoe!",
   videos=[
    "gfeZ5O4G0SA",  # 2019-07-01 Building a Motorized Canoe out of Trash
+   "I_ZizFzBHls",  # 2019-07-05 Testing Weedwhacker Canoe Motor on the Lake!
+   "XPCJivzBraM",  # 2019-10-01 Tuning up and testing the motorized canoe one last time!
+   "9EzklfSQzLg",  # 2022-01-02 Weedwhacker Motor Canoe Made From Trash #shorts
+   "Q2cgjMceoJE",  # 2024-10-04 I Threw Away My Gas Weedwhacker And Went Electric!
   ],
  ),
- dict(name="Building a Spud Gun with a Propane Torch", kind="Build",
+ dict(name="Potato Cannons", kind="Build",
   desc="I upgraded the classic starch accelerator with a propane fuel system and electronic ignition courtesy of a used propane torch.",
   videos=[
    "alKDbycwwxc",  # 2020-01-07 Building a Spud Gun with a Propane Torch - How to Make a Gas Powered P
+   "y364uvJSq-U",  # 2020-01-11 Pirate Potato Cannon - Compressed Air Spud Gun
+   "WSbTKy386RU",  # 2020-01-22 Semi-Auto Rubber Ball Cannon - Propane Powered Potato Gun Mod
+   "8EbwVsfgGAY",  # 2020-03-26 Spud Gun Whistles
+   "SzF_lpuLFt4",  # 2020-06-21 Steampunk Popgun (Failed Mini Spudgun)
+   "iVUh8_Fx5nM",  # 2026-09-17 Anti-drone potato cannon
   ],
  ),
- dict(name="Homemade Mini Airboat on Ice and Snow", kind="Build",
+ dict(name="Homemade Mini Airboat", kind="Build",
   desc="Testing out my homemade airboat on a frozen lake!",
   videos=[
+   "mRE7adeXduE",  # 2019-12-04 My Homemade Miniature Airboat - A Quick Introduction to the Project
+   "sHGgeJsT6Kc",  # 2020-02-12 Fixing the Electrical Wiring on my Mini Airboat
+   "IyUWHSzU13c",  # 2020-02-19 Mini-Airboat Tune-up and Test Run in my Driveway!
+   "MOvVO72Fnuo",  # 2020-02-25 Mini-Airboat Trailer Extension & Other Updates
    "ZCc0fqTUgMc",  # 2020-02-25 Homemade Mini Airboat on Ice and Snow
+   "1-6kVgBdnR0",  # 2020-03-04 Building a Remote Carburetor Adjust for my Mini Airboat
+   "noNHNKJbuic",  # 2020-03-04 Mini Airboat Ice Drifting and Crash!
+   "o_a-t8B9Azs",  # 2020-03-08 Airboat Hatch Cover
+   "ZD8UBKKQbZU",  # 2020-03-09 Mini Airboat on Wheels! (Part 1)
+   "PxqO3rcvBqg",  # 2020-03-16 Small Airboat Updates
+   "kzI9FO7sqZY",  # 2020-03-20 Driving an Airboat to Kmart (almost hit a semi truck)
+   "TKYOy1dcA2w",  # 2021-09-14 Airboat Crash Short Version #shorts
   ],
  ),
  dict(name="Grappling Hook Launcher", kind="Build",
   desc="I added a line throwing / grappling hook launching attachment to my potato cannon.",
   videos=[
    "5e-_fe-NOmc",  # 2020-03-10 Grappling Hook Launcher - Spud Gun Attachment
+   "zjJ-Kyu46qQ",  # 2020-03-18 Grappling Hook Gun mk2
    "sv97dV90alg",  # 2021-12-18 Grappling Hook Launcher #shorts
   ],
  ),
@@ -42,25 +61,6 @@ INVENTIONS = [
   desc="For when handheld spud cannons aren't enough!",
   videos=[
    "ocxYe_j6nOw",  # 2020-05-13 Homemade Potato Howitzer
-  ],
- ),
- dict(name="Airboating on the Mississippi River in Minneapolis", kind="Build",
-  desc="Driving my homemade mini-airboat around on the Mississippi River.",
-  videos=[
-   "l4RSWlp4uo8",  # 2020-05-25 Airboating on the Mississippi River in Minneapolis
-   "yIA13Ztdi8c",  # 2026-09-11 DIY mini airboat on the Mississippi River
-  ],
- ),
- dict(name="Refurbishing A Free Speedboat", kind="Build",
-  desc="Part One of what will likely be several installments on rebuilding a free 1970s Tri-Hull boat.",
-  videos=[
-   "dtdcd2EcfDg",  # 2020-06-18 Refurbishing A Free Speedboat - Part 1 - Checking the Engine
-   "PmO00g8gN10",  # 2020-07-30 Refurbishing a Free Speedboat - Part 2 - Fixing the Engine
-   "VcM0eztbDOM",  # 2020-08-12 Refurbishing a Free Speedboat - Part 4 - Finally On The Water!
-   "mjbPlE9SbJc",  # 2020-08-12 Refurbishing a Free Speedboat - Part 3 - Reinforcing the Stern
-   "hYyDUDpM-fI",  # 2020-08-26 Refurbishing a Free Speedboat - Part 5 - Why Won't It Shift???
-   "TEAktFgufFQ",  # 2020-10-29 Refurbishing a Free Speedboat - Part 6 - What's broken NOW?
-   "aZIhXA_0-O4",  # 2021-06-02 Refurbishing a Free Speedboat - Part 7 - Maybe The End?
   ],
  ),
  dict(name="Fish Dome in our Garden Pond", kind="Build",
@@ -81,6 +81,8 @@ INVENTIONS = [
   videos=[
    "FL4S4JoUMRQ",  # 2020-07-22 Handheld Electronic Sensor Device with Raspberry Pi (Part 1)
    "jk3j4P-e4kc",  # 2020-08-05 Handheld Scanning Device with Raspberry Pi - Part 2
+   "61bYX7lj7LE",  # 2020-11-05 Testing a Raspberry Pi Handheld Scanner Underground! (Redneck Tricorde
+   "8ASxPRd8jXo",  # 2021-12-08 Handheld Capacitive Wall Scanner With Raspberry Pi & Touchscreen
   ],
  ),
  dict(name="What's The Best Potato Cannon? We Find Out With Science", kind="Build",
@@ -96,14 +98,6 @@ INVENTIONS = [
    "MHnZNmT1Z0o",  # 2020-12-24 DIY Aluminum Smelter - Part 2
   ],
  ),
- dict(name="We Got a Huge Fast Food Playland for Free", kind="Build",
-  desc="Some friends found this massive restaurant playland advertised for free, so a bunch of us got together to disassemble and move it.",
-  videos=[
-   "AcmGNB5EPN0",  # 2020-12-30 We Got a Huge Fast Food Playland for Free!
-   "-rrZFwgv4HE",  # 2021-04-28 Update On The Free Fast Food Playland
-   "itQOjhZpfR0",  # 2021-10-06 Re-Assembling The Free Fast Food Playground Structure! (Playland Part 
-  ],
- ),
  dict(name="DIY Radio Telescope / Satellite Finder Made From Old Dish", kind="Build",
   desc="This is a pretty basic motorized satellite dish for radio astronomy and/or amateur satellite experimenting.",
   videos=[
@@ -111,20 +105,19 @@ INVENTIONS = [
    "pBRLSTi1Xuc",  # 2021-12-20 Things To Do With An Old Satellite Dish #shorts
   ],
  ),
- dict(name="Building A Train Out Of Trash! DIY Rail Vehicle", kind="Build",
+ dict(name="DIY Rail Vehicles", kind="Build",
   desc="Part 1 of my attempt to build a homemade railway speeder or railroad bicycle.",
   videos=[
+   "__4tDfAAbxA",  # 2018-03-25 Testing an antique railbike
    "whB9rdiQmQ8",  # 2021-02-10 Building A Train Out Of Trash! DIY Rail Vehicle Pt1
    "3rVpEeEC3pk",  # 2021-02-17 Building a Train Out of Trash - DIY Railbike Pt 2
    "5nhw6U--Wms",  # 2021-03-04 Building a Train Out of Trash - DIY Railbike Pt 3
-  ],
- ),
- dict(name="Exploring Abandoned Alaska Salmon Cannery At Funter Bay", kind="Build",
-  desc="Funter Bay had one of the first salmon canneries on Admiralty Island, opened in 1902.",
-  videos=[
-   "GsfFGnfnMqM",  # 2021-03-11 Funter Bay in 1990
-   "YRUys_0xCrQ",  # 2025-08-22 Exploring Abandoned Alaska Salmon Cannery At Funter Bay
-   "zSyyV_UqYLc",  # 2025-09-12 Exploring Underground Alaskan Gold Mine At Funter Bay
+   "Gu1aGpQr7QQ",  # 2021-04-22 Rail Cart Ride to Abandoned Switch Yard
+   "0v3dK13rsSo",  # 2022-04-20 I Crashed My Motorized Railbike
+   "Mv1xJ3JfgB0",  # 2022-04-24 Homemade train on abandoned railroad #shorts
+   "9NDMk6vd14I",  # 2022-11-09 Sailing Abandoned Railroad On DIY Wind Powered Cart
+   "QuMMSz1sews",  # 2023-04-03 Rail Cart Update #shorts
+   "7e_va2OvUgg",  # 2023-06-13 June Rail Cart Update #shorts
   ],
  ),
  dict(name="Homemade QFH Helix Antenna For NOAA Weather Satellites", kind="Build",
@@ -138,14 +131,6 @@ INVENTIONS = [
   videos=[
    "X1Fo_gK-QeI",  # 2021-04-14 Building a Motorized Rail Cart for Abandoned Tracks
    "KIzHAEVlxFk",  # 2022-03-24 Building Motorized Railbike For Abandoned Tracks
-  ],
- ),
- dict(name="Downloading Images from Russian Satellite", kind="Build",
-  desc="My first attempt at getting images from the Russian \"Meteor M2\" weather satellite.",
-  videos=[
-   "w_QpKGK0tuE",  # 2021-04-30 Downloading Images from Russian Satellite
-   "VcqAhdOfQH0",  # 2023-07-03 Grabbing Images From New Russian Satellite (Meteor M2-3)
-   "kNi4W4SqRDU",  # 2026-08-28 Downloading images from Russian satellite with trash antenna
   ],
  ),
  dict(name="DIY Rail Speeder on Abandoned Urban Railroad", kind="Build",
@@ -165,11 +150,15 @@ INVENTIONS = [
  dict(name="Jet Boat", kind="Build",
   desc="Part 3 of fixing up and testing the \"new\" 1960s jet boat.",
   videos=[
+   "oOXMtOkvT0Q",  # 2021-07-23 One Last Ultimate Boat Upgrade! (Free Tri-Hull pt 8 / Jet Boat pt 1)
+   "X9TQRbiD9-o",  # 2021-07-28 1962 Dorsett Catalina with V8 Jet Drive - Test Runs and First Impressi
    "KBuSZGGrE8Y",  # 2021-08-04 Jet Boat Part 3 (The Water Cops Showed Up)
    "-t_wQJtRWFo",  # 2021-09-09 Cutting Holes In My Boat! (Jet Boat Part 4)
    "gh2MYUBCMk8",  # 2021-09-15 More Jet Boat Repairs and Tests (Jet Boat part 5)
    "r-C89Dhs7bo",  # 2021-09-22 Jet Boat Part 6 - More Repairs and Actual River Running!
    "TVKvPvP7lrQ",  # 2021-09-29 Jet Boat Trip from South St. Paul to Highland Park (Jet Boat pt 7)
+   "rckyrUzCnlc",  # 2021-10-08 Replacing the Bowl Seal on a Berkeley 12JC Jet Drive
+   "lpqMiGsjcXk",  # 2021-10-27 Jet Boat Part 8 - Winterizing and 2021 Wrap-Up
    "IUvN_dldXDg",  # 2022-07-23 Jet Boat Update #shorts
    "Oi3OONTSgt8",  # 2022-11-23 My Jet Boat Is Full Of Raccoons! (Dorsett Catalina Part 9)
    "Nu-ne2i94KE",  # 2023-08-02 Refurbishing 1962 Dorsett Catalina Jet Boat (part 10)
@@ -201,12 +190,6 @@ INVENTIONS = [
    "ytdgCsqjA-A",  # 2022-04-06 Potato Cannon Mini Tank Made From Junk
   ],
  ),
- dict(name="House With Underground Cave In Cannon Falls MN", kind="Build",
-  desc="When this property with a private cave popped up for sale, I knew I had to check it out!",
-  videos=[
-   "H6sUkscZhVI",  # 2022-09-12 House With Underground Cave In Cannon Falls MN
-  ],
- ),
  dict(name="Detecting Starlink Satellites With DIY Tricorder", kind="Build",
   desc="I've found another use for the homemade Rasperry Pi tricorder I built last year.",
   videos=[
@@ -233,21 +216,6 @@ INVENTIONS = [
    "DsVfahM6X54",  # 2022-11-21 Auto Tracking Rocket Turret #shorts
   ],
  ),
- dict(name="Trying An Old 3D Printer", kind="Restoration",
-  desc="I was given an early model 3D printer to experiment with, this is my first attempt to fire it up and print things.",
-  videos=[
-   "ekHNB7h6tv8",  # 2022-12-08 Trying An Old 3D Printer (Printrbot Rev D)
-   "pffe51ehxJo",  # 2023-03-09 Fixing Old Monoprice 3D Printer
-  ],
- ),
- dict(name="Mystery Device From Ax-Man Surplus", kind="Build",
-  desc="It appears this is a Dataradio from EF Johnson, a former Minnesota radio manufacturer.",
-  videos=[
-   "6ym3-frxoyw",  # 2023-02-01 Antique Mystery Gadget From Ax-Man Surplus (Alnor Pyrocon)
-   "WI5YEEfGi8Q",  # 2023-04-26 Ax-Man Surplus Mystery Gadget - Scientific Atlanta Drop Amplifier?
-   "mOk6uXSFQLk",  # 2025-03-08 Mystery Device From Ax-Man Surplus (Dataradio SCADA Tranciever)
-  ],
- ),
  dict(name="Custom Cyberdeck For Satellite Hacking", kind="Build",
   desc="Custom Cyberdeck For (Legal) Satellite Hacking.",
   videos=[
@@ -267,22 +235,11 @@ INVENTIONS = [
    "lVOTZxNCgTM",  # 2023-03-29 Seeing Satellites with DIY Microwave Camera
   ],
  ),
- dict(name="Breaking Through Between Tunnels At Sandland", kind="Build",
-  desc="In this episode we're making some connections between tunnels!",
-  videos=[
-   "IIsXmMAlF-c",  # 2023-04-19 Breaking Through Between Tunnels At Sandland
-  ],
- ),
- dict(name="Trying To Hack A Winegard Satellite Antenna", kind="Build",
-  desc="This is another partial teardown and attempt to interface with a Winegard satellite dish.",
-  videos=[
-   "DoFR6djUw7E",  # 2023-05-17 Trying (& Failing) To Hack A Winegard Satellite Antenna
-  ],
- ),
  dict(name="Building A DIY Outdoor Catio", kind="Build",
   desc="Building A DIY Outdoor Catio (Cat Patio).",
   videos=[
    "u60S4VBioIg",  # 2023-06-07 Building A DIY Outdoor Catio (Cat Patio)
+   "PO8Q4H6Zn9w",  # 2026-08-31 Repairing And Upgrading The DIY Catio
   ],
  ),
  dict(name="DIY Pump Handcar for Abandoned Railroads", kind="Build",
@@ -303,16 +260,6 @@ INVENTIONS = [
   videos=[
    "ChwmGmICQuU",  # 2023-09-06 Mysterious Space Object Detected With DIY Radio Telescope
    "nExo20t27eg",  # 2025-04-28 Videos Of Satellites In Space Made With DIY Radio Telescope
-  ],
- ),
- dict(name="I Bought A Geodesic Space Dome", kind="Build",
-  desc="This fall I went up to Ontario, Canada, to pick up an 18ft diameter geodesic dome!",
-  videos=[
-   "abR1BJ4_ea8",  # 2023-10-04 I Bought A Geodesic Space Dome!
-   "MnMzm3_N9KA",  # 2023-10-25 Geodesic Dome Part 2 - Moving and Sorting The Pieces
-   "dvrlMOF-CfY",  # 2024-05-29 Assembling A Surplus Geodesic Space Dome
-   "SGdFcxE1oS4",  # 2024-06-01 Will Our Geodesic Dome Survive A Storm?
-   "_NwdWkWjH_c",  # 2026-02-09 Chasing Satellites With My Geodesic Dome (And Filming With SJCam C400)
   ],
  ),
  dict(name="An Answering Machine For Your Ham Radio", kind="Build",
@@ -367,12 +314,6 @@ INVENTIONS = [
    "Nz_SWLQmvVY",  # 2024-05-08 Small TV Dish Modified For HRPT Weather Satellites - Trash Antenna Bui
   ],
  ),
- dict(name="I Don't Understand Spot Welding", kind="Build",
-  desc="I found a free spot welder and can't get anything to weld.",
-  videos=[
-   "SyMpKOfdbps",  # 2024-07-27 I Don't Understand Spot Welding
-  ],
- ),
  dict(name="I Taped A Thermal Camera To A Drone And Saved $4,500", kind="Build",
   desc="Drones are fun, infrared thermal cameras are fun, what happens when you combine them?",
   videos=[
@@ -385,22 +326,10 @@ INVENTIONS = [
    "mOvUxoA7Ngs",  # 2024-09-11 Making Satellite Calls With A 1973 Telephone (And Inmarsat Mobile Term
   ],
  ),
- dict(name="I Called Peter Fairlie With Satellites", kind="Build",
-  desc="I Called Peter Fairlie With Satellites (And Bounced A Call Through Starlink).",
-  videos=[
-   "yzTPZLtmSOM",  # 2024-09-26 I Called Peter Fairlie With Satellites (And Bounced A Call Through Sta
-  ],
- ),
  dict(name="This Box Sounds An Alarm When You Poop", kind="Build",
   desc="The Sandland restroom is in danger!",
   videos=[
    "rWyvhV2U_B8",  # 2024-10-10 This Box Sounds An Alarm When You Poop
-  ],
- ),
- dict(name="Testing 1970s \"Spy Camp\" Radio & Nooelec HackRF One", kind="Build",
-  desc="Testing 1970s \"Spy Camp\" Radio & Nooelec HackRF One.",
-  videos=[
-   "EwvXPZ7clRw",  # 2024-11-20 Testing 1970s "Spy Camp" Radio & Nooelec HackRF One
   ],
  ),
  dict(name="This 3D-Printed Satellite Antenna Is Fantastic", kind="Build",
@@ -415,25 +344,6 @@ INVENTIONS = [
    "GRLNETxWUR8",  # 2024-12-25 Automatically Tracking L-Band Satellites With Hacked TV Dish & 3-D Pri
   ],
  ),
- dict(name="This Crazy 1970s Device Jumpstarts Your Car With A Chainsaw", kind="Build",
-  desc="Invented by William Lear (the jet guy), this \"Lear Charger\" uses a chainsaw engine and alternator to charge your car battery.",
-  videos=[
-   "IsjV4ZDUqXo",  # 2025-01-15 This Crazy 1970s Device Jumpstarts Your Car With A Chainsaw
-   "9QtN5x2Nddw",  # 2025-01-17 How To Jumpstart Your Car - The Heavy Metal Way!
-  ],
- ),
- dict(name="How Does A Radome Affect Radio Signals", kind="Build",
-  desc="People frequently ask how my geodesic radar dome affects radio reception or radio telescope imaging.",
-  videos=[
-   "cUfDu8PFS9Q",  # 2025-01-22 How Does A Radome Affect Radio Signals?
-  ],
- ),
- dict(name="I Accidentally Bought 15,000lbs Of Concrete Blocks", kind="Build",
-  desc="Sometimes you put in low bids on every pallet at a surplus auction and...",
-  videos=[
-   "edb3Z460JmU",  # 2025-02-28 I Accidentally Bought 15,000lbs Of Concrete Blocks
-  ],
- ),
  dict(name="Snooping On US & Russian Satcom With Military Surplus Antenna", kind="Build",
   desc="You can find more info on the satellites I'm listening to at the links below:",
   videos=[
@@ -441,34 +351,10 @@ INVENTIONS = [
    "0weCUATp5d8",  # 2026-07-15 DIY Folding Antenna For Military Satcom (Made From Trash)
   ],
  ),
- dict(name="Attempting To Hack AvL Satellite Uplink System", kind="Build",
-  desc="This is an AvL 1296K \"Flyaway\" VSAT system, commonly used by the military, news teams, nonprofits, insurance companies, and other groups who need a portable satellite internet terminal.",
-  videos=[
-   "9j-YlN0c_Zo",  # 2025-05-21 Attempting To Hack AvL Satellite Uplink System
-  ],
- ),
- dict(name="Checking Out The HackRF Portapack", kind="Build",
-  desc="These have a few issues, but mostly work, so I was able to try some of the built-in apps for radio transmitting and receiving.",
-  videos=[
-   "C1ordAK0qrY",  # 2025-07-09 Checking Out The HackRF Portapack - A Portable All-In-One Software-Def
-  ],
- ),
  dict(name="Hacking A Military Surplus Laptop", kind="Build",
   desc="This massive beast is a military-issue computer in an EM-shielded enclosure designed as a portable \"laptop\".",
   videos=[
    "FrcNQx41PbM",  # 2025-07-16 Hacking A Military Surplus Laptop - IBDS HCI Computer From UK MOD - ED
-  ],
- ),
- dict(name="Testing A Failed 1980s Toy Video Camera", kind="Build",
-  desc="The PXL2000 was a toy video camera that actually recorded video onto low-cost audio cassettes.",
-  videos=[
-   "Q9GGjCU8x9c",  # 2025-07-30 Testing A Failed 1980s Toy Video Camera - The Fisher Price PXL2000
-  ],
- ),
- dict(name="Mystery Television Device Found At Estate Sale", kind="Build",
-  desc="Please note that this videos is NOT about pirating TV, getting free pay",
-  videos=[
-   "c3SgLnXRKas",  # 2025-08-14 Mystery Television Device Found At Estate Sale
   ],
  ),
  dict(name="I Hid A Meshtastic Node Somewhere In Alaska", kind="Build",
@@ -508,52 +394,10 @@ INVENTIONS = [
    "c-6FBnp0RP4",  # 2026-02-22 Solar Mesh Radio Nodes For Off Grid Communications (Meshtastic For Beg
   ],
  ),
- dict(name="Hacking A Mysterious Satellite Gadget", kind="Build",
-  desc="This one is only *slightly* clickbait, since I actually did have to hack the code for this device to get it working!",
-  videos=[
-   "X4q7l_8pQHg",  # 2026-03-04 Hacking A Mysterious Satellite Gadget - APAL Hestia A2 Gateway
-  ],
- ),
- dict(name="Talking Across The Continent Through The International Space Station", kind="Build",
-  desc="I tried a couple new antennas for dual-band satellite operations, including the Arrow II and a DIY tape measure Yagi-Uda.",
-  videos=[
-   "BnE0HB7_mcI",  # 2026-03-11 Talking Across The Continent Through The International Space Station
-  ],
- ),
  dict(name="Calibrating DIY Satellite Ground Station / Radio Telescope", kind="Build",
   desc="We're continuing setup and commissioning of the DIY radio telescope and satellite ground station.",
   videos=[
    "K2_vqQBB0yI",  # 2026-04-01 Calibrating DIY Satellite Ground Station / Radio Telescope
-  ],
- ),
- dict(name="Listening To Artemis II's Return To Earth With DIY Satellite Station", kind="Build",
-  desc="Multiple people asked if I could follow up my last Artemis II video by listening for radio signals on the return trip from the moon.",
-  videos=[
-   "k1jt9UkpVvU",  # 2026-04-10 Listening To Artemis II's Return To Earth With DIY Satellite Station
-  ],
- ),
- dict(name="I Got Lost In The DIY Tunnel Maze At Sandland", kind="Build",
-  desc="Sandland's tunnel system has been expanding so much that I actually got a little lost on my last visit!",
-  videos=[
-   "3B9y5xoMGW4",  # 2026-05-13 I Got Lost In The DIY Tunnel Maze At Sandland
-  ],
- ),
- dict(name="I Found A Radiosonde", kind="Build",
-  desc="I Found A Radiosonde (Weather Balloon Instrument).",
-  videos=[
-   "w16pjUEGrjk",  # 2026-05-21 I Found A Radiosonde (Weather Balloon Instrument)
-  ],
- ),
- dict(name="Testing Fotric Acoustic Camera To See Sound", kind="Build",
-  desc="This is a fascinating way to \"see\" sound sources.",
-  videos=[
-   "d6tReONGevs",  # 2026-05-29 Testing Fotric Acoustic Camera To See Sound
-  ],
- ),
- dict(name="Testing Antennas With NanoFarField Portable Antenna Lab", kind="Build",
-  desc="Antenom sent me their NanoFarfield antenna analyzer kit, so I decided to give it a try with the classic Pringles Can!",
-  videos=[
-   "dFTVaoUFxs0",  # 2026-06-17 Testing Antennas With NanoFarField Portable Antenna Lab (Prototype Ver
   ],
  ),
  dict(name="Portable Folding Antenna For Weather Satellites", kind="Build",
@@ -566,12 +410,6 @@ INVENTIONS = [
   desc="I wanted to try something a little different with Meshtastic.",
   videos=[
    "j6v8bVjrMAQ",  # 2026-08-19 Using Meshtastic As A Tracking Device
-  ],
- ),
- dict(name="Repairing And Upgrading The DIY Catio", kind="Restoration",
-  desc="Join this channel to get access to perks:",
-  videos=[
-   "PO8Q4H6Zn9w",  # 2026-08-31 Repairing And Upgrading The DIY Catio
   ],
  ),
  dict(name="Searching For Flock Cameras With ESP32 Detector Gadget", kind="Build",
@@ -602,6 +440,270 @@ INVENTIONS = [
   desc="In this video we're following up on the power installation at the Sandland Radio Observatory, as well as updating and testing some satellite feeds.",
   videos=[
    "xSV74pNnB0U",  # 2026-11-02 Testing & Upgrading DIY Radio Observatory
+  ],
+ ),
+ dict(name="Monorail Cabin", kind="Build",
+  desc="A second-hand monorail train turned into an off-grid cabin.",
+  videos=[
+   "wImfyQ1kVyY",  # 2015-06-24 Monorail
+   "aQVPtO6pCwg",  # 2015-06-29 Monorail Unloading
+   "AvvFj-6dWe4",  # 2015-07-09 Monorail Maintenance Facility
+   "kN0wriEv_CI",  # 2019-06-27 I bought a 2nd-hand Monorail Train for $1,000 and made it into a weeke
+   "3KpoPxGqLI0",  # 2020-01-29 Monorail Cabin in the Winter
+   "kqM-XXT1-Ws",  # 2020-07-19 Off-Grid Monorail Cabin From The Air!
+   "4NQVJVzANiw",  # 2020-07-25 My Monorail is Full of Raccoons
+   "HQecIXcD7c0",  # 2021-05-08 Overnight Camping at the Sandland Monorail
+   "xO18--R_Qyg",  # 2021-05-26 Searching for the 1888 South St Paul Monorail
+   "_AUyTRfdFEs",  # 2021-06-21 Monorail Mouse Management
+   "wiPsN6lYyhc",  # 2021-12-28 There's a Zoo in my Zoo Monorail!  #shorts
+   "sSDhjecgGzs",  # 2024-04-15 My Other Car Is A Monorail
+   "AKhjvXWZarM",  # 2024-06-10 Monorail Spring Cleanup & Emergency Whisky!
+   "-lxrP-O_rNI",  # 2024-07-25 What became of the track for our monorail?
+   "x__3_0dIm7k",  # 2025-04-16 Sandland Surface Tour: Off-Grid Property With Tunnels, Monorail, and G
+   "jbGRAtrhIJI",  # 2025-04-19 Solar power upgrades to the Sandland monorail
+   "akBqKVumB1s",  # 2025-10-07 My Monorail Hit A Tree
+   "kn23bsVQLM8",  # 2026-03-28 How Is My Monorail Connected To The Minnesota State Fair?
+  ],
+ ),
+ dict(name="Garden Pond with Canal Lock", kind="Build",
+  desc="A garden pond with a working boat canal lock and swamp filter.",
+  videos=[
+   "nhtb-Wgocm4",  # 2020-02-27 Garden Pond with Working Boat Canal Lock & Swamp Filter
+   "6IknPxYRsEw",  # 2021-06-23 Adding Plants To Our DIY Water Garden Pond
+   "iAEeEKFn96M",  # 2021-12-23 Garden Pond Fishdome #shorts
+   "P1fSLt87-Vs",  # 2023-03-01 DIY Garden Pond Taken Over By Cattails!
+   "9ELaw289g1E",  # 2023-08-04 An Hour Of Garden Pond And Songbirds
+  ],
+ ),
+ dict(name="Rain Barrel Systems", kind="Build",
+  desc="Home-made rain barrel water systems.",
+  videos=[
+   "FtrR39R91LM",  # 2020-05-21 Homemade Rain Barrel Systems
+   "LSmWBn72-hA",  # 2020-07-15 Front Yard Water Barrel System
+  ],
+ ),
+ dict(name="Garden Railroad", kind="Build",
+  desc="The cheapest possible garden railroad.",
+  videos=[
+   "LOQSaWg01vY",  # 2020-09-30 Garden Train Through My Yard - For Under $100! - Cheap Outdoor Railroa
+   "tL9024OSyoM",  # 2020-09-30 Building the Cheapest Possible Garden Railroad with Christmas Tree Tra
+  ],
+ ),
+ dict(name="Trebuchet From Kayak Paddles", kind="Build",
+  desc="A trebuchet made from kayak paddles.",
+  videos=[
+   "Y72N1xhr0uw",  # 2020-12-02 A Trebuchet Made From Kayak Paddles!
+   "uiaF7JTT89g",  # 2021-12-30 Trebuchet Made From Kayak Paddles #shorts
+  ],
+ ),
+ dict(name="Automated Weather Satellite Ground Station", kind="Build",
+  desc="An automated weather satellite ground station made mostly from junk.",
+  videos=[
+   "EK8mFrxxSbY",  # 2021-03-24 Satellite Ground Station With Trash, Cardboard, and Foil Tape!
+   "WM99A1uUprQ",  # 2021-05-19 Automated Home Weather Station (Satellite Image Collector)
+   "PPZtj5JrPNM",  # 2024-05-23 Automated Weather Satellite Ground Station (Mostly Made From Trash)
+  ],
+ ),
+ dict(name="Underground Speakeasy", kind="Build",
+  desc="An underground speakeasy hand-dug into sandstone bedrock.",
+  videos=[
+   "XgINZBG3NgU",  # 2021-05-06 Digging an Underground Speakeasy in Sandstone Bedrock
+   "X24dG0JspMA",  # 2021-07-22 DIY Underground Speakeasy Part Two - Digging an Underground Bar in San
+   "TcQPYWFy2Bk",  # 2021-12-15 Underground Speakeasy Pt3 - Bar Booth with Manhole Table!
+   "9NivacJOwXY",  # 2021-12-17 Digging An Underground Speakeasy #shorts
+   "I4IwaqKoWMg",  # 2021-12-21 More Underground Speakeasy
+   "iXGEjot0s_o",  # 2022-02-23 Digging Tunnels With An Angle Grinder - Sand Bar Pt 4 (Underground Cav
+   "slgWK0ys78I",  # 2022-08-31 Digging An Underground Speakeasy Part 6
+   "zKm34CV67jE",  # 2022-11-02 Digging Tunnels & Making Cement With Beer! (Sand Bar Part 7)
+   "tcKUZ2x17_4",  # 2022-12-01 Installing A Secret Manhole In The Floor Of My Underground Speakeasy
+   "Hl6XyhAn9e0",  # 2023-07-05 Digging An Underground Speakeasy (Sand Bar) Part 10 - Random Projects 
+   "WCrpVJNeIs4",  # 2025-02-27 Even More Underground Speakeasy Construction (Sandland Sand Bar)
+   "M6cqHCttXeo",  # 2025-11-11 Digging a secret tunnel to drink beer #underground #speakeasy #wiscons
+  ],
+ ),
+ dict(name="Amphibious Surfbike", kind="Build",
+  desc="A motorised bicycle and surfboard mash-up that works on land and water.",
+  videos=[
+   "TUxAStEqmI4",  # 2021-07-14 Building an Amphibious Surfbike (Motorized Bicycle / Surfboard Thing)
+   "b67F6nMDCkw",  # 2021-09-10 DIY Surfboard Bike Mashup
+   "aTZ4fN-UbLo",  # 2021-09-19 Surfboard Fail Short Version #shorts
+  ],
+ ),
+ dict(name="Tuggy Sandbox Electric Tugboat", kind="Build",
+  desc="A Tuggy sandbox turned into an electric boat, later an R/C tugboat.",
+  videos=[
+   "gKPx86pFYvI",  # 2021-09-17 Turning a Tuggy Sandbox into an Electric Boat
+   "KmOBKalvRWE",  # 2024-07-24 My Illegal Tugboat Is Now An R/C Toy!
+   "iQLN6P2mPHs",  # 2024-10-10 Lake Adventure With Radio Controlled Electric Tugboat
+   "ynN7O9myqLA",  # 2024-10-31 R/C Tuggy Sandbox On The Mississippi River
+   "SVS9BNLlSg4",  # 2024-11-01 One Hour Of Realtime Tuggy Tugboat On The Mississippi River
+   "ObFr2ZAq73s",  # 2026-06-01 Driving my tugboat sandbox down the Mississippi River #tugboatlife #tu
+   "jxlqk5vBvlM",  # 2026-06-03 Driving Tuggy Sandbox Boat Through Downtown St. Paul
+  ],
+ ),
+ dict(name="Underwater ROV", kind="Build",
+  desc="Home-made underwater ROV submarines built from scraps, used in flooded caves and mines.",
+  videos=[
+   "-oEnJTkuWSM",  # 2021-11-17 Homemade Underwater ROV Made From Scraps
+   "TGMtDsr0X2I",  # 2022-01-05 Homemade Mini Sub ROV In Flooded Natural Cave
+   "xKCicOGnw0A",  # 2022-10-12 Homemade ROV Submarine In Flooded Underground Mine
+   "31GYJOsOU6Q",  # 2025-09-24 Underwater ROV with 360° Periscope
+  ],
+ ),
+ dict(name="Sentry Turrets", kind="Build",
+  desc="Automatic foam-dart sentry turrets, including one on a Roomba.",
+  videos=[
+   "hPUXLV-Lr_8",  # 2022-03-02 Automatic Foam Dart Sentry Turret
+   "sYaZxG5tqUw",  # 2022-05-25 Unstoppable Auto-Turret Roomba of Doom
+  ],
+ ),
+ dict(name="Backyard Snow Bar", kind="Build",
+  desc="A backyard bar built in a giant snow pile.",
+  videos=[
+   "nGr1kfQGb30",  # 2023-03-24 I Built A Backyard Bar In A Giant Snow Pile
+  ],
+ ),
+ dict(name="Geodesic Radome Ground Station", kind="Build",
+  desc="A geodesic radome turned into a satellite ground station.",
+  videos=[
+   "FTutCRxThwQ",  # 2024-12-13 I'm Now A 1980s Cartoon Villain (Geodesic Radome Part 5)
+   "EKT2SugXqPw",  # 2025-10-24 360 VR Tour of Sandland Geodesic Radome
+   "QM9tTVzzmtk",  # 2025-12-18 Installing A Satellite Dish In My Geodesic Radome
+  ],
+ ),
+ dict(name="Satellite Antenna Builds", kind="Build",
+  desc="Satellite antennas made with laser cutting and CNC.",
+  videos=[
+   "GUHieqIKgMM",  # 2025-03-19 Making Satellite Antennas With Lasers
+   "12_MLahfU8Q",  # 2026-03-02 Making Radio And Satellite Dish Parts With CNC
+   "3PS_xbb1cd4",  # 2026-07-18 How To Assemble A Laser-Cut L-Band Helical Antenna
+  ],
+ ),
+ dict(name="Dual-Band Satellite Rotor", kind="Build",
+  desc="An attempt at a dual-band satellite rotor.",
+  videos=[
+   "talTP6QTJJ0",  # 2025-05-10 I Failed To Build A Dual-Band Satellite Rotor
+   "aANgJI1FTCg",  # 2025-11-14 I still can't figure out a basic ham radio satellite rotor
+  ],
+ ),
+ dict(name="Washing Machine Parts Rocket", kind="Build",
+  desc="A rocket made from washing machine parts and random junk.",
+  videos=[
+   "kSPaCRwBHMY",  # 2019-12-26 Rocket Made From Washing Machine Parts and Random Junk - Building, Lau
+  ],
+ ),
+ dict(name="Z-Scale Train Controller", kind="Build",
+  desc="A Z-scale model train controller.",
+  videos=[
+   "0FdS0lVx1nQ",  # 2020-03-02 Building a Z-Scale Train Controller
+  ],
+ ),
+ dict(name="French Fry Cannon & Ketchup Gun", kind="Build",
+  desc="A french fry cannon and a ketchup gun.",
+  videos=[
+   "A2dNqk0FAcs",  # 2020-04-22 French Fry Cannon and Ketchup Gun
+  ],
+ ),
+ dict(name="Handheld Saturn Missile Launcher", kind="Build",
+  desc="A handheld Saturn missile launcher.",
+  videos=[
+   "dgdPAhE-gpU",  # 2020-09-03 Handheld Saturn Missile Launcher
+  ],
+ ),
+ dict(name="Terrible Pontoon Boat", kind="Build",
+  desc="A home-made pontoon boat.",
+  videos=[
+   "BIp5uVMcoFg",  # 2020-10-14 Terrible Pontoon Boat
+  ],
+ ),
+ dict(name="Backpack Air Cannon", kind="Build",
+  desc="A simple backpack air cannon made from trash.",
+  videos=[
+   "kLUkWMR0Dw0",  # 2021-02-03 Simple Backpack Air Cannon Made From Trash!
+  ],
+ ),
+ dict(name="Air Conditioned Suit", kind="Build",
+  desc="An air-conditioned suit for the summer.",
+  videos=[
+   "QU9clRAxDug",  # 2021-06-16 Building an Air Conditioned Suit for the Summer
+  ],
+ ),
+ dict(name="Six-Boat Kayak Trailer", kind="Build",
+  desc="A home-made kayak trailer for up to six boats.",
+  videos=[
+   "ZVkLTRDDCLE",  # 2021-10-20 Homemade Kayak Trailer for up to Six Boats
+  ],
+ ),
+ dict(name="DIY Food Dehydrator", kind="Build",
+  desc="A simple food dehydrator for preserving peppers.",
+  videos=[
+   "ORKsFxtp22o",  # 2021-11-24 Simple DIY Food Dehydrator for Preserving Peppers
+  ],
+ ),
+ dict(name="Garden Bar From Trash", kind="Build",
+  desc="A quick and dirty garden bar made from trash.",
+  videos=[
+   "9ovLTxXUUac",  # 2022-08-12 Quick & Dirty Garden Bar Made From Trash
+  ],
+ ),
+ dict(name="Dobsonian Telescope Base", kind="Build",
+  desc="A Dobsonian base for an old telescope.",
+  videos=[
+   "YRSpV_x4ZVA",  # 2022-09-07 Building a Dobsonian Base For An Old Telescope
+  ],
+ ),
+ dict(name="3D Printer Shelf", kind="Build",
+  desc="A shelf for his 3D printers.",
+  videos=[
+   "1OasvPoBJDE",  # 2023-05-08 Making a Shelf For My 3D Printers
+  ],
+ ),
+ dict(name="Geostationary Orbit Scale Model", kind="Build",
+  desc="A scale model of geostationary orbit.",
+  videos=[
+   "3X0zLF5cdDc",  # 2024-06-14 Making A Scale Model Of Geostationary Orbit
+  ],
+ ),
+ dict(name="Cat Escape Hatch", kind="Build",
+  desc="A cat escape hatch.",
+  videos=[
+   "6jkVTnNpkiU",  # 2024-11-16 I Built A Cat Escape Hatch
+  ],
+ ),
+ dict(name="$600 Carport", kind="Build",
+  desc="A $600 carport for storing free boats.",
+  videos=[
+   "b-1CNHIMblk",  # 2025-02-13 Building A $600 Carport To Store Free Boats
+  ],
+ ),
+ dict(name="Laser-Cut Puzzles", kind="Build",
+  desc="Custom laser-cut 2D and 3D puzzles.",
+  videos=[
+   "5p5JStsCDOY",  # 2025-05-26 Making Custom Laser-Cut Puzzles (2D & 3D)
+  ],
+ ),
+ dict(name="Gun For Every Household Task", kind="Build",
+  desc="Guns for every household task.",
+  videos=[
+   "C-nHKH6aEUM",  # 2025-10-14 A Gun For Every Household Task - Is This The Most American Product Eve
+  ],
+ ),
+ dict(name="Redneck Rocketship", kind="Build",
+  desc="A redneck rocketship.",
+  videos=[
+   "gdV4VkTauN0",  # 2025-12-11 I built a redneck rocketship!  #diy #rocket #spaceship #scifi
+  ],
+ ),
+ dict(name="Giant Fridge Magnet Table", kind="Build",
+  desc="A table turned into a giant fridge magnet.",
+  videos=[
+   "dmUAShRP0Xg",  # 2026-01-13 Making a table into a giant fridge magnet
+  ],
+ ),
+ dict(name="Punch-Card Police Scanner Hack", kind="Build",
+  desc="Programming a vintage police scanner with punch cards.",
+  videos=[
+   "J0K3x0reFUA",  # 2025-10-29 Police Scanner With Punch Card Programming - Vintage SBE Opti-Scan
   ],
  ),
 ]
