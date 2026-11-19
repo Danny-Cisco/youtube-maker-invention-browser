@@ -479,6 +479,7 @@ const onMakers = () => !C;
 try { Object.assign(st, JSON.parse(sessionStorage.getItem("ma.list") || "{}")); } catch {}
 st.kind = "All";  // the type-filter pills were removed; never leave an old type filter switched on
 if (!Array.isArray(st.cc)) st.cc = [];
+st.q = ""; st.mq = "";  // every page load starts with an empty search box; sorts are still remembered
 if (!SORT[st.sort]) st.sort = "views";
 const saveSt = () => { try { sessionStorage.setItem("ma.list", JSON.stringify(st)); } catch {} };
 function getSeen(){ try { return new Set(JSON.parse(localStorage.getItem("ma.seen") || "[]")); } catch { return new Set(); } }
@@ -1297,7 +1298,9 @@ $("qform").addEventListener("submit", ev => { ev.preventDefault(); applySearch()
   const target = $("makerGrid") || $("main"); const top = target.getBoundingClientRect().top + window.scrollY - topbar.offsetHeight - 12;
   if (top > window.scrollY) window.scrollTo({ top, behavior: "smooth" }); });
 // Browsers that restore the page from memory (Back button, reopened tab) get a fresh slideshow too.
-window.addEventListener("pageshow", ev => { if (ev.persisted && page === "makers") drawHero(true); });
+window.addEventListener("pageshow", ev => { if (!ev.persisted) return;
+  if ($("q").value) { $("q").value = ""; applySearch(); }  // the Back button restores the old page from memory: start with an empty search here too
+  if (page === "makers") drawHero(true); });
 // The bar under the search only gets its dividing line once it is stuck to the top of the screen.
 const topbar = document.querySelector(".topbar");
 const markStuck = () => topbar.classList.toggle("stuck", topbar.getBoundingClientRect().top <= 0 && window.scrollY > 0);
