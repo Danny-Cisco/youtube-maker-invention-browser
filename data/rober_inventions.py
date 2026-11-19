@@ -1,9 +1,6 @@
-"""Curated inventions for Mark Rober (@markrober). Pure science explainers and experiments without a build stay under Other uploads.
-kind: Trap & prank | Machine | Robot | Costume | Experiment
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Mark Rober. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'mark-rober', 'name': 'Mark Rober', 'person': 'Mark Rober', 'tagline': 'Former NASA engineer: glitter bombs for porch pirates, squirrel ninja courses and giant experiments.', 'other_label': 'Other uploads: science explainers, experiments, Shorts and collabs'}
 
@@ -41,8 +38,8 @@ INVENTIONS = [
  dict(name="Pinewood Derby Car", kind="Machine",
   desc="A 40 mph pinewood derby car, then the science of winning one.",
   videos=[
-   "vlBxPjxacsk",  # 2014-04-16 40 MPH Pinewood Derby Car- HOW TO
    "-RjJtO51ykY",  # 2014-04-16 EASY Pinewood Derby Car WINS using Science!!!
+   "vlBxPjxacsk",  # 2014-04-16 40 MPH Pinewood Derby Car- HOW TO
   ],
  ),
  dict(name="Egg Drop", kind="Machine",
@@ -63,6 +60,7 @@ INVENTIONS = [
   desc="The world's largest Super Soaker.",
   videos=[
    "T1KRQ3RcvXA",  # 2017-07-11 World's Largest Super Soaker
+   "paHr1oLaqJ4",  # 2025-06-20 Human vs World’s Largest Water Gun
   ],
  ),
  dict(name="Snowball Machine Gun", kind="Machine",
@@ -129,6 +127,7 @@ INVENTIONS = [
   desc="A bowling ball that steers itself to a strike.",
   videos=[
    "wM5NHC97JBw",  # 2019-11-14 World's First Automatic Strike Bowling Ball
+   "uXUKVWV7FOQ",  # 2023-04-12 8-Year-Olds vs Modified Bowling Ball
   ],
  ),
  dict(name="Unbreakable Ice Cream Safe", kind="Trap & prank",
@@ -177,6 +176,7 @@ INVENTIONS = [
   desc="A ball that is impossible to hit.",
   videos=[
    "T9xsTO6ujqM",  # 2023-05-28 This Ball is Impossible to Hit
+   "lcIObyvI3uw",  # 2023-08-11 This Ball Is Impossible To Hit
   ],
  ),
  dict(name="Rigged Candy Bowl", kind="Trap & prank",
@@ -195,6 +195,7 @@ INVENTIONS = [
   desc="A wheelchair like you've never seen.",
   videos=[
    "QpwJEYGCngI",  # 2024-03-23 You've Never Seen A Wheelchair Like This
+   "xuKigD8_0qM",  # 2025-02-20 You’ve never seen a wheelchair like this…
   ],
  ),
  dict(name="Vortex Cannon", kind="Machine",
@@ -219,6 +220,7 @@ INVENTIONS = [
   desc="A rock-paper-scissors robot that never loses.",
   videos=[
    "Twn_4AW0M6U",  # 2024-11-02 My Rock, Paper, Scissors Robot Never Loses (+9 Other Inventions)
+   "qgZReY9jnj4",  # 2025-02-13 This Robot Is Impossible To Beat!
   ],
  ),
  dict(name="Space Satellite", kind="Machine",
@@ -243,7 +245,9 @@ INVENTIONS = [
  dict(name="Unbeatable Goalie Robot", kind="Robot",
   desc="A goalie robot against Ronaldo.",
   videos=[
+   "AGUO3YQ_Y38",  # 2025-11-28 Ronaldo vs My Goalie Robot
    "jjpjjcMeujM",  # 2025-11-28 Ronaldo vs My Unbeatable Goalie Robot
+   "qsJgJjOG5tY",  # 2025-12-16 How Close To Beat My Goalie Robot?
   ],
  ),
  dict(name="Junkyard RC Car Death Match", kind="Machine",
@@ -256,6 +260,8 @@ INVENTIONS = [
   desc="Outsmarting professional car thieves.",
   videos=[
    "h0EGCnBjTVk",  # 2026-06-20 I Outsmarted Pro Car Thieves
+   "--LXDh44cBQ",  # 2026-06-25 3 Levels of Car Theft
+   "GRbokvmv-2M",  # 2026-07-16 Stop Your Car From Getting Stolen!
   ],
  ),
  dict(name="Early Gadgets", kind="Machine",
@@ -270,6 +276,88 @@ INVENTIONS = [
    "OEd5lTmeAH8",  # 2013-05-09 Matrix Effect Using Only a Ceiling Fan
    "mDmFSz8-r7g",  # 2013-07-30 Glowing Algae Water Fountain
    "I6IqoSAtjb0",  # 2016-10-11 GLOWING WALL DIY- EASY and AWESOME
+  ],
+ ),
+ dict(name="Gorilla Cam", kind="Gadget",
+  desc="A gorilla cam that lures gorillas with a phone.",
+  videos=[
+   "O1P6K_PaS0A",  # 2012-02-14 Make a Gorilla cam- HOW TO
+   "ZaOw8B_2kWY",  # 2012-02-14 Gorilla lured by Phone- how-to demo
+   "tFQ5wjQ-1o0",  # 2025-01-16 How To Lure A Gorilla With Your Phone
+  ],
+ ),
+ dict(name="World's Largest Lemon Battery", kind="Power",
+  desc="The world's largest lemon battery.",
+  videos=[
+   "a1D-fZP8qJk",  # 2018-06-23 World's Largest Lemon Battery
+  ],
+ ),
+ dict(name="World's Largest Jello Pool", kind="Object",
+  desc="The world's largest jello pool.",
+  videos=[
+   "DPZzrlFCD_I",  # 2019-05-16 World's Largest Jello Pool- Can you swim in Jello?
+   "5JUlNlGqnlw",  # 2024-07-25 World’s Largest Jello Pool
+  ],
+ ),
+ dict(name="Baseball Sign Stealer", kind="Software",
+  desc="Stealing baseball signs with a phone and machine learning.",
+  videos=[
+   "PmlRbfSavbI",  # 2019-06-30 Stealing Baseball Signs with a Phone (Machine Learning)
+  ],
+ ),
+ dict(name="World's Largest Frisbee Launcher", kind="Machine",
+  desc="The world's largest frisbee launcher.",
+  videos=[
+   "1g4eGf7394I",  # 2023-04-25 World’s Largest Frisbee Launcher
+  ],
+ ),
+ dict(name="RC Shopping Cart", kind="Vehicle",
+  desc="A remote-control shopping cart.",
+  videos=[
+   "eMeRRgeS4Ow",  # 2023-05-24 Remote-Control Shopping Cart Prank!
+  ],
+ ),
+ dict(name="3D Printer Orchestra", kind="Instrument",
+  desc="A 3D printer orchestra and the actual world's smallest violin, with AJR.",
+  videos=[
+   "jq8JPNGzYd4",  # 2023-09-28 3D Printer Orchestra with @ajr
+   "s9g8jgZwXHg",  # 2023-12-09 ACTUAL World’s Smallest Violin with @ajr
+  ],
+ ),
+ dict(name="Longest Drink Helmet", kind="Wearable",
+  desc="The world's longest drink helmet.",
+  videos=[
+   "xkDvVUtYACE",  # 2024-02-17 World’s Longest Drink Helmet
+  ],
+ ),
+ dict(name="Flying Graduation Cap", kind="Gadget",
+  desc="The world's first flying graduation cap.",
+  videos=[
+   "TkUxM_HQgG0",  # 2024-05-16 World's First Flying Graduation Cap
+  ],
+ ),
+ dict(name="Hackable Robot", kind="Robot",
+  desc="A robot you can hack.",
+  videos=[
+   "kc_YIEYu1N4",  # 2024-07-04 I Invented A Robot YOU Can Hack
+  ],
+ ),
+ dict(name="Auto-Celebration Football", kind="Gadget",
+  desc="The world's first auto-celebration football.",
+  videos=[
+   "P6xdUwr1l3M",  # 2024-08-29 World's First Auto-Celebration Football
+  ],
+ ),
+ dict(name="Flipping Robot", kind="Robot",
+  desc="A flipping robot vs heavier objects.",
+  videos=[
+   "X1rkdQGxI-I",  # 2024-10-11 Flipping Robot vs Heavier And Heavier Objects
+  ],
+ ),
+ dict(name="Perfect First Date", kind="Machine",
+  desc="Engineering the perfect first date.",
+  videos=[
+   "S7UM5lSgAg8",  # 2026-04-11 I Engineered The Perfect First Date
   ],
  ),
 ]

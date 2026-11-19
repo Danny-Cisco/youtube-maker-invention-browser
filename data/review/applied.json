@@ -1,0 +1,608 @@
+{
+"channel": "Applied Science",
+"videos": 280,
+"labels": {
+"VdjYVF4a6iU": "invention",
+"L6HxTk9tfQk": "invention",
+"sG7G3LN_SN8": "invention",
+"ZIJ1jI1xDhY": "invention",
+"zksVZCJajCI": "invention",
+"eoRVEw5gL8c": "invention",
+"3OgsqhxwGmo": "invention",
+"SWVu-qPR-Ws": "invention",
+"ruuxn2u3yao": "invention",
+"5hUxCYixoE4": "invention",
+"X24np30GS2o": "invention",
+"FZeaAnguXCs": "invention",
+"YLaJhSAAgrk": "invention",
+"1MrudVza6mo": "invention",
+"qHECpEhJdB8": "invention",
+"mlywGYcY-tA": "invention",
+"qsSwvmNEr0Q": "invention",
+"yLSu_UjrcUA": "invention",
+"hF3V-GHiJ78": "invention",
+"j-FHbHoiwNk": "invention",
+"xdpDd7dyU00": "invention",
+"bwD9Bvf8CEw": "invention",
+"gnF3-UF0xwU": "invention",
+"B0elgKCuoBg": "invention",
+"H7ldYhzKAp4": "invention",
+"EuVgGrun1V0": "invention",
+"TLPWqCMb7DE": "invention",
+"FYgIuc-VqHE": "invention",
+"Z228xymQYho": "invention",
+"d4QFNWBSZYg": "invention",
+"_zoeeR3geTA": "invention",
+"VSdUQ4oNKiI": "invention",
+"zrv0ynKBCIs": "invention",
+"8YEdHjGMeho": "invention",
+"c7caOKSBnr0": "invention",
+"2bBX8j_3eHI": "invention",
+"n8zKCqcjB5s": "invention",
+"4l9OAccaJdA": "invention",
+"7PWESWqhD8s": "invention",
+"uFZsH62ewYo": "invention",
+"lfmrvxB154w": "invention",
+"Lg__B6Ca3jc": "invention",
+"qAIDFaKhcZE": "invention",
+"MsbiO8EAsGw": "invention",
+"sLFaa6RPJIU": "invention",
+"eUUupR-ongs": "invention",
+"Z2o_Sp2-aBo": "invention",
+"zzVa_tX1OiI": "invention",
+"rpHYBz7ToII": "invention",
+"nIKhUizkXxA": "invention",
+"K_N_h_mKf-4": "invention",
+"iJ4yL6kaV1A": "invention",
+"UsDnkrDvkBo": "invention",
+"m3oonk1wnHY": "invention",
+"DQv0nlGsW-s": "invention",
+"9KJLWwbs_cQ": "invention",
+"wSUxK8q4D0Q": "invention",
+"l0qqUE1pgXU": "invention",
+"doZ5e4YVdEs": "invention",
+"QjGJzQbpR2A": "invention",
+"WfhszeLt40k": "invention",
+"i6hsc70Fl34": "invention",
+"qf5LFl7Lqqg": "invention",
+"K4Zvh-Luic0": "invention",
+"7yEABsNyRfo": "invention",
+"XKrlRJ-GJms": "invention",
+"BpAVxB1s2g0": "invention",
+"qgS0hTKBLXM": "invention",
+"hHaLneXkec4": "invention",
+"xlh4eSMFAIA": "invention",
+"dbrvLQamR0U": "invention",
+"X2Uj3-B_MSo": "invention",
+"AkaVsoEd6Vo": "invention",
+"Ss-Fux86doQ": "invention",
+"iDRh3X4zprg": "invention",
+"xrDOFbLw8pU": "invention",
+"HUW7dQ92yDU": "invention",
+"B_olmdAQx5s": "invention",
+"-gCTKteN5Y4": "invention",
+"M4CTkicgKtE": "invention",
+"Y_N3-Lnfn_A": "invention",
+"70znrkiHfpA": "invention",
+"w2pMDqQAAzI": "invention",
+"ccE8e-cyouI": "invention",
+"TvmM6qa2a90": "invention",
+"UxAjlmaUNzs": "invention",
+"2wkgBPk0DWg": "invention",
+"zvMv6WiWMHA": "invention",
+"NjLJ77IuBdM": "invention",
+"Tafcqb-8Vno": "invention",
+"gZuwrQ7eGD0": "invention",
+"gFTgnNG0VhQ": "invention",
+"_q2TIU_PfYg": "invention",
+"tfUkDCVqw1I": "invention",
+"g2O8RSpAGEM": "invention",
+"HoW14jmjoj4": "invention",
+"DJLgDJSvXcw": "invention",
+"N63IMoJmVOg": "invention",
+"p00e47oeDus": "invention",
+"X0oQepbGVZw": "invention",
+"9v0r66N7mPw": "invention",
+"DZGTh3hGzNc": "invention",
+"Ds-jtwXbLAk": "invention",
+"9OEz_e9C4KM": "invention",
+"5X0EKbpLuRc": "invention",
+"vfqtKJAnJHg": "invention",
+"HyaiszgzIzo": "invention",
+"t0ToYhjYV9I": "invention",
+"ta7nlkI5K5g": "invention",
+"s1415uTvSC8": "invention",
+"eI45eqEjaeU": "invention",
+"9XQfYKYO380": "invention",
+"321tptQ8PrU": "invention",
+"q8GFpSCK6Jk": "invention",
+"YNGs-IX_B2s": "invention",
+"54jQ7ut3FBA": "invention",
+"dyL0kIhAOzY": "invention",
+"h8VJft5Xq5g": "invention",
+"mUcUy7SqdS0": "invention",
+"7Z8uPHL52Q0": "invention",
+"MUdro-6u2Zg": "invention",
+"Xr1AiExSAnU": "invention",
+"YAPt_DcWAvw": "invention",
+"WuYdsStS1MQ": "invention",
+"iwj78pR46zM": "invention",
+"ag_p8gayrTs": "invention",
+"ih_D6OLzqo4": "invention",
+"kxXEI0Ce6C0": "invention",
+"Oj4tRnLKN6U": "invention",
+"bR9EN3kUlfg": "invention",
+"JO_EHceV9sk": "invention",
+"nh1SIfipQs4": "invention",
+"-qETedzsFIE": "invention",
+"M6XIgdS1rzs": "invention",
+"lAeJvZfVLbE": "invention",
+"DyIQkqBXhS0": "invention",
+"NwhVJ7cv9B4": "invention",
+"8HiAw4x82eg": "invention",
+"txOp_jZN-H8": "repair",
+"gyXsjFxXkXY": "repair",
+"_-gC3fbfka4": "repair",
+"50AxjMV8-b0": "repair",
+"mzeRvdnIP-I": "repair",
+"_IhibizyrtU": "tutorial",
+"OkGUzFKQhzY": "tutorial",
+"SaBI6IjIGy0": "tutorial",
+"yP75b1g_pNc": "tutorial",
+"8DMZSxS-xVc": "tutorial",
+"xyMH8wKK-Ag": "tutorial",
+"tZBMfDvWF4U": "tutorial",
+"If4iiz4I8Vk": "tutorial",
+"lJksVs2QT5Q": "tutorial",
+"VtxFtzWlTgg": "tutorial",
+"ip2jm_6aUyk": "tutorial",
+"7na8kQ78vkQ": "tutorial",
+"HVSjUW2qQ6U": "tutorial",
+"ulfCxDsVTWo": "tutorial",
+"RVSB2Mo_PMY": "tutorial",
+"y02AXdec1sE": "tutorial",
+"YBQp04glQqc": "tutorial",
+"xbo8xi1zgVo": "tutorial",
+"HiL6uPNlqRw": "tutorial",
+"VpRrP3sqQLw": "tutorial",
+"UQ7BIyEd89U": "workshop",
+"B5i9f9GJS9M": "workshop",
+"1bjvj5FjUPE": "other",
+"0YZVbLRiPFc": "other",
+"ohBBiHoHph8": "other",
+"K45uxkAFczc": "other",
+"04nNBQhfEm4": "other",
+"0Dtwz07ZTCw": "other",
+"JTsVF9nF-3E": "other",
+"E55h2JCuCWk": "other",
+"5YA2g9CGstg": "other",
+"W79Lv-Atd3w": "other",
+"szMuc8op7uk": "other",
+"DQEEtYjnBE0": "other",
+"UPoJFL-l9jw": "other",
+"jjveSNKIxyA": "other",
+"HyI111Tn0Cs": "other",
+"st5WYJx-Esc": "other",
+"5v91dLMphls": "other",
+"ch9JLtwZ1KQ": "other",
+"zZi628OYmmk": "other",
+"FUyYRwtAqvA": "other",
+"TvBtRDScKhM": "other",
+"OoYn7FH3Z3U": "other",
+"ZH4grCIK52Q": "other",
+"P85MSLFDVxY": "other",
+"Eej6kG4NyFw": "other",
+"mqcErDStLfQ": "other",
+"8RpKEPHJyHk": "other",
+"I2k2g00onL0": "other",
+"a4gYv2BK-HQ": "other",
+"7sRPUjcd2SA": "other",
+"QLvzvwQFKfI": "other",
+"Htjbu-PZ-zU": "other",
+"mT1FStxAVz4": "other",
+"K43v_ABjQIU": "other",
+"wcRB3TWIAXE": "other",
+"xxSXkJFi8Fc": "other",
+"K297toCvHtY": "other",
+"Sn-96MSu3f4": "other",
+"WKfID-i41sc": "other",
+"y8gUvbpE2O0": "other",
+"tRrOdKW06sk": "other",
+"1AUzyECf8Go": "other",
+"sOVDtOok-c8": "other",
+"tJodcGa0ef4": "other",
+"xtModjpxfxM": "other",
+"Y4CYzoxvq6I": "other",
+"Wun-nTJqqFM": "other",
+"atVSxvbiPg0": "other",
+"UgbT2fJTqFY": "other",
+"fxbzop17LT8": "other",
+"oU2t0ECDX1U": "other",
+"BfdwD1V3jNk": "other",
+"-oSJ3b3KwGU": "other",
+"Cxj399LuX1M": "other",
+"W5B5mj6-fqk": "other",
+"pOakH-QsPRM": "other",
+"prLIBnQeMME": "other",
+"HTbpwOvWbGw": "other",
+"jZWihvEtaLM": "other",
+"oqdDWA9-DSY": "other",
+"0Yvcizt83DA": "other",
+"uJ_NpWnCXzM": "other",
+"vAeihLkW_UU": "other",
+"ge1GwepqtK0": "other",
+"DO-l1zaSJvk": "other",
+"8gFqzbnUO-Y": "other",
+"r7NEI_C9Yh0": "other",
+"2Pp2CefdXVw": "other",
+"4RuT2TlhbU8": "other",
+"eafEPGx-9rE": "other",
+"S_zoQrA1HXw": "other",
+"vcSc16tnVqk": "other",
+"s6w0tSg-msk": "other",
+"hNksWHJ2rZE": "other",
+"9nb8mM3uEIc": "other",
+"PTf57Ys9g0g": "other",
+"I_DD2_7QkRk": "other",
+"9Z0SsAyHKzc": "other",
+"ap4GuZffrvg": "other",
+"jAYP6pWrdkc": "other",
+"GuCdsyCWmt8": "other",
+"XhU-nNiAgtI": "other",
+"UTquUbvzJII": "other",
+"cwN983PnJoA": "other",
+"KAm7qAKAXwI": "other",
+"Hvudn0skIuI": "other",
+"M7bNRzbROBQ": "other",
+"IZrUGnrNgck": "other",
+"_vTq8oGpqwM": "other",
+"OzkcB1lkgGU": "other",
+"JV4Fk3VNZqs": "other",
+"4UFKl9fULkA": "other",
+"-UPJ2O2zR5k": "other",
+"3trDB5hN4Ug": "other",
+"vvzWaVvB908": "other",
+"ihbYtxaEDSk": "other",
+"NS8Q9LUIKA8": "other",
+"vwsHRrDYu5o": "other",
+"TjiP8QIPews": "other",
+"vDsjHQPjMVI": "other",
+"hAxi5YXTjEk": "other",
+"ezME4_xMMnk": "other",
+"FBIzCp24Ix0": "other",
+"ZBHIp967TD8": "other",
+"SrNVLCHrJtY": "other",
+"KdfHVcU8U7U": "other",
+"9wZ0wTqJIxY": "other",
+"rLkVFjRyoDU": "other",
+"3d8b_ohlcdk": "other",
+"v8pko9IlFW4": "other",
+"eGj4jfYhDxA": "other",
+"-cAB5FG4bXI": "other",
+"UIqhpxul_og": "other",
+"kiuXasyB3L0": "other",
+"RsGHr7dXLuI": "other"
+},
+"inventions": {
+"DIY Scanning Electron Microscope": [
+"VdjYVF4a6iU",
+"L6HxTk9tfQk",
+"sG7G3LN_SN8",
+"ZIJ1jI1xDhY",
+"zksVZCJajCI",
+"eoRVEw5gL8c",
+"3OgsqhxwGmo",
+"SWVu-qPR-Ws",
+"ruuxn2u3yao"
+],
+"Ultracapacitor Project": [
+"5hUxCYixoE4"
+],
+"Homemade Aerogel": [
+"FZeaAnguXCs",
+"X24np30GS2o",
+"YLaJhSAAgrk"
+],
+"Laser Microphone": [
+"1MrudVza6mo"
+],
+"LED Contact Lens": [
+"qHECpEhJdB8"
+],
+"Homemade Astronaut Ice Cream & Pop Rocks": [
+"mlywGYcY-tA",
+"qsSwvmNEr0Q"
+],
+"X-Ray Builds": [
+"yLSu_UjrcUA",
+"bwD9Bvf8CEw",
+"gnF3-UF0xwU",
+"B0elgKCuoBg",
+"H7ldYhzKAp4",
+"hF3V-GHiJ78",
+"j-FHbHoiwNk",
+"xdpDd7dyU00",
+"EuVgGrun1V0"
+],
+"Hybrid Rocket Engine": [
+"TLPWqCMb7DE"
+],
+"Clear Flexible Circuits": [
+"FYgIuc-VqHE",
+"Z228xymQYho"
+],
+"DIY LCD": [
+"d4QFNWBSZYg",
+"_zoeeR3geTA"
+],
+"Ruby Laser": [
+"VSdUQ4oNKiI",
+"zrv0ynKBCIs"
+],
+"Cookie Perfection Machine": [
+"c7caOKSBnr0",
+"2bBX8j_3eHI",
+"n8zKCqcjB5s",
+"4l9OAccaJdA",
+"8YEdHjGMeho"
+],
+"Liquid Nitrogen Generator": [
+"7PWESWqhD8s"
+],
+"Piezoelectric Motor": [
+"uFZsH62ewYo"
+],
+"Stretch Refrigerator": [
+"lfmrvxB154w"
+],
+"Waterjet Cutters": [
+"Lg__B6Ca3jc",
+"qAIDFaKhcZE"
+],
+"Fast E-Paper": [
+"MsbiO8EAsGw"
+],
+"YBCO Superconductor": [
+"sLFaa6RPJIU"
+],
+"Electroluminescent Panels": [
+"eUUupR-ongs",
+"Z2o_Sp2-aBo"
+],
+"Electro-Osmosis Pump": [
+"zzVa_tX1OiI"
+],
+"EDM Drill": [
+"rpHYBz7ToII"
+],
+"DIY Mass Spectrometer": [
+"nIKhUizkXxA"
+],
+"Vacuum Pre-Loaded Air Bearings": [
+"K_N_h_mKf-4"
+],
+"Hypercentric Lens": [
+"iJ4yL6kaV1A"
+],
+"Chocolate Holograms": [
+"UsDnkrDvkBo"
+],
+"Electron Beam Through Air": [
+"m3oonk1wnHY"
+],
+"f/0.38 Lens": [
+"DQv0nlGsW-s",
+"9KJLWwbs_cQ"
+],
+"Welding Visualisation System": [
+"wSUxK8q4D0Q"
+],
+"Sodium-Water Battery": [
+"l0qqUE1pgXU"
+],
+"Einstein Refrigerator": [
+"doZ5e4YVdEs"
+],
+"Monster in a Box": [
+"QjGJzQbpR2A"
+],
+"Hacked Espresso Machine": [
+"WfhszeLt40k"
+],
+"Fluid-Filled Coffee Table": [
+"i6hsc70Fl34"
+],
+"Xenon Arc Searchlight": [
+"qf5LFl7Lqqg",
+"K4Zvh-Luic0"
+],
+"Arduino Motor Speed Control": [
+"7yEABsNyRfo"
+],
+"Web-Controlled Watering Can": [
+"XKrlRJ-GJms"
+],
+"Telescope Remote Focus": [
+"BpAVxB1s2g0"
+],
+"Liquid Crystal Thermal Imaging": [
+"qgS0hTKBLXM",
+"hHaLneXkec4"
+],
+"Flex Sensor Gloves": [
+"xlh4eSMFAIA"
+],
+"Fiberoptic Joystick and Mouse": [
+"dbrvLQamR0U",
+"X2Uj3-B_MSo"
+],
+"Air Muscle Force Feedback": [
+"AkaVsoEd6Vo"
+],
+"Piezoelectric Braille Display": [
+"Ss-Fux86doQ"
+],
+"Teaching 3D Printer Model": [
+"iDRh3X4zprg"
+],
+"Automatic Cat Feeder": [
+"xrDOFbLw8pU"
+],
+"Transcranial Magnetic Stimulator": [
+"HUW7dQ92yDU",
+"B_olmdAQx5s"
+],
+"Supercritical CO2 Chamber": [
+"-gCTKteN5Y4",
+"M4CTkicgKtE",
+"Y_N3-Lnfn_A",
+"70znrkiHfpA",
+"w2pMDqQAAzI",
+"ccE8e-cyouI",
+"TvmM6qa2a90",
+"UxAjlmaUNzs",
+"2wkgBPk0DWg"
+],
+"Liquid Lens Driver": [
+"zvMv6WiWMHA",
+"NjLJ77IuBdM"
+],
+"Freeze Dryer": [
+"Tafcqb-8Vno"
+],
+"HID Desk Lamp": [
+"gZuwrQ7eGD0"
+],
+"Cloud Chamber": [
+"gFTgnNG0VhQ"
+],
+"Aquarium Auto Top-Off": [
+"_q2TIU_PfYg"
+],
+"Xenon Flash Systems": [
+"tfUkDCVqw1I",
+"g2O8RSpAGEM",
+"HoW14jmjoj4"
+],
+"Jukebox Colour Wheel Synchroniser": [
+"DJLgDJSvXcw"
+],
+"Hacked Milligram Balance": [
+"N63IMoJmVOg"
+],
+"Bubble Tube Lamps": [
+"p00e47oeDus"
+],
+"Temperature-Controlled Water Circulator": [
+"X0oQepbGVZw"
+],
+"High Vacuum System": [
+"9v0r66N7mPw",
+"DZGTh3hGzNc"
+],
+"Thermal Evaporator": [
+"Ds-jtwXbLAk"
+],
+"Sputtering Chamber": [
+"9OEz_e9C4KM",
+"5X0EKbpLuRc"
+],
+"Posture-Based Game Controller": [
+"vfqtKJAnJHg"
+],
+"Tongue Mouse": [
+"HyaiszgzIzo"
+],
+"Lighter Socket RPM Meter": [
+"t0ToYhjYV9I"
+],
+"DIY Microbalance": [
+"ta7nlkI5K5g"
+],
+"Chocolate Gun": [
+"s1415uTvSC8"
+],
+"Covert Radio Pen": [
+"eI45eqEjaeU"
+],
+"DIY Gecko Tape": [
+"9XQfYKYO380"
+],
+"Spin Coater": [
+"321tptQ8PrU"
+],
+"Handheld CNC Router": [
+"q8GFpSCK6Jk"
+],
+"Antique Radio AM Transmitter": [
+"YNGs-IX_B2s"
+],
+"Tesla CAN Bus Logger": [
+"54jQ7ut3FBA"
+],
+"Tiny Lightbulb Flashers": [
+"dyL0kIhAOzY",
+"h8VJft5Xq5g"
+],
+"Photochromic Glass": [
+"mUcUy7SqdS0"
+],
+"High-Res Microfluidics": [
+"7Z8uPHL52Q0"
+],
+"Laser Self-Mixing Rangefinder": [
+"MUdro-6u2Zg"
+],
+"Blacker Than Vantablack": [
+"Xr1AiExSAnU"
+],
+"Photolithography Masks": [
+"YAPt_DcWAvw"
+],
+"Ultrasonic Soldering": [
+"WuYdsStS1MQ"
+],
+"Rugate Optical Filters": [
+"iwj78pR46zM"
+],
+"Bite Sensor": [
+"ag_p8gayrTs"
+],
+"Copper ALD": [
+"ih_D6OLzqo4"
+],
+"Underwater Laser Cutting": [
+"kxXEI0Ce6C0"
+],
+"Laser Plasma Display Drawing": [
+"Oj4tRnLKN6U"
+],
+"Photochemical Machining": [
+"bR9EN3kUlfg"
+],
+"NQR Chemical Identifier": [
+"JO_EHceV9sk"
+],
+"RFID Stir Bar Thermometer": [
+"nh1SIfipQs4"
+],
+"Photosynthesis Photography": [
+"-qETedzsFIE"
+],
+"Iron Nitride Magnets": [
+"M6XIgdS1rzs"
+],
+"Acoustic Radiometer": [
+"lAeJvZfVLbE"
+],
+"High-Speed AFM": [
+"DyIQkqBXhS0"
+],
+"Femtosecond Electron Microscope": [
+"NwhVJ7cv9B4"
+],
+"Two-Photon Pong": [
+"8HiAw4x82eg"
+]
+}
+}
