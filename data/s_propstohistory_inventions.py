@@ -1,8 +1,6 @@
-"""Curated inventions for Props To History (@propstohistory).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Props To History. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'props-to-history', 'name': 'Props To History', 'person': 'Props To History', 'tagline': 'Maker, cosplayer and hobby historian: printing, laser cutting, CNC and woodwork.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
@@ -24,6 +22,8 @@ INVENTIONS = [
   desc="ATAT Horse #starwars #maker.",
   videos=[
    "jL-xg7aF2TU",  # 2022-06-29 ATAT Horse #starwars #maker
+   "M8CtU_CbDr4",  # 2025-03-24 #atat #starwars #cosplay #props #movie #shorts
+   "4ebJ6wNKo30",  # 2025-04-23 Starwars Horse Guy #starwars #Horse #cosplay #shorts
   ],
  ),
  dict(name="Making Blade Runner ID Cards the Old Way", kind="Build",
@@ -74,6 +74,43 @@ INVENTIONS = [
   desc="A little while ago I led a team of amazing artists at Fonco Studios that created a great little (not little) puppet for the show St Denis Medical",
   videos=[
    "9grq3O7MZ3s",  # 2026-11-12 Making a Puppet for St Denis Medical
+  ],
+ ),
+ dict(name="Warhammer Servo Skull Kitbash", kind="Prop",
+  desc="A servo skull from Warhammer 40,000 kitbashed from parts.",
+  videos=[
+   "7FOQuaBmBSc",  # 2020-05-01 Kitbashing a Servo Skull from Warhammer 40000
+  ],
+ ),
+ dict(name="Mummy Scarab Props", kind="Prop",
+  desc="Scarab beetle props from The Mummy (1999), made and finished with PlaidFX.",
+  videos=[
+   "C9J7Qbh9QaI",  # 2020-09-01 Scarabs from The Mummy (1999) using PlaidFX Metallics
+  ],
+ ),
+ dict(name="Cheap Star Wars Prop", kind="Prop",
+  desc="A Star Wars prop made on the cheap.",
+  videos=[
+   "9IDURm5gLpY",  # 2022-02-24 Making a Star Wars Prop on the Cheap #shorts #starwars
+  ],
+ ),
+ dict(name="Necromunda Kitbash", kind="Prop",
+  desc="A Necromunda/Forgeworld model kitbashed from parts.",
+  videos=[
+   "TuwgzifOP0E",  # 2023-03-07 Necromunda/Forgeworld Kitbash
+  ],
+ ),
+ dict(name="Animatronic Ursula Cosplay", kind="Costume",
+  desc="An animatronic Ursula cosplay built for DragonCon.",
+  videos=[
+   "jrZVnG4rG7k",  # 2023-04-23 Animatronic "Ursala" Cosplay for DragonCon: Part 1
+   "K6OajiHE39A",  # 2023-08-09 #cosplay #thelittlemermaid #maker #wip #movie
+  ],
+ ),
+ dict(name="Interrogator Droid", kind="Prop",
+  desc="A replica of the Star Wars interrogator droid.",
+  videos=[
+   "KTvItR6PiDY",  # 2024-05-21 The Interrogator Droid #starwars #droid #howitsmade #shorts
   ],
  ),
 ]

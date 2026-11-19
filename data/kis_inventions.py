@@ -1,9 +1,6 @@
-"""Curated inventions for Kids Invent Stuff (Ruth Amos & Shawn Brown, @kidsinventstuff). Each kid's idea usually has a build video and a test video.
-kind: Vehicle | Wearable | Machine | Robot | Prank
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Kids Invent Stuff. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'kids-invent-stuff', 'name': 'Kids Invent Stuff', 'person': 'Ruth Amos & Shawn Brown', 'tagline': "Building children's invention ideas for real: pooping unicorns, flamethrower helmets and a drivable treehouse. Hosts of the YouTube Makers Secret Santa.", 'other_label': 'Other uploads: Shorts, compilations, livestreams and updates'}
 
@@ -47,6 +44,7 @@ INVENTIONS = [
   videos=[
    "TomzwqBIIQc",  # 2017-06-17 Building a Remote Control Police Tank | Kids Invent Stuff
    "QgjB_DMkRDU",  # 2017-06-24 Testing a Remote Control Police Tank | Kids Invent Stuff
+   "ie-qTB8HKyM",  # 2025-12-15 Net tank catches robber!
   ],
  ),
  dict(name="Pedal Powered Shower", kind="Machine",
@@ -61,6 +59,8 @@ INVENTIONS = [
   videos=[
    "5r928BCAjgc",  # 2017-08-19 Building a Crazy Car Invention | Kids Invent Stuff
    "4_sF6ZFNzrg",  # 2017-08-26 Testing a Crazy Car Invention | Kids Invent Stuff
+   "poFQ_bVRbxM",  # 2024-12-11 Crazy car Invention
+   "356_f5vx_uE",  # 2025-06-07 Crazy Scissor Lift Car
   ],
  ),
  dict(name="Ride-On Electric Dolphin", kind="Vehicle",
@@ -76,6 +76,8 @@ INVENTIONS = [
    "ZVWwgCU1oOs",  # 2017-09-30 Make your own Cyborg Pumpkins | Kids Invent Stuff
    "Qv6w8xdrbMU",  # 2017-10-21 Building a Creepy Robot Scarecrow | Kids Invent Stuff
    "aPzq8k72gh8",  # 2017-10-28 Creepy Robot Scarecrow PRANK | Kids Invent Stuff
+   "-AGbfBPGkjk",  # 2024-10-27 The Scarecrowtron!
+   "34C60s3K9gQ",  # 2025-10-30 Robot Scarecrow pranks students!
   ],
  ),
  dict(name="Jam Firing Rocket", kind="Machine",
@@ -83,6 +85,9 @@ INVENTIONS = [
   videos=[
    "jsuVR36Wcoo",  # 2017-11-18 Building a Jam Firing Rocket | Kids Invent Stuff
    "M4YIsFSCN3g",  # 2017-11-25 Testing a Jam Firing Rocket | Kids Invent Stuff
+   "4RlvTGdk68A",  # 2025-11-03 Too much Jam?
+   "GihhwxF3Eqc",  # 2025-11-10 Unlimited Jam Splats
+   "IgxiHCKZmmo",  # 2025-11-25 Sooooo much Jam!
   ],
  ),
  dict(name="Snow Cannon", kind="Machine",
@@ -90,6 +95,11 @@ INVENTIONS = [
   videos=[
    "t5pQuT7t93s",  # 2017-12-16 Building a Homemade Snow Cannon | Kids Invent Stuff
    "1MhtN6cmjfY",  # 2017-12-23 Testing a Homemade Snow Cannon | Kids Invent Stuff
+   "aOepS11654A",  # 2025-12-03 When you just can't wait for snow!
+   "gLmi1gtlVXE",  # 2025-12-06 Every day can be a Snow Day with this invention!
+   "GaRdqzQJqss",  # 2025-12-09 Turning a Leaf Blower into a Snow Cannon!
+   "VRcjZXtluSU",  # 2025-12-11 Slow Motion Snow Cannon!
+   "hTBO1hz3Kzk",  # 2025-12-22 No Snow? No Problem!
   ],
  ),
  dict(name="Kids' Jacket Designs", kind="Wearable",
@@ -111,6 +121,7 @@ INVENTIONS = [
   videos=[
    "hyTL3qvWY8k",  # 2018-03-17 Building a Spinning Classroom| Kids Invent Stuff
    "F3awomcUyz0",  # 2018-03-24 Testing a Spinning Classroom (with a Teacher!) | Kids Invent Stuff
+   "HEuziZDjXJE",  # 2025-11-24 Spinning Classroom VS Teacher
   ],
  ),
  dict(name="Giant Cake on Wheels", kind="Vehicle",
@@ -118,6 +129,12 @@ INVENTIONS = [
   videos=[
    "KZgnUXWYmbE",  # 2018-04-21 Baking a Giant Cake on Wheels! | Kids Invent Stuff
    "5TcGMZwBG8Y",  # 2018-04-28 Racing a Giant Cake on Wheels! | Kids Invent Stuff
+   "1StzxkNaaJg",  # 2022-07-26 Here is how you race a cake! 🎂
+   "K91B6YilpUo",  # 2025-01-06 Walking along with a cakcycle
+   "bDawrM1xJ1o",  # 2025-07-11 Baking a Cake Racer
+   "9DSEB3UTUbs",  # 2025-08-26 Giant Cake Crash
+   "qqdZF_pYhLY",  # 2026-02-15 Goodbye giant cake
+   "xRjXSi2ONWs",  # 2026-04-30 That time we raced a giant cake!
   ],
  ),
  dict(name="Slime Cannon Car", kind="Vehicle",
@@ -132,6 +149,7 @@ INVENTIONS = [
   videos=[
    "vqYE3xlm8xQ",  # 2018-06-16 Building a Flamethrower Helmet | Kids Invent Stuff
    "mk1UApitexs",  # 2018-06-23 FLAMETHROWER HELMET (World's First Sneeze-Activated Flamethrower) | Ki
+   "u41EnpqDAAM",  # 2026-03-05 I strapped a flamethrower to my head
   ],
  ),
  dict(name="Drivable Treehouse", kind="Vehicle",
@@ -139,6 +157,7 @@ INVENTIONS = [
   videos=[
    "wjmksmwbjEY",  # 2018-07-21 Crazy Drivable Treehouse Build | Kids Invent Stuff
    "srlEXfW_Xpo",  # 2018-07-28 WORLD'S FIRST DRIVABLE TREEHOUSE! | Kids Invent Stuff
+   "NXoci2AyhzY",  # 2022-09-21 A treehouse you can drive to any tree 🙌
   ],
  ),
  dict(name="Robot Trolley", kind="Robot",
@@ -146,6 +165,8 @@ INVENTIONS = [
   videos=[
    "obXL-0nwzH4",  # 2018-08-18 Building A Robot Trolley | Kids Invent Stuff
    "4wjd9wZ3vS8",  # 2018-08-25 Shopping with a ROBOT TROLLEY | Kids Invent Stuff
+   "sZULW5LOiSM",  # 2021-03-17 Supermarket Trolley Workout!
+   "Gs6ludWTpQI",  # 2025-06-09 Anyone for Trolley Karaoke?
   ],
  ),
  dict(name="Motorised Survival Zorb", kind="Vehicle",
@@ -160,6 +181,8 @@ INVENTIONS = [
   videos=[
    "KYOMKoBGyl4",  # 2018-10-20 Making A Hat For Dogs That Generates Electricity | Kids Invent Stuff
    "zbi4fxzSMYY",  # 2018-10-27 This Dog's Hat Makes Electricity! | Kids Invent Stuff
+   "f0DRwJFlK5M",  # 2025-11-12 Dog Hat Makes Electricity!
+   "gfPPgvsBwPY",  # 2025-11-29 Dog hat sound system!
   ],
  ),
  dict(name="Kids' Rube Goldberg Machine", kind="Machine",
@@ -167,6 +190,8 @@ INVENTIONS = [
   videos=[
    "cpPPnv9nXjQ",  # 2018-11-17 Rube Goldberg Behind the Scenes | Kids Invent Stuff
    "X3vXwWfEfGM",  # 2018-11-24 Giant Kids' RUBE GOLDBERG Machine! | Kids Invent Stuff
+   "hUWE5YD-Akw",  # 2025-02-22 Giant Rube Goldberg Machine!
+   "RDbOD_22pHA",  # 2025-10-17 What is a Rube Goldberg Machine?
   ],
  ),
  dict(name="Litter Vacuum Suit", kind="Wearable",
@@ -188,6 +213,7 @@ INVENTIONS = [
   videos=[
    "AVvgLwCxotw",  # 2019-02-16 An Invention To Catch Fridge Thieves!  | Kids Invent Stuff
    "81iV7CAPKjE",  # 2019-02-23 ULTIMATE Fridge Prank! | Kids Invent Stuff
+   "BKZ0Vif8tgo",  # 2025-12-23 Our Christmas Fridge Security System
   ],
  ),
  dict(name="Electric Pooping Unicorn", kind="Vehicle",
@@ -197,6 +223,9 @@ INVENTIONS = [
    "IV--NzfPDtY",  # 2019-03-23 Riding an ELECTRIC POOPING UNICORN! | Kids Invent Stuff
    "B7Gw2NkQ6xo",  # 2019-06-29 You tweet and the Unicorn poops candy!  | Kids Invent Stuff
    "6Vmx7wLOHJU",  # 2019-08-31 We did GIANT UNICORN BOWLING! | Kids Invent Stuff
+   "QSmMbpiDAPs",  # 2022-09-13 Do you want a pet unicorn?
+   "29yJ4H0XLq0",  # 2025-01-08 Do you want a unicorn as a pet?
+   "iD9jzJEimkw",  # 2026-02-17 You need this unicorn
   ],
  ),
  dict(name="Popcorn Doorbell", kind="Machine",
@@ -225,6 +254,7 @@ INVENTIONS = [
   videos=[
    "C3m6wINL0mI",  # 2019-07-20 We Built a GIANT ELECTROMAGNET Hand! | Kids Invent Stuff
    "fiHpwyqEe88",  # 2019-07-27 Testing the GIANT ELECTROMAGNET HAND! | Kids Invent Stuff
+   "vGpM2GwaDA8",  # 2025-12-29 Giant Electromagnet Hand vs Thief
   ],
  ),
  dict(name="Waterfall Swing", kind="Machine",
@@ -254,12 +284,15 @@ INVENTIONS = [
   videos=[
    "0vKg6NXLZX8",  # 2019-11-16 Making a Hotel Room into a RAINFOREST! | Kids Invent Stuff
    "YMzSOFRLIF4",  # 2019-11-23 RAINFOREST HOTEL ROOM Designed by Kids!
+   "xnPGA_JT2uc",  # 2025-10-02 Rainforest Hotel Room!
   ],
  ),
  dict(name="Giant Christmas Cracker", kind="Machine",
   desc="A giant Christmas cracker.",
   videos=[
    "BDnLUsEpuw0",  # 2019-11-30 We made a GIANT CHRISTMAS CRACKER!
+   "SA-ilsea48E",  # 2024-12-01 christmas crackers are too small
+   "Dyll9Hi3CNg",  # 2025-12-25 GIANT Christmas Cracker!
   ],
  ),
  dict(name="Pie Flinger", kind="Prank",
@@ -280,6 +313,11 @@ INVENTIONS = [
   videos=[
    "GeV_9uZxOTI",  # 2020-01-18 Can You Make An Oven Wearable?
    "tbExTx3VHYM",  # 2020-01-25 Wearing an Oven - Will Strangers Eat Stuff?
+   "LnBLAP1dhb0",  # 2025-09-20 Busking whilst wearing an oven!
+   "JfswmmQQW8Y",  # 2025-09-25 Bake Cookies Anywhere!
+   "6kdHd--M9sg",  # 2025-10-10 Climbing 111 steps whilst wearing an Oven!
+   "TrAJE_kiJ5Y",  # 2025-10-14 Shopping whilst wearing an Oven
+   "1E3b2y33XGw",  # 2025-10-16 Wearing a Pizza Oven
   ],
  ),
  dict(name="Remote Control Tea Train", kind="Vehicle",
@@ -307,12 +345,19 @@ INVENTIONS = [
   videos=[
    "LJEUyIpE9ms",  # 2020-03-21 We Built a Giant Furry Electric Dog Car!
    "J8Q_KztDx_0",  # 2020-03-28 Driving a GIANT FURRY Electric Dog Car!
+   "H66j-J23nSo",  # 2024-10-22 I'm a Dog Car!
+   "E3LKEK5F3lc",  # 2024-11-09 Hyping the dog car
+   "bgphdKPN9bE",  # 2024-11-11 Drawing vs The Dog Car!
+   "LOjivEEjbq0",  # 2024-12-31 It's a Furry Dog Car! Invented by 11 year old Alex
   ],
  ),
  dict(name="Trampoline Drum Kit", kind="Machine",
   desc="A trampoline drum kit.",
   videos=[
    "5EXEpKqx3R0",  # 2020-04-25 We Built a TRAMPOLINE DRUM KIT!
+   "Qlh7qZdyyRE",  # 2025-10-08 DIY Trampoline Drums
+   "CTwUSVAXkkw",  # 2025-11-04 Trampoline Drums
+   "ulR13gVBXpo",  # 2025-11-06 We can't play the drums but...
   ],
  ),
  dict(name="Wallace & Gromit Inventions", kind="Machine",
@@ -336,6 +381,7 @@ INVENTIONS = [
   videos=[
    "yx6SKK3miss",  # 2020-07-11 Making a ROLLER COASTER Deliver SWEETS!
    "ka7mVndnat8",  # 2020-07-18 ROLLER COASTER Delivers SWEETS to KIDS' BEDROOM!
+   "iz8qv5NQjAE",  # 2025-06-15 Mini Roller Coaster brings Sweets!
   ],
  ),
  dict(name="Giant Electric Toothbrush", kind="Machine",
@@ -343,12 +389,18 @@ INVENTIONS = [
   videos=[
    "CxCcFy4M_Zc",  # 2020-08-01 Building a GIANT electric toothbrush!
    "04a4uOtfdZQ",  # 2020-08-08 WORLD'S LARGEST ELECTRIC TOOTHBRUSH!
+   "emxGYIGBDLw",  # 2024-12-13 Giant Toothbrush!
+   "2ciFCO3QCZ8",  # 2024-12-15 Filming with the GIANT toothbrush and @guinnessworldrecords
+   "Y8Bg1EdlfOE",  # 2025-06-13 Toothbrush Cuts Tree
   ],
  ),
  dict(name="Triple Bath with Colin Furze", kind="Machine",
   desc="A triple bath with Colin Furze.",
   videos=[
    "IC13NJqWMm4",  # 2020-09-10 We Built a TRIPLE BATH with Colin Furze!
+   "Eu4EL_l7oZY",  # 2023-02-06 FIRE BATH!!!!
+   "JGcFnZ5lmhs",  # 2024-10-18 Bath Time will never be the same again!
+   "SnUqFrf7dtc",  # 2025-03-09 Can Alex from Taskmaster be the Bath Master?
   ],
  ),
  dict(name="Electric Magic Carpet", kind="Vehicle",
@@ -356,6 +408,8 @@ INVENTIONS = [
   videos=[
    "lbdfHcub-PI",  # 2020-09-19 We Built A Floating Magic Carpet!
    "_JDBTZsSQRk",  # 2020-09-26 Riding an ELECTRIC MAGIC CARPET!
+   "K0v6K5Lg8MM",  # 2025-03-10 A magic carpet that FLOATS!
+   "Cn2cr2kUF0A",  # 2025-05-29 Sun's out Carpet's about
   ],
  ),
  dict(name="Foam-Firing Camera", kind="Prank",
@@ -370,6 +424,8 @@ INVENTIONS = [
   videos=[
    "adzafQx9uio",  # 2020-12-05 Building An Electric Sleigh With Present Launcher!
    "lZMOEI14GUM",  # 2020-12-12 Social Distance Santa's PRESENT LAUNCHING SLEIGH!
+   "kXKnYZ-58iE",  # 2024-12-05 Santa asks us to redesign his sleigh
+   "GuQCx5mMItA",  # 2025-12-02 Our present-launching Mega Sleigh!
   ],
  ),
  dict(name="Graffiti Shoes", kind="Wearable",
@@ -388,18 +444,23 @@ INVENTIONS = [
   desc="A karaoke mop and bucket.",
   videos=[
    "KpuiZ80Y31E",  # 2021-06-30 KARAOKE MOP & BUCKET !
+   "6s950zvXOe4",  # 2025-09-03 Karaoke Mop vs School Caretaker
+   "7cX5EYK8zEw",  # 2026-04-11 Caretaker + Karaoke Mop Invention
+   "rTMvou1R68E",  # 2026-04-29 Sweep it up!
   ],
  ),
  dict(name="Cake-Feeding Bike", kind="Vehicle",
   desc="A bike that feeds you cake.",
   videos=[
    "bgsbjMFpv68",  # 2021-07-21 This Bike Feeds You Cake!
+   "a7UTeWbCuDw",  # 2025-09-12 Pedal faster to get more cake!
   ],
  ),
  dict(name="Robot Crocodile Lawnmower", kind="Robot",
   desc="Cutting the lawn with a robot crocodile.",
   videos=[
    "tAs_gks1N8E",  # 2021-08-25 Cutting the Lawn with a Robot Crocodile!
+   "w2F825q-4YI",  # 2025-01-10 Mow the lawn song
   ],
  ),
  dict(name="Wearable Sofa", kind="Wearable",
@@ -412,6 +473,7 @@ INVENTIONS = [
   desc="A toilet-cleaning robot that is also a musical.",
   videos=[
    "wbgCUIZ2N9E",  # 2022-01-19 TOILET CLEANING ROBOT + It's a Musical! 🎵
+   "H09UiM-tuME",  # 2022-01-20 Q&A - Toilet Cleaning Robot & Musical!
   ],
  ),
  dict(name="Robot Mouse Cat Feeder", kind="Robot",
@@ -424,12 +486,17 @@ INVENTIONS = [
   desc="Crashing a wedding with confetti shoes.",
   videos=[
    "_X7gdpzkLpg",  # 2022-04-27 Crashing a Wedding with Confetti Shoes!
+   "NbFpd3jthnw",  # 2022-05-05 How we made confetti firing shoes!
+   "fhx5yVTeoks",  # 2024-10-20 Making Confetti Firing Shoes
   ],
  ),
  dict(name="Giant Carrot Car", kind="Vehicle",
   desc="Driving a giant carrot.",
   videos=[
    "NUKk9tZLuY0",  # 2022-05-25 DRIVING A GIANT CARROT 🥕
+   "bvAgwFZkPQc",  # 2024-10-10 Building a carrot car
+   "TlBeJIBRNJY",  # 2025-03-16 Moving a Carrot Car in a Theme Park!
+   "qwKjAIg1TjM",  # 2025-03-30 Travelling Carrot Style!
   ],
  ),
  dict(name="Periscope Hat", kind="Wearable",
@@ -454,6 +521,7 @@ INVENTIONS = [
   desc="The first ever human egg drop.",
   videos=[
    "7rhIX0z9bt8",  # 2023-09-19 The FIRST ever HUMAN Egg Drop!
+   "BQy8-8-sCLs",  # 2024-10-26 A Human Egg Drop!
   ],
  ),
  dict(name="Ice Cream Blaster", kind="Machine",
@@ -466,12 +534,19 @@ INVENTIONS = [
   desc="A giant robot squirrel that cuts trees.",
   videos=[
    "P87wp1Jr-T8",  # 2024-03-01 This GIANT ROBOT SQUIRREL Cuts Trees!
+   "OHkYzxdcI7A",  # 2024-03-04 A squirrel that cuts down trees! 🌳 🐿️
   ],
  ),
  dict(name="Robot Chicken to Space", kind="Robot",
   desc="Sending a robot chicken to \"space\".",
   videos=[
    "G6lCIqnIa68",  # 2024-11-26 We sent a ROBOT CHICKEN to "SPACE"!
+   "OfK1gFJe4VU",  # 2025-02-02 Bob the Chickennnnn 🎶
+   "RONgoAF0S-I",  # 2025-05-16 Pre-Launch Poop Checks
+   "HoEJYYlIiL0",  # 2025-05-18 Robot Chicken Space Launch - Behind the Scenes
+   "hnssR-3t6Yo",  # 2025-05-20 Space Chicken Mission Accomplished!
+   "jhGevSbsZdg",  # 2025-05-23 Launching a Space Chicken before breakfast
+   "eEZ93JIl3sw",  # 2026-03-16 AstroPoops
   ],
  ),
  dict(name="Flamethrowing Marshmallow Cannon", kind="Machine",
@@ -483,6 +558,7 @@ INVENTIONS = [
  dict(name="Robot Hedgehog Litter Picker", kind="Robot",
   desc="A giant robot hedgehog that eats litter.",
   videos=[
+   "VhhmxpLB1Hs",  # 2026-04-30 Print your own Hedgehog!
    "WfSLCrFfB1o",  # 2026-04-30 This Giant Robot Hedgehog Eats Litter!
   ],
  ),
@@ -490,12 +566,270 @@ INVENTIONS = [
   desc="The world's largest hairdryer.",
   videos=[
    "ZCF_BVEWgEY",  # 2026-09-10 World's LARGEST Hairdryer!
+   "cVSnDvUyycg",  # 2026-09-11 Did someone say MASSIVE Hairdryer?
+   "5pSuKSgMVcM",  # 2026-09-24 Big Hairdryer gonna blow it all away
+   "TyTc9kqjgZ8",  # 2026-09-26 Giant Hairdryer = Relaxation
+   "3PLX7twN1ek",  # 2026-10-02 Every Stadium needs a Giant Hairdryer!
+   "hS-FlEc1VlI",  # 2026-10-05 POV: the giant hairdryer you built from a kid's idea makes the US NEWS
+   "lZW1xkXLtPw",  # 2026-10-12 How heavy is the World's Largest Hairdryer?
+   "r85Yc5UDexY",  # 2026-10-16 We built a GIANT HAIRDRYER! 💨🏆
   ],
  ),
  dict(name="Lawnmower Bike", kind="Vehicle",
   desc="A lawnmower bike.",
   videos=[
    "i3Ej4IFBRn0",  # 2026-10-29 We made a Lawnmower Bike!
+  ],
+ ),
+ dict(name="Giant Flaming Crossbow", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: giant flaming crossbow.",
+  videos=[
+   "O0o0ipqZKEA",  # 2020-01-04 Starting 2020 with a GIANT FLAMING CROSSBOW!
+  ],
+ ),
+ dict(name="Cheese Grating Hat", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: cheese grating hat.",
+  videos=[
+   "V28qsYqs0Rs",  # 2020-12-23 Make America GRATE Again! Cheese Grating Hat
+   "48SAVubFh44",  # 2025-12-12 That time we made a Cheese-Grating hat!
+  ],
+ ),
+ dict(name="Finger Forks", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: finger forks.",
+  videos=[
+   "gEIReAWRJ3A",  # 2021-09-15 Finger Forks- The Future of Eating?
+  ],
+ ),
+ dict(name="Electricity Face Mask", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: electricity face mask.",
+  videos=[
+   "yDrnW3lTaqY",  # 2021-09-22 CAN THIS FACE MASK GENERATE ELECTRICITY?
+  ],
+ ),
+ dict(name="Giant Suncream Slide", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: giant suncream slide.",
+  videos=[
+   "NbeIwSI6E-A",  # 2021-10-20 GIANT SLIDE FIRES SUNCREAM!
+   "ZNbT7MVD1kc",  # 2025-03-18 Slide? ✅ Suncream? ✅ We're ready for Summer!
+  ],
+ ),
+ dict(name="Drill Shoes", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: drill shoes.",
+  videos=[
+   "Uz4zVDRKd9M",  # 2021-11-17 Attaching Drills To Our Shoes!
+  ],
+ ),
+ dict(name="Robot Dinosaur Floor Cleaner", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: robot dinosaur floor cleaner.",
+  videos=[
+   "9R6UVG7hNPM",  # 2021-12-08 This ROBOT DINOSAUR Cleans your Floors!
+   "Ceu9w391g84",  # 2025-03-22 Giant Robot Dinosaur that cleans the floor?!
+  ],
+ ),
+ dict(name="Giant Bird Feeder for People", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: giant bird feeder for people.",
+  videos=[
+   "dHRPT-LtP-4",  # 2022-02-23 GIANT Bird Feeder for People!
+   "rh7AdvBeO5I",  # 2024-10-30 A Bird Feeder for Humans!
+  ],
+ ),
+ dict(name="Robot Hairdresser", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: robot hairdresser.",
+  videos=[
+   "7Zwq1xn_mso",  # 2022-08-15 Can't be bothered to style your hair?
+   "OQ7p1xREfPI",  # 2024-11-17 This is what happens when a robot does your hair!
+   "K-CJYCU4nPw",  # 2025-05-08 Testing our Hair Robot with Geoff!
+  ],
+ ),
+ dict(name="Tickling Chainsaw", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: tickling chainsaw.",
+  videos=[
+   "t7h8hxTI72k",  # 2022-08-31 This Chainsaw Tickles
+   "UWSEJgART0c",  # 2024-11-15 Tickling Chainsaw
+  ],
+ ),
+ dict(name="Shipwreck Survival Invention", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: shipwreck survival invention.",
+  videos=[
+   "VWDxEzPJnLk",  # 2022-10-13 The Ultimate Shipwreck Invention?
+   "_iJlFN6PHTg",  # 2024-12-03 Fancy getting shipwrecked?!
+   "fMoah6pWwbg",  # 2025-07-29 Shipwreck Survival Zorb
+   "FYqsrx9fuDA",  # 2026-02-11 Shawn got shipwrecked
+  ],
+ ),
+ dict(name="Cyborg Battling Pumpkins", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: cyborg battling pumpkins.",
+  videos=[
+   "PSS3P8ZId2o",  # 2022-10-20 Robot Pumpkin vs Robot Pumpkin!
+   "KP1VFJmYxus",  # 2024-10-29 Making Cyborg Pumpkins
+   "Jpe4x8SVQu8",  # 2024-10-31 Making Battling Pumpkins!
+  ],
+ ),
+ dict(name="Wearable Wind Turbine", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: wearable wind turbine.",
+  videos=[
+   "vkUBjE4Gs6s",  # 2023-10-23 Will this NEW Wind Turbine convert the haters?
+  ],
+ ),
+ dict(name="Seed Planting Trousers", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: seed planting trousers.",
+  videos=[
+   "W7ZXuKAJZTo",  # 2023-11-16 Can we plant 1,000,000 Seeds with these Trousers?
+  ],
+ ),
+ dict(name="Insect Detecting Goggles", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: insect detecting goggles.",
+  videos=[
+   "qlnQ-mz3xTk",  # 2024-04-10 I can hear BUGS!!!
+   "eX9wwjxWBZk",  # 2024-11-13 Insect Detecting Goggles
+  ],
+ ),
+ dict(name="Giant Bubble Wand", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: giant bubble wand.",
+  videos=[
+   "4kamWyqfIcs",  # 2024-07-10 Making Isabella’s Giant Bubble Wand!
+   "ayxj4Bl_25w",  # 2024-07-17 Isabella’s Giant Bubble Wand!
+  ],
+ ),
+ dict(name="Robot Pageant", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: robot pageant.",
+  videos=[
+   "D6cZ33KYBsA",  # 2024-07-14 Worlds First Robot Pageant 🤖✨
+   "HCcsMfGr7EQ",  # 2024-10-23 The World's First Robot Pageant!
+   "qQg65WerQq4",  # 2024-11-11 Did you know we ran the world’s first robot pageant? 🤖🎉 #Robotics #STE
+   "znM-uT_Gq6c",  # 2025-02-14 2025 Robot Pageant coming soon!
+  ],
+ ),
+ dict(name="Bed Bike", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: bed bike.",
+  videos=[
+   "QPaf1M4uWJ8",  # 2024-09-23 We took the Bed Bike back to School!
+   "eTYbOnEMAXQ",  # 2024-09-30 It's a Bed Bike! Invented by 8-year-old Ebba!
+   "xikXPLBYVvM",  # 2024-12-29 Just casually out in a Bed Bike!
+  ],
+ ),
+ dict(name="Snoozeball Alarm", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: snoozeball alarm.",
+  videos=[
+   "XpZ6qRYvjVI",  # 2024-09-28 Always pressing snooze? You need a Snoozeball Alarm Clock!
+  ],
+ ),
+ dict(name="Adult Baby Walker", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: adult baby walker.",
+  videos=[
+   "Lf68LdhCkQY",  # 2024-10-02 The adult baby walker!
+  ],
+ ),
+ dict(name="Nacho Belt", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: nacho belt.",
+  videos=[
+   "5aZgGngMZj0",  # 2024-11-05 World's First Nacho Belt!
+   "DwmH4HtVkUA",  # 2024-11-25 Nacho Belt!
+   "JTixUij6I6s",  # 2024-12-25 Our Nacho Song!
+   "wle7kMwn5_Q",  # 2025-01-16 Messy Nacho Belt!
+   "V9SQReJwrPI",  # 2025-06-17 Our Nacho Belt Song
+   "6DNSbulL-lo",  # 2025-07-01 Nachos anyone?
+  ],
+ ),
+ dict(name="Chocolate Cup", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: chocolate cup.",
+  videos=[
+   "GpfvcTYhb9M",  # 2024-11-06 Making a Chocolate Cup
+   "got703g_kGQ",  # 2026-09-13 Can we build a chocolate cup?
+  ],
+ ),
+ dict(name="Foot Painting Machine", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: foot painting machine.",
+  videos=[
+   "IshFBsWJyQ0",  # 2024-11-19 Painting with your feet
+   "FABJLMcrf7U",  # 2025-04-14 POV: you decide to draw portraits with your feet 🦶
+  ],
+ ),
+ dict(name="Battery Dog", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: battery dog.",
+  videos=[
+   "IZR5g0MLBZE",  # 2024-12-13 Is the Battery Dog the Perfect Pet?
+   "XtKuo-JN038",  # 2025-02-12 Here comes Battery Dog!
+   "KfGNNeWpWGU",  # 2025-05-26 Battery Dog on Tour!
+  ],
+ ),
+ dict(name="Glitter Firing Skirt", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: glitter firing skirt.",
+  videos=[
+   "-jSnRZEiRLs",  # 2025-04-01 We made a GLITTER FIRING SKIRT for Amanda Holden!
+  ],
+ ),
+ dict(name="Sneeze-Activated Flamethrower", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: sneeze-activated flamethrower.",
+  videos=[
+   "7nrO_Qq5UQo",  # 2025-06-03 Sneeze-activated Flamethrower
+  ],
+ ),
+ dict(name="Fruit Launcher", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: fruit launcher.",
+  videos=[
+   "SLQA1obh47s",  # 2025-07-25 Dog vs Fruit Launcher!
+  ],
+ ),
+ dict(name="Pickle Racer", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: pickle racer.",
+  videos=[
+   "i6ugQasJZb8",  # 2026-06-15 Come watch us race a pickle!
+   "FP735j4Nk-s",  # 2026-07-30 We raced a Pickle with Colin Furze!
+  ],
+ ),
+ dict(name="Antweight Burger Robot", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: antweight burger robot.",
+  videos=[
+   "icQ76ohbIK4",  # 2025-07-30 We Built an Antweight Burger Robot (and Battled it!)
+   "w_NZC0QMK6c",  # 2025-08-01 Battle Robot Reveal!
+   "xxxc5w9bcF4",  # 2025-09-23 Is this Burger Robot out of Control?!
+   "GFRJrH7WMk8",  # 2025-10-01 Mouse VS Tiny Burger Robot!
+  ],
+ ),
+ dict(name="Motorised Bed Den", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: motorised bed den.",
+  videos=[
+   "8GU5ydpXteE",  # 2025-10-07 World's first motorised Bed Den!
+  ],
+ ),
+ dict(name="Automatic Reading Helmet", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: automatic reading helmet.",
+  videos=[
+   "pBjqsj7USL0",  # 2025-11-20 Automatic Reading Helmet!
+  ],
+ ),
+ dict(name="Giant Pencil Drill", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: giant pencil drill.",
+  videos=[
+   "L0tRqHz1ZfI",  # 2025-12-20 This Giant Pencil is also a Drill
+  ],
+ ),
+ dict(name="Worm Charmer", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: worm charmer.",
+  videos=[
+   "8l-m-mdWZSw",  # 2023-06-21 How to Charm a Worm!
+   "3QpvVw2aHS4",  # 2025-09-16 Have you ever Charmed a Worm?
+  ],
+ ),
+ dict(name="Halloween Trickster Defence Mechanism", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: halloween trickster defence mechanism.",
+  videos=[
+   "dqZzadgcADw",  # 2025-10-23 Halloween Trickster Defence Mechanism!
+  ],
+ ),
+ dict(name="Halloween Zombie Robot", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: halloween zombie robot.",
+  videos=[
+   "TFMg84662Kc",  # 2025-10-24 Halloween Zombie Robot!
+  ],
+ ),
+ dict(name="Dog Poop Catcher", kind="Build",
+  desc="A kid's invention idea built full size by the Kids Invent Stuff team: dog poop catcher.",
+  videos=[
+   "xdSbUOIS37g",  # 2025-06-12 You'll NEVER drop Dog Poop again!
+   "eNj-0f21udA",  # 2025-08-04 A Musical Dog Poop Warning
+   "Z5NJk7cuNNw",  # 2025-09-22 Poopy Bandits be gone
   ],
  ),
 ]

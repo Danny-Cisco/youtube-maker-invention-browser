@@ -1,6 +1,6 @@
-"""Curated inventions for Jeff Geerling.
-
-Livestreams and series videos attached by build/attach_unassigned.py."""
+"""Inventions of Jeff Geerling. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'jeff-geerling', 'name': 'Jeff Geerling', 'person': 'Jeff Geerling', 'tagline': 'Raspberry Pi clusters, petabyte NAS boxes and a mini rack homelab.', 'other_label': 'Other uploads: reviews, tutorials, news and Ansible lessons'}
 
@@ -116,6 +116,79 @@ INVENTIONS = [
   desc="Controlling any computer with Pi KVMs.",
   videos=[
    "TIrkEr2AeDY",  # 2021-09-22 Control ANY COMPUTER with these Pi KVMs!
+  ],
+ ),
+ dict(name="Raspberry Pi Bell Slapper", kind="Build",
+  desc="A software-controlled bell-ringing contraption driven by a Raspberry Pi.",
+  videos=[
+   "Etr7uIL9spg",  # 2020-12-15 The Raspberry Pi Bell Slapper - a software-controlled bell
+  ],
+ ),
+ dict(name="Tiniest NVMe SSD RAID Array", kind="Build",
+  desc="A tiny multi-drive NVMe RAID array built on a Raspberry Pi Compute Module.",
+  videos=[
+   "AoNxDe1a-X8",  # 2021-03-19 I built the world's TINIEST NVMe SSD RAID array!
+  ],
+ ),
+ dict(name="Computer Inside a Computer", kind="Build",
+  desc="A Raspberry Pi computer built to plug into a PC slot and a graphics card.",
+  videos=[
+   "cVWF3u-y-Zg",  # 2022-09-15 I put a computer in my computer
+   "YaqJginb4go",  # 2023-04-14 I made a computer you plug into a graphics card #shorts
+  ],
+ ),
+ dict(name="Pi Pico W Garage Door Opener", kind="Build",
+  desc="Hacking the garage door opener with a Raspberry Pi Pico W.",
+  videos=[
+   "dFDGtlSi9Eg",  # 2022-11-11 Hacking my garage door with the Raspberry Pi Pico W
+  ],
+ ),
+ dict(name="Modded Williams Screwdriver", kind="Build",
+  desc="Modifying a Williams screwdriver to make it better.",
+  videos=[
+   "WzV84Qj2bL0",  # 2023-02-17 Hacking the Williams! Making a good screwdriver better #shorts
+  ],
+ ),
+ dict(name="100-SBC 1-to-100 Game", kind="Build",
+  desc="A game rig built from 100 single-board computers.",
+  videos=[
+   "C9oDWjBk45g",  # 2023-05-27 Building Mr. Beast's 1-100 game with 100 SBCs! #shorts
+  ],
+ ),
+ dict(name="Talking Hot Dog AM Radio", kind="Build",
+  desc="Making a hot dog talk by transmitting through it with AM radio.",
+  videos=[
+   "WerKkrkuwHg",  # 2024-03-31 We made a hot dog talk—with AM radio!
+  ],
+ ),
+ dict(name="Floor Lamp Homelab", kind="Build",
+  desc="A floor lamp turned into a homelab rack.",
+  videos=[
+   "CE6MTBxDSpE",  # 2025-04-01 I Turned my Floor Lamp into a Homelab
+  ],
+ ),
+ dict(name="Homemade Clock", kind="Build",
+  desc="A new clock built by Jeff.",
+  videos=[
+   "7r-cH1tcl_g",  # 2026-03-06 I built a new clock, and now I'm not sure what time it is
+  ],
+ ),
+ dict(name="Tiny Supercomputer", kind="Build",
+  desc="A tiny Raspberry Pi supercomputer built to race college students.",
+  videos=[
+   "AjmKpDNsTa8",  # 2026-05-01 Building a Tiny Supercomputer to beat college students
+  ],
+ ),
+ dict(name="DIY 20TB Snowball", kind="Build",
+  desc="A homemade 20TB data-transfer appliance after Amazon refused to send a Snowball.",
+  videos=[
+   "v0DEI4Ad7Ik",  # 2026-06-26 Amazon wouldn't let me, so I built my own 20TB Snowball
+  ],
+ ),
+ dict(name="Modded GPS Time Server", kind="Build",
+  desc="Modifying a 30-year-old GPS time server.",
+  videos=[
+   "CivRNW0b1H8",  # 2026-09-04 I modded a 30-year-old GPS Time Server (Telstra should've)
   ],
  ),
 ]
