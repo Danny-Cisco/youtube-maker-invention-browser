@@ -1,8 +1,6 @@
-"""Curated inventions for Hainbach (@hainbach).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Hainbach. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'hainbach', 'name': 'Hainbach', 'person': 'Hainbach', 'tagline': 'Experimental music made with vintage test equipment.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
