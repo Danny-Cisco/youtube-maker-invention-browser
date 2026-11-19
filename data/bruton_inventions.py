@@ -1,10 +1,6 @@
-"""Curated inventions for James Bruton (@jamesbruton).
-Most builds are numbered series, so videos are grouped by title pattern.
-kind: Cosplay & suit | Robot | Droid | Vehicle | Mechanism
-
-Each invention lists its YouTube video IDs (title in the trailing comment). Every upload not
-listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of James Bruton. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'james-bruton', 'name': 'James Bruton', 'person': 'James Bruton', 'tagline': 'Former toy designer building robot dogs, rideable AT-ATs and very weird wheels.', 'other_label': 'Other uploads: experiments, explainers, reviews and early videos'}
 
@@ -403,8 +399,8 @@ INVENTIONS = [
   desc="A rideable electric skateboard built from LEGO.",
   videos=[
    "8BO0VNhUZu8",  # 2017-07-07 LEGO Electric Skateboard #1 | James Bruton
-   "Iz0zR-3VhWg",  # 2017-07-14 LEGO Electric Skateboard in 360° | XRobots | James Bruton
    "-IoDfen-_kg",  # 2017-07-14 LEGO Electric Skateboard #2 | James Bruton
+   "Iz0zR-3VhWg",  # 2017-07-14 LEGO Electric Skateboard in 360° | XRobots | James Bruton
    "IykkSf5IMJo",  # 2017-08-04 LEGO Electric Skateboard #3 | James Bruton
    "IxVNg8gUS68",  # 2019-03-22 Giant LEGO Electric Skateboarding Minifig #2  |  James Bruton
   ],
@@ -412,6 +408,8 @@ INVENTIONS = [
  dict(name="Batman Electric Skateboard", kind="Vehicle",
   desc="An electric Batman skateboard.",
   videos=[
+   "3raN2q-_Qk4",  # 2017-10-31 Building an Electric Batman Skateboard #1 | James Bruton
+   "lZW2KSmDNCQ",  # 2017-11-14 Building an Electric Batman Skateboard #2 | James Bruton
    "AxlnhZv1S24",  # 2017-12-15 Building a Batman Electric Skateboard #3 | James Bruton
    "BlNbXh_owDE",  # 2018-08-28 Building a Batman Electric Skateboard #4 | James Bruton
   ],
@@ -622,6 +620,8 @@ INVENTIONS = [
  dict(name="Star Wars Speeder Bike", kind="Vehicle",
   desc="An experimental Star Wars speeder bike (3.1M views).",
   videos=[
+   "YyTPYAZZEj8",  # 2017-11-23 Epic Star Wars Project with Colin Furze! | James Bruton
+   "GH0Iz22xigo",  # 2017-11-30 Epic Stars Wars Project with Colin Furze and eBay | James Bruton
    "j9tN51fh_vE",  # 2023-10-03 Experimental Star Wars Speeder Bike
   ],
  ),
@@ -731,6 +731,8 @@ INVENTIONS = [
   desc="Africa by Toto played on Henry Hoovers.",
   videos=[
    "gOlmo1gX5Wc",  # 2019-04-01 Africa by Toto - Henry Hoover Cover
+   "SAcYxc1M55s",  # 2019-04-05 How I built a MIDI Controlled Henry Hoover Pipe Organ | James Bruton
+   "LMW9IrVYBoM",  # 2019-05-21 Henry Hoover goes to Makers Central 2019 | James Bruton
   ],
  ),
  dict(name="Barcode Guitar", kind="Mechanism",
@@ -777,6 +779,703 @@ INVENTIONS = [
    "9-EbHbpYvkA",  # 2020-08-25 Iron Man LEGO Art Display Robot #1
    "mDt2A9WFcmY",  # 2020-09-01 Iron Man LEGO Art Display Robot #2
    "2KueP8XSEX4",  # 2025-08-12 I built a life sized Iron Man from LEGO Bricks!
+  ],
+ ),
+ dict(name="914 PC Bot Mods", kind="Robot",
+  desc="James Bruton's 914 PC Bot Mods, built over several videos.",
+  videos=[
+   "19RBuwWjJJU",  # 2007-07-04 914 PC Bot Linux/Player Roam | James Bruton
+   "SA6ndYRT8RE",  # 2007-07-15 914 PC Bot Python Scripted Roam | James Bruton
+   "t3bDcRnhMpc",  # 2007-09-05 914 PC Bot rotating and lifting head mod | James Bruton
+  ],
+ ),
+ dict(name="Android Humanoid Robots", kind="Robot",
+  desc="James Bruton's android Humanoid Robots, built over several videos.",
+  videos=[
+   "A7-_s8WtQ_Q",  # 2007-09-23 Android 9 Stability Testing | James Bruton
+   "DRJ2DG-UJag",  # 2007-09-23 Android 6 First Steps | James Bruton
+   "M6HZte7AF7k",  # 2007-09-23 Android 7 first steps | James Bruton
+   "nnIYN95ox48",  # 2007-09-23 Android 6 Stability Testing | James Bruton
+   "904erau8z_M",  # 2011-12-10 Android 11 Bipedal Dynamic Stability Testing using Piezo R/C Heading G
+   "N5Tmrjz2usM",  # 2012-02-08 Early Android 3 video from 2004 | James Bruton
+   "0VGRAsf4too",  # 2012-04-11 Android 11 bipedal humanoid robot update, building the upper body | Ja
+   "hRhB6EZWOM4",  # 2012-04-13 Android 11 bipedal humanoid robot, building the upper body Part 2 | Ja
+   "gYUHsg8LnUc",  # 2012-11-19 Android 11 Update, Testing and Explanation, bipedal humanoid walking r
+   "-hH0VAIAcxo",  # 2013-03-20 Android 12 Part 1, 3D Printing Foot Assembly, for my Bipedal Humanoid 
+   "dVgGI4WPa-4",  # 2013-04-04 Android 12 Part 2, 3D Printing Shin Assembly, for my Bipedal Humanoid 
+   "S1eEA60taAg",  # 2013-04-10 Android 12 Part 3, Preliminary Dynamic Ankle Testing, for my Bipedal H
+   "bjK7NIGi1TE",  # 2013-05-01 Android 12 Part 5, Hip assembly for my humanoid bipedal android | Jame
+   "cwZYcy7QRos",  # 2013-05-23 Android 12 Part 6 - Thigh Assembly and complete lower half, life sized
+   "jDOqpwcKhhg",  # 2013-06-26 Android 12 Part 7, Initial Dynamic Stability Testing for my bipedal hu
+   "-wLgLVtQm0w",  # 2013-08-21 Android 12 Part 8, First Steps and Future Plans for my 3D printed huma
+   "61Mfp-8oGBc",  # 2013-09-09 Android 12 Part 9, 3D-Printed R/C Servo Driven Linear Actuator Develop
+   "O9mjX0tzm9g",  # 2013-09-26 Android 12 Part 10, Swapping servos for 3D printed linear actuators, f
+   "5oVN2puw59Q",  # 2013-10-29 Android 12 part 11, Preliminary testing with new linear actuators for 
+   "5anwEl3vF_4",  # 2026-05-26 Five Servo Balancing Bipedal Robot
+  ],
+ ),
+ dict(name="Homemade Traction Kite", kind="Robot",
+  desc="James Bruton's homemade Traction Kite, built over several videos.",
+  videos=[
+   "c_tlvMqOIuw",  # 2010-09-12 Homemade Traction Kite Testing 1. | James Bruton
+   "kYcsINJvWJU",  # 2010-09-18 Homemade Traction Kite Testing 2. | James Bruton
+  ],
+ ),
+ dict(name="Experimental Boat", kind="Robot",
+  desc="James Bruton's experimental Boat, built over several videos.",
+  videos=[
+   "qSL71LlgCsY",  # 2012-10-18 Experimental Boat Building Part 1, testing expanded polystyrene and fi
+   "nptWLwzBBA8",  # 2012-10-19 Experimental Boat Building Part 2, Why do boats float? Basic principle
+   "f3B9KwqxFi4",  # 2012-10-31 Experimental Boat Building Part 3, building the expanded polystyrene f
+   "ayO2oTVOCUA",  # 2012-11-30 Experimental Boat Building Part 4, Fiberglassing the Frame with woven 
+   "-ngcldsRqxY",  # 2013-04-30 Experimental Boat Building Part 5, Skinning the frame with fleece and 
+   "LWlmVbLmr1M",  # 2013-05-07 Experimental Boat Building Part 6, Initial Testing on the River Hamble
+   "MSNLAzKj1LI",  # 2013-06-20 Experimental Boat Build Part 7 - Modifying the hull shape using polyst
+   "eWgrW5b8LpU",  # 2013-07-01 Experimental Boat Part 8, testing the modified hull in the sea and dis
+   "SqbIUXrebE0",  # 2014-08-15 Boat #10 | 3D-Printed Propeller Testing & Failing | James Bruton
+   "rwTJnosAAiw",  # 2014-08-15 Boat #9 | 3D-Printed Propeller | James Bruton
+  ],
+ ),
+ dict(name="Experimental Wind Turbine", kind="Robot",
+  desc="James Bruton's experimental Wind Turbine, built over several videos.",
+  videos=[
+   "x0L68kE_zDk",  # 2012-10-24 Experimental Wind Turbine Building Part 1, Transforming Savonius Darri
+  ],
+ ),
+ dict(name="Visible Beam Laser Blaster Prop", kind="Robot",
+  desc="James Bruton's visible Beam Laser Blaster Prop, built over several videos.",
+  videos=[
+   "NoUyLzF62to",  # 2013-12-09 Visible Beam Laser Blaster Prop PART 1 | James Bruton
+   "lOi7uk6ttxc",  # 2014-01-28 Visible Beam Laser Blaster Prop #2 | Plumbing & Testing Laser Clusters
+  ],
+ ),
+ dict(name="Lightsaber Mechanism", kind="Robot",
+  desc="James Bruton's lightsaber Mechanism, built over several videos.",
+  videos=[
+   "9KEnGFWuQ-s",  # 2014-01-20 Electronic Extending & Retracting Lightsaber Mechanical Prototype | Ja
+  ],
+ ),
+ dict(name="Johnny 5 Replica", kind="Robot",
+  desc="James Bruton's johnny 5 Replica, built over several videos.",
+  videos=[
+   "apSSyeJdREs",  # 2014-02-17 Short Circuit Johnny Five Replica Build Information | James Bruton
+   "2i-EDDalxkY",  # 2014-04-22 Short Circuit Johnny 5 Replica #2 | Binoculars | James Bruton
+   "VPnFBudmv2U",  # 2014-05-20 Short Circuit Johnny 5 Replica #3 | Neck Cylinder Assembly | James Bru
+   "nvbY0YtNKjQ",  # 2014-07-18 Short Circuit Johnny 5 | Open Source CAD File Release by Input-Inc! | 
+  ],
+ ),
+ dict(name="Mr Fusion Replica", kind="Robot",
+  desc="James Bruton's mr Fusion Replica, built over several videos.",
+  videos=[
+   "1_pRUr3i07k",  # 2014-02-27 BTTF Mr Fusion #1 | Using Krups 223A Coffee Grinder | James Bruton
+   "MLSDCjalImg",  # 2014-03-18 BTTF Mr Fusion #2 | Using Krups 223A Coffee Grinder | James Bruton
+   "fShfCS9T0Fk",  # 2014-04-01 BTTF Mr Fusion Build #3 | Using Krups 223A Coffee Grinder | James Brut
+   "FJJgP5TFO7w",  # 2014-11-06 BTTF Mr Fusion #4 | Adafruit Sound Board | James Bruton
+  ],
+ ),
+ dict(name="GNK Power Droid", kind="Robot",
+  desc="James Bruton's gNK Power Droid, built over several videos.",
+  videos=[
+   "vGV42NZpT34",  # 2016-07-05 Star Wars GNK Power Droid #1 | Planning | James Bruton
+   "ZOaGUiYJj9s",  # 2016-07-26 Star Wars GNK Power Droid #2 | Gearing Mechanism | James Bruton
+   "F6qjLeV4lM8",  # 2016-08-09 Star Wars GNK Power Droid #3 | Working Legs | James Bruton
+   "9kLcv7DGphM",  # 2016-08-23 Star Wars GNK Power Droid #4 | Hip & Ankle Assembly | James Bruton
+   "SE8zYF4A_8M",  # 2016-09-06 Star Wars GNK Power Droid #5 | Body Frame Building | James Bruton
+   "sE_Y5QjN7e8",  # 2016-09-20 Star Wars GNK Power Droid #6 | Electronics Installation | James Bruton
+   "OFdueLErzuA",  # 2016-10-04 Star Wars GNK Power Droid #7 | It's Alive! | James Bruton
+   "h9x7UGCWMN8",  # 2016-10-18 Star Wars GNK Power Droid #8 | First Steps | James Bruton
+   "jRQdA7FADyY",  # 2016-11-08 Star Wars Robot GONK Power Droid Robot PART 9, Walking Forwards & Back
+   "BBCwR8R_vCA",  # 2016-11-22 Star Wars GNK Power Droid #10 | Cosmetic Features | James Bruton
+   "IpdaJWIqI5c",  # 2016-12-06 Star Wars GNK Droid #11 | More Walking & Next Steps | James Bruton
+   "GRHBSgyhDhA",  # 2016-12-09 Building BB 8, R2-D2 & GNK Droid | James Bruton
+  ],
+ ),
+ dict(name="VR Tracked Game Camera & Mixed Reality", kind="Robot",
+  desc="James Bruton's vR Tracked Game Camera & Mixed Reality, built over several videos.",
+  videos=[
+   "POG1p8Y_MgA",  # 2017-03-03 Virtual Reality #1 | Building a Tracked Game Camera | James Bruton
+   "popWAdPEImc",  # 2017-03-17 Virtual Reality #2 | Game Controller Interaction | James Bruton
+   "4SLdtQq97E0",  # 2017-03-31 Virtual Reality #3 | Mixed Reality & HTC Vive | James Bruton
+   "mm9M7oIPHbI",  # 2017-05-12 Mixed Reality Filming Without a Green Screen | James Bruton
+  ],
+ ),
+ dict(name="Pneumatic Actuator Experiments", kind="Robot",
+  desc="James Bruton's pneumatic Actuator Experiments, built over several videos.",
+  videos=[
+   "aCZEyPXdgds",  # 2017-08-18 Pneumatic Fighting Robot Concept | James Bruton
+   "d7ErG5ecO2s",  # 2019-01-29 Experiments with Position Control of Pneumatic Actuators | James Bruto
+   "pK6gTlH8rHI",  # 2019-02-19 Testing Proportional Control of Pneumatic Cylinders | James Bruton
+  ],
+ ),
+ dict(name="Giant 3D-Printed Head Sculpture", kind="Robot",
+  desc="James Bruton's giant 3D-Printed Head Sculpture, built over several videos.",
+  videos=[
+   "CqVcKuz7Nzg",  # 2017-12-22 World Record #1: Largest 3D-Printed Sculpture of a Human | James Bruto
+   "zYUJs44c960",  # 2017-12-29 World Record #2: Largest 3D-Printed Sculpture of a Human | James Bruto
+   "kiNDOKxwL94",  # 2018-01-02 World Record #3: Largest 3D-Printed Sculpture of a Human | James Bruto
+   "szgBhm1eacU",  # 2018-01-12 World Record: Largest 3D-Printed Sculpture of a Human #4 | James Bruto
+   "ep652rfSylo",  # 2018-03-06 3D Printing *Another* Giant Head | James Bruton
+   "pEtzZBABp0E",  # 2018-04-13 A Guinness World Record! | James Bruton
+  ],
+ ),
+ dict(name="VR Hoverbike Simulator", kind="Robot",
+  desc="James Bruton's vR Hoverbike Simulator, built over several videos.",
+  videos=[
+   "uYL6D_EYRLo",  # 2018-03-13 VR Hoverbike Simulator Game #1 | James Bruton
+   "jAFSIgROOBg",  # 2018-03-27 VR Hoverbike Simulator Game #2 | James Bruton
+   "nRmVxxTUxSs",  # 2018-04-10 VR Hoverbike Simulator Game #3 | James Bruton
+   "gh2ocQOmqSk",  # 2018-05-15 VR Hoverbike Simulator Game #4 | James Bruton
+  ],
+ ),
+ dict(name="CNC Router Table", kind="Robot",
+  desc="James Bruton's cNC Router Table, built over several videos.",
+  videos=[
+   "O9cQTfxixF8",  # 2018-05-08 Building my CNC Machine Router Table #1 | James Bruton
+   "c3bPxOe7eFk",  # 2018-05-25 Building my CNC Machine Router Table # 2 | James Bruton
+  ],
+ ),
+ dict(name="Compliant Robot Grippers", kind="Robot",
+  desc="James Bruton's compliant Robot Grippers, built over several videos.",
+  videos=[
+   "V0Y4mJLtLFU",  # 2019-03-12 Building a Force Controlled Robot Gripper | James Bruton
+   "Uxs2KgsVHUY",  # 2019-07-02 V2 Compliant Robot Gripper | James Bruton
+   "5RxZzuLiMdA",  # 2020-03-10 Building Compliant Robot Grippers - for Events and Education
+   "LcuBRQtVGxk",  # 2021-04-20 Experimental Jamming 'Beanbag' Robot Gripper
+  ],
+ ),
+ dict(name="Force Driven Robot Arm", kind="Robot",
+  desc="James Bruton's force Driven Robot Arm, built over several videos.",
+  videos=[
+   "1oVEH2k6rjY",  # 2019-04-09 Building a Force Driven Robot Arm #1 | James Bruton
+   "lSqUNlWYXcE",  # 2019-04-23 Building a Force Driven Robot Arm #2 | James Bruton
+   "_aOWkkrOyLQ",  # 2019-05-28 Building a Force Driven Robot Arm #3 | James Bruton
+   "WMvTekLTuCo",  # 2019-06-18 Building a Force Driven Robot Arm #4 | James Bruton
+  ],
+ ),
+ dict(name="Robot Show Animatronics", kind="Robot",
+  desc="James Bruton's robot Show Animatronics, built over several videos.",
+  videos=[
+   "BWW-6_NYBBA",  # 2019-07-23 Starting the Metal Robot Chassis Build
+   "ngazw18f6zw",  # 2019-07-30 Completing the Robots' Mechanical Build
+   "wQgziJbQ2J0",  # 2019-08-13 Building the Robots' Electronics
+   "6TAfDX1u7w0",  # 2019-08-20 DMX Control for Robot Animatronics?
+   "diVXbuRislM",  # 2019-09-03 Building Motion Capture Rigs for Robotics & Animatronics
+   "9XRQf_0fwR8",  # 2019-09-10 Building Animatronic Robot Heads
+   "BZDgEBOeGek",  # 2019-12-10 How *YOU* Can Control my Robot Show!
+  ],
+ ),
+ dict(name="Tickle-Me Elmo Robot Conversion", kind="Robot",
+  desc="James Bruton's tickle-Me Elmo Robot Conversion, built over several videos.",
+  videos=[
+   "VzXk3RFx8MQ",  # 2020-01-07 Tickle-Me Elmo Robot Conversion #1 : Legs and Locomotion
+   "k81B9TmLm94",  # 2020-01-21 Tickle-Me Elmo Robot Conversion #2 : Upper Body
+  ],
+ ),
+ dict(name="Balancing Strandbeest", kind="Robot",
+  desc="James Bruton's balancing Strandbeest, built over several videos.",
+  videos=[
+   "DAtJTlYiKQ4",  # 2020-05-12 Strandbeest with a Difference
+   "Q26btfxZ7Ps",  # 2020-05-26 Balancing Strandbeest
+  ],
+ ),
+ dict(name="Walking Wheels", kind="Robot",
+  desc="James Bruton's walking Wheels, built over several videos.",
+  videos=[
+   "Ei68T6tE8SM",  # 2021-09-14 Are these Walking Wheels Practical?
+   "UQo2zmQkkk8",  # 2021-10-19 4WD Walking Wheel Crawler Vehicle
+  ],
+ ),
+ dict(name="Rebuilt Rhino Tank", kind="Robot",
+  desc="James Bruton's rebuilt Rhino Tank, built over several videos.",
+  videos=[
+   "uy5Sy2NvhGc",  # 2024-03-27 Rebuilding Colin Furze's Rhino Tank #robotics #3dprinting #welding #cn
+   "22kwYe_AFb4",  # 2024-03-30 Rebuilding Colin Furze's Rhino Tank #robotics #3dprinting #welding #cn
+   "RM_prqiGQwI",  # 2024-04-03 Testing the Rhino with Colin Furze  #robot #cnc #3dprinting #electroni
+  ],
+ ),
+ dict(name="Ball-Balancing Shackled Shadow", kind="Robot",
+  desc="James Bruton's ball-Balancing Shackled Shadow, built over several videos.",
+  videos=[
+   "GxJBtiDocvw",  # 2024-08-20 Ball balancing World of Warcraft Shackled Shadow Mount
+   "b2VdM5IJn3I",  # 2024-08-27 Building a Ball-Balancing Robot Creature | Shackled Shadow
+   "BobaJiKHrJs",  # 2024-08-28 Ball balancing World of Warcraft Shackled Shadow Mount
+  ],
+ ),
+ dict(name="Pasta-Cooking PC", kind="Robot",
+  desc="James Bruton's pasta-Cooking PC, built over several videos.",
+  videos=[
+   "69yd6G30PWo",  # 2025-11-17 I built a PC that cooks Pasta!
+   "d5tBv6t9pc0",  # 2025-11-19 I built a PC that cooks Pasta!
+   "jPPxBPYWjlc",  # 2025-12-03 I built a PC that cooks Pasta!
+  ],
+ ),
+ dict(name="Dollar Store Terminator Endoskeleton Skull", kind="Robot",
+  desc="Dollar Store Terminator Endoskeleton Skull movie prop build homemade project.",
+  videos=[
+   "cNgbMmcJJ9A",  # 2012-06-28 Dollar Store Terminator Endoskeleton Skull movie prop build homemade p
+  ],
+ ),
+ dict(name="914 PC Bot Navigation", kind="Robot",
+  desc="Mobile Robot Navigation Project #1 using the 914 PC-BOT and Kinect.",
+  videos=[
+   "hoz8GwvhfbA",  # 2012-12-20 Mobile Robot Navigation Project #1 using the 914 PC-BOT and Kinect | J
+   "mShc-JedpxI",  # 2013-02-27 XRobots - Mobile Robot Navigation Project #2 using the 914 PC-BOT and 
+  ],
+ ),
+ dict(name="3D Printing a Replacement Chuck Key Holder for my Power Drill", kind="Robot",
+  desc="3D Printing a Replacement Chuck Key Holder for my Power Drill.",
+  videos=[
+   "CdPIyxBKRJ4",  # 2013-04-14 3D Printing a Replacement Chuck Key Holder for my Power Drill | James 
+  ],
+ ),
+ dict(name="War Machine Cosplay", kind="Robot",
+  desc="War Machine Cosplay Resurrected.",
+  videos=[
+   "mB2Hs6M6LkM",  # 2013-11-06 War Machine Cosplay Resurrected | James Bruton
+  ],
+ ),
+ dict(name="Giant LEGO HyperReality Blaster with Vive VR Tracking", kind="Robot",
+  desc="Giant LEGO HyperReality Blaster with Vive VR Tracking.",
+  videos=[
+   "biqCDa2qAyU",  # 2017-04-27 Giant LEGO HyperReality Blaster with Vive VR Tracking | James Bruton
+  ],
+ ),
+ dict(name="Iron Man Electric Skateboard", kind="Robot",
+  desc="Iron Man Electric Skateboard Build #1 at DEFCON VI.",
+  videos=[
+   "rKweqmF_-r0",  # 2017-10-03 Iron Man Electric Skateboard Build #1 at DEFCON VI | James Bruton
+  ],
+ ),
+ dict(name="3D Printing the Knotted Orbit", kind="Robot",
+  desc="3D Printing the Knotted Orbit.",
+  videos=[
+   "aur4kPFNdQk",  # 2018-06-01 3D Printing the Knotted Orbit | James Bruton
+  ],
+ ),
+ dict(name="Dancing Fire-Breathing Robot", kind="Robot",
+  desc="Dancing, Fire-Breathing Robot w. Look Mum No Computer.",
+  videos=[
+   "rGO03_eDut0",  # 2018-07-24 Dancing, Fire-Breathing Robot w. Look Mum No Computer | James Bruton
+  ],
+ ),
+ dict(name="Lower-power Linear Actuator with Arduino", kind="Robot",
+  desc="Building a Lower-power Linear Actuator with Arduino.",
+  videos=[
+   "WJkf264yxTU",  # 2018-10-16 Building a Lower-power Linear Actuator with Arduino | James Bruton
+  ],
+ ),
+ dict(name="Robot to Cook the Perfect Boiled Egg", kind="Robot",
+  desc="I Built a Robot to Cook the Perfect Boiled Egg.",
+  videos=[
+   "XTXuOAIRFFU",  # 2019-01-15 I Built a Robot to Cook the Perfect Boiled Egg | James Bruton
+  ],
+ ),
+ dict(name="Jumping Robot Leg with Elastic Tendon", kind="Robot",
+  desc="Testing a Jumping Robot Leg with Elastic Tendon.",
+  videos=[
+   "Db0BNL3PfCE",  # 2019-01-22 Testing a Jumping Robot Leg with Elastic Tendon | James Bruton
+  ],
+ ),
+ dict(name="Laser Projector Graphic EQ Display", kind="Robot",
+  desc="Building a Laser Projector Graphic EQ Display.",
+  videos=[
+   "7u3TRbWFYgk",  # 2019-02-05 Building a Laser Projector Graphic EQ Display | James Bruton
+  ],
+ ),
+ dict(name="Robot Toaster Oven", kind="Robot",
+  desc="I Built a Robot Toaster Oven.",
+  videos=[
+   "iZ0l46Njn5Q",  # 2019-02-12 I Built a Robot Toaster Oven | James Bruton
+  ],
+ ),
+ dict(name="Giant LEGO Robotic Skateboarding Minifig", kind="Robot",
+  desc="I built a Giant LEGO Robotic Skateboarding Minifig.",
+  videos=[
+   "oJurBTfYnRI",  # 2019-02-26 I built a Giant LEGO Robotic Skateboarding Minifig | James Bruton
+  ],
+ ),
+ dict(name="Metal Roller", kind="Robot",
+  desc="How I Built a Metal Roller.",
+  videos=[
+   "xSwbm3uN7uw",  # 2019-03-19 How I Built a Metal Roller | James Bruton
+  ],
+ ),
+ dict(name="Two-Wheel Balancing Robot", kind="Robot",
+  desc="Building a Two-Wheel Balancing Robot | with LG XBOOM Go Speakers.",
+  videos=[
+   "TN6u-D992sw",  # 2019-07-09 Building a Two-Wheel Balancing Robot | with LG XBOOM Go Speakers
+  ],
+ ),
+ dict(name="Balancing Boombox Robot", kind="Robot",
+  desc="The BALANCING BOOMBOX ROBOT you always wanted | with LG XBOOM Go Speakers.",
+  videos=[
+   "e-CTFbop4PU",  # 2019-07-16 The BALANCING BOOMBOX ROBOT you always wanted | with LG XBOOM Go Speak
+  ],
+ ),
+ dict(name="Compliant Current-Controlled Spring", kind="Robot",
+  desc="Simulating a Compliant Dampened Spring with Current Control.",
+  videos=[
+   "qVrPx665NzI",  # 2019-08-06 Simulating a Compliant Dampened Spring with Current Control
+  ],
+ ),
+ dict(name="720 LED RGB Graphic Visualiser", kind="Robot",
+  desc="Building a 720 LED RGB Graphic Visualiser.",
+  videos=[
+   "BCFG7qSxgag",  # 2019-10-15 Building a 720 LED RGB Graphic Visualiser
+  ],
+ ),
+ dict(name="512 LED DJ Helmet", kind="Robot",
+  desc="Building a 512 LED DJ Helmet.",
+  videos=[
+   "oip3xbcf8LA",  # 2019-11-12 Building a 512 LED DJ Helmet
+  ],
+ ),
+ dict(name="DIY IoT  E-PAPER  Message Board", kind="Robot",
+  desc="DIY IoT  E-PAPER  Message Board.",
+  videos=[
+   "cGsRJhoF5yY",  # 2020-09-22 DIY IoT  E-PAPER  Message Board
+  ],
+ ),
+ dict(name="Tank Tracked Robot Vehicle with Modular Treads", kind="Robot",
+  desc="Tank Tracked Robot Vehicle with Modular Treads.",
+  videos=[
+   "Cw-T7vKJ7w4",  # 2020-09-29 Tank Tracked Robot Vehicle with Modular Treads
+  ],
+ ),
+ dict(name="Barcode Scanner Synth Build", kind="Robot",
+  desc="Barcode Scanner Synth Build.",
+  videos=[
+   "ywpl4en4MI0",  # 2020-10-06 Barcode Scanner Synth Build
+  ],
+ ),
+ dict(name="A.I. Activated Wolverine Claws", kind="Robot",
+  desc="A.I. Activated Wolverine Claws.",
+  videos=[
+   "koKakUK4M-0",  # 2020-10-27 A.I. Activated Wolverine Claws
+  ],
+ ),
+ dict(name="Touchscreen Smart Robot Remote", kind="Robot",
+  desc="Building a Touchscreen Smart Robot Remote.",
+  videos=[
+   "ATQblGOjMWQ",  # 2020-12-08 Building a Touchscreen Smart Robot Remote
+  ],
+ ),
+ dict(name="Christmas Present for the Hacksmith", kind="Robot",
+  desc="What did I make the HACKSMITH for Christmas?  With Estefannie Explains it All!.",
+  videos=[
+   "5SoGct1dts4",  # 2020-12-23 What did I make the HACKSMITH for Christmas?  With Estefannie Explains
+  ],
+ ),
+ dict(name="Robot Squashes Itself to Move", kind="Robot",
+  desc="Why this Robot Squashes Itself to Move.",
+  videos=[
+   "tCQ2I_rga0k",  # 2021-02-09 Why this Robot Squashes Itself to Move
+  ],
+ ),
+ dict(name="Robot Climbs over Obstacles", kind="Robot",
+  desc="How this Robot Climbs over Obstacles.",
+  videos=[
+   "anp15oVASc4",  # 2021-02-23 How this Robot Climbs over Obstacles
+  ],
+ ),
+ dict(name="Active Gyroscope Balances", kind="Robot",
+  desc="How this Active Gyroscope Balances.",
+  videos=[
+   "UVJx8T8wTQA",  # 2021-05-04 How this Active Gyroscope Balances
+  ],
+ ),
+ dict(name="Balancing on Inline Wheels with Gyroscopes", kind="Robot",
+  desc="Balancing on Inline Wheels with Gyroscopes.",
+  videos=[
+   "drxzs0Dnz14",  # 2021-05-11 Balancing on Inline Wheels with Gyroscopes
+  ],
+ ),
+ dict(name="Mystery Robot", kind="Robot",
+  desc="Why I Built This Robot.",
+  videos=[
+   "CsVCffDxwk8",  # 2021-06-01 Why I Built This Robot
+  ],
+ ),
+ dict(name="Constant-Torque Spring-Balanced Actuator", kind="Robot",
+  desc="Constant-Torque Spring-Balanced Actuator.",
+  videos=[
+   "XkELKJA4qpA",  # 2021-06-08 Constant-Torque Spring-Balanced Actuator
+  ],
+ ),
+ dict(name="Mechanically Multiplexed Flip-Dot Matrix", kind="Robot",
+  desc="Mechanically Multiplexed Flip-Dot Matrix.",
+  videos=[
+   "tzm8KB9QgJg",  # 2021-06-15 Mechanically Multiplexed Flip-Dot Matrix
+  ],
+ ),
+ dict(name="Continually Variable Transmission with Clutch & Reverse", kind="Robot",
+  desc="Continually Variable Transmission with Clutch & Reverse.",
+  videos=[
+   "KXb1gDpeq-Y",  # 2021-06-22 Continually Variable Transmission with Clutch & Reverse
+  ],
+ ),
+ dict(name="One-Wheel Balancing Robot Can Stand Still", kind="Robot",
+  desc="One-Wheel Balancing Robot Can Stand Still.",
+  videos=[
+   "fNQkZ7MmGio",  # 2021-07-06 One-Wheel Balancing Robot Can Stand Still
+  ],
+ ),
+ dict(name="Balancing Rotaped Robot", kind="Robot",
+  desc="Balancing Rotaped Robot.",
+  videos=[
+   "sC1OkWSt5_I",  # 2021-07-13 Balancing Rotaped Robot
+  ],
+ ),
+ dict(name="Machine Learning Prosthetic Arm Concept", kind="Robot",
+  desc="Machine Learning Prosthetic Arm Concept.",
+  videos=[
+   "Ip83qSrecLo",  # 2021-08-03 Machine Learning Prosthetic Arm Concept
+  ],
+ ),
+ dict(name="IoT Microwave Works Anywhere", kind="Robot",
+  desc="IoT Microwave Works Anywhere.",
+  videos=[
+   "z85uuJFxx7o",  # 2021-08-10 IoT Microwave Works Anywhere
+  ],
+ ),
+ dict(name="Shape-Shifting Morphing Robot Concepts", kind="Robot",
+  desc="Shape-Shifting Morphing Robot Concepts.",
+  videos=[
+   "opGOs7Zxeas",  # 2021-08-24 Shape-Shifting Morphing Robot Concepts
+  ],
+ ),
+ dict(name="Robot Dances so You Don't Have To", kind="Robot",
+  desc="Robot Dances so You Don't Have To.",
+  videos=[
+   "tP919dwtG38",  # 2021-09-28 Robot Dances so You Don't Have To
+  ],
+ ),
+ dict(name="Experimental Robot Worm", kind="Robot",
+  desc="Experimental Robot Worm.",
+  videos=[
+   "DhLgZzd9ZoA",  # 2021-11-09 Experimental Robot Worm
+  ],
+ ),
+ dict(name="Many Ways Can This Robot Steer", kind="Robot",
+  desc="How Many Ways Can This Robot Steer?.",
+  videos=[
+   "My4OxxNeRbc",  # 2021-11-16 How Many Ways Can This Robot Steer?
+  ],
+ ),
+ dict(name="Present for Tested.com", kind="Robot",
+  desc="Building a Present for Tested.com, Featuring Colin Furze.",
+  videos=[
+   "TZX4tiPpxW4",  # 2021-12-23 Building a Present for Tested.com, Featuring Colin Furze
+  ],
+ ),
+ dict(name="Snake Robot Climbs Over  Obstacles", kind="Robot",
+  desc="How this Snake Robot Climbs Over  Obstacles.",
+  videos=[
+   "eUUanZVFN84",  # 2022-01-25 How this Snake Robot Climbs Over  Obstacles
+  ],
+ ),
+ dict(name="Robot Balances on ONE WHEEL", kind="Robot",
+  desc="How this Robot Balances on ONE WHEEL.",
+  videos=[
+   "6YG8CsCE0WM",  # 2022-04-05 How this Robot Balances on ONE WHEEL
+  ],
+ ),
+ dict(name="Robot is Really Tall", kind="Robot",
+  desc="Why this Robot is Really Tall.",
+  videos=[
+   "VYU8CRTD2cA",  # 2022-04-26 Why this Robot is Really Tall
+  ],
+ ),
+ dict(name="Voice Controlled Car", kind="Robot",
+  desc="Can I Drive a Voice Controlled Car?.",
+  videos=[
+   "k-0nsVijPaU",  # 2022-07-05 Can I Drive a Voice Controlled Car?
+  ],
+ ),
+ dict(name="Walking Machine is Really Weird", kind="Robot",
+  desc="Why this Walking Machine is Really Weird.",
+  videos=[
+   "e1cMjbQnDwY",  # 2022-07-26 Why this Walking Machine is Really Weird
+  ],
+ ),
+ dict(name="Weird Two-Wheel Steering E-Bike", kind="Robot",
+  desc="Weird Two-Wheel Steering E-Bike.",
+  videos=[
+   "EEeeFDNrXns",  # 2022-08-23 Weird Two-Wheel Steering E-Bike
+  ],
+ ),
+ dict(name="Cardboard Bike", kind="Robot",
+  desc="How far can I Ride on a Cardboard Bike?.",
+  videos=[
+   "1t5F3qWeSxk",  # 2022-09-20 How far can I Ride on a Cardboard Bike?
+  ],
+ ),
+ dict(name="Giving LEGS their SNAKES Back", kind="Robot",
+  desc="Giving LEGS their SNAKES Back.",
+  videos=[
+   "USBnAr8Bz6c",  # 2022-10-04 Giving LEGS their SNAKES Back
+  ],
+ ),
+ dict(name="A.I.-Designed Build", kind="Robot",
+  desc="Can I Build what A.I. Designs?.",
+  videos=[
+   "T0WLrfUsJa4",  # 2022-11-15 Can I Build what A.I. Designs?
+  ],
+ ),
+ dict(name="Camera Motion Control Rig", kind="Robot",
+  desc="Building a Camera Motion Control Rig.",
+  videos=[
+   "jouYRb70814",  # 2022-12-13 Building a Camera Motion Control Rig
+  ],
+ ),
+ dict(name="Auto Boxing BattleBots", kind="Robot",
+  desc="Auto Boxing BattleBots! (3D Printed).",
+  videos=[
+   "XNV1myy1sbA",  # 2022-12-18 Auto Boxing BattleBots! (3D Printed)
+  ],
+ ),
+ dict(name="Robot Climbs up Stairs", kind="Robot",
+  desc="How this Robot Climbs up Stairs.",
+  videos=[
+   "MUyFDWbXrZ0",  # 2023-01-10 How this Robot Climbs up Stairs
+  ],
+ ),
+ dict(name="DSM2 R/C Transmitter with Arduino", kind="Robot",
+  desc="Building a DSM2 R/C Transmitter with Arduino.",
+  videos=[
+   "5BfRg9CUMYI",  # 2023-01-24 Building a DSM2 R/C Transmitter with Arduino
+  ],
+ ),
+ dict(name="Robot Centipede with Flexible Drive Train", kind="Robot",
+  desc="Robot Centipede with Flexible Drive Train.",
+  videos=[
+   "xt5njVXwxiY",  # 2023-03-07 Robot Centipede with Flexible Drive Train
+  ],
+ ),
+ dict(name="Experimental Drone Positioning System", kind="Robot",
+  desc="Experimental Drone Positioning System.",
+  videos=[
+   "7r3OAkqaziI",  # 2023-03-21 Experimental Drone Positioning System
+  ],
+ ),
+ dict(name="Meat-Muscle Actuators", kind="Robot",
+  desc="Using MEAT instead of Motors.",
+  videos=[
+   "HsMYobFXHxA",  # 2023-04-01 Using MEAT instead of Motors
+  ],
+ ),
+ dict(name="Track bends to steer", kind="Robot",
+  desc="How this track bends to steer.",
+  videos=[
+   "E_keOPL12FQ",  # 2023-04-18 How this track bends to steer
+  ],
+ ),
+ dict(name="Dangerous Friend Robot", kind="Robot",
+  desc="Building my dangerous friend.",
+  videos=[
+   "skpRfb_fIzo",  # 2023-05-16 Building my dangerous friend
+  ],
+ ),
+ dict(name="Hard Light Experiments", kind="Robot",
+  desc="Experiments with hard light.",
+  videos=[
+   "JP_uwtCaebs",  # 2023-09-05 Experiments with hard light
+  ],
+ ),
+ dict(name="Peristaltic locomotion device", kind="Robot",
+  desc="Peristaltic locomotion device.",
+  videos=[
+   "9ugbgPC0zp0",  # 2023-10-17 Peristaltic locomotion device
+  ],
+ ),
+ dict(name="Gravity Powered Machine", kind="Robot",
+  desc="Gravity powered machine.",
+  videos=[
+   "U5Su26FxBuo",  # 2024-01-23 Gravity powered machine
+  ],
+ ),
+ dict(name="Massive Mecanum Wheels", kind="Robot",
+  desc="Building Massive Mecanum Wheels.",
+  videos=[
+   "q9ZuvZ5r1Fk",  # 2024-05-08 Building Massive Mecanum Wheels
+  ],
+ ),
+ dict(name="Crowd-Controlled Robot", kind="Robot",
+  desc="I let people control this robot.",
+  videos=[
+   "FVoqf73ZLZo",  # 2024-06-11 I let people control this robot
+  ],
+ ),
+ dict(name="One-wheel robot that can balance on the spot", kind="Robot",
+  desc="I built a one-wheel robot that can balance on the spot.",
+  videos=[
+   "pOGL48JUIuw",  # 2025-04-29 I built a one-wheel robot that can balance on the spot
+  ],
+ ),
+ dict(name="ARDUINO UNO Q Face Controlled Car", kind="Robot",
+  desc="ARDUINO UNO Q Face Controlled Car.",
+  videos=[
+   "EGDxAXpH_Ag",  # 2025-10-15 ARDUINO UNO Q Face Controlled Car
+  ],
+ ),
+ dict(name="Balancing Omni-Directional Ball-Bike", kind="Robot",
+  desc="Balancing Omni-Directional Ball-Bike.",
+  videos=[
+   "S_PmvmiMGLg",  # 2025-12-17 Balancing Omni-Directional Ball-Bike
+  ],
+ ),
+ dict(name="Code-Switchable Spring", kind="Robot",
+  desc="Building a spring I can turn off with code.",
+  videos=[
+   "_lugOwlUNH8",  # 2026-01-29 Building a spring I can turn off with code
+  ],
+ ),
+ dict(name="The Six-Servo Robot Dog", kind="Robot",
+  desc="The Six-Servo Robot Dog - it's open source!.",
+  videos=[
+   "2eKb_2N0SBI",  # 2026-03-31 The Six-Servo Robot Dog - it's open source!
+  ],
+ ),
+ dict(name="LEGO Star Wars SMART Play Karaoke Machine", kind="Robot",
+  desc="LEGO Star Wars SMART Play Karaoke Machine.",
+  videos=[
+   "Ay5l4u2rS5M",  # 2026-04-10 LEGO Star Wars SMART Play Karaoke Machine
+  ],
+ ),
+ dict(name="Open Source ESP32 8-Servo Hexapod Robot", kind="Robot",
+  desc="Open Source ESP32 8-Servo Hexapod Robot.",
+  videos=[
+   "aGaYgAD-EhY",  # 2026-04-28 Open Source ESP32 8-Servo Hexapod Robot
+  ],
+ ),
+ dict(name="Perpendicular-Wheeled Ball-Balancing Robot", kind="Robot",
+  desc="Perpendicular-wheeled Ball-Balancing Robot tests.",
+  videos=[
+   "HJ1OYJmtV3Y",  # 2026-06-23 Perpendicular-wheeled Ball-Balancing Robot tests
+  ],
+ ),
+ dict(name="Elastic Band Propulsion", kind="Robot",
+  desc="How many elastic bands to push me along?.",
+  videos=[
+   "PzBuZaujA-4",  # 2026-07-07 How many elastic bands to push me along?
+  ],
+ ),
+ dict(name="D20 Stabilised Walking Machine", kind="Robot",
+  desc="Using 20-sided dice to stabilise my walking machine?.",
+  videos=[
+   "5YPduEo7dU4",  # 2026-08-04 Using 20-sided dice to stabilise my walking machine?
+  ],
+ ),
+ dict(name="Neural Net for Competitive Robots", kind="Robot",
+  desc="I Built a Neural Net for Competitive Robots.",
+  videos=[
+   "94AMYAVnpsk",  # 2026-10-29 I Built a Neural Net for Competitive Robots
+  ],
+ ),
+ dict(name="Auto-Driving Holonomic Car with Arduino Ventuno Q", kind="Robot",
+  desc="Auto-Driving Holonomic Car with Arduino Ventuno Q.",
+  videos=[
+   "4sRPkFHrNX0",  # 2026-11-12 Auto-Driving Holonomic Car with Arduino Ventuno Q
   ],
  ),
 ]

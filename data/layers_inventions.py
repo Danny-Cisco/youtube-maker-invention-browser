@@ -1,6 +1,6 @@
-"""Curated inventions for Made with Layers.
-
-Livestreams and series videos attached by build/attach_unassigned.py."""
+"""Inventions of Made with Layers. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'made-with-layers', 'name': 'Made with Layers', 'person': 'Thomas Sanladerer', 'tagline': '3D-printing explainer who also built a CNC mill from a printer and a budget Prusa.', 'other_label': 'Other uploads: guides, reviews and 3D-printing explainers'}
 
@@ -113,6 +113,84 @@ INVENTIONS = [
   videos=[
    "ejgL9isRLm0",  # 2019-11-17 Was live: First print on the Prusa SL1 & trying the CW1!
    "tNLnsoG59Og",  # 2019-11-17 Was live: Prusa SL1 build!
+  ],
+ ),
+ dict(name="3D Printed Bluetooth Audio Amplifier", kind="Build",
+  desc="A Bluetooth audio amplifier with a 3D printed enclosure.",
+  videos=[
+   "s7uu1jYFZ_M",  # 2016-05-24 Project: Make a 3D Printed Bluetooth Audio Amplifier!
+  ],
+ ),
+ dict(name="Browser-Designed Tablet Stand", kind="Build",
+  desc="A parametric tablet stand Tom designed in a web browser.",
+  videos=[
+   "Y9hzMJvXYBk",  # 2017-09-13 This tablet stand was designed in a web browser (and you can make one,
+  ],
+ ),
+ dict(name="Topdressing Tool", kind="Tool",
+  desc="A parametric topdressing tool designed in Fusion 360 and 3D printed.",
+  videos=[
+   "AEln9q6ncoU",  # 2018-10-15 Making a Topdressing Tool! / Parametric Design in Fusion360 / CR-10
+  ],
+ ),
+ dict(name="Crystallized PLA Espresso Cup", kind="Build",
+  desc="A custom espresso cup printed in heat-treated crystallized PLA.",
+  videos=[
+   "WNvXFYG-C2s",  # 2018-10-26 Custom crystallized PLA Espresso cup! #HTPLA #Fusion360
+  ],
+ ),
+ dict(name="Open-Source Educational Loudspeaker Kit", kind="Build",
+  desc="An open-source educational loudspeaker kit designed by Tom.",
+  videos=[
+   "3cyOi3ThyPg",  # 2019-03-20 I made an open-source educational loudspeaker kit!
+  ],
+ ),
+ dict(name="Studio Acoustic Panels", kind="Build",
+  desc="Cheap home-made acoustic panels for the new studio.",
+  videos=[
+   "OfNciIb87oY",  # 2020-01-08 Making cheap acoustic panels for my NEW STUDIO
+  ],
+ ),
+ dict(name="DIY 5.1 Surround Speakers", kind="Build",
+  desc="A 3D printed 5.1 surround speaker set.",
+  videos=[
+   "stFMvPXvraY",  # 2020-04-08 DIY 5.1 Surround speakers - a learning opportunity! #3DPrinting
+  ],
+ ),
+ dict(name="Samsung Monitor Printed Fix", kind="Mod",
+  desc="A simple 3D printed part that makes a Samsung PC monitor usable.",
+  videos=[
+   "FeVPk1mizEg",  # 2023-03-23 Making Samsung's PC monitor usable with a simple 3D printed adapter!
+  ],
+ ),
+ dict(name="Fake Neon Sign", kind="Build",
+  desc="A fake neon sign for the YouTube channel.",
+  videos=[
+   "b3hMM8gSj_0",  # 2023-09-08 Making a (fake) Neon Sign for my (very real) YouTube Channel Name Chan
+  ],
+ ),
+ dict(name="1kW Subwoofer", kind="Build",
+  desc="A 1 kW subwoofer build.",
+  videos=[
+   "Zo_tgWfUg2A",  # 2023-11-08 This project nearly broke me... Building a 1kW Subwoofer from Hempcret
+  ],
+ ),
+ dict(name="Robot Buddy", kind="Robot",
+  desc="A new robot buddy Tom built for himself.",
+  videos=[
+   "4xD9QCBkxAs",  # 2024-07-06 I built myself a new Robot Buddy!
+  ],
+ ),
+ dict(name="3D Printer Emissions Meter", kind="Tool",
+  desc="A device to make measuring a 3D printer's emissions easier.",
+  videos=[
+   "OzFAtCZh_fM",  # 2024-11-19 I made it easier to measure your 3D printer's emissions!
+  ],
+ ),
+ dict(name="Homemade Carbon Fiber Filament", kind="Build",
+  desc="An attempt to make his own carbon fibre filament.",
+  videos=[
+   "FsrtqEE4r-8",  # 2024-12-31 How hard could it be to make my own Carbon Fiber Filament?
   ],
  ),
 ]
