@@ -1,8 +1,6 @@
-"""Curated inventions for Punished Props Academy (@punishedprops).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Punished Props Academy. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'punished-props', 'name': 'Punished Props Academy', 'person': 'Punished Props Academy', 'tagline': 'High-end replica props and the techniques behind them.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
@@ -919,6 +917,328 @@ INVENTIONS = [
   videos=[
    "zwvXUF_Z7Vk",  # 2024-11-11 I made a Tape Mate too!
    "tgCw6l9Ome0",  # 2025-08-13 Tape Mate
+  ],
+ ),
+ dict(name="Draenei Totem Replica", kind="Prop",
+  desc="World of Warcraft - Draenei Totem Replica Prop - Light Test.",
+  videos=[
+   "1euYzMA31WU",  # 2012-02-03 World of Warcraft - Draenei Totem Replica Prop - Light Test
+  ],
+ ),
+ dict(name="Mass Effect N7 Eagle Replica", kind="Prop",
+  desc="Mass Effect - N7 Eagle - Replica Prop.",
+  videos=[
+   "T-4AGKs2yCk",  # 2012-05-11 Mass Effect - N7 Eagle - Replica Prop
+  ],
+ ),
+ dict(name="Leatherman Pouch", kind="Prop",
+  desc="Prop: Shop - One Day Build - Leatherman Pouch.",
+  videos=[
+   "SbJHpnEeekU",  # 2014-06-03 Prop: Shop - One Day Build - Leatherman Pouch
+  ],
+ ),
+ dict(name="Kaijudo Gauntlet Trophy Build", kind="Prop",
+  desc="Prop: Shop - Kaijudo Gauntlet Trophy Build.",
+  videos=[
+   "jnUGOKaukh4",  # 2014-06-24 Prop: Shop - Kaijudo Gauntlet Trophy Build
+  ],
+ ),
+ dict(name="Constant C Helmet", kind="Prop",
+  desc="Prop: Shop - Constant C Helmet.",
+  videos=[
+   "_ZDRlKUOv84",  # 2014-07-08 Prop: Shop - Constant C Helmet
+  ],
+ ),
+ dict(name="Borderlands ClapTrap Puppet Build", kind="Prop",
+  desc="Prop: Shop - Borderlands ClapTrap Puppet Build.",
+  videos=[
+   "VUfPv2EjLWE",  # 2014-07-12 Prop: Shop - Borderlands ClapTrap Puppet Build
+   "PaPh3B6GU40",  # 2014-07-22 Claptrap Puppet Joust!
+  ],
+ ),
+ dict(name="Elder Scroll w/retractable Scroll Action", kind="Prop",
+  desc="Prop: Shop - Elder Scroll w/retractable Scroll Action!.",
+  videos=[
+   "nfxF75HmuXU",  # 2014-08-26 Prop: Shop - Elder Scroll w/retractable Scroll Action!
+  ],
+ ),
+ dict(name="Tomb Raider Bow Replica Build", kind="Prop",
+  desc="Prop: Shop - Tomb Raider Bow Replica Build.",
+  videos=[
+   "Eh86QS6evu0",  # 2015-05-15 Prop: Shop - Tomb Raider Bow Replica Build
+  ],
+ ),
+ dict(name="Binwin Bronzebottom Helmet Build", kind="Prop",
+  desc="Prop: Shop - Binwin Bronzebottom Helmet Build.",
+  videos=[
+   "AhKOiT_1oyo",  # 2015-09-15 Prop: Shop - Binwin Bronzebottom Helmet Build
+  ],
+ ),
+ dict(name="Destiny Festival of the Lost Paper Masks", kind="Prop",
+  desc="Prop: Shop - Destiny Festival of the Lost Paper Masks.",
+  videos=[
+   "ppLkT2XJpm0",  # 2015-10-28 Prop: Shop - Destiny Festival of the Lost Paper Masks
+  ],
+ ),
+ dict(name="R2D2 1/6th Scale Figure Diorama", kind="Prop",
+  desc="Prop: Shop - One Day Build - R2D2 1/6th Scale Figure Diorama.",
+  videos=[
+   "s4ubm4qfNXE",  # 2015-12-07 Prop: Shop - One Day Build - R2D2 1/6th Scale Figure Diorama
+  ],
+ ),
+ dict(name="Forging the For Honor Viking Axe", kind="Prop",
+  desc="Prop: Shop - Forging the For Honor Viking Axe.",
+  videos=[
+   "aqrIt64SaDU",  # 2016-07-11 Prop: Shop - Forging the For Honor Viking Axe
+  ],
+ ),
+ dict(name="Fallout 4 Mechanist Costume Assembly", kind="Prop",
+  desc="Prop: Shop - Fallout 4 Mechanist Costume Assembly.",
+  videos=[
+   "jpP0MqmAh1c",  # 2016-07-20 Prop: Shop - Fallout 4 Mechanist Costume Assembly
+  ],
+ ),
+ dict(name="Reinhardt Helmet from Overwatch with Barnacules", kind="Prop",
+  desc="Making the Reinhardt Helmet from Overwatch with Barnacules - Prop: 3D.",
+  videos=[
+   "pIvyYwsa6Jw",  # 2016-09-30 Making the Reinhardt Helmet from Overwatch with Barnacules - Prop: 3D
+  ],
+ ),
+ dict(name="Toy Prop Gun Modification", kind="Prop",
+  desc="Toy Prop Gun Modification.",
+  videos=[
+   "hGFHoTWZwNc",  # 2017-04-24 Toy Prop Gun Modification
+  ],
+ ),
+ dict(name="Foam MARVIN the MARTIAN Helmet with Ali Spags", kind="Prop",
+  desc="Making a Foam MARVIN the MARTIAN Helmet with Ali Spags!.",
+  videos=[
+   "PsiwUHbSrLA",  # 2017-07-03 Making a Foam MARVIN the MARTIAN Helmet with Ali Spags!
+  ],
+ ),
+ dict(name="Fallout 4 Thirst Zapper Prop", kind="Prop",
+  desc="Fallout 4 Thirst Zapper Prop - Assembling the 3D Printed Gun.",
+  videos=[
+   "lkFPUekIzsA",  # 2017-07-07 Fallout 4 Thirst Zapper Prop - Assembling the 3D Printed Gun
+   "80nauA6V0Ho",  # 2024-02-19 Thirst Zapper gun that works!
+  ],
+ ),
+ dict(name="EVA Foam Forearms", kind="Prop",
+  desc="EVA Foam Forearms - Destiny Sweeper Bot Build.",
+  videos=[
+   "um5qLYATu4o",  # 2017-07-13 EVA Foam Forearms - Destiny Sweeper Bot Build
+  ],
+ ),
+ dict(name="Foam Robot Arms", kind="Prop",
+  desc="Foam Robot Arms! - Destiny Sweeper Bot Build.",
+  videos=[
+   "IVBfBJPdf6c",  # 2017-07-19 Foam Robot Arms! - Destiny Sweeper Bot Build
+  ],
+ ),
+ dict(name="Foam Armor Chest Piece", kind="Prop",
+  desc="Foam Armor Chest Piece - Destiny Sweeper Bot Build.",
+  videos=[
+   "n-KAxTD9AAA",  # 2017-08-14 Foam Armor Chest Piece - Destiny Sweeper Bot Build
+  ],
+ ),
+ dict(name="Corgi Dog Masquerade Mask", kind="Prop",
+  desc="Corgi Dog Masquerade Mask - One Day Build with Domestic Dan.",
+  videos=[
+   "ThYwux5lBFo",  # 2017-10-16 Corgi Dog Masquerade Mask - One Day Build with Domestic Dan
+  ],
+ ),
+ dict(name="Custom Printed Bodysuit and Armor Attachments", kind="Prop",
+  desc="Custom Printed Bodysuit and Armor Attachments - Destiny Sweeper Bot Build.",
+  videos=[
+   "6GGz8ozzBL8",  # 2017-10-23 Custom Printed Bodysuit and Armor Attachments - Destiny Sweeper Bot Bu
+  ],
+ ),
+ dict(name="Driveable Probius", kind="Prop",
+  desc="Driveable Heroes of the Storm Probius Build! - Creating a WORKING RC Car base!.",
+  videos=[
+   "Wv6FiXJJ4zw",  # 2017-11-13 Driveable Heroes of the Storm Probius Build! - Creating a WORKING RC C
+   "wxz88P7BdXM",  # 2017-11-13 Probius Prop Build - Making a Life Sized Protoss Probe
+  ],
+ ),
+ dict(name="Modifying a Toy Pistol for DIY Film Making and Cosplay", kind="Prop",
+  desc="Modifying a Toy Pistol for DIY Film Making and Cosplay.",
+  videos=[
+   "D8_bNqBsKJQ",  # 2017-11-20 Modifying a Toy Pistol for DIY Film Making and Cosplay
+  ],
+ ),
+ dict(name="Foam Prop Space Blaster for a Film Riot Short", kind="Prop",
+  desc="Building a Foam Prop Space Blaster for a Film Riot Short.",
+  videos=[
+   "87qox8XL-qk",  # 2017-12-21 Building a Foam Prop Space Blaster for a Film Riot Short
+  ],
+ ),
+ dict(name="Real Fire Spewing Shishkebab from Fallout", kind="Prop",
+  desc="Building A Real Fire Spewing Shishkebab from Fallout - Part 1: Design.",
+  videos=[
+   "8tXS7N12bdg",  # 2018-03-19 Building A Real Fire Spewing Shishkebab from Fallout - Part 1: Design
+  ],
+ ),
+ dict(name="Astonishing Water Blaster", kind="Prop",
+  desc="Astonishing Water Blaster - with Evan & Katelyn.",
+  videos=[
+   "1sERNdfwaJM",  # 2018-08-06 Astonishing Water Blaster - with Evan & Katelyn
+  ],
+ ),
+ dict(name="Finishing my Fallout 4 Laser Pistol", kind="Prop",
+  desc="Finishing my Fallout 4 Laser Pistol! - Assembly and Awesome Painting Techniques.",
+  videos=[
+   "mfMyj4FN0J0",  # 2019-03-04 Finishing my Fallout 4 Laser Pistol! - Assembly and Awesome Painting T
+  ],
+ ),
+ dict(name="Gold Leafed Elder Scroll from SKYRIM", kind="Prop",
+  desc="Gold Leafed Elder Scroll from SKYRIM.",
+  videos=[
+   "Wvy-3lTt33w",  # 2019-06-03 Gold Leafed Elder Scroll from SKYRIM
+  ],
+ ),
+ dict(name="Nazgul Sword Prop made with Old School Techniques", kind="Prop",
+  desc="Nazgul Sword Prop made with Old School Techniques - Lord of the Rings.",
+  videos=[
+   "CuzMR2Pvurg",  # 2021-11-29 Nazgul Sword Prop made with Old School Techniques -  Lord of the Rings
+   "tGBwdoZb_Fc",  # 2025-05-14 Nazgul Sword - Made from Wood! #lotr
+  ],
+ ),
+ dict(name="Shadowheart's Artefact", kind="Prop",
+  desc="Shadowheart's Mysterious Artefact - Baldur's Gate 3 Prop Build.",
+  videos=[
+   "QX2wRp-s0kY",  # 2023-08-03 Shadowheart's Mysterious Artefact - Baldur's Gate 3 Prop Build
+  ],
+ ),
+ dict(name="Starfield Blaster Assembly with Bill and Norm", kind="Prop",
+  desc="Starfield Blaster Assembly with Bill and Norm.",
+  videos=[
+   "cZX6wqTUQsM",  # 2023-11-06 Starfield Blaster Assembly with Bill and Norm
+  ],
+ ),
+ dict(name="Karlach Costume", kind="Prop",
+  desc="I started my Karlach costume! #cosplay.",
+  videos=[
+   "HJ7InSR0yp0",  # 2024-04-19 I started my Karlach costume! #cosplay
+  ],
+ ),
+ dict(name="Axe from Grounded", kind="Prop",
+  desc="I made an axe from Grounded!.",
+  videos=[
+   "jIOD9ZbCJNw",  # 2024-04-26 I made an axe from Grounded!
+  ],
+ ),
+ dict(name="I added a squirt gun to my Nuka Cola Blaster", kind="Prop",
+  desc="I added a squirt gun to my Nuka Cola Blaster!.",
+  videos=[
+   "J-oGIs4uVzs",  # 2024-05-07 I added a squirt gun to my Nuka Cola Blaster!
+  ],
+ ),
+ dict(name="Rüna axe", kind="Prop",
+  desc="Making the Rüna axe - Quiet: Level One.",
+  videos=[
+   "xo1GfFElJwM",  # 2024-07-09 Making the Rüna axe - Quiet: Level One
+  ],
+ ),
+ dict(name="Axe made of EVA foam and epoxy clay", kind="Prop",
+  desc="Axe made of EVA foam and epoxy clay - Avowed.",
+  videos=[
+   "J3gx1hTRWbQ",  # 2025-02-18 Axe made of EVA foam and epoxy clay - Avowed
+  ],
+ ),
+ dict(name="Artificial heart replica", kind="Prop",
+  desc="I made an artificial heart replica!.",
+  videos=[
+   "cTKLvaK7Tdc",  # 2025-04-09 I made an artificial heart replica!
+  ],
+ ),
+ dict(name="Doomhammer", kind="Prop",
+  desc="Doomhammer #wow #worldofwarcraft.",
+  videos=[
+   "fvJ4Iy1E1RU",  # 2025-05-23 Doomhammer #wow #worldofwarcraft
+  ],
+ ),
+ dict(name="Dragon scales on Astrid’s helmet", kind="Prop",
+  desc="Dragon scales on Astrid’s helmet.",
+  videos=[
+   "YgCpmJzWq7A",  # 2025-06-04 Dragon scales on Astrid’s helmet
+  ],
+ ),
+ dict(name="Oblivion movie blaster", kind="Prop",
+  desc="Oblivion movie blaster.",
+  videos=[
+   "gQlfpWd41Uo",  # 2025-09-21 Oblivion movie blaster
+  ],
+ ),
+ dict(name="Scratch-Built Blaster from a Failed Mod", kind="Prop",
+  desc="Failed mod turned epic scratch build!.",
+  videos=[
+   "qisUD8vKrlQ",  # 2025-09-26 Failed mod turned epic scratch build!
+  ],
+ ),
+ dict(name="Foam Mask", kind="Prop",
+  desc="Making The Mask.",
+  videos=[
+   "407W9I0vnR4",  # 2025-09-29 Making The Mask
+  ],
+ ),
+ dict(name="Rebel Pilot Helmets", kind="Prop",
+  desc="Rebel Pilot Helmets!.",
+  videos=[
+   "sOiRYkps5Nw",  # 2025-10-11 Rebel Pilot Helmets!
+  ],
+ ),
+ dict(name="Vinyl wrapped sword", kind="Prop",
+  desc="vinyl wrapped sword.",
+  videos=[
+   "pnbvljlwwik",  # 2025-10-23 vinyl wrapped sword
+  ],
+ ),
+ dict(name="Shoe costume", kind="Prop",
+  desc="shoe costume?.",
+  videos=[
+   "7EM5gvxY4Z4",  # 2025-10-25 shoe costume?
+  ],
+ ),
+ dict(name="Moving helmet parts", kind="Prop",
+  desc="moving helmet parts.",
+  videos=[
+   "5jH8cTsfpSI",  # 2025-11-12 moving helmet parts
+  ],
+ ),
+ dict(name="Hand sculpted axe", kind="Prop",
+  desc="Hand sculpted axe.",
+  videos=[
+   "PSj7ymzMD7w",  # 2025-11-14 Hand sculpted axe
+  ],
+ ),
+ dict(name="Fake space helmet visors", kind="Prop",
+  desc="fake space helmet visors.",
+  videos=[
+   "9DZYDFrTdPY",  # 2025-12-06 fake space helmet visors
+  ],
+ ),
+ dict(name="Mask Build", kind="Prop",
+  desc="making a mask.",
+  videos=[
+   "WjDf8oZE3gk",  # 2025-12-08 making a mask
+  ],
+ ),
+ dict(name="Custom Water Blaster", kind="Prop",
+  desc="Custom Water Blaster!.",
+  videos=[
+   "dUuNbBAf45w",  # 2026-02-23 Custom Water Blaster!
+  ],
+ ),
+ dict(name="Dwarven helmet details", kind="Prop",
+  desc="dwarven helmet details.",
+  videos=[
+   "KV5WKI3pgsg",  # 2026-05-18 dwarven helmet details
+  ],
+ ),
+ dict(name="Tiny hammer", kind="Prop",
+  desc="tiny hammer.",
+  videos=[
+   "rgNAQ_MQX3Y",  # 2026-07-21 tiny hammer
   ],
  ),
 ]

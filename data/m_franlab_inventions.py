@@ -1,8 +1,6 @@
-"""Curated inventions for Fran Blanche (@franlab).
-
-Drafted by build/auto_inventions.py (builds grouped by shared key words, livestreams included, descriptions in the
-maker's own words). Every upload not listed here appears under "Other uploads" on the site.
-"""
+"""Inventions of Fran Blanche. Hand-grouped and hand-reviewed: every upload was read and labelled
+(invention / repair / tutorial / workshop / other, see data/review/). Only things the maker designed and made are
+listed here; every other upload appears under "Other uploads"."""
 
 CREATOR = {'slug': 'fran-blanche', 'name': 'Fran Blanche', 'person': 'Fran Blanche', 'tagline': 'Electronics, vintage technology and synths from Fran Lab.', 'other_label': 'Other uploads: Shorts, updates and other videos'}
 
@@ -284,6 +282,49 @@ INVENTIONS = [
   desc="From my livestream of August 10, 2025...",
   videos=[
    "4v3QxbpqqbE",  # 2025-08-11 Jim Lovell Tribute: Apollo 13 Squawk Box Prop!
+  ],
+ ),
+ dict(name="DIY Microscope", kind="Electronics",
+  desc="A microscope Fran built herself.",
+  videos=[
+   "Xsudre3t0xk",  # 2012-11-11 Ask Fran: Build Your Own Microscope!
+  ],
+ ),
+ dict(name="Arduino Firefly Jar", kind="Electronics",
+  desc="An Arduino-driven firefly jar.",
+  videos=[
+   "Ys1TY2dSzrI",  # 2012-12-06 Fran's Projects: Do It Yourself Arduino Firefly Jar with the ATmega328
+  ],
+ ),
+ dict(name="DIY Friction Welder", kind="Electronics",
+  desc="A home-made friction welder.",
+  videos=[
+   "r0zpqhhcmp4",  # 2012-12-14 Ask Fran: Build Your Own Friction Welder!
+  ],
+ ),
+ dict(name="Heathkit Clock Hack", kind="Electronics",
+  desc="A hack of a 40-year-old Heathkit clock.",
+  videos=[
+   "UidiEU5FiXM",  # 2017-11-01 40 Year Old Heathkit Clock Hack!
+  ],
+ ),
+ dict(name="3D Printed Custom Fasteners", kind="Electronics",
+  desc="Custom fasteners designed and 3D printed by Fran.",
+  videos=[
+   "D5O2pTIykW4",  # 2018-06-01 3D Printed Custom Fasteners
+   "mZg4N5vHuFU",  # 2018-11-30 Custom Fasteners
+  ],
+ ),
+ dict(name="Holiday Card Guitar Amplifier", kind="Electronics",
+  desc="A tiny guitar amplifier with fuzztone built into a holiday card.",
+  videos=[
+   "-DMsNxn7kBg",  # 2019-12-13 Holiday Card Guitar Amplifier With Fuzztone!!!
+  ],
+ ),
+ dict(name="Custom HP Omen Badge", kind="Electronics",
+  desc="A custom badge made for an HP Omen desktop.",
+  videos=[
+   "LDOLyxXXHks",  # 2020-02-11 Creating A Custom Badge For An HP Omen Desktop
   ],
  ),
 ]
